@@ -11,6 +11,7 @@ jobs:
       - uses: iffy/install-nim@v5.1.1
         with:
           version: stable
-      - run: nim r -d:ssl -d:release package_scanner.nim packages.json --check-pr --check-urls
+      - run: nim build
+      - run: ./package_scanner packages.json --check-pr --check-urls
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
