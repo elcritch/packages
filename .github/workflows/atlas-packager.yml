@@ -1,0 +1,18 @@
+on:
+  workflow_dispatch:
+
+jobs:
+  atlas-packager:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: iffy/install-nim@v5.1.1
+        with:
+          version: stable
+      - name: Clone Atlas experiment branch
+        run: git clone --depth 1 --branch experiment/packager https://github.com/nim-lang/atlas.git atlas
+      - name: Build Atlas
+        working-directory: atlas
+        run: nim build
+      - name: Run atlas-packager on pkgs
+        run: ./atlas/bin/atlas-packager packages.json pkgs
