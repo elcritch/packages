@@ -24,7 +24,7 @@ jobs:
       - name: List changed releases files
         run: |
           changed_files="$(git status --porcelain -- pkgs | sed 's/^...//')"
-          releases_files="$(printf '%s\n' "$changed_files" | rg '/releases\.json$' || true)"
+          releases_files="$(printf '%s\n' "$changed_files" | grep '/releases\.json$' || true)"
           if [ -z "$releases_files" ]; then
             echo "No changed releases.json files"
             exit 0
@@ -33,7 +33,7 @@ jobs:
       - name: Commit and push releases updates
         run: |
           changed_files="$(git status --porcelain -- pkgs | sed 's/^...//')"
-          releases_files="$(printf '%s\n' "$changed_files" | rg '/releases\.json$' || true)"
+          releases_files="$(printf '%s\n' "$changed_files" | grep '/releases\.json$' || true)"
           if [ -z "$releases_files" ]; then
             echo "No changed releases.json files to commit"
             exit 0
