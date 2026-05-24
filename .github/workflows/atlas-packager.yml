@@ -13,6 +13,6 @@ jobs:
         run: git clone --depth 1 --branch experiment/packager https://github.com/nim-lang/atlas.git atlas
       - name: Build Atlas
         working-directory: atlas
-        run: nim build
+        run: nim buildRelease
       - name: Run atlas-packager on pkgs
         run: ./atlas/bin/atlas-packager packages.json pkgs
