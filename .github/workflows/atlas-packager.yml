@@ -15,4 +15,4 @@ jobs:
         working-directory: atlas
         run: nim buildRelease
       - name: Run atlas-packager on pkgs
-        run: ./atlas/bin/atlas-packager packages.json pkgs
+        run: ./atlas/bin/atlas-packager packages.json pkgs --no-tarballs --ephemeral -u
