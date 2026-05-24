@@ -1,0 +1,347 @@
+{
+  "missing": {
+    "StripeKit": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/s/StripeKit/StripeKit.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "apt_brain": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/a/apt_brain/apt_brain.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "bs": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/b/bs/bs.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "csv2json": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/c/csv2json/csv2json.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "dogen": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/d/dogen/dogen.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "elfcore": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/e/elfcore/elfcore.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "flower": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/f/flower/flower.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "gemf": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/g/gemf/gemf.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://bitbucket.org': terminal prompts disabled"
+    },
+    "geonames": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/g/geonames/geonames.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "gpx": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/g/gpx/gpx.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "grp": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/g/grp/grp.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "htmlview": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/h/htmlview/htmlview.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "isa": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/i/isa/isa.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "libjwt": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/l/libjwt/libjwt.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "libuv": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/l/libuv/libuv.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "mangle": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/m/mangle/mangle.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "miter": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/m/miter/miter.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "musicSort": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/m/musicSort/musicSort.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "namenumbersort": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/n/namenumbersort/namenumbersort.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "nimQBittorrent": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/n/nimQBittorrent/nimQBittorrent.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "nimcx": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/n/nimcx/nimcx.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "nimpacket": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/n/nimpacket/nimpacket.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "nimtrace": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/n/nimtrace/nimtrace.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "nimx2": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/n/nimx2/nimx2.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "origin": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/o/origin/origin.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "pdba": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/p/pdba/pdba.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "playlists": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/p/playlists/playlists.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "pwd": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/p/pwd/pwd.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "qrcode": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/q/qrcode/qrcode.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "romans": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/r/romans/romans.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "sampleTodoList": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/s/sampleTodoList/sampleTodoList.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "shmk": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/s/shmk/shmk.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://gitlab.com': terminal prompts disabled"
+    },
+    "sndhdr": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/s/sndhdr/sndhdr.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "spwd": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/s/spwd/spwd.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "sweetanitify": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/s/sweetanitify/sweetanitify.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "twim": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/t/twim/twim.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "vexbox": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/v/vexbox/vexbox.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "vorbis": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/v/vorbis/vorbis.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://bitbucket.org': terminal prompts disabled"
+    },
+    "BN": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/b/BN/BN.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "base64_decoder": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/b/base64_decoder/base64_decoder.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "blimp": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/b/blimp/blimp.git'... fatal: unable to access 'https://gitlab.3dicc.com/gokr/blimp/': Failed to connect to gitlab.3dicc.com port 443 after 74994 ms: Could not connect to server"
+    },
+    "pigeon": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/p/pigeon/pigeon.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "portaudio": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/p/portaudio/portaudio.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://bitbucket.org': terminal prompts disabled"
+    },
+    "pythonmath": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/p/pythonmath/pythonmath.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "redneck_translator": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/r/redneck_translator/redneck_translator.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "rpgsheet": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/r/rpgsheet/rpgsheet.git'... fatal: unable to access 'https://git.skylarhill.me/skylar/rpgsheet/': Could not resolve host: git.skylarhill.me"
+    },
+    "sas": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/s/sas/sas.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "skbintext": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/s/skbintext/skbintext.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "sol": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/s/sol/sol.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "stor": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/s/stor/stor.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "the_nim_alliance": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/t/the_nim_alliance/the_nim_alliance.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "uf2lib": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/u/uf2lib/uf2lib.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "vexhost": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/v/vexhost/vexhost.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "wpspin": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/w/wpspin/wpspin.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "NimNN": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/n/NimNN/NimNN.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "asyncevents": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/a/asyncevents/asyncevents.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "blackvas_cli": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/b/blackvas_cli/blackvas_cli.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "composition": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/c/composition/composition.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "dan_magaji": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/d/dan_magaji/dan_magaji.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "dotprov": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/d/dotprov/dotprov.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "epub": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/e/epub/epub.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "ffbookmarks": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/f/ffbookmarks/ffbookmarks.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "forestdb": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/f/forestdb/forestdb.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "gentabs": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/g/gentabs/gentabs.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "gimei": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/g/gimei/gimei.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "gradient": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/g/gradient/gradient.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "gurl": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/g/gurl/gurl.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "icecream": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/i/icecream/icecream.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "itn": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/i/itn/itn.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "libsaedea": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/l/libsaedea/libsaedea.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "linagl": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/l/linagl/linagl.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://bitbucket.org': terminal prompts disabled"
+    },
+    "mc_events": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/m/mc_events/mc_events.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "ms": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/m/ms/ms.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "nage": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/n/nage/nage.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "nim-nmap": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/n/nim-nmap/nim-nmap.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "nimautogui": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/n/nimautogui/nimautogui.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "nimmicrograd": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/n/nimmicrograd/nimmicrograd.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "nimtools": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/n/nimtools/nimtools.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "nish": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/n/nish/nish.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "noaa": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/n/noaa/noaa.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "pathutils": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/p/pathutils/pathutils.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "pdcurses": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/p/pdcurses/pdcurses.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "psy": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/p/psy/psy.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "qeu": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/q/qeu/qeu.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "ris": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/r/ris/ris.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "run_exe": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/r/run_exe/run_exe.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "scrypt.nim": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/s/scrypt.nim/scrypt.nim.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://bitbucket.org': terminal prompts disabled"
+    },
+    "skyhash": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/s/skyhash/skyhash.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "spdk": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/s/spdk/spdk.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "subviewer": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/s/subviewer/subviewer.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "tome": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/t/tome/tome.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "uri2": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/u/uri2/uri2.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "vidhdr": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/v/vidhdr/vidhdr.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "yukiko": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/y/yukiko/yukiko.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "Echon": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/e/Echon/Echon.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "artemis": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/a/artemis/artemis.git'... fatal: unable to access 'https://git.skylarhill.me/skylar/artemis/': Could not resolve host: git.skylarhill.me"
+    },
+    "binance": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/b/binance/binance.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "coverartarchive": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/c/coverartarchive/coverartarchive.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "darwinmetrics": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/d/darwinmetrics/darwinmetrics.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "dpdk": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/d/dpdk/dpdk.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "extmath": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/e/extmath/extmath.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "fileinput": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/f/fileinput/fileinput.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "freegeoip": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/f/freegeoip/freegeoip.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "geoip": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/g/geoip/geoip.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "gitapi": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/g/gitapi/gitapi.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "gravatar": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/g/gravatar/gravatar.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "hats": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/h/hats/hats.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "inumon": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/i/inumon/inumon.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    },
+    "lapp": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/l/lapp/lapp.git'... fatal: unable to access 'https://gitlab.3dicc.com/gokr/lapp/': Failed to connect to gitlab.3dicc.com port 443 after 75004 ms: Could not connect to server"
+    },
+    "yahooweather": {
+      "details": "cannot clone mirrored repo: NotFound: Cloning into bare repository '/usr/local/www/atlas-packages/y/yahooweather/yahooweather.git'... error: unable to read askpass response from '/usr/bin/false' fatal: could not read Username for 'https://github.com': terminal prompts disabled"
+    }
+  },
+  "clone": {
+    "gapbuffer": {
+      "details": "cannot clone mirrored repo: NotFound: not found"
+    }
+  },
+  "unknown": {
+    "vector": {
+      "details": "Bad file descriptor"
+    },
+    "AccurateSums": {
+      "details": "could not update mirrored repo"
+    }
+  }
+}
