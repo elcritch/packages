@@ -191,6 +191,33 @@ suite "package_index":
     check manifest[0]["name"].getStr() == "Alpha"
     check manifest[1]["name"].getStr() == "Beta"
 
+
+  test "create-alias prompts for alias metadata without regenerating packages.json":
+    let dir = tempDir("nim-packages-index-create-alias")
+    let manifestPath = dir / "packages.json"
+    let shardRoot = dir / "pkgs"
+
+    writeJsonFile(manifestPath, %*[packageNode("Alpha")])
+    runOk("nim r -d:ssl " & quoteShell(root / "package_index.nim") &
+      " split packages.json pkgs", dir)
+
+    runOk("""
+cat <<'EOF' | nim r -d:ssl """ & quoteShell(root / "package_index.nim") & """ create-alias pkgs packages.json
+AlphaOld
+Alpha
+EOF
+""", dir)
+
+    check fileExists(shardRoot / "a" / "AlphaOld" / "package.json")
+    let created = parseFile(shardRoot / "a" / "AlphaOld" / "package.json")
+    check created["name"].getStr() == "AlphaOld"
+    check created["alias"].getStr() == "Alpha"
+    check not created.hasKey("url")
+
+    let manifest = parseFile(manifestPath)
+    check manifest.len == 1
+    check manifest[0]["name"].getStr() == "Alpha"
+
   test "create prompts for metadata without regenerating packages.json":
     let dir = tempDir("nim-packages-index-create")
     let manifestPath = dir / "packages.json"
@@ -202,7 +229,6 @@ suite "package_index":
 
     runOk("""
 cat <<'EOF' | nim r -d:ssl """ & quoteShell(root / "package_index.nim") & """ create pkgs packages.json
-n
 Beta
 https://example.com/beta
 git

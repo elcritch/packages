@@ -17,6 +17,7 @@ Usage:
   package_index sync-git <base-rev> <head-rev> [packages.json] [pkgs-dir]
   package_index add <package.json> [pkgs-dir] [packages.json]
   package_index create [pkgs-dir] [packages.json]
+  package_index create-alias [pkgs-dir] [packages.json]
   package_index remove <package-name> [pkgs-dir] [packages.json]
   package_index [pkgs-dir] [packages.json]
 
@@ -27,8 +28,9 @@ Commands:
   sync-git  Synchronize packages.json and pkgs/ using git revisions.
             Defaults to comparing master..HEAD when revisions are omitted.
   add       Add one package metadata file into pkgs/ and regenerate packages.json.
-  create    Prompt for package metadata, write pkgs/, and regenerate packages.json.
-  remove    Remove one package from pkgs/ and regenerate packages.json.
+  create    Prompt for normal package metadata and write pkgs/.
+  create-alias Prompt for alias package metadata and write pkgs/.
+  remove    Remove one package from pkgs/.
 
 Help:
   Running `package_index` with no arguments prints this help text.
@@ -55,16 +57,20 @@ Sync-git arguments:
 Add arguments:
   package.json   Input package metadata JSON file
   pkgs-dir       Shard directory to update. Default: pkgs
-  packages.json  Manifest path to regenerate. Default: packages.json
+  packages.json  Unused compatibility argument. Default: packages.json
 
 Create arguments:
   pkgs-dir       Shard directory to update. Default: pkgs
-  packages.json  Manifest path to regenerate. Default: packages.json
+  packages.json  Unused compatibility argument. Default: packages.json
+
+Create-alias arguments:
+  pkgs-dir       Shard directory to update. Default: pkgs
+  packages.json  Unused compatibility argument. Default: packages.json
 
 Remove arguments:
   package-name   Package name to remove
   pkgs-dir       Shard directory to update. Default: pkgs
-  packages.json  Manifest path to regenerate. Default: packages.json
+  packages.json  Unused compatibility argument. Default: packages.json
 """
 
 type
@@ -341,14 +347,6 @@ proc promptRequired(message, fieldName: string): string =
   if result.len == 0:
     die(fieldName & " must not be empty")
 
-proc promptYesNo(message: string): bool =
-  let answer = prompt(message).toLowerAscii()
-  if answer.len == 0 or answer in ["n", "no"]:
-    return false
-  if answer in ["y", "yes"]:
-    return true
-  die("please answer y or n")
-
 proc parseTagsInput(value: string): JsonNode =
   result = newJArray()
   for part in value.split(','):
@@ -357,14 +355,9 @@ proc parseTagsInput(value: string): JsonNode =
       result.add(%tag)
 
 proc createPackageMetadata(): JsonNode =
-  let isAlias = promptYesNo("Alias package? [y/N]: ")
   let name = promptRequired("Package name: ", "package name")
   result = newJObject()
   result["name"] = %name
-
-  if isAlias:
-    result["alias"] = %promptRequired("Alias target name: ", "alias")
-    return
 
   result["url"] = %promptRequired("Repository URL: ", "url")
   result["method"] = %promptRequired("Method (git/hg): ", "method")
@@ -383,6 +376,17 @@ proc createPackageMetadata(): JsonNode =
 proc createPackage(shardRoot, manifestPath: string) =
   let pkg = createPackageMetadata()
   addPackageNode(pkg, "<interactive>", shardRoot)
+
+proc createAliasPackageMetadata(): JsonNode =
+  let name = promptRequired("Alias package name: ", "package name")
+  let alias = promptRequired("Alias target name: ", "alias")
+  result = newJObject()
+  result["name"] = %name
+  result["alias"] = %alias
+
+proc createAliasPackage(shardRoot, manifestPath: string) =
+  let pkg = createAliasPackageMetadata()
+  addPackageNode(pkg, "<interactive-alias>", shardRoot)
 
 proc removePackage(packageNameToRemove, shardRoot, manifestPath: string) =
   if packageNameToRemove.len == 0:
@@ -583,6 +587,17 @@ proc cliMain(): int =
     let shardRoot = if positional.len >= 2: positional[1] else: "pkgs"
     let manifestPath = if positional.len >= 3: positional[2] else: "packages.json"
     createPackage(shardRoot, manifestPath)
+    return 0
+
+  if positional.len > 0 and positional[0] == "create-alias":
+    if positional.len > 3:
+      stderr.writeLine("error: create-alias accepts at most 2 arguments")
+      stderr.write(Usage)
+      return 1
+
+    let shardRoot = if positional.len >= 2: positional[1] else: "pkgs"
+    let manifestPath = if positional.len >= 3: positional[2] else: "packages.json"
+    createAliasPackage(shardRoot, manifestPath)
     return 0
 
   if positional.len > 0 and positional[0] == "remove":
