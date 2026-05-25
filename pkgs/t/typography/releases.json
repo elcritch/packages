@@ -366,13 +366,15 @@
   },
   "allDeps": {
     "packages": [
-      "bumpy <= 0.7.13",
-      "chroma <= 0.7.13",
+      "bumpy",
+      "chroma",
+      "crunchy > 0.3.3",
       "faststreams <= 0.3.3",
-      "flatty > 0.7.1 & <= 0.7.13",
+      "flatty > 0.3.3",
       "flippy <= 0.3.3",
-      "mddoc <= 0.7.13",
+      "mddoc",
       "nimPNG <= 0.3.3",
+      "nimsimd > 0.3.3",
       "pixie > 0.3.3",
       "print",
       "results <= 0.3.3",
@@ -381,11 +383,10 @@
       "stew <= 0.3.3",
       "supersnappy <= 0.3.3",
       "unittest2 <= 0.3.3",
-      "vmath <= 0.7.13"
+      "vmath",
+      "zippy > 0.3.3"
     ],
     "urls": [],
-    "unresolved": [
-      "pixie"
-    ]
+    "unresolved": []
   }
 }

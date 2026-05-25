@@ -443,12 +443,14 @@
       "bumpy",
       "chroma",
       "cligen > 0.3.2",
+      "crunchy",
       "faststreams",
       "flatty",
       "flippy",
       "html5_canvas",
       "mddoc",
       "nimPNG",
+      "nimsimd",
       "opengl",
       "pixie",
       "print",
@@ -461,11 +463,10 @@
       "typography",
       "unittest2",
       "vmath",
-      "x11"
+      "x11",
+      "zippy"
     ],
     "urls": [],
-    "unresolved": [
-      "pixie"
-    ]
+    "unresolved": []
   }
 }

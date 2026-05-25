@@ -147,20 +147,25 @@
   "allDeps": {
     "packages": [
       "arraymancer",
+      "bumpy",
       "cairo",
       "chroma",
       "clblast",
       "cligen > 0.3.0",
+      "crunchy",
       "datamancer",
+      "flatty",
       "fusion",
       "ggplotnim",
       "ginger",
       "latexdsl",
+      "mddoc",
       "nimblas",
       "nimcl",
       "nimcuda",
       "nimlapack",
       "nimpy",
+      "nimsimd",
       "numericalnim > 0.3.0",
       "opencl",
       "parsetoml",
@@ -174,16 +179,17 @@
       "threading",
       "unchained",
       "untar",
+      "vmath",
       "webview",
-      "zip"
+      "zip",
+      "zippy"
     ],
     "urls": [],
     "unresolved": [
       "gh:HugoGranstrom/cdt",
       "gh:Vindaar/seqmath",
       "gh:Vindaar/webview",
-      "gh:zetashift/fontim",
-      "pixie"
+      "gh:zetashift/fontim"
     ]
   }
 }

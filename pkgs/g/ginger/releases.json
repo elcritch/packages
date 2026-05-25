@@ -525,27 +525,33 @@
   "allDeps": {
     "packages": [
       "arraymancer > 0.2.12",
+      "bumpy > 0.3.12",
       "cairo",
       "chroma",
       "clblast > 0.2.12",
+      "crunchy > 0.3.12",
       "datamancer > 0.2.12",
+      "flatty > 0.3.12",
       "latexdsl > 0.2.12",
+      "mddoc > 0.3.12",
       "nimblas > 0.2.12",
       "nimcl > 0.2.12",
       "nimcuda > 0.2.12",
       "nimlapack > 0.2.12",
+      "nimsimd > 0.3.12",
       "opencl > 0.2.12",
       "pixie > 0.3.12",
       "shell > 0.2.12",
       "stb_image > 0.2.12",
       "untar > 0.2.12",
-      "zip > 0.2.12"
+      "vmath > 0.3.12",
+      "zip > 0.2.12",
+      "zippy > 0.3.12"
     ],
     "urls": [],
     "unresolved": [
       "gh:Vindaar/seqmath",
-      "gh:zetashift/fontim",
-      "pixie"
+      "gh:zetashift/fontim"
     ]
   }
 }

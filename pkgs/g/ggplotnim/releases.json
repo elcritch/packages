@@ -942,18 +942,23 @@
   "allDeps": {
     "packages": [
       "arraymancer",
+      "bumpy",
       "cairo",
       "chroma",
       "clblast",
+      "crunchy",
       "datamancer",
+      "flatty",
       "fusion > 0.4.3",
       "ginger",
       "latexdsl",
+      "mddoc",
       "nimblas",
       "nimcl",
       "nimcuda",
       "nimlapack",
       "nimpy > 0.4.3",
+      "nimsimd",
       "opencl",
       "parsetoml > 0.6.3",
       "persvector <= 0.3.25",
@@ -965,15 +970,16 @@
       "stb_image",
       "threading > 0.4.3",
       "untar",
+      "vmath",
       "webview > 0.3.20 & <= 0.7.5",
-      "zip"
+      "zip",
+      "zippy"
     ],
     "urls": [],
     "unresolved": [
       "gh:Vindaar/seqmath",
       "gh:Vindaar/webview",
-      "gh:zetashift/fontim",
-      "pixie"
+      "gh:zetashift/fontim"
     ]
   }
 }

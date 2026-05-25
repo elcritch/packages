@@ -884,18 +884,21 @@
     "packages": [
       "bumpy",
       "cdecl > 0.2.8 & <= 0.2.10",
+      "chroma <= 0.13.6",
+      "crunchy <= 0.13.6",
+      "flatty <= 0.13.6",
       "macroutils",
       "mddoc",
+      "nimsimd <= 0.13.6",
       "patty",
       "pixie <= 0.13.6",
       "pretty > 0.2.10",
       "print <= 0.2.10",
       "stack_strings > 0.2.10",
-      "vmath"
+      "vmath",
+      "zippy <= 0.13.6"
     ],
     "urls": [],
-    "unresolved": [
-      "pixie"
-    ]
+    "unresolved": []
   }
 }

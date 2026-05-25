@@ -38,10 +38,20 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:25Z",
+  "generatedAt": "2026-05-25T13:07:40Z",
   "allDeps": {
     "packages": [],
     "urls": [],
     "unresolved": []
+  },
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "4.0.0"
+    ],
+    "latest": "4.0.0"
   }
 }

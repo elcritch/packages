@@ -162,12 +162,15 @@
       "bumpy",
       "chroma",
       "classy",
+      "crunchy",
+      "flatty",
       "fusion",
       "jnim",
       "mddoc",
       "nimboost",
       "nimfp",
       "nimgl",
+      "nimsimd",
       "opengl",
       "patty",
       "pixie",
@@ -177,14 +180,14 @@
       "vmath",
       "winim",
       "with",
-      "x11"
+      "x11",
+      "zippy"
     ],
     "urls": [],
     "unresolved": [
       "gh:levovix0/rice",
       "gh:planetis-m/vulkan",
-      "gh:yglukhov/android",
-      "pixie"
+      "gh:yglukhov/android"
     ]
   }
 }

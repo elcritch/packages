@@ -244,13 +244,18 @@
   },
   "allDeps": {
     "packages": [
+      "bumpy > 0.1.0",
       "chroma > 0.1.0",
       "commandeer > 1.0.1 & <= 1.1.4",
+      "crunchy > 0.1.0",
       "docopt > 0.1.0 & <= 1.0.1",
+      "flatty > 0.1.0",
       "graphemes > 0.1.0 & <= 1.0.1",
       "harpoon > 1.1.5 & <= 1.1.9",
       "kdl <= 0.1.0",
       "libcurl > 1.1.9",
+      "mddoc > 0.1.0",
+      "nimsimd > 0.1.0",
       "pixie > 0.1.0",
       "progress > 0.1.0",
       "puppy > 1.1.9",
@@ -260,13 +265,12 @@
       "unicodedb > 0.1.0 & <= 1.0.1",
       "unicodeplus > 0.1.0 & <= 1.0.1",
       "urlly > 1.1.9",
+      "vmath > 0.1.0",
       "webby > 1.1.9",
       "winim > 1.1.9",
-      "zippy > 1.1.5"
+      "zippy > 0.1.0"
     ],
     "urls": [],
-    "unresolved": [
-      "pixie"
-    ]
+    "unresolved": []
   }
 }

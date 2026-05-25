@@ -246,7 +246,12 @@
   "allDeps": {
     "packages": [
       "bitty",
+      "bumpy",
+      "chroma",
+      "crunchy",
+      "flatty",
       "mddoc",
+      "nimsimd",
       "opengl",
       "pixie",
       "shady > 0.3.4",
@@ -254,11 +259,10 @@
       "vmath",
       "windy > 0.4.4",
       "ws > 0.4.4",
-      "x11"
+      "x11",
+      "zippy"
     ],
     "urls": [],
-    "unresolved": [
-      "pixie"
-    ]
+    "unresolved": []
   }
 }

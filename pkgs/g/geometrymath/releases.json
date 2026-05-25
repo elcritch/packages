@@ -22,10 +22,23 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:11Z",
+  "generatedAt": "2026-05-25T13:07:30Z",
   "allDeps": {
     "packages": [],
     "urls": [],
     "unresolved": []
+  },
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v1.0.0"
+    ],
+    "tagVersions": {
+      "v1.0.0": "1.0.0"
+    },
+    "latest": "v1.0.0"
   }
 }

@@ -42,10 +42,13 @@
     "packages": [
       "bumpy",
       "chroma",
+      "crunchy",
       "dx12",
+      "flatty",
       "jsony",
       "mddoc",
       "metal4",
+      "nimsimd",
       "opengl",
       "pixie",
       "shady",
@@ -55,11 +58,10 @@
       "vmath",
       "windy",
       "ws",
-      "x11"
+      "x11",
+      "zippy"
     ],
     "urls": [],
-    "unresolved": [
-      "pixie"
-    ]
+    "unresolved": []
   }
 }

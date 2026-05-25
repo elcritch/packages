@@ -141,9 +141,14 @@
     "packages": [
       "bitty",
       "boxy",
+      "bumpy",
+      "chroma",
+      "crunchy",
+      "flatty",
       "glfw > 1.0.23",
       "iniplus > 1.0.23",
       "mddoc",
+      "nimsimd",
       "opengl",
       "pixie",
       "shady",
@@ -153,12 +158,12 @@
       "weave > 1.0.23",
       "windy",
       "ws",
-      "x11"
+      "x11",
+      "zippy"
     ],
     "urls": [],
     "unresolved": [
-      "gh:xTrayambak/boxy",
-      "pixie"
+      "gh:xTrayambak/boxy"
     ]
   }
 }

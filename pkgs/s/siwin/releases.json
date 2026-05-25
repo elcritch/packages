@@ -369,13 +369,17 @@
   },
   "allDeps": {
     "packages": [
+      "bumpy > 0.9.3",
       "chroma > 0.3",
       "classy > 0.8 & <= 0.8.4.1",
+      "crunchy > 0.9.3",
+      "flatty > 0.9.3",
       "jnim > 0.8 & <= 0.8.4.1",
       "mddoc > 0.5.3",
       "nimboost > 0.8 & <= 0.8.4.1",
       "nimfp > 0.8 & <= 0.8.4.1",
       "nimgl > 0.9.3",
+      "nimsimd > 0.9.3",
       "opengl > 0.9.3",
       "patty > 0.8 & <= 0.8.4.1",
       "pixie > 0.9.3",
@@ -383,13 +387,13 @@
       "vmath > 0.5.3",
       "winim > 0.7.3 & <= 0.8.4.1",
       "with <= 0.3",
-      "x11 > 0.7.3"
+      "x11 > 0.7.3",
+      "zippy > 0.9.3"
     ],
     "urls": [],
     "unresolved": [
       "gh:planetis-m/vulkan",
-      "gh:yglukhov/android",
-      "pixie"
+      "gh:yglukhov/android"
     ]
   }
 }

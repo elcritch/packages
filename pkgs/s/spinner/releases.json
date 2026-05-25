@@ -71,6 +71,7 @@
       "bumpy",
       "chroma",
       "cligen",
+      "crunchy",
       "faststreams",
       "fidget",
       "flatty",
@@ -79,6 +80,7 @@
       "html5_canvas",
       "mddoc",
       "nimPNG",
+      "nimsimd",
       "opengl",
       "pixie",
       "print",
@@ -91,12 +93,12 @@
       "typography",
       "unittest2",
       "vmath",
-      "x11"
+      "x11",
+      "zippy"
     ],
     "urls": [],
     "unresolved": [
-      "gradient",
-      "pixie"
+      "gradient"
     ]
   }
 }

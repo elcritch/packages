@@ -324,17 +324,20 @@
   "generatedAt": "2026-05-25T11:51:29Z",
   "allDeps": {
     "packages": [
+      "bumpy",
       "chroma",
+      "crunchy",
+      "flatty",
       "mddoc",
       "nimsimd",
       "pixie",
-      "vmath"
+      "vmath",
+      "zippy"
     ],
     "urls": [],
     "unresolved": [
       "gh:Chlumsky/msdfgen",
-      "gh:ShoYamanishi/SDFont",
-      "pixie"
+      "gh:ShoYamanishi/SDFont"
     ]
   }
 }

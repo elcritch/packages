@@ -62,17 +62,19 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:22Z",
+  "generatedAt": "2026-05-25T13:07:38Z",
   "allDeps": {
     "packages": [
-      "bumpy > 0.1.0",
+      "bumpy",
       "chroma",
+      "crunchy",
       "dx12 > 0.1.0",
       "flatty",
       "fluffy > 0.1.0",
       "jsony > 0.1.0",
       "mddoc",
       "metal4 > 0.1.0",
+      "nimsimd",
       "opengl",
       "pixie",
       "shady > 0.1.0",
@@ -83,11 +85,22 @@
       "webby",
       "windy",
       "ws",
-      "x11"
+      "x11",
+      "zippy"
     ],
     "urls": [],
-    "unresolved": [
-      "pixie"
-    ]
+    "unresolved": []
+  },
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.1.0",
+      "0.1.1",
+      "0.2.0"
+    ],
+    "latest": "0.2.0"
   }
 }

@@ -414,13 +414,14 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:23Z",
+  "generatedAt": "2026-05-25T13:07:39Z",
   "allDeps": {
     "packages": [
       "bump > 3.0.1",
       "bumpy > 1.1.3 & <= 3.0.12",
       "chroma > 1.1.3 & <= 3.0.12",
       "cligen",
+      "crunchy > 1.1.3 & <= 3.0.12",
       "faststreams > 1.1.3 & <= 3.0.12",
       "flatty > 1.1.3 & <= 3.0.12",
       "flippy > 1.1.3 & <= 3.0.12",
@@ -432,6 +433,7 @@
       "nimPNG > 1.1.3 & <= 3.0.12",
       "nimetry > 1.1.3 & <= 3.0.12",
       "nimgit2 > 2.3.1 & <= 3.0.12",
+      "nimsimd > 1.1.3 & <= 3.0.12",
       "nimterop > 2.3.1",
       "pixie > 1.1.3 & <= 3.0.12",
       "print > 1.1.3 & <= 3.0.12",
@@ -447,7 +449,8 @@
       "unicodedb > 2.3.1",
       "unicodeplus > 2.3.1",
       "unittest2 > 1.1.3 & <= 3.0.12",
-      "vmath > 1.1.3 & <= 3.0.12"
+      "vmath > 1.1.3 & <= 3.0.12",
+      "zippy > 1.1.3 & <= 3.0.12"
     ],
     "urls": [],
     "unresolved": [
@@ -457,8 +460,35 @@
       "gh:disruptek/msgpack4nim",
       "gh:disruptek/nim-terminaltables",
       "gh:disruptek/testes",
-      "gh:genotrance/nimgit2",
-      "pixie"
+      "gh:genotrance/nimgit2"
     ]
+  },
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "1.1.2",
+      "2.1.0",
+      "2.3.0",
+      "2.3.1",
+      "2.4.0",
+      "2.4.1",
+      "3.0.0",
+      "3.0.1",
+      "3.0.10",
+      "3.0.11",
+      "3.0.12",
+      "3.0.13",
+      "3.0.14",
+      "3.0.15",
+      "3.0.3",
+      "3.0.6",
+      "3.0.7",
+      "3.0.8",
+      "3.0.9"
+    ],
+    "latest": "3.0.15"
   }
 }

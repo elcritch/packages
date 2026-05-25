@@ -42,18 +42,22 @@
   },
   "allDeps": {
     "packages": [
+      "bumpy",
+      "chroma",
+      "crunchy",
+      "flatty",
       "mddoc",
+      "nimsimd",
       "opengl",
       "pixie",
       "urlly",
       "vmath",
       "windy",
       "ws",
-      "x11"
+      "x11",
+      "zippy"
     ],
     "urls": [],
-    "unresolved": [
-      "pixie"
-    ]
+    "unresolved": []
   }
 }

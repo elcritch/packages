@@ -92,18 +92,24 @@
   "generatedAt": "2026-05-25T11:47:26Z",
   "allDeps": {
     "packages": [
+      "bumpy > 0.1.0",
+      "chroma > 0.1.0",
+      "crunchy > 0.1.0",
       "darwin",
+      "flatty > 0.1.0",
+      "mddoc > 0.1.0",
+      "nimsimd > 0.1.0",
       "opengl > 0.1.0",
       "pixie > 0.1.0",
       "sdl2 > 0.1.0",
       "urlly > 0.1.0",
+      "vmath > 0.1.0",
       "windy > 0.1.0",
       "ws > 0.1.0",
-      "x11 > 0.1.0"
+      "x11 > 0.1.0",
+      "zippy > 0.1.0"
     ],
     "urls": [],
-    "unresolved": [
-      "pixie"
-    ]
+    "unresolved": []
   }
 }

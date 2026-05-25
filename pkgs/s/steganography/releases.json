@@ -38,12 +38,15 @@
   "generatedAt": "2026-05-25T11:52:18Z",
   "allDeps": {
     "packages": [
-      "bumpy <= 0.1.0",
-      "chroma <= 0.1.0",
+      "bumpy",
+      "chroma",
+      "crunchy > 0.1.0",
       "faststreams <= 0.1.0",
+      "flatty > 0.1.0",
       "flippy <= 0.1.0",
-      "mddoc <= 0.1.0",
+      "mddoc",
       "nimPNG <= 0.1.0",
+      "nimsimd > 0.1.0",
       "pixie > 0.1.0",
       "print <= 0.1.0",
       "results <= 0.1.0",
@@ -52,11 +55,10 @@
       "stew <= 0.1.0",
       "supersnappy <= 0.1.0",
       "unittest2 <= 0.1.0",
-      "vmath <= 0.1.0"
+      "vmath",
+      "zippy > 0.1.0"
     ],
     "urls": [],
-    "unresolved": [
-      "pixie"
-    ]
+    "unresolved": []
   }
 }

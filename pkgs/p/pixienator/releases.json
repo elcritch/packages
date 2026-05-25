@@ -40,12 +40,18 @@
   "generatedAt": "2026-05-25T11:50:28Z",
   "allDeps": {
     "packages": [
+      "bumpy",
+      "chroma",
+      "crunchy",
       "delaunator",
-      "pixie"
+      "flatty",
+      "mddoc",
+      "nimsimd",
+      "pixie",
+      "vmath",
+      "zippy"
     ],
     "urls": [],
-    "unresolved": [
-      "pixie"
-    ]
+    "unresolved": []
   }
 }

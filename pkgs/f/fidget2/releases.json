@@ -190,10 +190,15 @@
     "packages": [
       "bitty",
       "boxy",
+      "bumpy",
+      "chroma",
       "cligen",
+      "crunchy",
+      "flatty",
       "jsony",
       "libcurl",
       "mddoc",
+      "nimsimd",
       "opengl",
       "pixie",
       "puppy",
@@ -209,8 +214,6 @@
       "zippy"
     ],
     "urls": [],
-    "unresolved": [
-      "pixie"
-    ]
+    "unresolved": []
   }
 }

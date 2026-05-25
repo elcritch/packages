@@ -2256,10 +2256,11 @@
       "chronicles",
       "classy",
       "cligen <= 0.14.2",
+      "crunchy",
       "darwin > 0.11.0",
       "faststreams",
       "fidget <= 0.14.2",
-      "flatty <= 0.14.2",
+      "flatty",
       "flippy <= 0.14.2",
       "html5_canvas <= 0.14.2",
       "jnim",
@@ -2302,7 +2303,8 @@
       "with",
       "ws > 0.2.0",
       "x11",
-      "xkb > 0.18.9"
+      "xkb > 0.18.9",
+      "zippy"
     ],
     "urls": [],
     "unresolved": [
@@ -2313,8 +2315,7 @@
       "gh:planetis-m/vulkan",
       "gh:ShoYamanishi/SDFont",
       "gh:xTrayambak/nayland",
-      "gh:yglukhov/android",
-      "pixie"
+      "gh:yglukhov/android"
     ]
   }
 }

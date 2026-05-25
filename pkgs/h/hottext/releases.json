@@ -51,11 +51,13 @@
     "packages": [
       "bumpy",
       "chroma",
+      "crunchy",
       "faststreams",
       "flatty",
       "flippy",
       "mddoc",
       "nimPNG",
+      "nimsimd",
       "pixie",
       "print",
       "results",
@@ -66,11 +68,10 @@
       "supersnappy",
       "typography",
       "unittest2",
-      "vmath"
+      "vmath",
+      "zippy"
     ],
     "urls": [],
-    "unresolved": [
-      "pixie"
-    ]
+    "unresolved": []
   }
 }

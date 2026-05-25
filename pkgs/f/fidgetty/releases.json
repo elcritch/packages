@@ -123,17 +123,19 @@
   "allDeps": {
     "packages": [
       "asynctools > 0.2.2",
-      "bumpy > 0.3.1",
+      "bumpy > 0.1.0",
       "cdecl > 0.1.0",
-      "chroma",
+      "chroma > 0.1.0",
+      "crunchy > 0.1.0",
       "cssgrid > 0.3.1",
       "faststreams",
-      "flatty",
+      "flatty > 0.1.0",
       "flippy",
       "macroutils > 0.1.0",
       "mddoc > 0.1.0",
       "memo > 0.1.0 & <= 0.2.0",
       "nimPNG",
+      "nimsimd > 0.1.0",
       "opengl",
       "patty > 0.1.0",
       "pixie > 0.1.0",
@@ -149,15 +151,14 @@
       "typography",
       "unittest2",
       "variant",
-      "vmath > 0.3.1",
+      "vmath > 0.1.0",
       "x11",
-      "zippy > 0.2.1"
+      "zippy > 0.1.0"
     ],
     "urls": [],
     "unresolved": [
       "gh:elcritch/fidget",
-      "gh:elcritch/fidgetty",
-      "pixie"
+      "gh:elcritch/fidgetty"
     ]
   }
 }

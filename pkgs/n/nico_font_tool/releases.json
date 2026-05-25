@@ -57,12 +57,18 @@
   "generatedAt": "2026-05-25T11:48:08Z",
   "allDeps": {
     "packages": [
+      "bumpy",
+      "chroma",
+      "crunchy",
+      "flatty",
+      "mddoc",
       "nimPNG",
-      "pixie"
+      "nimsimd",
+      "pixie",
+      "vmath",
+      "zippy"
     ],
     "urls": [],
-    "unresolved": [
-      "pixie"
-    ]
+    "unresolved": []
   }
 }

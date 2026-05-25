@@ -56,11 +56,17 @@
   },
   "allDeps": {
     "packages": [
-      "pixie"
+      "bumpy",
+      "chroma",
+      "crunchy",
+      "flatty",
+      "mddoc",
+      "nimsimd",
+      "pixie",
+      "vmath",
+      "zippy"
     ],
     "urls": [],
-    "unresolved": [
-      "pixie"
-    ]
+    "unresolved": []
   }
 }
