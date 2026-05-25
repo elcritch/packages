@@ -1,0 +1,39 @@
+{
+  "cv": 17,
+  "name": "rain",
+  "fqn": "rain.nim.OHermesJunior.github.com",
+  "head": "6cc61747bc0393bf0dc72be4a30210d40e4d7fab",
+  "author": "OHermesJunior",
+  "description": "Rain simulation in your terminal",
+  "license": "MIT",
+  "nim": "0.20.9",
+  "srcDir": "src",
+  "bin": [
+    "rain"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@e83906a8393398bca2d6b0d6585c9066e1e51d87",
+      "r": []
+    },
+    {
+      "v": "#head@6cc61747bc0393bf0dc72be4a30210d40e4d7fab",
+      "r": [],
+      "a": "OHermesJunior",
+      "d": "Rain simulation in your terminal",
+      "l": "MIT",
+      "s": "src",
+      "p": [
+        "rain"
+      ],
+      "m": "0.20.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:50:59Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "cv": 17,
+  "name": "skEasing",
+  "fqn": "skEasing.Skrylar.github.com",
+  "head": "9c369849c65d9425eab698bd578922d7f360f330",
+  "author": "Skrylar",
+  "description": "A collection of easing curves for animation purposes.",
+  "license": "BSD",
+  "nim": "0.17.0",
+  "releases": [
+    {
+      "v": "0.1.0@44332443436c68fcf656d23f23663bc773843e3b",
+      "r": []
+    },
+    {
+      "v": "#head@9c369849c65d9425eab698bd578922d7f360f330",
+      "r": [],
+      "a": "Skrylar",
+      "d": "A collection of easing curves for animation purposes.",
+      "l": "BSD",
+      "m": "0.17.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:53Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "cv": 17,
+  "name": "highlight",
+  "fqn": "nimhighlight.RaimundHuebel.github.com",
+  "head": "53369e22a1110b0908469d92683370dc314a653b",
+  "author": "Raimund Hübel",
+  "description": "Tool/Lib to highlight text in CLI by using regular expressions.",
+  "license": "MIT",
+  "nim": "1.2.0",
+  "srcDir": "src",
+  "installExt": [
+    "nim"
+  ],
+  "bin": [
+    "highlight"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@7dea2af2d632c0b0e729d83f4826b8f0ef7cd60c",
+      "r": []
+    },
+    {
+      "v": "#head@53369e22a1110b0908469d92683370dc314a653b",
+      "r": [],
+      "a": "Raimund Hübel",
+      "d": "Tool/Lib to highlight text in CLI by using regular expressions.",
+      "l": "MIT",
+      "s": "src",
+      "k": [
+        "nim"
+      ],
+      "p": [
+        "highlight"
+      ],
+      "m": "1.2.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:41Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

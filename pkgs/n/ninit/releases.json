@@ -1,0 +1,71 @@
+{
+  "cv": 17,
+  "name": "ninit",
+  "fqn": "ninit.cypherwytch.github.com",
+  "head": "5f9782a221deb247a448922dfeebc15616cdc72a",
+  "author": "Via Stone",
+  "description": "Initialize a Nim package non-interactively (does not require nimble)",
+  "license": "BSD",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "bin": [
+    "ninit"
+  ],
+  "releases": [
+    {
+      "v": "1.0.3@5f9782a221deb247a448922dfeebc15616cdc72a^",
+      "r": [
+        "shell",
+        "cligen",
+        "regex"
+      ]
+    },
+    {
+      "v": "1.0.2@57a56023868d122eff62849f3098aeee2d177ccd",
+      "r": [
+        "shell",
+        "cligen",
+        "regex"
+      ]
+    },
+    {
+      "v": "1.0.1@afaa86c8ec475e2c99453dcb6ec42016e10a4eff",
+      "r": [
+        "shell",
+        "cligen",
+        "regex"
+      ]
+    },
+    {
+      "v": "1.0.0@0ac5386209b9f69b120cde0e46f0befc65fcd6de",
+      "r": [
+        "shell",
+        "cligen",
+        "regex"
+      ]
+    },
+    {
+      "v": "#head@5f9782a221deb247a448922dfeebc15616cdc72a",
+      "r": [
+        "shell",
+        "cligen",
+        "regex"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:49:25Z",
+  "allDeps": {
+    "packages": [
+      "cligen",
+      "graphemes",
+      "regex",
+      "segmentation",
+      "shell",
+      "unicodedb",
+      "unicodeplus"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

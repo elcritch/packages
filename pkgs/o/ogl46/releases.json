@@ -1,0 +1,59 @@
+{
+  "cv": 17,
+  "name": "ogl46",
+  "fqn": "ogl46.treeform.github.com",
+  "head": "cc37e9c68f229a9ef2f5df048f6b5acc414ecdb4",
+  "author": "treeform",
+  "description": "OpenGL 4.6 DSA wrapper for Nim.",
+  "license": "MIT",
+  "nim": "2.2.4",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@cc37e9c68f229a9ef2f5df048f6b5acc414ecdb4^",
+      "r": [
+        "opengl >= 1.2.9",
+        "windy >= 0.0.1",
+        "pixie >= 5.0.0",
+        "vmath >= 2.0.0"
+      ]
+    },
+    {
+      "v": "#head@cc37e9c68f229a9ef2f5df048f6b5acc414ecdb4",
+      "r": [
+        "opengl >= 1.2.9",
+        "windy >= 0.0.1",
+        "pixie >= 5.0.0",
+        "vmath >= 2.0.0"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:49:55Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.1.0"
+    ],
+    "latest": "0.1.0"
+  },
+  "allDeps": {
+    "packages": [
+      "mddoc",
+      "opengl",
+      "pixie",
+      "urlly",
+      "vmath",
+      "windy",
+      "ws",
+      "x11"
+    ],
+    "urls": [],
+    "unresolved": [
+      "pixie"
+    ]
+  }
+}

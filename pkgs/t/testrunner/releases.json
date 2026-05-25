@@ -1,0 +1,37 @@
+{
+  "cv": 17,
+  "name": "testrunner",
+  "fqn": "nim-testrunner.FedericoCeratto.github.com",
+  "head": "aabb86b6f3268fe03564a393e9e45319cae1101c",
+  "author": "Federico Ceratto",
+  "description": "Test runner",
+  "license": "GPLv3",
+  "nim": "0.16.0",
+  "bin": [
+    "testrunner"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@a757957b46dc3a0a01a570a2d4eb6a7d55ebb91e",
+      "r": []
+    },
+    {
+      "v": "#head@aabb86b6f3268fe03564a393e9e45319cae1101c",
+      "r": [],
+      "a": "Federico Ceratto",
+      "d": "Test runner",
+      "l": "GPLv3",
+      "p": [
+        "testrunner"
+      ],
+      "m": "0.16.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:46Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

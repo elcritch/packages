@@ -1,0 +1,27 @@
+{
+  "cv": 17,
+  "name": "enet",
+  "fqn": "nimrod-enet.fowlmouth.github.com",
+  "head": "352192e3dcf4cf8ea42613c9595ad313754d896e",
+  "releases": [
+    {
+      "v": "~@352192e3dcf4cf8ea42613c9595ad313754d896e",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    },
+    {
+      "v": "#head@352192e3dcf4cf8ea42613c9595ad313754d896e",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:23Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

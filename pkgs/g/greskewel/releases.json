@@ -1,0 +1,42 @@
+{
+  "cv": 17,
+  "name": "greskewel",
+  "fqn": "greskewel.openpeeps.github.com",
+  "head": "53a1370295a38c7543161f0202be6b884a8f1815",
+  "author": "George Lemon",
+  "description": "Embedded Postgres in a Box",
+  "license": "MIT",
+  "nim": "2.0.2",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@9a6338f27d4b8ce2fdf7c0d34fadb0a1ace426e7",
+      "r": [
+        "db_connector",
+        "threading"
+      ]
+    },
+    {
+      "v": "#head@53a1370295a38c7543161f0202be6b884a8f1815",
+      "r": [
+        "db_connector",
+        "threading"
+      ],
+      "a": "George Lemon",
+      "d": "Embedded Postgres in a Box",
+      "l": "MIT",
+      "s": "src",
+      "m": "2.0.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:27Z",
+  "allDeps": {
+    "packages": [
+      "db_connector",
+      "threading"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

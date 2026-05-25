@@ -1,0 +1,105 @@
+{
+  "cv": 17,
+  "name": "gen",
+  "fqn": "gen.Adeohluwa.github.com",
+  "head": "7c25d0fca7d34fde8ddf948972b4b029214dd40d",
+  "author": "Adeoluwa Adejumo",
+  "description": "Ultimate Scaffolding Tool for building GUI/Web/CLI apps in Nim Lang.",
+  "license": "MIT",
+  "nim": "1.0.2",
+  "srcDir": "src",
+  "binDir": "bin",
+  "bin": [
+    "gen"
+  ],
+  "releases": [
+    {
+      "v": "1.4.0@7c25d0fca7d34fde8ddf948972b4b029214dd40d^",
+      "r": [
+        "progress",
+        "docopt",
+        "fab",
+        "gara"
+      ]
+    },
+    {
+      "v": "1.2.0@2ae3784f556c77c4edd1fac8e9eae5275441e10c",
+      "r": [
+        "progress",
+        "docopt",
+        "fab",
+        "gara"
+      ]
+    },
+    {
+      "v": "1.0.0@df0c65f28707d62ec2c52ab681e5490f3658e9c0",
+      "r": [
+        "progress",
+        "docopt",
+        "fab",
+        "gara"
+      ]
+    },
+    {
+      "v": "0.8.0@168fab9431140f35459dfc6adc1f51d4fdc25b7b",
+      "r": [
+        "progress",
+        "docopt",
+        "fab"
+      ]
+    },
+    {
+      "v": "0.6.0@528c6fac0e173c4b026be006e7394d37f1cc1034",
+      "r": [
+        "progress",
+        "docopt",
+        "fab"
+      ],
+      "d": "A boilerplate generator for Nim Lang's Jester web framework"
+    },
+    {
+      "v": "0.4.0@c1f14cead5ce0eeb1116823dcac007dd993bc043",
+      "r": [
+        "progress",
+        "docopt",
+        "fab"
+      ],
+      "d": "A boilerplate generator for Nim Lang's Jester web framework"
+    },
+    {
+      "v": "0.2.0@1923fff6a96484a7d757fc6b9521b936ee806942",
+      "r": [
+        "progress",
+        "docopt",
+        "fab"
+      ],
+      "d": "A boilerplate generator for Nim Lang's Jester web framework"
+    },
+    {
+      "v": "#head@7c25d0fca7d34fde8ddf948972b4b029214dd40d",
+      "r": [
+        "progress",
+        "docopt",
+        "fab",
+        "gara"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:08Z",
+  "allDeps": {
+    "packages": [
+      "docopt",
+      "fab",
+      "gara > 0.8.0",
+      "graphemes",
+      "progress",
+      "regex",
+      "segmentation",
+      "unicodedb",
+      "unicodeplus"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

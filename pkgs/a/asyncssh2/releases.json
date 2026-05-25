@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "asyncssh2",
+  "fqn": "asyncssh2.up7down8.github.com",
+  "head": "badae9032e9443f51941acbfeb0e9823d8b74c10",
+  "author": "up7down8",
+  "description": "Execute commands and upload/download files using multiple processes and asynchronous methods via SSH.",
+  "license": "MIT",
+  "nim": "1.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@75b83bb43db34b72764f6bd7851abfd319930b8d",
+      "r": []
+    },
+    {
+      "v": "#head@badae9032e9443f51941acbfeb0e9823d8b74c10",
+      "r": [],
+      "a": "up7down8",
+      "d": "Execute commands and upload/download files using multiple processes and asynchronous methods via SSH.",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:42:11Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

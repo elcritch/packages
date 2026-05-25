@@ -1,0 +1,49 @@
+{
+  "cv": 17,
+  "name": "mysqlparser",
+  "fqn": "mysqlparser.tulayang.github.com",
+  "head": "0b4c9ce39ff6eab4f398eac158b41fb0d7945d11",
+  "author": "Wang Tong",
+  "description": "An efficient packet parser for MySQL Client/Server Protocol. Help you to write Mysql communication in either BLOCKIONG-IO or NON-BLOCKING-IO.",
+  "license": "MIT",
+  "nim": "0.17.1",
+  "skipFiles": [
+    "TODO.md",
+    "test.nim"
+  ],
+  "releases": [
+    {
+      "v": "0.2.0@228625be4a344e4f9dd6467e8b8141ae568dd0a7",
+      "r": []
+    },
+    {
+      "v": "#head@0b4c9ce39ff6eab4f398eac158b41fb0d7945d11",
+      "r": [],
+      "a": "Wang Tong",
+      "d": "An efficient packet parser for MySQL Client/Server Protocol. Help you to write Mysql communication in either BLOCKIONG-IO or NON-BLOCKING-IO.",
+      "l": "MIT",
+      "y": [
+        "TODO.md",
+        "test.nim"
+      ],
+      "m": "0.19"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:47:49Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.2.0"
+    ],
+    "latest": "0.2.0"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "cv": 17,
+  "name": "snail",
+  "fqn": "snail.stisa.github.com",
+  "head": "c1c541f84aeeb3b6f0c52f93cc5d9689984d77e7",
+  "author": "Stisa",
+  "description": "Simple Naive Algebra for Nim",
+  "license": "MIT",
+  "nim": "0.17.0",
+  "skipDirs": [
+    "docs",
+    "tests"
+  ],
+  "releases": [
+    {
+      "v": "0.2.0@f4cbbe211e2309ab5ef184f80745191d1bcfe917",
+      "r": [
+        "nimblas"
+      ]
+    },
+    {
+      "v": "#head@c1c541f84aeeb3b6f0c52f93cc5d9689984d77e7",
+      "r": [
+        "nimblas"
+      ],
+      "a": "Stisa",
+      "d": "Simple Naive Algebra for Nim",
+      "l": "MIT",
+      "x": [
+        "docs",
+        "tests"
+      ],
+      "m": "0.17.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:58Z",
+  "allDeps": {
+    "packages": [
+      "nimblas"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

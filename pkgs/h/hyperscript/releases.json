@@ -1,0 +1,48 @@
+{
+  "cv": 17,
+  "name": "hyperscript",
+  "fqn": "hyperscript.schneiderfelipe.github.com",
+  "head": "f02971acedabe1dec46e604136ab568bb93127f3",
+  "author": "Felipe S. S. Schneider",
+  "description": "Create HyperText with Nim.",
+  "license": "MIT",
+  "nim": "1.2.6",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1@d129a161f108493c8be311ce458c4351c1da9271",
+      "r": []
+    },
+    {
+      "v": "#head@f02971acedabe1dec46e604136ab568bb93127f3",
+      "r": [],
+      "a": "Felipe S. S. Schneider",
+      "d": "Create HyperText with Nim.",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.2.6"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:58Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1-alpha"
+    ],
+    "tagVersions": {
+      "v0.1-alpha": "0.1"
+    },
+    "prerelease": [
+      "v0.1-alpha"
+    ]
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

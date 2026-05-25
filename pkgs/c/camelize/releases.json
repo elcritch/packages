@@ -1,0 +1,41 @@
+{
+  "cv": 17,
+  "name": "camelize",
+  "fqn": "camelize.kixixixixi.github.com",
+  "head": "0be04a7ffcb86994f9787431fe0f8a3a26f2db67",
+  "author": "kixixixixi",
+  "description": "Convert json node to camelcase",
+  "license": "MIT",
+  "nim": "1.2.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.2.1@30ae9e4e4d6abea494ed3367650bda56fb63c907",
+      "r": []
+    },
+    {
+      "v": "0.2.0@79f80ff419cf3a5ff494a4c65e5042c4892047c5",
+      "r": []
+    },
+    {
+      "v": "0.1.0@7919b8b9f6b23b1aa62449ad7a7ce3c5f8ef09eb",
+      "r": []
+    },
+    {
+      "v": "#head@0be04a7ffcb86994f9787431fe0f8a3a26f2db67",
+      "r": [],
+      "a": "kixixixixi",
+      "d": "Convert json node to camelcase",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.2.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:43:01Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

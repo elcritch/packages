@@ -1,0 +1,49 @@
+{
+  "cv": 17,
+  "name": "NimData",
+  "fqn": "NimData.bluenote10.github.com",
+  "head": "ed07c2fa76cae57477d61b08384148f308aa4c6d",
+  "author": "Fabian Keller",
+  "description": "DataFrame API enabling fast out-of-core data analytics",
+  "license": "MIT",
+  "nim": "0.16.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@bd460ad029384dcac0976f9cc0e1d21d314180d8",
+      "r": [
+        "zip >= 0.1.1"
+      ]
+    },
+    {
+      "v": "#head@ed07c2fa76cae57477d61b08384148f308aa4c6d",
+      "r": [
+        "zip >= 0.3.1",
+        "plotly"
+      ],
+      "a": "Fabian Keller",
+      "d": "DataFrame API enabling fast out-of-core data analytics",
+      "l": "MIT",
+      "s": "src",
+      "b": "bin",
+      "m": "1.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:41:36Z",
+  "allDeps": {
+    "packages": [
+      "chroma",
+      "jsbind",
+      "plotly",
+      "wasmrt",
+      "websocket",
+      "webview",
+      "ws",
+      "zip",
+      "zippy"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

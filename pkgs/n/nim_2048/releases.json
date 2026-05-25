@@ -1,0 +1,46 @@
+{
+  "cv": 17,
+  "name": "nim_2048",
+  "fqn": "nim_2048.enkaito.github.com",
+  "head": "f1a19a751458e1d74f94385c004c60cfa75f0179",
+  "author": "enkaito",
+  "description": "A new awesome nimble package",
+  "license": "MIT",
+  "nim": "2.2.0",
+  "srcDir": "src",
+  "bin": [
+    "nim_2048"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@5f7ddb736fcdb83606ca6b4bf7c9d1bcc52c9e7c",
+      "r": [
+        "cligen"
+      ]
+    },
+    {
+      "v": "#head@f1a19a751458e1d74f94385c004c60cfa75f0179",
+      "r": [
+        "cligen >= 1.7.8"
+      ],
+      "a": "enkaito",
+      "d": "2048 game clone runs in your terminal, written in Nim",
+      "l": "MIT",
+      "s": "src",
+      "b": "out",
+      "p": [
+        "nim_2048"
+      ],
+      "m": "2.2.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:48:19Z",
+  "allDeps": {
+    "packages": [
+      "cligen"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

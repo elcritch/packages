@@ -1,0 +1,53 @@
+{
+  "cv": 17,
+  "name": "winimx",
+  "fqn": "winimx.khchen.github.com",
+  "head": "0f7beded6e2a0893567d6824e956002b86571f91",
+  "author": "Ward",
+  "description": "Winimx - Winim minified code generator",
+  "license": "MIT",
+  "nim": "1.4.0",
+  "skipDirs": [
+    "examples"
+  ],
+  "bin": [
+    "winimx"
+  ],
+  "releases": [
+    {
+      "v": "1.0.0@6ceff492e3c310f2f4e1de35603e6dc987f06b68",
+      "r": [
+        "winim >= 3.6.0",
+        "zippy >= 0.5.7",
+        "jsony >= 1.0.1"
+      ]
+    },
+    {
+      "v": "1.1.0@0f7beded6e2a0893567d6824e956002b86571f91^",
+      "r": [
+        "winim >= 3.7.1",
+        "zippy >= 0.5.7",
+        "jsony >= 1.0.1"
+      ]
+    },
+    {
+      "v": "#head@0f7beded6e2a0893567d6824e956002b86571f91",
+      "r": [
+        "winim >= 3.7.1",
+        "zippy >= 0.5.7",
+        "jsony >= 1.0.1"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:53:59Z",
+  "allDeps": {
+    "packages": [
+      "jsony",
+      "winim",
+      "zippy"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "cv": 17,
+  "name": "gnuplot",
+  "fqn": "gnuplot.nim.dvolk.github.com",
+  "head": "b2ec423b387abae6969fbefbdea0ed5339bb6cd5",
+  "author": "dvolk",
+  "description": "Interface to Gnuplot",
+  "license": "MIT",
+  "nim": "0.9.2",
+  "skipDirs": [
+    "examples"
+  ],
+  "releases": [
+    {
+      "v": "~@c5680ce04d44b97d23c694f5497cdc723a7cd0e8",
+      "r": [],
+      "x": []
+    },
+    {
+      "v": "0.6@85f840cb3de0f67fa8cba9d6a4c10f5a6c2ac856",
+      "r": []
+    },
+    {
+      "v": "#head@b2ec423b387abae6969fbefbdea0ed5339bb6cd5",
+      "n": "gnuplot",
+      "r": [],
+      "a": "dvolk",
+      "d": "Interface to Gnuplot",
+      "l": "MIT",
+      "x": [
+        "examples"
+      ],
+      "m": "0.9.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:22Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

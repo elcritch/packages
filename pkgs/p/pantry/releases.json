@@ -1,0 +1,56 @@
+{
+  "cv": 17,
+  "name": "pantry",
+  "fqn": "pantry-nim.ire4ever1190.github.com",
+  "head": "98f7323649c9c131e02b04394875c5e679b96cb1",
+  "author": "Jake Leahy",
+  "description": "Client library for https://getpantry.cloud/",
+  "license": "MIT",
+  "nim": "1.4.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.5.0@98f7323649c9c131e02b04394875c5e679b96cb1^",
+      "r": []
+    },
+    {
+      "v": "0.4.2@fc7f0306b3093016562128d9570742ece12ba587",
+      "r": []
+    },
+    {
+      "v": "0.4.1@f48d5bb7b0dcb528cd0488a47800f9ced83b1ba4",
+      "r": []
+    },
+    {
+      "v": "0.4.0@fce08bebd3ab6da5f7ba62dfafdb4f244d02f271",
+      "r": []
+    },
+    {
+      "v": "0.3.1@7363893ad1741a15dc7ecd4bc18250d96e7e0162",
+      "r": []
+    },
+    {
+      "v": "0.3.0@e827175533c3836e5f267ed83ae2f9fbb0bb63c7",
+      "r": []
+    },
+    {
+      "v": "0.2.0@22539822be927e7a2b199a36450e4490500240b0",
+      "r": []
+    },
+    {
+      "v": "0.1.0@27e08c1fb23a5424d13af3d51286dcdfc5d8e487",
+      "r": []
+    },
+    {
+      "v": "#head@98f7323649c9c131e02b04394875c5e679b96cb1",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:50:14Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

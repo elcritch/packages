@@ -1,0 +1,31 @@
+{
+  "cv": 17,
+  "name": "strophe",
+  "fqn": "nim-strophe.SillaIndustries.github.com",
+  "head": "337c740ccfaee162689a57b224e4af6baf588b75",
+  "author": "Andrea Giusti",
+  "description": "Libstrophe wrapper",
+  "license": "MIT",
+  "nim": "1.6.12",
+  "releases": [
+    {
+      "v": "0.12.1@ddcc8cb06d298e5ca9e9a894bedacdace9e401b5",
+      "r": []
+    },
+    {
+      "v": "#head@337c740ccfaee162689a57b224e4af6baf588b75",
+      "r": [],
+      "a": "Andrea Giusti",
+      "d": "Libstrophe wrapper",
+      "l": "MIT",
+      "m": "1.6.12"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:21Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

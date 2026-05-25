@@ -1,0 +1,46 @@
+{
+  "cv": 17,
+  "name": "proton",
+  "fqn": "proton-nim.jasonrbriggs.github.com",
+  "head": "625fe292a2f60fb1656453db9768b5edaa7290e0",
+  "author": "Jason R Briggs",
+  "description": "Proton template engine",
+  "license": "MIT",
+  "nim": "1.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.2.6@625fe292a2f60fb1656453db9768b5edaa7290e0^",
+      "r": []
+    },
+    {
+      "v": "0.2.5@7493ff4cb15507965a5689a69d80254c9581fda9",
+      "r": []
+    },
+    {
+      "v": "0.2.4@1eac0c7a53e0fee1c4039988e47cdac31b1b90d9",
+      "r": []
+    },
+    {
+      "v": "0.2.3@6c1996859e9b3f5f614659fb30cf1e4a06517b54",
+      "r": [],
+      "m": "0.16.0"
+    },
+    {
+      "v": "0.2.2@0f7757bbd16f7993526f77135fc7df176f7819de",
+      "r": [],
+      "m": "0.16.0"
+    },
+    {
+      "v": "#head@625fe292a2f60fb1656453db9768b5edaa7290e0",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:50:47Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

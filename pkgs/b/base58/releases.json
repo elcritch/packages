@@ -1,0 +1,39 @@
+{
+  "cv": 17,
+  "name": "base58",
+  "fqn": "nim_base58.~ehmry.git.sr.ht",
+  "head": "4a8bd2e88d9c0625557d53254550cdf1e6d56a7e",
+  "author": "Emery Hemingway",
+  "description": "Base58 encoders and decoders for Bitcoin and CryptoNote addresses.",
+  "license": "MIT",
+  "nim": "0.17.2",
+  "skipDirs": [
+    "test"
+  ],
+  "releases": [
+    {
+      "v": "0.1.1@47a33960bd88a4bda399c406e33da2b4951d092a",
+      "r": []
+    },
+    {
+      "v": "0.1.0@ad87cea813d7445e26c7f8453ae27e3a3dd6dabc",
+      "r": []
+    },
+    {
+      "v": "#head@4a8bd2e88d9c0625557d53254550cdf1e6d56a7e",
+      "r": [],
+      "a": "Emery Hemingway",
+      "d": "Base58 encoders and decoders for Bitcoin and CryptoNote addresses.",
+      "l": "MIT",
+      "s": "src",
+      "m": "0.18"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:42:27Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

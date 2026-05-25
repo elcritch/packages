@@ -1,0 +1,32 @@
+{
+  "cv": 17,
+  "name": "hannah",
+  "fqn": "hannah.sainttttt.github.com",
+  "head": "4dc2a907989deb5d939eb90488661784591ad0ba",
+  "author": "Saint",
+  "description": "xxhash wrapper library for Nim",
+  "license": "MIT",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.10.0@ff173fd94c110948a717972abd104df066872d6e",
+      "r": []
+    },
+    {
+      "v": "#head@4dc2a907989deb5d939eb90488661784591ad0ba",
+      "n": "hannah",
+      "r": [],
+      "a": "Saint",
+      "d": "xxhash wrapper library for Nim",
+      "l": "MIT",
+      "s": "src"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:33Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

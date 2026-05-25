@@ -1,0 +1,34 @@
+{
+  "cv": 17,
+  "name": "ikeahomesmart",
+  "fqn": "ikeahomesmart.PMunch.github.com",
+  "head": "22109a5abb70937dd640e046d4d5f2bd4dbf4b3e",
+  "author": "PMunch",
+  "description": "IKEA Home Smart library for speaking to smart bulbs",
+  "license": "MIT",
+  "nim": "1.6.6",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@22109a5abb70937dd640e046d4d5f2bd4dbf4b3e^",
+      "r": [
+        "coap"
+      ]
+    },
+    {
+      "v": "#head@22109a5abb70937dd640e046d4d5f2bd4dbf4b3e",
+      "r": [
+        "coap"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:46:01Z",
+  "allDeps": {
+    "packages": [
+      "coap"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "physfs_static",
+  "fqn": "nim-physfs_static.konsumer.github.com",
+  "head": "9b5994236d281c8032e86896b12dcf9af1617981",
+  "author": "David Konsumer",
+  "description": "Wrapper around physfs",
+  "license": "MIT",
+  "nim": "1.6.12",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.0.0@76091a8af6d65ae94b652b6ce28f58be70fd1f43",
+      "r": []
+    },
+    {
+      "v": "#head@9b5994236d281c8032e86896b12dcf9af1617981",
+      "r": [],
+      "a": "David Konsumer",
+      "d": "Wrapper around physfs",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.6.12"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:50:26Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

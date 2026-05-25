@@ -1,0 +1,27 @@
+{
+  "cv": 17,
+  "name": "uuid",
+  "fqn": "nim-uuid.idlewan.github.com",
+  "head": "372e99dfbdaa93533a81e1c474f4ff90fbba5bf2",
+  "releases": [
+    {
+      "v": "~@372e99dfbdaa93533a81e1c474f4ff90fbba5bf2",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    },
+    {
+      "v": "#head@372e99dfbdaa93533a81e1c474f4ff90fbba5bf2",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:53:28Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

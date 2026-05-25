@@ -1,0 +1,39 @@
+{
+  "cv": 17,
+  "name": "tiptap",
+  "fqn": "tiptap-nim.openpeeps.github.com",
+  "head": "0dc629531c0e2449f3649f92ae377c0ae5b6004b",
+  "author": "George Lemon",
+  "description": "TipTap content validator for Nim",
+  "license": "MIT",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@063a8ddd3514acd2de2590b3b7d962c1fae309b3",
+      "r": [
+        "jsony #head"
+      ]
+    },
+    {
+      "v": "#head@0dc629531c0e2449f3649f92ae377c0ae5b6004b",
+      "r": [
+        "jsony #head"
+      ],
+      "a": "George Lemon",
+      "d": "TipTap content validator for Nim",
+      "l": "MIT",
+      "s": "src",
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:58Z",
+  "allDeps": {
+    "packages": [
+      "jsony"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

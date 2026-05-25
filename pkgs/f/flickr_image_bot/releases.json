@@ -1,0 +1,47 @@
+{
+  "cv": 17,
+  "name": "flickr_image_bot",
+  "fqn": "flickr-image-bot.snus-kin.github.com",
+  "head": "862167f56ea24752ac71a3000e3a1578fc81ae3d",
+  "author": "snus-kin",
+  "description": "Twitter bot for fetching flickr images with tags",
+  "license": "GPL-3.0",
+  "nim": "0.19.2",
+  "srcDir": "src",
+  "bin": [
+    "flickr_image_bot"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@b0e99f77012a04c8e102459f3a3c6ade299f21b6",
+      "r": [
+        "twitter"
+      ]
+    },
+    {
+      "v": "#head@862167f56ea24752ac71a3000e3a1578fc81ae3d",
+      "r": [
+        "twitter"
+      ],
+      "a": "snus-kin",
+      "d": "Twitter bot for fetching flickr images with tags",
+      "l": "GPL-3.0",
+      "s": "src",
+      "p": [
+        "flickr_image_bot"
+      ],
+      "m": "0.19.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:51Z",
+  "allDeps": {
+    "packages": [
+      "isaac",
+      "twitter",
+      "uuids"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

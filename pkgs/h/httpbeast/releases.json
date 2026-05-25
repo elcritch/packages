@@ -1,0 +1,79 @@
+{
+  "cv": 17,
+  "name": "httpbeast",
+  "fqn": "httpbeast.dom96.github.com",
+  "head": "75008aaba497479df4023d52880086deae6385e3",
+  "author": "Dominik Picheta",
+  "description": "A super-fast epoll-backed and parallel HTTP server.",
+  "license": "MIT",
+  "nim": "0.18.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.4.1@abc13d11c210b614960fe8760e581d44cfb2e3e9",
+      "r": [
+        "asynctools #0e6bdc3ed5bae8c7cc9"
+      ]
+    },
+    {
+      "v": "0.4.0@8b50e378a5b3374ddeeb3ce83bfb733619206edb",
+      "r": [
+        "asynctools #0e6bdc3ed5bae8c7cc9"
+      ]
+    },
+    {
+      "v": "0.3.0@d679e50578969f116cd1bd989e39951535a4d5bf",
+      "r": [
+        "gh:iffy/asynctools #pr_fix_for_latest"
+      ]
+    },
+    {
+      "v": "0.2.2@eda2e809270590c91f59958907c91bb8a1d84a01",
+      "r": [
+        "gh:timotheecour/asynctools #pr_fix_compilation"
+      ]
+    },
+    {
+      "v": "0.2.1@65e4575f3e0326527c61e004bbe100551d13bcd6",
+      "r": [
+        "asynctools"
+      ]
+    },
+    {
+      "v": "0.2.0@2a965433d9efdeb46a4c980cb574dde3ce594655",
+      "r": [
+        "asynctools"
+      ]
+    },
+    {
+      "v": "0.1.0@ff8fe095c459d296d96188e4aa2681f202748c85",
+      "r": [
+        "asynctools"
+      ],
+      "m": "0.17.3"
+    },
+    {
+      "v": "#head@75008aaba497479df4023d52880086deae6385e3",
+      "r": [
+        "asynctools #0e6bdc3ed5bae8c7cc9"
+      ],
+      "a": "Dominik Picheta",
+      "d": "A super-fast epoll-backed and parallel HTTP server.",
+      "l": "MIT",
+      "s": "src",
+      "m": "0.18.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:52Z",
+  "allDeps": {
+    "packages": [
+      "asynctools"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:iffy/asynctools",
+      "gh:timotheecour/asynctools"
+    ]
+  }
+}

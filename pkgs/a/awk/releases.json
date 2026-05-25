@@ -1,0 +1,39 @@
+{
+  "cv": 17,
+  "name": "awk",
+  "fqn": "awk.greencardamom.github.com",
+  "head": "b35f9fd9b441b952b19b1dc74f0962547cee1663",
+  "author": "Green Cardamom",
+  "description": "A library of awk functions in nim",
+  "license": "MIT",
+  "nim": "0.13.1",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "1.0@32e988444b6c14ce255a74a6953ed34132bf3545",
+      "r": [
+        "nre >= 1.0.0"
+      ]
+    },
+    {
+      "v": "#head@b35f9fd9b441b952b19b1dc74f0962547cee1663",
+      "r": [
+        "nre >= 1.0.0"
+      ],
+      "a": "Green Cardamom",
+      "d": "A library of awk functions in nim",
+      "l": "MIT",
+      "s": "src",
+      "m": "0.13.1"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:42:18Z",
+  "allDeps": {
+    "packages": [
+      "nre"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

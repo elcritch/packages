@@ -1,0 +1,39 @@
+{
+  "cv": 17,
+  "name": "safeset",
+  "fqn": "safeset.avahe-kellenberger.github.com",
+  "head": "049026f50611e2a0ecb617839f23a286b6b597c6",
+  "author": "Avahe Kellenberger",
+  "description": "Set that can safely add and remove elements while iterating.",
+  "license": "GPL-2.0-only",
+  "nim": "1.6.4",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.1@682a268289fdea19e6d6228a4b924b0bcbeb8b14",
+      "r": [
+        "nimtest >= 0.1.2"
+      ]
+    },
+    {
+      "v": "#head@049026f50611e2a0ecb617839f23a286b6b597c6",
+      "r": [
+        "nimtest >= 0.1.2"
+      ],
+      "a": "Avahe Kellenberger",
+      "d": "Set that can safely add and remove elements while iterating.",
+      "l": "GPL-2.0-only",
+      "s": "src",
+      "m": "1.6.4"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:22Z",
+  "allDeps": {
+    "packages": [
+      "nimtest"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

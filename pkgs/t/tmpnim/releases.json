@@ -1,0 +1,40 @@
+{
+  "cv": 17,
+  "name": "tmpnim",
+  "fqn": "tmpnim.ment1na.github.com",
+  "head": "1e7b20e97a124f3dd85885ab2a906928990964f8",
+  "author": "Robbie",
+  "description": "Create and remove ramdisks easily",
+  "license": "MPL-2.0",
+  "nim": "0.6.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "1.0.0@600786c28a5af9768fa15bcbcd9f43f58ca130f8",
+      "r": [],
+      "m": "~",
+      "s": ""
+    },
+    {
+      "v": "1.1.0@5ea173b3bd7f88362f1648adae3841c7b2b1704f",
+      "r": [],
+      "a": "Robbie, ment1na"
+    },
+    {
+      "v": "#head@1e7b20e97a124f3dd85885ab2a906928990964f8",
+      "r": [],
+      "a": "Robbie, ment1na",
+      "d": "Create and remove ramdisks easily",
+      "l": "MPL-2.0",
+      "s": "src",
+      "m": "0.6.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:59Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

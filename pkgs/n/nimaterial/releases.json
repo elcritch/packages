@@ -1,0 +1,51 @@
+{
+  "cv": 17,
+  "name": "nimaterial",
+  "fqn": "nimaterial.momeemt.github.com",
+  "head": "b00288ec19905cfb3e740903ea898fe5180874c3",
+  "author": "Momeemt",
+  "description": "nimaterial is a CSS output library based on material design.",
+  "license": "MIT",
+  "nim": "1.0.6",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.3.0@b00288ec19905cfb3e740903ea898fe5180874c3^",
+      "r": [
+        "Palette >= 0.1.0"
+      ]
+    },
+    {
+      "v": "#head@b00288ec19905cfb3e740903ea898fe5180874c3",
+      "r": [
+        "Palette >= 0.1.0"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:48:27Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "ver.0.3.0"
+    ],
+    "tagVersions": {
+      "ver.0.3.0": "0.3.0"
+    },
+    "prerelease": [
+      "ver.0.3.0"
+    ]
+  },
+  "allDeps": {
+    "packages": [
+      "Palette",
+      "cligen",
+      "nigui"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "cv": 17,
+  "name": "vla",
+  "fqn": "vla.bpr.github.com",
+  "head": "27580a5023e9411d9608b79d9e191a632c8e17e4",
+  "author": "Brian Rogoff",
+  "description": "Variable length arrays for Nim",
+  "license": "MIT",
+  "skipFiles": [
+    "test_vla.nim"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@d93cbf96288392e91bfc1b93aa524e33d22c4401",
+      "r": []
+    },
+    {
+      "v": "#head@27580a5023e9411d9608b79d9e191a632c8e17e4",
+      "r": [],
+      "a": "Brian Rogoff",
+      "d": "Variable length arrays for Nim",
+      "l": "MIT",
+      "s": "src",
+      "m": "0.10.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:53:36Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

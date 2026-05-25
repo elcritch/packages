@@ -1,0 +1,35 @@
+{
+  "cv": 17,
+  "name": "shared",
+  "fqn": "shared.genotrance.github.com",
+  "head": "dee3eff487c4af3c8f9e71ca8ddbb90a9e36da14",
+  "author": "genotrance",
+  "description": "Nim library for shared types",
+  "license": "MIT",
+  "skipDirs": [
+    "tests"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@70ef0d39c957c93f3300b39ec7d53ab1ca2b1fbf",
+      "r": []
+    },
+    {
+      "v": "#head@dee3eff487c4af3c8f9e71ca8ddbb90a9e36da14",
+      "r": [],
+      "a": "genotrance",
+      "d": "Nim library for shared types",
+      "l": "MIT",
+      "x": [
+        "tests"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:41Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

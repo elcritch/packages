@@ -1,0 +1,40 @@
+{
+  "cv": 17,
+  "name": "blackpaper",
+  "fqn": "blackpaper.openpeeps.github.com",
+  "head": "64b2a875ec926da42dbfd2be4b98006d92df1bca",
+  "author": "George Lemon",
+  "description": "A simple Password Strength Estimator",
+  "license": "MIT",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@bffb234e80c72501685d87bbbb3d344263475155",
+      "r": [
+        "floof"
+      ]
+    },
+    {
+      "v": "#head@64b2a875ec926da42dbfd2be4b98006d92df1bca",
+      "r": [
+        "floof"
+      ],
+      "a": "George Lemon",
+      "d": "A simple Password Strength Estimator",
+      "l": "MIT",
+      "s": "src",
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:42:45Z",
+  "allDeps": {
+    "packages": [
+      "floof",
+      "nimsimd"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

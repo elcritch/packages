@@ -1,0 +1,39 @@
+{
+  "cv": 17,
+  "name": "rabbit",
+  "fqn": "rabbit.tonogram.github.com",
+  "head": "852e4f6e67747d27fb1f2193274b8501d2fc4231",
+  "author": "Reilly Moore",
+  "description": "The Hundred Rabbits theme ecosystem brought to Nim.",
+  "license": "MIT",
+  "nim": "1.4.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@e265a24fa4729866b24cf7afafb41b049154cc9a",
+      "r": [
+        "chroma >= 0.1.3"
+      ]
+    },
+    {
+      "v": "#head@852e4f6e67747d27fb1f2193274b8501d2fc4231",
+      "r": [
+        "chroma >= 0.1.3"
+      ],
+      "a": "Reilly Moore",
+      "d": "The Hundred Rabbits theme ecosystem brought to Nim.",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.4.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:50:59Z",
+  "allDeps": {
+    "packages": [
+      "chroma"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

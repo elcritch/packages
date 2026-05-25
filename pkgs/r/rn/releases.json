@@ -1,0 +1,127 @@
+{
+  "cv": 17,
+  "name": "rn",
+  "fqn": "rn.xioren.github.com",
+  "head": "06384d221b36b5ed18b9aa4d0fc024323b095df7",
+  "author": "xioren",
+  "description": "minimal, performant mass renaming tool",
+  "license": "MIT",
+  "nim": "1.0.6",
+  "srcDir": "src",
+  "bin": [
+    "rn"
+  ],
+  "releases": [
+    {
+      "v": "0.2.2@06384d221b36b5ed18b9aa4d0fc024323b095df7^",
+      "r": []
+    },
+    {
+      "v": "0.2.1@5a29676ec1d5aa4d25793ee358c2e453c5ea578f",
+      "r": []
+    },
+    {
+      "v": "0.2.0@b48c3f34feea4afbfd157f9a90d1b954ef62f36d",
+      "r": []
+    },
+    {
+      "v": "0.1.9@92dd1bc2ab0484b97acd508b7716fc47df450125",
+      "r": []
+    },
+    {
+      "v": "0.1.8@8d5dce318548e1a414d982071bfbf9ece180fd73",
+      "r": []
+    },
+    {
+      "v": "0.1.7@5e89188b35e1ebc86abde59284cb7b35de64cb4f",
+      "r": []
+    },
+    {
+      "v": "0.1.6@b4d84b49b8825170ee8b5ac7a9f7495c9e3ae24f",
+      "r": []
+    },
+    {
+      "v": "0.1.5@c63000977c075058cd1166286d12e602b18f4ba3",
+      "r": []
+    },
+    {
+      "v": "0.1.4@08c343c4da872ae0d3cae1085366322c40f9f2db",
+      "r": []
+    },
+    {
+      "v": "0.1.3@751305e0ed6d13d33dcf2ca42efa3a3e9b8bae47",
+      "r": []
+    },
+    {
+      "v": "0.1.2@1e9f7b95d341ff9d21a2956ad9b9755a49f5e590",
+      "r": []
+    },
+    {
+      "v": "0.1.1@ad122809967af68e43a00f4aa1eff23d485b6794",
+      "r": []
+    },
+    {
+      "v": "0.1.0@1a369a53b5d3b8a7dd414af1074d63103225bf73",
+      "r": []
+    },
+    {
+      "v": "0.0.9@b3ad0158951e10d666ca1803354ce18fff792133",
+      "r": []
+    },
+    {
+      "v": "0.0.8@1ac0334e3587b3cb0072e5bf970b7f3432ba7fe8",
+      "r": [],
+      "m": "1.4.2"
+    },
+    {
+      "v": "0.0.7@4a9c08f17a4f9d1b5ae3e24111f5210296d6b291",
+      "r": [],
+      "m": "1.4.2"
+    },
+    {
+      "v": "0.0.6@486e198adfc931f2ac9ccaa143804246a524ba21",
+      "r": [],
+      "m": "1.4.2"
+    },
+    {
+      "v": "0.0.5@97dee940f5adb8e6defa8ecbf2f6df38720f310e",
+      "r": [],
+      "m": "1.4.2"
+    },
+    {
+      "v": "0.0.4@0991970f376a6742cbd51fb17ceebeec961726e7",
+      "r": [],
+      "m": "1.4.2"
+    },
+    {
+      "v": "0.0.3@4253f10e21699478786279dcad396a9040aa3482",
+      "r": [],
+      "m": "1.4.2"
+    },
+    {
+      "v": "0.0.2@e93b8cec6ad8bfbc77fb559ff52683702fe671f2",
+      "r": [],
+      "m": "1.4.1"
+    },
+    {
+      "v": "0.0.1@b734eb84b29306c9db5525c6fd9788b04d4bc15d",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file",
+      "m": "~",
+      "s": "",
+      "p": []
+    },
+    {
+      "v": "#head@06384d221b36b5ed18b9aa4d0fc024323b095df7",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:15Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "paddy",
+  "fqn": "paddy.treeform.github.com",
+  "head": "3fcec08a559479cc8d2fd769f26c6d56bb27a1a1",
+  "author": "Andre von Houck and Jeremie Pelletier",
+  "description": "Paddy",
+  "license": "MIT",
+  "nim": "1.4.8",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@8f4f5084b67af556b5a4e7865d90328063010eda",
+      "r": []
+    },
+    {
+      "v": "#head@3fcec08a559479cc8d2fd769f26c6d56bb27a1a1",
+      "r": [],
+      "a": "Andre von Houck and Jeremie Pelletier",
+      "d": "Paddy",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.4.8"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:50:13Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

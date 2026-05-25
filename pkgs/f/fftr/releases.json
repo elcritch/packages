@@ -1,0 +1,43 @@
+{
+  "cv": 17,
+  "name": "fftr",
+  "fqn": "nim-fftr.arnetheduck.github.com",
+  "head": "c75c3a377e167672f6d5d457cdc18d94aec7915a",
+  "author": "Jacek Sieka",
+  "description": "The fastest Fourier transform in the Rhein (so far)",
+  "license": "MIT",
+  "nim": "1.6.0",
+  "srcDir": "src",
+  "installExt": [
+    "nim"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@3382415a3373fe9b29f73317ea02b83fb5d11c23",
+      "r": []
+    },
+    {
+      "v": "#head@c75c3a377e167672f6d5d457cdc18d94aec7915a",
+      "r": [
+        "unittest2"
+      ],
+      "a": "Jacek Sieka",
+      "d": "The fastest Fourier transform in the Rhein (so far)",
+      "l": "MIT",
+      "s": "src",
+      "k": [
+        "nim"
+      ],
+      "m": "1.6.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:41Z",
+  "allDeps": {
+    "packages": [
+      "unittest2"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

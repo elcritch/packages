@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "torim",
+  "fqn": "torim.Techno-Fox.github.com",
+  "head": "be96022a180c838a6d666af185d9753550f24b56",
+  "author": "Federico Ceratto and KittyTechno",
+  "description": "Updated version of tor.nim from https://github.com/FedericoCeratto/nim-tor",
+  "license": "GPL-3.0",
+  "nim": "1.2.6",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "1.0.0@6f11622d74b24490fd05dc5f1d0de54a52413b8e",
+      "r": []
+    },
+    {
+      "v": "#head@be96022a180c838a6d666af185d9753550f24b56",
+      "r": [],
+      "a": "Federico Ceratto and KittyTechno",
+      "d": "Updated version of tor.nim from https://github.com/FedericoCeratto/nim-tor",
+      "l": "MPL-2.0",
+      "s": "src",
+      "m": "1.2.6"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:53:02Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

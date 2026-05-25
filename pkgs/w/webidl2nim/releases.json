@@ -1,0 +1,51 @@
+{
+  "cv": 17,
+  "name": "webidl2nim",
+  "fqn": "webidl2nim.ASVIEST.github.com",
+  "head": "a50303ea276ad77b1ee151b4d1475892133e4927",
+  "author": "ASVIEST",
+  "description": "webidl to Nim translator",
+  "license": "MIT",
+  "nim": "2.1.1",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.0.1@5a9996ffe91433f6529fab02ca083bfaa87630d3",
+      "r": []
+    },
+    {
+      "v": "#head@a50303ea276ad77b1ee151b4d1475892133e4927",
+      "r": [
+        "regex",
+        "npeg",
+        "cligen"
+      ],
+      "a": "ASVIEST",
+      "d": "webidl to Nim bindings generator",
+      "l": "MIT",
+      "s": "src",
+      "k": [
+        "nim"
+      ],
+      "p": [
+        "webidl2nim"
+      ],
+      "m": "1.9.1"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:53:48Z",
+  "allDeps": {
+    "packages": [
+      "cligen",
+      "graphemes",
+      "npeg",
+      "regex",
+      "segmentation",
+      "unicodedb",
+      "unicodeplus"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

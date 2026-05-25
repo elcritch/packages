@@ -1,0 +1,41 @@
+{
+  "cv": 17,
+  "name": "filesize",
+  "fqn": "filesize.sergiotapia.github.com",
+  "head": "f3ea51bde207462e37e4fc9a9e10326658c70e73",
+  "author": "Sergio Tapia",
+  "description": "A new awesome nimble package",
+  "license": "MIT",
+  "nim": "1.0.4",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@74a4a149655908d5305be6b70ad43b724ec79707",
+      "r": []
+    },
+    {
+      "v": "1.0.0@000b575433c9463e22f0a0405dab13a4f66ebbbc",
+      "r": [],
+      "d": "A Nim package to convert filesizes into other units, and turns filesizes into human readable strings."
+    },
+    {
+      "v": "2.0.0@f3ea51bde207462e37e4fc9a9e10326658c70e73^",
+      "r": [],
+      "d": "A Nim package to convert filesizes into other units, and turns filesizes into human readable strings.",
+      "m": "2.0.4"
+    },
+    {
+      "v": "#head@f3ea51bde207462e37e4fc9a9e10326658c70e73",
+      "r": [],
+      "d": "A Nim package to convert filesizes into other units, and turns filesizes into human readable strings.",
+      "m": "2.0.4"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:46Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

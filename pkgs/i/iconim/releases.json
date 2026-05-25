@@ -1,0 +1,39 @@
+{
+  "cv": 17,
+  "name": "iconim",
+  "fqn": "iconim.openpeeps.github.com",
+  "head": "1a7706e187639c058e8d894bc18ba3e78aacf900",
+  "author": "George Lemon",
+  "description": "Icon library manager for server-side rendering",
+  "license": "MIT",
+  "nim": "1.6.10",
+  "srcDir": "src",
+  "skipDirs": [
+    "examples"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@6e43982c0b194ea57a055a0b8c3e30ec28b6727e",
+      "r": []
+    },
+    {
+      "v": "#head@1a7706e187639c058e8d894bc18ba3e78aacf900",
+      "r": [],
+      "a": "George Lemon",
+      "d": "SVG icon library manager for server-side rendering",
+      "l": "MIT",
+      "s": "src",
+      "x": [
+        "examples"
+      ],
+      "m": "1.6.10"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:46:00Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

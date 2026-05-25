@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "ipacore",
+  "fqn": "ipacore.phononim.github.com",
+  "head": "af9568be415c5e1c81e60c0b8e7189110f416a73",
+  "author": "systemonia",
+  "description": " A base International Phonetic Alphabet type definition. ",
+  "license": "BSD-3-Clause",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@45e277626585372ff2f41846082742989b86383e",
+      "r": []
+    },
+    {
+      "v": "#head@af9568be415c5e1c81e60c0b8e7189110f416a73",
+      "r": [],
+      "a": "penguinite",
+      "d": " A base International Phonetic Alphabet type definition. ",
+      "l": "BSD-3-Clause",
+      "s": "src",
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:46:12Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

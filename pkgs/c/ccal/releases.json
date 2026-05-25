@@ -1,0 +1,88 @@
+{
+  "cv": 17,
+  "name": "ccal",
+  "fqn": "ccal.inv2004.github.com",
+  "head": "af79211b749133071745398f79bf3205171f20ff",
+  "author": "inv2004",
+  "description": "calendar with local holidays via ip location",
+  "license": "MIT",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "bin": [
+    "ccal"
+  ],
+  "releases": [
+    {
+      "v": "0.4.6@919104dc8c419eadcc397d3b58d121ccdc153bfb",
+      "r": []
+    },
+    {
+      "v": "0.4.5@52875f73206547ce2746a6222184cd6fbd1fb515",
+      "r": []
+    },
+    {
+      "v": "0.4.4@e619b3fc9302a99261f45e3b11e3a6e59c262509",
+      "r": []
+    },
+    {
+      "v": "0.4.3@15eb33e9b186e7649e98946e67ea8c9a709b7b7a",
+      "r": []
+    },
+    {
+      "v": "0.4.2@91cfb96188bbcb9603cefb846e1ec3e2ffbd9692",
+      "r": []
+    },
+    {
+      "v": "0.4.1@376bfcfc49d51b3a5e2a8b3b77fbcb8c0e76380b",
+      "r": []
+    },
+    {
+      "v": "0.2.2@ea3746f988098c2b003d662f13c38a8e478fb497",
+      "r": []
+    },
+    {
+      "v": "#head@af79211b749133071745398f79bf3205171f20ff",
+      "r": [],
+      "a": "inv2004",
+      "d": "calendar with local holidays via ip location",
+      "l": "MIT",
+      "s": "src",
+      "p": [
+        "ccal"
+      ],
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:43:06Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.2.2",
+      "v0.4.1",
+      "v0.4.2",
+      "v0.4.3",
+      "v0.4.4",
+      "v0.4.5",
+      "v0.4.6"
+    ],
+    "tagVersions": {
+      "v0.2.2": "0.2.2",
+      "v0.4.1": "0.4.1",
+      "v0.4.2": "0.4.2",
+      "v0.4.3": "0.4.3",
+      "v0.4.4": "0.4.4",
+      "v0.4.5": "0.4.5",
+      "v0.4.6": "0.4.6"
+    },
+    "latest": "v0.4.6"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

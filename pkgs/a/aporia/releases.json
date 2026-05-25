@@ -1,0 +1,67 @@
+{
+  "cv": 17,
+  "name": "aporia",
+  "fqn": "Aporia.nim-lang.github.com",
+  "head": "3273cb144172deb2dae615191b30a62093c365ee",
+  "author": "Dominik Picheta",
+  "description": "A Nim IDE.",
+  "license": "GPLv2",
+  "releases": [
+    {
+      "v": "0.4.2@3273cb144172deb2dae615191b30a62093c365ee^",
+      "r": []
+    },
+    {
+      "v": "0.4.1@3c53ea922867194ba37685bb22f0dbffccca4dfe",
+      "r": []
+    },
+    {
+      "v": "0.4.0@892a9b8299ba344001fd577aad4d7187e02eea9b",
+      "r": []
+    },
+    {
+      "v": "0.1.1@6199ee18770a547f8f9e99d360f38abfb74b5f01",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    },
+    {
+      "v": "0.1.1.0@936d88d0ec5eb3f3657e8dafc3382cc945165b32",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    },
+    {
+      "v": "0.1@5478024fc06589b50617b9303e9ca4a7bf2a1576",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    },
+    {
+      "v": "#head@3273cb144172deb2dae615191b30a62093c365ee",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:41:58Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.4.0",
+      "v0.4.1"
+    ],
+    "tagVersions": {
+      "v0.4.0": "0.4.0",
+      "v0.4.1": "0.4.1"
+    },
+    "latest": "v0.4.1"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

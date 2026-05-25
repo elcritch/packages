@@ -1,0 +1,57 @@
+{
+  "cv": 17,
+  "name": "huenim",
+  "fqn": "huenim.IoTone.github.com",
+  "head": "f6fb0fdb4af0160bc91c21836c7e85e0e7a2de54",
+  "author": "David J. Kordsmeier",
+  "description": "The TalkingLights Kit",
+  "license": "MIT",
+  "nim": "0.17.0",
+  "srcDir": "src",
+  "bin": [
+    "huenim"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@536186f523d6383f2a38d95e3892c850581c94b7",
+      "r": [
+        "docopt >= 0.6.5"
+      ]
+    },
+    {
+      "v": "0.1.1@4af66957bb98b8ec0833cc86a08ba23aeaea19b9",
+      "r": [
+        "docopt >= 0.6.5"
+      ],
+      "d": "Huenim"
+    },
+    {
+      "v": "#head@f6fb0fdb4af0160bc91c21836c7e85e0e7a2de54",
+      "r": [
+        "docopt >= 0.6.5"
+      ],
+      "a": "David J. Kordsmeier",
+      "d": "Huenim",
+      "l": "MIT",
+      "s": "src",
+      "p": [
+        "huenim"
+      ],
+      "m": "0.17.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:56Z",
+  "allDeps": {
+    "packages": [
+      "docopt",
+      "graphemes",
+      "regex",
+      "segmentation",
+      "unicodedb",
+      "unicodeplus"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

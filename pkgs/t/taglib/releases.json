@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "taglib",
+  "fqn": "nim-taglib.alex-laskin.github.com",
+  "head": "da4769d737df5d21d03975f1a1170a74a8165abe",
+  "author": "Alex Laskin",
+  "description": "Thin wrapper over https://taglib.github.io/",
+  "license": "MIT",
+  "nim": "0.14",
+  "releases": [
+    {
+      "v": "0.1.0@84b86d2740a8a4572bf5e3c933f0f0c1add30541",
+      "r": []
+    },
+    {
+      "v": "0.1.1@da4769d737df5d21d03975f1a1170a74a8165abe^",
+      "r": [],
+      "m": "1.4.4"
+    },
+    {
+      "v": "#head@da4769d737df5d21d03975f1a1170a74a8165abe",
+      "r": [],
+      "m": "1.4.4"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:36Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "remizstd",
+  "fqn": "remizstd.RemiliaScarlet.gitlab.com",
+  "head": "7f35f755dab02ca9830b067913bba74512f50925",
+  "author": "MistressRemilia",
+  "description": "Bindings for ZStandard",
+  "license": "GPL-3.0-or-later",
+  "nim": "1.6.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.1@7aef1672178db78d26c5a872ba025f03b2c8a9c6",
+      "r": []
+    },
+    {
+      "v": "#head@7f35f755dab02ca9830b067913bba74512f50925",
+      "r": [],
+      "a": "MistressRemilia",
+      "d": "Bindings for ZStandard",
+      "l": "GPL-3.0-or-later",
+      "s": "src",
+      "m": "1.6.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:10Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

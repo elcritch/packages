@@ -1,0 +1,41 @@
+{
+  "cv": 17,
+  "name": "youtubescraper",
+  "fqn": "youtubescraper.TaxMachine.github.com",
+  "head": "bab1b17e754b19deb3a64800c13d82a6f8e6e852",
+  "author": "TaxMachine",
+  "description": "Fast youtube scraper",
+  "license": "WTFPL",
+  "nim": "1.6.10",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "1.0@bab1b17e754b19deb3a64800c13d82a6f8e6e852^",
+      "r": []
+    },
+    {
+      "v": "#head@bab1b17e754b19deb3a64800c13d82a6f8e6e852",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:54:22Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v1.0"
+    ],
+    "tagVersions": {
+      "v1.0": "1.0"
+    },
+    "latest": "v1.0"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

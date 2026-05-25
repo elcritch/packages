@@ -1,0 +1,51 @@
+{
+  "cv": 17,
+  "name": "pixienator",
+  "fqn": "pixienator.patternspandemic.github.com",
+  "head": "587097be5a017b7ddac309eaba50faf3c38a76ee",
+  "author": "patternspandemic",
+  "description": "Helpers for visualizing delaunator with pixie.",
+  "license": "Unlicense",
+  "nim": "1.6.12",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "20230610@42bcf52d1acd2c6b922ace29e643e3bc27c1ac7b",
+      "r": [
+        "pixie >= 5.0.6",
+        "delaunator >= 20230610"
+      ]
+    },
+    {
+      "v": "20230607@2080a1c07e0bd1545f5bac197d0a96c9fe21598e",
+      "r": [
+        "pixie >= 5.0.6",
+        "delaunator >= 20230606"
+      ]
+    },
+    {
+      "v": "#head@587097be5a017b7ddac309eaba50faf3c38a76ee",
+      "r": [
+        "pixie >= 5.0.6",
+        "delaunator >= 20230610"
+      ],
+      "a": "patternspandemic",
+      "d": "Helpers for visualizing delaunator with pixie.",
+      "l": "Unlicense",
+      "s": "src",
+      "m": "1.6.12"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:50:28Z",
+  "allDeps": {
+    "packages": [
+      "delaunator",
+      "pixie"
+    ],
+    "urls": [],
+    "unresolved": [
+      "pixie"
+    ]
+  }
+}

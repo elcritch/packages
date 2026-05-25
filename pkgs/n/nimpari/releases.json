@@ -1,0 +1,85 @@
+{
+  "cv": 17,
+  "name": "nimpari",
+  "fqn": "nim-pari.BarrOff.github.com",
+  "head": "7d6417a7d8d4d56e7279db2e4a3f58080e3f2488",
+  "author": "BarrOff",
+  "description": "Nim wrapper for the PARI library",
+  "license": "MIT",
+  "nim": "1.2.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.2.0@e39042f6758727122a0567cb32ec5365bc56b7df",
+      "r": [
+        "nimterop >= 0.6.11"
+      ]
+    },
+    {
+      "v": "0.1.2@0cbf2d0096a689be79758500bd52f8ec21eb13b4",
+      "r": [
+        "nimterop >= 0.6.11"
+      ],
+      "m": "1.0.0"
+    },
+    {
+      "v": "0.1.1@7ea1f08d4c00cf1e9f92c78a2c487f399a901f19",
+      "r": [
+        "nimterop >= 0.5.0"
+      ],
+      "m": "1.0.0"
+    },
+    {
+      "v": "0.1.0@860b04e2ccecea61aef90583249ae9cadf91e5f5",
+      "r": [
+        "nimterop >= 0.4.4"
+      ],
+      "m": "1.0.0"
+    },
+    {
+      "v": "#head@7d6417a7d8d4d56e7279db2e4a3f58080e3f2488",
+      "r": [
+        "nimterop >= 0.6.11"
+      ],
+      "a": "BarrOff",
+      "d": "Nim wrapper for the PARI library",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.2.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:49:03Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.0",
+      "v0.1.1",
+      "v0.1.2",
+      "v0.2.0"
+    ],
+    "tagVersions": {
+      "v0.1.0": "0.1.0",
+      "v0.1.1": "0.1.1",
+      "v0.1.2": "0.1.2",
+      "v0.2.0": "0.2.0"
+    },
+    "latest": "v0.2.0"
+  },
+  "allDeps": {
+    "packages": [
+      "cligen",
+      "graphemes",
+      "nimterop",
+      "regex",
+      "segmentation",
+      "unicodedb",
+      "unicodeplus"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

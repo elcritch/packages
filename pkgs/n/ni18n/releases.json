@@ -1,0 +1,52 @@
+{
+  "cv": 17,
+  "name": "ni18n",
+  "fqn": "ni18n.heinthanth.github.com",
+  "head": "40e6cd1b4d4f4ede0efaae5d416f8c94b02aadd6",
+  "author": "Hein Thant Maung Maung",
+  "description": "Super Fast Nim Macros For Internationalization and Localization",
+  "license": "MIT",
+  "nim": "1.0.0",
+  "srcDir": "src",
+  "installExt": [
+    "nim"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@915650d9af24908e2507e3a377a46acc8d4c3105",
+      "r": []
+    },
+    {
+      "v": "#head@40e6cd1b4d4f4ede0efaae5d416f8c94b02aadd6",
+      "r": [],
+      "a": "Hein Thant Maung Maung",
+      "d": "Super Fast Nim Macros For Internationalization and Localization",
+      "l": "MIT",
+      "s": "src",
+      "k": [
+        "nim"
+      ],
+      "m": "1.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:48:07Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.0"
+    ],
+    "tagVersions": {
+      "v0.1.0": "0.1.0"
+    },
+    "latest": "v0.1.0"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

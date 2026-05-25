@@ -1,0 +1,45 @@
+{
+  "cv": 17,
+  "name": "lda",
+  "fqn": "lda.andreaferretti.github.com",
+  "head": "eee2501656532caad0a12290dc70022fadd98bca",
+  "author": "Andrea Ferretti",
+  "description": "Latent Dirichlet allocation",
+  "license": "Apache2",
+  "nim": "0.18.0",
+  "releases": [
+    {
+      "v": "0.1.0@e2e3af1651039863964bfc6392941f8b555b090a",
+      "r": [
+        "neo >= 0.1.7",
+        "alea >= 0.1.2"
+      ]
+    },
+    {
+      "v": "#head@eee2501656532caad0a12290dc70022fadd98bca",
+      "r": [],
+      "a": "Andrea Ferretti",
+      "d": "Latent Dirichlet allocation",
+      "l": "Apache2",
+      "x": [
+        "examples",
+        "tests"
+      ],
+      "m": "0.18.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:46:40Z",
+  "allDeps": {
+    "packages": [
+      "alea",
+      "neo",
+      "nimblas",
+      "nimcuda",
+      "nimlapack",
+      "random"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

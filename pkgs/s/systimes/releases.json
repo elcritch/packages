@@ -1,0 +1,37 @@
+{
+  "cv": 17,
+  "name": "systimes",
+  "fqn": "systimes.GULPF.github.com",
+  "head": "60d38f97abf31243ad88be7dcc19804b2dabc2ec",
+  "author": "Oscar Nihlgård",
+  "description": "An alternative DateTime implementation for Nim",
+  "license": "MIT",
+  "nim": "0.18.1",
+  "skipFiles": [
+    "tests.nim"
+  ],
+  "releases": [
+    {
+      "v": "0.2.1@eda0f5745a7ce53ef29e677745d72d749a20661c",
+      "r": []
+    },
+    {
+      "v": "#head@60d38f97abf31243ad88be7dcc19804b2dabc2ec",
+      "r": [],
+      "a": "Oscar Nihlgård",
+      "d": "An alternative DateTime implementation for Nim",
+      "l": "MIT",
+      "y": [
+        "tests.nim"
+      ],
+      "m": "0.18.1"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:34Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

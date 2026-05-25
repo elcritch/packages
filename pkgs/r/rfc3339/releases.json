@@ -1,0 +1,39 @@
+{
+  "cv": 17,
+  "name": "rfc3339",
+  "fqn": "rfc3339.Skrylar.github.com",
+  "head": "bc89d93f4072c6b6cb692381734d66a9f1f1b82c",
+  "author": "Joshua Cearley",
+  "description": "RFC3339 (dates and times) implementation for Nim.",
+  "license": "BSD",
+  "nim": "0.17.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@fe48dfa95d48d1a7546cf84c116f15e71b19112e",
+      "r": [],
+      "s": ""
+    },
+    {
+      "v": "0.1.1@a0336ac4987ff9f32ea6271956d8ede993263147",
+      "r": [],
+      "m": "1.0.4"
+    },
+    {
+      "v": "#head@bc89d93f4072c6b6cb692381734d66a9f1f1b82c",
+      "r": [],
+      "a": "Joshua Cearley",
+      "d": "RFC3339 (dates and times) implementation for Nim.",
+      "l": "BSD",
+      "s": "src",
+      "m": "1.0.4"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:13Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

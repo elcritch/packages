@@ -1,0 +1,40 @@
+{
+  "cv": 17,
+  "name": "curlies",
+  "fqn": "curlies.svenrdz.github.com",
+  "head": "7a665b630eabcb23c6dcee1b697277ded1361835",
+  "author": "svenrdz",
+  "description": "A new awesome nimble package",
+  "license": "MIT",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@7a665b630eabcb23c6dcee1b697277ded1361835^",
+      "r": [
+        "micros >= 0.1.13",
+        "ast_pattern_matching",
+        "fungus"
+      ]
+    },
+    {
+      "v": "#head@7a665b630eabcb23c6dcee1b697277ded1361835",
+      "r": [
+        "micros >= 0.1.13",
+        "ast_pattern_matching",
+        "fungus"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:43:47Z",
+  "allDeps": {
+    "packages": [
+      "ast_pattern_matching",
+      "fungus",
+      "micros"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "cv": 17,
+  "name": "notetxt",
+  "fqn": "nim-notetxt.mrshu.github.com",
+  "head": "fa5ac89b1b0733cbcf9a59941c1e567f72b944e9",
+  "author": "mr.Shu",
+  "description": "A library that implements the note.txt specification for note taking.",
+  "license": "MIT",
+  "nim": "0.11",
+  "releases": [
+    {
+      "v": "0.1.0@21b4ada4827893d9d7b6a50dfaeb81c4237821d1",
+      "r": []
+    },
+    {
+      "v": "#head@fa5ac89b1b0733cbcf9a59941c1e567f72b944e9",
+      "r": [],
+      "a": "mr.Shu",
+      "d": "A library that implements the note.txt specification for note taking.",
+      "l": "MIT",
+      "m": "0.11"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:49:40Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

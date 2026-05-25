@@ -1,0 +1,47 @@
+{
+  "cv": 17,
+  "name": "htmlunescape",
+  "fqn": "htmlunescape.AmanoTeam.github.com",
+  "head": "d40f46cd0afdffcdd6fd3902e31d2748023a88d6",
+  "author": "SnwMds",
+  "description": "Port of Python's html.escape and html.unescape to Nim",
+  "license": "LGPL-3.0",
+  "nim": "1.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.2@d40f46cd0afdffcdd6fd3902e31d2748023a88d6^",
+      "r": []
+    },
+    {
+      "v": "0.1@229cb5956814a1970c3cf9bb44ba45d64efdafd9",
+      "r": []
+    },
+    {
+      "v": "#head@d40f46cd0afdffcdd6fd3902e31d2748023a88d6",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:50Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1",
+      "v0.2"
+    ],
+    "tagVersions": {
+      "v0.1": "0.1",
+      "v0.2": "0.2"
+    },
+    "latest": "v0.2"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

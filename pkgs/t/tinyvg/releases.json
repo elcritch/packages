@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "tinyvg",
+  "fqn": "tinyvg.bung87.github.com",
+  "head": "1aefbb729828f124010bf921d86e9565a890aae6",
+  "author": "bung87",
+  "description": "TinyVG - A compact binary vector graphics format implementation in Nim",
+  "license": "MIT",
+  "nim": "2.2.4",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@656f65bf85a40337c4f956daffa76f70525ab072",
+      "r": []
+    },
+    {
+      "v": "#head@1aefbb729828f124010bf921d86e9565a890aae6",
+      "r": [],
+      "a": "bung87",
+      "d": "TinyVG - A compact binary vector graphics format implementation in Nim",
+      "l": "MIT",
+      "s": "src",
+      "m": "2.2.4"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:57Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

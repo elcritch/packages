@@ -1,0 +1,32 @@
+{
+  "cv": 17,
+  "name": "utils",
+  "fqn": "utils.nim-appkit.github.com",
+  "head": "95fecae378fffc204bd326ded6f41b69da5786a0",
+  "author": "Christoph Herzog",
+  "description": "Collection of useful Nim code.",
+  "license": "MIT",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@e52f63841ad6ac671456e7615971419fde4ef044",
+      "r": []
+    },
+    {
+      "v": "#head@95fecae378fffc204bd326ded6f41b69da5786a0",
+      "n": "utils",
+      "r": [],
+      "a": "Christoph Herzog",
+      "d": "Collection of useful Nim code.",
+      "l": "MIT",
+      "s": "src"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:53:28Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

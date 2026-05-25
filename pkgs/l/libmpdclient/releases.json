@@ -1,0 +1,34 @@
+{
+  "cv": 17,
+  "name": "libmpdclient",
+  "fqn": "libmpdclient.nim.lompik.github.com",
+  "head": "b5189300878620ecb5acd4caf9761f4bc2b86fca",
+  "author": "Lompik",
+  "description": "Bindings to Music Player Daemon client library",
+  "license": "BSD",
+  "releases": [
+    {
+      "v": "0.0.1@567030a83208604bc2ae1d7a01f818844fd39a36",
+      "r": []
+    },
+    {
+      "v": "#head@b5189300878620ecb5acd4caf9761f4bc2b86fca",
+      "r": [],
+      "a": "Lompik",
+      "d": "Bindings to Music Player Daemon client library",
+      "l": "BSD",
+      "y": [
+        "example.nim",
+        "libmpdclient.pre"
+      ],
+      "m": "0.10.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:46:46Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

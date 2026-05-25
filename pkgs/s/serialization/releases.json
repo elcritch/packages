@@ -1,0 +1,182 @@
+{
+  "cv": 17,
+  "name": "serialization",
+  "fqn": "nim-serialization.status-im.github.com",
+  "head": "1790d8a931fce125d6722f7ee8432ee8c054d297",
+  "author": "Status Research & Development GmbH",
+  "description": "A modern and extensible serialization framework for Nim",
+  "license": "Apache License 2.0",
+  "nim": "2.0.0",
+  "skipDirs": [
+    "tests"
+  ],
+  "releases": [
+    {
+      "v": "0.5.2@b0f2fa32960ea532a184394b0f27be37bd80248b",
+      "r": [
+        "faststreams",
+        "unittest2",
+        "stew"
+      ]
+    },
+    {
+      "v": "0.5.1@7e3693d055625dd4fcc61c9f4d169d6342304127",
+      "r": [
+        "faststreams",
+        "unittest2",
+        "stew"
+      ]
+    },
+    {
+      "v": "0.5.0@f80cfd8657f272a2abd063d070b77f2a74f704cd",
+      "r": [
+        "faststreams",
+        "unittest2",
+        "stew"
+      ]
+    },
+    {
+      "v": "0.4.9@a66ba0482b474768dca4266eaee7b56b7967ab36",
+      "r": [
+        "faststreams",
+        "unittest2",
+        "stew"
+      ],
+      "m": "1.6.0"
+    },
+    {
+      "v": "0.4.8@12ada99c0c88a7ed4b45c7af0aebcce3ef7f926a",
+      "r": [
+        "faststreams",
+        "unittest2",
+        "stew"
+      ],
+      "m": "1.6.0"
+    },
+    {
+      "v": "0.4.6@de6c74b18228c1f25d0abe58eafdba1d64861fec",
+      "r": [
+        "faststreams",
+        "unittest2",
+        "stew"
+      ],
+      "m": "1.6.0"
+    },
+    {
+      "v": "0.4.4@2773744212584c5996131ba6e19006f66be3604a",
+      "r": [
+        "faststreams",
+        "unittest2",
+        "stew"
+      ],
+      "m": "1.6.0"
+    },
+    {
+      "v": "0.4.2@c7f585a1a77a8a0059955019e26adb576ffa01d9",
+      "r": [
+        "faststreams",
+        "unittest2",
+        "stew"
+      ],
+      "m": "1.6.0"
+    },
+    {
+      "v": "0.4.0@ae26a416636c45b465f6a7b6f40ba86d0f1e6508",
+      "r": [
+        "faststreams",
+        "unittest2",
+        "stew"
+      ],
+      "m": "1.6.0"
+    },
+    {
+      "v": "0.3.0@f3a341d5f7d6b6eea6b473cb5cc7df9262428548",
+      "r": [
+        "faststreams",
+        "unittest2",
+        "stew"
+      ],
+      "m": "1.6.0"
+    },
+    {
+      "v": "0.2.7@4d0d8802804f811db1a9ec0dcb8819ce161eda0c",
+      "r": [
+        "faststreams",
+        "unittest2",
+        "stew"
+      ],
+      "m": "1.6.0"
+    },
+    {
+      "v": "0.2.6@2086c99608b4bf472e1ef5fe063710f280243396",
+      "r": [
+        "faststreams",
+        "unittest2",
+        "stew"
+      ],
+      "m": "1.6.0"
+    },
+    {
+      "v": "0.2.4@08055d72f3ce0b29e799c191713e0ca2e903fe71",
+      "r": [
+        "faststreams",
+        "unittest2",
+        "stew"
+      ],
+      "m": "1.6.0"
+    },
+    {
+      "v": "#head@1790d8a931fce125d6722f7ee8432ee8c054d297",
+      "n": "serialization",
+      "r": [
+        "faststreams",
+        "unittest2",
+        "stew"
+      ],
+      "a": "Status Research & Development GmbH",
+      "d": "A modern and extensible serialization framework for Nim",
+      "l": "Apache License 2.0",
+      "x": [
+        "tests"
+      ],
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:36Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.4.0",
+      "v0.4.2",
+      "v0.4.4",
+      "v0.4.6",
+      "v0.5.0",
+      "v0.5.1",
+      "v0.5.2"
+    ],
+    "tagVersions": {
+      "v0.4.0": "0.4.0",
+      "v0.4.2": "0.4.2",
+      "v0.4.4": "0.4.4",
+      "v0.4.6": "0.4.6",
+      "v0.5.0": "0.5.0",
+      "v0.5.1": "0.5.1",
+      "v0.5.2": "0.5.2"
+    },
+    "latest": "v0.5.2"
+  },
+  "allDeps": {
+    "packages": [
+      "faststreams",
+      "results",
+      "stew",
+      "unittest2"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

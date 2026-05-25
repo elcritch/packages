@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "nim_midi",
+  "fqn": "nim_midi.jerous86.github.com",
+  "head": "4ed94f045f115207116169094de0acf5902f80c8",
+  "author": "jerous",
+  "description": "Read and write midi files",
+  "license": "MIT",
+  "nim": "1.2.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1@7f7122874d8f5489b53ad335ffaf932bcb4f1ebf",
+      "r": []
+    },
+    {
+      "v": "#head@4ed94f045f115207116169094de0acf5902f80c8",
+      "r": [],
+      "a": "jerous",
+      "d": "Read and write midi files",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.2.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:48:22Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

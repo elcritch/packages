@@ -1,0 +1,27 @@
+{
+  "cv": 17,
+  "name": "rsvg",
+  "fqn": "rsvg.def-.github.com",
+  "head": "f05f09bb236914feb2081627633e1dd24fe908f2",
+  "releases": [
+    {
+      "v": "~@f05f09bb236914feb2081627633e1dd24fe908f2",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    },
+    {
+      "v": "#head@f05f09bb236914feb2081627633e1dd24fe908f2",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:19Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

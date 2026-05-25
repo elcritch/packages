@@ -1,0 +1,102 @@
+{
+  "cv": 17,
+  "name": "nimcp",
+  "fqn": "nimcp.gokr.github.com",
+  "head": "fa6c1e09f3c368b4195aeff37569b1cfbc84597e",
+  "author": "Göran Krampe",
+  "description": "Easy-to-use Model Context Protocol (MCP) server implementation for Nim",
+  "license": "MIT",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@54299a04a812b3e749cd5f3fdaebb2e18b7d15d6",
+      "r": [
+        "json_serialization",
+        "chronos",
+        "stew"
+      ]
+    },
+    {
+      "v": "0.2.0@4d7b0fecc88693254ffe86f515d262797a778d60",
+      "r": [
+        "json_serialization",
+        "mummy"
+      ],
+      "m": "2.2.4"
+    },
+    {
+      "v": "0.3.0@0fec27588664ea5e1bc9ac1e07e643d5c09f2baa",
+      "r": [
+        "json_serialization",
+        "mummy",
+        "taskpools"
+      ],
+      "m": "2.2.4"
+    },
+    {
+      "v": "0.8.0@dda8eb43152ea795d0315cfa02f5b53e3672653d",
+      "r": [
+        "gh:gokr/mummy",
+        "taskpools"
+      ],
+      "m": "2.2.4"
+    },
+    {
+      "v": "0.9.0@3d2b334b0da8496b52bf5bc859f1f234c0a63cf0",
+      "r": [
+        "gh:gokr/mummyx",
+        "taskpools"
+      ],
+      "d": "Easy-to-use Model Context Protocol (MCP) server library for Nim",
+      "m": "2.2.4"
+    },
+    {
+      "v": "0.9.1@4eae6a857cc3152b7388c74421d9a7425327ee04",
+      "r": [
+        "gh:gokr/mummyx",
+        "taskpools"
+      ],
+      "d": "Easy-to-use Model Context Protocol (MCP) server library for Nim",
+      "m": "2.2.4"
+    },
+    {
+      "v": "#head@fa6c1e09f3c368b4195aeff37569b1cfbc84597e",
+      "r": [
+        "gh:gokr/mummyx",
+        "taskpools"
+      ],
+      "a": "Göran Krampe",
+      "d": "Easy-to-use Model Context Protocol (MCP) server library for Nim",
+      "l": "MIT",
+      "s": "src",
+      "m": "2.2.4"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:48:37Z",
+  "allDeps": {
+    "packages": [
+      "bearssl <= 0.1.0",
+      "chronos <= 0.1.0",
+      "crunchy > 0.1.0 & <= 0.3.0",
+      "faststreams <= 0.3.0",
+      "httputils <= 0.1.0",
+      "json_serialization <= 0.3.0",
+      "mummy > 0.1.0 & <= 0.3.0",
+      "nimsimd > 0.1.0 & <= 0.3.0",
+      "results <= 0.3.0",
+      "serialization <= 0.3.0",
+      "stew <= 0.3.0",
+      "taskpools > 0.2.0",
+      "unittest2 <= 0.3.0",
+      "webby > 0.1.0 & <= 0.3.0",
+      "zippy > 0.1.0 & <= 0.3.0"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:gokr/mummy",
+      "gh:gokr/mummyx"
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "cv": 17,
+  "name": "nimkdl",
+  "fqn": "nimkdl.greenm01.github.com",
+  "head": "4755e537a848e5f91465ccb314013fc0a7ce7c2f",
+  "author": "niltempus",
+  "description": "KDL 2.0 document parser for Nim",
+  "license": "MIT",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "skipFiles": [
+    "src/nimkdl/query.nim",
+    "src/nimkdl/schema.nim"
+  ],
+  "bin": [
+    "kdl"
+  ],
+  "releases": [
+    {
+      "v": "2.1.0@7b2d2eb7a81bd3454cbc83d1ae6bdb1ba1ed5b2a",
+      "r": [
+        "bigints",
+        "graphemes 0.12.0",
+        "unicodedb 0.13.0"
+      ],
+      "p": []
+    },
+    {
+      "v": "2.0.7@9dfeb00767ff6a223a4f52ece419f4f462f68282",
+      "r": [
+        "bigints",
+        "graphemes 0.12.0",
+        "unicodedb 0.13.0"
+      ],
+      "p": []
+    },
+    {
+      "v": "2.0.6@600f86cfa4e28083ddf6b3e261332530bf587455",
+      "r": [
+        "bigints",
+        "graphemes 0.12.0",
+        "unicodedb 0.13.0"
+      ]
+    },
+    {
+      "v": "2.0.5@283b99a95d51c7f1dec89644a1e0d8bdda09453c",
+      "r": [
+        "bigints",
+        "graphemes 0.12.0",
+        "unicodedb 0.13.0"
+      ]
+    },
+    {
+      "v": "2.0.4@ebb634f43b6f1fd99b2894f88492c866defcc05b",
+      "r": [
+        "bigints",
+        "graphemes 0.12.0",
+        "unicodedb 0.13.0"
+      ]
+    },
+    {
+      "v": "2.0.3@121ec32231fb61c9a996117d5a78ad4256caae86",
+      "r": [
+        "bigints",
+        "graphemes 0.12.0",
+        "unicodedb 0.13.0"
+      ]
+    },
+    {
+      "v": "2.0.2@93275d78a69e8454cbd1578b295cb26285ef45d5",
+      "r": [
+        "bigints",
+        "graphemes 0.12.0",
+        "unicodedb 0.13.0"
+      ]
+    },
+    {
+      "v": "2.0.1@30c8aee23135771e36f5485283fbe8007861aa5e",
+      "r": [
+        "bigints",
+        "graphemes 0.12.0",
+        "unicodedb 0.13.0"
+      ]
+    },
+    {
+      "v": "2.0.0@b458649179ad7686a7ac5f66ebb8e2277f91bdaf",
+      "r": [
+        "graphemes 0.12.0",
+        "unicodedb 0.13.0"
+      ],
+      "d": "Production-ready KDL 2.0 document parser for Nim",
+      "y": [
+        "src/kdl/query.nim",
+        "src/kdl/schema.nim"
+      ],
+      "p": []
+    },
+    {
+      "v": "#head@4755e537a848e5f91465ccb314013fc0a7ce7c2f",
+      "n": "nimkdl",
+      "r": [
+        "bigints",
+        "graphemes 0.12.0",
+        "unicodedb 0.13.0"
+      ],
+      "a": "niltempus",
+      "d": "KDL 2.0 document parser for Nim",
+      "l": "MIT",
+      "s": "src",
+      "y": [
+        "src/nimkdl/query.nim",
+        "src/nimkdl/schema.nim"
+      ],
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:48:54Z",
+  "allDeps": {
+    "packages": [
+      "bigints > 2.0.0",
+      "graphemes",
+      "unicodedb"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

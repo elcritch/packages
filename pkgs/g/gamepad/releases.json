@@ -1,0 +1,136 @@
+{
+  "cv": 17,
+  "name": "gamepad",
+  "fqn": "nim-gamepad.konsumer.github.com",
+  "head": "683d7eba6a5faa4006af04bebb6a7d0b3b57ef45",
+  "author": "David Konsumer",
+  "description": "Cross-platform gamepad driver",
+  "license": "MIT",
+  "nim": "1.6.10",
+  "srcDir": "src",
+  "installDirs": [
+    "src/",
+    "libgamepad/"
+  ],
+  "installExt": [
+    "nim",
+    "c",
+    "h"
+  ],
+  "bin": [
+    "jstest"
+  ],
+  "releases": [
+    {
+      "v": "0.0.1@cc2c44dd21ba2507f9a03f7998b33b58ae8d7b99",
+      "r": [],
+      "i": [],
+      "k": [],
+      "p": []
+    },
+    {
+      "v": "0.0.2@080f9a2da4b4def8e9b20546dbeb4581f8236ff6",
+      "r": [],
+      "i": [],
+      "k": []
+    },
+    {
+      "v": "0.0.3@adc03b67d72b0c4c0e828318035bd3f4fb70f116",
+      "r": [],
+      "k": []
+    },
+    {
+      "v": "0.0.4@8cc60b9a0df928fa5578a3f0b4f0cb98269be8b5",
+      "r": [],
+      "i": [
+        "src/",
+        "libgamepad/gamepad"
+      ]
+    },
+    {
+      "v": "0.0.5@0b14cc0658b8f155d39a0872bb15a4712aafb61e",
+      "r": [],
+      "i": [
+        "src/",
+        "libgamepad/gamepad"
+      ],
+      "k": []
+    },
+    {
+      "v": "0.0.6@93d95a7dc2eb5b3ff18f2b0cf5777f1558399191",
+      "r": [],
+      "i": [
+        "src",
+        "src/gamepad"
+      ],
+      "k": []
+    },
+    {
+      "v": "0.0.7@361f1218ef749dd96b99278fc65d7e1411d42846",
+      "r": [],
+      "i": [],
+      "k": []
+    },
+    {
+      "v": "0.0.8@1d9cd54319bb51d155d72ec11317c4a8ffdc4382",
+      "r": [],
+      "i": [],
+      "k": []
+    },
+    {
+      "v": "0.0.9@dae7f1f4576d091f871d8eeadaa31088d1584992",
+      "r": [],
+      "i": [
+        "libgamepad/gamepad"
+      ]
+    },
+    {
+      "v": "0.0.10@27d0c63ff7606eb106706b35930e236784035ef1",
+      "r": [],
+      "i": [
+        "gamepad"
+      ]
+    },
+    {
+      "v": "0.0.11@a4fa8a36cb639f67aec2ab5e9c88bc976bc87da1",
+      "r": [],
+      "i": [
+        "gamepad"
+      ]
+    },
+    {
+      "v": "0.0.12@2cd7e936227cdd2f021ace2036e85d24033f05a7",
+      "r": [],
+      "i": []
+    },
+    {
+      "v": "0.0.16@10fd14c4c9da36498897f3c8c7069bc954b988ed",
+      "r": [],
+      "i": []
+    },
+    {
+      "v": "#head@683d7eba6a5faa4006af04bebb6a7d0b3b57ef45",
+      "r": [],
+      "a": "David Konsumer",
+      "d": "Cross-platform gamepad driver",
+      "l": "MIT",
+      "s": "src",
+      "k": [
+        "nim",
+        "c",
+        "h"
+      ],
+      "p": [
+        "jstest"
+      ],
+      "m": "1.6.10"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:03Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

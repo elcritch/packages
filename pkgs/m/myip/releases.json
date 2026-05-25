@@ -1,0 +1,34 @@
+{
+  "cv": 17,
+  "name": "myip",
+  "fqn": "myip.nemuelw.github.com",
+  "head": "65f849acc1e504db4584b3d127056c8935d3bd3d",
+  "author": "Nemuel Wainaina",
+  "description": "Nim wrapper for the MyIP (https://my-ip.io) API",
+  "license": "GPL-3.0-only",
+  "nim": "1.6",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@65f849acc1e504db4584b3d127056c8935d3bd3d^",
+      "r": [
+        "jsony"
+      ]
+    },
+    {
+      "v": "#head@65f849acc1e504db4584b3d127056c8935d3bd3d",
+      "r": [
+        "jsony"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:47:48Z",
+  "allDeps": {
+    "packages": [
+      "jsony"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

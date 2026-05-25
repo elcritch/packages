@@ -1,0 +1,47 @@
+{
+  "cv": 17,
+  "name": "gptcli",
+  "fqn": "gptcli.jaredmontoya.github.com",
+  "head": "0612ccc141f45e70f766dbe92a748542cb7ad6a2",
+  "author": "jaredmontoya",
+  "description": "OpenAI GPTs cli client written in nim",
+  "license": "GPL-3.0-or-later",
+  "srcDir": "src",
+  "installExt": [
+    "nim"
+  ],
+  "bin": [
+    "gptcli"
+  ],
+  "releases": [
+    {
+      "v": "4.0.0@0271dacdd7b9fd0a93338239005e1504a9bec84a",
+      "r": [],
+      "S": "HasBrokenNimbleFile",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/gptcli.jaredmontoya.github.com-0271dacd-gptcli.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.0\ninvalid 'requires' syntax in nimble file: cligen ^= 1.6.16\ninvalid 'requires' syntax in nimble file: pyopenai ^= 0.2.0"
+    },
+    {
+      "v": "#head@0612ccc141f45e70f766dbe92a748542cb7ad6a2",
+      "r": [],
+      "a": "jaredmontoya",
+      "d": "OpenAI GPTs cli client written in nim",
+      "l": "GPL-3.0-or-later",
+      "s": "src",
+      "k": [
+        "nim"
+      ],
+      "p": [
+        "gptcli"
+      ],
+      "S": "HasBrokenNimbleFile",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/g/gptcli/.worktree/gptcli.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.0\ninvalid 'requires' syntax in nimble file: cligen ^= 1.6.16\ninvalid 'requires' syntax in nimble file: pyopenai ^= 0.2.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:25Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "cv": 17,
+  "name": "nim_tcc",
+  "fqn": "nim-tcc.turbomaster95.github.com",
+  "head": "49553e0aa613068ea4d913e72163d8801f9bc1e6",
+  "author": "Deva",
+  "description": "A high-level, memory-safe Nim wrapper for the TinyCC (TCC) compiler engine.",
+  "license": "MIT",
+  "nim": "2.2.6",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.2.0@49553e0aa613068ea4d913e72163d8801f9bc1e6^",
+      "r": [],
+      "h": true
+    },
+    {
+      "v": "0.1.0@b539e223c9ccef2677a48b25de617f9d96c1fe13",
+      "r": [],
+      "h": true
+    },
+    {
+      "v": "#head@49553e0aa613068ea4d913e72163d8801f9bc1e6",
+      "r": [],
+      "h": true
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:48:23Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

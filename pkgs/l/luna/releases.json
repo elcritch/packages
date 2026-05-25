@@ -1,0 +1,31 @@
+{
+  "cv": 17,
+  "name": "luna",
+  "fqn": "luna.nim.smallfx.github.com",
+  "head": "75ece083639ea96ce9146f86b9a4771aee2b1265",
+  "author": "Jackson Broussard",
+  "description": "Lua convenience library for nim",
+  "license": "MIT",
+  "nim": "0.14.0",
+  "releases": [
+    {
+      "v": "0.1.0@a3652d20cb58aa278ef7530287aea2ea3850649c",
+      "r": []
+    },
+    {
+      "v": "#head@75ece083639ea96ce9146f86b9a4771aee2b1265",
+      "r": [],
+      "a": "Jackson Broussard",
+      "d": "Lua convenience library for nim",
+      "l": "MIT",
+      "m": "0.14.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:47:11Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "cv": 17,
+  "name": "bluu",
+  "fqn": "bluu.disruptek.github.com",
+  "head": "f6accb5b57ec68c199e2a011b5e9156e08f4f173",
+  "author": "disruptek",
+  "description": "Microsoft Azure Cloud Computing Platform and Services (MAC) APIs",
+  "license": "MIT",
+  "nim": "0.20.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.0.6@24561116bdd00c94654759c937f4e5379a13162e",
+      "r": [
+        "gh:disruptek/rest >= 1.0.0",
+        "openapi >= 3.1.3",
+        "npeg >= 0.22.2"
+      ]
+    },
+    {
+      "v": "0.0.5@ad5509f0467ec0e677ba6b66c6cc5a41d92b0e56",
+      "r": [
+        "gh:disruptek/rest >= 1.0.0"
+      ]
+    },
+    {
+      "v": "0.0.4@f2b3c23314bf8b940514af2edfae709492512ffb",
+      "r": [
+        "openapi >= 3.1.0",
+        "gh:disruptek/rest >= 1.0.0"
+      ]
+    },
+    {
+      "v": "0.0.3@2864ce15deac5a679d05ee6357ee401bd7355310",
+      "r": [
+        "openapi >= 3.1.0",
+        "gh:disruptek/rest >= 1.0.0"
+      ]
+    },
+    {
+      "v": "0.0.2@19dcbfc9a1729bc7a84b777618b8047deaea1745",
+      "r": [
+        "openapi >= 3.0.1",
+        "gh:disruptek/rest >= 1.0.0"
+      ]
+    },
+    {
+      "v": "0.0.1@ec2a63fdeb970f8ac1548948430b123b1191ab75",
+      "r": [
+        "openapi 2.0.1"
+      ]
+    },
+    {
+      "v": "#head@f6accb5b57ec68c199e2a011b5e9156e08f4f173",
+      "r": [
+        "gh:disruptek/rest >= 1.0.0",
+        "openapi >= 3.1.3",
+        "npeg >= 0.22.2"
+      ],
+      "a": "disruptek",
+      "d": "Microsoft Azure Cloud Computing Platform and Services (MAC) APIs",
+      "l": "MIT",
+      "s": "src",
+      "m": "0.20.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:42:50Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.0.4",
+      "0.0.5"
+    ],
+    "latest": "0.0.5"
+  },
+  "allDeps": {
+    "packages": [
+      "foreach",
+      "npeg",
+      "openapi"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:disruptek/rest"
+    ]
+  }
+}

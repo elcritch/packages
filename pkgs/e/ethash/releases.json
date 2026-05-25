@@ -1,0 +1,38 @@
+{
+  "cv": 17,
+  "name": "ethash",
+  "fqn": "nim-ethash.status-im.github.com",
+  "head": "c2658d579295dff1d4b5f19c287c0cd3224ff701",
+  "author": "Status Research & Development GmbH",
+  "description": "A reimplementation in pure Nim of ethash, the ethereum proof-of-work algorithm",
+  "license": "Apachev2",
+  "nim": "0.17.2",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.0.1@d96742b3203979cf5ce50a7f1bf01b9fd268929e",
+      "r": []
+    },
+    {
+      "v": "#head@c2658d579295dff1d4b5f19c287c0cd3224ff701",
+      "n": "ethash",
+      "r": [
+        "nimcrypto >= 0.1.0"
+      ],
+      "a": "Status Research & Development GmbH",
+      "d": "A Nim implementation of Ethash, the Ethereum proof-of-work hashing function",
+      "l": "Apache License 2.0",
+      "s": "src",
+      "m": "1.6.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:29Z",
+  "allDeps": {
+    "packages": [
+      "nimcrypto"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

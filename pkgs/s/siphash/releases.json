@@ -1,0 +1,28 @@
+{
+  "cv": 17,
+  "name": "siphash",
+  "fqn": "nim_siphash.~ehmry.git.sr.ht",
+  "head": "c3115ebb6ce137ea31e4a7b5004eaa1fa263c15e",
+  "author": "Emery Hemingway",
+  "description": "SipHash, a pseudorandom function optimized for short messages.",
+  "license": "GPLv3",
+  "nim": "0.19.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@c3115ebb6ce137ea31e4a7b5004eaa1fa263c15e^",
+      "r": []
+    },
+    {
+      "v": "#head@c3115ebb6ce137ea31e4a7b5004eaa1fa263c15e",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:53Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

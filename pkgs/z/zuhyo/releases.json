@@ -1,0 +1,47 @@
+{
+  "cv": 17,
+  "name": "zuhyo",
+  "fqn": "zuhyo.arashi-software.github.com",
+  "head": "5e61001995c8830694a228ed7df52c5e6f658117",
+  "author": "ripples",
+  "description": "The easiest way to interact with a graphql api",
+  "license": "LGPL-3.0-or-later",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@765469330796ee82fe76392de78050aaac59503d",
+      "r": [
+        "puppy",
+        "jsony"
+      ]
+    },
+    {
+      "v": "#head@5e61001995c8830694a228ed7df52c5e6f658117",
+      "r": [
+        "puppy",
+        "jsony"
+      ],
+      "a": "ripples",
+      "d": "The easiest way to interact with a graphql api",
+      "l": "LGPL-3.0-or-later",
+      "s": "src",
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:54:29Z",
+  "allDeps": {
+    "packages": [
+      "jsony",
+      "libcurl",
+      "puppy",
+      "urlly",
+      "webby",
+      "winim",
+      "zippy"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

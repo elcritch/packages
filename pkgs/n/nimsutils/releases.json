@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "nimsutils",
+  "fqn": "nimsutils.FyraLabs.github.com",
+  "head": "a24c77999e501cb10847312d393f35f4c106cd6a",
+  "author": "madomado",
+  "description": "Common utils for Nimscript",
+  "license": "MIT",
+  "nim": "2.0.2",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@1ed73984994a40acbb8c8b1face52c016e725c3d",
+      "r": []
+    },
+    {
+      "v": "#head@a24c77999e501cb10847312d393f35f4c106cd6a",
+      "r": [],
+      "a": "madonuko",
+      "d": "Common utils for Nimscript",
+      "l": "MIT",
+      "s": "src",
+      "m": "2.0.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:49:15Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

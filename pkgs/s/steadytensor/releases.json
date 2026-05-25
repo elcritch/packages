@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "steadytensor",
+  "fqn": "SteadyTensor.garrettkinman.github.com",
+  "head": "eb5a4289e9566273137d28ff5fdb199870793393",
+  "author": "Garrett Kinman",
+  "description": "A lightweight, dependency-free tensor library that uses zero dynamic memory allocation. Intended for microcontrollers.",
+  "license": "MIT",
+  "nim": "2.2.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@4d230cc825400eb855935f2ff01cbed26b461a27",
+      "r": []
+    },
+    {
+      "v": "#head@eb5a4289e9566273137d28ff5fdb199870793393",
+      "r": [],
+      "a": "Garrett Kinman",
+      "d": "An ultra-light, ultra-flexible tensor library written in pure Nim. Intended for microcontrollers.",
+      "l": "MIT",
+      "s": "src",
+      "m": "2.2.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:17Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

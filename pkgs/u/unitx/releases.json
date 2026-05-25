@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "unitx",
+  "fqn": "unitx-nim.5-6-1.github.com",
+  "head": "cdb0fcb42e7b764152a19481952c56c9690269f6",
+  "author": "5-6-1",
+  "description": "lightweight unit",
+  "license": "MIT",
+  "nim": "2.0.2",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@e92475d2630d825286bdb77daa10365c7c34fd82",
+      "r": []
+    },
+    {
+      "v": "#head@cdb0fcb42e7b764152a19481952c56c9690269f6",
+      "r": [],
+      "a": "5-6-1",
+      "d": "lightweight unit",
+      "l": "MIT",
+      "s": "src",
+      "m": "2.0.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:53:22Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

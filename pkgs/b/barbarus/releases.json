@@ -1,0 +1,31 @@
+{
+  "cv": 17,
+  "name": "barbarus",
+  "fqn": "barbarus.cjxgm.github.com",
+  "head": "4e9224e2603470bc65080bb332bde6d76a7061c5",
+  "author": "Giumo Clanjor (哆啦比猫/兰威举)",
+  "description": "A simple extensible i18n engine.",
+  "license": "MIT",
+  "nim": "0.14.2",
+  "releases": [
+    {
+      "v": "0.1.0@efe25b6821a7a83d0341f8be688984caac0e7e3f",
+      "r": []
+    },
+    {
+      "v": "#head@4e9224e2603470bc65080bb332bde6d76a7061c5",
+      "r": [],
+      "a": "Giumo Clanjor (哆啦比猫/兰威举)",
+      "d": "A simple extensible i18n engine.",
+      "l": "MIT",
+      "m": "0.14.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:42:25Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

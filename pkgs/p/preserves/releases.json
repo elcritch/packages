@@ -1,0 +1,460 @@
+{
+  "cv": 17,
+  "name": "preserves",
+  "fqn": "preserves-nim.ehmry.git.syndicate-lang.org",
+  "head": "0b4db660688b0fa81e847500ed8623c10f737e76",
+  "author": "Emery Hemingway",
+  "description": "data model and serialization format",
+  "license": "Unlicense",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "bin": [
+    "preserves/preserves_schemac",
+    "preserves/preserves_schema_nim",
+    "preserves/private/preserves_encode"
+  ],
+  "releases": [
+    {
+      "v": "20251217@1585942fab7b05225cbce089b8351ad1a0842485",
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
+    },
+    {
+      "v": "20251203@513c27cd2caa03658b1ec96cd94a8450dfdc1337",
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
+    },
+    {
+      "v": "20251127@278150720d915e7d18b8bb3a53ec0d69a10969f1",
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
+    },
+    {
+      "v": "20250813@ded3ee565d4fdf3dc6ed1f9bac8741a3a13eea75",
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
+    },
+    {
+      "v": "20250318@db136dde9b9e6dbc24fdf553a02fa1ecbf01294f",
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
+    },
+    {
+      "v": "20250315@d5685bb88ae5bf7233981572184a03b43d3cdf2b",
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
+    },
+    {
+      "v": "20250214@21480c2fd0a6cc6ecfd34fb532ed975b135b0b8e",
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
+    },
+    {
+      "v": "20241221@c9f5806b153b2fd3ed8f868f8cf36cdbc25cd3d5",
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
+    },
+    {
+      "v": "20241219@7e0e8cd691eeffff83010448341d2b5996e0c498",
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
+    },
+    {
+      "v": "20241201@0032d17d91b3750ba0fc8d7722b0990f3ef5979f",
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
+    },
+    {
+      "v": "20241113@f5ff54e96c3a5ae8cd9607ad693e85f431e61e58",
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
+    },
+    {
+      "v": "20241029@9ebc917041c2c0bc34576ea6daff7888d54ac341",
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
+    },
+    {
+      "v": "20241020@a507fd3119b41eebe6d522b671804f6d5108b86c",
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
+    },
+    {
+      "v": "20240913@febe8c9d69647ef8ab2064a689e5067083bc1f38",
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
+    },
+    {
+      "v": "20240823@4fe1952aafad9d852771549669077c0f3577267f",
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
+    },
+    {
+      "v": "20240802@7ecc8cec3e119476a560d0c529b902a180852faa",
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
+    },
+    {
+      "v": "20240628@e22b354c11c6b9a87e3cde0e8958daa1414fb05b",
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
+    },
+    {
+      "v": "20240623@19f5641ec0459d60f0ae992aa72151c45a73ef2f",
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
+    },
+    {
+      "v": "20240610@560a6417a30a2dff63f24b62498e9fcac2de8354",
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
+    },
+    {
+      "v": "20240604@51d591d865ef13d92b02084b492768ec89728a7c",
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
+    },
+    {
+      "v": "20240523@ed065fcc2da71c20a0d5f9972cef2b3261c04727",
+      "r": [
+        "npeg >= 1.2.1",
+        "gh:ehmry/nim-bigints >= 20231006"
+      ]
+    },
+    {
+      "v": "20240522@1fee87590940761e288cf9ab3c7270832403b719",
+      "r": [
+        "npeg >= 1.2.1",
+        "gh:ehmry/nim-bigints >= 20231006"
+      ],
+      "p": [
+        "preserves/preserves_schema_nim",
+        "preserves/private/preserves_encode",
+        "preserves/schemac"
+      ]
+    },
+    {
+      "v": "20240422@fd498c6457cb9ad2f3179daa40da69eec00326dd",
+      "r": [
+        "npeg >= 1.2.1",
+        "gh:ehmry/nim-bigints >= 20231006"
+      ],
+      "p": [
+        "preserves/preserves_schema_nim",
+        "preserves/private/preserves_encode",
+        "preserves/schemac"
+      ]
+    },
+    {
+      "v": "20240312@9ae435a83c6d5028405538af5d24a023af625b6e",
+      "r": [
+        "npeg >= 1.2.1",
+        "gh:ehmry/nim-bigints >= 20231006"
+      ],
+      "p": [
+        "preserves/preserves_schema_nim",
+        "preserves/private/preserves_encode",
+        "preserves/schemac"
+      ]
+    },
+    {
+      "v": "20240208@2825bceecf33a15b9b7942db5331a32cbc39b281",
+      "r": [
+        "npeg >= 1.2.1",
+        "gh:ehmry/nim-bigints >= 20231006"
+      ],
+      "p": [
+        "preserves/preserves_schema_nim",
+        "preserves/private/preserves_encode",
+        "preserves/schemac"
+      ]
+    },
+    {
+      "v": "20240108@a01ba8c96d65f670862ba074bf82b50cbda6ed99",
+      "r": [
+        "npeg >= 1.2.1",
+        "gh:ehmry/nim-bigints >= 20231006"
+      ],
+      "p": [
+        "preserves/preserves_schema_nim",
+        "preserves/private/preserves_encode",
+        "preserves/schemac"
+      ]
+    },
+    {
+      "v": "20231102@4faeb766dc3945bcfacaa1a836ef6ab29b20ceb0",
+      "r": [
+        "npeg >= 1.2.1"
+      ],
+      "p": [
+        "preserves/preserves_schema_nim",
+        "preserves/private/preserves_encode",
+        "preserves/schemac"
+      ],
+      "m": "1.4.8"
+    },
+    {
+      "v": "20231021@edece399be70818208bf2263c30cb2bcf435bbff",
+      "r": [
+        "npeg >= 1.2.1"
+      ],
+      "p": [
+        "preserves/preserves_schema_nim",
+        "preserves/private/preserves_encode",
+        "preserves/schemac"
+      ],
+      "m": "1.4.8"
+    },
+    {
+      "v": "20231019@a2dc5becc0596d52ab205d869b7c167c0b562fb4",
+      "r": [
+        "npeg >= 1.2.1"
+      ],
+      "p": [
+        "preserves/preserves_schema_nim",
+        "preserves/private/preserves_encode",
+        "preserves/schemac"
+      ],
+      "m": "1.4.8"
+    },
+    {
+      "v": "20230914@c915accf7d2a36ca1f323e2f02e2df7375e815f1",
+      "r": [
+        "npeg"
+      ],
+      "p": [
+        "preserves/preserves_schema_nim",
+        "preserves/private/preserves_encode",
+        "preserves/schemac"
+      ],
+      "m": "1.4.8"
+    },
+    {
+      "v": "20230806@57f99840078047cec5fd35346f5038b4987e804a",
+      "r": [
+        "npeg"
+      ],
+      "p": [
+        "preserves/preserves_schema_nim",
+        "preserves/private/preserves_encode",
+        "preserves/schemac"
+      ],
+      "m": "1.4.8"
+    },
+    {
+      "v": "20230801@e65dc2271f304e867c8e4a76388443d64e015321",
+      "r": [
+        "npeg"
+      ],
+      "p": [
+        "preserves/preserves_schema_nim",
+        "preserves/private/preserves_encode",
+        "preserves/schemac"
+      ],
+      "m": "1.4.8"
+    },
+    {
+      "v": "20230720@6008b0ba2509dc2e92f914d78b3f54f24040f641",
+      "r": [
+        "npeg"
+      ],
+      "p": [
+        "preserves/preserves_schema_nim",
+        "preserves/private/preserves_encode",
+        "preserves/schemac"
+      ],
+      "m": "1.4.8"
+    },
+    {
+      "v": "20230530@0f697349ccbb885045cf0bf4c908507e2a3b2309",
+      "r": [
+        "npeg"
+      ],
+      "p": [
+        "preserves/preserves_schema_nim",
+        "preserves/private/preserves_encode",
+        "preserves/schemac"
+      ],
+      "m": "1.4.8"
+    },
+    {
+      "v": "20230520@c500e99b95683a4e699d103433ccfc85bb83a77b",
+      "r": [
+        "npeg"
+      ],
+      "p": [
+        "preserves/preserves_schema_nim",
+        "preserves/private/preserves_encode",
+        "preserves/schemac"
+      ],
+      "m": "1.4.8"
+    },
+    {
+      "v": "20230517@03876850e5e3ecd949809e29661fb2e769342ef1",
+      "r": [
+        "npeg"
+      ],
+      "p": [
+        "preserves/preserves_schema_nim",
+        "preserves/private/preserves_encode",
+        "preserves/schemac"
+      ],
+      "m": "1.4.8"
+    },
+    {
+      "v": "20230504@b9d8275624cbf3534b91a8e9efdaa57fc0ae29f3",
+      "r": [
+        "npeg"
+      ],
+      "p": [
+        "preserves/preserves_schema_nim",
+        "preserves/private/preserves_encode",
+        "preserves/schemac"
+      ],
+      "m": "1.4.8"
+    },
+    {
+      "v": "20230329@466a8d3af43ac4ee6897d1be23f10218891fb088",
+      "r": [
+        "npeg"
+      ],
+      "p": [
+        "preserves/preserves_schema_nim",
+        "preserves/private/preserves_encode",
+        "preserves/schemac"
+      ],
+      "m": "1.4.8"
+    },
+    {
+      "v": "20221208@d5909e4df088d63e20967f2cbb301c93102414ac",
+      "r": [
+        "npeg"
+      ],
+      "p": [
+        "preserves/preserves_schema_nim",
+        "preserves/private/preserves_encode",
+        "preserves/schemac"
+      ],
+      "m": "1.4.8"
+    },
+    {
+      "v": "20221102@2d2df1f918f4e6ef5b6c51e139bf24bc28101634",
+      "r": [
+        "npeg"
+      ],
+      "m": "1.4.8",
+      "p": []
+    },
+    {
+      "v": "20221020@85e67603ed565e1dcedfb802a1ed7a175183056d",
+      "r": [
+        "npeg"
+      ],
+      "m": "1.4.8",
+      "p": []
+    },
+    {
+      "v": "20221013@5b6f673951796553a9cfc2f927e2dd3ed1917d6b",
+      "r": [
+        "npeg"
+      ],
+      "m": "1.4.8",
+      "p": []
+    },
+    {
+      "v": "20220709@8c0af37694a63ed008488fa42b58a2d144da890b",
+      "r": [
+        "npeg"
+      ],
+      "m": "1.4.8",
+      "p": []
+    },
+    {
+      "v": "20220625@cc0472da3dc4a736fb1461dd3de20007f11bdb43",
+      "r": [
+        "npeg"
+      ],
+      "m": "1.4.8",
+      "p": []
+    },
+    {
+      "v": "0.20260407@0b4db660688b0fa81e847500ed8623c10f737e76",
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
+    },
+    {
+      "v": "0.20260309@1c3bf508711fee57cbe31f60445fa81fb8576544",
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
+    },
+    {
+      "v": "0.20260102@e1fe47650bee798886f70ea981013b94a6ce3443",
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
+    },
+    {
+      "v": "#head@0b4db660688b0fa81e847500ed8623c10f737e76",
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:50:42Z",
+  "allDeps": {
+    "packages": [
+      "npeg > 0.20260407 & <= 20240523"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:ehmry/nim-bigints"
+    ]
+  }
+}

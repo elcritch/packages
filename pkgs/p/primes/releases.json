@@ -1,0 +1,34 @@
+{
+  "cv": 17,
+  "name": "primes",
+  "fqn": "primes.wokibe.github.com",
+  "head": "790b963d7adee7dc6217ac14a11f6a65bc1960be",
+  "author": "wolfkibe@gmail.com",
+  "description": "Utilities for prime numbers",
+  "license": "MIT",
+  "nim": "1.4.2",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.10@790b963d7adee7dc6217ac14a11f6a65bc1960be^",
+      "r": [
+        "bitty >= 0.1.4"
+      ]
+    },
+    {
+      "v": "#head@790b963d7adee7dc6217ac14a11f6a65bc1960be",
+      "r": [
+        "bitty >= 0.1.4"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:50:43Z",
+  "allDeps": {
+    "packages": [
+      "bitty"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

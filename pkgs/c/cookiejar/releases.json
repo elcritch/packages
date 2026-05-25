@@ -1,0 +1,64 @@
+{
+  "cv": 17,
+  "name": "cookiejar",
+  "fqn": "cookiejar.planety.github.com",
+  "head": "372b0ab1a6036a9f48f7540e7f3090e61796d947",
+  "author": "ringabout",
+  "description": "HTTP Cookies for Nim.",
+  "license": "Apache-2.0",
+  "nim": "1.2.6",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.3.1@372b0ab1a6036a9f48f7540e7f3090e61796d947^",
+      "r": []
+    },
+    {
+      "v": "0.3.0@aa96ca83a7c154f08803c7715f054d77f2d623cf",
+      "r": [],
+      "a": "flywind"
+    },
+    {
+      "v": "0.2.0@7d93e7c1287bdfcc114d44592c1ee343d04ec5f0",
+      "r": [],
+      "a": "flywind",
+      "m": "1.2.0"
+    },
+    {
+      "v": "0.1.0@3bdf27f532d5c5a2095acf0a3d87bcbb49043606",
+      "r": [],
+      "a": "flywind",
+      "m": "1.2.0"
+    },
+    {
+      "v": "#head@372b0ab1a6036a9f48f7540e7f3090e61796d947",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:43:37Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.0",
+      "v0.2.0",
+      "v0.3.0",
+      "v0.3.1"
+    ],
+    "tagVersions": {
+      "v0.1.0": "0.1.0",
+      "v0.2.0": "0.2.0",
+      "v0.3.0": "0.3.0",
+      "v0.3.1": "0.3.1"
+    },
+    "latest": "v0.3.1"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

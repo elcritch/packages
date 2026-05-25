@@ -1,0 +1,31 @@
+{
+  "cv": 17,
+  "name": "binstreams",
+  "fqn": "nim-binstreams.johnnovak.github.com",
+  "head": "20053535d6bd4a31c36680005aed79f5f6ecf303",
+  "author": "John Novak <john@johnnovak.net>",
+  "description": "Endianness aware stream I/O for Nim",
+  "license": "WTFPL",
+  "nim": "1.6.0",
+  "releases": [
+    {
+      "v": "0.2.0@4715f6c9ebf036527032f3577d7c14b13caba711",
+      "r": []
+    },
+    {
+      "v": "#head@20053535d6bd4a31c36680005aed79f5f6ecf303",
+      "r": [],
+      "a": "John Novak <john@johnnovak.net>",
+      "d": "Endianness aware stream I/O for Nim",
+      "l": "WTFPL",
+      "m": "1.6.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:42:41Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

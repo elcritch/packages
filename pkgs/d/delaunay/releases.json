@@ -1,0 +1,34 @@
+{
+  "cv": 17,
+  "name": "delaunay",
+  "fqn": "DelaunayNim.Nycto.github.com",
+  "head": "78fc72882ee7aaf5e25dcf66f4429ebba1e8cc07",
+  "author": "Nycto",
+  "description": "Delaunay triangulator",
+  "license": "MIT",
+  "releases": [
+    {
+      "v": "0.2.0@220e1c7b98bf366c82be6a573bf267dac6547410",
+      "r": []
+    },
+    {
+      "v": "#head@78fc72882ee7aaf5e25dcf66f4429ebba1e8cc07",
+      "r": [],
+      "a": "Nycto",
+      "d": "Delaunay triangulator",
+      "l": "MIT",
+      "s": "src",
+      "x": [
+        "bin"
+      ],
+      "m": "1.2.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:43:58Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

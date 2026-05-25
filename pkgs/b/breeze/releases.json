@@ -1,0 +1,40 @@
+{
+  "cv": 17,
+  "name": "breeze",
+  "fqn": "breeze.alehander42.github.com",
+  "head": "df8dd1b8cee2ff5a3c15369d523955c7744a281c",
+  "author": "Alexander Ivanov",
+  "description": "macro dsl",
+  "license": "MIT",
+  "nim": "0.16.1",
+  "releases": [
+    {
+      "v": "0.0.1@5c5009863a03f950ad8c841585a0d1dc00e9583f",
+      "r": []
+    },
+    {
+      "v": "0.0.4@30f311394aee1d76d3acfa7fab55faf775615ca6",
+      "r": []
+    },
+    {
+      "v": "0.0.5@49c5ba847f09e9e53d75cdd79cc3d30b02d635dc",
+      "r": []
+    },
+    {
+      "v": "#head@df8dd1b8cee2ff5a3c15369d523955c7744a281c",
+      "n": "breeze",
+      "r": [],
+      "a": "Alexander Ivanov",
+      "d": "macro dsl",
+      "l": "MIT",
+      "m": "0.16.1"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:42:53Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "autonim",
+  "fqn": "AutoNim.Guevara-chan.github.com",
+  "head": "536aa3d796ee198b3abaa0c385da8fd1c70d4122",
+  "author": "Guevara-chan",
+  "description": "Wrapper for AutoIt v3.3.14.2",
+  "license": "MIT",
+  "nim": "1.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.2.0@020ed61c4c5e45f17bea4485ba6335e1dc9d022c",
+      "r": []
+    },
+    {
+      "v": "#head@536aa3d796ee198b3abaa0c385da8fd1c70d4122",
+      "r": [],
+      "a": "Guevara-chan",
+      "d": "Wrapper for AutoIt v3.3.14.2",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:42:16Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "cv": 17,
+  "name": "emmy",
+  "fqn": "emmy.andreaferretti.github.com",
+  "head": "c135a25cc9e899a4c231b6d2a42dd911581d82f0",
+  "author": "Andrea Ferretti",
+  "description": "Algebra for Nim",
+  "license": "Apache2",
+  "nim": "0.19",
+  "skipDirs": [
+    "tests"
+  ],
+  "skipFiles": [
+    "emmy.html",
+    "emmy.png"
+  ],
+  "releases": [
+    {
+      "v": "0.2.0@89920a80f29c090cd54a7de9e154766baf26eb76",
+      "r": [
+        "neo >= 0.2.4",
+        "bigints >= 0.4.3",
+        "stint >= 0.0.1"
+      ]
+    },
+    {
+      "v": "0.1.0@9060c0e2785b10a18fbc107cbf37b36361ef00ef",
+      "r": [
+        "neo >= 0.2.4",
+        "bigints >= 0.4.2",
+        "stint >= 0.0.1"
+      ]
+    },
+    {
+      "v": "#head@c135a25cc9e899a4c231b6d2a42dd911581d82f0",
+      "n": "emmy",
+      "r": [
+        "bigints >= 0.4.2",
+        "stint >= 0.0.1"
+      ],
+      "a": "Andrea Ferretti",
+      "d": "Algebra for Nim",
+      "l": "Apache2",
+      "x": [
+        "tests"
+      ],
+      "y": [
+        "emmy.html",
+        "emmy.png"
+      ],
+      "m": "0.19"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:24Z",
+  "allDeps": {
+    "packages": [
+      "bigints",
+      "intops",
+      "neo",
+      "nimblas",
+      "nimcuda",
+      "nimlapack",
+      "results",
+      "stew",
+      "stint",
+      "unittest2"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

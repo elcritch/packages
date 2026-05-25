@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "libfswatch",
+  "fqn": "nim-fswatch.paul-nameless.github.com",
+  "head": "4dcc8a03dbe4007eb49104955a1100e054c62ef7",
+  "author": "Paul Nameless",
+  "description": "Nim binding to libfswatch",
+  "license": "MIT",
+  "nim": "1.0.6",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@f6c4c2bba9c04e973c9fe609346194a2f9f85162",
+      "r": []
+    },
+    {
+      "v": "#head@4dcc8a03dbe4007eb49104955a1100e054c62ef7",
+      "r": [],
+      "a": "Paul Nameless",
+      "d": "Nim binding to libfswatch",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.0.6"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:46:44Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "cv": 17,
+  "name": "easy_sqlite3",
+  "fqn": "easy_sqlite3.codehz.github.com",
+  "head": "34ae9e46b135eac13101dcacb55ea05524d70e6f",
+  "author": "CodeHz",
+  "description": "Yet another SQLite wrapper for Nim",
+  "license": "MIT",
+  "nim": "1.4.2",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.11@6f175f446048b2a3bd9e66465ef4495f335e6c3f",
+      "r": []
+    },
+    {
+      "v": "0.1.10@31514476efac907d01819017b0af3f7ffbd53c73",
+      "r": []
+    },
+    {
+      "v": "0.1.9@2f14a0b5d2ab76cca8ca208bd09a70608a59f36a",
+      "r": []
+    },
+    {
+      "v": "0.1.8@83454e7f95f279aa4d4044494eb9c4820e49cee0",
+      "r": []
+    },
+    {
+      "v": "0.1.7@e31b83de596057cf0a4e15df92a37a8313e82b79",
+      "r": []
+    },
+    {
+      "v": "0.1.6@c55c254091d285aaa0ae36d6f2c75c3ee39d1d4a",
+      "r": []
+    },
+    {
+      "v": "0.1.5@c3a4c60cfdb0a66b5d5eee854d3d6260d19ed8c3",
+      "r": []
+    },
+    {
+      "v": "0.1.4@3373c309c3ecffc55c4f8fac3cb413270d5e4929",
+      "r": []
+    },
+    {
+      "v": "0.1.3@f7bc1f4012c4c41936666bf7e07a2bce88d62acf",
+      "r": []
+    },
+    {
+      "v": "0.1.2@8b637de14dfa0f19529ff0b5abb486162ef1f9ee",
+      "r": []
+    },
+    {
+      "v": "0.1.1@b4201df28627ecd8875adfec6fcae11b9b1df986",
+      "r": []
+    },
+    {
+      "v": "0.1.0@dc32581d6b4514d01933d652b4056d918182a577",
+      "r": []
+    },
+    {
+      "v": "#head@34ae9e46b135eac13101dcacb55ea05524d70e6f",
+      "r": [],
+      "a": "CodeHz",
+      "d": "Yet another SQLite wrapper for Nim",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.4.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:18Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.0",
+      "v0.1.11"
+    ],
+    "tagVersions": {
+      "v0.1.0": "0.1.0",
+      "v0.1.11": "0.1.11"
+    },
+    "latest": "v0.1.11",
+    "prerelease": [
+      "v0.1.0"
+    ]
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

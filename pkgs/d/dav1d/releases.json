@@ -1,0 +1,45 @@
+{
+  "cv": 17,
+  "name": "dav1d",
+  "fqn": "nim-dav1d.capocasa.github.com",
+  "head": "6fac5771be9cfa3ed4b0b0fde443194ffed1ffd1",
+  "author": "Carlo Capocasa",
+  "description": "Nim wrapper for dav1d, a fast, portable av1 video decoder created by videolan and used by VLC and Netflix",
+  "license": "BSD0",
+  "nim": "1.4.2",
+  "releases": [
+    {
+      "v": "0.1.0@92f82edbad31891df95965e577774b31f97579d9",
+      "r": [
+        "nimterop"
+      ]
+    },
+    {
+      "v": "#head@6fac5771be9cfa3ed4b0b0fde443194ffed1ffd1",
+      "r": [
+        "gh:capocasa/nimterop #a2af4b6"
+      ],
+      "a": "Carlo Capocasa",
+      "d": "Nim wrapper for dav1d, a fast, portable av1 video decoder created by videolan and used by VLC and Netflix",
+      "l": "BSD2",
+      "m": "1.4.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:43:51Z",
+  "allDeps": {
+    "packages": [
+      "cligen",
+      "graphemes",
+      "nimterop",
+      "regex",
+      "segmentation",
+      "unicodedb",
+      "unicodeplus"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:capocasa/nimterop"
+    ]
+  }
+}

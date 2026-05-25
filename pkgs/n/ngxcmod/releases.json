@@ -1,0 +1,45 @@
+{
+  "cv": 17,
+  "name": "ngxcmod",
+  "fqn": "ngxcmod.nim.ba0f3.github.com",
+  "head": "94ca18156802798aa70f8f463f3c71271df4652f",
+  "author": "Huy Doan",
+  "description": "High level wrapper for build nginx module w/ nginx-c-function",
+  "license": "MIT",
+  "nim": "0.20.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.2@df9823355b2450d160d5858fa2d06b24826b3ea0",
+      "r": []
+    },
+    {
+      "v": "#head@94ca18156802798aa70f8f463f3c71271df4652f",
+      "r": [],
+      "a": "Huy Doan",
+      "d": "High level wrapper for build nginx module w/ nginx-c-function",
+      "l": "MIT",
+      "s": "src",
+      "m": "0.20.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:48:06Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.1.2"
+    ],
+    "prerelease": [
+      "0.1.2"
+    ]
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "cv": 17,
+  "name": "scram",
+  "fqn": "scram.nim.nim-community.github.com",
+  "head": "085fafa0753944b537949ac655abd0e9e5779935",
+  "author": "Huy Doan",
+  "description": "Salted Challenge Response Authentication Mechanism (SCRAM) ",
+  "license": "MIT",
+  "nim": "0.17.0",
+  "releases": [
+    {
+      "v": "0.1.0@a708c3a2a35cdca11ab576cadb75f677149a88de",
+      "r": [
+        "hmac >= 0.1.2"
+      ]
+    },
+    {
+      "v": "0.1.1@0201fb1ccaffe99fbc0d37dfeeb7dded245941c6",
+      "r": [
+        "hmac >= 0.1.3"
+      ]
+    },
+    {
+      "v": "0.1.2@3d47d8e7d5d42ee571e6292a261bde4862d6a857",
+      "r": [
+        "hmac >= 0.1.3"
+      ]
+    },
+    {
+      "v": "0.1.3@3c732487fc1fdd68c3c0bb05446b7ee99dad4bfd",
+      "r": [
+        "hmac >= 0.1.3"
+      ]
+    },
+    {
+      "v": "0.1.4@412323bbe73c9a037151ee1db7563c548c1e4e2e",
+      "r": [
+        "hmac >= 0.1.3"
+      ]
+    },
+    {
+      "v": "0.1.5@45beed28366a78efd297a2b1ac6460e53d93b70f",
+      "r": [
+        "hmac >= 0.1.6"
+      ],
+      "m": "0.18.1"
+    },
+    {
+      "v": "0.1.6@28eb9d692e8603c520b056693ff10c4cfeb14510",
+      "r": [
+        "hmac >= 0.1.6"
+      ],
+      "m": "0.18.1"
+    },
+    {
+      "v": "0.1.7@24cbf91782065c6141bfd7b8cc8828e6420b125d",
+      "r": [
+        "hmac >= 0.1.6"
+      ],
+      "m": "0.18.1"
+    },
+    {
+      "v": "0.1.8@9a486396a7c8f15e290a43f3e8cf7824b2db97d7",
+      "r": [
+        "hmac >= 0.1.6"
+      ],
+      "m": "0.19.4"
+    },
+    {
+      "v": "0.1.9@0145ed473735ed86f1448355bb6a6123c00a75fc",
+      "r": [
+        "hmac >= 0.1.8"
+      ],
+      "m": "0.19.4"
+    },
+    {
+      "v": "0.1.10@426d85d84269d1d0944b6e46e8fbbd8258fb94dd",
+      "r": [
+        "hmac >= 0.1.9"
+      ],
+      "m": "0.19.4"
+    },
+    {
+      "v": "0.1.11@66af4125e49cc5a4c552a329fcf8c2128e6d80d2",
+      "r": [
+        "hmac >= 0.1.9"
+      ],
+      "m": "0.19.4"
+    },
+    {
+      "v": "0.1.12@9f3130a4402b7b322a8e9e9519436bcf8974861c",
+      "r": [
+        "hmac >= 0.1.9"
+      ],
+      "m": "0.19.4"
+    },
+    {
+      "v": "0.1.13@0e67148001511fc69c179794bce305db9c11bf2f",
+      "r": [
+        "hmac >= 0.1.9"
+      ],
+      "m": "0.19.4"
+    },
+    {
+      "v": "0.1.14@41584ec1c0e3c3f4088c4634ccfc52fe9b0c1e43",
+      "r": [
+        "hmac >= 0.2.0"
+      ],
+      "m": "0.19.4"
+    },
+    {
+      "v": "0.2.0@a2decdd127d31ad6cdfca0668943dc219d7820b1",
+      "r": [
+        "hmac >= 0.2.0"
+      ],
+      "m": "0.19.4"
+    },
+    {
+      "v": "0.2.1@f61a3d2855919381ecc0c8c9ca773889650f8000",
+      "r": [
+        "hmac >= 0.2.0",
+        "checksums >= 0.1.0"
+      ],
+      "m": "0.19.4"
+    },
+    {
+      "v": "#head@085fafa0753944b537949ac655abd0e9e5779935",
+      "r": [
+        "hmac >= 0.2.0",
+        "checksums >= 0.1.0"
+      ],
+      "a": "Huy Doan",
+      "d": "Salted Challenge Response Authentication Mechanism (SCRAM) ",
+      "l": "MIT",
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:28Z",
+  "allDeps": {
+    "packages": [
+      "checksums",
+      "hmac",
+      "nimSHA2",
+      "nimcrypto",
+      "sha1"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

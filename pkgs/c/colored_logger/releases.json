@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "colored_logger",
+  "fqn": "colored_logger.4zv4l.github.com",
+  "head": "d9ee0328d5cec8fd216d3ce8676cebf1976e9272",
+  "author": "azz",
+  "description": "A simple colored logger from std/logging",
+  "license": "MIT",
+  "nim": "1.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@bb5a63882593b3b87fe1817885dc0ef7f85dfecb",
+      "r": []
+    },
+    {
+      "v": "#head@d9ee0328d5cec8fd216d3ce8676cebf1976e9272",
+      "r": [],
+      "a": "azz",
+      "d": "A simple colored logger from std/logging",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:43:30Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

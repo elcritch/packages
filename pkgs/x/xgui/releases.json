@@ -1,0 +1,88 @@
+{
+  "cv": 17,
+  "name": "xgui",
+  "fqn": "xgui-nim.thatrandomperson5.github.com",
+  "head": "f25da858e833a7b6bf3fd1631831ef7330d94d4d",
+  "author": "thatrandomperson5",
+  "description": "XGui is a tool for nigui that imports xml files and turns them into nim at compile-time.",
+  "license": "MIT",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.2.0@68b44c2dc732f160536af6cf6e999b4df987f046",
+      "r": [
+        "nigui >= 0.2.6",
+        "regex >= 0.20.1"
+      ]
+    },
+    {
+      "v": "0.1.2@244fe7fd37fb1f36d839aa44915577d2e8f6dda7",
+      "r": [
+        "nigui >= 0.2.6",
+        "regex >= 0.20.1"
+      ],
+      "m": "1.2.2"
+    },
+    {
+      "v": "0.1.1@32598201dccc2a0f13c80a0717f0734cc9ddb6fa",
+      "r": [
+        "nigui",
+        "regex"
+      ],
+      "m": "1.2.2"
+    },
+    {
+      "v": "0.1.0@2bbed873fac7165c1055b0ca3e71e0d64fab559f",
+      "r": [
+        "nigui"
+      ],
+      "m": "1.2.2"
+    },
+    {
+      "v": "#head@f25da858e833a7b6bf3fd1631831ef7330d94d4d",
+      "r": [
+        "nigui >= 0.2.6",
+        "regex >= 0.20.1"
+      ],
+      "a": "thatrandomperson5",
+      "d": "XGui is a tool for nigui that imports xml files and turns them into nim at compile-time.",
+      "l": "MIT",
+      "s": "src",
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:54:11Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.0",
+      "v0.1.1",
+      "v0.1.2",
+      "v0.2.0"
+    ],
+    "tagVersions": {
+      "v0.1.0": "0.1.0",
+      "v0.1.1": "0.1.1",
+      "v0.1.2": "0.1.2",
+      "v0.2.0": "0.2.0"
+    },
+    "latest": "v0.2.0"
+  },
+  "allDeps": {
+    "packages": [
+      "graphemes > 0.1.0",
+      "nigui",
+      "regex > 0.1.0",
+      "segmentation > 0.1.0",
+      "unicodedb > 0.1.0",
+      "unicodeplus > 0.1.0"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

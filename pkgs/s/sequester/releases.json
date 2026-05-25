@@ -1,0 +1,26 @@
+{
+  "cv": 17,
+  "name": "sequester",
+  "fqn": "sequester.fallingduck.github.com",
+  "head": "5725122ed95cbf5730718aadadf2c0bf3679b07d",
+  "author": "Jack VanDrunen",
+  "description": "Library for converting sequences to strings. Also has PHP-inspired explode and implode procs.",
+  "license": "ISC",
+  "releases": [
+    {
+      "v": "0.1.0@5725122ed95cbf5730718aadadf2c0bf3679b07d^",
+      "r": []
+    },
+    {
+      "v": "#head@5725122ed95cbf5730718aadadf2c0bf3679b07d",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:34Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

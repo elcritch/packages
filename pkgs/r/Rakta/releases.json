@@ -1,0 +1,77 @@
+{
+  "cv": 17,
+  "name": "Rakta",
+  "fqn": "Rakta.DitzDev.github.com",
+  "head": "f4d2b68a561912d9891caff4f96751654031953b",
+  "author": "DitzDev",
+  "description": "Express.js like, Powerful, Fast, and Minimalist Web Framework for Nim. Focus on your Backend.",
+  "license": "MIT",
+  "nim": "2.2.4",
+  "srcDir": "src",
+  "skipDirs": [
+    "tests",
+    "public"
+  ],
+  "skipFiles": [
+    "todo.markdown"
+  ],
+  "releases": [
+    {
+      "v": "0.2.1@ef28f0f43205ad323213f83bd04c4a7b5ab5a9a7",
+      "r": []
+    },
+    {
+      "v": "0.2.0@41c14068decbf22c669d8ac198ff7b46d9b8881a",
+      "r": [
+        "httpbeast >= 0.4.0"
+      ]
+    },
+    {
+      "v": "#head@f4d2b68a561912d9891caff4f96751654031953b",
+      "r": [
+        "checksums >= 0.2.1"
+      ],
+      "a": "DitzDev",
+      "d": "Express.js like, Powerful, Fast, and Minimalist Web Framework for Nim. Focus on your Backend.",
+      "l": "MIT",
+      "s": "src",
+      "x": [
+        "tests",
+        "public"
+      ],
+      "y": [
+        "todo.markdown"
+      ],
+      "m": "2.2.4"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:41:41Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.2.0",
+      "v0.2.1"
+    ],
+    "tagVersions": {
+      "v0.2.0": "0.2.0",
+      "v0.2.1": "0.2.1"
+    },
+    "latest": "v0.2.1"
+  },
+  "allDeps": {
+    "packages": [
+      "asynctools <= 0.2.0",
+      "checksums",
+      "httpbeast <= 0.2.0"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:iffy/asynctools",
+      "gh:timotheecour/asynctools"
+    ]
+  }
+}

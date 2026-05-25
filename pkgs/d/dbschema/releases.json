@@ -1,0 +1,44 @@
+{
+  "cv": 17,
+  "name": "dbschema",
+  "fqn": "dbschema.vegansk.github.com",
+  "head": "b98a8bba7671064de52df571f338e6fd95fe11fc",
+  "author": "Anatoly Galiulin",
+  "description": "Database scheme migration library for Nim language",
+  "license": "MIT",
+  "nim": "0.17.2",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.1@b951649846b503c9b6de725e6995c6805770f248",
+      "r": [
+        "nimboost >= 0.5.3",
+        "nimfp >= 0.4.2"
+      ]
+    },
+    {
+      "v": "#head@b98a8bba7671064de52df571f338e6fd95fe11fc",
+      "r": [
+        "nimboost >= 0.5.3",
+        "nimfp >= 0.4.2"
+      ],
+      "a": "Anatoly Galiulin",
+      "d": "Database scheme migration library for Nim language",
+      "l": "MIT",
+      "s": "src",
+      "m": "0.17.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:43:53Z",
+  "allDeps": {
+    "packages": [
+      "classy",
+      "nimboost",
+      "nimfp",
+      "patty"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

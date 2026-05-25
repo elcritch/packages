@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "appdirs",
+  "fqn": "appdirs.MrJohz.github.com",
+  "head": "b4c0e17ab66a187d7d614c2ae9ba85f1bdfdd33e",
+  "releases": [
+    {
+      "v": "0.1.1@ac303e0c49aeabc6259e612a8a35ca86463676dc",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    },
+    {
+      "v": "0.1.0@b5d889d67e3d639e511bbbe477add63a7dd7683b",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    },
+    {
+      "v": "#head@b4c0e17ab66a187d7d614c2ae9ba85f1bdfdd33e",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:41:58Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

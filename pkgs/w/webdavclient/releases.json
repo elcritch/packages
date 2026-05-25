@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "webdavclient",
+  "fqn": "webdavclient.beshrkayali.github.com",
+  "head": "bbdd40250a8bb7448ffb0c4e1017e43924ea81eb",
+  "author": "Beshr Kayali",
+  "description": "WebDAV Client for Nim",
+  "license": "MIT",
+  "nim": "1.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@8e32db41a7596a2917045efeaf82921a703dd692",
+      "r": []
+    },
+    {
+      "v": "#head@bbdd40250a8bb7448ffb0c4e1017e43924ea81eb",
+      "r": [],
+      "a": "Beshr Kayali",
+      "d": "WebDAV Client for Nim",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:53:46Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

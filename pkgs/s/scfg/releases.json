@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "scfg",
+  "fqn": "nim-scfg.xoich.codeberg.org",
+  "head": "f1116d89b46462d7a353c56288f75992523f675c",
+  "author": "Daniele Parisi",
+  "description": "Simple configuration file format (scfg) parser",
+  "license": "MIT",
+  "nim": "1.6.10",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@958624f801d5865d5e8631a17d403f0487cdf7f7",
+      "r": []
+    },
+    {
+      "v": "#head@f1116d89b46462d7a353c56288f75992523f675c",
+      "r": [],
+      "a": "Daniele Parisi",
+      "d": "Simple configuration file format (scfg) parser",
+      "l": "CC-BY-SA 4.0",
+      "s": "src",
+      "m": "1.6.10"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:27Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

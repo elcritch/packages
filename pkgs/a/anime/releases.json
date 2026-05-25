@@ -1,0 +1,47 @@
+{
+  "cv": 17,
+  "name": "anime",
+  "fqn": "anime.ethosa.github.com",
+  "head": "c53f7da1a00303ba7acf189cdf267f8fadaecffc",
+  "author": "Ethosa",
+  "description": "The Nim wrapper for tracemoe.",
+  "license": "AGPLv3",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1@86413ba5a15e0c96c00aa51df2f2c907f1a6d02e",
+      "r": []
+    },
+    {
+      "v": "0.2@dd1ada54398ee7ff39be22a1b355d49736fb581a",
+      "r": []
+    },
+    {
+      "v": "0.3@3bbe5def5fa4468c5112a797a218fc939ef7c63a",
+      "r": []
+    },
+    {
+      "v": "0.4@35bf8380ef82f6cb798f78a8f010f8493d3212ff",
+      "r": []
+    },
+    {
+      "v": "0.5@ef0dedfd6d7dec75a5b6c50870c30799c0dd3fcd",
+      "r": []
+    },
+    {
+      "v": "0.6@c53f7da1a00303ba7acf189cdf267f8fadaecffc^",
+      "r": []
+    },
+    {
+      "v": "#head@c53f7da1a00303ba7acf189cdf267f8fadaecffc",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:41:54Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

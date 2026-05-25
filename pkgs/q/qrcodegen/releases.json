@@ -1,0 +1,32 @@
+{
+  "cv": 17,
+  "name": "qrcodegen",
+  "fqn": "qrcodegen.bunkford.github.com",
+  "head": "f13233d757747ae1777b2df3d657a07cc400b129",
+  "author": "Duncan Clarke",
+  "description": "QR Code Generator for Nim.",
+  "license": "MIT",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "1.0.0@e10e3764001fbe87559408cb9bb5d1a3c6f52c32",
+      "r": []
+    },
+    {
+      "v": "#head@f13233d757747ae1777b2df3d657a07cc400b129",
+      "r": [],
+      "a": "Duncan Clarke",
+      "d": "QR Code Generator for Nim.",
+      "l": "MIT",
+      "s": "src",
+      "m": "0.10.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:50:56Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "ladder",
+  "fqn": "nim-ladder.ryukoposting.gitlab.com",
+  "head": "1745ab4abb849584318dfa14b8720cf47a766fd2",
+  "author": "ryukoposting",
+  "description": "Ladder logic macros for Nim. documentation hosted at http://ryuk.ooo/nimdocs/ladder/ladder.html",
+  "license": "Apache-2.0",
+  "nim": "0.18.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.4.0@77d5cb03f365cb5a6e42a78232ced894565326c1",
+      "r": []
+    },
+    {
+      "v": "#head@1745ab4abb849584318dfa14b8720cf47a766fd2",
+      "r": [],
+      "a": "ryukoposting",
+      "d": "Ladder logic macros for Nim. documentation hosted at http://ryuk.ooo/nimdocs/ladder/ladder.html",
+      "l": "Apache-2.0",
+      "s": "src",
+      "m": "0.18.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:46:37Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

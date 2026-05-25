@@ -1,0 +1,39 @@
+{
+  "cv": 17,
+  "name": "money",
+  "fqn": "money.openpeeps.github.com",
+  "head": "f8b133341c6cdf1cc7a0b933a0c4d81ec7f8cde3",
+  "author": "Supranim",
+  "description": "Create, calculate and format money in Nim language",
+  "license": "MIT",
+  "nim": "1.6.12",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@4a01135461569746e802a44db862cb8823df2b46",
+      "r": [
+        "bigints"
+      ]
+    },
+    {
+      "v": "#head@f8b133341c6cdf1cc7a0b933a0c4d81ec7f8cde3",
+      "r": [
+        "bigints"
+      ],
+      "a": "George Lemon",
+      "d": "Create, calculate and format money in Nim language",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.6.12"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:47:38Z",
+  "allDeps": {
+    "packages": [
+      "bigints"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

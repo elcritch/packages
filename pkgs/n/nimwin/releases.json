@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "nimwin",
+  "fqn": "nimwin.TriedAngle.github.com",
+  "head": "44945992e459de65bd22fd108497dec7dc73f179",
+  "author": "Sebastian Strobl",
+  "description": "A windowing library inspired by Rust's winit library",
+  "license": "Apache-2.0",
+  "nim": "1.6.6",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@7b214cd437bb87ccf9d877122a6370f82a3add7f",
+      "r": []
+    },
+    {
+      "v": "#head@44945992e459de65bd22fd108497dec7dc73f179",
+      "r": [],
+      "a": "Sebastian Strobl",
+      "d": "A windowing library inspired by Rust's winit library",
+      "l": "Apache-2.0",
+      "s": "src",
+      "m": "1.6.6"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:49:22Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

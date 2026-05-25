@@ -1,0 +1,30 @@
+{
+  "cv": 17,
+  "name": "msgpack",
+  "fqn": "msgpack-nim.akiradeveloper.github.com",
+  "head": "3e36b57f1755be629ee07da74f5f14df5a321c0c",
+  "author": "Anonymous",
+  "description": "New Nimble project for Nim",
+  "license": "BSD",
+  "releases": [
+    {
+      "v": "0.1.0@605e9565f342bd7adced4539924f402e85c12f08",
+      "r": []
+    },
+    {
+      "v": "#head@3e36b57f1755be629ee07da74f5f14df5a321c0c",
+      "n": "msgpack",
+      "r": [],
+      "a": "Akira Hayakawa",
+      "d": "A MessagePack binding for Nim",
+      "l": "MIT"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:47:44Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

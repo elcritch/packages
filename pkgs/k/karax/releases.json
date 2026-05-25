@@ -1,0 +1,176 @@
+{
+  "cv": 17,
+  "name": "karax",
+  "fqn": "karax.karaxnim.github.com",
+  "head": "7e1471aea2ea1001134ae6862743902c1d1e1814",
+  "author": "Andreas Rumpf",
+  "description": "Karax is a framework for developing single page applications in Nim.",
+  "license": "MIT",
+  "nim": "0.18.0",
+  "skipDirs": [
+    "examples",
+    "experiments",
+    "tests"
+  ],
+  "installExt": [
+    "nim"
+  ],
+  "bin": [
+    "karax/tools/karun"
+  ],
+  "releases": [
+    {
+      "v": "1.5.0@a1eaaa87af756c21db4524c38cad4a004218f740",
+      "r": [
+        "ws",
+        "dotenv >= 2.0.0"
+      ]
+    },
+    {
+      "v": "1.4.0@c367affd5ed06345f4ee6781587b9c4534693d24",
+      "r": [
+        "ws",
+        "dotenv >= 2.0.0"
+      ]
+    },
+    {
+      "v": "1.3.2@f009b6f59a83c2e06db5379b03eb0c64be2a3324",
+      "r": [
+        "ws",
+        "dotenv >= 2.0.0"
+      ]
+    },
+    {
+      "v": "1.3.1@8e3720035cf38871d7bcdbd057e72f9e6b75f029",
+      "r": [
+        "ws",
+        "dotenv >= 2.0.0"
+      ]
+    },
+    {
+      "v": "1.3.0@5c1d5c52d20dab552488d1f11226c68c3ad393fe",
+      "r": [
+        "ws",
+        "dotenv >= 2.0.0"
+      ]
+    },
+    {
+      "v": "1.2.3@5418c93c56ae6e56a5058b0be7e88cdc818f9fbf",
+      "r": [
+        "ws",
+        "dotenv >= 2.0.0"
+      ]
+    },
+    {
+      "v": "1.2.2@559dde99c7615282ad5e40a4ebc9b615306a6b95",
+      "r": [
+        "ws",
+        "dotenv >= 2.0.0"
+      ]
+    },
+    {
+      "v": "1.2.1@cbe7b896e78d00a36a7757f3937788b9afbc215c",
+      "r": [
+        "ws",
+        "dotenv"
+      ]
+    },
+    {
+      "v": "1.1.3@0d9b81702c625bb8767fa61ddc0965df5b17eec2",
+      "r": [
+        "ws",
+        "dotenv"
+      ]
+    },
+    {
+      "v": "1.1.2@8117e42f0fd216bcf71d513ae5bddd15b8c483b8",
+      "r": [],
+      "m": "0.16.1"
+    },
+    {
+      "v": "1.1.1@d9b0bb90e80c68da30383a750a07a9fac8a6ac00",
+      "r": [],
+      "m": "0.16.1"
+    },
+    {
+      "v": "1.1.0@9bbc84c6edba10f164ee359511d83b5302068f69",
+      "r": [],
+      "m": "0.16.1"
+    },
+    {
+      "v": "1.0.0@effec2af1405e6feaa8530fdba0a9ecdaca4c71e",
+      "r": [],
+      "m": "0.16.1"
+    },
+    {
+      "v": "0.2.0@20c404fe5644ed0d85014039a7d7d6ef3d5d5647",
+      "r": [],
+      "a": "Xored Software, Inc.",
+      "x": [
+        "examples"
+      ],
+      "m": "0.16.1",
+      "k": [],
+      "p": []
+    },
+    {
+      "v": "0.1.0@9904ec10cca1192aaec81c439c37dce6cae314ad",
+      "r": [],
+      "a": "Araq",
+      "x": [
+        "examples/todoapp"
+      ],
+      "m": "0.16.1",
+      "k": [],
+      "p": []
+    },
+    {
+      "v": "#head@7e1471aea2ea1001134ae6862743902c1d1e1814",
+      "r": [
+        "ws",
+        "dotenv >= 2.0.0"
+      ],
+      "a": "Andreas Rumpf",
+      "d": "Karax is a framework for developing single page applications in Nim.",
+      "l": "MIT",
+      "x": [
+        "examples",
+        "experiments",
+        "tests"
+      ],
+      "k": [
+        "nim"
+      ],
+      "p": [
+        "karax/tools/karun"
+      ],
+      "m": "0.18.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:46:28Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "1.2.3",
+      "1.3.0",
+      "1.3.1",
+      "1.3.2",
+      "1.3.3",
+      "1.4.0",
+      "1.5.0"
+    ],
+    "latest": "1.5.0"
+  },
+  "allDeps": {
+    "packages": [
+      "dotenv > 1.1.2",
+      "ws > 1.1.2"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

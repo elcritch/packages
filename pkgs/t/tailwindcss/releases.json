@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "tailwindcss",
+  "fqn": "tailwindcss-nim.Ethosa.github.com",
+  "head": "6c7c6208c7d212a661d35ac516e02ffa676276fe",
+  "author": "Ethosa",
+  "description": "Tailwind CSS bindings for Nim",
+  "license": "MIT",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "3.4.1@40ed201726b663ec0d357a08609a28224413c2b9",
+      "r": []
+    },
+    {
+      "v": "#head@6c7c6208c7d212a661d35ac516e02ffa676276fe",
+      "r": [],
+      "a": "Ethosa",
+      "d": "Tailwind CSS bindings for Nim",
+      "l": "MIT",
+      "s": "src",
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:37Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

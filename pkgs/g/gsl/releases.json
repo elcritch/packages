@@ -1,0 +1,52 @@
+{
+  "cv": 17,
+  "name": "gsl",
+  "fqn": "gsl-nim.YesDrX.github.com",
+  "head": "661f675d0dfdae94bb3803978b43abe43931f223",
+  "author": "YesDrX",
+  "description": "GNU Scientific Library for nim",
+  "license": "MIT",
+  "srcDir": "src",
+  "skipDirs": [
+    "sample",
+    "lib",
+    "include"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@b0ddcb8be59f701461486f726d4c3b0b0df2370f",
+      "r": []
+    },
+    {
+      "v": "0.1.1@1b33fda0670fa6175c172a46840e19ca59532094",
+      "r": [],
+      "x": [
+        "sample",
+        "lib",
+        "include",
+        "test"
+      ]
+    },
+    {
+      "v": "#head@661f675d0dfdae94bb3803978b43abe43931f223",
+      "r": [],
+      "a": "YesDrX",
+      "d": "GNU Scientific Library for nim",
+      "l": "MIT",
+      "s": "src",
+      "x": [
+        "sample",
+        "lib",
+        "include",
+        "test"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:29Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

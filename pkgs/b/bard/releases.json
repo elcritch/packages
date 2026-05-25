@@ -1,0 +1,85 @@
+{
+  "cv": 17,
+  "name": "bard",
+  "fqn": "bard.thisago.github.com",
+  "head": "714b940c1065ed1d04d9f84a74c47dcd8eedc126",
+  "author": "Thiago Navarro",
+  "description": "Nim interface of Google Bard free API",
+  "license": "MIT",
+  "nim": "1.6.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@1476792d1fee7842ea6414707bdabd038a52bd25",
+      "r": []
+    },
+    {
+      "v": "0.2.1@07f51fbb136c678f025925a00a3585a8821e4ffd",
+      "r": [
+        "util"
+      ]
+    },
+    {
+      "v": "0.3.0@1fb7f78d549e22053e9e2daaf5c2e69d136abceb",
+      "r": [
+        "util"
+      ],
+      "d": "Nim interface for Google Bard batchexecute API"
+    },
+    {
+      "v": "0.4.0@1c5741ac030624bf7e73ce02a6a0cce5fd23a006",
+      "r": [
+        "util"
+      ],
+      "d": "Nim interface for Google Bard batchexecute API"
+    },
+    {
+      "v": "0.5.0@523fbbc479e7a7a4a2b5bda9da092c253f48975f",
+      "r": [
+        "util"
+      ],
+      "d": "Nim interface for Google Bard batchexecute API"
+    },
+    {
+      "v": "0.6.0@d9768e2a9f73bf2941ce3adf417ab057deab75e3",
+      "r": [
+        "util"
+      ],
+      "d": "Nim interface for Google Bard batchexecute API"
+    },
+    {
+      "v": "0.7.0@c35468c1b96a912cd407a53b975d42453139a600",
+      "r": [
+        "util"
+      ],
+      "d": "Nim interface for Google Bard batchexecute API"
+    },
+    {
+      "v": "0.8.0@b681b28ffebd3b095b7a428071a52c3328946004",
+      "r": [
+        "util"
+      ],
+      "d": "Nim interface for Google Bard batchexecute API"
+    },
+    {
+      "v": "#head@714b940c1065ed1d04d9f84a74c47dcd8eedc126",
+      "r": [
+        "util"
+      ],
+      "a": "Thiago Navarro",
+      "d": "Nim interface for Google Bard batchexecute API",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.6.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:42:25Z",
+  "allDeps": {
+    "packages": [
+      "util > 0.1.0"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

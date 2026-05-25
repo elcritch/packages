@@ -1,0 +1,49 @@
+{
+  "cv": 17,
+  "name": "syphus",
+  "fqn": "syphus.makingspace.github.com",
+  "head": "2b2f221688cea52b99b8f9e43103071e8d65ff2e",
+  "author": "Zach Smith",
+  "description": "An implementation of the tabu search heuristic in Nim.",
+  "license": "BSD-3",
+  "nim": "0.16.1",
+  "srcDir": "syphus-nim",
+  "skipDirs": [
+    "tests"
+  ],
+  "releases": [
+    {
+      "v": "0.4@4955582a642da02b2f163aa0c137b6b8428b50f2",
+      "r": []
+    },
+    {
+      "v": "#head@2b2f221688cea52b99b8f9e43103071e8d65ff2e",
+      "r": [],
+      "a": "Zach Smith",
+      "d": "An implementation of the tabu search heuristic in Nim.",
+      "l": "BSD-3",
+      "s": "syphus-nim",
+      "x": [
+        "tests"
+      ],
+      "m": "0.16.1"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:32Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.4"
+    ],
+    "latest": "0.4"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

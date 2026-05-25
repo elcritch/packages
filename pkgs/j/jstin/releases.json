@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "jstin",
+  "fqn": "jstin.nim-lang.github.com",
+  "head": "61cac5911110f647dd8950c5efdfb1dfba07c455",
+  "author": "LemonBoy",
+  "description": "JS {de,}serialization as it says on the tin",
+  "license": "MIT",
+  "nim": "0.19.2",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@94b0471dda21a02c82020ecc9f7b96f18f379b0e",
+      "r": []
+    },
+    {
+      "v": "#head@61cac5911110f647dd8950c5efdfb1dfba07c455",
+      "r": [],
+      "a": "LemonBoy",
+      "d": "JS {de,}serialization as it says on the tin",
+      "l": "MIT",
+      "s": "src",
+      "m": "0.19.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:46:25Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

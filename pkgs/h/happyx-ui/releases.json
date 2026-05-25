@@ -1,0 +1,66 @@
+{
+  "cv": 17,
+  "name": "happyx-ui",
+  "fqn": "happyx-ui.HapticX.github.com",
+  "head": "0f9831edc98c830a92931f62d4074130e49b6dbc",
+  "author": "HapticX",
+  "description": "UI library for HappyX web framework",
+  "license": "MIT",
+  "nim": "1.6.14",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "1.0.0@a5d3579457ae6f5a5790247601b3210fd3876ce0",
+      "r": [
+        "happyx >= 3.10.2"
+      ]
+    },
+    {
+      "v": "#head@0f9831edc98c830a92931f62d4074130e49b6dbc",
+      "r": [
+        "happyx >= 3.10.2"
+      ],
+      "a": "HapticX",
+      "d": "UI library for HappyX web framework",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.6.14"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:34Z",
+  "allDeps": {
+    "packages": [
+      "asynctools",
+      "checksums",
+      "cligen",
+      "graphemes",
+      "happyx",
+      "httpbeast",
+      "httpx",
+      "illwill",
+      "ioselectors",
+      "microasynchttpserver",
+      "nimcrypto",
+      "nimja",
+      "nimpy",
+      "oauth",
+      "picohttpparser",
+      "regex",
+      "segmentation",
+      "sha1",
+      "timerwheel",
+      "unicodedb",
+      "unicodeplus",
+      "websocket",
+      "websocketx",
+      "wepoll",
+      "ws"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:iffy/asynctools",
+      "gh:timotheecour/asynctools"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "cv": 17,
+  "name": "yaclap",
+  "fqn": "yaclap.emanresu3.codeberg.org",
+  "head": "44e890687a25412d185f86e0f2361ff1d2eb7cb0",
+  "author": "emanresu3",
+  "description": "Yet another command line argument parser",
+  "license": "MIT",
+  "nim": "2.0.4",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@44e890687a25412d185f86e0f2361ff1d2eb7cb0^",
+      "r": []
+    },
+    {
+      "v": "#head@44e890687a25412d185f86e0f2361ff1d2eb7cb0",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:54:20Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

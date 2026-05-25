@@ -1,0 +1,64 @@
+{
+  "cv": 17,
+  "name": "hotdoc",
+  "fqn": "hotdoc.willyboar.github.com",
+  "head": "2dd8d962eaf48d95477aa3d6d1f81d63eddd392c",
+  "author": "Willyboar",
+  "description": "Single page documentation generator",
+  "license": "MIT",
+  "nim": "1.4.6",
+  "srcDir": "src",
+  "bin": [
+    "hotdoc"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@e1e04f196c18fe42e46e954ea222209a374b86a5",
+      "r": [
+        "docopt >= 0.6.8"
+      ]
+    },
+    {
+      "v": "#head@2dd8d962eaf48d95477aa3d6d1f81d63eddd392c",
+      "r": [
+        "docopt >= 0.6.8",
+        "karax >= 1.2.1"
+      ],
+      "a": "Willyboar",
+      "d": "Single page documentation generator",
+      "l": "MIT",
+      "s": "src",
+      "p": [
+        "hotdoc"
+      ],
+      "m": "1.4.6"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:45Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.1.0"
+    ],
+    "latest": "0.1.0"
+  },
+  "allDeps": {
+    "packages": [
+      "docopt",
+      "dotenv",
+      "graphemes",
+      "karax",
+      "regex",
+      "segmentation",
+      "unicodedb",
+      "unicodeplus",
+      "ws"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

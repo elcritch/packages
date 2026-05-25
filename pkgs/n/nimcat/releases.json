@@ -1,0 +1,32 @@
+{
+  "cv": 17,
+  "name": "nimcat",
+  "fqn": "nimcat.shakna-israel.github.com",
+  "head": "fe85ddb490b33cdabbb1de37e894a6e6b8792b49",
+  "author": "James Milne",
+  "description": "An implementation of cat",
+  "license": "MIT",
+  "nim": "0.10.0",
+  "releases": [
+    {
+      "v": "0.0.0@e5dcc34ff2ec9c8a398d962e7a9177434e15fdbf",
+      "r": []
+    },
+    {
+      "v": "#head@fe85ddb490b33cdabbb1de37e894a6e6b8792b49",
+      "n": "nimcat",
+      "r": [],
+      "a": "James Milne",
+      "d": "An implementation of cat",
+      "l": "MIT",
+      "m": "0.10.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:48:33Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

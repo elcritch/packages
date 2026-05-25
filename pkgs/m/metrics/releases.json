@@ -1,0 +1,76 @@
+{
+  "cv": 17,
+  "name": "metrics",
+  "fqn": "nim-metrics.status-im.github.com",
+  "head": "a1296caf3ebb5f30f51a5feae7749a30df2824c2",
+  "author": "Status Research & Development GmbH",
+  "description": "Metrics client library supporting Prometheus",
+  "license": "MIT or Apache License 2.0",
+  "nim": "1.6.14",
+  "skipDirs": [
+    "tests",
+    "benchmarks"
+  ],
+  "releases": [
+    {
+      "v": "0.2.1@6329de91da399ad17aaef97ff181b4ee65d4f80b",
+      "r": [
+        "chronos >= 4.0.3",
+        "results",
+        "stew"
+      ]
+    },
+    {
+      "v": "0.1.2@11d0cddfb0e711aa2a8c75d1892ae24a64c299fc",
+      "r": [
+        "chronos >= 4.0.3",
+        "results",
+        "stew"
+      ]
+    },
+    {
+      "v": "#head@a1296caf3ebb5f30f51a5feae7749a30df2824c2",
+      "n": "metrics",
+      "r": [
+        "chronos >= 4.0.3",
+        "results",
+        "stew"
+      ],
+      "a": "Status Research & Development GmbH",
+      "d": "Metrics client library supporting Prometheus",
+      "l": "MIT or Apache License 2.0",
+      "x": [
+        "tests",
+        "benchmarks"
+      ],
+      "m": "1.6.14"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:47:28Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.2"
+    ],
+    "tagVersions": {
+      "v0.1.2": "0.1.2"
+    },
+    "latest": "v0.1.2"
+  },
+  "allDeps": {
+    "packages": [
+      "bearssl",
+      "chronos",
+      "httputils",
+      "results",
+      "stew",
+      "unittest2"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

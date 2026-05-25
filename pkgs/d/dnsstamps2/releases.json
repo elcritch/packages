@@ -1,0 +1,41 @@
+{
+  "cv": 17,
+  "name": "dnsstamps2",
+  "fqn": "nim-dnsstamps2.rockcavera.github.com",
+  "head": "16be2b0701c89f50b31ce39edb9ff61bb5854ff2",
+  "author": "rockcavera",
+  "description": "DNS Stamps package",
+  "license": "MIT",
+  "nim": "1.9.1",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@22d8ff331949333f7a3d593d16ce13f637984cd0",
+      "r": [
+        "stew"
+      ]
+    },
+    {
+      "v": "#head@16be2b0701c89f50b31ce39edb9ff61bb5854ff2",
+      "r": [
+        "stew"
+      ],
+      "a": "rockcavera",
+      "d": "DNS Stamps package",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.2.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:09Z",
+  "allDeps": {
+    "packages": [
+      "results",
+      "stew",
+      "unittest2"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

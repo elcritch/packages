@@ -1,0 +1,62 @@
+{
+  "cv": 17,
+  "name": "mongrel2",
+  "fqn": "nim-mongrel2.mahlonsmith.github.com",
+  "head": "8ffc30acceb67888d5724a633239a192dba1c034",
+  "author": "Mahlon E. Smith <mahlon@martini.nu>",
+  "description": "Simplistic handler framework for the Mongrel2 webserver.",
+  "license": "MIT",
+  "nim": "0.19.0",
+  "srcDir": "src",
+  "installExt": [
+    "mongrel2"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@2834e1f1012a7ed0922c07310a76ce81b0e427f2",
+      "r": [],
+      "m": "~",
+      "s": "",
+      "k": []
+    },
+    {
+      "v": "0.1.1@81845bcc0144a818e4918b6ca5227fd588075f68",
+      "r": [
+        "tnetstring >= 0.1.1",
+        "zmq >= 0.2.1"
+      ]
+    },
+    {
+      "v": "0.1.2@8ffc30acceb67888d5724a633239a192dba1c034^",
+      "r": [
+        "tnetstring >= 0.1.3",
+        "zmq >= 1.2.1"
+      ],
+      "k": [
+        "nim"
+      ],
+      "m": "1.4.0"
+    },
+    {
+      "v": "#head@8ffc30acceb67888d5724a633239a192dba1c034",
+      "r": [
+        "tnetstring >= 0.1.3",
+        "zmq >= 1.2.1"
+      ],
+      "k": [
+        "nim"
+      ],
+      "m": "1.4.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:47:38Z",
+  "allDeps": {
+    "packages": [
+      "tnetstring > 0.1.0",
+      "zmq > 0.1.0"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

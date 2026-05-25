@@ -1,0 +1,47 @@
+{
+  "cv": 17,
+  "name": "nimish",
+  "fqn": "nimish.ringabout.github.com",
+  "head": "c0fed5c679ff7e59ae67056749bfb6871448de2b",
+  "author": "flywind",
+  "description": "C macro for Nim.",
+  "license": "Apache-2.0",
+  "nim": "1.2.0",
+  "srcDir": "src",
+  "installExt": [
+    "nim"
+  ],
+  "bin": [
+    "nimish"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@c0fed5c679ff7e59ae67056749bfb6871448de2b^",
+      "r": []
+    },
+    {
+      "v": "#head@c0fed5c679ff7e59ae67056749bfb6871448de2b",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:48:52Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.0"
+    ],
+    "tagVersions": {
+      "v0.1.0": "0.1.0"
+    },
+    "latest": "v0.1.0"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

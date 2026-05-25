@@ -1,0 +1,42 @@
+{
+  "cv": 17,
+  "name": "fpdf",
+  "fqn": "fpdf.akvilary.github.com",
+  "head": "a24e394b3b08bef903343ad6aad5274d8cc74543",
+  "author": "akvilary",
+  "description": "PDF generation library following the PHP FPDF API",
+  "license": "MIT",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@d43d40c254bc25dde5f960260d2e8408698485ab",
+      "r": [
+        "zippy >= 0.10.0",
+        "nimPNG >= 0.3.0"
+      ]
+    },
+    {
+      "v": "#head@a24e394b3b08bef903343ad6aad5274d8cc74543",
+      "r": [
+        "zippy >= 0.10.0",
+        "nimPNG >= 0.3.0"
+      ],
+      "a": "akvilary",
+      "d": "Pure Nim PDF generation library — create PDF documents with text, fonts, graphics, and images. Inspired by the PHP FPDF API.",
+      "l": "MIT",
+      "s": "src",
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:55Z",
+  "allDeps": {
+    "packages": [
+      "nimPNG",
+      "zippy"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

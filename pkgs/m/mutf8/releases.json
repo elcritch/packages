@@ -1,0 +1,37 @@
+{
+  "cv": 17,
+  "name": "mutf8",
+  "fqn": "MUTF-8.The-Ticking-Clockwork.github.com",
+  "head": "5e888d575d5c3a77d88bceaf85efe2768a3bbc29",
+  "author": "Yu-Vitaqua-fer-Chronos",
+  "description": "An implementation of a Modified UTF-8 encoder and decoder in Nim!",
+  "license": "Apache-2.0",
+  "nim": "1.6.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.1@3a23bf4245a742e37656586d2ecf7c711a830795",
+      "r": []
+    },
+    {
+      "v": "0.1.0@d3d7b83ebad31d9dc01a90279b5328086a0798b4",
+      "r": []
+    },
+    {
+      "v": "#head@5e888d575d5c3a77d88bceaf85efe2768a3bbc29",
+      "r": [],
+      "a": "Yu-Vitaqua-fer-Chronos",
+      "d": "An implementation of a Modified UTF-8 encoder and decoder in Nim!",
+      "l": "Apache-2.0",
+      "s": "src",
+      "m": "1.6.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:47:47Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

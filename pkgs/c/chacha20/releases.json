@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "chacha20",
+  "fqn": "chacha20.~ehmry.git.sr.ht",
+  "head": "daab0e469df94c1d62ebad07989b9562f7d5bf80",
+  "author": "Emery Hemingway",
+  "description": "ChaCha20 stream cipher",
+  "license": "ISC",
+  "nim": "1.4.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@830e9045894135fbcdf9df41e06962f5a61b589b",
+      "r": []
+    },
+    {
+      "v": "#head@daab0e469df94c1d62ebad07989b9562f7d5bf80",
+      "r": [],
+      "a": "Emery Hemingway",
+      "d": "ChaCha20 stream cipher",
+      "l": "Unlicense",
+      "s": "src",
+      "m": "1.4.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:43:08Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

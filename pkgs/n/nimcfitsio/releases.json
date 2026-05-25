@@ -1,0 +1,34 @@
+{
+  "cv": 17,
+  "name": "nimcfitsio",
+  "fqn": "nimcfitsio.ziotom78.github.com",
+  "head": "b4f2c41382185c9883d310c13d6e7afb8193d0b9",
+  "author": "Maurizio Tomasi <ziotom78 .at. gmail.com>",
+  "description": "Bindings for the CFITSIO library",
+  "license": "MIT",
+  "releases": [
+    {
+      "v": "0.1.0@b936108b418a6401ad6feab0c005ce4839bca5fa",
+      "r": []
+    },
+    {
+      "v": "0.1.1@5623abf90f710dbfd1ded4e3d58330e6ea44e906",
+      "r": []
+    },
+    {
+      "v": "#head@b4f2c41382185c9883d310c13d6e7afb8193d0b9",
+      "n": "nimcfitsio",
+      "r": [],
+      "a": "Maurizio Tomasi <ziotom78 .at. gmail.com>",
+      "d": "Bindings for the CFITSIO library",
+      "l": "MIT"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:48:33Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

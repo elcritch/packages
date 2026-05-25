@@ -1,0 +1,35 @@
+{
+  "cv": 17,
+  "name": "dbg",
+  "fqn": "nimDbg.enthus1ast.github.com",
+  "head": "5a3bfc3786451950270e270e75eb7b6b09a21350",
+  "author": "enthus1ast",
+  "description": "\"dbg\" template; in debug echo",
+  "license": "MIT",
+  "nim": "0.17.1",
+  "releases": [
+    {
+      "v": "0.1.0@887d3e3a6cb578ee2e1724aff16075ac732a8862",
+      "r": []
+    },
+    {
+      "v": "0.1.1@d545f2c555a904ffca81a42128f50c82d138d52c",
+      "r": []
+    },
+    {
+      "v": "#head@5a3bfc3786451950270e270e75eb7b6b09a21350",
+      "r": [],
+      "a": "enthus1ast",
+      "d": "\"dbg\" template; in debug echo",
+      "l": "MIT",
+      "m": "0.17.1"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:43:53Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

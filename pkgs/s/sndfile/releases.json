@@ -1,0 +1,75 @@
+{
+  "cv": 17,
+  "name": "sndfile",
+  "fqn": "nim-sndfile.SpotlightKid.github.com",
+  "head": "94591b36e0f10f2ca8211f8f76751cfc93b12d61",
+  "author": "Julien Aubert, Christopher Arndt",
+  "description": "Wrapper for libsndfile",
+  "license": "MIT",
+  "nim": "2.0",
+  "srcDir": "src",
+  "skipDirs": [
+    "examples"
+  ],
+  "releases": [
+    {
+      "v": "0.2.6@f647fcdb14d2369b66f03ce6bba50bf350f0969b",
+      "r": []
+    },
+    {
+      "v": "0.2.5@3c34c17e1bf4d3bdf19a4695a5bfdd22b2428814",
+      "r": []
+    },
+    {
+      "v": "0.2.4@d14565be7607efb6b287c8d04601f0c3d50ae4c6",
+      "r": []
+    },
+    {
+      "v": "0.2.2@ed43cf8de3a760d732335e0eb9c2ec53bc4a4988",
+      "r": []
+    },
+    {
+      "v": "0.2.1@98edef3240f294d3b6ef24c299e98fcf3fca2812",
+      "r": []
+    },
+    {
+      "v": "0.2.0@e7d052eac391bce2701a3fb65bd785d65851f730",
+      "r": [],
+      "a": "Julien Aubert"
+    },
+    {
+      "v": "#head@94591b36e0f10f2ca8211f8f76751cfc93b12d61",
+      "r": [],
+      "a": "Julien Aubert, Christopher Arndt",
+      "d": "Wrapper for libsndfile",
+      "l": "MIT",
+      "s": "src",
+      "x": [
+        "examples"
+      ],
+      "m": "2.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:58Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.2.5",
+      "v0.2.6"
+    ],
+    "tagVersions": {
+      "v0.2.5": "0.2.5",
+      "v0.2.6": "0.2.6"
+    },
+    "latest": "v0.2.6"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

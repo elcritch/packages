@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "minhash",
+  "fqn": "minhash.bung87.github.com",
+  "head": "68c26198b4b477cfaf72bc57ed41062d7ad81183",
+  "author": "zhoupeng",
+  "description": "Nim implementation of minhash algoritim",
+  "license": "MIT",
+  "nim": "0.18.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@de8ec2d35ade913862bccf4a0932b86a8f29ac7e",
+      "r": []
+    },
+    {
+      "v": "#head@68c26198b4b477cfaf72bc57ed41062d7ad81183",
+      "r": [],
+      "a": "zhoupeng",
+      "d": "Nim implementation of minhash algoritim",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.6.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:47:31Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

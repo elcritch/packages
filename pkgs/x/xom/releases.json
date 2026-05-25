@@ -1,0 +1,50 @@
+{
+  "cv": 17,
+  "name": "xom",
+  "fqn": "xom.schneiderfelipe.github.com",
+  "head": "a132f627946ba51d75b80f16ca620bb2ab9023e1",
+  "author": "Felipe S. S. Schneider",
+  "description": "Transform XML trees into performant JavaScript DOM calls at compile-time.",
+  "license": "MIT",
+  "nim": "1.4.0",
+  "srcDir": "src",
+  "backend": "js",
+  "releases": [
+    {
+      "v": "0.1@fda4902a2f48cc7283c0deb61ffc4a201c4da1fe",
+      "r": []
+    },
+    {
+      "v": "#head@a132f627946ba51d75b80f16ca620bb2ab9023e1",
+      "r": [],
+      "a": "Felipe S. S. Schneider",
+      "d": "Transform XML trees into performant JavaScript DOM calls at compile-time.",
+      "l": "MIT",
+      "s": "src",
+      "e": "js",
+      "m": "1.4.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:54:17Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1-alpha"
+    ],
+    "tagVersions": {
+      "v0.1-alpha": "0.1"
+    },
+    "prerelease": [
+      "v0.1-alpha"
+    ]
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

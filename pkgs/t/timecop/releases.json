@@ -1,0 +1,51 @@
+{
+  "cv": 17,
+  "name": "timecop",
+  "fqn": "timecop.nim.ba0f3.github.com",
+  "head": "f4496338a7688b50d000f81cec880c17e94fb4d8",
+  "author": "Huy Doan",
+  "description": "Time travelling for Nim",
+  "license": "MIT",
+  "nim": "0.18.1",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@42f3d08822e350a41e2c1619a21ae4f63554913d",
+      "r": [
+        "subhook >= 0.1.1"
+      ]
+    },
+    {
+      "v": "#head@f4496338a7688b50d000f81cec880c17e94fb4d8",
+      "r": [
+        "subhook >= 0.1.1"
+      ],
+      "a": "Huy Doan",
+      "d": "Time travelling for Nim",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.2.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:53Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.1.0"
+    ],
+    "prerelease": [
+      "0.1.0"
+    ]
+  },
+  "allDeps": {
+    "packages": [
+      "subhook"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "winserial",
+  "fqn": "winserial.bunkford.github.com",
+  "head": "7603076ae8144861f660219375048dda4e8e4bfd",
+  "author": "Duncan Clarke",
+  "description": "Serial library for Windows.",
+  "license": "MIT",
+  "nim": "0.20.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "1.0.0@33eb69cd432d1ebb01b5ace7467d1c544488db63",
+      "r": []
+    },
+    {
+      "v": "#head@7603076ae8144861f660219375048dda4e8e4bfd",
+      "r": [],
+      "a": "Duncan Clarke",
+      "d": "Serial library for Windows.",
+      "l": "MIT",
+      "s": "src",
+      "m": "0.20.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:54:01Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

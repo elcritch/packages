@@ -1,0 +1,128 @@
+{
+  "cv": 17,
+  "name": "omnicollider",
+  "fqn": "omnicollider.vitreo12.github.com",
+  "head": "5e03045c3236316c609fb7fe5095158a6f5a385e",
+  "author": "Francesco Cameli",
+  "description": "SuperCollider wrapper for omni.",
+  "license": "MIT",
+  "nim": "1.4.0",
+  "skipDirs": [
+    "omnicollider_lang"
+  ],
+  "installDirs": [
+    "omnicolliderpkg"
+  ],
+  "bin": [
+    "omnicollider"
+  ],
+  "releases": [
+    {
+      "v": "0.4.2@5e03045c3236316c609fb7fe5095158a6f5a385e^",
+      "r": [
+        "cligen >= 1.5.0",
+        "omni 0.4.2"
+      ],
+      "h": true
+    },
+    {
+      "v": "0.4.1@b07d56b3cc8384b0b039d47c17d1495cfa2e1988",
+      "r": [
+        "cligen >= 1.5.0",
+        "omni 0.4.1"
+      ],
+      "h": true
+    },
+    {
+      "v": "0.4.0@f053768340f19947d9f81d973093397163905025",
+      "r": [
+        "cligen >= 1.5.0",
+        "omni 0.4.0"
+      ],
+      "h": true
+    },
+    {
+      "v": "0.2.3@563076db200c6f5c811299e3a69df8b48d17ea79",
+      "r": [
+        "cligen >= 1.0.0",
+        "omni >= 0.2.3"
+      ],
+      "h": true,
+      "m": "1.0.0"
+    },
+    {
+      "v": "0.2.2@2b561c4a8c3318ad0c4c5d54b65b460d84d9ce0c",
+      "r": [
+        "cligen >= 1.0.0",
+        "omni >= 0.2.2"
+      ],
+      "h": true,
+      "m": "1.0.0"
+    },
+    {
+      "v": "0.2.1@40ce9be068219e1427db805bb18bcb9d5b598464",
+      "r": [
+        "cligen >= 0.9.41",
+        "omni >= 0.2.1"
+      ],
+      "h": true,
+      "m": "1.0.0"
+    },
+    {
+      "v": "0.2.0@1e1ce5f39129f7886662ae35c84d0d216779a372",
+      "r": [
+        "cligen >= 0.9.41",
+        "omni >= 0.2.0"
+      ],
+      "h": true,
+      "m": "1.0.0"
+    },
+    {
+      "v": "0.1.0@091129395c9fdb142ec6810c405cd74917a6e76d",
+      "r": [
+        "cligen >= 0.9.41",
+        "omni >= 0.1.0"
+      ],
+      "h": true,
+      "m": "1.0.0"
+    },
+    {
+      "v": "#head@5e03045c3236316c609fb7fe5095158a6f5a385e",
+      "r": [
+        "cligen >= 1.5.0",
+        "omni 0.4.2"
+      ],
+      "h": true
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:49:56Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.1.0",
+      "0.2.0",
+      "0.2.1",
+      "0.2.2",
+      "0.2.3",
+      "0.4.0",
+      "0.4.1",
+      "0.4.2"
+    ],
+    "latest": "0.4.2",
+    "prerelease": [
+      "0.1.0"
+    ]
+  },
+  "allDeps": {
+    "packages": [
+      "cligen",
+      "omni"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "cv": 17,
+  "name": "libfuzzer",
+  "fqn": "libfuzzer.planetis-m.github.com",
+  "head": "d3f05f9697adcf0f453eb014c9cf26ed4c01209b",
+  "author": "Antonis Geralis",
+  "description": "Thin interface for libFuzzer, an in-process, coverage-guided, evolutionary fuzzing engine.",
+  "license": "MIT",
+  "nim": "1.0.0",
+  "releases": [
+    {
+      "v": "0.1.0@1366c0d31876e0d21aa143200c90a96f046d9db4",
+      "r": []
+    },
+    {
+      "v": "#head@d3f05f9697adcf0f453eb014c9cf26ed4c01209b",
+      "r": [],
+      "a": "Antonis Geralis",
+      "d": "Thin interface for libFuzzer, an in-process, coverage-guided, evolutionary fuzzing engine.",
+      "l": "MIT",
+      "m": "1.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:46:44Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

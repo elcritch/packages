@@ -1,0 +1,58 @@
+{
+  "cv": 17,
+  "name": "glm",
+  "fqn": "nim-glm.stavenko.github.com",
+  "head": "a1b87af5ed45ab9d7954b3e78c50944d35f5a581",
+  "author": "Arne Döring",
+  "description": "Nim port of the OpenGL Mathematics (GLM) library",
+  "license": "MIT",
+  "nim": "0.17.2",
+  "skipDirs": [
+    "tests",
+    "examples"
+  ],
+  "releases": [
+    {
+      "v": "1.1.1@c30414e241ad7fde9abc4f1dc7185268c4bbdbcd",
+      "r": []
+    },
+    {
+      "v": "1.1.0@48115991609e6f509f1c4eeeb0a726f5a09b8aae",
+      "r": []
+    },
+    {
+      "v": "1.0.2@df79cb0d59e33d023d289e6930172f11cf3738bf",
+      "r": []
+    },
+    {
+      "v": "1.0.1@75f866dd26d17626f2950bca77bf511748133222",
+      "r": [],
+      "m": "0.17.3"
+    },
+    {
+      "v": "1.0.0@bbbb44e98c0d4b296d5290d502f7e4a035662011",
+      "r": [],
+      "m": "~",
+      "x": []
+    },
+    {
+      "v": "#head@a1b87af5ed45ab9d7954b3e78c50944d35f5a581",
+      "r": [],
+      "a": "Arne Döring",
+      "d": "Nim port of the OpenGL Mathematics (GLM) library",
+      "l": "MIT",
+      "x": [
+        "tests",
+        "examples"
+      ],
+      "m": "0.17.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:20Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "cv": 17,
+  "name": "opus",
+  "fqn": "nim-opus.capocasa.github.com",
+  "head": "837a820e351602dd2efbea1bafdef372ac449d2e",
+  "author": "Carlo Capocasa",
+  "description": "A nim wrapper for the opus audio decoder",
+  "license": "BSD-3-Clause",
+  "nim": "1.4.2",
+  "releases": [
+    {
+      "v": "0.1.0@d455514e5f6888f1ae1da35462729dcff09a9d7f",
+      "r": []
+    },
+    {
+      "v": "#head@837a820e351602dd2efbea1bafdef372ac449d2e",
+      "r": [
+        "nimterop"
+      ],
+      "a": "Carlo Capocasa",
+      "d": "A nim wrapper for the opus audio decoder",
+      "l": "BSD-3-Clause",
+      "m": "1.4.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:50:05Z",
+  "allDeps": {
+    "packages": [
+      "cligen",
+      "graphemes",
+      "nimterop",
+      "regex",
+      "segmentation",
+      "unicodedb",
+      "unicodeplus"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "cv": 17,
+  "name": "nicy",
+  "fqn": "nicy.icyphox.github.com",
+  "head": "530072eeebb4d801dc4ffc5f62447c12c8799073",
+  "author": "Anirudh",
+  "description": "A nice and icy ZSH prompt in Nim",
+  "license": "MIT",
+  "nim": "0.18.0",
+  "srcDir": "src",
+  "installExt": [
+    "nim"
+  ],
+  "bin": [
+    "nicy"
+  ],
+  "releases": [
+    {
+      "v": "2.5.1@62bc2bfdf9f2a07fea033ae4e3516d04880dc116",
+      "r": []
+    },
+    {
+      "v": "2.5.0@c6578f86303a9188bec0402b6ebbfa8c4edf7327",
+      "r": []
+    },
+    {
+      "v": "2.4.2@5a44c8b28f48304b00963fa56f375240866c6349",
+      "r": []
+    },
+    {
+      "v": "2.4.1@9bbc2988792328b9507e287681325509c67a6567",
+      "r": []
+    },
+    {
+      "v": "2.4.0@3d56c51266af5005dd761640dc614615a9fc0838",
+      "r": []
+    },
+    {
+      "v": "2.3.0@d0744f3a0be338bb989674696923301412a5fd5c",
+      "r": []
+    },
+    {
+      "v": "2.2.0@610e03075eabe5353d1aa0da90cc8a0df9e934bf",
+      "r": []
+    },
+    {
+      "v": "2.1.0@645ae7cf946a497869e5a5a21945892ee09246fd",
+      "r": [],
+      "k": []
+    },
+    {
+      "v": "#head@530072eeebb4d801dc4ffc5f62447c12c8799073",
+      "r": [],
+      "a": "Anirudh",
+      "d": "A nice and icy ZSH prompt in Nim",
+      "l": "MIT",
+      "s": "src",
+      "k": [
+        "nim"
+      ],
+      "p": [
+        "nicy"
+      ],
+      "m": "0.18.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:48:08Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v2.0.0",
+      "v2.1.0",
+      "v2.2.0",
+      "v2.3.0",
+      "v2.4.0",
+      "v2.4.1",
+      "v2.4.2",
+      "v2.5.0",
+      "v2.5.1"
+    ],
+    "tagVersions": {
+      "v2.0.0": "2.0.0",
+      "v2.1.0": "2.1.0",
+      "v2.2.0": "2.2.0",
+      "v2.3.0": "2.3.0",
+      "v2.4.0": "2.4.0",
+      "v2.4.1": "2.4.1",
+      "v2.4.2": "2.4.2",
+      "v2.5.0": "2.5.0",
+      "v2.5.1": "2.5.1"
+    },
+    "latest": "v2.5.1"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "cv": 17,
+  "name": "mcu_utils",
+  "fqn": "mcu_utils.EmbeddedNim.github.com",
+  "head": "a585835c140d54c2c807313b43442e17c44a1a1a",
+  "author": "Jaremy Creechley",
+  "description": "Utilities and simple helpers for programming with Nim on embedded MCU devices",
+  "license": "Apache-2.0",
+  "nim": "1.7.1",
+  "srcDir": "src",
+  "installExt": [
+    "nim"
+  ],
+  "bin": [
+    "mcu_utils"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@fe095b13206ca953d89beccec12e9a56c08438f6",
+      "r": []
+    },
+    {
+      "v": "0.2.0@4f6f2784ecd26f792d3bbc8943b4de18d7d94c71",
+      "r": [],
+      "m": "1.6.0",
+      "k": [],
+      "p": []
+    },
+    {
+      "v": "0.3.0@d6d216235f3b99aa5c06b2c8615537ed0da47981",
+      "r": [
+        "threading >= 0.1.0"
+      ],
+      "m": "1.6.5",
+      "k": [],
+      "p": []
+    },
+    {
+      "v": "0.3.1@5d1f3c81fdf25110053bfde4e4737023e8f797c4",
+      "r": [
+        "threading >= 0.1.0"
+      ],
+      "m": "1.6.5",
+      "k": [],
+      "p": []
+    },
+    {
+      "v": "0.3.2@b74a311623e513c3dd1aa437013264594eab2345",
+      "r": [
+        "threading >= 0.1.0"
+      ],
+      "m": "1.6.5",
+      "k": [],
+      "p": []
+    },
+    {
+      "v": "0.3.3@699a4aa077126f82b207657b63e43483519006ee",
+      "r": [
+        "threading >= 0.1.0",
+        "persistent_enums >= 0.1.0"
+      ],
+      "m": "1.6.5",
+      "k": [],
+      "p": []
+    },
+    {
+      "v": "0.4.0@34d16ef0bb0bd589eb8a0343b19618401835326e",
+      "r": [
+        "threading >= 0.1.0",
+        "persistent_enums >= 0.1.0"
+      ],
+      "m": "1.6.5",
+      "k": [],
+      "p": []
+    },
+    {
+      "v": "0.5.0@692a29b4558f8e968a66695057c21f72fc341a43",
+      "r": [
+        "threading >= 0.1.0",
+        "persistent_enums >= 0.1.0"
+      ],
+      "m": "1.6.5",
+      "k": [],
+      "p": []
+    },
+    {
+      "v": "0.5.2@a585835c140d54c2c807313b43442e17c44a1a1a^",
+      "r": [
+        "threading >= 0.1.0",
+        "persistent_enums >= 0.1.0"
+      ],
+      "m": "1.6.5",
+      "k": [],
+      "p": []
+    },
+    {
+      "v": "#head@a585835c140d54c2c807313b43442e17c44a1a1a",
+      "r": [
+        "threading >= 0.1.0",
+        "persistent_enums >= 0.1.0"
+      ],
+      "m": "1.6.5",
+      "k": [],
+      "p": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:47:22Z",
+  "allDeps": {
+    "packages": [
+      "persistent_enums > 0.3.2",
+      "threading > 0.2.0"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

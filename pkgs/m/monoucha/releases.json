@@ -1,0 +1,202 @@
+{
+  "cv": 17,
+  "name": "monoucha",
+  "fqn": "monoucha.~bptato.git.sr.ht",
+  "head": "24920865a82cafd9471a593121f4b55a7094b49c",
+  "author": "bptato",
+  "description": "Seamless Nim-QuickJS integration",
+  "license": "Unlicense",
+  "nim": "1.6.14",
+  "skipDirs": [
+    "test"
+  ],
+  "releases": [
+    {
+      "v": "0.11.0@65c83981aae39f3a2de9a1d9992d8b5d6087c73e",
+      "r": [
+        "results >= 0.4.0"
+      ]
+    },
+    {
+      "v": "0.10.0@aea725f86aca3a51d889c55d8ddcde6e0143ed37",
+      "r": [
+        "results >= 0.4.0"
+      ],
+      "m": "2.0.0"
+    },
+    {
+      "v": "0.9.1@01045603d8fe773b4b72cf51519609397aad8d35",
+      "r": [
+        "results >= 0.4.0"
+      ],
+      "m": "2.0.0"
+    },
+    {
+      "v": "0.9.0@72c25e3158fe2fb208c36c7ac2046b44eceba010",
+      "r": [
+        "results >= 0.4.0"
+      ],
+      "m": "2.0.0"
+    },
+    {
+      "v": "0.8.0@250efe5600eb6853b241e20c7cccfb60efa9764e",
+      "r": [
+        "results >= 0.4.0"
+      ]
+    },
+    {
+      "v": "0.7.2@0e5aaa2dad37dfbee3ed72c71688bca54435e22b",
+      "r": [
+        "results >= 0.4.0"
+      ]
+    },
+    {
+      "v": "0.7.1@b542c1845b02f26c2bd18688886769f90092697d",
+      "r": [
+        "results >= 0.4.0"
+      ]
+    },
+    {
+      "v": "0.7.0@141a033475567efe46cb51998e717cd571036455",
+      "r": [
+        "results >= 0.4.0"
+      ]
+    },
+    {
+      "v": "0.6.0@3a80bfe0348cb9994fd7806ff3db1d8553364883",
+      "r": [
+        "results >= 0.4.0"
+      ]
+    },
+    {
+      "v": "0.5.5@e04b0547fd34f6c97fecefca697468b0b3da5731",
+      "r": [
+        "results >= 0.4.0"
+      ]
+    },
+    {
+      "v": "0.5.4@346824bf132b17b6a9ca39b6fe16a08953885a2a",
+      "r": [
+        "results >= 0.4.0"
+      ]
+    },
+    {
+      "v": "0.5.3@099e49f1ac7738cdd909b5ae27560d1d3fc310b3",
+      "r": [
+        "results >= 0.4.0"
+      ]
+    },
+    {
+      "v": "0.5.2@4b44aeb28cbe28dbb0f097194bfcc530c05af429",
+      "r": [
+        "results >= 0.4.0"
+      ]
+    },
+    {
+      "v": "0.5.1@b37bd225f73cdb0fe700079f7a9a3d94eb48e054",
+      "r": [
+        "results >= 0.4.0"
+      ]
+    },
+    {
+      "v": "0.5.0@29cc7e46561d5c9190ce485b1bdcd4b3dfa08509",
+      "r": [
+        "results >= 0.4.0"
+      ]
+    },
+    {
+      "v": "0.4.3@ef29008d44e891dffa4367d9a845ae86f609e4a5",
+      "r": [
+        "results >= 0.4.0"
+      ]
+    },
+    {
+      "v": "0.4.2@e24cb6efdb130cf810251fb12116b43e03e7f9b4",
+      "r": [
+        "results >= 0.4.0"
+      ]
+    },
+    {
+      "v": "0.4.1@4742b0f8f5885cb42f48d14f0a4f44e406aa2c94",
+      "r": [
+        "results >= 0.4.0"
+      ]
+    },
+    {
+      "v": "0.4.0@ddf0931eb42dfb573d2978ea9d8a505917d17983",
+      "r": [
+        "results >= 0.4.0"
+      ]
+    },
+    {
+      "v": "0.3.1@35f48c46298ceee84944ad14b120f9454b6a45d2",
+      "r": [
+        "results >= 0.4.0"
+      ]
+    },
+    {
+      "v": "0.3.0@116f756960b9a96284b688755eca154eb574c31b",
+      "r": [
+        "results >= 0.4.0"
+      ]
+    },
+    {
+      "v": "0.2.3@462a34267ed28c2a5ff4c548144f59997ea16112",
+      "r": [
+        "results >= 0.4.0"
+      ]
+    },
+    {
+      "v": "0.2.2@9738dbe7ec24d403e851232cdc3457a3fbbce644",
+      "r": [
+        "results >= 0.4.0"
+      ]
+    },
+    {
+      "v": "0.2.1@64bb28aae11094b062baff7029ff00f6c1060fad",
+      "r": [
+        "results >= 0.4.0"
+      ]
+    },
+    {
+      "v": "0.2.0@075822da6afd739c4b8031270f9b71c496174153",
+      "r": [
+        "results >= 0.4.0"
+      ]
+    },
+    {
+      "v": "0.1.1@c48f84e0c68b7dbf78825b0c2c44ea3918f79534",
+      "r": [
+        "results >= 0.4.0"
+      ]
+    },
+    {
+      "v": "0.1.0@56ba1b8cfe4082ad9c052744c7a5fdd2421f99e2",
+      "r": [
+        "results >= 0.4.0"
+      ]
+    },
+    {
+      "v": "#head@24920865a82cafd9471a593121f4b55a7094b49c",
+      "r": [
+        "results >= 0.4.0"
+      ],
+      "a": "bptato",
+      "d": "Seamless Nim-QuickJS integration",
+      "l": "Unlicense",
+      "x": [
+        "test"
+      ],
+      "m": "1.6.14"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:47:42Z",
+  "allDeps": {
+    "packages": [
+      "results"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

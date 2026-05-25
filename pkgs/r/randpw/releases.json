@@ -1,0 +1,39 @@
+{
+  "cv": 17,
+  "name": "randpw",
+  "fqn": "nim-randpw.pdrb.github.com",
+  "head": "8c0fc75a3ea6d62cba0ab57180aabfb8e625f9b9",
+  "author": "Pedro Buteri Gonring",
+  "description": "Random password and passphrase generator",
+  "license": "MIT",
+  "nim": "1.0.0",
+  "srcDir": "src",
+  "bin": [
+    "randpw"
+  ],
+  "releases": [
+    {
+      "v": "1.0.0@57e75a09c62d4c67199ea64c60a26238d79f0154",
+      "r": []
+    },
+    {
+      "v": "#head@8c0fc75a3ea6d62cba0ab57180aabfb8e625f9b9",
+      "r": [],
+      "a": "Pedro Buteri Gonring",
+      "d": "Random password and passphrase generator",
+      "l": "MIT",
+      "s": "src",
+      "p": [
+        "randpw"
+      ],
+      "m": "1.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:00Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

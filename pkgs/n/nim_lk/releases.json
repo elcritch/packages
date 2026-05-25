@@ -1,0 +1,93 @@
+{
+  "cv": 17,
+  "name": "nim_lk",
+  "fqn": "nim_lk.~ehmry.git.sr.ht",
+  "head": "6c0a37af9e2b3a12a8455c76286b5245d3428ec0",
+  "author": "Emery Hemingway",
+  "description": "Tool for generating Nim lockfiles",
+  "license": "BSD-3-Clause",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "bin": [
+    "nim_lk"
+  ],
+  "releases": [
+    {
+      "v": "20250309@cfb1140b7a0aa9dd67d7671d1b36afee26088fd4",
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
+    },
+    {
+      "v": "20241025@c2d601095d1961d8f59f1fffe5b56788b255c3de",
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
+    },
+    {
+      "v": "20240601@4b6dff87b42bc9d7dda3facd96083abd05fedc6d",
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
+    },
+    {
+      "v": "20240527@2545455447a3e397ea3806a32a897f159be53196",
+      "r": [
+        "nimble #f8bd7b5fa6ea7a583b411b5959b06e6b5eb23667"
+      ]
+    },
+    {
+      "v": "20240510@fc1eb209de496cf8680a670249d70f3b31fdc4ad",
+      "r": [
+        "preserves >= 20240114",
+        "atlas"
+      ]
+    },
+    {
+      "v": "20240210@50a7368d97d9cb3e5bf23968c3bac42ec5724b08",
+      "r": [
+        "preserves >= 20240114",
+        "atlas"
+      ]
+    },
+    {
+      "v": "20231031@222aea9e799d1da27664145ce9c87ee894e11eef",
+      "r": [
+        "preserves >= 20231021"
+      ]
+    },
+    {
+      "v": "20231021@eba1f0254e6d999c6ae78a685079f16d906485c3",
+      "r": [
+        "preserves >= 20231021"
+      ]
+    },
+    {
+      "v": "20231009@78cd653ceec31878a428853a67841728c5b1bb8c",
+      "r": []
+    },
+    {
+      "v": "#head@6c0a37af9e2b3a12a8455c76286b5245d3428ec0",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:48:23Z",
+  "allDeps": {
+    "packages": [
+      "atlas > 20231031 & <= 20240510",
+      "checksums > 20240510 & <= 20240527",
+      "nimble > 20240510 & <= 20240527",
+      "npeg > 20231009 & <= 20240510",
+      "preserves > 20231009 & <= 20240510",
+      "sat > 20231031 & <= 20240527"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:ehmry/nim-bigints"
+    ]
+  }
+}

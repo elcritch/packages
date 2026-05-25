@@ -1,0 +1,30 @@
+{
+  "cv": 17,
+  "name": "minhook",
+  "fqn": "minhook.khchen.github.com",
+  "head": "7c0cfdac09e6b02114741318fe3e3284fc1ac334",
+  "author": "Ward",
+  "description": "MinHook wrapper for Nim",
+  "license": "MIT",
+  "nim": "1.0.0",
+  "skipDirs": [
+    "examples"
+  ],
+  "releases": [
+    {
+      "v": "1.0.0@7c0cfdac09e6b02114741318fe3e3284fc1ac334^",
+      "r": []
+    },
+    {
+      "v": "#head@7c0cfdac09e6b02114741318fe3e3284fc1ac334",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:47:32Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

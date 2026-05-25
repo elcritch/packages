@@ -1,0 +1,27 @@
+{
+  "cv": 17,
+  "name": "physfs",
+  "fqn": "physfs.fowlmouth.github.com",
+  "head": "2724f417694b16b72be69c64988fab6fa4764081",
+  "releases": [
+    {
+      "v": "~@2724f417694b16b72be69c64988fab6fa4764081",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    },
+    {
+      "v": "#head@2724f417694b16b72be69c64988fab6fa4764081",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:50:25Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

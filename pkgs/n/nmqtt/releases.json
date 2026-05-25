@@ -1,0 +1,155 @@
+{
+  "cv": 17,
+  "name": "nmqtt",
+  "fqn": "nmqtt.zevv.github.com",
+  "head": "3406d20382123d23fbb198c54728dadfa9155145",
+  "author": "zevv & ThomasTJdev & python36",
+  "description": "Native MQTT library and binaries for publishing, subscribing and broker",
+  "license": "MIT",
+  "nim": "1.0.6",
+  "srcDir": "src",
+  "binDir": "bin",
+  "skipDirs": [
+    "tests",
+    "nmqtt"
+  ],
+  "installDirs": [
+    "config"
+  ],
+  "installFiles": [
+    "nmqtt.nim"
+  ],
+  "bin": [
+    "nmqtt/nmqtt",
+    "nmqtt/nmqtt_password",
+    "nmqtt/nmqtt_pub",
+    "nmqtt/nmqtt_sub"
+  ],
+  "releases": [
+    {
+      "v": "1.0.8@3406d20382123d23fbb198c54728dadfa9155145^",
+      "r": [
+        "cligen >= 0.9.45"
+      ],
+      "s": ""
+    },
+    {
+      "v": "1.0.7@a704fa997184fcd16fc7043e52518462cf835aed",
+      "r": [
+        "cligen >= 0.9.45"
+      ],
+      "a": "zevv & ThomasTJdev",
+      "s": ""
+    },
+    {
+      "v": "1.0.6@3e4157e0193269a3bdef2965b14862a92497853c",
+      "r": [
+        "cligen >= 0.9.45"
+      ],
+      "a": "zevv & ThomasTJdev",
+      "s": ""
+    },
+    {
+      "v": "1.0.5@2bc6c765471ddd2a134a76345f52288ead32db02",
+      "r": [
+        "cligen >= 0.9.45"
+      ],
+      "a": "zevv & ThomasTJdev",
+      "s": ""
+    },
+    {
+      "v": "1.0.4@4791cba33a8170e14838b0dbc3e2d6e56059de80",
+      "r": [
+        "cligen >= 0.9.45"
+      ],
+      "a": "zevv & ThomasTJdev",
+      "s": ""
+    },
+    {
+      "v": "1.0.3@17abe0c52fa478a91ce553cbd18834d0e9eb3edb",
+      "r": [
+        "cligen >= 0.9.45"
+      ],
+      "a": "zevv & ThomasTJdev",
+      "s": ""
+    },
+    {
+      "v": "1.0.2@cce81d71272d4d5d116d6647867265e3db3bdac4",
+      "r": [
+        "bcrypt >= 0.2.1",
+        "cligen >= 0.9.45"
+      ],
+      "a": "zevv & ThomasTJdev",
+      "s": ""
+    },
+    {
+      "v": "1.0.0@89efd382d31b8585475b508c968b5238fbc4dfba",
+      "r": [
+        "bcrypt >= 0.2.1",
+        "cligen >= 0.9.45"
+      ],
+      "h": true,
+      "a": "zevv & ThomasTJdev",
+      "p": [
+        "nmqtt",
+        "nmqtt_password",
+        "nmqtt_pub",
+        "nmqtt_sub"
+      ],
+      "x": []
+    },
+    {
+      "v": "0.1.0@ae5b1e18a449e04bf7673b10f9e4f7157ea4dcdb",
+      "r": [],
+      "a": "zevv",
+      "d": "Native MQTT client library",
+      "b": "",
+      "x": [],
+      "i": [],
+      "j": [],
+      "p": []
+    },
+    {
+      "v": "#head@3406d20382123d23fbb198c54728dadfa9155145",
+      "r": [
+        "cligen >= 0.9.45"
+      ],
+      "s": ""
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:49:31Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v1.0.2",
+      "v1.0.3",
+      "v1.0.4",
+      "v1.0.5",
+      "v1.0.6",
+      "v1.0.7",
+      "v1.0.8"
+    ],
+    "tagVersions": {
+      "v1.0.2": "1.0.2",
+      "v1.0.3": "1.0.3",
+      "v1.0.4": "1.0.4",
+      "v1.0.5": "1.0.5",
+      "v1.0.6": "1.0.6",
+      "v1.0.7": "1.0.7",
+      "v1.0.8": "1.0.8"
+    },
+    "latest": "v1.0.8"
+  },
+  "allDeps": {
+    "packages": [
+      "bcrypt > 0.1.0 & <= 1.0.2",
+      "cligen > 0.1.0"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

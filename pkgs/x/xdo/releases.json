@@ -1,0 +1,81 @@
+{
+  "cv": 17,
+  "name": "xdo",
+  "fqn": "nim-xdo.juancarlospaco.github.com",
+  "head": "d6a9d9496be636c2b903c452b8b6126fff5576b4",
+  "author": "Juan Carlos",
+  "description": "Nim GUI Automation Linux, simulate user interaction, mouse and keyboard.",
+  "license": "MIT",
+  "nim": "0.18.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@9e91de826e46504a472c35821edabb01a53268e6",
+      "r": []
+    },
+    {
+      "v": "0.2.0@d274981f645fdd00df396fa388471ca146db5516",
+      "r": [],
+      "m": "0.19.0"
+    },
+    {
+      "v": "0.2.2@26da1f25dcdb5b448789bc069c7143d406b4645a",
+      "r": [],
+      "h": true,
+      "a": "Juan Carlos, Mircea Ilie Ploscaru",
+      "m": "0.19.0"
+    },
+    {
+      "v": "0.2.5@9ba493b6de6b0da2b9714182f2e0c639b7718c91",
+      "r": [],
+      "h": true,
+      "a": "Juan Carlos, Mircea Ilie Ploscaru",
+      "m": "1.2.0"
+    },
+    {
+      "v": "0.5.5@e56251374494db3ca947bb1a402ac098974a6ddf",
+      "r": [],
+      "h": true,
+      "a": "Juan Carlos, Mircea Ilie Ploscaru",
+      "m": "1.2.2"
+    },
+    {
+      "v": "0.7.5@70c352d279bca27a4086262eadd44386514675fd",
+      "r": [],
+      "h": true,
+      "a": "Juan Carlos, Mircea Ilie Ploscaru",
+      "m": "1.2.4"
+    },
+    {
+      "v": "0.9.0@808b22428fc9a673bcead23988e00a6368f4053a",
+      "r": [],
+      "h": true,
+      "a": "Juan Carlos, Mircea Ilie Ploscaru",
+      "m": "1.4.0"
+    },
+    {
+      "v": "0.9.5@acb1acc90d707064ac43e91a664773494a080a4d",
+      "r": [],
+      "h": true,
+      "a": "Juan Carlos, Mircea Ilie Ploscaru",
+      "m": "1.4.0"
+    },
+    {
+      "v": "#head@d6a9d9496be636c2b903c452b8b6126fff5576b4",
+      "r": [],
+      "h": true,
+      "a": "Juan Carlos, Mircea Ilie Ploscaru",
+      "d": "Nim GUI Automation Linux, simulate user interaction, mouse and keyboard.",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.6.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:54:10Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

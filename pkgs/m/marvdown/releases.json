@@ -1,0 +1,69 @@
+{
+  "cv": 17,
+  "name": "marvdown",
+  "fqn": "marvdown.openpeeps.github.com",
+  "head": "faa5a123c540b1f00cd0861b25b0f1e408ae6c77",
+  "author": "George Lemon",
+  "description": "A stupid simple Markdown library",
+  "license": "MIT",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "binDir": "bin",
+  "installExt": [
+    "nim"
+  ],
+  "bin": [
+    "marvdown"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@4d1d1210924a1d30c66479098cb7eec815030c23",
+      "r": [
+        "kapsis",
+        "denim",
+        "jsony"
+      ]
+    },
+    {
+      "v": "#head@faa5a123c540b1f00cd0861b25b0f1e408ae6c77",
+      "r": [
+        "openparser #head"
+      ],
+      "a": "George Lemon",
+      "d": "A stupid simple Markdown library",
+      "l": "MIT",
+      "s": "src",
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:47:18Z",
+  "allDeps": {
+    "packages": [
+      "ansiparse",
+      "bigints",
+      "blackpaper",
+      "checksums",
+      "denim",
+      "floof",
+      "htmlparser",
+      "illwill",
+      "jsony",
+      "kapsis",
+      "libffi",
+      "msgpack4nim",
+      "nancy",
+      "nimsimd",
+      "noise",
+      "openparser",
+      "pkginfo",
+      "pluginkit",
+      "semver",
+      "termstyle",
+      "valido",
+      "voodoo"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "cv": 17,
+  "name": "xlsxio",
+  "fqn": "xlsxio-nim.jiiihpeeh.github.com",
+  "head": "3791eae61832d8fdae88ea4759cc88d75c0a125c",
+  "author": "juujaa",
+  "description": "This is a xlsio wrapper done Nim in mind.",
+  "license": "MIT",
+  "nim": "1.6.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@6fb57116fb3ea5f74280b37041c93bc905cfaddb",
+      "r": []
+    },
+    {
+      "v": "0.1.1@8a7ad9bacdefd2dc94a19c3047c151bed2714ee9",
+      "r": []
+    },
+    {
+      "v": "#head@3791eae61832d8fdae88ea4759cc88d75c0a125c",
+      "r": [],
+      "a": "juujaa",
+      "d": "This is a xlsxio wrapper done Nim in mind.",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.6.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:54:14Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

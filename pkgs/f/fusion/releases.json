@@ -1,0 +1,56 @@
+{
+  "cv": 17,
+  "name": "fusion",
+  "fqn": "fusion.nim-lang.github.com",
+  "head": "562467452b32cb7a97410ea177f083e6d8405734",
+  "author": "Araq",
+  "description": "Extensions for Nim's stdlib",
+  "license": "MIT",
+  "nim": "1.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "1.2@0b0a0273b8df860cd54e3fcca7bb4c617244ac77",
+      "r": []
+    },
+    {
+      "v": "1.1@f35943a4da3f694bcd83c64cc133ce8db9aa708c",
+      "r": []
+    },
+    {
+      "v": "1.0@db4683f91bfbedbbc48ced086db774ca7dc43e9b",
+      "r": []
+    },
+    {
+      "v": "#head@562467452b32cb7a97410ea177f083e6d8405734",
+      "r": [],
+      "a": "Araq",
+      "d": "Extensions for Nim's stdlib",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:01Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v1.1",
+      "v1.2"
+    ],
+    "tagVersions": {
+      "v1.1": "1.1",
+      "v1.2": "1.2"
+    },
+    "latest": "v1.2"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

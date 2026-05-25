@@ -1,0 +1,64 @@
+{
+  "cv": 17,
+  "name": "nimcatapi",
+  "fqn": "nimcatapi.nirokay.github.com",
+  "head": "06e810b38c558055df8882f535b7308fc4e7be59",
+  "author": "nirokay",
+  "description": "nimcatapi is a library that lets you easily request images from thecatapi and/or thedogapi.",
+  "license": "GPL-3.0-only",
+  "nim": "1.1.0",
+  "skipDirs": [
+    "docs",
+    "tests"
+  ],
+  "skipFiles": [
+    "run_tests.sh",
+    "update_docs.sh"
+  ],
+  "releases": [
+    {
+      "v": "2.0.0@aff06d5d50bb223db2cd0467f92756db122c1d22",
+      "r": []
+    },
+    {
+      "v": "1.0.1@96792f9973bc4e531aca91e1e1538c77709b14ae",
+      "r": [],
+      "m": "1.0.0"
+    },
+    {
+      "v": "#head@06e810b38c558055df8882f535b7308fc4e7be59",
+      "r": [],
+      "a": "nirokay",
+      "d": "nimcatapi is a library that lets you easily request images from thecatapi and/or thedogapi.",
+      "l": "GPL-3.0-only",
+      "x": [
+        "docs",
+        "tests"
+      ],
+      "y": [
+        "run_tests.sh",
+        "update_docs.sh"
+      ],
+      "m": "1.1.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:48:32Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "1.0.0",
+      "1.0.1",
+      "2.0.0"
+    ],
+    "latest": "2.0.0"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

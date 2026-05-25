@@ -1,0 +1,36 @@
+{
+  "cv": 17,
+  "name": "bitcoinlightning",
+  "fqn": "bitcoin-lightning.juancarlospaco.github.com",
+  "head": "7e0f7eaad982175f559daed3fde608566b33bd96",
+  "author": "Juan Carlos",
+  "description": "Bitcoin Lightning client",
+  "license": "MIT",
+  "nim": "1.6.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "~@6e600f84fa4a5d02f9c37341dda4692f31819795",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "s": ""
+    },
+    {
+      "v": "1.0.0@7e0f7eaad982175f559daed3fde608566b33bd96",
+      "r": []
+    },
+    {
+      "v": "#head@7e0f7eaad982175f559daed3fde608566b33bd96",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:42:43Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

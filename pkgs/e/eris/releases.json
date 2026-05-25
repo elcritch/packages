@@ -1,0 +1,361 @@
+{
+  "cv": 17,
+  "name": "eris",
+  "fqn": "nim-eris.eris.codeberg.org",
+  "head": "f2d2944cb48c6c85b336a989a1919b64434c4d7f",
+  "author": "Emery Hemingway",
+  "description": "Utilities for working with the Encoding for Robust Immutable Storage (ERIS)",
+  "license": "Unlicense",
+  "nim": "1.4.2",
+  "srcDir": "src",
+  "bin": [
+    "erisdb",
+    "erishttpd",
+    "erissum"
+  ],
+  "backend": "cpp",
+  "releases": [
+    {
+      "v": "20231123@6a606aed8fe4c266de95d0a897e5e4f617ff27ce",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "s": "",
+      "p": [],
+      "e": ""
+    },
+    {
+      "v": "20230823@49d8117367d3530533dc1d6a9111ddd134b08b1e",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "s": "",
+      "p": [],
+      "e": ""
+    },
+    {
+      "v": "20230802@35aa0756c4e75ea4ec60812e8f345d5d8273ddff",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "s": "",
+      "p": [],
+      "e": ""
+    },
+    {
+      "v": "20230722@b5dd0b258d5333064bf7d9aeb0b5776303f2686d",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "s": "",
+      "p": [],
+      "e": ""
+    },
+    {
+      "v": "20230716@9f5c62a5827aa3f9e3a9c8c2c5a2bd4dc8c90167",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "s": "",
+      "p": [],
+      "e": ""
+    },
+    {
+      "v": "20230518@ad44d57f252824e73185b50816de9195460b2a5f",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "s": "",
+      "p": [],
+      "e": ""
+    },
+    {
+      "v": "20230310@a5ad77dc14d17763437304fea67a5ab82923454b",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "s": "",
+      "p": [],
+      "e": ""
+    },
+    {
+      "v": "20230309@1d16718ebf0ea907feab254a458ce0cca9b9c0ef",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "s": "",
+      "p": [],
+      "e": ""
+    },
+    {
+      "v": "20230307@dc93b85adc536fab5afcded923a77bb55deddb00",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "s": "",
+      "p": [],
+      "e": ""
+    },
+    {
+      "v": "20230212@360f3426d9d3bbf9d9f29a2bac2565228854ff3b",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "s": "",
+      "p": [],
+      "e": ""
+    },
+    {
+      "v": "20230201@7e84ea338a6b87478ad215945edb71a2b0f6e42b",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "s": "",
+      "p": [],
+      "e": ""
+    },
+    {
+      "v": "20230131@86c09bf61b4c9951535c0675736b7c5a59ccc8bd",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "s": "",
+      "p": [],
+      "e": ""
+    },
+    {
+      "v": "20230126@eb09a0e96f581aaf5592f99d3ee73fce84d755be",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "s": "",
+      "p": [],
+      "e": ""
+    },
+    {
+      "v": "20230125@535a7d88af92fa4eedbd211f5f35298c8752beaf",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "s": "",
+      "p": [],
+      "e": ""
+    },
+    {
+      "v": "20230122@1efd59b9ad8a22379fd45907238858add3553f73",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "s": "",
+      "p": [],
+      "e": ""
+    },
+    {
+      "v": "20230121@27b378e3d2f5eab01de62a59f62790fbe3083906",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "s": "",
+      "p": [],
+      "e": ""
+    },
+    {
+      "v": "20230102@7aed5cc1ac3f99446fc930fa3166f04d4cd6f172",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "s": "",
+      "p": [],
+      "e": ""
+    },
+    {
+      "v": "20221005@82c1c33e7a0fa8422e0434a49a090e1123d7689d",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "s": "",
+      "p": [],
+      "e": ""
+    },
+    {
+      "v": "20220921@1675b17be450c0211ccff84356eb0634280496b2",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "s": "",
+      "p": [],
+      "e": ""
+    },
+    {
+      "v": "20220913@05cf521cbe4f056ca683684822c1612bb85fe6cd",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "s": "",
+      "p": [],
+      "e": ""
+    },
+    {
+      "v": "20220912@ad4dd9ea12b570f9c4dc6283afb5baf253521b20",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "s": "",
+      "p": [],
+      "e": ""
+    },
+    {
+      "v": "20220904@f5dd9f48a6f2a6e173aac45d9f3fdfc7d6bcc3b1",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "s": "",
+      "p": [],
+      "e": ""
+    },
+    {
+      "v": "20220902@290da6ed1abcb538fe62b100507b3cf4efbf6bdf",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "s": "",
+      "p": [],
+      "e": ""
+    },
+    {
+      "v": "20220831@f73f99adc5eb502d2d441e013d9417554dc339ad",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "s": "",
+      "p": [],
+      "e": ""
+    },
+    {
+      "v": "0.3.0@eec112c9028a765724894c74821802f8c8a2f77b",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "s": "",
+      "p": [],
+      "e": ""
+    },
+    {
+      "v": "0.2.0@990f53ed9222c95124364d9152d9cebc1baf9abe",
+      "r": [
+        "eris >= 0.4.0",
+        "tkrzw >= 0.1.2"
+      ]
+    },
+    {
+      "v": "0.1.3@cc782d2735ed455265b82e238d15b7aa2e801bc2",
+      "r": [
+        "eris >= 0.3.0"
+      ],
+      "l": "GPL-3.0",
+      "p": [
+        "erissum",
+        "erisserver",
+        "erisget"
+      ],
+      "e": ""
+    },
+    {
+      "v": "0.1.2@37f1503a4a75286e3799a48ccffaf43362cbca8b",
+      "r": [
+        "eris >= 0.2.0"
+      ],
+      "l": "GPL-3.0",
+      "p": [
+        "erissum"
+      ],
+      "e": ""
+    },
+    {
+      "v": "0.1.1@dc42e1e22b46c8196132d04a7ff2239c63f6193b",
+      "r": [
+        "eris >= 0.2.0"
+      ],
+      "l": "GPL-3.0",
+      "p": [
+        "erissum"
+      ],
+      "e": ""
+    },
+    {
+      "v": "0.1.0@175997896a5e83e0433d65dd8a255f64e92552eb",
+      "r": [
+        "eris"
+      ],
+      "l": "GPL-3.0",
+      "p": [
+        "erissum"
+      ],
+      "e": ""
+    },
+    {
+      "v": "#head@f2d2944cb48c6c85b336a989a1919b64434c4d7f",
+      "r": [
+        "base32 >= 0.1.3",
+        "cb:eris/nim-coap >= 20220831",
+        "srht:ehmry/nim_cbor",
+        "srht:ehmry/nim_taps",
+        "srht:ehmry/freedesktop_org >= 20230201",
+        "srht:ehmry/nim-tkrzw >= 20220910",
+        "illwill"
+      ],
+      "a": "Endo Renberg",
+      "d": "Encoding for Robust Immutable Storage",
+      "l": "Unlicense",
+      "s": "src",
+      "p": [
+        "eris/eriscmd",
+        "eris/helpers/rclerislink"
+      ],
+      "e": "cpp",
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:31Z",
+  "allDeps": {
+    "packages": [
+      "base32",
+      "illwill",
+      "tkrzw > 0.1.3 & <= 0.2.0"
+    ],
+    "urls": [],
+    "unresolved": [
+      "cb:eris/nim-coap",
+      "srht:ehmry/freedesktop_org",
+      "srht:ehmry/nim-tkrzw",
+      "srht:ehmry/nim_cbor",
+      "srht:ehmry/nim_taps"
+    ]
+  }
+}

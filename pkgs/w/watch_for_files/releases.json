@@ -1,0 +1,48 @@
+{
+  "cv": 17,
+  "name": "watch_for_files",
+  "fqn": "watch_for_files.hamidb80.github.com",
+  "head": "0d1eef2fbead0aebc7ca9bc1ef148a4bb6a2fecb",
+  "author": "hamidb80",
+  "description": "cross-platform file watcher with awesome features",
+  "license": "MIT",
+  "nim": "1.5.1",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.0.1@e82bbe271583975003057f110d7985c773bc8480",
+      "r": []
+    },
+    {
+      "v": "0.0.3@6a8bc7a9d23ea79ea2e60dd228b68316ec294950",
+      "r": [],
+      "d": "cross-platform file watcher with database"
+    },
+    {
+      "v": "0.0.5@24845182f09947f8df47679fff8f228af13cfccb",
+      "r": [],
+      "d": "cross-platform file watcher with database"
+    },
+    {
+      "v": "0.0.6@a013d0092436e6544d40c2a8d09dde80e4576e19",
+      "r": [],
+      "d": "cross-platform file watcher with database"
+    },
+    {
+      "v": "#head@0d1eef2fbead0aebc7ca9bc1ef148a4bb6a2fecb",
+      "r": [],
+      "a": "hamidb80",
+      "d": "cross-platform file watcher with database",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.5.1"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:53:42Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

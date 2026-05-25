@@ -1,0 +1,110 @@
+{
+  "cv": 17,
+  "name": "cello",
+  "fqn": "cello.andreaferretti.github.com",
+  "head": "c397c78820464987a8d872a0e5051e6a6af326c8",
+  "author": "Andrea Ferretti",
+  "description": "String algorithms with succinct data structures",
+  "license": "Apache2",
+  "nim": "0.20.0",
+  "skipDirs": [
+    "tests",
+    "benchmarks",
+    "img"
+  ],
+  "releases": [
+    {
+      "v": "0.3.0@325e92896a33a1a4dbd91d0cb37fed18f7663d81",
+      "r": [
+        "spills >= 0.1.3"
+      ]
+    },
+    {
+      "v": "0.2.0@f5d58853f1f53d2249e284f2bac711d18ec557e2",
+      "r": [
+        "spills >= 0.1.3"
+      ]
+    },
+    {
+      "v": "0.1.6@1d3edcc4f68443bdac0f372c0ebb644184068d0e",
+      "r": [
+        "spills >= 0.1.3"
+      ],
+      "m": "0.18.0"
+    },
+    {
+      "v": "0.1.5@ab5deaa84f942bc4da76d0b2656085faef7658c1",
+      "r": [
+        "spills >= 0.1.3"
+      ],
+      "m": "0.18.0"
+    },
+    {
+      "v": "0.1.4@380ee2b192861eb63cac65c5cb04839864127751",
+      "r": [
+        "spills >= 0.1.3"
+      ],
+      "m": "0.18.0"
+    },
+    {
+      "v": "0.1.3@4b20250178961f43b7aa0c60a788914dd5980d72",
+      "r": [
+        "spills >= 0.1.2"
+      ],
+      "m": "0.16.0"
+    },
+    {
+      "v": "0.1.2@ceb1344e0d779932b22ebf1c1daaf0cdfcd409eb",
+      "r": [
+        "spills >= 0.1.1"
+      ],
+      "m": "0.16.0"
+    },
+    {
+      "v": "0.1.1@bca67ec166bf851083d5b5bdfdf49f09aba031c8",
+      "r": [
+        "spills >= 0.1.1"
+      ],
+      "x": [
+        "tests",
+        "benchmarks"
+      ],
+      "m": "0.16.0"
+    },
+    {
+      "v": "0.1.0@997e84efe582550976698842e17cf4c072e131b8",
+      "r": [
+        "spills >= 0.1.1"
+      ],
+      "x": [
+        "tests",
+        "benchmarks"
+      ],
+      "m": "0.16.0"
+    },
+    {
+      "v": "#head@c397c78820464987a8d872a0e5051e6a6af326c8",
+      "r": [
+        "spills >= 0.1.3"
+      ],
+      "a": "Andrea Ferretti",
+      "d": "String algorithms with succinct data structures",
+      "l": "Apache2",
+      "x": [
+        "tests",
+        "benchmarks",
+        "img"
+      ],
+      "m": "0.20.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:43:07Z",
+  "allDeps": {
+    "packages": [
+      "spills"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

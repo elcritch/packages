@@ -1,0 +1,30 @@
+{
+  "cv": 17,
+  "name": "pythonize",
+  "fqn": "nim-pythonize.marcoapintoo.github.com",
+  "head": "613a8c11a8e0fbfc9ac35d731c31d876f80f9a47",
+  "author": "Marco Antonio Pinto",
+  "description": "A more pythonist API for Nim",
+  "license": "MIT",
+  "releases": [
+    {
+      "v": "1.0.0@6872dc6d14c890609c54e4e45c7d9afb348f4a0f",
+      "r": []
+    },
+    {
+      "v": "#head@613a8c11a8e0fbfc9ac35d731c31d876f80f9a47",
+      "n": "pythonize",
+      "r": [],
+      "a": "Marco Antonio Pinto",
+      "d": "A higher-level wrapper for the Python Programing Language",
+      "l": "MIT"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:50:55Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

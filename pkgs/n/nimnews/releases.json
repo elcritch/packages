@@ -1,0 +1,134 @@
+{
+  "cv": 17,
+  "name": "nimnews",
+  "fqn": "nimnews.mildred.github.com",
+  "head": "36ee8709f0f6e8e1b215e57f4607bbfe68e3ab92",
+  "author": "Mildred Ki'Lya",
+  "description": "Nim newsgroup NNTP server",
+  "license": "GPL-3.0",
+  "nim": "1.2.0",
+  "srcDir": "src",
+  "installExt": [
+    "nim"
+  ],
+  "bin": [
+    "nimnews",
+    "web/newsweb"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@0ab41cdc69f0ff5890adfc9b7cb1c1eaa75f5555",
+      "r": [
+        "docopt",
+        "nuuid",
+        "scram",
+        "passgen",
+        "npeg",
+        "nimassets",
+        "prologue",
+        "templates",
+        "asynctools"
+      ]
+    },
+    {
+      "v": "#head@36ee8709f0f6e8e1b215e57f4607bbfe68e3ab92",
+      "r": [
+        "docopt",
+        "nuuid",
+        "passgen",
+        "npeg",
+        "gh:mildred/scram.nim #mildred-fix-scram",
+        "nimassets",
+        "prologue",
+        "templates",
+        "asynctools"
+      ],
+      "a": "Mildred Ki'Lya",
+      "d": "Nim newsgroup NNTP server",
+      "l": "GPL-3.0",
+      "s": "src",
+      "k": [
+        "nim"
+      ],
+      "p": [
+        "nimnews",
+        "web/newsweb"
+      ],
+      "m": "1.2.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:49:00Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "latest-master"
+    ],
+    "prerelease": [
+      "latest-master"
+    ]
+  },
+  "allDeps": {
+    "packages": [
+      "asynctools",
+      "bearssl",
+      "checksums",
+      "chronicles",
+      "chronos",
+      "cligen",
+      "cookiejar",
+      "docopt",
+      "dotenv",
+      "faststreams",
+      "graphemes",
+      "hmac",
+      "httpbeast",
+      "httputils",
+      "httpx",
+      "ioselectors",
+      "json_serialization",
+      "kairos",
+      "karax",
+      "logue",
+      "nimSHA2",
+      "nimassets",
+      "nimcrypto",
+      "npeg",
+      "nuuid",
+      "passgen",
+      "prologue",
+      "regex",
+      "results",
+      "scram",
+      "segmentation",
+      "serialization",
+      "sha1",
+      "stew",
+      "templates",
+      "testutils",
+      "timerwheel",
+      "unicodedb",
+      "unicodeplus",
+      "unittest2",
+      "urand",
+      "websock",
+      "wepoll",
+      "ws",
+      "zlib",
+      "zstd"
+    ],
+    "urls": [
+      "error://cookies"
+    ],
+    "unresolved": [
+      "gh:iffy/asynctools",
+      "gh:mildred/scram.nim",
+      "gh:planety/cookies",
+      "gh:timotheecour/asynctools",
+      "gh:xflywind/httpx"
+    ]
+  }
+}

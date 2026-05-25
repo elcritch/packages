@@ -1,0 +1,52 @@
+{
+  "cv": 17,
+  "name": "honeycomb",
+  "fqn": "honeycomb.KatrinaKitten.github.com",
+  "head": "84ec624169aafcc47fb6e0b9d1b499d1c916c515",
+  "author": "Katrina Scialdone",
+  "description": "A dead simple, no-nonsense parser combinator library written in pure Nim.",
+  "license": "MPL-2.0",
+  "nim": "1.6.0",
+  "releases": [
+    {
+      "v": "0.1.2@84ec624169aafcc47fb6e0b9d1b499d1c916c515^",
+      "r": []
+    },
+    {
+      "v": "0.1.1@ea10bf45b83e3f703366875517e74672637a3c0b",
+      "r": []
+    },
+    {
+      "v": "0.1.0@d8c46573e8f095dab9024c533fd2492a507014c8",
+      "r": []
+    },
+    {
+      "v": "#head@84ec624169aafcc47fb6e0b9d1b499d1c916c515",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:45Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.0",
+      "v0.1.1",
+      "v0.1.2"
+    ],
+    "tagVersions": {
+      "v0.1.0": "0.1.0",
+      "v0.1.1": "0.1.1",
+      "v0.1.2": "0.1.2"
+    },
+    "latest": "v0.1.2"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

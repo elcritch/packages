@@ -1,0 +1,40 @@
+{
+  "cv": 17,
+  "name": "kmod",
+  "fqn": "kmod.alaviss.github.com",
+  "head": "923879e15b087e09e21d23a4f42673ea6cf66260",
+  "author": "Leorize",
+  "description": "High-level wrapper for Linux's kmod library",
+  "license": "ISC",
+  "nim": "0.20.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@923879e15b087e09e21d23a4f42673ea6cf66260^",
+      "r": [
+        "nimterop >= 0.1.0"
+      ]
+    },
+    {
+      "v": "#head@923879e15b087e09e21d23a4f42673ea6cf66260",
+      "r": [
+        "nimterop >= 0.1.0"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:46:33Z",
+  "allDeps": {
+    "packages": [
+      "cligen",
+      "graphemes",
+      "nimterop",
+      "regex",
+      "segmentation",
+      "unicodedb",
+      "unicodeplus"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

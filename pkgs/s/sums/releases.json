@@ -1,0 +1,40 @@
+{
+  "cv": 17,
+  "name": "sums",
+  "fqn": "sums.planetis-m.github.com",
+  "head": "4d5f687a672f08b3d294fb13124d4e8fe4df20d8",
+  "author": "Antonis Geralis",
+  "description": "Accurate summation functions",
+  "license": "MIT",
+  "nim": "1.0.0",
+  "skipDirs": [
+    "tests",
+    "docs"
+  ],
+  "releases": [
+    {
+      "v": "0.1@857fe239efa746352ec5e34bbfa6f90f701bb603",
+      "r": []
+    },
+    {
+      "v": "#head@4d5f687a672f08b3d294fb13124d4e8fe4df20d8",
+      "n": "sums",
+      "r": [],
+      "a": "Antonis Geralis",
+      "d": "Accurate summation functions",
+      "l": "MIT",
+      "x": [
+        "tests",
+        "docs"
+      ],
+      "m": "1.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:26Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

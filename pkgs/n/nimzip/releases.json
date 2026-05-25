@@ -1,0 +1,28 @@
+{
+  "cv": 17,
+  "name": "nimzip",
+  "fqn": "nimzip.thechampagne.github.com",
+  "head": "8adcf50ea27b0c1b1af9da5ce587ea45c6562635",
+  "author": "XXIV",
+  "description": "Binding for a portable, simple zip library",
+  "license": "MIT",
+  "nim": "1.6.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@8adcf50ea27b0c1b1af9da5ce587ea45c6562635^",
+      "r": []
+    },
+    {
+      "v": "#head@8adcf50ea27b0c1b1af9da5ce587ea45c6562635",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:49:25Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

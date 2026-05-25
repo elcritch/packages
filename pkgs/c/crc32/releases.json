@@ -1,0 +1,63 @@
+{
+  "cv": 17,
+  "name": "crc32",
+  "fqn": "nim-crc32.juancarlospaco.github.com",
+  "head": "131043dfa59046ab861a52e7730db5ad127e52fd",
+  "author": "juancarlospaco",
+  "description": "CRC32, 2 proc, copied from RosettaCode.",
+  "license": "LGPLv3",
+  "nim": "0.18.1",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@0c5f1864d4bcf38720ce32323b5611a3256cf947",
+      "r": []
+    },
+    {
+      "v": "0.1.1@9fd77a0952dcc33399b05d214253adbe7af545e3",
+      "r": [],
+      "l": "MIT",
+      "m": "0.20.0"
+    },
+    {
+      "v": "0.5.0@4354840ac534e89384bf189b04f4b97ceffd10f0",
+      "r": [],
+      "a": "Juan_Carlos",
+      "d": "CRC-32 In-Place",
+      "l": "MIT",
+      "m": "1.4.2"
+    },
+    {
+      "v": "0.5.1@eb14db9b0b28835ce42c06a21bb3fb7a3267da5a",
+      "r": [],
+      "a": "Juan_Carlos",
+      "d": "CRC-32 In-Place",
+      "l": "MIT",
+      "m": "1.4.2"
+    },
+    {
+      "v": "0.5.2@67098ad0b87aa996400772e8b40103528b0e666f",
+      "r": [],
+      "a": "Juan_Carlos",
+      "d": "CRC-32 In-Place",
+      "l": "MIT",
+      "m": "1.4.2"
+    },
+    {
+      "v": "#head@131043dfa59046ab861a52e7730db5ad127e52fd",
+      "r": [],
+      "a": "Juan_Carlos",
+      "d": "CRC-32 In-Place",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.4.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:43:40Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

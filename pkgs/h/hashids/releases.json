@@ -1,0 +1,38 @@
+{
+  "cv": 17,
+  "name": "hashids",
+  "fqn": "nim-hashids.achesak.github.com",
+  "head": "e83754f45d2a2efb5efdef569e17ff80240261ca",
+  "author": "Adam Chesak",
+  "description": "Nim implementation of Hashids",
+  "license": "MIT",
+  "releases": [
+    {
+      "v": "1.0@bf1803bf7c99775bdb596f53b3b15a3850b156f9",
+      "r": []
+    },
+    {
+      "v": "1.1@8bb7003b7cfdf6359036bcae8ca58b789735d38d",
+      "r": []
+    },
+    {
+      "v": "1.2@7b56a3ec50e7317cbb6af3f779409081aec57e0e",
+      "r": []
+    },
+    {
+      "v": "#head@e83754f45d2a2efb5efdef569e17ff80240261ca",
+      "n": "hashids",
+      "r": [],
+      "a": "Adam Chesak",
+      "d": "Nim implementation of Hashids",
+      "l": "MIT"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:36Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

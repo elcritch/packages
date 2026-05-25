@@ -1,0 +1,76 @@
+{
+  "cv": 17,
+  "name": "hottext",
+  "fqn": "hottext.~ehmry.git.sr.ht",
+  "head": "45199169e0f39afbf3f1209a72bde35ebf4c2aba",
+  "author": "Emery Hemingway",
+  "description": "Rapid serial text presenter",
+  "license": "Unlicense",
+  "nim": "1.4.2",
+  "srcDir": "src",
+  "bin": [
+    "hottext"
+  ],
+  "releases": [
+    {
+      "v": "20231003@aa42c01b35fe09cbc19bf650b375566027651db8",
+      "r": [
+        "sdl2",
+        "typography >= 0.7.8"
+      ]
+    },
+    {
+      "v": "1.4@fcd21c253ea95ae89a9669dd9660bdf552135976",
+      "r": [
+        "sdl2",
+        "typography >= 0.7.8"
+      ]
+    },
+    {
+      "v": "1.3@aa309599b633ba4b5394d4f0ae7fc7b44c248bc5",
+      "r": [
+        "sdl2",
+        "typography >= 0.7.8"
+      ]
+    },
+    {
+      "v": "1.2@b65c83d1986f2695336e65e634657750a28b8ec6",
+      "r": [
+        "sdl2",
+        "typography >= 0.7.8"
+      ]
+    },
+    {
+      "v": "#head@45199169e0f39afbf3f1209a72bde35ebf4c2aba",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:47Z",
+  "allDeps": {
+    "packages": [
+      "bumpy",
+      "chroma",
+      "faststreams",
+      "flatty",
+      "flippy",
+      "mddoc",
+      "nimPNG",
+      "pixie",
+      "print",
+      "results",
+      "sdl2",
+      "snappy",
+      "stb_image",
+      "stew",
+      "supersnappy",
+      "typography",
+      "unittest2",
+      "vmath"
+    ],
+    "urls": [],
+    "unresolved": [
+      "pixie"
+    ]
+  }
+}

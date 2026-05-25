@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "emailparser",
+  "fqn": "emailparser.nim.mildred.github.com",
+  "head": "480a496bbdfb51758ed998f62651c16e7ebc1b48",
+  "author": "Mildred",
+  "description": "email parser with code from Cyrus",
+  "license": "Cyrus",
+  "nim": "1.9.3",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@50aca24f391ad6cc26c538f4224e2bbad47f07df",
+      "r": []
+    },
+    {
+      "v": "#head@480a496bbdfb51758ed998f62651c16e7ebc1b48",
+      "r": [],
+      "a": "Mildred",
+      "d": "email parser with code from Cyrus",
+      "l": "Cyrus",
+      "s": "src",
+      "m": "1.9.3"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:21Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

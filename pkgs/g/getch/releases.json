@@ -1,0 +1,32 @@
+{
+  "cv": 17,
+  "name": "getch",
+  "fqn": "getch.6A.github.com",
+  "head": "1d9f68d07ac1b965bcd6ce49d09867aa2e7b062a",
+  "author": "Gregoire GEIS",
+  "description": "getch() for Windows and Unix",
+  "license": "MIT",
+  "nim": "0.14.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@bd752d907e64fd714861db6df840d8c678685852",
+      "r": []
+    },
+    {
+      "v": "#head@1d9f68d07ac1b965bcd6ce49d09867aa2e7b062a",
+      "r": [],
+      "a": "Gregoire GEIS",
+      "d": "getch() for Windows and Unix",
+      "l": "MIT",
+      "m": "0.14.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:12Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

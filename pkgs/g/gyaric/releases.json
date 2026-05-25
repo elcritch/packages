@@ -1,0 +1,56 @@
+{
+  "cv": 17,
+  "name": "gyaric",
+  "fqn": "gyaric.jiro4989.github.com",
+  "head": "daf1a4dc68dae6b7469197ff92573d6095fbe9f2",
+  "author": "jiro4989",
+  "description": "gyaric is a module to encode/decode text to unreadable gyaru's text.",
+  "license": "MIT",
+  "nim": "1.0.4",
+  "srcDir": "src",
+  "binDir": "bin",
+  "installExt": [
+    "nim"
+  ],
+  "bin": [
+    "gyaric/cli/gyaric"
+  ],
+  "releases": [
+    {
+      "v": "1.0.2@daf1a4dc68dae6b7469197ff92573d6095fbe9f2^",
+      "r": []
+    },
+    {
+      "v": "1.0.1@d2dac9438a92519503ffe2d755bd6a7047f7cb7a",
+      "r": []
+    },
+    {
+      "v": "#head@daf1a4dc68dae6b7469197ff92573d6095fbe9f2",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:31Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v1.0.0",
+      "v1.0.1",
+      "v1.0.2"
+    ],
+    "tagVersions": {
+      "v1.0.0": "1.0.0",
+      "v1.0.1": "1.0.1",
+      "v1.0.2": "1.0.2"
+    },
+    "latest": "v1.0.2"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "cv": 17,
+  "name": "stack_strings",
+  "fqn": "nim-stack-strings.termermc.github.com",
+  "head": "acb6bd76f9b5b7a88b76a01767844760231fc17f",
+  "author": "termer",
+  "description": "Library for guaranteed zero heap allocation strings",
+  "license": "MIT",
+  "nim": "1.6.14",
+  "releases": [
+    {
+      "v": "1.1.4@8fa11c46787a7754d6fc13df1e51f7193bbab5e8",
+      "r": []
+    },
+    {
+      "v": "1.1.3@d08014276e7b2b26ccefb98ec6906f75a3c91b79",
+      "r": []
+    },
+    {
+      "v": "1.1.2@f6ae2b6cb003dfed143d0d8af424a583b675bae8",
+      "r": [],
+      "m": "2.0.0"
+    },
+    {
+      "v": "1.1.1@5d50afbfe6469f0f557a0bcdf26c9fb03bd318f9",
+      "r": [],
+      "m": "2.0.0"
+    },
+    {
+      "v": "1.1.0@8deed4ad96fef45ea37517064c2135ba7f5959de",
+      "r": [],
+      "m": "2.0.0"
+    },
+    {
+      "v": "1.0.0@df5f9dbfd108fc79bde6cfb77cf95c18e267aa9f",
+      "r": [],
+      "m": "2.0.0"
+    },
+    {
+      "v": "#head@acb6bd76f9b5b7a88b76a01767844760231fc17f",
+      "r": [],
+      "a": "termer",
+      "d": "Library for guaranteed zero heap allocation strings",
+      "l": "MIT",
+      "m": "1.6.14"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:13Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v1.0.0",
+      "v1.1.0",
+      "v1.1.1",
+      "v1.1.2",
+      "v1.1.3",
+      "v1.1.4"
+    ],
+    "tagVersions": {
+      "v1.0.0": "1.0.0",
+      "v1.1.0": "1.1.0",
+      "v1.1.1": "1.1.1",
+      "v1.1.2": "1.1.2",
+      "v1.1.3": "1.1.3",
+      "v1.1.4": "1.1.4"
+    },
+    "latest": "v1.1.4"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "timsort2",
+  "fqn": "timsort.xrfez.github.com",
+  "head": "0d3bd10951e6a7daa1f2b9655aead53d1e217bb5",
+  "author": "Joshua Fenner",
+  "description": "Sort, timSort, stable, in-place",
+  "license": "Apache-2.0",
+  "nim": "1.6.6",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@fb8c643c09fd534812f835b65306545640d7d2f6",
+      "r": []
+    },
+    {
+      "v": "#head@0d3bd10951e6a7daa1f2b9655aead53d1e217bb5",
+      "r": [],
+      "a": "Joshua Fenner",
+      "d": "Sort, timSort, stable, in-place",
+      "l": "Apache-2.0",
+      "s": "src",
+      "m": "1.6.6"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:55Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

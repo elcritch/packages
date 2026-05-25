@@ -1,0 +1,43 @@
+{
+  "cv": 17,
+  "name": "stb_truetype",
+  "fqn": "stb_truetype.guzba.github.com",
+  "head": "d345d3a13222200338a10c72dd5345afc814408d",
+  "author": "Ryan Oldenburg",
+  "description": "Nim bindings for stb_truetype.",
+  "license": "MIT",
+  "nim": "1.2.2",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.0.1@82f62d5ed14840274d1c0ca30eba07cccc14588b",
+      "r": []
+    },
+    {
+      "v": "#head@d345d3a13222200338a10c72dd5345afc814408d",
+      "r": [],
+      "a": "Ryan Oldenburg",
+      "d": "Nim bindings for stb_truetype.",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.2.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:16Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.0.1"
+    ],
+    "latest": "0.0.1"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

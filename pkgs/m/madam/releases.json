@@ -1,0 +1,95 @@
+{
+  "cv": 17,
+  "name": "madam",
+  "fqn": "madam.openpeeps.github.com",
+  "head": "3823078f89ae7437a75ca5bd618c56b9964c648b",
+  "author": "George Lemon",
+  "description": "A new awesome nimble package",
+  "license": "MIT",
+  "nim": "1.6.0",
+  "srcDir": "src",
+  "binDir": "bin",
+  "bin": [
+    "madam"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@24789b45b3d30235d751bab0910699b1166c59df",
+      "r": [
+        "kapsis",
+        "httpbeast >= 0.4.0"
+      ]
+    },
+    {
+      "v": "#head@3823078f89ae7437a75ca5bd618c56b9964c648b",
+      "r": [
+        "nyml",
+        "tim",
+        "httpx",
+        "kapsis"
+      ],
+      "a": "George Lemon",
+      "d": "Local webserver for Design Prototyping and Front-end Development",
+      "l": "MIT",
+      "s": "src",
+      "b": "bin",
+      "p": [
+        "madam"
+      ],
+      "m": "1.6.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:47:14Z",
+  "allDeps": {
+    "packages": [
+      "ansiparse",
+      "asynctools",
+      "bigints",
+      "blackpaper",
+      "checksums",
+      "denim",
+      "dotenv",
+      "flatty",
+      "floof",
+      "gccjit",
+      "genny",
+      "htmlparser",
+      "httpbeast",
+      "httpx",
+      "illwill",
+      "ioselectors",
+      "jsony",
+      "kapsis",
+      "libffi",
+      "malebolgia",
+      "msgpack4nim",
+      "nancy",
+      "nimsimd",
+      "noise",
+      "nyml",
+      "openparser",
+      "pkginfo",
+      "pluginkit",
+      "semver",
+      "termstyle",
+      "tim",
+      "timerwheel",
+      "toktok",
+      "urlly",
+      "valido",
+      "vancode",
+      "voodoo",
+      "watchout",
+      "websocketx",
+      "wepoll",
+      "ws"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:iffy/asynctools",
+      "gh:openpeeps/importer",
+      "gh:timotheecour/asynctools"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "cv": 17,
+  "name": "hottie",
+  "fqn": "hottie.treeform.github.com",
+  "head": "86a839f60f90e65bd39cc79a4958dadccca40bb7",
+  "author": "treeform",
+  "description": "Sampling profiler that finds hot paths in your code.",
+  "license": "MIT",
+  "nim": "1.4.6",
+  "srcDir": "src",
+  "bin": [
+    "hottie"
+  ],
+  "releases": [
+    {
+      "v": "0.0.1@6b487cffd26eb45f9d9b72d766323d74dc1099bc",
+      "r": [
+        "winim >= 3.6.0",
+        "cligen >= 1.3.2"
+      ]
+    },
+    {
+      "v": "#head@86a839f60f90e65bd39cc79a4958dadccca40bb7",
+      "r": [
+        "cligen >= 1.3.2",
+        "ptrace >= 0.0.4"
+      ],
+      "a": "Andre von Houck",
+      "d": "Sampling profiler that finds hot paths in your code.",
+      "l": "MIT",
+      "s": "src",
+      "p": [
+        "hottie"
+      ],
+      "m": "1.4.6"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:46Z",
+  "allDeps": {
+    "packages": [
+      "cligen",
+      "ptrace",
+      "winim"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

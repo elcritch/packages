@@ -1,0 +1,50 @@
+{
+  "cv": 17,
+  "name": "smnar",
+  "fqn": "nim-smnar.juancarlospaco.github.com",
+  "head": "c059748642370fe17414d7997ee5d63cba6a3cb9",
+  "author": "Juan Carlos",
+  "description": "Servicio Meteorologico Nacional Argentina API Client",
+  "license": "MIT",
+  "nim": "1.0.4",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@ed06ce13cf73457b9c16289123b8ff00fe0aef62",
+      "r": [
+        "zip >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.1.1@022898501b51b44756d1c5edd9ffd129d4bfcdf3",
+      "r": [
+        "zip >= 0.2.1"
+      ],
+      "m": "1.2.0"
+    },
+    {
+      "v": "#head@c059748642370fe17414d7997ee5d63cba6a3cb9",
+      "r": [
+        "zip >= 0.2.1"
+      ],
+      "a": "Juan Carlos",
+      "d": "Servicio Meteorologico Nacional Argentina API Client",
+      "l": "MIT",
+      "s": "src",
+      "x": [
+        "docs",
+        "gui"
+      ],
+      "m": "1.2.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:57Z",
+  "allDeps": {
+    "packages": [
+      "zip"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

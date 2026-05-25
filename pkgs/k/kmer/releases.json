@@ -1,0 +1,34 @@
+{
+  "cv": 17,
+  "name": "kmer",
+  "fqn": "nim-kmer.brentp.github.com",
+  "head": "665d645ca5f76beac9fba2a5173ee88fcc98db70",
+  "author": "Brent Pedersen",
+  "description": "dna kmer ops for nim",
+  "license": "MIT",
+  "nim": "0.17.2",
+  "skipDirs": [
+    "tests"
+  ],
+  "releases": [
+    {
+      "v": "0.2.6@665d645ca5f76beac9fba2a5173ee88fcc98db70^",
+      "r": []
+    },
+    {
+      "v": "0.2.5@ed431499cb38e01c5208afa8d0268f6fcc85e7f6",
+      "r": []
+    },
+    {
+      "v": "#head@665d645ca5f76beac9fba2a5173ee88fcc98db70",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:46:33Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

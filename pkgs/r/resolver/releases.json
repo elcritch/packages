@@ -1,0 +1,37 @@
+{
+  "cv": 17,
+  "name": "resolver",
+  "fqn": "resolver.ryukoposting.github.com",
+  "head": "f007c3b42ae93aa757f55c7575e42d1b58e1109f",
+  "author": "Evan Perry Grove",
+  "description": "Dependency resolution and semantic versioning utils",
+  "license": "BSD-3-Clause",
+  "nim": "1.6.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.2.0@fb0088f64f91c4f04860789f3b7a026e4f21818f",
+      "r": []
+    },
+    {
+      "v": "0.1.0@c53bc08766d877400f6625dd231d5572e6c6dd7e",
+      "r": []
+    },
+    {
+      "v": "#head@f007c3b42ae93aa757f55c7575e42d1b58e1109f",
+      "r": [],
+      "a": "Evan Perry Grove",
+      "d": "Dependency resolution and semantic versioning utils",
+      "l": "BSD-3-Clause",
+      "s": "src",
+      "m": "1.6.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:11Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

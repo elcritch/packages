@@ -1,0 +1,42 @@
+{
+  "cv": 17,
+  "name": "gtrends",
+  "fqn": "gtrends.thisago.github.com",
+  "head": "2acf29e650ed61ad269e2cb2220e8a550d1efdb5",
+  "author": "Thiago Navarro",
+  "description": "Google Trends RSS",
+  "license": "MIT",
+  "nim": "1.9.5",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@ff67543b9d985125a6948b80d0e5dd5421954979",
+      "r": [
+        "rss"
+      ]
+    },
+    {
+      "v": "0.1.1@2acf29e650ed61ad269e2cb2220e8a550d1efdb5^",
+      "r": [
+        "rss"
+      ],
+      "m": "1.6.0"
+    },
+    {
+      "v": "#head@2acf29e650ed61ad269e2cb2220e8a550d1efdb5",
+      "r": [
+        "rss"
+      ],
+      "m": "1.6.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:29Z",
+  "allDeps": {
+    "packages": [
+      "rss"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

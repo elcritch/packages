@@ -1,0 +1,52 @@
+{
+  "cv": 17,
+  "name": "prettyclr",
+  "fqn": "prettyclr.prettybauble.github.com",
+  "head": "4a991936a40a1c34bf226e5e900cb877f0a29378",
+  "author": "prettybauble",
+  "description": "Small library for working with colors",
+  "license": "MIT",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "1.0.0@af3606ab8f13fd49fbafa5103e73ed3beadb861f",
+      "r": []
+    },
+    {
+      "v": "1.0.1@3afe2ebfc05469068449e398b81f702513e5e0f5",
+      "r": []
+    },
+    {
+      "v": "1.0.2@a4bdaa4c42617939b39791cea759e682c893ba20",
+      "r": []
+    },
+    {
+      "v": "1.0.3@69b6311f4dcef15bcf08ea84bad7f3e86224f81f",
+      "r": []
+    },
+    {
+      "v": "2.0.0@5ab72ff0cfc4f9b41c8a6ce38a3614487690c8d8",
+      "r": []
+    },
+    {
+      "v": "2.0.1@29552d6006b2ff1940a7da08b503cf1d1594efa5",
+      "r": []
+    },
+    {
+      "v": "#head@4a991936a40a1c34bf226e5e900cb877f0a29378",
+      "n": "prettyclr",
+      "r": [],
+      "a": "prettybauble",
+      "d": "Small library for working with colors",
+      "l": "MIT",
+      "s": "src"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:50:41Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

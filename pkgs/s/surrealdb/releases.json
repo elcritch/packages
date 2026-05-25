@@ -1,0 +1,53 @@
+{
+  "cv": 17,
+  "name": "surrealdb",
+  "fqn": "surrealdb.nim.Xkonti.github.com",
+  "head": "7b2ecabfd84c3c2e2e94b60a2a986d0dad4eab3c",
+  "author": "Xkonti",
+  "description": "SurrealDB driver for Nim",
+  "license": "MIT",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "bin": [
+    "surrealdb"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@7cb3e7e1df9344035faa02ecc5a1df847e180677",
+      "r": [
+        "ws",
+        "asynctest >= 0.5.2 & < 0.6.0",
+        "dotenv >= 2.0.0"
+      ]
+    },
+    {
+      "v": "#head@7b2ecabfd84c3c2e2e94b60a2a986d0dad4eab3c",
+      "r": [
+        "ws",
+        "tinyre",
+        "asynctest >= 0.5.2 & < 0.6.0",
+        "dotenv >= 2.0.0"
+      ],
+      "a": "Xkonti",
+      "d": "SurrealDB driver for Nim",
+      "l": "MIT",
+      "s": "src",
+      "p": [
+        "surrealdb"
+      ],
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:29Z",
+  "allDeps": {
+    "packages": [
+      "asynctest",
+      "dotenv",
+      "tinyre",
+      "ws"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "cv": 17,
+  "name": "wepoll",
+  "fqn": "wepoll.ringabout.github.com",
+  "head": "07fb549ecf656f9aab957b78fb0d1e2d2e47a76f",
+  "author": "ringabout",
+  "description": "Windows epoll wrapper.",
+  "license": "MIT",
+  "nim": "1.2.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.2@07fb549ecf656f9aab957b78fb0d1e2d2e47a76f^",
+      "r": []
+    },
+    {
+      "v": "0.1.0@c49c3280130bb724f1601b1d42f5b7deabad3198",
+      "r": [],
+      "a": "flywind"
+    },
+    {
+      "v": "#head@07fb549ecf656f9aab957b78fb0d1e2d2e47a76f",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:53:52Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.0",
+      "v0.1.2"
+    ],
+    "tagVersions": {
+      "v0.1.0": "0.1.0",
+      "v0.1.2": "0.1.2"
+    },
+    "latest": "v0.1.2"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

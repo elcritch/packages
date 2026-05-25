@@ -1,0 +1,55 @@
+{
+  "cv": 17,
+  "name": "m",
+  "fqn": "M.bk20x.github.com",
+  "head": "203717790bc076cd8788a00477714f1597e407c5",
+  "author": "bk20x",
+  "description": "Lightweight and easily extendable / embeddable Lisp dialect with no VM and deterministic performance",
+  "license": "BSD-3-Clause",
+  "nim": "2.3.1",
+  "srcDir": "src",
+  "bin": [
+    "m"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@75b7393b617df5836c70afed66b363d312b87ca1",
+      "r": [
+        "bigints >= 1.0.0"
+      ]
+    },
+    {
+      "v": "#head@203717790bc076cd8788a00477714f1597e407c5",
+      "r": [
+        "bigints >= 1.0.0"
+      ],
+      "a": "bk20x",
+      "d": "Lightweight and easily extendable / embeddable Lisp dialect with deterministic performance",
+      "l": "BSD-3-Clause",
+      "s": "src",
+      "i": [
+        "src/m",
+        "examples"
+      ],
+      "j": [
+        "src/m.nim"
+      ],
+      "k": [
+        "nim"
+      ],
+      "p": [
+        "m/m"
+      ],
+      "m": "2.2.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:47:13Z",
+  "allDeps": {
+    "packages": [
+      "bigints"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

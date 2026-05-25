@@ -1,0 +1,30 @@
+{
+  "cv": 17,
+  "name": "sksbox",
+  "fqn": "sksbox.Skrylar.github.com",
+  "head": "d2fd3393c746eed81cadb5a347573e9708a1db37",
+  "author": "Skrylar",
+  "description": "A Nim-native implementation of the sBOX file format.",
+  "license": "MIT",
+  "nim": "0.17.2",
+  "skipDirs": [
+    "examples"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@d2fd3393c746eed81cadb5a347573e9708a1db37^",
+      "r": []
+    },
+    {
+      "v": "#head@d2fd3393c746eed81cadb5a347573e9708a1db37",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:54Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

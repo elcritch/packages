@@ -1,0 +1,114 @@
+{
+  "cv": 17,
+  "name": "monocypher",
+  "fqn": "monocypher.nim.markspanbroek.github.com",
+  "head": "c3cd8bd208412f6d5a3283db0510fac0e35704dc",
+  "author": "Mark Spanbroek",
+  "description": "Monocypher",
+  "license": "MIT",
+  "nim": "1.2.0",
+  "installDirs": [
+    "sources",
+    "monocypher"
+  ],
+  "installFiles": [
+    "monocypher.nim"
+  ],
+  "releases": [
+    {
+      "v": "0.3.0@c3cd8bd208412f6d5a3283db0510fac0e35704dc^",
+      "r": [
+        "sysrandom >= 1.1.0 & < 2.0.0"
+      ],
+      "m": "~"
+    },
+    {
+      "v": "0.2.3@48f0d9a63276efcf5921cd6b89230b7b064dbef7",
+      "r": [
+        "sysrandom >= 1.1.0 & < 2.0.0"
+      ],
+      "m": "~"
+    },
+    {
+      "v": "0.2.2@d8967ca834cf4975aceb098f66e6cd53a8a9c724",
+      "r": [
+        "nimterop >= 0.6.13 & < 0.7.0",
+        "sysrandom >= 1.1.0 & < 2.0.0"
+      ],
+      "m": "~",
+      "i": [],
+      "j": []
+    },
+    {
+      "v": "0.2.1@6bf84aa83966b836b6529f0c2e6681a5df72de37",
+      "r": [
+        "nimterop >= 0.6.13 & < 0.7.0",
+        "sysrandom >= 1.1.0 & < 2.0.0"
+      ],
+      "i": [],
+      "j": []
+    },
+    {
+      "v": "0.2.0@0109ee7da170019b8331cd5fd3ce1dc73dd9da54",
+      "r": [
+        "nimterop >= 0.5.8 & < 0.6.0",
+        "sysrandom >= 1.1.0 & < 2.0.0"
+      ],
+      "i": [],
+      "j": []
+    },
+    {
+      "v": "0.1.2@fec4bfe191923b3ed0913bf83e599373e6a21b1b",
+      "r": [
+        "nimterop >= 0.3.2",
+        "sysrandom >= 1.1.0"
+      ],
+      "m": "1.0.0",
+      "i": [],
+      "j": []
+    },
+    {
+      "v": "0.1.1@b2948c963bd9d056088d3e97c0c791643abac8d7",
+      "r": [
+        "nimterop >= 0.3.2",
+        "sysrandom >= 1.1.0"
+      ],
+      "m": "1.0.0",
+      "i": [],
+      "j": []
+    },
+    {
+      "v": "0.1.0@99e89e1c53e37c2ce565b3dda22205f1266e91e3",
+      "r": [
+        "nimterop >= 0.3.2",
+        "sysrandom >= 1.1.0"
+      ],
+      "m": "1.0.0",
+      "i": [],
+      "j": []
+    },
+    {
+      "v": "#head@c3cd8bd208412f6d5a3283db0510fac0e35704dc",
+      "r": [
+        "sysrandom >= 1.1.0 & < 2.0.0"
+      ],
+      "m": "~"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:47:39Z",
+  "allDeps": {
+    "packages": [
+      "cligen <= 0.2.2",
+      "graphemes <= 0.2.2",
+      "nimterop <= 0.2.2",
+      "regex <= 0.2.2",
+      "segmentation <= 0.2.2",
+      "sysrandom",
+      "unicodedb <= 0.2.2",
+      "unicodeplus <= 0.2.2"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

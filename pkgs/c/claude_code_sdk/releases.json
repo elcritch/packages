@@ -1,0 +1,53 @@
+{
+  "cv": 17,
+  "name": "claude_code_sdk",
+  "fqn": "claude-code-sdk-nim.Apothic-AI.github.com",
+  "head": "ce54ed3b5d2a5c1e9171fbc2409878a963cfd8ef",
+  "author": "bitnom",
+  "description": "Nim SDK for Claude Code - A port of the Python SDK",
+  "license": "Apache-2.0",
+  "nim": "2.2.4",
+  "srcDir": "src",
+  "installExt": [
+    "nim"
+  ],
+  "releases": [
+    {
+      "v": "0.0.19@11e3afe1ac42810282771af34beb7397300fd3ed",
+      "r": [
+        "jsony >= 1.1.5",
+        "chronos >= 4.0.0"
+      ]
+    },
+    {
+      "v": "#head@ce54ed3b5d2a5c1e9171fbc2409878a963cfd8ef",
+      "r": [
+        "jsony >= 1.1.5",
+        "chronos >= 4.0.0"
+      ],
+      "a": "bitnom",
+      "d": "Nim SDK for Claude Code - A port of the Python SDK",
+      "l": "Apache-2.0",
+      "s": "src",
+      "k": [
+        "nim"
+      ],
+      "m": "2.2.4"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:43:20Z",
+  "allDeps": {
+    "packages": [
+      "bearssl",
+      "chronos",
+      "httputils",
+      "jsony",
+      "results",
+      "stew",
+      "unittest2"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

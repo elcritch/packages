@@ -1,0 +1,59 @@
+{
+  "cv": 17,
+  "name": "linear_models",
+  "fqn": "linear-models.ayman-albaz.github.com",
+  "head": "5e2da6d3134819f396f362e3a30e91a4df2aabc7",
+  "author": "ayman albaz",
+  "description": "Generalized Linear Models in Nim.",
+  "license": "Apache-2.0",
+  "nim": "1.4.6",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.2.0@1b979fe2f00f75c231a34770c48829a682fbccbc",
+      "r": [
+        "arraymancer >= 0.6.2",
+        "distributions >= 0.2.0"
+      ]
+    },
+    {
+      "v": "0.1.0@c732328302a7e12a75c87d6a1825f18331317b7f",
+      "r": [
+        "arraymancer >= 0.6.2",
+        "distributions >= 0.1.0"
+      ]
+    },
+    {
+      "v": "#head@5e2da6d3134819f396f362e3a30e91a4df2aabc7",
+      "r": [
+        "arraymancer >= 0.6.2",
+        "distributions >= 0.2.0"
+      ],
+      "a": "ayman albaz",
+      "d": "Generalized Linear Models in Nim.",
+      "l": "Apache-2.0",
+      "s": "src",
+      "m": "1.4.6"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:46:56Z",
+  "allDeps": {
+    "packages": [
+      "arraymancer",
+      "clblast",
+      "distributions",
+      "nimblas",
+      "nimcl",
+      "nimcuda",
+      "nimlapack",
+      "opencl",
+      "special_functions",
+      "stb_image",
+      "untar",
+      "zip"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

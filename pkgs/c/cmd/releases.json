@@ -1,0 +1,44 @@
+{
+  "cv": 17,
+  "name": "cmd",
+  "fqn": "cmd.nim.samdmarshall.github.com",
+  "head": "92f014d484d6dde9e4adc7edfb6ef0c7d8605328",
+  "author": "Samantha Marshall",
+  "description": "interactive command prompt",
+  "license": "BSD 3-Clause",
+  "nim": "0.16.0",
+  "srcDir": "src",
+  "skipDirs": [
+    "tests"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@28230b565b0c126b88434882767ca38f8236c854",
+      "r": [],
+      "s": ""
+    },
+    {
+      "v": "0.2.0@74c7716d4f389113a447e3a2316c93c4a2a9c287",
+      "r": []
+    },
+    {
+      "v": "#head@92f014d484d6dde9e4adc7edfb6ef0c7d8605328",
+      "r": [],
+      "a": "Samantha Marshall",
+      "d": "interactive command prompt",
+      "l": "BSD 3-Clause",
+      "s": "src",
+      "x": [
+        "tests"
+      ],
+      "m": "0.16.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:43:26Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

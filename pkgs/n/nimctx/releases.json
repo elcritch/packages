@@ -1,0 +1,78 @@
+{
+  "cv": 17,
+  "name": "nimctx",
+  "fqn": "nimctx.nim-community.github.com",
+  "head": "cd68d5add19cb674bfd111164ba5ee97ac06a5ee",
+  "author": "bung87",
+  "description": "Nim Context MCP Server - Provides Nim stdlib and project dependencies context for AI assistants",
+  "license": "MIT",
+  "nim": "1.6.0",
+  "srcDir": "src",
+  "installExt": [
+    "nim"
+  ],
+  "bin": [
+    "nimctx"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@4cf7002dcd22fe3911328be5e3381fbeaf17c611",
+      "r": [
+        "nimcp",
+        "mummy >= 0.4.0",
+        "taskpools >= 0.0.1"
+      ]
+    },
+    {
+      "v": "#head@cd68d5add19cb674bfd111164ba5ee97ac06a5ee",
+      "r": [
+        "nimcp",
+        "mummy >= 0.4.0",
+        "taskpools >= 0.0.1",
+        "tiny_sqlite >= 0.2.0",
+        "chronicles >= 0.10.0"
+      ],
+      "a": "bung87",
+      "d": "Nim Context MCP Server - Provides Nim stdlib and project dependencies context for AI assistants",
+      "l": "MIT",
+      "s": "src",
+      "k": [
+        "nim"
+      ],
+      "p": [
+        "nimctx"
+      ],
+      "m": "1.6.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:48:38Z",
+  "allDeps": {
+    "packages": [
+      "bearssl",
+      "chronicles",
+      "chronos",
+      "crunchy",
+      "faststreams",
+      "httputils",
+      "json_serialization",
+      "mummy",
+      "nimcp",
+      "nimsimd",
+      "results",
+      "serialization",
+      "stew",
+      "taskpools",
+      "testutils",
+      "tiny_sqlite",
+      "unittest2",
+      "webby",
+      "zippy"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:gokr/mummy",
+      "gh:gokr/mummyx"
+    ]
+  }
+}

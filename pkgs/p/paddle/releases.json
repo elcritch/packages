@@ -1,0 +1,40 @@
+{
+  "cv": 17,
+  "name": "paddle",
+  "fqn": "paddle-nim.openpeeps.github.com",
+  "head": "c356c6667a22f90a8a6e66495834c790e2de4b3a",
+  "author": "George Lemon",
+  "description": "Paddle API client",
+  "license": "MIT",
+  "nim": "2.2.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@cf7b43c5402ac7198b8346da5831af0a1bab0e58",
+      "r": [
+        "openparser"
+      ]
+    },
+    {
+      "v": "#head@c356c6667a22f90a8a6e66495834c790e2de4b3a",
+      "r": [
+        "openparser"
+      ],
+      "a": "George Lemon",
+      "d": "Paddle API client",
+      "l": "MIT",
+      "s": "src",
+      "m": "2.2.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:50:13Z",
+  "allDeps": {
+    "packages": [
+      "nimsimd",
+      "openparser"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

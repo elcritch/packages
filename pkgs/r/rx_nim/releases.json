@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "rx_nim",
+  "fqn": "rx-nim.nortero-code.github.com",
+  "head": "d3107b810952ab192753b030eb66af8f5542d341",
+  "author": "Kristian Hasselknippe",
+  "description": "An implementation of rx observables in nim",
+  "license": "MIT",
+  "nim": "1.4.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@7ad530bca4f56fc04033d3d6670ef32fc73b6c5e",
+      "r": []
+    },
+    {
+      "v": "#head@d3107b810952ab192753b030eb66af8f5542d341",
+      "r": [],
+      "a": "Kristian Hasselknippe",
+      "d": "An implementation of rx observables in nim",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.4.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:22Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

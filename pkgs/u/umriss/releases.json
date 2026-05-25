@@ -1,0 +1,87 @@
+{
+  "cv": 17,
+  "name": "umriss",
+  "fqn": "umriss.tdely.github.com",
+  "head": "d0b4031b8a4c898809fd2ea9f64e08b32ed8de41",
+  "author": "Tobias Dély",
+  "description": "Extract syscall stats from strace output files",
+  "license": "MIT",
+  "nim": "2.0.2",
+  "binDir": "bin",
+  "bin": [
+    "umriss"
+  ],
+  "releases": [
+    {
+      "v": "1.0.0@69de3ae13377e0b2987a459567d36ec6f2d16a46",
+      "r": [
+        "cligen >= 1.7.0 & < 2.0.0"
+      ]
+    },
+    {
+      "v": "0.5.0@f4acbfe06984b9bf694f0d2ec6e79870f0c85870",
+      "r": [
+        "cligen >= 1.7.0 & < 2.0.0"
+      ],
+      "b": ""
+    },
+    {
+      "v": "0.4.0@92412cd9c5fd3d977e87668ae49ed791432c37ac",
+      "r": [
+        "cligen >= 1.7.0 & < 2.0.0"
+      ],
+      "b": ""
+    },
+    {
+      "v": "0.3.0@102d8a7ed45aee967cca40ba0db91fa2471fcbff",
+      "r": [
+        "cligen >= 1.7.0 & < 2.0.0"
+      ],
+      "b": ""
+    },
+    {
+      "v": "0.2.1@9a8e5dfc8dc79533b2031f9ba14f7478be030a39",
+      "r": [
+        "cligen >= 1.7.0 & < 2.0.0"
+      ],
+      "b": ""
+    },
+    {
+      "v": "0.2.0@de4e742c00107aa8f77e3030fdc0d18b039688f6",
+      "r": [
+        "cligen >= 1.7.0 & < 2.0.0"
+      ],
+      "b": ""
+    },
+    {
+      "v": "0.1.0@6f11726a6a4a404365deeffa289d52c61e2ff9c5",
+      "r": [
+        "cligen >= 1.7.0 & < 2.0.0"
+      ],
+      "b": ""
+    },
+    {
+      "v": "#head@d0b4031b8a4c898809fd2ea9f64e08b32ed8de41",
+      "r": [
+        "cligen >= 1.7.0 & < 2.0.0"
+      ],
+      "a": "Tobias Dély",
+      "d": "Extract syscall stats from strace output files",
+      "l": "MIT",
+      "b": "bin",
+      "p": [
+        "umriss"
+      ],
+      "m": "2.0.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:53:18Z",
+  "allDeps": {
+    "packages": [
+      "cligen"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

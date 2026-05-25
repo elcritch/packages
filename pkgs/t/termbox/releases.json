@@ -1,0 +1,27 @@
+{
+  "cv": 17,
+  "name": "termbox",
+  "fqn": "nim-termbox.fowlmouth.github.com",
+  "head": "20286d55776e1b46c88cf0622541fa968a286d16",
+  "releases": [
+    {
+      "v": "~@20286d55776e1b46c88cf0622541fa968a286d16",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    },
+    {
+      "v": "#head@20286d55776e1b46c88cf0622541fa968a286d16",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:43Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

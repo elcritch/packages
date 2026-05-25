@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "pugl",
+  "fqn": "nim-pugl.NimAudio.github.com",
+  "head": "445ea4342569be39a54a82bb4928030b5ccafff5",
+  "author": "Morgan Holly",
+  "description": "PUGL windowing bindings",
+  "license": "MIT",
+  "nim": "2.0.2",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@c820a1da3d9128fa9a87c029de90f1eeececc775",
+      "r": []
+    },
+    {
+      "v": "#head@445ea4342569be39a54a82bb4928030b5ccafff5",
+      "r": [],
+      "a": "Morgan Holly",
+      "d": "PUGL windowing bindings",
+      "l": "MIT",
+      "s": "src",
+      "m": "2.0.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:50:49Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

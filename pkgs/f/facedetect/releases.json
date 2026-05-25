@@ -1,0 +1,44 @@
+{
+  "cv": 17,
+  "name": "facedetect",
+  "fqn": "facedetect.deNULL.github.com",
+  "head": "e73c08a7ebaf6de706dcb2b3b84a35bb2ebd8394",
+  "author": "Denis Olshin",
+  "description": "A face detection, pupil/eyes localization and facial landmark points detection library",
+  "license": "MIT",
+  "nim": "1.6.12",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "1.0@a5be4a1a6f4ef0fc9081e375cf0b01f630bfc02e",
+      "r": [
+        "chroma >= 0.2.7",
+        "pixie >= 5.0.6"
+      ]
+    },
+    {
+      "v": "#head@e73c08a7ebaf6de706dcb2b3b84a35bb2ebd8394",
+      "r": [
+        "chroma >= 0.2.7",
+        "pixie >= 5.0.6"
+      ],
+      "a": "Denis Olshin",
+      "d": "A face detection, pupil/eyes localization and facial landmark points detection library",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.6.12"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:35Z",
+  "allDeps": {
+    "packages": [
+      "chroma",
+      "pixie"
+    ],
+    "urls": [],
+    "unresolved": [
+      "pixie"
+    ]
+  }
+}

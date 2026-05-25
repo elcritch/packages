@@ -1,0 +1,52 @@
+{
+  "cv": 17,
+  "name": "gumroad",
+  "fqn": "gumroad-nim.openpeeps.github.com",
+  "head": "2f525a735dc5e7d2b2b1857574e4e91eb30d77d3",
+  "author": "George Lemon",
+  "description": "API client for Gumroad.com",
+  "license": "MIT",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@ed750ae615cb55dd2a3b8f1ae43c868bfdcb6568",
+      "r": [
+        "isocodes",
+        "oauth2"
+      ]
+    },
+    {
+      "v": "#head@2f525a735dc5e7d2b2b1857574e4e91eb30d77d3",
+      "r": [
+        "oauth2",
+        "openparser"
+      ],
+      "a": "George Lemon",
+      "d": "API client for Gumroad.com",
+      "l": "MIT",
+      "s": "src",
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:31Z",
+  "allDeps": {
+    "packages": [
+      "bump",
+      "checksums",
+      "cligen",
+      "isocodes",
+      "jsony",
+      "nimsimd",
+      "oauth2",
+      "openparser"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:disruptek/cligen",
+      "gh:disruptek/cutelog",
+      "gh:disruptek/testes"
+    ]
+  }
+}

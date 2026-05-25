@@ -1,0 +1,69 @@
+{
+  "cv": 17,
+  "name": "simpledb",
+  "fqn": "nim-simpledb.jjv360.github.com",
+  "head": "a773af65ac5901c94a78da5b93495a61e46f7a11",
+  "author": "jjv360",
+  "description": "A simple NoSQL JSON document database",
+  "license": "MIT",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.2@a773af65ac5901c94a78da5b93495a61e46f7a11^",
+      "r": [
+        "classes >= 0.3.17",
+        "db_connector >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.1.1@3945b9223683d6118ac2f0065c27aa9fca342efd",
+      "r": [
+        "classes >= 0.3.17",
+        "db_connector >= 0.1.0"
+      ],
+      "m": "2.2.4"
+    },
+    {
+      "v": "0.1.0@6c3fb6dec9047c2605600bbc588481322fd0acb0",
+      "r": [
+        "classes >= 0.2.13"
+      ],
+      "m": "1.6.10"
+    },
+    {
+      "v": "#head@a773af65ac5901c94a78da5b93495a61e46f7a11",
+      "r": [
+        "classes >= 0.3.17",
+        "db_connector >= 0.1.0"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:50Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.0",
+      "v0.1.1",
+      "v0.1.2"
+    ],
+    "tagVersions": {
+      "v0.1.0": "0.1.0",
+      "v0.1.1": "0.1.1",
+      "v0.1.2": "0.1.2"
+    },
+    "latest": "v0.1.2"
+  },
+  "allDeps": {
+    "packages": [
+      "classes",
+      "db_connector > 0.1.0"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

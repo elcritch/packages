@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "sparkline",
+  "fqn": "sparkline-nim.aquilax.github.com",
+  "head": "4cbbd2a734c68666ee3e7820e09326be8e15b44c",
+  "author": "aquilax",
+  "description": "Sparkline library",
+  "license": "MIT",
+  "nim": "1.0.2",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@4e3e6f8f65a1c947ee46af4d2bf6418ae80427e8",
+      "r": []
+    },
+    {
+      "v": "#head@4cbbd2a734c68666ee3e7820e09326be8e15b44c",
+      "r": [],
+      "a": "aquilax",
+      "d": "Sparkline library",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.0.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:04Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

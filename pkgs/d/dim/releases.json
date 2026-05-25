@@ -1,0 +1,37 @@
+{
+  "cv": 17,
+  "name": "dim",
+  "fqn": "dim.lorenzoliuzzo.github.com",
+  "head": "8adfd48d1afc0adc1b457ab9edaf7d8be681a936",
+  "author": "lorenzoliuzzo",
+  "description": "Dimensional Analysis in Nim",
+  "license": "GPL-3.0-or-later",
+  "nim": "2.0.2",
+  "installDirs": [
+    "dim"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@a195ff04c7f3d05a854c18f4acdc9faabe4f4d8d",
+      "r": []
+    },
+    {
+      "v": "#head@8adfd48d1afc0adc1b457ab9edaf7d8be681a936",
+      "r": [],
+      "a": "lorenzoliuzzo",
+      "d": "Dimensional Analysis in Nim",
+      "l": "GPL-3.0-or-later",
+      "i": [
+        "dim"
+      ],
+      "m": "2.0.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:02Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cv": 17,
+  "name": "golib",
+  "fqn": "golib-nim.stefantalpalaru.github.com",
+  "head": "548b5e4db2148eb1182a6825f3a0e40f6100187b",
+  "releases": [
+    {
+      "v": "~@7e124ae6bbb68c8d7b2a4f4f93d533c08b6294f6",
+      "r": []
+    },
+    {
+      "v": "#head@548b5e4db2148eb1182a6825f3a0e40f6100187b",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:23Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

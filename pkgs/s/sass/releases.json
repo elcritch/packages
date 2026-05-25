@@ -1,0 +1,37 @@
+{
+  "cv": 17,
+  "name": "sass",
+  "fqn": "sass.dom96.github.com",
+  "head": "c466216018d45acbfd5381c7ee55fd03db300fa3",
+  "author": "Dominik Picheta",
+  "description": "A wrapper for the libsass library.",
+  "license": "MIT",
+  "nim": "0.18.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.2.0@70af832b6eb37b148b0dbbc51085a73163c20041",
+      "r": []
+    },
+    {
+      "v": "0.1.0@649e0701fa5c1ad6451b7e546e72667ba1d128ff",
+      "r": []
+    },
+    {
+      "v": "#head@c466216018d45acbfd5381c7ee55fd03db300fa3",
+      "r": [],
+      "a": "Dominik Picheta",
+      "d": "A wrapper for the libsass library.",
+      "l": "MIT",
+      "s": "src",
+      "m": "0.18.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:23Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

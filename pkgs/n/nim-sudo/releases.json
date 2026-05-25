@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "nim-sudo",
+  "fqn": "nim-sudo.vandot.github.com",
+  "head": "b8108c19b5aaf90487e740493094fbf10126eb4e",
+  "author": "vandot",
+  "description": "Simple wrapper to execute osproc.exec* commands with sudo.",
+  "license": "MIT",
+  "nim": "1.6.6",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@3d3e210e87d847b8a564999b11c58773a9d8399c",
+      "r": []
+    },
+    {
+      "v": "#head@b8108c19b5aaf90487e740493094fbf10126eb4e",
+      "r": [],
+      "a": "vandot",
+      "d": "Simple wrapper to execute osproc.exec* commands with sudo.",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.6.6"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:48:10Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

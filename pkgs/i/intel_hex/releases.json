@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "intel_hex",
+  "fqn": "nim_intel_hex.keyme.github.com",
+  "head": "d34923a4a60298fd1304178816a92720949ad7b4",
+  "author": "Jeff Ciesielski",
+  "description": "Intel hex file utility library",
+  "license": "MIT",
+  "nim": "0.18.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@632180af9946e5bd4dd126dd3edfe0a5d180dcf3",
+      "r": []
+    },
+    {
+      "v": "#head@d34923a4a60298fd1304178816a92720949ad7b4",
+      "r": [],
+      "a": "Jeff Ciesielski",
+      "d": "Intel hex file utility library",
+      "l": "MIT",
+      "s": "src",
+      "m": "0.18.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:46:08Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

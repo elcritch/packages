@@ -1,0 +1,39 @@
+{
+  "cv": 17,
+  "name": "hk",
+  "fqn": "hk.hmbemba.github.com",
+  "head": "5d7f0634e76f8e13ad2c5c87415b0eada1189e70",
+  "author": "Harrison Mbemba",
+  "description": "A Nimble package for HotKey functionality",
+  "license": "MIT",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@684ea2d58e2e0cc142599485928caae7de070414",
+      "r": []
+    },
+    {
+      "v": "#head@5d7f0634e76f8e13ad2c5c87415b0eada1189e70",
+      "r": [
+        "winim",
+        "libclip"
+      ],
+      "a": "Harrison Mbemba",
+      "d": "Windows hotkeys + hotstrings for Nim (winim keyboard hook, optional clipboard paste mode)",
+      "l": "MIT",
+      "s": "src",
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:41Z",
+  "allDeps": {
+    "packages": [
+      "libclip",
+      "winim"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

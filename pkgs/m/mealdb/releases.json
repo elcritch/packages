@@ -1,0 +1,41 @@
+{
+  "cv": 17,
+  "name": "mealdb",
+  "fqn": "mealdb-nim.thechampagne.github.com",
+  "head": "de764a835683bf71bef7d5a19e11111b6126bbb6",
+  "author": "XXIV",
+  "description": "TheMealDB API client",
+  "license": "Apache-2.0",
+  "nim": "1.6.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "1.0.0@de764a835683bf71bef7d5a19e11111b6126bbb6^",
+      "r": []
+    },
+    {
+      "v": "#head@de764a835683bf71bef7d5a19e11111b6126bbb6",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:47:23Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v1.0.0"
+    ],
+    "tagVersions": {
+      "v1.0.0": "1.0.0"
+    },
+    "latest": "v1.0.0"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

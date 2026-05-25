@@ -1,0 +1,31 @@
+{
+  "cv": 17,
+  "name": "yasync",
+  "fqn": "yasync.yglukhov.github.com",
+  "head": "e1ae2c82ee87a3faa5739a3b4407d25a6ea8b6ce",
+  "author": "Yuriy Glukhov",
+  "description": "A new awesome nimble package",
+  "license": "MIT",
+  "nim": "1.4.2",
+  "releases": [
+    {
+      "v": "0.1.0@9c5c8f24da756984b7833123ea9fe0a317194ed4",
+      "r": []
+    },
+    {
+      "v": "#head@e1ae2c82ee87a3faa5739a3b4407d25a6ea8b6ce",
+      "r": [],
+      "a": "Yuriy Glukhov",
+      "d": "Yet another async/await for Nim",
+      "l": "MIT",
+      "m": "2.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:54:21Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

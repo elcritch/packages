@@ -1,0 +1,47 @@
+{
+  "cv": 17,
+  "name": "fastx_reader",
+  "fqn": "fastx_reader.ahcm.github.com",
+  "head": "9befdfc3ba29460b4b0d344c4544dadda8f27cc3",
+  "author": "Andreas Hauser",
+  "description": "FastQ and Fasta readers for NIM",
+  "license": "LGPL-3.0",
+  "nim": "0.20.0",
+  "srcDir": "src",
+  "binDir": "bin",
+  "installExt": [
+    "nim"
+  ],
+  "bin": [
+    "fastx_reader"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@b92f65e2e78a094d565dfa7c32ef650940e7c07d",
+      "r": []
+    },
+    {
+      "v": "#head@9befdfc3ba29460b4b0d344c4544dadda8f27cc3",
+      "r": [],
+      "a": "Andreas Hauser",
+      "d": "FastQ and Fasta readers for NIM",
+      "l": "LGPL-3.0",
+      "s": "src",
+      "b": "bin",
+      "k": [
+        "nim"
+      ],
+      "p": [
+        "fastx_reader"
+      ],
+      "m": "0.20.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:37Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

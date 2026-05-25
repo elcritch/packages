@@ -1,0 +1,38 @@
+{
+  "cv": 17,
+  "name": "ranges",
+  "fqn": "nim-ranges.status-im.github.com",
+  "head": "54792c5a26858b20a331f0ae38c18f21811b4b5c",
+  "author": "Status Research & Development GmbH",
+  "description": "Exploration of various implementations of memory range types",
+  "license": "Apache2",
+  "nim": "0.17.0",
+  "skipDirs": [
+    "tests"
+  ],
+  "releases": [
+    {
+      "v": "0.0.1@9815d9708f5b10e40ffb6473416fcd837733072e",
+      "r": []
+    },
+    {
+      "v": "#head@54792c5a26858b20a331f0ae38c18f21811b4b5c",
+      "n": "ranges",
+      "r": [],
+      "a": "Status Research & Development GmbH",
+      "d": "Exploration of various implementations of memory range types",
+      "l": "Apache License 2.0",
+      "x": [
+        "tests"
+      ],
+      "m": "0.17.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:01Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

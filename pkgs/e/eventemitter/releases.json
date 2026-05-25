@@ -1,0 +1,35 @@
+{
+  "cv": 17,
+  "name": "eventemitter",
+  "fqn": "eventemitter.al-bimani.github.com",
+  "head": "f498d8531afe5f41b1d6dfbbd8ba45eb859510a9",
+  "author": "al-bimani",
+  "description": "event emitter for nim",
+  "license": "MIT",
+  "nim": "1.2.0",
+  "srcDir": "src",
+  "backend": "cpp",
+  "releases": [
+    {
+      "v": "0.1.0@bc9e99c531ab93eea7e48e7d08104de2dceda438",
+      "r": []
+    },
+    {
+      "v": "#head@f498d8531afe5f41b1d6dfbbd8ba45eb859510a9",
+      "r": [],
+      "a": "al-bimani",
+      "d": "event emitter for nim",
+      "l": "MIT",
+      "s": "src",
+      "e": "cpp",
+      "m": "1.2.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:31Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

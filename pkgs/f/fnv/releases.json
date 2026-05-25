@@ -1,0 +1,38 @@
+{
+  "cv": 17,
+  "name": "fnv",
+  "fqn": "nim-fnv.ryukoposting.gitlab.com",
+  "head": "5769537f8e7b2b4f540cf2d702f52561ff4cac46",
+  "author": "ryukoposting",
+  "description": "FNV-1 and FNV-1a non-cryptographic hash functions (documentation hosted at: http://ryuk.ooo/nimdocs/fnv/fnv.html)",
+  "license": "Apache-2.0",
+  "nim": "0.19.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@5769537f8e7b2b4f540cf2d702f52561ff4cac46^",
+      "r": [
+        "stint"
+      ]
+    },
+    {
+      "v": "#head@5769537f8e7b2b4f540cf2d702f52561ff4cac46",
+      "r": [
+        "stint"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:53Z",
+  "allDeps": {
+    "packages": [
+      "intops",
+      "results",
+      "stew",
+      "stint",
+      "unittest2"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

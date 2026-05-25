@@ -1,0 +1,31 @@
+{
+  "cv": 17,
+  "name": "iori",
+  "fqn": "iori.fox0430.github.com",
+  "head": "69b5712abf9c1624d27c5f4d5a6235b674037209",
+  "author": "fox0430",
+  "description": "Async file I/O through io_uring",
+  "license": "MIT",
+  "nim": "2.0.2",
+  "releases": [
+    {
+      "v": "0.1.0@6132535244a8c934bc7805ce90eb9720d18e425d",
+      "r": []
+    },
+    {
+      "v": "#head@69b5712abf9c1624d27c5f4d5a6235b674037209",
+      "r": [],
+      "a": "fox0430",
+      "d": "Async file I/O through io_uring",
+      "l": "MIT",
+      "m": "2.0.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:46:11Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

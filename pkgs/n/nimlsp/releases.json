@@ -1,0 +1,211 @@
+{
+  "cv": 17,
+  "name": "nimlsp",
+  "fqn": "nimlsp.PMunch.github.com",
+  "head": "5fa2846f04600c2cf1173625976e037389db4489",
+  "author": "PMunch",
+  "description": "Nim Language Server Protocol - nimlsp implements the Language Server Protocol",
+  "license": "MIT",
+  "nim": "1.0.0",
+  "srcDir": "src",
+  "bin": [
+    "nimlsp",
+    "nimlsp_debug"
+  ],
+  "releases": [
+    {
+      "v": "0.4.7@20205a927b8485d169e78a176e9d534e3a2436d0",
+      "r": [
+        "jsonschema >= 0.2.1",
+        "asynctools >= 0.1.1"
+      ]
+    },
+    {
+      "v": "0.4.6@d02d2333004699a48c5e732ccb75a36613897aea",
+      "r": [
+        "jsonschema >= 0.2.1",
+        "asynctools >= 0.1.1"
+      ]
+    },
+    {
+      "v": "0.4.5@f75151a7c362c6707458d289340295009c3b37da",
+      "r": [
+        "jsonschema >= 0.2.1",
+        "asynctools >= 0.1.1"
+      ]
+    },
+    {
+      "v": "0.4.4@ce9126af0e98ee65ab42c932a87a551b4afd9d35",
+      "r": [
+        "jsonschema >= 0.2.1",
+        "asynctools >= 0.1.1"
+      ]
+    },
+    {
+      "v": "0.4.3@a6f12557fe66938241b2b14fcd7f6705ba3f729c",
+      "r": [
+        "jsonschema >= 0.2.1",
+        "asynctools >= 0.1.1"
+      ],
+      "p": [
+        "nimlsp"
+      ]
+    },
+    {
+      "v": "0.4.2@cb38240ed985209403228cf84566cb341b15ec61",
+      "r": [
+        "jsonschema >= 0.2.1",
+        "asynctools >= 0.1.1"
+      ],
+      "p": [
+        "nimlsp"
+      ]
+    },
+    {
+      "v": "0.4.1@869d78f57a87909537915c8570d72a81384666d1",
+      "r": [
+        "jsonschema >= 0.2.1",
+        "asynctools"
+      ],
+      "p": [
+        "nimlsp"
+      ]
+    },
+    {
+      "v": "0.4.0@25e6df2b51e70a03d07c7523da1aee294154f751",
+      "r": [
+        "jsonschema >= 0.2.1"
+      ],
+      "p": [
+        "nimlsp"
+      ]
+    },
+    {
+      "v": "0.3.2@cee0821a1bdae1b94e853b5c75a775ecb5f83584",
+      "r": [
+        "error://astpatternmatching",
+        "jsonschema >= 0.2.1"
+      ],
+      "p": [
+        "nimlsp"
+      ],
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nimlsp.PMunch.github.com-cee0821a-nimlsp.nimble\ncannot resolve package name: astpatternmatching"
+    },
+    {
+      "v": "0.2.6@9643c9df45b234fc66822b94b437141a598a3d99",
+      "r": [
+        "error://astpatternmatching",
+        "jsonschema >= 0.2.1"
+      ],
+      "p": [
+        "nimlsp"
+      ],
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nimlsp.PMunch.github.com-9643c9df-nimlsp.nimble\ncannot resolve package name: astpatternmatching"
+    },
+    {
+      "v": "0.2.3@e5aaa6515a327e15e0a291ff673d36fa0413267b",
+      "r": [
+        "error://astpatternmatching",
+        "jsonschema >= 0.2.1"
+      ],
+      "p": [
+        "nimlsp"
+      ],
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nimlsp.PMunch.github.com-e5aaa651-nimlsp.nimble\ncannot resolve package name: astpatternmatching"
+    },
+    {
+      "v": "0.2.2@914a42df24439475c339fdb661ec16693da174e1",
+      "r": [
+        "error://astpatternmatching",
+        "jsonschema >= 0.2.1"
+      ],
+      "p": [
+        "nimlsp"
+      ],
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nimlsp.PMunch.github.com-914a42df-nimlsp.nimble\ncannot resolve package name: astpatternmatching"
+    },
+    {
+      "v": "0.2.1@4914c38db1b4816ac0cd8a93a9f43fed98e1755c",
+      "r": [
+        "error://astpatternmatching",
+        "jsonschema >= 0.2.1"
+      ],
+      "p": [
+        "nimlsp"
+      ],
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nimlsp.PMunch.github.com-4914c38d-nimlsp.nimble\ncannot resolve package name: astpatternmatching"
+    },
+    {
+      "v": "0.2.0@153f924ce13c07f9696b21610fee2b6910d07e0c",
+      "r": [
+        "error://astpatternmatching",
+        "jsonschema >= 0.2.1"
+      ],
+      "h": true,
+      "p": [
+        "nimlsp"
+      ],
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nimlsp.PMunch.github.com-153f924c-nimlsp.nimble\ncannot resolve package name: astpatternmatching"
+    },
+    {
+      "v": "#head@5fa2846f04600c2cf1173625976e037389db4489",
+      "r": [
+        "jsonschema >= 0.2.1",
+        "asynctools >= 0.1.1"
+      ],
+      "a": "PMunch",
+      "d": "Nim Language Server Protocol - nimlsp implements the Language Server Protocol",
+      "l": "MIT",
+      "s": "src",
+      "p": [
+        "nimlsp",
+        "nimlsp_debug"
+      ],
+      "m": "1.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:48:58Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.4.1",
+      "v0.4.2",
+      "v0.4.3",
+      "v0.4.4",
+      "v0.4.5",
+      "v0.4.6",
+      "v0.4.7"
+    ],
+    "tagVersions": {
+      "v0.4.1": "0.4.1",
+      "v0.4.2": "0.4.2",
+      "v0.4.3": "0.4.3",
+      "v0.4.4": "0.4.4",
+      "v0.4.5": "0.4.5",
+      "v0.4.6": "0.4.6",
+      "v0.4.7": "0.4.7"
+    },
+    "latest": "v0.4.7"
+  },
+  "allDeps": {
+    "packages": [
+      "ast_pattern_matching",
+      "asynctools > 0.4.0",
+      "jsonschema"
+    ],
+    "urls": [
+      "error://astpatternmatching <= 0.3.2"
+    ],
+    "unresolved": []
+  }
+}

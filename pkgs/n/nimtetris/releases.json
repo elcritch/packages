@@ -1,0 +1,125 @@
+{
+  "cv": 17,
+  "name": "nimtetris",
+  "fqn": "nimtetris.jiro4989.github.com",
+  "head": "fc40d5b92729eab20f936a485259f76d6845bfb4",
+  "author": "jiro4989",
+  "description": "A simple terminal tetris in Nim",
+  "license": "MIT",
+  "nim": "1.2.2",
+  "srcDir": "src",
+  "binDir": "bin",
+  "bin": [
+    "nimtetris"
+  ],
+  "releases": [
+    {
+      "v": "1.2.0@5a194c8f41e49959d7a87696db1d09cd2509d442",
+      "r": [
+        "illwill >= 0.1.0"
+      ]
+    },
+    {
+      "v": "1.1.0@50090ff041159174400641ad767f58490db805d1",
+      "r": [
+        "illwill >= 0.1.0"
+      ]
+    },
+    {
+      "v": "1.0.0@9016c6ccb5b20dc631cc4da8c920fdf428fe5a99",
+      "r": [
+        "illwill >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.3.0@c8df4059cc77e4f0ef25e7d14ecb2e5c72849bcc",
+      "r": [
+        "illwill >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.2.0@f0ba794442fc700c28908da8311fd0bb85f9e906",
+      "r": [
+        "illwill >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.1.3@dca57a2797a389e46ec7db5ed7964e011392bcb5",
+      "r": [
+        "illwill >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.1.2@b534498927c5791567e8e56c80fe36e4a0a390f2",
+      "r": [
+        "illwill >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.1.1@8991b7507ac5a45ca8630da86f68e0b63be15f9b",
+      "r": [
+        "illwill >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.1.0@7047a9a0ddcd82aabda9af1aaf323d6d94e6fce6",
+      "r": [
+        "illwill >= 0.1.0"
+      ],
+      "d": "Terminal tetris"
+    },
+    {
+      "v": "#head@fc40d5b92729eab20f936a485259f76d6845bfb4",
+      "r": [
+        "illwill >= 0.1.0"
+      ],
+      "a": "jiro4989",
+      "d": "A simple terminal tetris in Nim",
+      "l": "MIT",
+      "s": "src",
+      "b": "bin",
+      "p": [
+        "nimtetris"
+      ],
+      "m": "1.2.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:49:18Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.0",
+      "v0.1.1",
+      "v0.1.2",
+      "v0.1.3",
+      "v0.2.0",
+      "v0.3.0",
+      "v1.0.0",
+      "v1.1.0",
+      "v1.2.0"
+    ],
+    "tagVersions": {
+      "v0.1.0": "0.1.0",
+      "v0.1.1": "0.1.1",
+      "v0.1.2": "0.1.2",
+      "v0.1.3": "0.1.3",
+      "v0.2.0": "0.2.0",
+      "v0.3.0": "0.3.0",
+      "v1.0.0": "1.0.0",
+      "v1.1.0": "1.1.0",
+      "v1.2.0": "1.2.0"
+    },
+    "latest": "v1.2.0"
+  },
+  "allDeps": {
+    "packages": [
+      "illwill"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "webtokens",
+  "fqn": "webtokens.openpeeps.github.com",
+  "head": "7454ec96728b12d26b5f303503398b3af1e3fe59",
+  "author": "George Lemon",
+  "description": "JSON Web Token Library",
+  "license": "MIT",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@c306a4a327e89ee856f34c914298d5c54e1efef9",
+      "r": []
+    },
+    {
+      "v": "#head@7454ec96728b12d26b5f303503398b3af1e3fe59",
+      "r": [],
+      "a": "George Lemon",
+      "d": "JSON Web Token Library",
+      "l": "MIT",
+      "s": "src",
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:53:51Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

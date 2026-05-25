@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "tpdne",
+  "fqn": "tpdne.nemuelw.github.com",
+  "head": "66594054473e66f2cb6f6d58edc8e96fdd2d5751",
+  "author": "Nemuel Wainaina",
+  "description": "Fetch and optionally save AI-generated faces from thispersondoesnotexist.com",
+  "license": "MIT",
+  "nim": "1.6",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@f177e222ef4611a912d2173ffaf3595544658557",
+      "r": []
+    },
+    {
+      "v": "#head@66594054473e66f2cb6f6d58edc8e96fdd2d5751",
+      "r": [],
+      "a": "Nemuel Wainaina",
+      "d": "Fetch and optionally save AI-generated faces from thispersondoesnotexist.com",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.6"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:53:02Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

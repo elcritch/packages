@@ -1,0 +1,220 @@
+{
+  "cv": 17,
+  "name": "nimlangserver",
+  "fqn": "langserver.nim-lang.github.com",
+  "head": "f5fb0c58e6364d584fc3e7f19caed20c3f8dd3ba",
+  "author": "The core Nim team",
+  "description": "Nim language server for IDEs",
+  "license": "MIT",
+  "nim": "2.0.8",
+  "skipDirs": [
+    "tests"
+  ],
+  "bin": [
+    "nimlangserver"
+  ],
+  "releases": [
+    {
+      "v": "1.14.0@64239660c8ee4484b16e0ef0d1c0bf2e58b0bd2c",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "x": [],
+      "p": []
+    },
+    {
+      "v": "1.12.0@be5fb8ee33b33dc6ca13ed71a42f9f488e2b3b9a",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "x": [],
+      "p": []
+    },
+    {
+      "v": "1.10.2@018f5640dcc9badca5cb466facfee48b1350ca19",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "x": [],
+      "p": []
+    },
+    {
+      "v": "1.10.0@7e9fa96954077f24190c9df1546fbb7673d22970",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "x": [],
+      "p": []
+    },
+    {
+      "v": "1.10.0@c9cf8ef3111cd607d3c04e8732172d23bd102d04",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "x": [],
+      "p": []
+    },
+    {
+      "v": "1.8.1@d4dbaa5966d2ff7f43f47a85ec9563243a648c9e",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "x": [],
+      "p": []
+    },
+    {
+      "v": "1.8.0@5adc15be0f785f0caa3b7fc444e54eeb5596602a",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "x": [],
+      "p": []
+    },
+    {
+      "v": "1.6.0@1bd46086d1394364371db937020403357d9704fa",
+      "r": [
+        "chronos > 4",
+        "json_rpc #head",
+        "with",
+        "chronicles",
+        "serialization",
+        "json_serialization",
+        "stew"
+      ]
+    },
+    {
+      "v": "1.4.0@69e94dd6be48cb2bb4ec814b0b2098cb0c11a03f",
+      "r": [
+        "gh:nickysn/asynctools #fixes_for_nimlangserver",
+        "gh:yyoncho/nim-json-rpc #notif-changes",
+        "with",
+        "chronicles",
+        "serialization",
+        "json_serialization"
+      ],
+      "m": "2.0.0"
+    },
+    {
+      "v": "1.2.0@71b59bfa77dabf6b8b381f6e18a1d963a1a658fc",
+      "r": [
+        "gh:nickysn/asynctools #fixes_for_nimlangserver",
+        "gh:yyoncho/nim-json-rpc #notif-changes",
+        "with",
+        "chronicles",
+        "serialization",
+        "json_serialization"
+      ],
+      "m": "1.0.0"
+    },
+    {
+      "v": "0.1.0@56c35448a6e979ad2b5734b3beb2f316d9a7214f",
+      "r": [
+        "gh:yyoncho/asynctools #non-blocking",
+        "gh:yyoncho/nim-json-rpc #notif-changes",
+        "with",
+        "chronicles"
+      ],
+      "m": "1.0.0"
+    },
+    {
+      "v": "#head@f5fb0c58e6364d584fc3e7f19caed20c3f8dd3ba",
+      "n": "nimlangserver",
+      "r": [
+        "chronos >= 4.0.4",
+        "json_rpc >= 0.5.0",
+        "with",
+        "chronicles",
+        "serialization",
+        "json_serialization",
+        "stew",
+        "regex",
+        "unittest2 >= 0.2.4"
+      ],
+      "a": "The core Nim team",
+      "d": "Nim language server for IDEs",
+      "l": "MIT",
+      "x": [
+        "tests"
+      ],
+      "p": [
+        "nimlangserver"
+      ],
+      "m": "2.0.8"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:48:55Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "latest",
+      "v1.10.0",
+      "v1.10.2",
+      "v1.12.0",
+      "v1.14.0",
+      "v1.2.0",
+      "v1.4.0",
+      "v1.6.0",
+      "v1.8.0",
+      "v1.8.1"
+    ],
+    "tagVersions": {
+      "v1.10.0": "1.10.0",
+      "v1.10.2": "1.10.2",
+      "v1.12.0": "1.12.0",
+      "v1.14.0": "1.14.0",
+      "v1.2.0": "1.2.0",
+      "v1.4.0": "1.4.0",
+      "v1.6.0": "1.6.0",
+      "v1.8.0": "1.8.0",
+      "v1.8.1": "1.8.1"
+    },
+    "latest": "v1.14.0",
+    "prerelease": [
+      "latest"
+    ]
+  },
+  "allDeps": {
+    "packages": [
+      "bearssl > 1.4.0 & <= 1.6.0",
+      "chronicles <= 1.6.0",
+      "chronos > 1.4.0 & <= 1.6.0",
+      "faststreams <= 1.6.0",
+      "graphemes",
+      "httputils > 1.4.0 & <= 1.6.0",
+      "intops > 1.4.0 & <= 1.6.0",
+      "json_rpc > 1.4.0 & <= 1.6.0",
+      "json_serialization <= 1.6.0",
+      "nimcrypto > 1.4.0 & <= 1.6.0",
+      "regex",
+      "results <= 1.6.0",
+      "segmentation",
+      "serialization <= 1.6.0",
+      "stew <= 1.6.0",
+      "stint > 1.4.0 & <= 1.6.0",
+      "testutils <= 1.6.0",
+      "unicodedb",
+      "unicodeplus",
+      "unittest2 <= 1.6.0",
+      "websock > 1.4.0 & <= 1.6.0",
+      "with <= 1.6.0",
+      "zlib > 1.4.0 & <= 1.6.0"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:nickysn/asynctools",
+      "gh:yyoncho/asynctools",
+      "gh:yyoncho/nim-json-rpc"
+    ]
+  }
+}

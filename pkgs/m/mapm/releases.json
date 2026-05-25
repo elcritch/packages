@@ -1,0 +1,107 @@
+{
+  "cv": 17,
+  "name": "mapm",
+  "fqn": "mapm-nim.PMunch.github.com",
+  "head": "b9d4c2a90dbbbac29c51c7fe927d6b97e4a2bf5f",
+  "author": "PMunch",
+  "description": "A Nim wrapper for Mike's Arbitrary Precision Math Library",
+  "license": "MIT",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "skipDirs": [
+    "mapm"
+  ],
+  "releases": [
+    {
+      "v": "0.4.0@4001ccdc57d566501c9488cfee12819475784556",
+      "r": []
+    },
+    {
+      "v": "0.3.6@90317e6ccfff4fb93c9b9db8f3775a2a1eedca54",
+      "r": [
+        "futhark >= 0.9.0"
+      ]
+    },
+    {
+      "v": "0.3.5@bc30d6fb3c9d2d9fba5573b14d81a96f3f70a002",
+      "r": [
+        "futhark >= 0.9.0"
+      ]
+    },
+    {
+      "v": "0.3.4@16cc78bbd2a3eae21348f85a2bf35ac86ff19525",
+      "r": [
+        "futhark >= 0.9.0"
+      ]
+    },
+    {
+      "v": "0.3.3@8029e98a1c85eb8af7cb796d7a9226d57f008c4a",
+      "r": [
+        "futhark >= 0.9.0"
+      ]
+    },
+    {
+      "v": "0.3.2@28f50ba3aea7eb2c6ab20bfba918a6cdef8775df",
+      "r": [
+        "futhark >= 0.9.0"
+      ]
+    },
+    {
+      "v": "0.3.1@a3f5065b483a8e981af21e51ccca6ac12bd7ad14",
+      "r": [
+        "futhark >= 0.9.0"
+      ]
+    },
+    {
+      "v": "0.3.0@d4538145004afb9343ce80e7e15fcdaf6395e6f1",
+      "r": [
+        "futhark >= 0.9.0"
+      ]
+    },
+    {
+      "v": "0.2.1@7f07d9e96241023ef585fbcbd3defa01b404e976",
+      "r": [
+        "futhark >= 0.9.0"
+      ]
+    },
+    {
+      "v": "0.2.0@ce60126c3e0c0a0e1aa23a0c94008476563bb878",
+      "r": [
+        "futhark >= 0.9.0"
+      ]
+    },
+    {
+      "v": "0.1.0@9f94111914e375737042944c27460d263cffe43b",
+      "r": [
+        "futhark >= 0.9.0"
+      ],
+      "x": []
+    },
+    {
+      "v": "#head@b9d4c2a90dbbbac29c51c7fe927d6b97e4a2bf5f",
+      "r": [],
+      "a": "PMunch",
+      "d": "A Nim wrapper for Mike's Arbitrary Precision Math Library",
+      "l": "MIT",
+      "s": "src",
+      "x": [
+        "mapm"
+      ],
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:47:16Z",
+  "allDeps": {
+    "packages": [
+      "futhark <= 0.3.6",
+      "macroutils <= 0.3.6",
+      "termstyle <= 0.3.6"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:PMunch/libclang-nim",
+      "gh:PMunch/nimbleutils"
+    ]
+  }
+}

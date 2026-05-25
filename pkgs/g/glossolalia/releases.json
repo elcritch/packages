@@ -1,0 +1,27 @@
+{
+  "cv": 17,
+  "name": "glossolalia",
+  "fqn": "glossolalia.fowlmouth.github.com",
+  "head": "f8b89478387e09aaf286fd05cda7323465572532",
+  "releases": [
+    {
+      "v": "~@f8b89478387e09aaf286fd05cda7323465572532",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    },
+    {
+      "v": "#head@f8b89478387e09aaf286fd05cda7323465572532",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:21Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

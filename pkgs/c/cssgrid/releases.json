@@ -1,0 +1,901 @@
+{
+  "cv": 17,
+  "name": "cssgrid",
+  "fqn": "cssgrid.elcritch.github.com",
+  "head": "d4e60169329a82b9fdfc6e84ee42da53b31b7b49",
+  "author": "Jaremy Creechley",
+  "description": "pure Nim CSS Grid layout engine",
+  "license": "MIT",
+  "nim": "1.2",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.13.7@ab5944ae9aedbd8aad2ac9df3faba0336d9c3bc0",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty"
+      ]
+    },
+    {
+      "v": "0.13.6@712d6c6dc9e210d35ffddd0348664cddcb26bca7",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.13.5@07801634c67e48d25271548b0de88df9504fa7ab",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.13.4@fa2550bd6287222206bf13d851b74e496171eda6",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.13.3@55b511d1afe48b2c27b01b2483fc507f95de36c6",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.13.2@017a30e0ca26b1c798f27001d74a2303ed6799d9",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.13.1@4b30ae7a7cf90bf7964c06410fdec1a0babf851b",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.13.0@19b875c45adeca143abefd4bd7e61952e0b0c847",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.12.3@2422ad84f4ad8a64289b9367253c2646bb161e15",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.12.2@a4ad9dfe437cd9a50afe8a3de48aa8a312ac7293",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.12.1@0ccff648454aa10881b3d702e65a7b1a2810a2e7",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.12.0@357f22674b7559a78f531bd912c17a940e482b35",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.11.1@a84d8e9b1b32603a97a96e23a8a32f7632a148f7",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.11.0@c66317126efa92a8f0906986e52884c174e26a0c",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.10.3@5c3babe9825b5623017f8cf171820485c768bb91",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.10.2@fa476134d952a74531c4681c227dac03f05113a7",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.10.1@375b054c37bf3f460ddcdc6a2469933ebf85c405",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.10.0@0c9e9fbd9a2791a8eeba1ff617e8134442dfe42a",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.9.12@cb3e846a824a62694a713b6d4fb81eafce6034e9",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.9.11@4ca76b4e98fdef5e80bcad8dc8dc802dff8103f7",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.9.10@131974e406ef06ebe6e864af94a1959db09e5448",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.9.9@56c84c4b20a520e1ebac0641a475cb69a79b8d9d",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.9.8@83d6e5952e967a266519eae0109609bd52598092",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.9.7@f7b4ecaa68615c8196c602284134dc152a84fd59",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.9.6@9e80c629ac6e081ec990f0dbf78946a10b5ee5c7",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.9.4@47d567b72680edb85035bdc43cec8623cd1fd088",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.9.3@eb4280bb276e6bd293db09770ccf5c786c0ae7fc",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.9.2@5764e179275c7c9ff4eff6c038b964130a1bbe43",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.9.1@76bcc12ed1844adefd5b6990b9713510e99c1d09",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.9.0@cdb61ed19679a38c5f7ef993af0f517a4269b6a0",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.8.7@9a055b4c2d6d2d669adcd4ecf4fb020da442024f",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.8.6@920fe54d4a3a022f6b97f46be92be6d0806d05c8",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.8.5@7511992de7b8f418103c53402407ec3a769ac0b1",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.8.4@97892ca8b9b5d4c2f999123f60cf619ecae03a37",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.8.3@8da18c64403884bed27cdcadb8bab9eaab5c7dff",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.8.2@f7dff8badc939b02f2be382a0b975dcdb8096996",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.8.1@b512032d209d01fe16e6187fcdb04576d9419f4a",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.8.0@843b2e84f1dba36836cd951696130baf95867a4b",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.7.0@35a0dcc80d1272ab0952c1e94dfe1121a27f05c3",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.6.1@e33f216e85f00d7fb0950b224422a0cfed92487f",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.6.0@b064fe2d1b0efb310609469353ad40709b0e2c21",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.5.16@c5a7b195fc00809005c4542de6a99872f6235b6c",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.5.15@8f175ae12158436022f28eaa809475adf15c78b8",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.5.14@e61e9e0e490562e31b0185d37cce0c63a03794a2",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.5.12@fc79168de7c20f6b5fd7d189708e4cef5328374c",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.5.11@4f4088a889f128642b5810251b5524860cab8980",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.5.10@44b26393f0045bbf334b47a0f416e9d2250c883e",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.5.9@30b925aaad9c8979b4c9654d7074fcfab3703d42",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.5.8@58ded71cedb3b134b0648a31d2331669d211ae06",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.5.7@09aa8a327141706237167ef2c786c42ddaabbbbd",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.5.6@27c8a1fbd2289030c111a1562767062a46023b38",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.5.5@013d810d79e58bacaab282a9c71092ed25a59079",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.5.4@644e2d6067eda0367951c35ad7051e30e078f0ad",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.5.3@90aca3ed01e5521b8913b0f5ebc07f384bef4a17",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.5.2@043023bae21c604aff6b3c28f8e8d794907b248b",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.5.1@c5247f9c465ac6a6e89666bbf53fe5b12804f00e",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.5.0@fb6dbb0f496b76744b4a1fae069e516e16d3a6f2",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.4.0@effc05413bed6a466737c918e478230a86b820b4",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.3.0@f52b477ed3a2928addf5378bcb9b5225d97324bf",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.2.10@f703ffa601aab362280010069aad1f700243057d",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "cdecl >= 0.7.5",
+        "macroutils",
+        "print",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.2.9@c511fdbda5751216f44f7ed479408d783e396a25",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "cdecl >= 0.7.1",
+        "macroutils",
+        "print",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.2.8@14409fa4bb8e36e105ce238d3a78036f451a00d4",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "print",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.2.7@b7e5a4036a1a761c4d66aa11d359e41d5169271d",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "print",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.2.6@f40edbbf0ed7cce39b52eac197b587cad0287584",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "print",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.2.5@f6cfa52e8acd7305dcc4c79d71dfe3da13772f0b",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "print",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.2.4@e9e2b38feca591a4cf5e4f28cea80e8316e9cde0",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "print",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.2.3@30a4ddfe00bb29adae73a4b8b499bfd2bcdcfe3e",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "print",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.2.2@60486f3dddf5144081b4f742eaaf4ea009a4a076",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "print",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.2.1@d3b0de6f782fcf6843d0c23f71c6d87a04d37bdf",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "print",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.2.0@db3d1c0c5ce5b75422306686c51b1ec4d4191c66",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "print",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.1.2@c5b4d92441ed3a2a457cb10f689a67ff168f119c",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "print",
+        "pixie"
+      ]
+    },
+    {
+      "v": "0.1.1@f4823c2d1fd56c5cac7659ec7ffd148a1772a57e",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "print",
+        "pixie"
+      ]
+    },
+    {
+      "v": "#head@d4e60169329a82b9fdfc6e84ee42da53b31b7b49",
+      "r": [
+        "patty >= 0.3.4",
+        "vmath >= 1.2.0",
+        "bumpy >= 1.1.0",
+        "macroutils",
+        "stack_strings",
+        "pretty"
+      ],
+      "a": "Jaremy Creechley",
+      "d": "pure Nim CSS Grid layout engine",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:43:46Z",
+  "allDeps": {
+    "packages": [
+      "bumpy",
+      "cdecl > 0.2.8 & <= 0.2.10",
+      "macroutils",
+      "mddoc",
+      "patty",
+      "pixie <= 0.13.6",
+      "pretty > 0.2.10",
+      "print <= 0.2.10",
+      "stack_strings > 0.2.10",
+      "vmath"
+    ],
+    "urls": [],
+    "unresolved": [
+      "pixie"
+    ]
+  }
+}

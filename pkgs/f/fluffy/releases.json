@@ -1,0 +1,65 @@
+{
+  "cv": 17,
+  "name": "fluffy",
+  "fqn": "fluffy.treeform.github.com",
+  "head": "2012906732cc104dc08fb80a3cec976ddfd9a98a",
+  "author": "Andre von Houck",
+  "description": "A Nim profile viewer for Chrome JSON trace files.",
+  "license": "MIT",
+  "nim": "2.2.4",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "2.0.1@fbf6cfaeaf90977c14226a4a39d279842ca4da45",
+      "r": [
+        "silky >= 0.0.1",
+        "jsony >= 1.1.6"
+      ]
+    },
+    {
+      "v": "1.0.0@64ddcbdd9e78f5f1c0fe498ae528717afb8ea947",
+      "r": [
+        "silky >= 0.0.1",
+        "jsony >= 1.1.6"
+      ]
+    },
+    {
+      "v": "#head@2012906732cc104dc08fb80a3cec976ddfd9a98a",
+      "r": [
+        "silky >= 0.0.1",
+        "jsony >= 1.1.6"
+      ],
+      "a": "Andre von Houck",
+      "d": "A Nim profile viewer for Chrome JSON trace files.",
+      "l": "MIT",
+      "s": "src",
+      "m": "2.2.4"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:52Z",
+  "allDeps": {
+    "packages": [
+      "bumpy",
+      "chroma",
+      "dx12",
+      "jsony",
+      "mddoc",
+      "metal4",
+      "opengl",
+      "pixie",
+      "shady",
+      "silky",
+      "urlly",
+      "vk14",
+      "vmath",
+      "windy",
+      "ws",
+      "x11"
+    ],
+    "urls": [],
+    "unresolved": [
+      "pixie"
+    ]
+  }
+}

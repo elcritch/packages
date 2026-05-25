@@ -1,0 +1,28 @@
+{
+  "cv": 17,
+  "name": "ass",
+  "fqn": "libass-nim.0kalekale.github.com",
+  "head": "13e3c29ca782dbe798730116bb10a9b5ac9a99b8",
+  "author": "0kalekale",
+  "description": "libass bindings for nim",
+  "license": "ISC",
+  "nim": "1.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@13e3c29ca782dbe798730116bb10a9b5ac9a99b8^",
+      "r": []
+    },
+    {
+      "v": "#head@13e3c29ca782dbe798730116bb10a9b5ac9a99b8",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:42:04Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

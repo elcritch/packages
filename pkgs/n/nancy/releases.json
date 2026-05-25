@@ -1,0 +1,52 @@
+{
+  "cv": 17,
+  "name": "nancy",
+  "fqn": "nancy.PMunch.github.com",
+  "head": "9918716a563f64d740df6a02db42662781e94fc8",
+  "author": "PMunch",
+  "description": "Easiest way to print tables in your terminal with full ANSI support and custom style",
+  "license": "MIT",
+  "nim": "1.0.0",
+  "srcDir": "src",
+  "skipFiles": [
+    "example.png"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@02b75ac0d4e6abcc39a30305842c043665f14221",
+      "r": [
+        "ansiparse >= 0.2.0"
+      ],
+      "y": []
+    },
+    {
+      "v": "0.1.1@35e16f51c378658dc43e47765d35a4b7ac9e1bf3",
+      "r": [
+        "ansiparse >= 0.2.0"
+      ]
+    },
+    {
+      "v": "#head@9918716a563f64d740df6a02db42662781e94fc8",
+      "r": [
+        "ansiparse >= 0.2.0"
+      ],
+      "a": "PMunch",
+      "d": "Easiest way to print tables in your terminal with full ANSI support and custom style",
+      "l": "MIT",
+      "s": "src",
+      "y": [
+        "example.png"
+      ],
+      "m": "1.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:47:49Z",
+  "allDeps": {
+    "packages": [
+      "ansiparse"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

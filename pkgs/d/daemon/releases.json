@@ -1,0 +1,42 @@
+{
+  "cv": 17,
+  "name": "daemon",
+  "fqn": "nim-daemon.status-im.github.com",
+  "head": "6d097c04ac81dfa43dfd9e4c20d6bd359f030153",
+  "author": "Status Research & Development GmbH",
+  "description": "Cross-platform process daemonization",
+  "license": "Apache License 2.0 or MIT",
+  "nim": "0.18.0",
+  "skipDirs": [
+    "tests",
+    "Nim",
+    "nim"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@2f388e670d8076d808a0051671e9dc0d77b88221",
+      "r": []
+    },
+    {
+      "v": "#head@6d097c04ac81dfa43dfd9e4c20d6bd359f030153",
+      "n": "daemon",
+      "r": [],
+      "a": "Status Research & Development GmbH",
+      "d": "Cross-platform process daemonization",
+      "l": "Apache License 2.0 or MIT",
+      "x": [
+        "tests",
+        "Nim",
+        "nim"
+      ],
+      "m": "0.18.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:43:48Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

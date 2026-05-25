@@ -1,0 +1,53 @@
+{
+  "cv": 17,
+  "name": "argon2_highlevel",
+  "fqn": "argon2-highlevel.termermc.github.com",
+  "head": "b7494d07ec0f2190afcf2f7f5dbb8244096d98e6",
+  "author": "termer",
+  "description": "A high-level Nim Argon2 password hashing library",
+  "license": "MIT",
+  "nim": "1.6.2",
+  "installDirs": [
+    "phc-winner-argon2"
+  ],
+  "releases": [
+    {
+      "v": "1.0.0@53a9a39a5ad1e01883dfa3ec678e4e0b1d87b8d9",
+      "r": [
+        "random >= 0.5.7"
+      ]
+    },
+    {
+      "v": "#head@b7494d07ec0f2190afcf2f7f5dbb8244096d98e6",
+      "r": [
+        "random >= 0.5.7"
+      ],
+      "a": "termer",
+      "d": "A high-level Nim Argon2 password hashing library",
+      "l": "MIT",
+      "i": [
+        "phc-winner-argon2"
+      ],
+      "m": "1.6.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:41:59Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "1.0.0"
+    ],
+    "latest": "1.0.0"
+  },
+  "allDeps": {
+    "packages": [
+      "random"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

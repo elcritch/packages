@@ -1,0 +1,124 @@
+{
+  "cv": 17,
+  "name": "zws",
+  "fqn": "cli.zws-im.github.com",
+  "head": "5eafe7686773a99ad91398281d890fd519bf63a8",
+  "author": "Jonah Snider",
+  "description": "A CLI to interact with ZWS",
+  "license": "MIT",
+  "nim": "1.4.2",
+  "srcDir": "src",
+  "bin": [
+    "cli"
+  ],
+  "namedBin": {
+    "cli": "zws"
+  },
+  "releases": [
+    {
+      "v": "1.5.0@bba05f89dd288b4782945fa512111ed558a1d301",
+      "r": []
+    },
+    {
+      "v": "1.4.0@580810709e5c4bce42e5ef9d38ce8802098e5f81",
+      "r": []
+    },
+    {
+      "v": "1.3.0@d33cd7745be084439656ea6ae9e50a641537b641",
+      "r": []
+    },
+    {
+      "v": "1.2.2@da7a529df95d56a7896a8959a5e658c42de6d7cb",
+      "r": []
+    },
+    {
+      "v": "1.2.1@23f3bb423cd08b42ab5410e3da8a04abf64d7024",
+      "r": []
+    },
+    {
+      "v": "1.2.0@f1fd6b1e7bfa3d6bf16068d77dcdb4d396dd5608",
+      "r": []
+    },
+    {
+      "v": "1.1.3@b478cba52c4ead6fdcefcfedb40d1975e33cf7a6",
+      "r": []
+    },
+    {
+      "v": "1.1.2@b833033153158b980ab689ba075f005784f32717",
+      "r": []
+    },
+    {
+      "v": "1.1.1@c934361f26927b21c77ab975d154791417e95651",
+      "r": []
+    },
+    {
+      "v": "1.1.0@e9a1bda8da3d2bc8e7978549f14fbc2ea26b0abb",
+      "r": []
+    },
+    {
+      "v": "1.0.1@076cb193b8805d6e30bfab94229bc8fa09dabc3e",
+      "r": []
+    },
+    {
+      "v": "1.0.0@b52e4ae989c54ede30c8a1dac1d1b94bb7288296",
+      "r": []
+    },
+    {
+      "v": "#head@5eafe7686773a99ad91398281d890fd519bf63a8",
+      "r": [],
+      "a": "Jonah Snider",
+      "d": "A CLI to interact with ZWS",
+      "l": "MIT",
+      "s": "src",
+      "p": [
+        "cli"
+      ],
+      "o": {
+        "cli": "zws"
+      },
+      "m": "1.4.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:54:30Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v1.0.0",
+      "v1.0.1",
+      "v1.1.0",
+      "v1.1.1",
+      "v1.1.2",
+      "v1.1.3",
+      "v1.2.0",
+      "v1.2.1",
+      "v1.2.2",
+      "v1.3.0",
+      "v1.4.0",
+      "v1.5.0"
+    ],
+    "tagVersions": {
+      "v1.0.0": "1.0.0",
+      "v1.0.1": "1.0.1",
+      "v1.1.0": "1.1.0",
+      "v1.1.1": "1.1.1",
+      "v1.1.2": "1.1.2",
+      "v1.1.3": "1.1.3",
+      "v1.2.0": "1.2.0",
+      "v1.2.1": "1.2.1",
+      "v1.2.2": "1.2.2",
+      "v1.3.0": "1.3.0",
+      "v1.4.0": "1.4.0",
+      "v1.5.0": "1.5.0"
+    },
+    "latest": "v1.5.0"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

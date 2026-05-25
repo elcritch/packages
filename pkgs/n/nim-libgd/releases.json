@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "nim-libgd",
+  "fqn": "nim-libgd.mrhdias.github.com",
+  "head": "0ef07cc89746def43d0af1fcca4dd8d6f01f8663",
+  "author": "Henrique Dias",
+  "description": "Nim Wrapper for LibGD 2.x",
+  "license": "MIT",
+  "nim": "0.19.4",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.0.1@6cdea8dbf610545c61ad2000aa19633c45a6c0b5",
+      "r": []
+    },
+    {
+      "v": "#head@0ef07cc89746def43d0af1fcca4dd8d6f01f8663",
+      "r": [],
+      "a": "Henrique Dias",
+      "d": "Nim Wrapper for LibGD 2.x",
+      "l": "MIT",
+      "s": "src",
+      "m": "0.19.4"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:48:10Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

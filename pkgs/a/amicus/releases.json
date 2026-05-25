@@ -1,0 +1,44 @@
+{
+  "cv": 17,
+  "name": "amicus",
+  "fqn": "amicus.onbox.codeberg.org",
+  "head": "adbb164ef1fdf2509746e93409001c9aba397aee",
+  "author": "penguinite",
+  "description": "Social networking library powering Onbox.",
+  "license": "AGPL-3.0-or-later",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.0.2@fccd6b53f331677a99e77044bd7bb13593141a85",
+      "r": [
+        "nimcrypto >= 0.5.4",
+        "rng >= 0.2.0",
+        "db_connector >= 0.1.0"
+      ]
+    },
+    {
+      "v": "#head@adbb164ef1fdf2509746e93409001c9aba397aee",
+      "r": [
+        "nimcrypto >= 0.6.3",
+        "db_connector >= 0.1.0"
+      ],
+      "a": "penguinite",
+      "d": "Social networking library powering Onbox.",
+      "l": "AGPL-3.0-or-later",
+      "s": "src",
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:41:53Z",
+  "allDeps": {
+    "packages": [
+      "db_connector",
+      "nimcrypto",
+      "rng"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

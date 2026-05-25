@@ -1,0 +1,36 @@
+{
+  "cv": 17,
+  "name": "tiger",
+  "fqn": "nim_tiger.~ehmry.git.sr.ht",
+  "head": "c81b088704b09ff08304bbc0211ac9b22e1bb77e",
+  "author": "Emery Hemingway",
+  "description": "Tiger hash function",
+  "license": "MIT",
+  "nim": "0.19.4",
+  "releases": [
+    {
+      "v": "0.2.1@e446bcc70baa57483a750b216534a96fdf8ef9c2",
+      "r": []
+    },
+    {
+      "v": "0.2@3280d3dc21c1acc0ad9676163a948b95e3cb59e8",
+      "r": []
+    },
+    {
+      "v": "#head@c81b088704b09ff08304bbc0211ac9b22e1bb77e",
+      "r": [],
+      "a": "Emery Hemingway",
+      "d": "Tiger hash function",
+      "l": "MIT",
+      "s": "src",
+      "m": "0.19.4"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:53Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

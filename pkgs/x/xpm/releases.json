@@ -1,0 +1,28 @@
+{
+  "cv": 17,
+  "name": "xpm",
+  "fqn": "xpm.juancarlospaco.github.com",
+  "head": "6c46c93f28e54a466b76acf4689f17451f64c68b",
+  "author": "Juan Carlos",
+  "description": "X-Pixmap & NetPBM",
+  "license": "MIT",
+  "nim": "1.1.1",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@6c46c93f28e54a466b76acf4689f17451f64c68b^",
+      "r": []
+    },
+    {
+      "v": "#head@6c46c93f28e54a466b76acf4689f17451f64c68b",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:54:18Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

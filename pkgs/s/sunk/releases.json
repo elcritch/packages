@@ -1,0 +1,49 @@
+{
+  "cv": 17,
+  "name": "sunk",
+  "fqn": "sunk.archnim.github.com",
+  "head": "d2704743d17aa1db143e881022b621c030d82e86",
+  "author": "archnim",
+  "description": "Few async tools for nim (then, catch, finally, and more)",
+  "license": "MIT",
+  "nim": "1.6.8",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.2@d2704743d17aa1db143e881022b621c030d82e86^",
+      "r": []
+    },
+    {
+      "v": "0.1.0@4751e3b225625dc32a6962c6fc6c7783cbe3b8fc",
+      "r": []
+    },
+    {
+      "v": "#head@d2704743d17aa1db143e881022b621c030d82e86",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:27Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.0",
+      "v0.1.1",
+      "v0.1.2"
+    ],
+    "tagVersions": {
+      "v0.1.0": "0.1.0",
+      "v0.1.1": "0.1.1",
+      "v0.1.2": "0.1.2"
+    },
+    "latest": "v0.1.2"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

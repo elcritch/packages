@@ -1,0 +1,56 @@
+{
+  "cv": 17,
+  "name": "SMBExec",
+  "fqn": "SMB-Nim.elddy.github.com",
+  "head": "3287ce03728515c0fa7ddc2bc942cfa5642e3cda",
+  "author": "elddy, kevrool",
+  "description": "Nim-SMBExec - SMBExec implementation in Nim",
+  "license": "GPL-3.0",
+  "nim": "1.2.0",
+  "skipDirs": [
+    "Examples"
+  ],
+  "releases": [
+    {
+      "v": "1.0.0@ff0f14ab3cd0451feae27b9d4f52c8fce752e509",
+      "r": [
+        "hashlib",
+        "hmac"
+      ]
+    },
+    {
+      "v": "#head@3287ce03728515c0fa7ddc2bc942cfa5642e3cda",
+      "r": [
+        "hashlib",
+        "hmac",
+        "regex"
+      ],
+      "a": "elddy, kevrool",
+      "d": "Nim-SMBExec - SMBExec implementation in Nim",
+      "l": "GPL-3.0",
+      "x": [
+        "Examples"
+      ],
+      "m": "1.2.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:41:42Z",
+  "allDeps": {
+    "packages": [
+      "checksums",
+      "graphemes",
+      "hashlib",
+      "hmac",
+      "nimSHA2",
+      "nimcrypto",
+      "regex",
+      "segmentation",
+      "sha1",
+      "unicodedb",
+      "unicodeplus"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

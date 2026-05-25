@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "constants",
+  "fqn": "nim-constants.juancarlospaco.github.com",
+  "head": "179726744006dad76fea3ad62920cb82d3617afc",
+  "author": "Juan Carlos",
+  "description": "Mathematical numerical named static constants useful for different disciplines",
+  "license": "MIT",
+  "nim": "0.20.2",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@d4e3149b363b88effe162ef4caa9fc3055fff264",
+      "r": []
+    },
+    {
+      "v": "#head@179726744006dad76fea3ad62920cb82d3617afc",
+      "r": [],
+      "a": "Juan Carlos",
+      "d": "Mathematical numerical named static constants useful for different disciplines",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.4.8"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:43:33Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

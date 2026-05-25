@@ -1,0 +1,55 @@
+{
+  "cv": 17,
+  "name": "tnim",
+  "fqn": "tnim.jlp765.github.com",
+  "head": "980c5f6cacdf89ac31fecd890adbcc123918459a",
+  "author": "James Parkinson",
+  "description": "Nim REPL - a sandbox for testing Nim code",
+  "license": "MIT",
+  "nim": "0.10.0",
+  "binDir": "bin",
+  "releases": [
+    {
+      "v": "2.0.6@2c165b704be25a2dfcdf6ec2575ec2330a895416",
+      "r": []
+    },
+    {
+      "v": "2.0.6@980c5f6cacdf89ac31fecd890adbcc123918459a",
+      "r": []
+    },
+    {
+      "v": "2.0.5@52d23937de328b03c11c4145808212fb295299dc",
+      "r": []
+    },
+    {
+      "v": "2.0.4@06492164a7b5d52da70fad8bfdb1caaada332a38",
+      "r": []
+    },
+    {
+      "v": "#head@980c5f6cacdf89ac31fecd890adbcc123918459a",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:59Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "2.0.4",
+      "2.0.5",
+      "v2.0.6"
+    ],
+    "tagVersions": {
+      "v2.0.6": "2.0.6"
+    },
+    "latest": "v2.0.6"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

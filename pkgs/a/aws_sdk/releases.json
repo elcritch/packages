@@ -1,0 +1,40 @@
+{
+  "cv": 17,
+  "name": "aws_sdk",
+  "fqn": "aws_sdk.nim.aidansteele.github.com",
+  "head": "1570861e5769daaa89aadd6f45e88bd8acddb6c5",
+  "author": "Aidan Steele",
+  "description": "AWS SDK for Nim",
+  "license": "MIT",
+  "nim": "0.13.1",
+  "releases": [
+    {
+      "v": "0.1.0@81456c6085da920fa371ce8abc6f7793fc400083",
+      "r": [
+        "stringinterpolation",
+        "sph"
+      ]
+    },
+    {
+      "v": "#head@1570861e5769daaa89aadd6f45e88bd8acddb6c5",
+      "r": [
+        "stringinterpolation",
+        "sph"
+      ],
+      "a": "Aidan Steele",
+      "d": "AWS SDK for Nim",
+      "l": "MIT",
+      "m": "0.13.1"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:42:20Z",
+  "allDeps": {
+    "packages": [
+      "sph",
+      "stringinterpolation"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

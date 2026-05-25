@@ -1,0 +1,52 @@
+{
+  "cv": 17,
+  "name": "blscurve",
+  "fqn": "nim-blscurve.status-im.github.com",
+  "head": "f4d0de2eece20380541fbf73d4b8bf57dc214b3b",
+  "author": "Status Research & Development GmbH",
+  "description": "BLS381-12 Curve implementation",
+  "license": "Apache License 2.0",
+  "nim": "0.18.1",
+  "releases": [
+    {
+      "v": "0.0.1@13a89c9d73c7029b53a7a9dd7cededfd51348df7",
+      "r": [
+        "nimcrypto"
+      ]
+    },
+    {
+      "v": "#head@f4d0de2eece20380541fbf73d4b8bf57dc214b3b",
+      "n": "blscurve",
+      "r": [
+        "nimcrypto",
+        "stew",
+        "results",
+        "taskpools >= 0.0.5"
+      ],
+      "a": "Status Research & Development GmbH",
+      "d": "BLS381-12 Curve implementation",
+      "l": "Apache License 2.0",
+      "i": [
+        "blscurve",
+        "vendor"
+      ],
+      "j": [
+        "blscurve.nim"
+      ],
+      "m": "1.6.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:42:48Z",
+  "allDeps": {
+    "packages": [
+      "nimcrypto",
+      "results",
+      "stew",
+      "taskpools",
+      "unittest2"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

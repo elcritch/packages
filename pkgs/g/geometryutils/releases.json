@@ -1,0 +1,44 @@
+{
+  "cv": 17,
+  "name": "geometryutils",
+  "fqn": "geometryutils.pseudo-random.github.com",
+  "head": "553ff09471fd2646aad8443c9639ea7b91fca626",
+  "author": "pseudo-random <josh.leh.2018@gmail.com>",
+  "description": "A collection of geometry utilities for nim",
+  "license": "MIT",
+  "nim": "1.2.4",
+  "releases": [
+    {
+      "v": "1.2.0@553ff09471fd2646aad8443c9639ea7b91fca626^",
+      "r": [
+        "sdl2 >= 2.0.3",
+        "opengl >= 1.2.6"
+      ]
+    },
+    {
+      "v": "1.1.0@14211d0db5b41d5ae62dfdc88184b96322752f8e",
+      "r": [
+        "sdl2 >= 2.0.3",
+        "opengl >= 1.2.6"
+      ]
+    },
+    {
+      "v": "#head@553ff09471fd2646aad8443c9639ea7b91fca626",
+      "r": [
+        "sdl2 >= 2.0.3",
+        "opengl >= 1.2.6"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:11Z",
+  "allDeps": {
+    "packages": [
+      "opengl",
+      "sdl2",
+      "x11"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

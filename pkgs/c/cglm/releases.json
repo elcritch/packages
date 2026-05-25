@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "cglm",
+  "fqn": "cglm.Niminem.github.com",
+  "head": "422356ad8e2e47960f35930d708c4f1806d93780",
+  "author": "Niminem (Leon Lysak)",
+  "description": "Nim wrapper for cglm, an optimized 3D math library written in C99",
+  "license": "MIT",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@01d0ece29d43ecace7628ce0aa11baa11790333c",
+      "r": []
+    },
+    {
+      "v": "#head@422356ad8e2e47960f35930d708c4f1806d93780",
+      "r": [],
+      "a": "Niminem (Leon Lysak)",
+      "d": "Nim wrapper for cglm, an optimized 3D math library written in C99",
+      "l": "MIT",
+      "s": "src",
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:43:08Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

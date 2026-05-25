@@ -1,0 +1,81 @@
+{
+  "cv": 17,
+  "name": "httputils",
+  "fqn": "nim-http-utils.status-im.github.com",
+  "head": "f142cb2e8bd812dd002a6493b6082827bb248592",
+  "author": "Status Research & Development GmbH",
+  "description": "HTTP request/response helpers & parsing procedures",
+  "license": "Apache License 2.0",
+  "nim": "1.6.0",
+  "skipDirs": [
+    "tests",
+    "Nim"
+  ],
+  "releases": [
+    {
+      "v": "0.4.1@1876d260f6e4711a5c2f07533c3cc51672edae6d",
+      "r": [
+        "stew",
+        "results",
+        "unittest2"
+      ]
+    },
+    {
+      "v": "0.4.0@c53852d9e24205b6363bba517fa8ee7bde823691",
+      "r": [
+        "stew",
+        "results",
+        "unittest2"
+      ]
+    },
+    {
+      "v": "0.3.0@79cbab1460f4c0cdde2084589d017c43a3d7b4f1",
+      "r": [
+        "stew",
+        "results",
+        "unittest2"
+      ]
+    },
+    {
+      "v": "#head@f142cb2e8bd812dd002a6493b6082827bb248592",
+      "n": "httputils",
+      "r": [
+        "stew",
+        "results",
+        "unittest2"
+      ],
+      "a": "Status Research & Development GmbH",
+      "d": "HTTP request/response helpers & parsing procedures",
+      "l": "Apache License 2.0",
+      "x": [
+        "tests",
+        "Nim"
+      ],
+      "m": "1.6.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:55Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.4.1"
+    ],
+    "tagVersions": {
+      "v0.4.1": "0.4.1"
+    },
+    "latest": "v0.4.1"
+  },
+  "allDeps": {
+    "packages": [
+      "results",
+      "stew",
+      "unittest2"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

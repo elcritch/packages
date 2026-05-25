@@ -1,0 +1,49 @@
+{
+  "cv": 17,
+  "name": "romanim",
+  "fqn": "romanim.bichanna.github.com",
+  "head": "0ee4bf2041e3c8e95f1b070e1abf90f15965bea5",
+  "author": "bichanna",
+  "description": "Converts Roman numerals to what you understand without a blinkblink",
+  "license": "MIT",
+  "nim": "1.5.4",
+  "srcDir": "src",
+  "bin": [
+    "romanim"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@b6e172fd177c5eab6a32aa3cb8cff240d153f27d",
+      "r": []
+    },
+    {
+      "v": "#head@0ee4bf2041e3c8e95f1b070e1abf90f15965bea5",
+      "r": [],
+      "a": "bichanna",
+      "d": "Converts Roman numerals to what you understand without a blinkblink",
+      "l": "MIT",
+      "s": "src",
+      "p": [
+        "romanim"
+      ],
+      "m": "1.5.4"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:17Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.1.0"
+    ],
+    "latest": "0.1.0"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

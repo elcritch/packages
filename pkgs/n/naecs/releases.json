@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "naecs",
+  "fqn": "naecs.Hammer2900.github.com",
+  "head": "64b8c764e600b539055871ab15aa1fbcfe7e1fcd",
+  "author": "Tsybulskyi Evhenyi",
+  "description": "A new awesome nimble package",
+  "license": "MIT",
+  "nim": "2.2.6",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@bc142e9b94af34fe31c9eed810874637c4326190",
+      "r": []
+    },
+    {
+      "v": "#head@64b8c764e600b539055871ab15aa1fbcfe7e1fcd",
+      "r": [],
+      "a": "Tsybulskyi Evhenyi",
+      "d": "A new awesome nimble package",
+      "l": "MIT",
+      "s": "src",
+      "m": "2.2.6"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:47:49Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

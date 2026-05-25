@@ -1,0 +1,62 @@
+{
+  "cv": 17,
+  "name": "nostr",
+  "fqn": "nim-nostr.theAkito.github.com",
+  "head": "fa6b60589b264937cbd372951117106d743a2100",
+  "author": "Akito <the@akito.ooo>",
+  "description": "NOSTR Protocol implementation.",
+  "license": "GPL-3.0-or-later",
+  "nim": "2.0.0",
+  "skipDirs": [
+    "tasks"
+  ],
+  "skipFiles": [
+    "README.md"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@cf4b92c9dd457dd86e5309840f0b13d5e9d4bc11",
+      "r": []
+    },
+    {
+      "v": "#head@fa6b60589b264937cbd372951117106d743a2100",
+      "r": [
+        "puppy >= 1.0.3",
+        "timestamp >= 0.4.2",
+        "timezones >= 0.5.4",
+        "zero_functional >= 1.3.0",
+        "yaml #189844a72b90ba7ade864f997280809efcb21d0a",
+        "nimSHA2"
+      ],
+      "a": "Akito <the@akito.ooo>",
+      "d": "NOSTR Protocol implementation.",
+      "l": "GPL-3.0-or-later",
+      "x": [
+        "tasks"
+      ],
+      "y": [
+        "README.md"
+      ],
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:49:39Z",
+  "allDeps": {
+    "packages": [
+      "libcurl",
+      "nimSHA2",
+      "puppy",
+      "timestamp",
+      "timezones",
+      "urlly",
+      "webby",
+      "winim",
+      "yaml",
+      "zero_functional",
+      "zippy"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

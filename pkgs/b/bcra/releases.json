@@ -1,0 +1,39 @@
+{
+  "cv": 17,
+  "name": "bcra",
+  "fqn": "nim-bcra.juancarlospaco.github.com",
+  "head": "b8ed984eeaa34f118805a97eec0a296475114d67",
+  "author": "Juan Carlos",
+  "description": "Central Bank of Argentina Gov API Client with debtor corporations info",
+  "license": "MIT",
+  "nim": "1.0.4",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@359a96d24af79e345f2645b335321369db9f924c",
+      "r": [
+        "zip >= 0.2.0"
+      ]
+    },
+    {
+      "v": "#head@b8ed984eeaa34f118805a97eec0a296475114d67",
+      "r": [
+        "zip >= 0.2.0"
+      ],
+      "a": "Juan Carlos",
+      "d": "Central Bank of Argentina Gov API Client with debtor corporations info",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.0.4"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:42:31Z",
+  "allDeps": {
+    "packages": [
+      "zip"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

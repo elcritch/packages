@@ -1,0 +1,61 @@
+{
+  "cv": 17,
+  "name": "deser_json",
+  "fqn": "deser_json.gabbhack.github.com",
+  "head": "a8ab20f4834b44acde4496438c041c89ace38476",
+  "author": "gabbhack",
+  "description": "JSON-Binding for deser",
+  "license": "MIT",
+  "nim": "1.6.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.2.0@a8ab20f4834b44acde4496438c041c89ace38476^",
+      "r": []
+    },
+    {
+      "v": "0.1.2@d651a89328e04183cfe20e4fb1c58a6d1bc4c6af",
+      "r": []
+    },
+    {
+      "v": "0.1.1@b716555f6e303836b72f989ea0f28b4440983584",
+      "r": []
+    },
+    {
+      "v": "0.1.1@8a9b1321d872938154d50e0ca6dbd80289041c86",
+      "r": []
+    },
+    {
+      "v": "0.1.0@e84acf4e2bab02127792b85432bf73c17c8f1536",
+      "r": []
+    },
+    {
+      "v": "#head@a8ab20f4834b44acde4496438c041c89ace38476",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:00Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.0",
+      "v0.1.2",
+      "v0.2.0"
+    ],
+    "tagVersions": {
+      "v0.1.0": "0.1.0",
+      "v0.1.2": "0.1.2",
+      "v0.2.0": "0.2.0"
+    },
+    "latest": "v0.2.0"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

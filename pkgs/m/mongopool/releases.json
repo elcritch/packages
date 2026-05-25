@@ -1,0 +1,75 @@
+{
+  "cv": 17,
+  "name": "mongopool",
+  "fqn": "mongopool.JohnAD.github.com",
+  "head": "c8bc6ddd560f962b8ba497ea74bac93906c9d9b9",
+  "author": "John Dupuy",
+  "description": "MongoDB pooled client for threaded applications such as web servers",
+  "license": "MIT",
+  "nim": "1.0.0",
+  "srcDir": "src",
+  "skipExt": [
+    "rst"
+  ],
+  "releases": [
+    {
+      "v": "1.0.1@5c2d5e39f19491411102406ba5fdf04e458de71a",
+      "r": [
+        "bson >= 1.1.2",
+        "scram >= 0.1.9"
+      ]
+    },
+    {
+      "v": "1.0.0@f98411b74736f463fe29091053b4d37dd168b3aa",
+      "r": [
+        "bson >= 1.0.0",
+        "scram >= 0.1.9"
+      ]
+    },
+    {
+      "v": "#head@c8bc6ddd560f962b8ba497ea74bac93906c9d9b9",
+      "r": [
+        "bson >= 1.1.2",
+        "scram >= 0.1.13"
+      ],
+      "a": "John Dupuy",
+      "d": "MongoDB pooled client for threaded applications such as web servers",
+      "l": "MIT",
+      "s": "src",
+      "z": [
+        "rst"
+      ],
+      "m": "1.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:47:38Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v1.0.0",
+      "v1.0.1"
+    ],
+    "tagVersions": {
+      "v1.0.0": "1.0.0",
+      "v1.0.1": "1.0.1"
+    },
+    "latest": "v1.0.1"
+  },
+  "allDeps": {
+    "packages": [
+      "bson",
+      "checksums",
+      "hmac",
+      "nimSHA2",
+      "nimcrypto",
+      "scram",
+      "sha1"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

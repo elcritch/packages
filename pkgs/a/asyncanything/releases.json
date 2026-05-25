@@ -1,0 +1,58 @@
+{
+  "cv": 17,
+  "name": "asyncanything",
+  "fqn": "asyncanything.hamidb80.github.com",
+  "head": "c908abaa93aefee7c5b071003ef909120d105102",
+  "author": "hamidb80",
+  "description": "make anything async [to be honest, fake async]",
+  "license": "MIT",
+  "nim": "1.5.1",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.0.1@4b9b950bf2b0e4e9b3db40eceeff78a0df33d15b",
+      "r": []
+    },
+    {
+      "v": "0.0.2@c0675b1b395aa1ff1785a6dbb06d43d8a1a688b8",
+      "r": [],
+      "d": "make anything async | always go async"
+    },
+    {
+      "v": "0.0.3@4a08142af1575e437fb68411aa6b0669eb2faaa1",
+      "r": [],
+      "d": "make anything async | always go async"
+    },
+    {
+      "v": "0.0.4@07d9fc3790f1bd1a52088153b01070049f930859",
+      "r": [],
+      "d": "make anything async | always go async"
+    },
+    {
+      "v": "0.0.5@647e728e0fec057d64ffd97b16301b8c7569303f",
+      "r": [],
+      "d": "make anything async | always go async"
+    },
+    {
+      "v": "0.0.6@ae0f6fcdf3348142c65fedd0d5f2cd2af5dc615e",
+      "r": [],
+      "d": "make anything async | always go async"
+    },
+    {
+      "v": "#head@c908abaa93aefee7c5b071003ef909120d105102",
+      "r": [],
+      "a": "hamidb80",
+      "d": "make anything async | always go async",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.5.1"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:42:08Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

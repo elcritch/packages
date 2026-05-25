@@ -1,0 +1,39 @@
+{
+  "cv": 17,
+  "name": "libclip",
+  "fqn": "libclip.jabbalaci.github.com",
+  "head": "842e0863f3d418e79aef44ed4b8aa205792d0cc9",
+  "author": "Laszlo Szathmary <jabba.laci@gmail.com>",
+  "description": "A cross-platform Nim library for reading/writing text from/to the clipboard",
+  "license": "MIT",
+  "nim": "2.2.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@979d01a1a25225185217a7817c60af258880948b",
+      "r": [
+        "winim >= 3.9.4"
+      ]
+    },
+    {
+      "v": "#head@842e0863f3d418e79aef44ed4b8aa205792d0cc9",
+      "r": [
+        "winim >= 3.9.4"
+      ],
+      "a": "Laszlo Szathmary <jabba.laci@gmail.com>",
+      "d": "A cross-platform Nim library for reading/writing text from/to the clipboard",
+      "l": "MIT",
+      "s": "src",
+      "m": "2.2.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:46:42Z",
+  "allDeps": {
+    "packages": [
+      "winim"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

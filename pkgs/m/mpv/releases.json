@@ -1,0 +1,56 @@
+{
+  "cv": 17,
+  "name": "mpv",
+  "fqn": "nim-mpv.WeebNetsu.github.com",
+  "head": "386a342f48ec89a2c38637d827bb92b83aebae11",
+  "author": "WeebNetsu",
+  "description": "Nim bindings for libmpv",
+  "license": "MIT",
+  "nim": "2.2.4",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.3.0@386a342f48ec89a2c38637d827bb92b83aebae11^",
+      "r": [
+        "nimterop >= 0.6.13",
+        "ncurses >= 1.0.2"
+      ]
+    },
+    {
+      "v": "#head@386a342f48ec89a2c38637d827bb92b83aebae11",
+      "r": [
+        "nimterop >= 0.6.13",
+        "ncurses >= 1.0.2"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:47:43Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.3.0"
+    ],
+    "tagVersions": {
+      "v0.3.0": "0.3.0"
+    },
+    "latest": "v0.3.0"
+  },
+  "allDeps": {
+    "packages": [
+      "cligen",
+      "graphemes",
+      "ncurses",
+      "nimterop",
+      "regex",
+      "segmentation",
+      "unicodedb",
+      "unicodeplus"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

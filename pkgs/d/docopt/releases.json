@@ -1,0 +1,122 @@
+{
+  "cv": 17,
+  "name": "docopt",
+  "fqn": "docopt.nim.docopt.github.com",
+  "head": "efaa112b6df172a9168c4eb581ab8dda1fbcfe2a",
+  "author": "Oleh Prypin",
+  "description": "Command line option parser that will make you smile",
+  "license": "MIT",
+  "nim": "0.20.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.7.1@efaa112b6df172a9168c4eb581ab8dda1fbcfe2a^",
+      "r": [
+        "regex >= 0.11.1"
+      ]
+    },
+    {
+      "v": "0.7.0@17803d1205f9e752cce03a66b0a29b710520398e",
+      "r": [
+        "regex >= 0.11.1"
+      ]
+    },
+    {
+      "v": "0.6.8@65da8739a7534b8d78249a90778e1b38d4bdcf5c",
+      "r": [
+        "regex >= 0.7.4"
+      ],
+      "m": "0.15.0"
+    },
+    {
+      "v": "0.6.7@4734b166068bfee783aea99f1afc8944144fc5ef",
+      "r": [],
+      "m": "0.15.0"
+    },
+    {
+      "v": "0.6.6@cf6db16bac861ca53941d05688daa953a1b764ad",
+      "r": [],
+      "m": "0.15.0"
+    },
+    {
+      "v": "0.6.5@8357781247101cd7a00735c0816bd0e1320e2a17",
+      "r": [],
+      "m": "0.15.0",
+      "s": ""
+    },
+    {
+      "v": "0.6.4@b541dee4e72780466b778e5df1ebf8d55f212199",
+      "r": [],
+      "m": "0.14.0",
+      "s": ""
+    },
+    {
+      "v": "0.6.3@a9d6b6f85fd4f0120bca6ebeb8aa68b1d7bde0b4",
+      "r": [],
+      "m": "0.14.0",
+      "s": ""
+    },
+    {
+      "v": "0.6.2@bf2124533a36eadf3999c1ad6a2d8300114f5198",
+      "r": [],
+      "m": "0.11.3",
+      "s": ""
+    },
+    {
+      "v": "0.6.1@c9b424777d87fe5c47a0f8fc1e2762dfd2ba0ced",
+      "r": [],
+      "m": "0.10.0",
+      "s": ""
+    },
+    {
+      "v": "0.6.0@ffd0651fce6f2c4232be44b8fc84819c8072cfa9",
+      "r": [],
+      "m": "0.10.0",
+      "s": ""
+    },
+    {
+      "v": "#head@efaa112b6df172a9168c4eb581ab8dda1fbcfe2a",
+      "r": [
+        "regex >= 0.11.1"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:10Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.6.0",
+      "v0.6.1",
+      "v0.6.2",
+      "v0.6.4",
+      "v0.6.5",
+      "v0.6.6",
+      "v0.6.7"
+    ],
+    "tagVersions": {
+      "v0.6.0": "0.6.0",
+      "v0.6.1": "0.6.1",
+      "v0.6.2": "0.6.2",
+      "v0.6.4": "0.6.4",
+      "v0.6.5": "0.6.5",
+      "v0.6.6": "0.6.6",
+      "v0.6.7": "0.6.7"
+    },
+    "latest": "v0.6.7"
+  },
+  "allDeps": {
+    "packages": [
+      "graphemes > 0.6.7",
+      "regex > 0.6.7",
+      "segmentation > 0.6.7",
+      "unicodedb > 0.6.7",
+      "unicodeplus > 0.6.7"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

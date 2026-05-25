@@ -1,0 +1,47 @@
+{
+  "cv": 17,
+  "name": "sound",
+  "fqn": "sound.yglukhov.github.com",
+  "head": "6656ab2164401699944eb70259d35106c27b0b4a",
+  "author": "Anonymous",
+  "description": "Cross-platform sound mixer",
+  "license": "MIT",
+  "releases": [
+    {
+      "v": "0.1.0@068a174c2b704f53c46427ac14e321c8231b3ffe",
+      "r": []
+    },
+    {
+      "v": "#head@6656ab2164401699944eb70259d35106c27b0b4a",
+      "r": [
+        "jnim",
+        "gh:yglukhov/async_http_request",
+        "jsbind",
+        "gh:yglukhov/android"
+      ],
+      "a": "Yuriy Glukhov",
+      "d": "Cross-platform sound mixer",
+      "l": "MIT",
+      "m": "0.10.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:02Z",
+  "allDeps": {
+    "packages": [
+      "classy",
+      "jnim",
+      "jsbind",
+      "nimboost",
+      "nimfp",
+      "patty",
+      "wasmrt",
+      "zippy"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:yglukhov/android",
+      "gh:yglukhov/async_http_request"
+    ]
+  }
+}

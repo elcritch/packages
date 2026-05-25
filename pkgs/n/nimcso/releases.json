@@ -1,0 +1,240 @@
+{
+  "cv": 17,
+  "name": "nimcso",
+  "fqn": "nimcso.amkrajewski.github.com",
+  "head": "6c6a344e06985aece794a2e415cca9850de9ed50",
+  "author": "Adam M. Krajewski",
+  "description": "NIM Composition Space Optimization",
+  "license": "MIT",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.6.6@1cc89cc90a3035b8dc2353d45ed04a34dc4f5260",
+      "r": [
+        "nimcuda >= 0.1.4 & <= 0.1.9",
+        "arraymancer >= 0.7.3 & <= 0.7.32",
+        "yaml >= 2.0.0"
+      ]
+    },
+    {
+      "v": "0.6.5@68b7c70c148945c61ff2f5b5787217def8409faa",
+      "r": [
+        "arraymancer >= 0.7.3",
+        "yaml >= 2.0.0"
+      ]
+    },
+    {
+      "v": "0.6.4@77b070efeb67be2fb9f48186bfd262a6790568a1",
+      "r": [
+        "arraymancer >= 0.7.3",
+        "yaml >= 2.0.0"
+      ]
+    },
+    {
+      "v": "0.6.3@acb6cce096a262f2813677f00b9493d722ede37e",
+      "r": [
+        "arraymancer >= 0.7.3",
+        "yaml >= 2.0.0"
+      ]
+    },
+    {
+      "v": "0.6.2@7ab8ebff362ef70be30d94e3d7187b1788033619",
+      "r": [
+        "arraymancer >= 0.7.3",
+        "yaml >= 2.0.0"
+      ]
+    },
+    {
+      "v": "0.6.1@42e05e062300eda5fcc57eccf1b66c36775c473b",
+      "r": [
+        "arraymancer >= 0.7.3",
+        "yaml >= 2.0.0"
+      ]
+    },
+    {
+      "v": "0.6.0@23624938b29a0ee1fd81898d6a67f42234c4a405",
+      "r": [
+        "arraymancer >= 0.7.3",
+        "yaml >= 2.0.0"
+      ]
+    },
+    {
+      "v": "0.5.1@db6674f28c970b5691ffaaef375d42abcce074cc",
+      "r": [
+        "arraymancer >= 0.7.3",
+        "yaml >= 2.0.0"
+      ]
+    },
+    {
+      "v": "0.5.0@f5331481ac745694c6ba698a919a84582eba35db",
+      "r": [
+        "arraymancer >= 0.7.3",
+        "yaml >= 2.0.0"
+      ]
+    },
+    {
+      "v": "0.4.1@f7bc3c0e481a91307367e9de82b602568c212176",
+      "r": [
+        "arraymancer >= 0.7.3",
+        "yaml >= 2.0.0"
+      ]
+    },
+    {
+      "v": "0.4.0@67c08b4872d6777bafda464a83a1804a1b5310a4",
+      "r": [
+        "arraymancer >= 0.7.3",
+        "yaml >= 2.0.0"
+      ]
+    },
+    {
+      "v": "0.3.1@cf48f4f67a10fb6fdd6f721e710a9c45a3baaaa6",
+      "r": [
+        "arraymancer >= 0.7.3",
+        "yaml >= 2.0.0"
+      ],
+      "s": ""
+    },
+    {
+      "v": "0.3.0@c6219a5162f1d510266ca3b1b76462dd11417ae2",
+      "r": [
+        "arraymancer >= 0.7.3",
+        "yaml >= 2.0.0"
+      ],
+      "s": ""
+    },
+    {
+      "v": "0.2.1@032536c5a13f1753fa977fe2ee23f062b852b343",
+      "r": [
+        "arraymancer >= 0.7.3",
+        "yaml >= 2.0.0"
+      ],
+      "s": ""
+    },
+    {
+      "v": "0.2.0@01a28a591c0e3074d8e02e9e92d7959dcc29b160",
+      "r": [
+        "arraymancer >= 0.7.3",
+        "yaml >= 2.0.0"
+      ],
+      "s": ""
+    },
+    {
+      "v": "0.1.4@e6a0e8c0caed71804eb0737b11463cd75178e9e3",
+      "r": [
+        "arraymancer >= 0.7.3",
+        "bitty >= 0.1.4",
+        "yaml >= 2.0.0"
+      ],
+      "s": ""
+    },
+    {
+      "v": "0.1.3@8a80bf14472b5aff844d93b64ffcc0943fa78bcd",
+      "r": [
+        "arraymancer >= 0.7.3",
+        "bitty >= 0.1.4"
+      ],
+      "s": ""
+    },
+    {
+      "v": "0.1.1@603ba8cb33e338ea263de71afa66e6b3aabf2b0a",
+      "r": [
+        "arraymancer >= 0.7.3",
+        "bitty >= 0.1.4"
+      ],
+      "m": "1.0.0",
+      "s": ""
+    },
+    {
+      "v": "0.1.0@47927b45ce82a72bc924fb53d032a500391f8fd2",
+      "r": [
+        "arraymancer >= 0.7.3",
+        "bitty >= 0.1.4"
+      ],
+      "m": "1.0.0",
+      "s": ""
+    },
+    {
+      "v": "#head@6c6a344e06985aece794a2e415cca9850de9ed50",
+      "r": [
+        "nimcuda >= 0.1.4 & <= 0.1.9",
+        "arraymancer >= 0.7.3 & <= 0.7.32",
+        "yaml >= 2.0.0"
+      ],
+      "a": "Adam M. Krajewski",
+      "d": "NIM Composition Space Optimization",
+      "l": "MIT",
+      "s": "src",
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:48:38Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.0",
+      "v0.1.1",
+      "v0.1.3",
+      "v0.1.4",
+      "v0.2.0",
+      "v0.2.1",
+      "v0.3.0",
+      "v0.3.1",
+      "v0.4.0",
+      "v0.4.1",
+      "v0.5.0",
+      "v0.5.1",
+      "v0.6.0",
+      "v0.6.1",
+      "v0.6.2",
+      "v0.6.3",
+      "v0.6.4",
+      "v0.6.5",
+      "v0.6.6"
+    ],
+    "tagVersions": {
+      "v0.1.0": "0.1.0",
+      "v0.1.1": "0.1.1",
+      "v0.1.3": "0.1.3",
+      "v0.1.4": "0.1.4",
+      "v0.2.0": "0.2.0",
+      "v0.2.1": "0.2.1",
+      "v0.3.0": "0.3.0",
+      "v0.3.1": "0.3.1",
+      "v0.4.0": "0.4.0",
+      "v0.4.1": "0.4.1",
+      "v0.5.0": "0.5.0",
+      "v0.5.1": "0.5.1",
+      "v0.6.0": "0.6.0",
+      "v0.6.1": "0.6.1",
+      "v0.6.2": "0.6.2",
+      "v0.6.3": "0.6.3",
+      "v0.6.4": "0.6.4",
+      "v0.6.5": "0.6.5",
+      "v0.6.6": "0.6.6"
+    },
+    "latest": "v0.6.6"
+  },
+  "allDeps": {
+    "packages": [
+      "arraymancer",
+      "bitty <= 0.1.4",
+      "clblast",
+      "nimblas",
+      "nimcl",
+      "nimcuda",
+      "nimlapack",
+      "opencl",
+      "stb_image",
+      "untar",
+      "yaml > 0.1.3",
+      "zip"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

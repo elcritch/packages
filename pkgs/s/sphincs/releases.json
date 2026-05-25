@@ -1,0 +1,32 @@
+{
+  "cv": 17,
+  "name": "sphincs",
+  "fqn": "nim_sphincs.~ehmry.git.sr.ht",
+  "head": "6a66c7b1c63553fddf3293b7072833a3d6ebb7df",
+  "author": "Emery Hemingway",
+  "description": "SPHINCS⁺ stateless hash-based signature scheme",
+  "license": "MIT",
+  "nim": "0.17.3",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.1@6a66c7b1c63553fddf3293b7072833a3d6ebb7df^",
+      "r": []
+    },
+    {
+      "v": "0.1.0@036bfb8373f063d0dcd920ee4afefcb23107431c",
+      "r": []
+    },
+    {
+      "v": "#head@6a66c7b1c63553fddf3293b7072833a3d6ebb7df",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:07Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

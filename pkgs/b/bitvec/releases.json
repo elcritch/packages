@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "bitvec",
+  "fqn": "nim_bitvec.keyme.github.com",
+  "head": "6d01fd9d68f8544d09173a519b632dfe61e5b8ee",
+  "author": "Jeff Ciesielski",
+  "description": "Extensible Bit Vector library for nim",
+  "license": "MIT",
+  "nim": "0.18.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@f7581097d93841540769a80a4d3c8b1a8ade297f",
+      "r": []
+    },
+    {
+      "v": "#head@6d01fd9d68f8544d09173a519b632dfe61e5b8ee",
+      "r": [],
+      "a": "Jeff Ciesielski",
+      "d": "Extensible Bit Vector library for nim",
+      "l": "MIT",
+      "s": "src",
+      "m": "0.18.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:42:45Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "cv": 17,
+  "name": "feta",
+  "fqn": "office-DSL-thesis.FlorianRauls.github.com",
+  "head": "8abbd3481168609a0e0e3b0cdd8c12fdaa5bd654",
+  "author": "Florian Rauls",
+  "description": "A domain-specific language for general purpose office automation. The language is embedded in Nim and allows for quick and easy integration of different office software environments.",
+  "license": "MIT",
+  "nim": "1.4.0",
+  "installDirs": [
+    "feta"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@1a8d65684cbb167ea0fc5ac63f0ec6367b162a1b",
+      "r": [
+        "mime >= 0.0.3",
+        "jester >= 0.5.0",
+        "googleapi",
+        "ws"
+      ]
+    },
+    {
+      "v": "0.0.17@ec07a044fd11a17b067bb466200dac06c0fb2db2",
+      "r": [
+        "mime >= 0.0.3",
+        "jester >= 0.5.0",
+        "googleapi",
+        "ws"
+      ]
+    },
+    {
+      "v": "0.0.16@950cca87a197512821bd7dce0b30e5bea460eb0d",
+      "r": [
+        "mime >= 0.0.3",
+        "jester >= 0.5.0",
+        "googleapi",
+        "ws"
+      ]
+    },
+    {
+      "v": "0.0.15@1c880192becb294d475950dd6d44a7f7fdd0e624",
+      "r": [
+        "mime >= 0.0.3",
+        "jester >= 0.5.0",
+        "googleapi",
+        "ws"
+      ]
+    },
+    {
+      "v": "0.0.14@8b929aa55f95dfc47d9d3bec6ecc7df834e03b6a",
+      "r": [
+        "mime >= 0.0.3",
+        "jester >= 0.5.0",
+        "googleapi",
+        "ws"
+      ]
+    },
+    {
+      "v": "0.0.13@6f62203428621bb167075c19092ba79777b8629e",
+      "r": [
+        "mime >= 0.0.3",
+        "jester >= 0.5.0",
+        "googleapi",
+        "ws"
+      ]
+    },
+    {
+      "v": "0.0.12@0383c0c9963b23228657ce8fe5d217e92a0cae9e",
+      "r": [
+        "mime >= 0.0.3",
+        "jester >= 0.5.0",
+        "googleapi",
+        "ws"
+      ]
+    },
+    {
+      "v": "0.0.11@0567d9f0a9b4debd1f8ad7b68e060f6cde283244",
+      "r": [
+        "mime >= 0.0.3",
+        "jester >= 0.5.0",
+        "googleapi",
+        "ws"
+      ]
+    },
+    {
+      "v": "0.0.9@a56e97f6c4ea04c19530b542c33dac1e7a3d4d7f",
+      "r": [
+        "mime >= 0.0.3",
+        "jester >= 0.5.0",
+        "googleapi",
+        "ws"
+      ],
+      "m": "1.2.0"
+    },
+    {
+      "v": "0.0.8@11d7e9756abfa03ca428f777f7e163fbba4b0b49",
+      "r": [
+        "mime >= 0.0.3",
+        "jester >= 0.5.0"
+      ],
+      "m": "1.2.0"
+    },
+    {
+      "v": "0.0.7@1f688f0a268c4cedc9e10f2a15d1d671c93623f7",
+      "r": [
+        "mime >= 0.0.3",
+        "jester >= 0.5.0"
+      ],
+      "d": "A domain-specific for general purpose office automation. The language is embedded in Nim and allows for quick and easy integration of different office software environments.",
+      "m": "1.2.0"
+    },
+    {
+      "v": "0.0.6@e069f5b20568430ece70c51d7ff6b3516872f9e2",
+      "r": [
+        "mime >= 0.0.3",
+        "jester >= 0.5.0"
+      ],
+      "d": "A domain-specific for general purpose office automation. The language is embedded in Nim and allows for quick and easy integration of different office software environments.",
+      "m": "1.2.0"
+    },
+    {
+      "v": "0.0.5@820a7d1a42861a8ba25cd7414dbf68971f2a602b",
+      "r": [
+        "mime >= 0.0.3",
+        "jester >= 0.5.0"
+      ],
+      "d": "A domain-specific for general purpose office automation. The language is embedded in Nim and allows for quick and easy integration of different office software environments.",
+      "m": "1.2.0"
+    },
+    {
+      "v": "0.0.4@6de23e2f3f1d40796fe0e15326a1d3f33073378c",
+      "r": [
+        "mime >= 0.0.3",
+        "jester >= 0.5.0"
+      ],
+      "d": "A domain-specific for general purpose office automation. The language is embedded in Nim and allows for quick and easy integration of different office software environments.",
+      "m": "1.2.0"
+    },
+    {
+      "v": "0.0.2@04f86cc46ceb6624534fb98fc84e2453fee2fede",
+      "r": [
+        "mime >= 0.0.3",
+        "jester >= 0.5.0"
+      ],
+      "d": "A domain-specific for general purpose office automation. The language is embedded in Nim and allows for quick and easy integration of different office software environments.",
+      "m": "1.2.0"
+    },
+    {
+      "v": "#head@8abbd3481168609a0e0e3b0cdd8c12fdaa5bd654",
+      "r": [
+        "mime >= 0.0.3",
+        "jester >= 0.5.0",
+        "googleapi",
+        "ws"
+      ],
+      "a": "Florian Rauls",
+      "d": "A domain-specific language for general purpose office automation. The language is embedded in Nim and allows for quick and easy integration of different office software environments.",
+      "l": "MIT",
+      "i": [
+        "feta"
+      ],
+      "m": "1.4.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:39Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.0.0",
+      "0.0.11",
+      "0.0.12",
+      "0.0.13",
+      "0.0.14",
+      "0.0.15",
+      "0.0.16",
+      "0.0.17",
+      "0.0.2",
+      "0.0.3",
+      "0.0.4",
+      "0.0.5",
+      "0.0.6",
+      "0.0.7",
+      "0.0.8",
+      "0.0.9",
+      "0.1.0"
+    ],
+    "latest": "0.1.0",
+    "prerelease": [
+      "0.0.11",
+      "0.0.13",
+      "0.0.14",
+      "0.0.15",
+      "0.0.16",
+      "0.0.17",
+      "0.0.2",
+      "0.0.3",
+      "0.0.4",
+      "0.0.5",
+      "0.0.6",
+      "0.0.7",
+      "0.0.8"
+    ]
+  },
+  "allDeps": {
+    "packages": [
+      "asynctools",
+      "bearssl > 0.0.8",
+      "googleapi > 0.0.8",
+      "httpbeast",
+      "jester",
+      "jwt > 0.0.8",
+      "mime",
+      "quickjwt > 0.0.8",
+      "smtp",
+      "unittest2 > 0.0.8",
+      "ws > 0.0.8"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:iffy/asynctools",
+      "gh:timotheecour/asynctools",
+      "gh:yglukhov/bearssl_pkey_decoder",
+      "gh:yglukhov/linktools"
+    ]
+  }
+}

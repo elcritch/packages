@@ -1,0 +1,108 @@
+{
+  "cv": 17,
+  "name": "stb_image",
+  "fqn": "stb_image-Nim.define-private-public.gitlab.com",
+  "head": "ba5f45286bfa9bed93d8d6b941949cd6218ec888",
+  "author": "Benjamin N. Summerton <define-private-public>",
+  "description": "A wrapper for stb_image (including stb_image_write & zlib client).",
+  "license": "Unlicense (Public Domain)",
+  "nim": "0.15.0",
+  "skipDirs": [
+    "testdata"
+  ],
+  "skipFiles": [
+    "tests.nim"
+  ],
+  "releases": [
+    {
+      "v": "2.5@43e38206ba49c97e61cd0796f812cd4e6784ed02",
+      "r": []
+    },
+    {
+      "v": "2.4@4d5a1fee39bb13982e06d99d0fa5d1b338bbb62a",
+      "r": []
+    },
+    {
+      "v": "2.3@ab673de4fac26c385b14d51f43079d62e2503b7c",
+      "r": []
+    },
+    {
+      "v": "2.2@b4a05f3f1868e50eb74e8f4aa24c042993fe1df8",
+      "r": []
+    },
+    {
+      "v": "2.1@25b50a6601cc9739b691522cb1665833e5809ab2",
+      "r": []
+    },
+    {
+      "v": "2.0@aafff2be31a596d660e476ef90134f61acf04ccd",
+      "r": [],
+      "d": "A wrapper for stb_image (including stb_image_write)."
+    },
+    {
+      "v": "1.6@61d11ccc8305df141b45a92edcf08b03319cb532",
+      "r": [],
+      "d": "A wrapper for stb_image (including stb_image_write).",
+      "y": [
+        "nakefile.nim",
+        "tests.nim"
+      ]
+    },
+    {
+      "v": "1.4@f8482102aab32713603286f5728d5dc9680b875a",
+      "r": [],
+      "d": "A wrapper for stb_image (including stb_image_write).",
+      "y": [
+        "nakefile.nim",
+        "tests.nim"
+      ]
+    },
+    {
+      "v": "1.3@7c7042b9a3fb074be1cd2a7a9828896cfa33b794",
+      "r": [],
+      "d": "A wrapper for stb_image (including stb_image_write).",
+      "y": [
+        "nakefile.nim",
+        "tests.nim"
+      ]
+    },
+    {
+      "v": "1.2@42447224e0789985a61c5519190acb6d662932c0",
+      "r": [],
+      "d": "A wrapper for stb_image (including stb_image_write).",
+      "y": [
+        "nakefile.nim",
+        "tests.nim"
+      ]
+    },
+    {
+      "v": "1.1@637c5804bc1e952a4d88d1cfe56e1ef452e05b6c",
+      "r": [],
+      "d": "A wrapper for stb_image (including stb_image_write).",
+      "m": "~",
+      "x": [],
+      "y": []
+    },
+    {
+      "v": "#head@ba5f45286bfa9bed93d8d6b941949cd6218ec888",
+      "r": [],
+      "a": "Benjamin N. Summerton <define-private-public>",
+      "d": "A wrapper for stb_image (including stb_image_write & zlib client).",
+      "l": "Unlicense (Public Domain)",
+      "x": [
+        "testdata"
+      ],
+      "y": [
+        "tests.nim"
+      ],
+      "m": "0.15.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:16Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

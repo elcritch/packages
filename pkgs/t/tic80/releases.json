@@ -1,0 +1,35 @@
+{
+  "cv": 17,
+  "name": "tic80",
+  "fqn": "tic80.thisago.github.com",
+  "head": "ff808fa8c44d93cef3eb62ca21ec87419a21dfef",
+  "author": "Thiago Navarro",
+  "description": "TIC-80 bindings",
+  "license": "MIT",
+  "nim": "1.5.1",
+  "srcDir": "src",
+  "backend": "js",
+  "releases": [
+    {
+      "v": "0.1.0@8fb2f73d42a2bd90e60c504e24cf8c29cefbaa91",
+      "r": []
+    },
+    {
+      "v": "#head@ff808fa8c44d93cef3eb62ca21ec87419a21dfef",
+      "r": [],
+      "a": "Thiago Navarro",
+      "d": "TIC-80 bindings",
+      "l": "MIT",
+      "s": "src",
+      "e": "js",
+      "m": "1.5.1"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:51Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

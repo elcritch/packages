@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "AccurateSums",
+  "fqn": "accuratesums.lbartoletti.gitlab.com",
+  "head": "814fe8871e7fc049079fe1ab0885bbb0b0608839",
+  "author": "lbartoletti",
+  "description": "Accurate Floating Point Sums and Products",
+  "license": "MIT",
+  "nim": "1.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.0.1@01661b6a7884decc8e2b854eac80f4e6a16a8c39",
+      "r": []
+    },
+    {
+      "v": "#head@814fe8871e7fc049079fe1ab0885bbb0b0608839",
+      "r": [],
+      "a": "lbartoletti",
+      "d": "Accurate Floating Point Sums and Products",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:41:30Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "cv": 17,
+  "name": "assimp",
+  "fqn": "nim-assimp.barcharcraz.github.com",
+  "head": "0f6c4ad3a312b43defa3fa6a825a0f5d8003e03b",
+  "releases": [
+    {
+      "v": "~@0f6c4ad3a312b43defa3fa6a825a0f5d8003e03b",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    },
+    {
+      "v": "#head@0f6c4ad3a312b43defa3fa6a825a0f5d8003e03b",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:42:05Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

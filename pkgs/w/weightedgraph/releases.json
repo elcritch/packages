@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "weightedgraph",
+  "fqn": "weighted_graph.AzamShafiul.github.com",
+  "head": "5c028550e1acfa9bea264a22941698210364a2ca",
+  "author": "AzamShafiul",
+  "description": "Weighted Graph Libary",
+  "license": "MIT",
+  "nim": "1.0.6",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@7c17d08ce4f492f9000d011bd582fc86abe83d50",
+      "r": []
+    },
+    {
+      "v": "#head@5c028550e1acfa9bea264a22941698210364a2ca",
+      "r": [],
+      "a": "AzamShafiul",
+      "d": "Weighted Graph Libary",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.0.6"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:53:52Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "cv": 17,
+  "name": "genny",
+  "fqn": "genny.treeform.github.com",
+  "head": "81d9659dfa1e11349336ee6f291a8ad083e44fd9",
+  "author": "Andre von Houck and Ryan Oldenburg",
+  "description": "Generate a shared library and bindings for many languages.",
+  "license": "MIT",
+  "nim": "1.4.8",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.1@51ad022440fad02419a4f2901276c549352ae380",
+      "r": []
+    },
+    {
+      "v": "0.1.0@a855a2b21e46e8dae4878238ddf65f1025c8b947",
+      "r": []
+    },
+    {
+      "v": "#head@81d9659dfa1e11349336ee6f291a8ad083e44fd9",
+      "r": [],
+      "a": "Andre von Houck and Ryan Oldenburg",
+      "d": "Generate a shared library and bindings for many languages.",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.4.8"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:09Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.1.0",
+      "0.1.1"
+    ],
+    "latest": "0.1.1"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

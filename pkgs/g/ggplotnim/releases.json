@@ -1,0 +1,979 @@
+{
+  "cv": 17,
+  "name": "ggplotnim",
+  "fqn": "ggplotnim.Vindaar.github.com",
+  "head": "36ea228a139fd26a41b1587133cbbfb045f1028b",
+  "author": "Sebastian Schmidt",
+  "description": "A port of ggplot2 for Nim",
+  "license": "MIT",
+  "nim": "1.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.7.6@36ea228a139fd26a41b1587133cbbfb045f1028b^",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.16",
+        "ginger 0.6.2",
+        "datamancer >= 0.5.1",
+        "arraymancer >= 0.7.22",
+        "shell >= 0.4.3",
+        "gh:Vindaar/webview",
+        "parsetoml",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.7.5@c2163f94b9339b7a7ac9dcbe7b6362c1b1b12ee2",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.16",
+        "ginger 0.6.1",
+        "datamancer >= 0.5.1",
+        "arraymancer >= 0.7.22",
+        "shell >= 0.4.3",
+        "webview",
+        "parsetoml",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.7.4@335adab3eaf8b95f8fddefe5428324422591f531",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.16",
+        "ginger 0.6.1",
+        "datamancer >= 0.5.1",
+        "arraymancer >= 0.7.22",
+        "shell >= 0.4.3",
+        "webview",
+        "parsetoml",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.7.3@3289dcf281a196c63a1a5bd423e741e6a5105d4a",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.16",
+        "ginger 0.6.1",
+        "datamancer >= 0.4.6",
+        "arraymancer >= 0.7.22",
+        "shell >= 0.4.3",
+        "webview",
+        "parsetoml",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.7.2@3f3e5bb40d14e8a43035d71edd09a2e4cb3dbbf4",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.16",
+        "ginger 0.6.1",
+        "datamancer >= 0.4.6",
+        "arraymancer >= 0.7.22",
+        "shell >= 0.4.3",
+        "webview",
+        "parsetoml",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.7.1@dea5bf2ecd375b05d429c8a6ec2132e509d16aed",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.16",
+        "ginger 0.6.1",
+        "datamancer >= 0.4.6",
+        "arraymancer >= 0.7.22",
+        "shell >= 0.4.3",
+        "webview",
+        "parsetoml",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.7.0@db4a39eaa914b44ce452d07b6042e3610c91e0c9",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.16",
+        "ginger 0.6.1",
+        "datamancer >= 0.4.0",
+        "arraymancer >= 0.7.22",
+        "shell >= 0.4.3",
+        "webview",
+        "parsetoml",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.6.3@82a1c8753ab2afd3c84c5c9b016bc3f2061fc047",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.16",
+        "ginger 0.5.3",
+        "datamancer >= 0.3.2",
+        "arraymancer >= 0.7.22",
+        "shell >= 0.4.3",
+        "webview",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.6.2@bd3926f1eddcbf743af44f92d63b0c1b790b9173",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.16",
+        "ginger 0.5.2",
+        "datamancer >= 0.3.2",
+        "arraymancer >= 0.7.22",
+        "shell >= 0.4.3",
+        "webview",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.6.1@efd9a12a11e5017331a3f4f890d6816ca6283eb2",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.16",
+        "ginger 0.5.1",
+        "datamancer >= 0.3.2",
+        "arraymancer >= 0.7.22",
+        "shell >= 0.4.3",
+        "webview",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.6.0@a64ec367c74088849e7b3f36d33477e238eb0545",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.16",
+        "ginger 0.5.1",
+        "datamancer >= 0.3.2",
+        "arraymancer >= 0.7.22",
+        "shell >= 0.4.3",
+        "webview",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.5.13@0bffe3bbebae3f19b2bc78139864971af40a5bf8",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.16",
+        "ginger 0.4.3",
+        "datamancer >= 0.3.2",
+        "arraymancer >= 0.7.22",
+        "shell >= 0.4.3",
+        "webview",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.5.12@6e2fb06a4e9f27deb5c82db370535300d867b049",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.16",
+        "ginger 0.4.3",
+        "datamancer >= 0.3.2",
+        "arraymancer >= 0.7.22",
+        "shell >= 0.4.3",
+        "webview",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.5.11@09ecdc8d945a19b4987b95fdb8ba44911c84115d",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.16",
+        "ginger 0.4.3",
+        "datamancer >= 0.3.2",
+        "arraymancer >= 0.7.22",
+        "shell >= 0.4.3",
+        "webview",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.5.10@40ca5bb2baa38f86c29389dd0ab1c27c1e76dd96",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.16",
+        "ginger 0.4.3",
+        "datamancer >= 0.3.2",
+        "arraymancer >= 0.7.22",
+        "shell >= 0.4.3",
+        "webview",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.5.9@d55be85182a0ee15ded55a04b686ea95ed27fd74",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.16",
+        "ginger 0.3.13",
+        "datamancer >= 0.3.2",
+        "arraymancer >= 0.7.5",
+        "shell >= 0.4.3",
+        "webview",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.5.8@e2593b6eb57534feee554c24f1d6bb5b849cdd39",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.15",
+        "ginger 0.3.13",
+        "datamancer >= 0.3.2",
+        "arraymancer >= 0.7.5",
+        "shell >= 0.4.3",
+        "webview",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.5.7@afa2023a7b788773fd5a730cb4eb8cb11153d07b",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.15",
+        "ginger 0.3.13",
+        "datamancer >= 0.3.2",
+        "arraymancer >= 0.7.5",
+        "shell >= 0.4.3",
+        "webview",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.5.6@6e0d6c320725e2a5a8c753663e9d0176eb0665cd",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.15",
+        "ginger 0.3.13",
+        "datamancer >= 0.3.2",
+        "arraymancer >= 0.7.5",
+        "shell >= 0.4.3",
+        "webview",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.5.5@407f5d0f617c6e510c1147f3f9d401bcd8b78149",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.15",
+        "ginger 0.3.13",
+        "datamancer >= 0.3.2",
+        "arraymancer >= 0.7.5",
+        "shell >= 0.4.3",
+        "webview",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.5.4@b1a653b19881edfde5c87db91173c097a6a36dce",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.15",
+        "ginger 0.3.13",
+        "datamancer >= 0.3.2",
+        "arraymancer >= 0.7.5",
+        "shell >= 0.4.3",
+        "webview",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.5.3@82b2e88a07d452bbaec5b68fcaea82c6d7ca76d8",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.15",
+        "ginger 0.3.13",
+        "datamancer >= 0.3.2",
+        "arraymancer >= 0.7.5",
+        "shell >= 0.4.3",
+        "webview",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.5.2@04de6b66a7d9f458d0548162fe22fdf5ff99607c",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.15",
+        "ginger 0.3.13",
+        "datamancer >= 0.2.0",
+        "arraymancer >= 0.7.5",
+        "shell >= 0.4.3",
+        "webview",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.5.1@8e99ebbfa6b8b00206f43410c05e3fd4a3d54727",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.11",
+        "ginger 0.3.10",
+        "datamancer >= 0.2.0",
+        "arraymancer >= 0.7.5",
+        "shell >= 0.4.3",
+        "webview",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.5.0@db54774d0229b8a5c1b87bdc4c30aaea3ebcf551",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.11",
+        "ginger 0.3.10",
+        "datamancer >= 0.2.0",
+        "arraymancer >= 0.7.5",
+        "shell >= 0.4.3",
+        "webview",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.4.11@6c00d70cc69437e9b5d61e53e3a63a438fb9bf6b",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.11",
+        "ginger 0.3.10",
+        "datamancer >= 0.1.11",
+        "arraymancer >= 0.7.5",
+        "shell >= 0.4.3",
+        "webview",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.4.10@50b3404174dd5ad2005c9a10fbabb87bf662cb59",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.11",
+        "ginger 0.3.10",
+        "datamancer >= 0.1.7",
+        "arraymancer >= 0.7.5",
+        "shell >= 0.4.3",
+        "webview",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.4.9@87383c3bd00832806bcc581658756c8293930afd",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.11",
+        "ginger 0.3.8",
+        "datamancer >= 0.1.7",
+        "arraymancer >= 0.7.5",
+        "shell >= 0.4.3",
+        "webview",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.4.8@93c292961d7a8dc3d35e8ae84ea70072f02a5976",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.11",
+        "ginger 0.3.6",
+        "datamancer >= 0.1.7",
+        "arraymancer >= 0.7.5",
+        "shell >= 0.4.3",
+        "webview",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.4.7@4afac9d0457cfd11c719b2e24e02ee2613b8f16a",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.11",
+        "ginger 0.3.5",
+        "datamancer >= 0.1.7",
+        "arraymancer >= 0.7.5",
+        "shell >= 0.4.3",
+        "webview",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.4.6@e1c36b44a758be49924c4c133f01682a3e23187b",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.11",
+        "ginger 0.3.5",
+        "datamancer >= 0.1.7",
+        "arraymancer >= 0.7.5",
+        "shell >= 0.4.3",
+        "webview",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.4.5@7d0344d3eba934b7169838dcd9b3f1cf579fd064",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.11",
+        "ginger 0.3.5",
+        "datamancer >= 0.1.7",
+        "arraymancer >= 0.7.5",
+        "shell >= 0.4.3",
+        "webview",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.4.3@fed986c1a2644061bd35b780f5efe84f6e086d6a",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.11",
+        "ginger >= 0.2.11",
+        "datamancer >= 0.1.7",
+        "shell >= 0.4.3",
+        "webview"
+      ]
+    },
+    {
+      "v": "0.4.2@0494e09aa7561170557729984b75378b1e6cc7e6",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.11",
+        "ginger >= 0.2.10",
+        "datamancer >= 0.1.0",
+        "shell >= 0.4.3",
+        "webview"
+      ]
+    },
+    {
+      "v": "0.4.1@31527ab6f1c53bf6d3b0a93f3c1aa02a45b66f61",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.11",
+        "ginger >= 0.2.10",
+        "datamancer >= 0.1.0",
+        "shell >= 0.4.3",
+        "webview"
+      ]
+    },
+    {
+      "v": "0.4.0@fe272113d916691b7b510de0c3238db462ae87f1",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.11",
+        "ginger >= 0.2.10",
+        "datamancer >= 0.1.0",
+        "shell >= 0.4.3",
+        "webview"
+      ]
+    },
+    {
+      "v": "0.3.26@eb54155dc2aade907545584ed42f846968fa11f8",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.11",
+        "ginger >= 0.2.10",
+        "shell >= 0.4.3",
+        "arraymancer >= 0.6.2",
+        "webview"
+      ]
+    },
+    {
+      "v": "0.3.25@2da0d362b5db98329c4842053775fbbc0fc5aae7",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.11",
+        "ginger >= 0.2.10",
+        "persvector >= 1.0.0",
+        "shell >= 0.4.3",
+        "arraymancer >= 0.6.2",
+        "webview"
+      ]
+    },
+    {
+      "v": "0.3.24@6af659d64da255562a3f1989c15db24e5850e46b",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.11",
+        "ginger >= 0.2.10",
+        "persvector >= 1.0.0",
+        "shell >= 0.4.3",
+        "arraymancer >= 0.6.2",
+        "webview"
+      ]
+    },
+    {
+      "v": "0.3.22@5857acbd7961fde426bfe84479a857787bf4311e",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.11",
+        "ginger >= 0.2.8",
+        "persvector >= 1.0.0",
+        "shell >= 0.4.3",
+        "arraymancer >= 0.6.2",
+        "webview"
+      ]
+    },
+    {
+      "v": "0.3.21@a6864d85dd8e35095cc0111777aa046e3ad807c3",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.11",
+        "ginger >= 0.2.8",
+        "persvector >= 1.0.0",
+        "shell >= 0.4.3",
+        "arraymancer >= 0.6.2",
+        "webview"
+      ]
+    },
+    {
+      "v": "0.3.20@4cc5cbd746c3938aa39eb481efc7638f69ed2796",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.11",
+        "ginger >= 0.2.7",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2",
+        "arraymancer"
+      ]
+    },
+    {
+      "v": "0.3.18@ec3952880618ed09440b416f00599ac7751c72df",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.11",
+        "ginger >= 0.2.6",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2",
+        "arraymancer"
+      ]
+    },
+    {
+      "v": "0.3.17@e3849e14c58cf989b57b2e58021ab19b731a94be",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.11",
+        "ginger >= 0.2.6",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2",
+        "arraymancer"
+      ]
+    },
+    {
+      "v": "0.3.16@919455ab14944398ae06fdae89b5ab4487c18649",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.11",
+        "ginger >= 0.2.6",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2",
+        "arraymancer"
+      ]
+    },
+    {
+      "v": "0.3.15@cdd248727269ced34de1bb7b2d94ca26658409a9",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.11",
+        "ginger >= 0.2.6",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2",
+        "arraymancer"
+      ]
+    },
+    {
+      "v": "0.3.14@197b1ac0eb0fc2482e7361b787d6c34e43a7c11c",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.11",
+        "ginger >= 0.2.5",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2",
+        "arraymancer"
+      ]
+    },
+    {
+      "v": "0.3.13@78bc3cae4e46dd26c112f88b855bb922f98871fa",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.11",
+        "ginger >= 0.2.5",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2",
+        "arraymancer"
+      ]
+    },
+    {
+      "v": "0.3.12@3e68fe3f8f660d0a2cf2ea274fe256a371587532",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.11",
+        "ginger >= 0.2.5",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2",
+        "arraymancer"
+      ]
+    },
+    {
+      "v": "0.3.11@20bd9f15420860ad8c11c945e77737cecb51347f",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.11",
+        "ginger >= 0.2.5",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2",
+        "arraymancer"
+      ]
+    },
+    {
+      "v": "0.3.10@f09947109a1cd3d7917db4791a7a20265a0e7026",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.11",
+        "ginger >= 0.2.5",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2",
+        "arraymancer"
+      ]
+    },
+    {
+      "v": "0.3.9@7d9ee89f2fc1d0e948f398709f3cbc835228b3c4",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.11",
+        "ginger >= 0.2.5",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2",
+        "arraymancer"
+      ]
+    },
+    {
+      "v": "0.3.8@7a82562314b0e77ff582e8a90a9a4d0c6ef3352c",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.7",
+        "ginger >= 0.2.5",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2",
+        "arraymancer"
+      ]
+    },
+    {
+      "v": "0.3.7@85c35e9823cbf2effd898d16c0937abd16f61b21",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.7",
+        "ginger >= 0.2.4",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2",
+        "arraymancer"
+      ]
+    },
+    {
+      "v": "0.3.6@ac7ebb23833a4a191152b509f14a6e759bec76bd",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.7",
+        "ginger >= 0.2.3",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2",
+        "arraymancer"
+      ]
+    },
+    {
+      "v": "0.3.5@49a36bf0fd28562043796f8018a16a52579f1188",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.7",
+        "ginger >= 0.2.3",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2",
+        "arraymancer"
+      ]
+    },
+    {
+      "v": "0.3.4@856ba4afaf9e3815b31ff3e21f1ffcc993e5dc12",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.7",
+        "ginger >= 0.2.2",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2",
+        "arraymancer"
+      ]
+    },
+    {
+      "v": "0.3.3@5155fbd12a9dce98fe387e1c30482b20ef42e057",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.7",
+        "ginger >= 0.2.2",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2",
+        "arraymancer"
+      ]
+    },
+    {
+      "v": "0.3.2@a431c30e0e336812cdb24dc3607ab4f82e038fae",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.7",
+        "ginger >= 0.2.2",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2",
+        "arraymancer"
+      ]
+    },
+    {
+      "v": "0.3.1@5903804226b77a9cccf9ec5c5dc828031110c265",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.7",
+        "ginger >= 0.2.1",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2",
+        "arraymancer"
+      ]
+    },
+    {
+      "v": "0.3.0@d15c47cbc2d16da849bed86b2c0bdb339320fa6d",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.7",
+        "ginger >= 0.2.1",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2",
+        "arraymancer"
+      ]
+    },
+    {
+      "v": "0.2.20@a92b94203dbba411aa1f3bd9bd8807f69480cba1",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.7",
+        "ginger >= 0.1.17 & < 0.2.0",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2"
+      ]
+    },
+    {
+      "v": "0.2.19@106d2bce7cc73b6048e6ac9ef971a10f17242ad8",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.7",
+        "ginger >= 0.1.15",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2"
+      ]
+    },
+    {
+      "v": "0.2.18@0e5d55fedc8773b2197cfb11f79f2035a364afd9",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.7",
+        "ginger >= 0.1.15",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2"
+      ]
+    },
+    {
+      "v": "0.2.17@82331593dcb413af8bafb4bc997dad16825d7f99",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.7",
+        "ginger >= 0.1.14",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2"
+      ]
+    },
+    {
+      "v": "0.2.16@2df249e1f65d92283347b20cdeb797b213f21e80",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.7",
+        "ginger >= 0.1.14",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2"
+      ]
+    },
+    {
+      "v": "0.2.15@c032f26799d562033112d5c385f1fa5589234454",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.7",
+        "ginger >= 0.1.12",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2"
+      ]
+    },
+    {
+      "v": "0.2.14@e5db4ca8aff65496d381a4ba600b19fbfea97b07",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.3",
+        "ginger >= 0.1.10",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2"
+      ]
+    },
+    {
+      "v": "0.2.13@3ef2b2c9dfc074e9061df56a906fc1608652f5f9",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.3",
+        "ginger >= 0.1.9",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2"
+      ]
+    },
+    {
+      "v": "0.2.12@678541ef947f2429abaff918203cfbd3bdf4f3cf",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.3",
+        "ginger >= 0.1.9",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2"
+      ]
+    },
+    {
+      "v": "0.2.11@b40a472b202789e1f6f20d5976b6bdd007dc97df",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.3",
+        "ginger >= 0.1.9",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2"
+      ]
+    },
+    {
+      "v": "0.2.10@11b83ec24ebb310a645bb1cc934cb910ed339baf",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.3",
+        "ginger >= 0.1.8",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2"
+      ]
+    },
+    {
+      "v": "0.2.9@b736f1fc5027a7613b8309ef774422866042685e",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.3",
+        "ginger >= 0.1.8",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2"
+      ]
+    },
+    {
+      "v": "0.2.8@218ac9479522a8673932dddeec91098dab16f1a0",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.3",
+        "ginger >= 0.1.7",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2"
+      ]
+    },
+    {
+      "v": "0.2.7@c9e3032a93e2b6bb04ff4bf78cef2f5ac1ecd384",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.3",
+        "ginger >= 0.1.7",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2"
+      ]
+    },
+    {
+      "v": "0.2.6@68bc4134fa0d88dd3bf811bac727dd112da7d1e4",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.3",
+        "ginger >= 0.1.7",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2"
+      ]
+    },
+    {
+      "v": "0.2.5@7161b96333820359f980c1192ede263e2edcf6b9",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.3",
+        "ginger >= 0.1.6",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2"
+      ]
+    },
+    {
+      "v": "0.2.4@1e62e8bc324c0b7ab9f5f25be4c9f26e5bd3f62b",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.3",
+        "ginger >= 0.1.6",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2"
+      ]
+    },
+    {
+      "v": "0.2.3@43c514b5cd2b466db13eb00b384c2e31a9f99588",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.3",
+        "ginger >= 0.1.6",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2"
+      ]
+    },
+    {
+      "v": "0.2.2@fd927f9cff6cee9f8e1cac173c686ad88f646f28",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.3",
+        "ginger >= 0.1.6",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2"
+      ]
+    },
+    {
+      "v": "0.2.1@8029c720287cd5447086e1349104f1a1966d0516",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.3",
+        "ginger >= 0.1.4",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2"
+      ]
+    },
+    {
+      "v": "0.2.0@af01e28575a374ffdea79a1b6d3f8858971b6be7",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.3",
+        "ginger >= 0.1.4",
+        "persvector >= 1.0.0",
+        "shell >= 0.2.2"
+      ]
+    },
+    {
+      "v": "0.1.6@c747cee9fc3d79abd8f1796c35145fefac66ed26",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.3",
+        "ginger >= 0.1.3",
+        "persvector >= 1.0.0"
+      ]
+    },
+    {
+      "v": "0.1.5@582ed2706f270aebb410d77145dde7837d060932",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.3",
+        "ginger >= 0.1.3",
+        "persvector >= 1.0.0"
+      ]
+    },
+    {
+      "v": "0.1.4@960890decdde3db70d0418168ded5eeb4a70a614",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.3",
+        "ginger >= 0.1.2",
+        "persvector >= 1.0.0"
+      ]
+    },
+    {
+      "v": "0.1.3@99bfee721c3f77a5dd139337f14c9a6f8030768a",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.3",
+        "ginger >= 0.1.2",
+        "persvector #head"
+      ]
+    },
+    {
+      "v": "0.1.2@c9af9e142738886ee766d4bcc76c1aec97159195",
+      "r": [
+        "gh:Vindaar/seqmath #head",
+        "ginger #head",
+        "persvector #head"
+      ]
+    },
+    {
+      "v": "#head@36ea228a139fd26a41b1587133cbbfb045f1028b",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.16",
+        "ginger 0.6.2",
+        "datamancer >= 0.5.1",
+        "arraymancer >= 0.7.22",
+        "shell >= 0.4.3",
+        "gh:Vindaar/webview",
+        "parsetoml",
+        "scinim >= 0.1.0"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:19Z",
+  "allDeps": {
+    "packages": [
+      "arraymancer",
+      "cairo",
+      "chroma",
+      "clblast",
+      "datamancer",
+      "fusion > 0.4.3",
+      "ginger",
+      "latexdsl",
+      "nimblas",
+      "nimcl",
+      "nimcuda",
+      "nimlapack",
+      "nimpy > 0.4.3",
+      "opencl",
+      "parsetoml > 0.6.3",
+      "persvector <= 0.3.25",
+      "pixie",
+      "polynumeric > 0.4.3",
+      "print > 0.4.3",
+      "scinim > 0.4.3",
+      "shell",
+      "stb_image",
+      "threading > 0.4.3",
+      "untar",
+      "webview > 0.3.20 & <= 0.7.5",
+      "zip"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:Vindaar/seqmath",
+      "gh:Vindaar/webview",
+      "gh:zetashift/fontim",
+      "pixie"
+    ]
+  }
+}

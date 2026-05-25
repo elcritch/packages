@@ -1,0 +1,37 @@
+{
+  "cv": 17,
+  "name": "tweens",
+  "fqn": "tweens.RainbowAsteroids.github.com",
+  "head": "24be719fc4699b42b308e256fc468a0301d05e8e",
+  "author": "Rainbow Asteroids",
+  "description": "Basic tweening library for Nim",
+  "license": "MIT",
+  "nim": "1.4.4",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "1.0.0@cc05b268a7cfa125c85fa167014a58d09e19b9a1",
+      "r": []
+    },
+    {
+      "v": "1.1.0@cdfb61b2eddbce5dc280e1055ca0fe108b3c330a",
+      "r": []
+    },
+    {
+      "v": "#head@24be719fc4699b42b308e256fc468a0301d05e8e",
+      "r": [],
+      "a": "Rainbow Asteroids",
+      "d": "Basic tweening library for Nim",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.4.4"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:53:11Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

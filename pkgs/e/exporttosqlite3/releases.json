@@ -1,0 +1,32 @@
+{
+  "cv": 17,
+  "name": "exporttosqlite3",
+  "fqn": "nim-exporttosqlite3.niklaskorz.github.com",
+  "head": "03c9081d6e3192a30adacb4ffec14caaa226a2d8",
+  "author": "Niklas Korz",
+  "description": "Export Nim functions to sqlite3",
+  "license": "MIT",
+  "nim": "1.4.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@129bc5e2ca66245a0083b6e9aeedbe3be6436fc5",
+      "r": []
+    },
+    {
+      "v": "0.2.0@03c9081d6e3192a30adacb4ffec14caaa226a2d8^",
+      "r": []
+    },
+    {
+      "v": "#head@03c9081d6e3192a30adacb4ffec14caaa226a2d8",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:32Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

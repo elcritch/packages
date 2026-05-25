@@ -1,0 +1,52 @@
+{
+  "cv": 17,
+  "name": "tagger",
+  "fqn": "tagger.aruZeta.github.com",
+  "head": "ff1f1812bdc8012c6c3876164e89cb6a56ab3662",
+  "author": "aruZeta",
+  "description": "A library to generate xml and html tags",
+  "license": "MIT",
+  "nim": "0.20.2",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.2.0@f00fd912c60324a0d389f27a6f715eeb4588c1b8",
+      "r": []
+    },
+    {
+      "v": "0.1.0@ad29cc7f90508111228d326a24940b3143b99b4a",
+      "r": []
+    },
+    {
+      "v": "#head@ff1f1812bdc8012c6c3876164e89cb6a56ab3662",
+      "r": [],
+      "a": "aruZeta",
+      "d": "A library to generate xml and html tags",
+      "l": "MIT",
+      "s": "src",
+      "m": "0.20.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:36Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.0",
+      "v0.2.0"
+    ],
+    "tagVersions": {
+      "v0.1.0": "0.1.0",
+      "v0.2.0": "0.2.0"
+    },
+    "latest": "v0.2.0"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

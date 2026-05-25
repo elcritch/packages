@@ -1,0 +1,37 @@
+{
+  "cv": 17,
+  "name": "units",
+  "fqn": "NimUnits.Udiknedormin.github.com",
+  "head": "08ae9675da38530237a3b8e1b5615732f421a8b8",
+  "author": "M. Kotwica",
+  "description": "Units of measure.",
+  "license": "MIT",
+  "nim": "0.17.2",
+  "skipDirs": [
+    "tests"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@977be16818368507d6e958f18ff4a3cdad66dc5c",
+      "r": []
+    },
+    {
+      "v": "#head@08ae9675da38530237a3b8e1b5615732f421a8b8",
+      "r": [],
+      "a": "M. Kotwica",
+      "d": "Units of measure.",
+      "l": "MIT",
+      "x": [
+        "tests"
+      ],
+      "m": "0.17.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:53:22Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

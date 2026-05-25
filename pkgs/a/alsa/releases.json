@@ -1,0 +1,39 @@
+{
+  "cv": 17,
+  "name": "alsa",
+  "fqn": "nim-alsa.eagledot.gitlab.com",
+  "head": "b5ef3f6a1ac5424fcc669e52fd015b9cc0804dac",
+  "author": "Anubhav (eagledot)",
+  "description": "C alsa-lib bindings for Nim",
+  "license": "MIT",
+  "nim": "1.0.0",
+  "srcDir": "src",
+  "skipDirs": [
+    "examples"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@5358f277d37fafc9bf98f721f8b46b335494271b",
+      "r": []
+    },
+    {
+      "v": "#head@b5ef3f6a1ac5424fcc669e52fd015b9cc0804dac",
+      "r": [],
+      "a": "Anubhav (eagledot)",
+      "d": "C alsa-lib bindings for Nim",
+      "l": "MIT",
+      "s": "src",
+      "x": [
+        "examples"
+      ],
+      "m": "1.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:41:51Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

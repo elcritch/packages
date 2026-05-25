@@ -1,0 +1,77 @@
+{
+  "cv": 17,
+  "name": "duckduckgo",
+  "fqn": "duckduckgo.thisago.github.com",
+  "head": "a3bc9deb75d2679f6088120189b50471976e6805",
+  "author": "Luciano Lorenzo",
+  "description": "Duckduckgo search",
+  "license": "MIT",
+  "nim": "1.5.1",
+  "srcDir": "src",
+  "binDir": "build",
+  "bin": [
+    "duckduckgo"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@98b20c22a070e264923c9cb3503a11e4318d3eec",
+      "r": [
+        "scraper",
+        "gl:lurlo/useragent"
+      ]
+    },
+    {
+      "v": "0.1.2@2059431e7391003e9e807e4fbef7d7f0525a9de5",
+      "r": [
+        "scraper",
+        "gl:lurlo/useragent"
+      ],
+      "b": "",
+      "p": []
+    },
+    {
+      "v": "0.1.3@d720d2e1ce3db20e066a811b0a3eeff484603708",
+      "r": [
+        "scraper",
+        "gl:lurlo/useragent"
+      ],
+      "b": "",
+      "p": []
+    },
+    {
+      "v": "0.1.4@5e49d27da130e5eb4b0a3d73e6a7b622595261a2",
+      "r": [
+        "scraper",
+        "gl:lurlo/useragent"
+      ],
+      "b": "",
+      "p": []
+    },
+    {
+      "v": "#head@a3bc9deb75d2679f6088120189b50471976e6805",
+      "r": [
+        "scraper",
+        "gl:lurlo/useragent"
+      ],
+      "a": "Thiago Navarro",
+      "d": "Duckduckgo search",
+      "l": "mit",
+      "s": "src",
+      "m": "1.5.1"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:15Z",
+  "allDeps": {
+    "packages": [
+      "scraper"
+    ],
+    "urls": [
+      "error://findxml"
+    ],
+    "unresolved": [
+      "gh:thisago/findxml",
+      "gl:lurlo/useragent"
+    ]
+  }
+}

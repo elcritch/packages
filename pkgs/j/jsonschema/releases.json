@@ -1,0 +1,46 @@
+{
+  "cv": 17,
+  "name": "jsonschema",
+  "fqn": "jsonschema.PMunch.github.com",
+  "head": "7b41c03e3e1a487d5a8f6b940ca8e764dc2cbabf",
+  "author": "Peter Munch-Ellingsen",
+  "description": "Schema verification of JSON data",
+  "license": "MIT",
+  "nim": "0.18.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@d739f14226cac31d297156284c0288e8d874f421",
+      "r": [
+        "ast_pattern_matching"
+      ]
+    },
+    {
+      "v": "0.2.0@832eea69b2f96e89ca22eae65a7200ab3f365c69",
+      "r": [
+        "ast_pattern_matching"
+      ]
+    },
+    {
+      "v": "0.2.1@7b41c03e3e1a487d5a8f6b940ca8e764dc2cbabf^",
+      "r": [
+        "ast_pattern_matching"
+      ]
+    },
+    {
+      "v": "#head@7b41c03e3e1a487d5a8f6b940ca8e764dc2cbabf",
+      "r": [
+        "ast_pattern_matching"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:46:24Z",
+  "allDeps": {
+    "packages": [
+      "ast_pattern_matching"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

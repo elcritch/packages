@@ -1,0 +1,92 @@
+{
+  "cv": 17,
+  "name": "getpodia",
+  "fqn": "getpodia.thisago.github.com",
+  "head": "ffa38076ed5b77b17bcfc038e971dcb9bded30ba",
+  "author": "Thiago Navarro",
+  "description": "Extract Podia sites courses data",
+  "license": "GPL-3",
+  "nim": "1.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "3.5.0@a4fa4d3c26afa8b52cd23a6919e3e0c81fb63096",
+      "r": [
+        "gh:thisago/findxml"
+      ]
+    },
+    {
+      "v": "3.7.0@13a97ba38dcc3fab3a24049e21ab51f449afdea8",
+      "r": [
+        "gh:thisago/findxml",
+        "scraper",
+        "util"
+      ]
+    },
+    {
+      "v": "3.7.1@eaf26e648c9823d1bbf7d118e4e1db9e981eb9c3",
+      "r": [
+        "gh:thisago/findxml",
+        "scraper",
+        "util"
+      ]
+    },
+    {
+      "v": "3.7.2@985e64c33315e7433ceca09940fcd7a41cef4be5",
+      "r": [
+        "gh:thisago/findxml",
+        "scraper",
+        "util"
+      ]
+    },
+    {
+      "v": "3.7.3@07126e37a6fe3899d0c43cdba0ff68b15550e04b",
+      "r": [
+        "gh:thisago/findxml",
+        "scraper",
+        "util"
+      ]
+    },
+    {
+      "v": "3.7.4@d63bccea030af26504a68f7e8655770f8a5d9b7d",
+      "r": [
+        "gh:thisago/findxml",
+        "scraper",
+        "util"
+      ]
+    },
+    {
+      "v": "3.7.5@ffa38076ed5b77b17bcfc038e971dcb9bded30ba^",
+      "r": [
+        "nimquery",
+        "gh:thisago/findxml",
+        "scraper",
+        "util"
+      ]
+    },
+    {
+      "v": "#head@ffa38076ed5b77b17bcfc038e971dcb9bded30ba",
+      "r": [
+        "nimquery",
+        "gh:thisago/findxml",
+        "scraper",
+        "util"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:13Z",
+  "allDeps": {
+    "packages": [
+      "nimquery > 3.7.4",
+      "scraper > 3.5.0",
+      "util > 3.5.0"
+    ],
+    "urls": [
+      "error://findxml > 3.5.0"
+    ],
+    "unresolved": [
+      "gh:thisago/findxml"
+    ]
+  }
+}

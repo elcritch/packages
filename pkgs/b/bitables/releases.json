@@ -1,0 +1,31 @@
+{
+  "cv": 17,
+  "name": "bitables",
+  "fqn": "bitables.Retkid.github.com",
+  "head": "64a706a1edf56ecaeb090a5f3767091ae181b007",
+  "author": "albassort",
+  "description": "bidirectional {maps, tables, dictionaries} in nim",
+  "license": "MIT",
+  "nim": "1.6.10",
+  "releases": [
+    {
+      "v": "0.0.1@bb310e6c5d99da33f2e6fe587ced777a8d2571bd",
+      "r": []
+    },
+    {
+      "v": "#head@64a706a1edf56ecaeb090a5f3767091ae181b007",
+      "r": [],
+      "a": "albassort",
+      "d": "bidirectional {maps, tables, dictionaries} in nim",
+      "l": "MIT",
+      "m": "1.6.10"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:42:43Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

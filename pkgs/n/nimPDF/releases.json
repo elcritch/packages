@@ -1,0 +1,171 @@
+{
+  "cv": 17,
+  "name": "nimPDF",
+  "fqn": "nimpdf.jangko.github.com",
+  "head": "9e39d66c334709d51034a249e437cf4ad123dbbe",
+  "author": "Andri Lim",
+  "description": "PDF document generation library written in nim",
+  "license": "MIT",
+  "nim": "0.18.1",
+  "skipDirs": [
+    "new feature",
+    "demo",
+    "docs"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@57494b9abd3ea499bb3081e3a8cd1ee4596bda25",
+      "r": [],
+      "m": "~",
+      "x": []
+    },
+    {
+      "v": "0.1.5@15a1d7d5f1531d32536bba15f11d871bd3b4a0e5",
+      "r": [],
+      "m": "~",
+      "x": []
+    },
+    {
+      "v": "0.2.0@e73dd87636a7bb386d29b5f1266e3ed6b7f99ead",
+      "r": [],
+      "m": "~",
+      "x": []
+    },
+    {
+      "v": "0.2.1@97e46dba5bf07c7f0ceef77c0f35dbd3163502c5",
+      "r": [],
+      "m": "~",
+      "x": []
+    },
+    {
+      "v": "0.2.2@233711212088e1295a3efbe750cd62e84b8f3e4a",
+      "r": [],
+      "m": "~",
+      "x": []
+    },
+    {
+      "v": "0.2.3@9a9ec4a7df147973a4e051cf0fcd41cea09bfd89",
+      "r": [],
+      "m": "~",
+      "x": []
+    },
+    {
+      "v": "0.2.4@39c2866e773aab8632c855d4c61df3bce01eddc5",
+      "r": [],
+      "m": "~",
+      "x": []
+    },
+    {
+      "v": "0.2.5@371f64abbbb57daf76bfd16119479af7b30d8d54",
+      "r": [],
+      "m": "~",
+      "x": []
+    },
+    {
+      "v": "0.2.6@df0caa2b82ba3227b20f62306c88bcd9df7529fc",
+      "r": [],
+      "m": "~",
+      "x": []
+    },
+    {
+      "v": "0.2.7@882b9f9bf6bec48a29c4daba16470e2f469dcefe",
+      "r": [],
+      "m": "~",
+      "x": []
+    },
+    {
+      "v": "0.2.8@3ca5a89c2fcaffee2ac6d1b4b4a146ee2ee4ef78",
+      "r": [],
+      "m": "~",
+      "x": []
+    },
+    {
+      "v": "0.2.9@25f3841baa581013575dc9f0e2a94eafa85ce027",
+      "r": [],
+      "m": "~",
+      "x": []
+    },
+    {
+      "v": "0.3.0@877f60754babf66179cd96867ea605f3402a8fbe",
+      "r": [],
+      "m": "~",
+      "x": []
+    },
+    {
+      "v": "0.3.1@29ae4808d87e52147e73c7450b79951eb3955859",
+      "r": [],
+      "m": "~",
+      "x": []
+    },
+    {
+      "v": "0.4.0@72aec3f63bbadd5562c725796b8ca4a91f25be67",
+      "r": [],
+      "m": "~",
+      "x": []
+    },
+    {
+      "v": "0.4.1@a85c670b3f33d71809d18861db4fb2b48c9aef28",
+      "r": [
+        "nimBMP >= 0.1.0",
+        "nimPNG >= 0.1.0",
+        "nimSHA2 >= 0.1.0",
+        "nimAES >= 0.1.0",
+        "stb_image >= 2.1"
+      ],
+      "x": []
+    },
+    {
+      "v": "0.4.2@e77531c6f3c97a34067d1434b6131eedaeb95b4d",
+      "r": [
+        "nimBMP >= 0.1.0",
+        "nimPNG >= 0.1.0",
+        "nimSHA2 >= 0.1.0",
+        "nimAES >= 0.1.0",
+        "stb_image >= 2.1"
+      ]
+    },
+    {
+      "v": "0.4.3@6b5397956b7c99ea33b9611cb96cd38de18e2741",
+      "r": [
+        "nimBMP >= 0.1.0",
+        "nimPNG >= 0.1.0",
+        "nimSHA2 >= 0.1.0",
+        "nimAES >= 0.1.0",
+        "stb_image >= 2.1"
+      ]
+    },
+    {
+      "v": "0.5.0@9e39d66c334709d51034a249e437cf4ad123dbbe^",
+      "r": [
+        "nimBMP >= 0.1.0",
+        "nimPNG >= 0.1.0",
+        "nimSHA2 >= 0.1.0",
+        "nimAES >= 0.1.0",
+        "stb_image >= 2.1"
+      ]
+    },
+    {
+      "v": "#head@9e39d66c334709d51034a249e437cf4ad123dbbe",
+      "r": [
+        "nimBMP >= 0.1.0",
+        "nimPNG >= 0.1.0",
+        "nimSHA2 >= 0.1.0",
+        "nimAES >= 0.1.0",
+        "stb_image >= 2.1"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:48:17Z",
+  "allDeps": {
+    "packages": [
+      "nimAES > 0.4.0",
+      "nimBMP > 0.4.0",
+      "nimPNG > 0.4.0",
+      "nimSHA2 > 0.4.0",
+      "stb_image > 0.4.0"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

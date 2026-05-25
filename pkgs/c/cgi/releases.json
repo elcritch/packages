@@ -1,0 +1,41 @@
+{
+  "cv": 17,
+  "name": "cgi",
+  "fqn": "cgi.nim-lang.github.com",
+  "head": "785c0561a2cf8dc962de00dc3902b1940219a35d",
+  "author": "Nim Contributors",
+  "description": "Helper procs for CGI applications in Nim.",
+  "license": "MIT",
+  "nim": "1.7.3",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@785c0561a2cf8dc962de00dc3902b1940219a35d^",
+      "r": []
+    },
+    {
+      "v": "#head@785c0561a2cf8dc962de00dc3902b1940219a35d",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:43:07Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.0"
+    ],
+    "tagVersions": {
+      "v0.1.0": "0.1.0"
+    },
+    "latest": "v0.1.0"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

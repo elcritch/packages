@@ -1,0 +1,59 @@
+{
+  "cv": 17,
+  "name": "shakar",
+  "fqn": "shakar.ferus-web.github.com",
+  "head": "c89ac725ae03c52ac2bb3dfb95c4b0285d0691e7",
+  "author": "Trayambak Rai",
+  "description": "Sugar that's too sweet to be in the Nim standard library",
+  "license": "MIT",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.3@48333bf20e39519929cbcfaa3b3af60858805f35",
+      "r": [
+        "results >= 0.5.1"
+      ]
+    },
+    {
+      "v": "0.1.2@4878414a013e0f11379421a4ba342b358896e5da",
+      "r": []
+    },
+    {
+      "v": "0.1.1@04737aaccf107ba2182eec452f84a90eed23a3f3",
+      "r": []
+    },
+    {
+      "v": "#head@c89ac725ae03c52ac2bb3dfb95c4b0285d0691e7",
+      "r": [
+        "results >= 0.5.1"
+      ],
+      "a": "Trayambak Rai",
+      "d": "Sugar that's too sweet to be in the Nim standard library",
+      "l": "MIT",
+      "s": "src",
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:40Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.1.1",
+      "0.1.2",
+      "0.1.3"
+    ],
+    "latest": "0.1.3"
+  },
+  "allDeps": {
+    "packages": [
+      "results > 0.1.2"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "cv": 17,
+  "name": "shorten",
+  "fqn": "shorten.capocasa.github.com",
+  "head": "f3aaf237db09cc4585b6db17361f717662070f32",
+  "author": "Carlo Capocasa",
+  "description": "Minimal secure URL shortener",
+  "license": "MIT",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "bin": [
+    "shortend",
+    "shorten"
+  ],
+  "releases": [
+    {
+      "v": "0.2.0@f3aaf237db09cc4585b6db17361f717662070f32^",
+      "r": [
+        "LimDB",
+        "httpbeast #master",
+        "libsha"
+      ]
+    },
+    {
+      "v": "#head@f3aaf237db09cc4585b6db17361f717662070f32",
+      "r": [
+        "LimDB",
+        "httpbeast #master",
+        "libsha"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:46Z",
+  "allDeps": {
+    "packages": [
+      "LimDB",
+      "asynctools",
+      "httpbeast",
+      "libsha",
+      "lmdb"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:iffy/asynctools",
+      "gh:timotheecour/asynctools"
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "cv": 17,
+  "name": "hcparse",
+  "fqn": "hcparse.haxscramper.github.com",
+  "head": "1e1a68a49192c0a3731ae3279be56c2a24542bb0",
+  "author": "haxscramper",
+  "description": "High-level nim wrapper for C/C++ parsing",
+  "license": "Apache-2.0",
+  "nim": "1.2.6",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.2@3b20c494f1385b193e9acfbafd7cb5325844cf92",
+      "r": [
+        "hnimast",
+        "hmisc >= 0.4.0",
+        "hpprint",
+        "nimtraits"
+      ]
+    },
+    {
+      "v": "#head@1e1a68a49192c0a3731ae3279be56c2a24542bb0",
+      "r": [
+        "hnimast",
+        "htsparse >= 0.1.10",
+        "gh:haxscramper/frosty #use-cast",
+        "hmisc >= 0.11.5"
+      ],
+      "a": "haxscramper",
+      "d": "High-level nim wrapper for C/C++ parsing",
+      "l": "Apache-2.0",
+      "s": "src",
+      "m": "1.6.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:40Z",
+  "allDeps": {
+    "packages": [
+      "benchy",
+      "checksums",
+      "cligen",
+      "fusion",
+      "graphemes",
+      "hasts",
+      "hdrawing",
+      "hmisc",
+      "hnimast",
+      "hparse",
+      "hpprint",
+      "htsparse",
+      "jsony",
+      "macroutils",
+      "nimble",
+      "nimtraits",
+      "regex",
+      "sat",
+      "segmentation",
+      "shell",
+      "sorta",
+      "unicodedb",
+      "unicodeplus",
+      "with"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:haxscramper/frosty"
+    ]
+  }
+}

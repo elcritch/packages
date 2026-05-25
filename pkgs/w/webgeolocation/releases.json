@@ -1,0 +1,38 @@
+{
+  "cv": 17,
+  "name": "webgeolocation",
+  "fqn": "webgeoloaction.maleyva1.github.com",
+  "head": "844881d2af68979fdbab685b0960fd58f8a44a9f",
+  "author": "Mark Leyva",
+  "description": "A new awesome nimble package",
+  "license": "MIT",
+  "nim": "1.6.12",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@ada3b0d15764fffd90352e7a60684c0eba873e29",
+      "r": []
+    },
+    {
+      "v": "1.0.0@d3663962f8a944cfde52b46ba0c2306f81817a79",
+      "r": [],
+      "d": "Bindings to the Webgeolocation Web API"
+    },
+    {
+      "v": "#head@844881d2af68979fdbab685b0960fd58f8a44a9f",
+      "r": [],
+      "a": "Mark Leyva",
+      "d": "Bindings to the Webgeolocation Web API",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.6.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:53:47Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

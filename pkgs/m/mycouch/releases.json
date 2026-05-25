@@ -1,0 +1,74 @@
+{
+  "cv": 17,
+  "name": "mycouch",
+  "fqn": "mycouch.hamidb80.github.com",
+  "head": "abf4365452e21cc3239ebed617a949aeca05d39c",
+  "author": "hamidb80",
+  "description": "a couchDB client written in Nim",
+  "license": "MIT",
+  "nim": "1.6.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.4.2@8e1b740c623c21e4b180f2d139fa07e6d6a1eff6",
+      "r": [
+        "macroutils >= 1.2.0",
+        "macroplus >= 0.2.5"
+      ]
+    },
+    {
+      "v": "0.4.0@019c9ca4a1a9e988a8f89506f1bf1cde0ce377d2",
+      "r": [
+        "macroutils >= 1.2.0",
+        "macroplus",
+        "gh:hamidb80/coverage"
+      ],
+      "m": "1.4.8"
+    },
+    {
+      "v": "0.2@1f9276920b8f7fc92f6ca86cc99e56b74b899806",
+      "r": [
+        "macroutils >= 1.2.0",
+        "macroplus",
+        "gh:hamidb80/coverage"
+      ],
+      "m": "1.4.8"
+    },
+    {
+      "v": "#head@abf4365452e21cc3239ebed617a949aeca05d39c",
+      "r": [
+        "macroutils >= 1.2.0",
+        "macroplus >= 0.2.5"
+      ],
+      "a": "hamidb80",
+      "d": "a couchDB client written in Nim",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.6.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:47:48Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.2",
+      "0.4.0",
+      "0.4.2"
+    ],
+    "latest": "0.4.2"
+  },
+  "allDeps": {
+    "packages": [
+      "macroplus",
+      "macroutils"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:hamidb80/coverage"
+    ]
+  }
+}

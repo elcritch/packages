@@ -1,0 +1,62 @@
+{
+  "cv": 17,
+  "name": "steganography",
+  "fqn": "steganography.treeform.github.com",
+  "head": "aea1cc1491b8f3229bd73f49906c6238c14b1523",
+  "author": "Andre von Houck",
+  "description": "Steganography - hide data inside an image.",
+  "license": "MIT",
+  "nim": "0.20.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@5ddde47cc9f0e06cb6ecd561c29a8fafe9d2e215",
+      "r": [
+        "flippy >= 0.2.1"
+      ]
+    },
+    {
+      "v": "0.2.0@ff246b189203e6381cb269b6933d57e33333c5cd",
+      "r": [
+        "pixie #head"
+      ],
+      "m": "1.4.0"
+    },
+    {
+      "v": "#head@aea1cc1491b8f3229bd73f49906c6238c14b1523",
+      "r": [
+        "pixie >= 4.3.0"
+      ],
+      "a": "Andre von Houck",
+      "d": "Steganography - hide data inside an image.",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.4.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:18Z",
+  "allDeps": {
+    "packages": [
+      "bumpy <= 0.1.0",
+      "chroma <= 0.1.0",
+      "faststreams <= 0.1.0",
+      "flippy <= 0.1.0",
+      "mddoc <= 0.1.0",
+      "nimPNG <= 0.1.0",
+      "pixie > 0.1.0",
+      "print <= 0.1.0",
+      "results <= 0.1.0",
+      "snappy <= 0.1.0",
+      "stb_image <= 0.1.0",
+      "stew <= 0.1.0",
+      "supersnappy <= 0.1.0",
+      "unittest2 <= 0.1.0",
+      "vmath <= 0.1.0"
+    ],
+    "urls": [],
+    "unresolved": [
+      "pixie"
+    ]
+  }
+}

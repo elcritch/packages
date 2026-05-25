@@ -1,0 +1,47 @@
+{
+  "cv": 17,
+  "name": "prettystr",
+  "fqn": "prettystr.prettybauble.github.com",
+  "head": "c906df9ab0140dfbbf7ef02fcd3efd4b48d57c25",
+  "author": "prettybauble",
+  "description": "Small library for working with strings",
+  "license": "MIT",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "1.0.0@9c1127c618b060725347dee6525a94c818dd28f0",
+      "r": []
+    },
+    {
+      "v": "1.0.1@c51475e3198c5e8b5430dba08dce183d33fe27df",
+      "r": []
+    },
+    {
+      "v": "1.0.2@27b70ad50af391298a1a2107ce3bfab3315ac6d1",
+      "r": []
+    },
+    {
+      "v": "1.0.3@d868522105556efcb46a0cdacbc68a178888a296",
+      "r": []
+    },
+    {
+      "v": "1.0.4@f75d586cf43c7a1251fc1e62de7a3a6ac17c34e6",
+      "r": []
+    },
+    {
+      "v": "1.0.5@c906df9ab0140dfbbf7ef02fcd3efd4b48d57c25^",
+      "r": []
+    },
+    {
+      "v": "#head@c906df9ab0140dfbbf7ef02fcd3efd4b48d57c25",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:50:42Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

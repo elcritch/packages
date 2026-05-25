@@ -1,0 +1,43 @@
+{
+  "cv": 17,
+  "name": "usigar",
+  "fqn": "nim-usigar.juancarlospaco.github.com",
+  "head": "753f9af69604aa7502c0a9d0b03a7e9109f51f6d",
+  "author": "Juan Carlos",
+  "description": "USIG Argentina Government MultiSync API Client for Nim",
+  "license": "MIT",
+  "nim": "0.19.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.5@1f43a9ec260faab5ae1ccd215f8a5b5377d76307",
+      "r": []
+    },
+    {
+      "v": "#head@753f9af69604aa7502c0a9d0b03a7e9109f51f6d",
+      "r": [],
+      "a": "Juan Carlos",
+      "d": "USIG Argentina Government MultiSync API Client for Nim",
+      "l": "MIT",
+      "s": "src",
+      "m": "0.19.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:53:27Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.1.5"
+    ],
+    "latest": "0.1.5"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "cv": 17,
+  "name": "brotli",
+  "fqn": "brotli.neroist.github.com",
+  "head": "645427cd18a67165fad4a5e2b066766c3ab026f1",
+  "author": "neroist",
+  "description": "Nim Brotli wrapper",
+  "license": "MIT",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@685b95113341555443835d0363a1889fbc3a72ff",
+      "r": []
+    },
+    {
+      "v": "#head@645427cd18a67165fad4a5e2b066766c3ab026f1",
+      "r": [],
+      "a": "neroist",
+      "d": "Nim Brotli wrapper",
+      "l": "MIT",
+      "s": "src",
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:42:54Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.1.0"
+    ],
+    "latest": "0.1.0"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

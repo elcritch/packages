@@ -1,0 +1,103 @@
+{
+  "cv": 17,
+  "name": "sermon",
+  "fqn": "nim_sermon.ThomasTJdev.github.com",
+  "head": "1ea2211f54379c66013979eadac26b08ea25bb4f",
+  "author": "ThomasTJdev",
+  "description": "Tool to monitor various items on your Linux server",
+  "license": "MIT",
+  "nim": "0.20.2",
+  "skipDirs": [
+    "src"
+  ],
+  "installDirs": [
+    "src"
+  ],
+  "installFiles": [
+    "config_default.cfg"
+  ],
+  "bin": [
+    "sermon"
+  ],
+  "releases": [
+    {
+      "v": "0.3.1@1ea2211f54379c66013979eadac26b08ea25bb4f^",
+      "r": [
+        "jester >= 0.4.3"
+      ],
+      "h": true,
+      "x": []
+    },
+    {
+      "v": "0.3.0@e38b71ea85f1142570f9ab4bd20a3cc1f7f80c58",
+      "r": [
+        "jester >= 0.4.1"
+      ],
+      "h": true,
+      "m": "0.19.4",
+      "i": []
+    },
+    {
+      "v": "0.2.8@4443a0acd2ab3b2741d06028b75e38ae0ff2f360",
+      "r": [
+        "jester >= 0.4.1"
+      ],
+      "h": true,
+      "m": "0.19.4",
+      "i": []
+    },
+    {
+      "v": "0.2.7@b0970b4e5de67a473b62fee0de7f43ffe63499e7",
+      "r": [
+        "jester >= 0.4.1"
+      ],
+      "h": true,
+      "m": "0.19.4",
+      "i": []
+    },
+    {
+      "v": "0.2.6@974215a97d769965177dae0481f24d67f5521233",
+      "r": [
+        "jester >= 0.4.1"
+      ],
+      "h": true,
+      "m": "0.19.4",
+      "i": []
+    },
+    {
+      "v": "0.1.1@af90fb3021957b69a9f943e322231f7b57349771",
+      "r": [
+        "jester >= 0.4.1"
+      ],
+      "h": true,
+      "d": "Tool to monitor various items on your Linux instance",
+      "j": [
+        "config.default.json"
+      ],
+      "m": "0.19.0",
+      "i": []
+    },
+    {
+      "v": "#head@1ea2211f54379c66013979eadac26b08ea25bb4f",
+      "r": [
+        "jester >= 0.4.3"
+      ],
+      "h": true,
+      "x": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:37Z",
+  "allDeps": {
+    "packages": [
+      "asynctools",
+      "httpbeast",
+      "jester"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:iffy/asynctools",
+      "gh:timotheecour/asynctools"
+    ]
+  }
+}

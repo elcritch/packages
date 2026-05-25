@@ -1,0 +1,28 @@
+{
+  "cv": 17,
+  "name": "urand",
+  "fqn": "nim-urand.Matceporial.github.com",
+  "head": "f3385acce562d4b656f17d65ce586152e0882fc9",
+  "author": "Matceporial",
+  "description": "Simple method of obtaining secure random numbers from the OS",
+  "license": "MIT",
+  "nim": "0.18.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@f3385acce562d4b656f17d65ce586152e0882fc9^",
+      "r": []
+    },
+    {
+      "v": "#head@f3385acce562d4b656f17d65ce586152e0882fc9",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:53:24Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

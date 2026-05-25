@@ -1,0 +1,45 @@
+{
+  "cv": 17,
+  "name": "argon2",
+  "fqn": "argon2.Ahrotahn.github.com",
+  "head": "8e4308c0fe2f38e9882ba8f6d5f17ad9cd37fb90",
+  "author": "Ahrotahn",
+  "description": "A nim wrapper for Argon2",
+  "license": "MIT",
+  "nim": "0.18.0",
+  "installDirs": [
+    "phc-winner-argon2"
+  ],
+  "releases": [
+    {
+      "v": "1.1.0@26192fa8afdf0bf80cdc98219373c70cc72d4d05",
+      "r": []
+    },
+    {
+      "v": "1.0.1@10691c6291ecb6448cdc1c328ecaacfca79916d0",
+      "r": []
+    },
+    {
+      "v": "1.0.0@436bf260e31940006ced08f22565c780c68bd232",
+      "r": []
+    },
+    {
+      "v": "#head@8e4308c0fe2f38e9882ba8f6d5f17ad9cd37fb90",
+      "r": [],
+      "a": "Ahrotahn",
+      "d": "A nim wrapper for Argon2",
+      "l": "MIT",
+      "i": [
+        "phc-winner-argon2"
+      ],
+      "m": "0.18.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:41:59Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "cv": 17,
+  "name": "illwill",
+  "fqn": "illwill.johnnovak.github.com",
+  "head": "db080b4e2432868e188efb4fb72c1ee6c6c28428",
+  "author": "John Novak <john@johnnovak.net>",
+  "description": "A curses inspired simple cross-platform console library for Nim",
+  "license": "WTFPL",
+  "nim": "1.6.10",
+  "skipDirs": [
+    "doc",
+    "examples",
+    "img"
+  ],
+  "releases": [
+    {
+      "v": "0.4.1@99a120f7f69868b94f5d35ce7e21dd12535de70c",
+      "r": []
+    },
+    {
+      "v": "0.4.0@631169fe966adcf7d6f4015a71b1a897020d0e47",
+      "r": []
+    },
+    {
+      "v": "0.3.3@cee02a3bdab619305440f98fb08b3a0678b34514",
+      "r": []
+    },
+    {
+      "v": "0.3.2@1d12cb36ab7b76c31d2d25fa421013ecb382e625",
+      "r": []
+    },
+    {
+      "v": "0.3.1@2fe96f5c5a6e216e84554d92090ce3d47460667a",
+      "r": [],
+      "m": "1.6.12"
+    },
+    {
+      "v": "0.3.0@7532f9dcfa91a6c3188a6d55ae333f7037988803",
+      "r": [],
+      "m": "1.6.12"
+    },
+    {
+      "v": "0.2.0@fe6f670c0cac93d525b4fe0b4430f89e4d616d48",
+      "r": [],
+      "m": "0.20.0"
+    },
+    {
+      "v": "#head@db080b4e2432868e188efb4fb72c1ee6c6c28428",
+      "r": [],
+      "a": "John Novak <john@johnnovak.net>",
+      "d": "A curses inspired simple cross-platform console library for Nim",
+      "l": "WTFPL",
+      "x": [
+        "doc",
+        "examples",
+        "img"
+      ],
+      "m": "1.6.10"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:46:01Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

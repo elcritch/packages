@@ -1,0 +1,59 @@
+{
+  "cv": 17,
+  "name": "diffy",
+  "fqn": "diffy.elcritch.github.com",
+  "head": "4d4281dac2e58f67f64380e02bcb0a94578b5920",
+  "author": "Jaremy Creechley",
+  "description": "Simple diff and sub-image finder with SIMD based on Pixie",
+  "license": "Apache-2.0",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.3.0@ad844a39939b8746ef95bacb909072e7c88e82a0",
+      "r": [
+        "pixie >= 5.0.6"
+      ]
+    },
+    {
+      "v": "0.2.0@cdb8ebc3d223e10f98a907c44839800fd5471668",
+      "r": [
+        "pixie >= 5.0.6"
+      ]
+    },
+    {
+      "v": "0.1.2@8294ec89b3da204d36fc4543c54d5b18d3cb7ddb",
+      "r": [
+        "pixie >= 5.0.6"
+      ]
+    },
+    {
+      "v": "0.1.1@27fb0404a0348057032a256faaf09e238c9470ff",
+      "r": [
+        "pixie >= 5.0.6"
+      ]
+    },
+    {
+      "v": "#head@4d4281dac2e58f67f64380e02bcb0a94578b5920",
+      "r": [
+        "pixie >= 5.0.6"
+      ],
+      "a": "Jaremy Creechley",
+      "d": "Simple diff and sub-image finder with SIMD based on Pixie",
+      "l": "Apache-2.0",
+      "s": "src",
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:02Z",
+  "allDeps": {
+    "packages": [
+      "pixie"
+    ],
+    "urls": [],
+    "unresolved": [
+      "pixie"
+    ]
+  }
+}

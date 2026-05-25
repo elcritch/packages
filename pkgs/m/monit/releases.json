@@ -1,0 +1,134 @@
+{
+  "cv": 17,
+  "name": "monit",
+  "fqn": "monit.jiro4989.github.com",
+  "head": "925af56d5c5490a0cb97a0ebb3c8203eff8f9cff",
+  "author": "jiro4989",
+  "description": "A simple task runner. Run tasks and watch file changes with custom paths.",
+  "license": "MIT",
+  "nim": "1.4.0",
+  "srcDir": "src",
+  "binDir": "bin",
+  "bin": [
+    "monit"
+  ],
+  "releases": [
+    {
+      "v": "1.3.2@fe5e23dd156947eec0acc39b751d038ffec8345b",
+      "r": [
+        "yaml 1.1.0",
+        "cligen 1.6.13"
+      ]
+    },
+    {
+      "v": "1.3.1@2989945c539e8745728a25b1741b7134ccfcb335",
+      "r": [
+        "yaml 1.1.0",
+        "cligen 1.6.13"
+      ]
+    },
+    {
+      "v": "1.3.0@8f6d99d8ca5940c60964a2a13e50771c59b91b57",
+      "r": [
+        "yaml 1.1.0",
+        "cligen 1.6.13"
+      ]
+    },
+    {
+      "v": "1.2.3@0f95722cd31bda0cfc9f38a0553685a2c4d68c9d",
+      "r": [
+        "yaml 0.16.0",
+        "cligen 1.5.21"
+      ]
+    },
+    {
+      "v": "1.2.2@e5f4924b579331811dd89f976d4dca5becd724ae",
+      "r": [
+        "yaml #d173f2a7f6279bb8351d42a5e3a1e853f8623778",
+        "cligen 1.2.2"
+      ]
+    },
+    {
+      "v": "1.2.1@c425f13842b59369ded04ebc9c98d7683c0db1e4",
+      "r": [
+        "yaml #d173f2a7f6279bb8351d42a5e3a1e853f8623778",
+        "cligen 1.2.2"
+      ]
+    },
+    {
+      "v": "1.2.0@2cea3e00e6c48418b57e041cc79898557cb29f98",
+      "r": [
+        "yaml 0.12.0",
+        "cligen >= 0.9.32"
+      ],
+      "m": "1.2.6"
+    },
+    {
+      "v": "1.1.0@f8fd8f735f7c43b53fbf5ef50d8f146814c8b2fc",
+      "r": [
+        "yaml >= 0.12.0",
+        "cligen >= 0.9.32"
+      ],
+      "m": "1.0.0"
+    },
+    {
+      "v": "1.0.0@a190e36841e57e3139c381aa36f70a5d56a20bc3",
+      "r": [
+        "yaml >= 0.12.0",
+        "cligen >= 0.9.32"
+      ],
+      "m": "0.20.2"
+    },
+    {
+      "v": "#head@925af56d5c5490a0cb97a0ebb3c8203eff8f9cff",
+      "r": [
+        "yaml 1.1.0",
+        "cligen 1.6.13"
+      ],
+      "a": "jiro4989",
+      "d": "A simple task runner. Run tasks and watch file changes with custom paths.",
+      "l": "MIT",
+      "s": "src",
+      "b": "bin",
+      "p": [
+        "monit"
+      ],
+      "m": "1.4.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:47:39Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "1.0.0",
+      "1.1.0",
+      "v1.2.0",
+      "v1.2.1",
+      "v1.2.2",
+      "v1.2.3",
+      "v1.3.0",
+      "v1.3.2"
+    ],
+    "tagVersions": {
+      "v1.2.0": "1.2.0",
+      "v1.2.1": "1.2.1",
+      "v1.2.2": "1.2.2",
+      "v1.2.3": "1.2.3",
+      "v1.3.0": "1.3.0",
+      "v1.3.2": "1.3.2"
+    },
+    "latest": "v1.3.2"
+  },
+  "allDeps": {
+    "packages": [
+      "cligen",
+      "yaml"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

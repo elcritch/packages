@@ -1,0 +1,28 @@
+{
+  "cv": 17,
+  "name": "minmaxheap",
+  "fqn": "minmaxheap.stefansalewski.github.com",
+  "head": "63fd1d00588006e4b004d13156e78c1043b127c9",
+  "author": "Stefan Salewski",
+  "description": "MinMaxHeap",
+  "license": "MIT",
+  "nim": "0.19.9",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@63fd1d00588006e4b004d13156e78c1043b127c9^",
+      "r": []
+    },
+    {
+      "v": "#head@63fd1d00588006e4b004d13156e78c1043b127c9",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:47:34Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

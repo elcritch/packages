@@ -1,0 +1,82 @@
+{
+  "cv": 17,
+  "name": "gatabase",
+  "fqn": "nim-gatabase.juancarlospaco.github.com",
+  "head": "3aaba860e3090504c77faa419e14c239dfd46045",
+  "author": "juancarlospaco",
+  "description": "Gatabase",
+  "license": "MIT",
+  "nim": "0.19.0",
+  "srcDir": "src",
+  "skipDirs": [
+    "tests",
+    "examples",
+    "docs"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@89648250e37d93c5da892a7177660ab371bf1dc0",
+      "r": [],
+      "x": []
+    },
+    {
+      "v": "0.2.0@76f554d9bc5f81cec641809583a8196bf7506281",
+      "r": [],
+      "a": "Juan Carlos",
+      "d": "Gatabase Postgres and SQLite Database ORM for Nim",
+      "m": "0.19.2",
+      "x": []
+    },
+    {
+      "v": "0.2.2@a464ee50573f2c72263a3c9d9b641f9fe9073837",
+      "r": [],
+      "a": "Juan Carlos",
+      "d": "Gatabase Postgres and SQLite Database ORM for Nim",
+      "m": "0.19.4",
+      "x": []
+    },
+    {
+      "v": "0.5.0@0c78544b264993bd688ef6c5335d656751f6da61",
+      "r": [],
+      "a": "Juan Carlos",
+      "d": "Compile-Time ORM for Nim",
+      "m": "1.0.0",
+      "x": []
+    },
+    {
+      "v": "0.9.0@76cda2828edc2ea037069cd56063fcb502d6df6d",
+      "r": [],
+      "a": "Juan Carlos",
+      "d": "Compile-Time ORM for Nim",
+      "m": "1.2.0"
+    },
+    {
+      "v": "0.9.9@bb3dd939356bfed14dd62492b7c9f20aea977f0c",
+      "r": [],
+      "a": "Juan Carlos",
+      "d": "Compile-Time ORM for Nim",
+      "m": "1.2.4"
+    },
+    {
+      "v": "#head@3aaba860e3090504c77faa419e14c239dfd46045",
+      "r": [],
+      "a": "Juan Carlos",
+      "d": "Compile-Time ORM for Nim",
+      "l": "MIT",
+      "s": "src",
+      "x": [
+        "tests",
+        "examples",
+        "docs"
+      ],
+      "m": "1.2.6"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:04Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

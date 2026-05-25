@@ -1,0 +1,170 @@
+{
+  "cv": 17,
+  "name": "uing",
+  "fqn": "uing.neroist.github.com",
+  "head": "d6c5ca0bf5acd1651b48eb13e7d9469495f43010",
+  "author": "Jasmine",
+  "description": "Wrapper for libui-ng, a maintained fork of libui.",
+  "license": "MIT",
+  "nim": "1.2.0",
+  "installDirs": [
+    "uing",
+    "res"
+  ],
+  "installFiles": [
+    "uing.nim"
+  ],
+  "releases": [
+    {
+      "v": "0.8.2@cc8a559c5307d927ebf32d170bd14004905c599f",
+      "r": []
+    },
+    {
+      "v": "0.8.1@3a379dc46118e68536cd906ceddfbd9464e6e546",
+      "r": []
+    },
+    {
+      "v": "0.8.0@f77e1ee2818a8309fa4ffdfc026ddf47c9c296b6",
+      "r": []
+    },
+    {
+      "v": "0.7.3@d69e5238a396dd3c9e11b1bfb5ceed11682c84e3",
+      "r": []
+    },
+    {
+      "v": "0.7.2@b3aceb18b5e17af76f3bae19ef62088edfd7b3ae",
+      "r": []
+    },
+    {
+      "v": "0.7.1@73d191f4fc45b93ad4da636ff20f52ebaead628b",
+      "r": []
+    },
+    {
+      "v": "0.7.0@4606657d19347d994ed8ab39d09c53fa0cb72cc4",
+      "r": [],
+      "m": "0.19.4"
+    },
+    {
+      "v": "0.6.4@073df12cbf7617f7035fcab21ca2a17ab989f5d3",
+      "r": [],
+      "d": "Wrapper for libui-ng, a maintained fork of libui",
+      "m": "0.19.4"
+    },
+    {
+      "v": "0.6.3@0e1bdf24a878d07453374e4954b6b005bfb7e3e7",
+      "r": [],
+      "d": "Wrapper for libui-ng, a maintained fork of libui",
+      "m": "0.19.4"
+    },
+    {
+      "v": "0.6.2@58f72cfe931f20b927dd2493defc70dcf1f635c4",
+      "r": [],
+      "d": "Wrapper for libui-ng, a maintained fork of libui",
+      "m": "0.19.4"
+    },
+    {
+      "v": "0.6.1@7c8dcff9779ced6da5712220113a9ca9fb6f9e05",
+      "r": [],
+      "d": "Wrapper for libui-ng, a maintained fork of libui",
+      "m": "0.19.4"
+    },
+    {
+      "v": "0.6.0@7af82f7201ac79a469c4e5d0524c3a57ac7d7dca",
+      "r": [],
+      "d": "Wrapper for libui-ng, a maintained fork of libui",
+      "m": "0.19.4"
+    },
+    {
+      "v": "0.5.2@1534620c1f331cf6d4e12c70ee39bb55ffd65036",
+      "r": [],
+      "d": "Wrapper for libui-ng, a maintained fork of libui",
+      "m": "0.19.4"
+    },
+    {
+      "v": "0.5.1@f25529f63033663ac918f64b73b76320acf296ba",
+      "r": [],
+      "d": "Wrapper for libui-ng, a maintained fork of libui",
+      "m": "0.19.4"
+    },
+    {
+      "v": "0.5.0@86dc49ed1ca4d926fce0ea4dbad35a9973a02194",
+      "r": [],
+      "d": "Wrapper for libui-ng, a maintained fork of libui",
+      "m": "0.19.4"
+    },
+    {
+      "v": "0.4.0@ee18197ac830a6d06d690cf0caa75d36c1287d36",
+      "r": [],
+      "d": "Wrapper for libui-ng, a maintained fork of libui",
+      "m": "0.19.4"
+    },
+    {
+      "v": "0.3.0@6c48fae45dae3261bf64ed18a49f006eed9b34a7",
+      "r": [],
+      "d": "Wrapper for libui-ng, a maintained fork of libui",
+      "m": "0.19.4"
+    },
+    {
+      "v": "0.2.0@f91b45fc20b221f414d915b6780e0c8a2f4325a6",
+      "r": [],
+      "d": "Wrapper for libui-ng, a maintained fork of libui",
+      "m": "0.19.4"
+    },
+    {
+      "v": "0.1.0@2f918cd78e2a454fe0a0b019a131ef286f2b70f3",
+      "r": [],
+      "d": "Wrapper for libui-ng, a maintained fork of libui",
+      "m": "0.19.4"
+    },
+    {
+      "v": "#head@d6c5ca0bf5acd1651b48eb13e7d9469495f43010",
+      "r": [],
+      "a": "Jasmine",
+      "d": "Wrapper for libui-ng, a maintained fork of libui.",
+      "l": "MIT",
+      "i": [
+        "uing",
+        "res"
+      ],
+      "j": [
+        "uing.nim"
+      ],
+      "m": "1.2.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:53:17Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.1.0",
+      "0.2.0",
+      "0.3.0",
+      "0.4.0",
+      "0.5.0",
+      "0.5.1",
+      "0.5.2",
+      "0.6.0",
+      "0.6.1",
+      "0.6.2",
+      "0.6.3",
+      "0.6.4",
+      "0.7.0",
+      "0.7.1",
+      "0.7.2",
+      "0.7.3",
+      "0.8.0",
+      "0.8.1",
+      "0.8.2"
+    ],
+    "latest": "0.8.2"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "cv": 17,
+  "name": "FastKiss",
+  "fqn": "fastkiss.mrhdias.github.com",
+  "head": "9f5916edb782d2c0fc828dcbf29df779a1300690",
+  "author": "Henrique Dias",
+  "description": "FastKiss - Nim's FastCGI Web Framework",
+  "license": "MIT",
+  "nim": "1.2.6",
+  "skipDirs": [
+    "examples",
+    "tests"
+  ],
+  "releases": [
+    {
+      "v": "0.0.1@254de7d1890d6c7df7be838e7dd63378a5e943a7",
+      "r": []
+    },
+    {
+      "v": "#head@9f5916edb782d2c0fc828dcbf29df779a1300690",
+      "r": [
+        "regex >= 0.19.0"
+      ],
+      "a": "Henrique Dias",
+      "d": "FastKiss - A FastCGI Web Framework for Nim",
+      "l": "MIT",
+      "x": [
+        "examples",
+        "tests"
+      ],
+      "m": "1.4.6"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:41:32Z",
+  "allDeps": {
+    "packages": [
+      "graphemes",
+      "regex",
+      "segmentation",
+      "unicodedb",
+      "unicodeplus"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

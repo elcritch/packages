@@ -1,0 +1,93 @@
+{
+  "cv": 17,
+  "name": "batchsend",
+  "fqn": "batchsend.marcomq.github.com",
+  "head": "95337cf49dd4d000b01ae16925ba82831026b853",
+  "author": "Marco Mengelkoch",
+  "description": "Nim / Python library to feed HTTP server quickly with custom messages",
+  "license": "MIT",
+  "nim": "1.0.0",
+  "srcDir": "src",
+  "bin": [
+    "batchsend"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@ea7e5f09342e1a432bebe2b7c90a640b2e6aac76",
+      "r": [
+        "nimpy >= 0.1.1"
+      ]
+    },
+    {
+      "v": "0.1.1@de122f0da63b620a8af7a2decf45fdda086e7333",
+      "r": [
+        "nimpy >= 0.1.1"
+      ]
+    },
+    {
+      "v": "0.2.0@b63d2c4210e9fcc3be82e5ca1a2b4cd68ac2d4b4",
+      "r": [
+        "nimpy >= 0.1.1"
+      ]
+    },
+    {
+      "v": "0.2.1@642e38d21dde5a209bb67846231cec25b410aa37",
+      "r": [
+        "nimpy >= 0.1.1"
+      ],
+      "m": "1.2.10"
+    },
+    {
+      "v": "0.3.1@a0283832404dffcc8ae65ad7ededf8c9e029d8de",
+      "r": [
+        "nimpy >= 0.1.1"
+      ],
+      "m": "1.2.10",
+      "p": []
+    },
+    {
+      "v": "0.3.2@3665e69fe40e125dc0ca7ab7808c2fd454a34461",
+      "r": [
+        "nimpy >= 0.1.1"
+      ],
+      "m": "1.2.10",
+      "p": []
+    },
+    {
+      "v": "0.3.3@f8f6da01d6e53e35ac49d3a3b3cebbd8564d6fec",
+      "r": [
+        "nimpy >= 0.1.1"
+      ],
+      "m": "1.2.10",
+      "p": []
+    },
+    {
+      "v": "0.3.4@a56ad6dc5354f758be56550104ae1f4d7ad9d384",
+      "r": [
+        "nimpy >= 0.1.1"
+      ],
+      "m": "1.2.10",
+      "p": []
+    },
+    {
+      "v": "#head@95337cf49dd4d000b01ae16925ba82831026b853",
+      "r": [
+        "nimpy >= 0.1.1"
+      ],
+      "a": "Marco Mengelkoch",
+      "d": "Nim / Python library to feed HTTP server quickly with custom messages",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.2.10"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:42:28Z",
+  "allDeps": {
+    "packages": [
+      "nimpy"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

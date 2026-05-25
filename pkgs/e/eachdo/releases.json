@@ -1,0 +1,59 @@
+{
+  "cv": 17,
+  "name": "eachdo",
+  "fqn": "eachdo.jiro4989.github.com",
+  "head": "2e4171452594f9a1b2ebdaa92ec03b06c6b48d2e",
+  "author": "jiro4989",
+  "description": "eachdo executes commands with each multidimensional values",
+  "license": "MIT",
+  "nim": "1.4.0",
+  "srcDir": "src",
+  "binDir": "bin",
+  "bin": [
+    "eachdo"
+  ],
+  "releases": [
+    {
+      "v": "0.1.1@2e4171452594f9a1b2ebdaa92ec03b06c6b48d2e^",
+      "r": [
+        "argparse >= 0.10.1"
+      ]
+    },
+    {
+      "v": "0.1.0@7a0e2fb36e2eb670fdfe21a5b0b9f1ff93c78998",
+      "r": [
+        "argparse >= 0.10.1"
+      ]
+    },
+    {
+      "v": "#head@2e4171452594f9a1b2ebdaa92ec03b06c6b48d2e",
+      "r": [
+        "argparse >= 0.10.1"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:16Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.0",
+      "v0.1.1"
+    ],
+    "tagVersions": {
+      "v0.1.0": "0.1.0",
+      "v0.1.1": "0.1.1"
+    },
+    "latest": "v0.1.1"
+  },
+  "allDeps": {
+    "packages": [
+      "argparse"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

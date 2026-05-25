@@ -1,0 +1,61 @@
+{
+  "cv": 17,
+  "name": "notify",
+  "fqn": "notify-nim.xbello.github.com",
+  "head": "6dcd5d9944ccc13c67911de64a6a78d941fecb9b",
+  "author": "Xabi Bello",
+  "description": "A wrapper to notification libraries",
+  "license": "MIT",
+  "nim": "0.19.4",
+  "srcDir": "src",
+  "installExt": [
+    "nim"
+  ],
+  "bin": [
+    "notify"
+  ],
+  "releases": [
+    {
+      "v": "0.1.5@da459a8336ea239cd22704626cd56fccdf8f7ba6",
+      "r": []
+    },
+    {
+      "v": "0.1.4@6d3cd3783a1113ac4e1d8589921b756e673776ae",
+      "r": []
+    },
+    {
+      "v": "0.1.2@17ab6e8aecffd0d7a0932e898252287b3037afd6",
+      "r": []
+    },
+    {
+      "v": "0.1.1@c0ea7fa9f51a6e3f40264db8fbe3beb25726cd20",
+      "r": []
+    },
+    {
+      "v": "0.1.0@df9c8116f074b99fb4f21fa13b25bf60b8989efd",
+      "r": []
+    },
+    {
+      "v": "#head@6dcd5d9944ccc13c67911de64a6a78d941fecb9b",
+      "r": [],
+      "a": "Xabi Bello",
+      "d": "A wrapper to notification libraries",
+      "l": "MIT",
+      "s": "src",
+      "k": [
+        "nim"
+      ],
+      "p": [
+        "notify"
+      ],
+      "m": "0.19.4"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:49:42Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

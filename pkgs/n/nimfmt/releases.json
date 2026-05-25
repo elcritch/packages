@@ -1,0 +1,30 @@
+{
+  "cv": 17,
+  "name": "nimfmt",
+  "fqn": "nimfmt.FedericoCeratto.github.com",
+  "head": "8fe9829e669de664f97cece5b3dacca496d73473",
+  "author": "Federico Ceratto",
+  "description": "Nim restyling tool",
+  "license": "GPLv3",
+  "nim": "#head",
+  "bin": [
+    "nimfmt"
+  ],
+  "releases": [
+    {
+      "v": "0.2.0@8fe9829e669de664f97cece5b3dacca496d73473^",
+      "r": []
+    },
+    {
+      "v": "#head@8fe9829e669de664f97cece5b3dacca496d73473",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:48:43Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

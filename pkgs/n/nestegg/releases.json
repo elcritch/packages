@@ -1,0 +1,43 @@
+{
+  "cv": 17,
+  "name": "nestegg",
+  "fqn": "nim-nestegg.capocasa.github.com",
+  "head": "0d1fb41be2536177157ba84f36d1d14a0cb09934",
+  "author": "Carlo Capocasa",
+  "description": "A demuxer for the webm audio/video container format, which is a subset of the matroska container format. Wraps the nestegg C library.",
+  "license": "0BSD",
+  "nim": "1.4.0",
+  "releases": [
+    {
+      "v": "0.1.0@2d3795a58c66ab9c3558b3647877e3ad7375df8a",
+      "r": [
+        "nimterop"
+      ]
+    },
+    {
+      "v": "#head@0d1fb41be2536177157ba84f36d1d14a0cb09934",
+      "r": [
+        "nimterop"
+      ],
+      "a": "Carlo Capocasa",
+      "d": "nestegg, a portable demuxer for the webm audio/video container format, which is a subset of the matroska container format.",
+      "l": "0BSD",
+      "m": "1.4.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:48:01Z",
+  "allDeps": {
+    "packages": [
+      "cligen",
+      "graphemes",
+      "nimterop",
+      "regex",
+      "segmentation",
+      "unicodedb",
+      "unicodeplus"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

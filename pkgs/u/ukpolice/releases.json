@@ -1,0 +1,37 @@
+{
+  "cv": 17,
+  "name": "ukpolice",
+  "fqn": "ukpolice.nemuelw.github.com",
+  "head": "f770a489d8f0b7bfc60bcb496870a54bffb6cdd3",
+  "author": "Nemuel Wainaina",
+  "description": "Nim wrapper for the UK Police Data API",
+  "license": "MIT",
+  "nim": "1.6",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@5ea06b99d0fd5ae298e3919e3597e10a59f5445e",
+      "r": []
+    },
+    {
+      "v": "#head@f770a489d8f0b7bfc60bcb496870a54bffb6cdd3",
+      "r": [
+        "jsony >= 1.1.5"
+      ],
+      "a": "Nemuel Wainaina",
+      "d": "Nim wrapper for the UK Police Data API",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.6"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:53:16Z",
+  "allDeps": {
+    "packages": [
+      "jsony"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

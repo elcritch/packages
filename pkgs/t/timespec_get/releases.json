@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "timespec_get",
+  "fqn": "nim-timespec_get.Matceporial.github.com",
+  "head": "76021234c2f0678c093a83f777c4936072444e70",
+  "author": "Matceporial",
+  "description": "Nanosecond-percision time using timespec_get of C11",
+  "license": "0BSD",
+  "nim": "0.18.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@283e55f660910cacdaff7414fe6a7d83244d80b8",
+      "r": []
+    },
+    {
+      "v": "#head@76021234c2f0678c093a83f777c4936072444e70",
+      "r": [],
+      "a": "Matceporial",
+      "d": "Nanosecond-percision time using timespec_get of C11",
+      "l": "0BSD",
+      "s": "src",
+      "m": "0.18.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:54Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

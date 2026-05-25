@@ -1,0 +1,41 @@
+{
+  "cv": 17,
+  "name": "json2schema",
+  "fqn": "json2schema.Luteva-ssh.github.com",
+  "head": "43d99722418ce1ad99919ce0d6e3d8cb604033ae",
+  "author": "json2schema contributors",
+  "description": "Infer a JSON Schema (draft 2020-12) from any JSON value",
+  "license": "MIT",
+  "nim": "1.6.0",
+  "srcDir": "src",
+  "binDir": "bin",
+  "bin": [
+    "json2schema"
+  ],
+  "releases": [
+    {
+      "v": "1.0.0@287e700b6eaf325ac1a0e424338d48c276247f9c",
+      "r": []
+    },
+    {
+      "v": "#head@43d99722418ce1ad99919ce0d6e3d8cb604033ae",
+      "r": [],
+      "a": "Janni Adamski",
+      "d": "Infer a JSON Schema (draft 2020-12) from any JSON value",
+      "l": "MIT",
+      "s": "src",
+      "b": "bin",
+      "p": [
+        "json2schema"
+      ],
+      "m": "1.6.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:46:21Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

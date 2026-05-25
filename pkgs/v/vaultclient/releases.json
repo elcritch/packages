@@ -1,0 +1,52 @@
+{
+  "cv": 17,
+  "name": "vaultclient",
+  "fqn": "vaultclient.nim.jackhftang.github.com",
+  "head": "3003d2c30b7d1e9bae34da37b8b66bd5f93d4f52",
+  "author": "Jack Tang",
+  "description": "Hashicorp Vault HTTP Client",
+  "license": "MIT",
+  "nim": "1.2.0",
+  "srcDir": "src",
+  "binDir": "bin",
+  "backend": "c",
+  "releases": [
+    {
+      "v": "0.1.1@28ab41959948e92722effa02fe0f91aee846d1d6",
+      "r": []
+    },
+    {
+      "v": "0.1.0@b9af83190f9be3e8d1fd62a7113244b6e4de27ab",
+      "r": []
+    },
+    {
+      "v": "#head@3003d2c30b7d1e9bae34da37b8b66bd5f93d4f52",
+      "r": [],
+      "a": "Jack Tang",
+      "d": "Hashicorp Vault HTTP Client",
+      "l": "MIT",
+      "s": "src",
+      "b": "bin",
+      "e": "c",
+      "m": "1.2.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:53:31Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.1.0",
+      "0.1.1"
+    ],
+    "latest": "0.1.1"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

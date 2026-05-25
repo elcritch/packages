@@ -1,0 +1,36 @@
+{
+  "cv": 17,
+  "name": "db",
+  "fqn": "db.jlp765.github.com",
+  "head": "b7e69389ed00019ba791005af6bc966d1600551c",
+  "author": "James Parkinson",
+  "description": "Unified database access to Sqlite, MySql, and Postgres",
+  "license": "MIT",
+  "releases": [
+    {
+      "v": "1.1.0@b7e69389ed00019ba791005af6bc966d1600551c^",
+      "r": []
+    },
+    {
+      "v": "#head@b7e69389ed00019ba791005af6bc966d1600551c",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:43:52Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "1.1.0"
+    ],
+    "latest": "1.1.0"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

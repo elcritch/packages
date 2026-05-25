@@ -1,0 +1,50 @@
+{
+  "cv": 17,
+  "name": "rwlocks",
+  "fqn": "nim-rwlocks.tdely.github.com",
+  "head": "dae587cec12d17e2037743e35286f9ba84b02e76",
+  "author": "Tobias Dély",
+  "description": "Readers-writer locks",
+  "license": "MIT",
+  "nim": "1.6.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "1.0.1@dae587cec12d17e2037743e35286f9ba84b02e76^",
+      "r": [],
+      "s": ""
+    },
+    {
+      "v": "1.0.0@cd2678ef48980466a42603307faf521e6a6f9705",
+      "r": [],
+      "d": "Readers-writer (MRSW) lock"
+    },
+    {
+      "v": "#head@dae587cec12d17e2037743e35286f9ba84b02e76",
+      "r": [],
+      "s": ""
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:21Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v1.0.0",
+      "v1.0.1"
+    ],
+    "tagVersions": {
+      "v1.0.0": "1.0.0",
+      "v1.0.1": "1.0.1"
+    },
+    "latest": "v1.0.1"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

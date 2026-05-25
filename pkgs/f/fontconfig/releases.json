@@ -1,0 +1,26 @@
+{
+  "cv": 17,
+  "name": "fontconfig",
+  "fqn": "fontconfig.Parashurama.github.com",
+  "head": "9382f81571f7d8016bf7d871361563981efa7c69",
+  "author": "Parashurama",
+  "description": "Low level wrapper for the fontconfig library.",
+  "license": "Fontconfig Licence.",
+  "releases": [
+    {
+      "v": "0.1.0@9382f81571f7d8016bf7d871361563981efa7c69^",
+      "r": []
+    },
+    {
+      "v": "#head@9382f81571f7d8016bf7d871361563981efa7c69",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:53Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

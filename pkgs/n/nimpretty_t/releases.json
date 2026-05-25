@@ -1,0 +1,60 @@
+{
+  "cv": 17,
+  "name": "nimpretty_t",
+  "fqn": "nimpretty_t.tobealive.github.com",
+  "head": "375924cd42a2b1369647ced52e60c9dd0d13e6a9",
+  "author": "Turiiya",
+  "description": "Formatter and diff viewer utilizing nimpretty. Allows for tab indentation.",
+  "license": "MIT",
+  "nim": "2.0.4",
+  "srcDir": "src",
+  "bin": [
+    "nimpretty_t"
+  ],
+  "releases": [
+    {
+      "v": "0.4.0@ff65a3863fbe72d6428882cdd16e6e98c4ca14b8",
+      "r": []
+    },
+    {
+      "v": "0.3.1@9943917d75ed71997fad6139f6f9362d0656d8cc",
+      "r": []
+    },
+    {
+      "v": "#head@375924cd42a2b1369647ced52e60c9dd0d13e6a9",
+      "r": [],
+      "a": "Turiiya",
+      "d": "Formatter and diff viewer utilizing nimpretty. Allows for tab indentation.",
+      "l": "MIT",
+      "s": "src",
+      "p": [
+        "nimpretty_t"
+      ],
+      "m": "2.0.4"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:49:06Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.0",
+      "v0.3.1",
+      "v0.4.0"
+    ],
+    "tagVersions": {
+      "v0.1.0": "0.1.0",
+      "v0.3.1": "0.3.1",
+      "v0.4.0": "0.4.0"
+    },
+    "latest": "v0.4.0"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

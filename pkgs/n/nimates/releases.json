@@ -1,0 +1,35 @@
+{
+  "cv": 17,
+  "name": "nimates",
+  "fqn": "nimates.jamesalbert.github.com",
+  "head": "97e426f64835ebc868d75b5f74470496426152e7",
+  "author": "James Albert",
+  "description": "a client library for the Postmates API written in Nim",
+  "license": "Apache License 2.0",
+  "nim": "0.17.2",
+  "bin": [
+    "nimates"
+  ],
+  "releases": [
+    {
+      "v": "0.0.1@9e3904d06b35c6e028d189da105aa5fa3fc72cf0",
+      "r": []
+    },
+    {
+      "v": "#head@97e426f64835ebc868d75b5f74470496426152e7",
+      "r": [],
+      "a": "James Albert",
+      "d": "a client library for the Postmates API written in Nim",
+      "l": "Apache License 2.0",
+      "s": "src",
+      "m": "0.17.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:48:27Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

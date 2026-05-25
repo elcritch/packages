@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "nest",
+  "fqn": "nest.kedean.github.com",
+  "head": "03b9c54925965c991e83527b256423130657e87a",
+  "author": "Kevin Dean",
+  "description": "RESTful URI router",
+  "license": "MIT",
+  "nim": "0.13.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@0c55cd1b9dffd46cc2fc267bb2c7822c1d317964",
+      "r": []
+    },
+    {
+      "v": "#head@03b9c54925965c991e83527b256423130657e87a",
+      "r": [],
+      "a": "Kevin Dean <kevin.e.dean@gmail.com>",
+      "d": "RESTful URI router",
+      "l": "MIT",
+      "s": "src",
+      "m": "0.13.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:48:01Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

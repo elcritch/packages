@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "e2ee",
+  "fqn": "e2ee.openpeeps.github.com",
+  "head": "d09dab7c8385db2deead2eb9951c981f65c79826",
+  "author": "George Lemon",
+  "description": "Monocypher-based end-to-end encryption library for Nim",
+  "license": "MIT",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@b51ea86fc9befe63ea7579682d577db1e30df68f",
+      "r": []
+    },
+    {
+      "v": "#head@d09dab7c8385db2deead2eb9951c981f65c79826",
+      "r": [],
+      "a": "George Lemon",
+      "d": "Monocypher E2EE, Hashing, Password Hashing, Sealing and Key Exchange",
+      "l": "MIT",
+      "s": "src",
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:16Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

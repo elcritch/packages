@@ -1,0 +1,135 @@
+{
+  "cv": 17,
+  "name": "random",
+  "fqn": "nim-random.oprypin.github.com",
+  "head": "4cf3e09857415341d90477d1495a752a11b6f7c2",
+  "author": "Oleh Prypin",
+  "description": "Pseudo-random number generation library inspired by Python",
+  "license": "MIT",
+  "nim": "0.12.0",
+  "srcDir": "src",
+  "skipDirs": [
+    "test"
+  ],
+  "releases": [
+    {
+      "v": "0.5.7@881019662b584c43f2ef5158ff346bf6b6b29f88",
+      "r": []
+    },
+    {
+      "v": "0.5.6@775f878ed1f89677e17b0ab28e3498a36f8b7679",
+      "r": []
+    },
+    {
+      "v": "0.5.5@68a4bc7987eea387e31f8124a92c4873e145c053",
+      "r": [],
+      "s": "",
+      "x": []
+    },
+    {
+      "v": "0.5.4@3213cc333235ed3578c6de323f459f0a1378671c",
+      "r": [],
+      "s": "",
+      "x": []
+    },
+    {
+      "v": "0.5.3@446bc216d0e8cf3cc5610d0061aceac9334596d2",
+      "r": [],
+      "s": "",
+      "x": []
+    },
+    {
+      "v": "0.5.2@5c8090c03d44347cbcee24dc95700ec23a47dfcc",
+      "r": [],
+      "m": "0.10.3",
+      "s": "",
+      "x": []
+    },
+    {
+      "v": "0.5.1@446c4942fc6bd1bc339936807d76610777febbd0",
+      "r": [],
+      "m": "0.10.3",
+      "s": "",
+      "x": []
+    },
+    {
+      "v": "0.5.0@1fbeb89881feae0b2befd2e026fd30ee76c247ee",
+      "r": [],
+      "m": "0.10.3",
+      "s": "",
+      "x": []
+    },
+    {
+      "v": "0.4.0@989a7a738912b65eb46fef4017d54999c70cd983",
+      "r": [],
+      "m": "0.10.3",
+      "s": "",
+      "x": []
+    },
+    {
+      "v": "0.3.0@18479d8033696540f53a90869ac4b881631b9fdd",
+      "r": [],
+      "m": "0.10.3",
+      "s": "",
+      "x": []
+    },
+    {
+      "v": "0.2.4@ce750b5b5b3eb74fd4cf5dc9a63de4b0ec3509db",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file",
+      "m": "~",
+      "s": "",
+      "x": []
+    },
+    {
+      "v": "#head@4cf3e09857415341d90477d1495a752a11b6f7c2",
+      "n": "random",
+      "r": [],
+      "a": "Oleh Prypin",
+      "d": "Pseudo-random number generation library inspired by Python",
+      "l": "MIT",
+      "s": "src",
+      "x": [
+        "test"
+      ],
+      "m": "0.12.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:00Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.2.4",
+      "v0.3.0",
+      "v0.4.0",
+      "v0.5.0",
+      "v0.5.1",
+      "v0.5.2",
+      "v0.5.3",
+      "v0.5.5",
+      "v0.5.7"
+    ],
+    "tagVersions": {
+      "v0.2.4": "0.2.4",
+      "v0.3.0": "0.3.0",
+      "v0.4.0": "0.4.0",
+      "v0.5.0": "0.5.0",
+      "v0.5.1": "0.5.1",
+      "v0.5.2": "0.5.2",
+      "v0.5.3": "0.5.3",
+      "v0.5.5": "0.5.5",
+      "v0.5.7": "0.5.7"
+    },
+    "latest": "v0.5.7"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

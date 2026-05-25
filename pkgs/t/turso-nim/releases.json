@@ -1,0 +1,41 @@
+{
+  "cv": 17,
+  "name": "turso-nim",
+  "fqn": "turso-nim.13thab.codeberg.org",
+  "head": "44cce7f907c7d250faf3274e506f5e239b132273",
+  "author": "13thab",
+  "description": "A new awesome nimble client for libsql and turso",
+  "license": "BSD-3-Clause",
+  "nim": "2.0.2",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.2.0@4a5d369e2e15516b99728138be151ae884b62e12",
+      "r": []
+    },
+    {
+      "v": "0.1.2@4033e1c1a2217ebfdc3ebdd6c21e695376dc9ca4",
+      "r": []
+    },
+    {
+      "v": "0.1.1@76df7eb75973027f8b9d28907d53e11243da6665",
+      "r": []
+    },
+    {
+      "v": "#head@44cce7f907c7d250faf3274e506f5e239b132273",
+      "r": [],
+      "a": "13thab",
+      "d": "A new awesome nimble client for libsql and turso",
+      "l": "BSD-3-Clause",
+      "s": "src",
+      "m": "2.0.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:53:13Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

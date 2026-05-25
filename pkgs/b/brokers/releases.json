@@ -1,0 +1,101 @@
+{
+  "cv": 17,
+  "name": "brokers",
+  "fqn": "nim-brokers.NagyZoltanPeter.github.com",
+  "head": "74799f7e82b349d4933bf7307c1fcae48980bd42",
+  "releases": [
+    {
+      "v": "3.0.0@d8f36fd396d148f303a58b4347a366fadf5645a9",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file"
+    },
+    {
+      "v": "2.1.0@d2971252ea9767a342db9703c04cb6f80ffa4382",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file"
+    },
+    {
+      "v": "2.0.1@2093ca4d50e581adda73fee7fd16231f990f4cbe",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file"
+    },
+    {
+      "v": "2.0.0@6cbf2b52e29849975b476b7809f7e35af7ccc335",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file"
+    },
+    {
+      "v": "1.2.0@72cc7be8e663166de3f3354894e9efa3cbf056da",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file"
+    },
+    {
+      "v": "1.1.0@7adf547a33f55a9a487b16848772599af0fd5b39",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file"
+    },
+    {
+      "v": "1.0.0@78c45e142c17a8e1b91863346eb6fabfb2aa0ba6",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file"
+    },
+    {
+      "v": "0.2.0@e59578145a0dfec4af846f41e81f9b19b89d38d2",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file"
+    },
+    {
+      "v": "0.1.0@62340c36955d58964c9f7764eebbe2a3ceeff4fb",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file"
+    },
+    {
+      "v": "#head@74799f7e82b349d4933bf7307c1fcae48980bd42",
+      "r": [
+        "chronos >= 4.0.0",
+        "results >= 0.5.0",
+        "chronicles >= 0.10.0",
+        "testutils >= 0.5.0",
+        "cbor_serialization >= 0.3.0"
+      ],
+      "a": "Nagy Zoltan Peter",
+      "d": "Type-safe, decoupled messaging patterns for Nim / single thread, cross-thread and FFI API support!",
+      "l": "MIT",
+      "x": [
+        "tests",
+        "examples",
+        "tools"
+      ],
+      "m": "2.2.4"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:42:53Z",
+  "allDeps": {
+    "packages": [
+      "bearssl",
+      "cbor_serialization",
+      "chronicles",
+      "chronos",
+      "faststreams",
+      "httputils",
+      "json_serialization",
+      "results",
+      "serialization",
+      "stew",
+      "testutils",
+      "unittest2"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

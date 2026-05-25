@@ -1,0 +1,98 @@
+{
+  "cv": 17,
+  "name": "silky",
+  "fqn": "silky.treeform.github.com",
+  "head": "8bcdaa0f44754fbec761fad4e4811112eb588b94",
+  "author": "Andre von Houck",
+  "description": "Silky immediate mode UI graphics.",
+  "license": "MIT",
+  "nim": "2.2.4",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@8bcdaa0f44754fbec761fad4e4811112eb588b94^",
+      "r": [
+        "pixie",
+        "shady >= 0.1.5",
+        "vmath",
+        "windy",
+        "dx12",
+        "vk14",
+        "metal4",
+        "chroma",
+        "bumpy",
+        "jsony",
+        "fluffy"
+      ]
+    },
+    {
+      "v": "0.0.2@2580768d622e69c851af4a4d007e5ef073a63258",
+      "r": [
+        "pixie",
+        "shady >= 0.1.5",
+        "vmath",
+        "windy",
+        "dx12",
+        "vk14",
+        "metal4",
+        "chroma",
+        "bumpy",
+        "jsony",
+        "fluffy"
+      ]
+    },
+    {
+      "v": "#head@8bcdaa0f44754fbec761fad4e4811112eb588b94",
+      "r": [
+        "pixie",
+        "shady >= 0.1.5",
+        "vmath",
+        "windy",
+        "dx12",
+        "vk14",
+        "metal4",
+        "chroma",
+        "bumpy",
+        "jsony",
+        "fluffy"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:48Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.0.2",
+      "0.1.0"
+    ],
+    "latest": "0.1.0"
+  },
+  "allDeps": {
+    "packages": [
+      "bumpy",
+      "chroma",
+      "dx12",
+      "fluffy",
+      "jsony",
+      "mddoc",
+      "metal4",
+      "opengl",
+      "pixie",
+      "shady",
+      "urlly",
+      "vk14",
+      "vmath",
+      "windy",
+      "ws",
+      "x11"
+    ],
+    "urls": [],
+    "unresolved": [
+      "pixie"
+    ]
+  }
+}

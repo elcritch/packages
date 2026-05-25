@@ -1,0 +1,38 @@
+{
+  "cv": 17,
+  "name": "nimSHA2",
+  "fqn": "nimSHA2.jangko.github.com",
+  "head": "b8f666069dff1ed0c5142dd1ca692f0e71434716",
+  "author": "Andri Lim",
+  "description": "SHA2 secure hash algorithm - 2 - [224, 256, 384, 512 bits]",
+  "license": "MIT",
+  "releases": [
+    {
+      "v": "0.1.0@28d6a34fe359128141edeaeffc2f0957f1fdeba0",
+      "r": []
+    },
+    {
+      "v": "0.1.1@752e8f4b63ff61e6588c13a6d5a7bd4b666c2db7",
+      "r": []
+    },
+    {
+      "v": "#head@b8f666069dff1ed0c5142dd1ca692f0e71434716",
+      "r": [],
+      "a": "Andri Lim",
+      "d": "SHA2 secure hash algorithm - 2 - [224, 256, 384, 512 bits]",
+      "l": "MIT",
+      "x": [
+        "tests",
+        "docs"
+      ],
+      "m": "0.11.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:48:18Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "cv": 17,
+  "name": "loopfusion",
+  "fqn": "loopfusion.numforge.github.com",
+  "head": "c7c42e2df195a98fab20eaeb1be88902c4ae69fd",
+  "author": "Mamy André-Ratsimbazafy (Numforge SARL)",
+  "description": "Loop efficiently over a variadic number of containers",
+  "license": "MIT or Apache License 2.0",
+  "nim": "0.18.0",
+  "releases": [
+    {
+      "v": "0.0.1@03996628a99137a6b72b081897ba1f9694525ea7",
+      "r": []
+    },
+    {
+      "v": "#head@c7c42e2df195a98fab20eaeb1be88902c4ae69fd",
+      "n": "loopfusion",
+      "r": [],
+      "a": "Mamy André-Ratsimbazafy (Numforge SARL)",
+      "d": "Loop efficiently over a variadic number of containers",
+      "l": "MIT or Apache License 2.0",
+      "x": [
+        "experimental",
+        "build",
+        "tests"
+      ],
+      "m": "0.18.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:47:07Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

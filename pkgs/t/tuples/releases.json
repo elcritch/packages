@@ -1,0 +1,31 @@
+{
+  "cv": 17,
+  "name": "tuples",
+  "fqn": "tuples.MasonMcGill.github.com",
+  "head": "da51024576848a03a4f7b1a0826bf9b29c1db3e1",
+  "author": "Mason McGill",
+  "description": "Tuple manipulation utilities.",
+  "license": "MIT",
+  "releases": [
+    {
+      "v": "0.1.0@66e65261652a1d445aa4a306d95e645aeb94e3df",
+      "r": []
+    },
+    {
+      "v": "#head@da51024576848a03a4f7b1a0826bf9b29c1db3e1",
+      "n": "tuples",
+      "r": [],
+      "a": "Mason McGill",
+      "d": "Tuple manipulation utilities",
+      "l": "MIT",
+      "s": "source"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:53:11Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

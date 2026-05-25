@@ -1,0 +1,107 @@
+{
+  "cv": 17,
+  "name": "ad",
+  "fqn": "ad.subsetpark.github.com",
+  "head": "0e1fa79e2a1b7e0f7411136a84c612bf03c5d7af",
+  "author": "Z. D. Smith",
+  "description": "A simple RPN calculator",
+  "license": "MIT",
+  "nim": "1.2.0",
+  "srcDir": "src",
+  "binDir": "bin",
+  "skipExt": [
+    "nim"
+  ],
+  "bin": [
+    "ad"
+  ],
+  "releases": [
+    {
+      "v": "0.7.4@fdc731c9ee3d7dfe0200877700e7bd16d57e098a",
+      "r": [
+        "bignum >= 0.2.5"
+      ],
+      "s": "",
+      "b": ""
+    },
+    {
+      "v": "0.7.2@38661e503e7b45816a1239458ff9012361a8956c",
+      "r": [
+        "bignum >= 0.2.5"
+      ],
+      "m": "0.14.2",
+      "s": "",
+      "b": ""
+    },
+    {
+      "v": "0.7.1@89939814b143fc8c34daff4eb5d1e396faba8f63",
+      "r": [
+        "bignum >= 0.2.5"
+      ],
+      "m": "0.14.2",
+      "s": "",
+      "b": ""
+    },
+    {
+      "v": "0.7@422c1ffea6388bcd91862c9147c2b790311e7e38",
+      "r": [
+        "bignum >= 0.2.5"
+      ],
+      "m": "0.14.2",
+      "s": "",
+      "b": ""
+    },
+    {
+      "v": "0.6.4@cc1b1da0f691f7ac2a7123bf269d08315bf93eb3",
+      "r": [],
+      "m": "0.14.2",
+      "s": "",
+      "b": ""
+    },
+    {
+      "v": "0.6.3@dd414fe51912a798973acf92ad29adaab877f669",
+      "r": [],
+      "m": "0.14.2"
+    },
+    {
+      "v": "#head@0e1fa79e2a1b7e0f7411136a84c612bf03c5d7af",
+      "r": [
+        "bignum >= 0.2.5"
+      ],
+      "a": "Z. D. Smith",
+      "d": "A simple RPN calculator",
+      "l": "MIT",
+      "z": [
+        "nim"
+      ],
+      "p": [
+        "ad"
+      ],
+      "m": "1.2.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:41:45Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.6.3",
+      "0.6.4",
+      "0.7",
+      "0.7.1",
+      "0.7.2"
+    ],
+    "latest": "0.7.2"
+  },
+  "allDeps": {
+    "packages": [
+      "bignum > 0.6.4",
+      "gmp > 0.6.4"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "cv": 17,
+  "name": "circleci_client",
+  "fqn": "nim-circleci.FedericoCeratto.github.com",
+  "head": "6da50b7f8f60fb3b8c6cad6f003c6278c76e0900",
+  "author": "Federico Ceratto",
+  "description": "CircleCI API client",
+  "license": "LGPLv3",
+  "nim": "0.14.2",
+  "bin": [
+    "circleci_client"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@b4c0782597f21db8a22eb4933be212d77c07405e",
+      "r": []
+    },
+    {
+      "v": "#head@6da50b7f8f60fb3b8c6cad6f003c6278c76e0900",
+      "r": [],
+      "a": "Federico Ceratto",
+      "d": "CircleCI API client",
+      "l": "LGPLv3",
+      "p": [
+        "circleci_client"
+      ],
+      "m": "0.14.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:43:17Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "easings",
+  "fqn": "nim-easings.juancarlospaco.github.com",
+  "head": "f71b77acfa157455cfe4305bb74825df72efeead",
+  "author": "Juan Carlos",
+  "description": "Robert Penner Easing Functions for Nim",
+  "license": "MIT",
+  "nim": "0.20.2",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@1c3a72bbb2642356469cb68365934afe0c45dac6",
+      "r": []
+    },
+    {
+      "v": "#head@f71b77acfa157455cfe4305bb74825df72efeead",
+      "r": [],
+      "a": "Juan Carlos",
+      "d": "Robert Penner Easing Functions for Nim",
+      "l": "MIT",
+      "s": "src",
+      "m": "0.20.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:17Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

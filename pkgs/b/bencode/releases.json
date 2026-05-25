@@ -1,0 +1,27 @@
+{
+  "cv": 17,
+  "name": "bencode",
+  "fqn": "nim-bencode.FedericoCeratto.github.com",
+  "head": "ff97d661b79d4a8db8b18a54c82df54a3ea68788",
+  "author": "Federico Ceratto",
+  "description": "bencode library",
+  "license": "LGPLv3",
+  "nim": "0.17.2",
+  "releases": [
+    {
+      "v": "0.1.0@ff97d661b79d4a8db8b18a54c82df54a3ea68788^",
+      "r": []
+    },
+    {
+      "v": "#head@ff97d661b79d4a8db8b18a54c82df54a3ea68788",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:42:35Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

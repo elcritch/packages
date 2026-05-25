@@ -1,0 +1,51 @@
+{
+  "cv": 17,
+  "name": "ballena_itcher",
+  "fqn": "ballena-itcher.juancarlospaco.github.com",
+  "head": "c436047fcc865860ba8b34128131c72eb7692dfa",
+  "author": "Juan Carlos",
+  "description": "Flash ISO images to SD cards & USB drives, safely and easily.",
+  "license": "MIT",
+  "nim": "1.2.0",
+  "srcDir": "src",
+  "bin": [
+    "ballena_itcher"
+  ],
+  "releases": [
+    {
+      "v": "0.0.1@1f613afedc1ae6f646ad1919e999660331c197e1",
+      "r": []
+    },
+    {
+      "v": "#head@c436047fcc865860ba8b34128131c72eb7692dfa",
+      "r": [],
+      "a": "Juan Carlos",
+      "d": "Flash ISO images to SD cards & USB drives, safely and easily.",
+      "l": "MIT",
+      "s": "src",
+      "p": [
+        "ballena_itcher"
+      ],
+      "m": "1.2.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:42:23Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.0.1"
+    ],
+    "prerelease": [
+      "0.0.1"
+    ]
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "cv": 17,
+  "name": "ur",
+  "fqn": "ur.JohnAD.github.com",
+  "head": "d5a3a6fc1e1f0af3ab4c71868b97f0e92c2bdcb4",
+  "author": "John Dupuy",
+  "description": "Universal Result objects",
+  "license": "MIT",
+  "nim": "0.18.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.1@d5a3a6fc1e1f0af3ab4c71868b97f0e92c2bdcb4^",
+      "r": []
+    },
+    {
+      "v": "#head@d5a3a6fc1e1f0af3ab4c71868b97f0e92c2bdcb4",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:53:24Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.1"
+    ],
+    "tagVersions": {
+      "v0.1.1": "0.1.1"
+    },
+    "latest": "v0.1.1"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

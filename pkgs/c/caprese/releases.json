@@ -1,0 +1,64 @@
+{
+  "cv": 17,
+  "name": "caprese",
+  "fqn": "caprese.zenywallet.github.com",
+  "head": "b8ff4aa0c22bad762e9ac9736a02e90440b86514",
+  "author": "zenywallet",
+  "description": "A front-end web server specialized for real-time message exchange",
+  "license": "MIT",
+  "nim": "1.6.4",
+  "srcDir": "src",
+  "bin": [
+    "caprese"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@dffa6ea5efeb9a58f864ccb713a101715bf265bb",
+      "r": []
+    },
+    {
+      "v": "#head@b8ff4aa0c22bad762e9ac9736a02e90440b86514",
+      "r": [
+        "checksums",
+        "karax >= 1.2.3",
+        "regex"
+      ],
+      "h": true,
+      "a": "zenywallet",
+      "d": "A front-end web server specialized for real-time message exchange",
+      "l": "MIT",
+      "s": "src",
+      "i": [
+        "bin",
+        "brotli",
+        "zopfli"
+      ],
+      "k": [
+        "nim",
+        "a",
+        "jar"
+      ],
+      "p": [
+        "caprese"
+      ],
+      "m": "1.6.4"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:43:03Z",
+  "allDeps": {
+    "packages": [
+      "checksums",
+      "dotenv",
+      "graphemes",
+      "karax",
+      "regex",
+      "segmentation",
+      "unicodedb",
+      "unicodeplus",
+      "ws"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

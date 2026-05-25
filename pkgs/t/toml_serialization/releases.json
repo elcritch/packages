@@ -1,0 +1,72 @@
+{
+  "cv": 17,
+  "name": "toml_serialization",
+  "fqn": "nim-toml-serialization.status-im.github.com",
+  "head": "b5b387e6fb2a7cc75d54a269b07cc6218361bd46",
+  "author": "Status Research & Development GmbH",
+  "description": "Flexible TOML serialization [not] relying on run-time type information",
+  "license": "Apache License 2.0",
+  "nim": "1.6.0",
+  "skipDirs": [
+    "tests",
+    "assets"
+  ],
+  "releases": [
+    {
+      "v": "0.2.18@b5b387e6fb2a7cc75d54a269b07cc6218361bd46^",
+      "r": [
+        "faststreams >= 0.5.0",
+        "serialization",
+        "stew"
+      ]
+    },
+    {
+      "v": "0.2.16@c8dc4527cc7f27b67f41402451a757668819127c",
+      "r": [
+        "serialization",
+        "stew"
+      ]
+    },
+    {
+      "v": "0.2.14@fea85b27f0badcf617033ca1bc05444b5fd8aa7a",
+      "r": [
+        "serialization",
+        "stew"
+      ]
+    },
+    {
+      "v": "#head@b5b387e6fb2a7cc75d54a269b07cc6218361bd46",
+      "r": [
+        "faststreams >= 0.5.0",
+        "serialization",
+        "stew"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:53:01Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.2.18"
+    ],
+    "tagVersions": {
+      "v0.2.18": "0.2.18"
+    },
+    "latest": "v0.2.18"
+  },
+  "allDeps": {
+    "packages": [
+      "faststreams",
+      "results",
+      "serialization",
+      "stew",
+      "unittest2"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

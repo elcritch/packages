@@ -1,0 +1,42 @@
+{
+  "cv": 17,
+  "name": "ipfshttpclient",
+  "fqn": "ipfshttpclient.ringabout.github.com",
+  "head": "1234809cf6e6712c11e57e80463a802c247bff7d",
+  "author": "flywind",
+  "description": "ipfs http client",
+  "license": "Apache-2.0",
+  "nim": "1.6.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@48397573b69135572dd720f52c94e85df73f69fe",
+      "r": [
+        "libcurl #head",
+        "zippy >= 0.7.3"
+      ]
+    },
+    {
+      "v": "#head@1234809cf6e6712c11e57e80463a802c247bff7d",
+      "r": [
+        "libcurl #head",
+        "zippy >= 0.7.3"
+      ],
+      "a": "flywind",
+      "d": "ipfs http client",
+      "l": "Apache-2.0",
+      "s": "src",
+      "m": "1.6.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:46:12Z",
+  "allDeps": {
+    "packages": [
+      "libcurl",
+      "zippy"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "cv": 17,
+  "name": "emitter",
+  "fqn": "emitter.supranim.github.com",
+  "head": "2add671c0e27a1ad223826fd766208b483528f3a",
+  "author": "George Lemon",
+  "description": "Supranim's Event Emitter - Subscribe & listen for various events within your application",
+  "license": "MIT",
+  "nim": "1.4.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@bc238bbd8c0a1b8472521cff77a9f21087b28e44",
+      "r": []
+    },
+    {
+      "v": "0.1.1@0708559ea6cefe82910636d112a228b78e73f798",
+      "r": [
+        "malebolgia #head"
+      ]
+    },
+    {
+      "v": "0.1.2@442bfd533b45595a193beda6a33f66ac483f91af",
+      "r": [
+        "libevent",
+        "flatty"
+      ],
+      "a": "Supranim",
+      "d": "Supranim's Event Emitter - Subscribe & listen for events"
+    },
+    {
+      "v": "#head@2add671c0e27a1ad223826fd766208b483528f3a",
+      "r": [
+        "libevent",
+        "flatty"
+      ],
+      "a": "Supranim",
+      "d": "Supranim's Event Emitter - Subscribe & listen for events",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.4.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:23Z",
+  "allDeps": {
+    "packages": [
+      "flatty > 0.1.1",
+      "libevent > 0.1.1",
+      "malebolgia > 0.1.0 & <= 0.1.1"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

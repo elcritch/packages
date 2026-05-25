@@ -1,0 +1,76 @@
+{
+  "cv": 17,
+  "name": "shimsham",
+  "fqn": "shimsham.apense.github.com",
+  "head": "a025c782b8e07827840d8e15501a8e38b3dc4ce4",
+  "author": "Jonathan Edwards",
+  "description": "Hash/Digest library with various functions",
+  "license": "MIT unless otherwise specified",
+  "releases": [
+    {
+      "v": "0.3.4@a025c782b8e07827840d8e15501a8e38b3dc4ce4^",
+      "r": []
+    },
+    {
+      "v": "0.3.3@60e30d94b8b54b36350c8d2e2a65f9afe802db89",
+      "r": []
+    },
+    {
+      "v": "0.3.2@29ffb7080d5c42c1fd12715430abe33de1be1f0b",
+      "r": []
+    },
+    {
+      "v": "0.2.0@526860bc49df74ad79cf0908c43566760a085428",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    },
+    {
+      "v": "0.1.0@539bf592eb4e42980517ec2ce213fc98a475a6fa",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    },
+    {
+      "v": "0.0.1@edfbc38bb56f965cc6c9606cdb2bd26f92194585",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    },
+    {
+      "v": "#head@a025c782b8e07827840d8e15501a8e38b3dc4ce4",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:43Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.0.1",
+      "0.3.2",
+      "0.3.3",
+      "0.3.4",
+      "v0.1.0-alpha",
+      "v0.2.0-alpha"
+    ],
+    "tagVersions": {
+      "v0.1.0-alpha": "0.1.0",
+      "v0.2.0-alpha": "0.2.0"
+    },
+    "latest": "0.3.4",
+    "prerelease": [
+      "0.0.1",
+      "v0.1.0-alpha",
+      "v0.2.0-alpha"
+    ]
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

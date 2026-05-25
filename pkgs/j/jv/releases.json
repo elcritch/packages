@@ -1,0 +1,42 @@
+{
+  "cv": 17,
+  "name": "jv",
+  "fqn": "jv.meenbeese.github.com",
+  "head": "4a3740b3f4d0ae04f5c7d812c007867a05bf68f6",
+  "author": "Kuzey Bilgin",
+  "description": "Java version manager and build tool",
+  "license": "MIT",
+  "nim": "1.6.0",
+  "srcDir": "src",
+  "bin": [
+    "jv"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@129b0f71e65602c5d8427292190b756663c73d07",
+      "r": []
+    },
+    {
+      "v": "#head@4a3740b3f4d0ae04f5c7d812c007867a05bf68f6",
+      "r": [],
+      "a": "Kuzey Bilgin",
+      "d": "A Java version manager and build tool written in Nim",
+      "l": "MIT",
+      "s": "src",
+      "k": [
+        "nim"
+      ],
+      "p": [
+        "jv"
+      ],
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:46:26Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

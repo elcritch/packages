@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "noxen",
+  "fqn": "noxen.ptVoid.github.com",
+  "head": "9e586d23ce5bfa4b49904d4a5bd78992a89c2918",
+  "author": "void*",
+  "description": "highly customizable terminal boxes for nim!",
+  "license": "MIT",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.0.1@886ead47fabc15135dcf60c024cdf3ff507e223a",
+      "r": []
+    },
+    {
+      "v": "#head@9e586d23ce5bfa4b49904d4a5bd78992a89c2918",
+      "r": [],
+      "a": "void*",
+      "d": "highly customizable terminal boxes for nim!",
+      "l": "MIT",
+      "s": "src",
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:49:44Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

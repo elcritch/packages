@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "googleTranslate",
+  "fqn": "googleTranslate.thisago.github.com",
+  "head": "34c3b9ba32435724c31f650ec37c79caec34e5cd",
+  "author": "Thiago Navarro",
+  "description": "A simple Google Translate implementation",
+  "license": "MIT",
+  "nim": "1.4.2",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@991484dee60525ac62abf85bbcf3e9ce2096d7a7",
+      "r": []
+    },
+    {
+      "v": "#head@34c3b9ba32435724c31f650ec37c79caec34e5cd",
+      "r": [],
+      "a": "Thiago Navarro",
+      "d": "A simple Google Translate implementation",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.4.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:23Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

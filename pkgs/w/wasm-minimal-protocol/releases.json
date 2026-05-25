@@ -1,0 +1,55 @@
+{
+  "cv": 17,
+  "name": "wasm-minimal-protocol",
+  "fqn": "wasm-minimal-protocol.nimpylib.github.com",
+  "head": "0ef19cfeb23df954ec60d387dcf7b4c92e9ae7d5",
+  "author": "litlighilit",
+  "description": "A minimal protocol to write typst plugins.",
+  "license": "MIT",
+  "nim": "2.0.8",
+  "srcDir": "src",
+  "binDir": "bin",
+  "installExt": [
+    "nim"
+  ],
+  "releases": [
+    {
+      "v": "0.1.3@0ef19cfeb23df954ec60d387dcf7b4c92e9ae7d5^",
+      "r": [
+        "cbor_serialization"
+      ]
+    },
+    {
+      "v": "0.1.2@41fe29659769f36fcd8890954da417e3ebb3124a",
+      "r": [
+        "cbor_serialization"
+      ]
+    },
+    {
+      "v": "0.1.1@0e86ac8ad61bebcbef1214d8f61612934cdae2c2",
+      "r": [
+        "cbor_serialization"
+      ]
+    },
+    {
+      "v": "#head@0ef19cfeb23df954ec60d387dcf7b4c92e9ae7d5",
+      "r": [
+        "cbor_serialization"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:53:41Z",
+  "allDeps": {
+    "packages": [
+      "cbor_serialization",
+      "faststreams",
+      "results",
+      "serialization",
+      "stew",
+      "unittest2"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

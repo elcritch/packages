@@ -1,0 +1,53 @@
+{
+  "cv": 17,
+  "name": "taggy",
+  "fqn": "taggy.treeform.github.com",
+  "head": "e80ed1a806e871fd4ead4e0d3e9f6593569c0e38",
+  "author": "Andre von Houck",
+  "description": "HTML DOM generator for Nim's JS mode.",
+  "license": "MIT",
+  "nim": "1.2.2",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.0.3@0013a4bf921dc9fa735f81577518b2c1e155f062",
+      "r": []
+    },
+    {
+      "v": "0.0.2@a791378850e58f9d0d6dc0ded6a28bd6e189bcde",
+      "r": []
+    },
+    {
+      "v": "0.0.1@ba31c9eeba9d75c6dac1a4c81b2fdfb48b87ecfa",
+      "r": []
+    },
+    {
+      "v": "#head@e80ed1a806e871fd4ead4e0d3e9f6593569c0e38",
+      "r": [],
+      "a": "Andre von Houck",
+      "d": "HTML DOM generator for Nim's JS mode.",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.2.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:36Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.0.1",
+      "0.0.2",
+      "0.0.3"
+    ],
+    "latest": "0.0.3"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

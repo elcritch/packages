@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "hyperscan",
+  "fqn": "hyperscan-nim.openpeeps.github.com",
+  "head": "2f493a66b251b63533ef52f5039c91a9c006c37d",
+  "author": "George Lemon",
+  "description": "Bindings for Intel's Hyperscan library",
+  "license": "MIT",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@e2be937bae583cff7a03161d9a899a449607a8f5",
+      "r": []
+    },
+    {
+      "v": "#head@2f493a66b251b63533ef52f5039c91a9c006c37d",
+      "r": [],
+      "a": "George Lemon",
+      "d": "Bindings for Intel's Hyperscan library",
+      "l": "MIT",
+      "s": "src",
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:57Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "cv": 17,
+  "name": "nimfuzz",
+  "fqn": "nimfuzz.apense.github.com",
+  "head": "ce4a370558292dee71585b8fdc45b708957ccd8e",
+  "author": "Jonathan Edwards",
+  "description": "Simple and compact Nim fuzzing library",
+  "license": "Apache License 2.0",
+  "releases": [
+    {
+      "v": "1.3.0@ce4a370558292dee71585b8fdc45b708957ccd8e^",
+      "r": []
+    },
+    {
+      "v": "1.2.0@33477be4472f6ae2356b16e5a3a72be18671b1c8",
+      "r": []
+    },
+    {
+      "v": "1.1.0@87c18ceec9d66c205b49a87623896a86816d728a",
+      "r": []
+    },
+    {
+      "v": "1.0.0@37b573eab580e9afb661319f6e95e92116033cd2",
+      "r": []
+    },
+    {
+      "v": "#head@ce4a370558292dee71585b8fdc45b708957ccd8e",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:48:43Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "1.2.0",
+      "v1.0.0",
+      "v1.1.0",
+      "v1.3.0"
+    ],
+    "tagVersions": {
+      "v1.0.0": "1.0.0",
+      "v1.1.0": "1.1.0",
+      "v1.3.0": "1.3.0"
+    },
+    "latest": "v1.3.0"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

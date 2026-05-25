@@ -1,0 +1,59 @@
+{
+  "cv": 17,
+  "name": "pnm",
+  "fqn": "pnm.jiro4989.github.com",
+  "head": "556633d87e65f73f3917321fe1ea59afc2dc9302",
+  "author": "jiro4989",
+  "description": "pnm is library for PNM (Portable AnyMap).",
+  "license": "MIT",
+  "nim": "0.19.4",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "2.1.1@556633d87e65f73f3917321fe1ea59afc2dc9302^",
+      "r": []
+    },
+    {
+      "v": "2.1.0@710dbada4c2ca308441392601a666d4a82e851fc",
+      "r": []
+    },
+    {
+      "v": "2.0.1@21b510fc684765ce15ce475c0a362363b3bf52b4",
+      "r": []
+    },
+    {
+      "v": "2.0.0@1acbe3f1a0a81c15b4639acca68114ff262b4743",
+      "r": []
+    },
+    {
+      "v": "#head@556633d87e65f73f3917321fe1ea59afc2dc9302",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:50:35Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v2.0.0",
+      "v2.0.1",
+      "v2.1.0",
+      "v2.1.1"
+    ],
+    "tagVersions": {
+      "v2.0.0": "2.0.0",
+      "v2.0.1": "2.0.1",
+      "v2.1.0": "2.1.0",
+      "v2.1.1": "2.1.1"
+    },
+    "latest": "v2.1.1"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

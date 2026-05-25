@@ -1,0 +1,62 @@
+{
+  "cv": 17,
+  "name": "irc",
+  "fqn": "irc.nim-lang.github.com",
+  "head": "7522eafe3d14479435ab5b47f6c7bc070ae04114",
+  "author": "Dominik Picheta",
+  "description": "IRC client module",
+  "license": "MIT",
+  "nim": "0.9.5",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.4.0@0b01ab158fb2a863f98f4bda89792b869955ce48",
+      "r": []
+    },
+    {
+      "v": "0.3.0@d36263861abc753e691a65edf6266004312f7b5c",
+      "r": []
+    },
+    {
+      "v": "0.2.1@a085f1fcd5fa86248ccbfa7cad6d975db9e13903",
+      "r": []
+    },
+    {
+      "v": "0.2.0@4ba43e6003106ccf237e1e2cecc137a5f4a989b9",
+      "r": []
+    },
+    {
+      "v": "#head@7522eafe3d14479435ab5b47f6c7bc070ae04114",
+      "r": [],
+      "a": "Dominik Picheta",
+      "d": "IRC client module",
+      "l": "MIT",
+      "s": "src",
+      "m": "0.9.5"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:46:13Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.2.0",
+      "v0.3.0",
+      "v0.4.0"
+    ],
+    "tagVersions": {
+      "v0.2.0": "0.2.0",
+      "v0.3.0": "0.3.0",
+      "v0.4.0": "0.4.0"
+    },
+    "latest": "v0.4.0"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

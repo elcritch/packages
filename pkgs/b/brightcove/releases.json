@@ -1,0 +1,38 @@
+{
+  "cv": 17,
+  "name": "brightcove",
+  "fqn": "brightcove.thisago.github.com",
+  "head": "6148be4442e8566020dae564cc69c783398888ec",
+  "author": "Thiago Navarro",
+  "description": "Brightcove player parser",
+  "license": "MIT",
+  "nim": "1.6.4",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@93c4387ae4a9f9aca9960f057d0d1c87d31eede0",
+      "r": []
+    },
+    {
+      "v": "0.2.0@6148be4442e8566020dae564cc69c783398888ec^",
+      "r": [
+        "util"
+      ]
+    },
+    {
+      "v": "#head@6148be4442e8566020dae564cc69c783398888ec",
+      "r": [
+        "util"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:42:52Z",
+  "allDeps": {
+    "packages": [
+      "util > 0.1.0"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

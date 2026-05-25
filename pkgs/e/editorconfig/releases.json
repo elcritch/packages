@@ -1,0 +1,50 @@
+{
+  "cv": 17,
+  "name": "editorconfig",
+  "fqn": "editorconfig-nim.fox0430.github.com",
+  "head": "fe01c05688cc896309fe45a1fe2db1d0552630b5",
+  "author": "fox0430",
+  "description": "A parser for EditorConfig",
+  "license": "MIT",
+  "nim": "2.0.0",
+  "releases": [
+    {
+      "v": "0.1.1@fe01c05688cc896309fe45a1fe2db1d0552630b5^",
+      "r": [
+        "regex >= 0.26.3"
+      ]
+    },
+    {
+      "v": "#head@fe01c05688cc896309fe45a1fe2db1d0552630b5",
+      "r": [
+        "regex >= 0.26.3"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:20Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.1"
+    ],
+    "tagVersions": {
+      "v0.1.1": "0.1.1"
+    },
+    "latest": "v0.1.1"
+  },
+  "allDeps": {
+    "packages": [
+      "graphemes",
+      "regex",
+      "segmentation",
+      "unicodedb",
+      "unicodeplus"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

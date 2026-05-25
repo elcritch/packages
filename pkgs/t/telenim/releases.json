@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "telenim",
+  "fqn": "telenim.nimbackup.github.com",
+  "head": "ba111b6e78919582a7183e5a2ac911a8813e762c",
+  "author": "Danil Yarantsev",
+  "description": "A high-level async TDLib wrapper for Nim",
+  "license": "MIT",
+  "nim": "1.2.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.2.0@4cc0fd4e41799a4a14fb782e3f8355d50908daac",
+      "r": []
+    },
+    {
+      "v": "#head@ba111b6e78919582a7183e5a2ac911a8813e762c",
+      "r": [],
+      "a": "Danil Yarantsev",
+      "d": "A high-level async TDLib wrapper for Nim",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.2.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:41Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

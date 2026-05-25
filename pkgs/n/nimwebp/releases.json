@@ -1,0 +1,37 @@
+{
+  "cv": 17,
+  "name": "nimwebp",
+  "fqn": "nimwebp.tormund.github.com",
+  "head": "a54d78e7e6c73ca6f3b3ea6cae1dbca6d2ee50c5",
+  "author": "tormund",
+  "description": "webp bindings",
+  "license": "MIT",
+  "nim": "1.0.4",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@cf6885cc06c74b17822a1455b7d4248824ec4413",
+      "r": []
+    },
+    {
+      "v": "#head@a54d78e7e6c73ca6f3b3ea6cae1dbca6d2ee50c5",
+      "r": [
+        "nimPNG"
+      ],
+      "a": "tormund",
+      "d": "webp bindings",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.0.4"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:49:22Z",
+  "allDeps": {
+    "packages": [
+      "nimPNG"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

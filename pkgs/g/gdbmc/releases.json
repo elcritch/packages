@@ -1,0 +1,44 @@
+{
+  "cv": 17,
+  "name": "gdbmc",
+  "fqn": "gdbmc.nim.vycb.github.com",
+  "head": "5574c4db6b71f4b4c0b6de6626b575be15e6271b",
+  "author": "vycb",
+  "description": "This library is a wrapper to C GDBM one",
+  "license": "MIT",
+  "nim": "1.0.4",
+  "srcDir": "src",
+  "skipFiles": [
+    "deduplicate.nim,src"
+  ],
+  "releases": [
+    {
+      "v": "0.9.1@3b5963b967ecddc1df354de98d7dc894b85f26e1",
+      "r": []
+    },
+    {
+      "v": "0.9.0@3fa0d7876cbc9218e7986e421f3a62071800c1dc",
+      "r": [],
+      "d": "This library is a wrapper to C GDBM library."
+    },
+    {
+      "v": "#head@5574c4db6b71f4b4c0b6de6626b575be15e6271b",
+      "r": [],
+      "a": "vycb",
+      "d": "This library is a wrapper to C GDBM one",
+      "l": "MIT",
+      "s": "src",
+      "y": [
+        "deduplicate.nim,src"
+      ],
+      "m": "1.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:05Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

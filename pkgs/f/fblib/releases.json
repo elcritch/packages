@@ -1,0 +1,37 @@
+{
+  "cv": 17,
+  "name": "fblib",
+  "fqn": "fblib.survivorm.github.com",
+  "head": "34a3b07626bc65649cbe0ae376b9785dfe9ac014",
+  "author": "Michael Voronin",
+  "description": "FictionBook2 library and tools.",
+  "license": "MIT",
+  "nim": "1.6.10",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@973c4258a430a7af949aa3e669ea6dc8dc6208f0",
+      "r": []
+    },
+    {
+      "v": "0.2.0@aadeadf6f2b88781a35a88a2fa448b8694866d7e",
+      "r": []
+    },
+    {
+      "v": "#head@34a3b07626bc65649cbe0ae376b9785dfe9ac014",
+      "r": [],
+      "a": "Michael Voronin",
+      "d": "FictionBook2 library and tools.",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.6.10"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:38Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

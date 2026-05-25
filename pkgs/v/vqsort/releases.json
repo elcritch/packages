@@ -1,0 +1,39 @@
+{
+  "cv": 17,
+  "name": "vqsort",
+  "fqn": "vqsort.Asc2011.github.com",
+  "head": "1681f1aa63f50cebb66d1c6d4d6892eb898f61a1",
+  "author": "A. Schoeller",
+  "description": "Vectorized Quicksort AVX2",
+  "license": "MIT",
+  "nim": "2.1.1",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@431b7f07739c1047137179e0e21e4700ed257991",
+      "r": [
+        "nimsimd >= 1.2.9"
+      ]
+    },
+    {
+      "v": "#head@1681f1aa63f50cebb66d1c6d4d6892eb898f61a1",
+      "r": [
+        "nimsimd >= 1.2.9"
+      ],
+      "a": "A. Schoeller",
+      "d": "A vectorized Quicksort (AVX2)",
+      "l": "MIT",
+      "s": "src",
+      "m": "2.0.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:53:39Z",
+  "allDeps": {
+    "packages": [
+      "nimsimd"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

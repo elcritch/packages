@@ -1,0 +1,78 @@
+{
+  "cv": 17,
+  "name": "remarker_light",
+  "fqn": "remarker_light.muxueqz.github.com",
+  "head": "34ca9fcbfa0c5753ccf02b5f7aedca2f9157b233",
+  "author": "muxueqz",
+  "description": "remarker_light is a command line tool for building a remark-based slideshow page very easily.",
+  "license": "GPL-2.0",
+  "nim": "0.18",
+  "srcDir": "src",
+  "bin": [
+    "remarker_light"
+  ],
+  "releases": [
+    {
+      "v": "1.0.1@ea3c338fde2b7574eae5c7749ae7effe9b287a1e",
+      "r": [
+        "jester",
+        "docopt"
+      ]
+    },
+    {
+      "v": "1.0.0@6799da7e0716c1960f57e5c6d76a85f383243626",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file",
+      "m": "~",
+      "s": "",
+      "p": []
+    },
+    {
+      "v": "#head@34ca9fcbfa0c5753ccf02b5f7aedca2f9157b233",
+      "r": [
+        "jester",
+        "docopt"
+      ],
+      "a": "muxueqz",
+      "d": "remarker_light is a command line tool for building a remark-based slideshow page very easily.",
+      "l": "GPL-2.0",
+      "s": "src",
+      "p": [
+        "remarker_light"
+      ],
+      "m": "0.18"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:10Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "1.0.0",
+      "1.0.1"
+    ],
+    "latest": "1.0.1"
+  },
+  "allDeps": {
+    "packages": [
+      "asynctools > 1.0.0",
+      "docopt > 1.0.0",
+      "graphemes > 1.0.0",
+      "httpbeast > 1.0.0",
+      "jester > 1.0.0",
+      "regex > 1.0.0",
+      "segmentation > 1.0.0",
+      "unicodedb > 1.0.0",
+      "unicodeplus > 1.0.0"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:iffy/asynctools",
+      "gh:timotheecour/asynctools"
+    ]
+  }
+}

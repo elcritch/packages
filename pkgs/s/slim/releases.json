@@ -1,0 +1,114 @@
+{
+  "cv": 17,
+  "name": "slim",
+  "fqn": "slim.bung87.github.com",
+  "head": "c49ab66b5c3e10c8a5e028f6a472c5082534a1ab",
+  "author": "bung87",
+  "description": "nim package manager support requires in nimble task",
+  "license": "MIT",
+  "nim": "1.4.0",
+  "srcDir": "src",
+  "installExt": [
+    "nim"
+  ],
+  "namedBin": {
+    "slimpkg/nimble/nimble": "slim"
+  },
+  "releases": [
+    {
+      "v": "0.1.13@65756acb41ee42f0f38f148bae7be09622429c99",
+      "r": [
+        "fusion"
+      ],
+      "m": "~"
+    },
+    {
+      "v": "0.1.12@e766ff96a5df0cb9bf4a3ec541c153c2abf59f6f",
+      "r": [
+        "fusion"
+      ],
+      "m": "~"
+    },
+    {
+      "v": "0.1.11@9f84454b223e1a0a5003848ebef051d76025dd28",
+      "r": [
+        "fusion"
+      ]
+    },
+    {
+      "v": "0.1.10@2f466d9d220ac4ff234da1020b9a87eeffe2cafc",
+      "r": [
+        "fusion"
+      ]
+    },
+    {
+      "v": "0.1.9@21b4708ff6fa11f436046c1a84165eff5b566f38",
+      "r": [
+        "fusion"
+      ]
+    },
+    {
+      "v": "0.1.7@aad2bbb86727e6b91637f46ac11defab95a44486",
+      "r": [
+        "hmisc 0.11.14"
+      ],
+      "d": "nim package manager"
+    },
+    {
+      "v": "0.1.6@86116b51e81163d437c4885084bfb40901ff812a",
+      "r": [
+        "hmisc 0.12.4"
+      ],
+      "d": "nim package manager"
+    },
+    {
+      "v": "0.1.2@c3f254c12535b7e7fa93afcbcc83729b82474cc3",
+      "r": [
+        "hmisc"
+      ],
+      "d": "nim package manager"
+    },
+    {
+      "v": "0.1.1@4d24f121def2af92524be4804ce431225931cf6f",
+      "r": [
+        "hmisc"
+      ],
+      "d": "nim package manager",
+      "m": "1.4.8"
+    },
+    {
+      "v": "#head@c49ab66b5c3e10c8a5e028f6a472c5082534a1ab",
+      "r": [
+        "fusion"
+      ],
+      "a": "bung87",
+      "d": "nim package manager support requires in nimble task",
+      "l": "MIT",
+      "s": "src",
+      "k": [
+        "nim"
+      ],
+      "o": {
+        "slimpkg/nimble/nimble": "slim"
+      }
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:56Z",
+  "allDeps": {
+    "packages": [
+      "benchy <= 0.1.7",
+      "cligen <= 0.1.7",
+      "fusion",
+      "hmisc <= 0.1.7",
+      "jsony <= 0.1.7",
+      "macroutils <= 0.1.7",
+      "shell <= 0.1.7",
+      "sorta <= 0.1.7",
+      "unicodedb <= 0.1.7",
+      "with <= 0.1.7"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

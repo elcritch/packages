@@ -1,0 +1,48 @@
+{
+  "cv": 17,
+  "name": "metric",
+  "fqn": "metric.mjendrusch.github.com",
+  "head": "f89e596a9274b81d441e2a75d09d6a3f0b11105e",
+  "author": "Michael Jendrusch",
+  "description": "Unit types for Nim.",
+  "license": "MIT",
+  "nim": "0.17.3",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@e8e592ff1b2362ac91aced63802af76775c4ce2c",
+      "r": []
+    },
+    {
+      "v": "#head@f89e596a9274b81d441e2a75d09d6a3f0b11105e",
+      "r": [],
+      "a": "Michael Jendrusch",
+      "d": "Unit types for Nim.",
+      "l": "MIT",
+      "s": "src",
+      "m": "0.17.3"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:47:27Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.0"
+    ],
+    "tagVersions": {
+      "v0.1.0": "0.1.0"
+    },
+    "prerelease": [
+      "v0.1.0"
+    ]
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "zxc",
+  "fqn": "zxc-nim.openpeeps.github.com",
+  "head": "f5beb6d0aa7a2fe67613aa591086bbc2046f4b4b",
+  "author": "George Lemon",
+  "description": "Bindings to ZXC compression library",
+  "license": "MIT",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@b2c23008dd696ea4cd267361e4cd14d9408f74a7",
+      "r": []
+    },
+    {
+      "v": "#head@f5beb6d0aa7a2fe67613aa591086bbc2046f4b4b",
+      "r": [],
+      "a": "George Lemon",
+      "d": "Bindings to ZXC compression library",
+      "l": "MIT",
+      "s": "src",
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:54:30Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

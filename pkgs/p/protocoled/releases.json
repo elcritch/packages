@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "protocoled",
+  "fqn": "protocoled.planetis-m.github.com",
+  "head": "7e1fa7724c8be6cfe02fe883ea764f7bcc3576fe",
+  "author": "Antonis",
+  "description": "An interface macro for Nim",
+  "license": "MIT",
+  "nim": "1.0.9",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@d41a89b5b196980597df62a335111c5629c76505",
+      "r": []
+    },
+    {
+      "v": "#head@7e1fa7724c8be6cfe02fe883ea764f7bcc3576fe",
+      "r": [],
+      "h": true,
+      "a": "Antonis",
+      "d": "An interface macro for Nim",
+      "l": "MIT",
+      "m": "1.0.9"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:50:47Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

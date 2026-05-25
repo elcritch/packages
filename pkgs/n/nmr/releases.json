@@ -1,0 +1,66 @@
+{
+  "cv": 17,
+  "name": "nmr",
+  "fqn": "nmr.HapticX.github.com",
+  "head": "716392e1e7944b21a28333c1e7c9c9200f656843",
+  "author": "HapticX",
+  "description": "A super-fast Nim package manager with automatic dependency graph and parallel installation.",
+  "license": "MIT",
+  "nim": "1.6.6",
+  "srcDir": "src",
+  "installExt": [
+    "nim"
+  ],
+  "bin": [
+    "cli/nmr"
+  ],
+  "releases": [
+    {
+      "v": "0.0.1@d5dc5be2037352e68ff4c4ff7e46e98510f19a91",
+      "r": [
+        "cligen >= 1.8.4",
+        "QRgen >= 3.1.0"
+      ]
+    },
+    {
+      "v": "#head@716392e1e7944b21a28333c1e7c9c9200f656843",
+      "r": [
+        "cligen >= 1.8.4",
+        "illwill >= 0.4.1",
+        "QRgen >= 3.1.0",
+        "taskpools >= 0.1.0",
+        "zippy",
+        "regex"
+      ],
+      "a": "HapticX",
+      "d": "A super-fast Nim package manager with automatic dependency graph and parallel installation.",
+      "l": "MIT",
+      "s": "src",
+      "k": [
+        "nim"
+      ],
+      "p": [
+        "cli/nmr"
+      ],
+      "m": "1.6.6"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:49:31Z",
+  "allDeps": {
+    "packages": [
+      "QRgen",
+      "cligen",
+      "graphemes",
+      "illwill",
+      "regex",
+      "segmentation",
+      "taskpools",
+      "unicodedb",
+      "unicodeplus",
+      "zippy"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

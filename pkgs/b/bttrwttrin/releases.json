@@ -1,0 +1,38 @@
+{
+  "cv": 17,
+  "name": "bttrwttrin",
+  "fqn": "bttrwttrin.nirokay.github.com",
+  "head": "8e5605496406d619c7a470511ce820251e1fbd77",
+  "author": "nirokay",
+  "description": "wttr.in API, but better.",
+  "license": "GPL-3.0-or-later",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "1.0.0@8e5605496406d619c7a470511ce820251e1fbd77^",
+      "r": []
+    },
+    {
+      "v": "#head@8e5605496406d619c7a470511ce820251e1fbd77",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:42:54Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "1.0.0"
+    ],
+    "latest": "1.0.0"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

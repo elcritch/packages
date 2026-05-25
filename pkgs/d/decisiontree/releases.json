@@ -1,0 +1,45 @@
+{
+  "cv": 17,
+  "name": "decisiontree",
+  "fqn": "DecisionTreeNim.Michedev.github.com",
+  "head": "3283ba2065820495c177656261d0f909fd7d1228",
+  "author": "Mikedev",
+  "description": "Decision tree and Random forest CART implementation for nim",
+  "license": "GPL-3.0",
+  "nim": "1.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@75898b7e4728d9438b3605e1f00c89476624132f",
+      "r": []
+    },
+    {
+      "v": "0.1.1@493d1aa21d032a30d7d74d9ad66fc41cbd24f8bf",
+      "r": [
+        "sequtils2 >= 1.1.0"
+      ],
+      "a": "Michele De Vita",
+      "m": "1.2.0"
+    },
+    {
+      "v": "#head@3283ba2065820495c177656261d0f909fd7d1228",
+      "r": [
+        "sequtils2 >= 1.1.0"
+      ],
+      "a": "Michele De Vita",
+      "d": "Decision tree and Random forest CART implementation for nim",
+      "l": "GPL-3.0",
+      "s": "src",
+      "m": "1.2.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:43:56Z",
+  "allDeps": {
+    "packages": [
+      "sequtils2 > 0.1.0"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "cv": 17,
+  "name": "jade-nim",
+  "fqn": "jade-nim.idlewan.github.com",
+  "head": "af64d47068cf62042ff0186937c5956dced58a02",
+  "releases": [
+    {
+      "v": "~@af64d47068cf62042ff0186937c5956dced58a02",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    },
+    {
+      "v": "#head@af64d47068cf62042ff0186937c5956dced58a02",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:46:16Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

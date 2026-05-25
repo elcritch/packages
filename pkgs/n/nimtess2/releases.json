@@ -1,0 +1,51 @@
+{
+  "cv": 17,
+  "name": "nimtess2",
+  "fqn": "nimtess2.genotrance.github.com",
+  "head": "f536ab14e6df9c65c104dc4f0c8845e79119a840",
+  "author": "genotrance",
+  "description": "Nim wrapper for libtess2",
+  "license": "MIT",
+  "skipDirs": [
+    "tests"
+  ],
+  "releases": [
+    {
+      "v": "0.1.1@f536ab14e6df9c65c104dc4f0c8845e79119a840^",
+      "r": [
+        "nimgen >= 0.4.0"
+      ],
+      "h": true
+    },
+    {
+      "v": "0.1.0@3a05af9e6671796e7bc5488943f93c0f975904d1",
+      "r": [
+        "nimgen >= 0.4.0"
+      ],
+      "h": true
+    },
+    {
+      "v": "#head@f536ab14e6df9c65c104dc4f0c8845e79119a840",
+      "r": [
+        "nimgen >= 0.4.0"
+      ],
+      "h": true
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:49:17Z",
+  "allDeps": {
+    "packages": [
+      "c2nim",
+      "docopt",
+      "graphemes",
+      "nimgen",
+      "regex",
+      "segmentation",
+      "unicodedb",
+      "unicodeplus"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

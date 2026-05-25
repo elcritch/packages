@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "rangequeries",
+  "fqn": "RangeQueriesNim.vanyle.github.com",
+  "head": "576f820068966964390b30afe2a24caa1bccc282",
+  "author": "Antoine Delègue",
+  "description": "An implementation of Range Queries in Nim",
+  "license": "MIT",
+  "nim": "1.6.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@1c392d51205bd405f725da792a5fa4219ad9336c",
+      "r": []
+    },
+    {
+      "v": "#head@576f820068966964390b30afe2a24caa1bccc282",
+      "r": [],
+      "a": "Antoine Delègue",
+      "d": "An implementation of Range Queries in Nim",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:01Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cv": 17,
+  "name": "hpx",
+  "fqn": "nim-hpx.ct-clmsn.github.com",
+  "head": "e4e998c03f57686249425e45cacb06d5360fbbed",
+  "author": "Christopher Taylor",
+  "description": "nim-hpx a STE||AR HPX wrapper",
+  "license": "boost",
+  "nim": "0.18.0",
+  "releases": [
+    {
+      "v": "0.0.1@2d7e8a6e2541badd540cde8f9fa871b3f9fcbb5f",
+      "r": []
+    },
+    {
+      "v": "#head@e4e998c03f57686249425e45cacb06d5360fbbed",
+      "r": [
+        "cppstl",
+        "jsony"
+      ],
+      "a": "Christopher Taylor",
+      "d": "nim-hpx a STE||AR HPX wrapper",
+      "l": "boost",
+      "e": "cpp",
+      "m": "0.18.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:48Z",
+  "allDeps": {
+    "packages": [
+      "cppstl",
+      "jsony"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

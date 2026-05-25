@@ -1,0 +1,39 @@
+{
+  "cv": 17,
+  "name": "nimbler",
+  "fqn": "nimbler.paul-nameless.github.com",
+  "head": "aa647004603c669a9fd929e89d5447d57defdcf8",
+  "author": "Paul Nameless",
+  "description": "A new awesome nimble package",
+  "license": "MIT",
+  "nim": "1.0",
+  "srcDir": "src",
+  "skipFiles": [
+    "run.nim"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@2df635460f3c0bdbc4143775003a0767d9d311ad",
+      "r": []
+    },
+    {
+      "v": "#head@aa647004603c669a9fd929e89d5447d57defdcf8",
+      "r": [],
+      "a": "Paul Nameless",
+      "d": "A new awesome nimble package",
+      "l": "MIT",
+      "s": "src",
+      "y": [
+        "run.nim"
+      ],
+      "m": "1.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:48:30Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

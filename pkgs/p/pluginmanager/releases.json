@@ -1,0 +1,39 @@
+{
+  "cv": 17,
+  "name": "pluginmanager",
+  "fqn": "plugin-manager.samdmarshall.github.com",
+  "head": "dd9729b8b21c0d7dc1b3f1c136fe1029ce520270",
+  "author": "Samantha Marshall",
+  "description": "Simple plugin implementation",
+  "license": "BSD 3-Clause",
+  "nim": "0.16.0",
+  "srcDir": "src",
+  "skipDirs": [
+    "tests"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@b4b6755555a4096c154f1a1c04f1680d4eb925e8",
+      "r": []
+    },
+    {
+      "v": "#head@dd9729b8b21c0d7dc1b3f1c136fe1029ce520270",
+      "r": [],
+      "a": "Samantha Marshall",
+      "d": "Simple plugin implementation",
+      "l": "BSD 3-Clause",
+      "s": "src",
+      "x": [
+        "tests"
+      ],
+      "m": "0.16.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:50:33Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

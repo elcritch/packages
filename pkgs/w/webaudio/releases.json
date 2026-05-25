@@ -1,0 +1,55 @@
+{
+  "cv": 17,
+  "name": "webaudio",
+  "fqn": "nim-webaudio.ftsf.github.com",
+  "head": "5b7bfe359c3ae10759c39d51864ad8fd06f4d4f8",
+  "author": "Jez Kabanov",
+  "description": "API for Web Audio (JS)",
+  "license": "MIT",
+  "nim": "0.16.1",
+  "skipDirs": [
+    "tests"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@f23edae561608608b1b5b3f43c1f652c3a106d48",
+      "r": []
+    },
+    {
+      "v": "0.2.0@8272a089c14e39239216d830ee13ffeee9624599",
+      "r": [],
+      "m": "1.0.0"
+    },
+    {
+      "v": "0.2.1@36b0cdcd6fb83df0178f93c78ce517b737609cd9",
+      "r": [],
+      "m": "1.0.0"
+    },
+    {
+      "v": "~@8c65746be8b7b6296447a50297c933f290e40a2a",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file",
+      "m": "~",
+      "x": []
+    },
+    {
+      "v": "#head@5b7bfe359c3ae10759c39d51864ad8fd06f4d4f8",
+      "r": [],
+      "a": "Jez Kabanov",
+      "d": "API for Web Audio (JS)",
+      "l": "MIT",
+      "x": [
+        "tests"
+      ],
+      "m": "1.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:53:46Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "cv": 17,
+  "name": "onnx_rt",
+  "fqn": "onnx.bung87.github.com",
+  "head": "30a01d162bc4308ddb5ed094dbe25622c559c783",
+  "author": "bung87",
+  "description": "ONNX Runtime wrapper for Nim - High-level interface for loading and running ONNX models",
+  "license": "MIT",
+  "nim": "2.2.0",
+  "srcDir": "src",
+  "installExt": [
+    "nim",
+    "c"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@32a5f9a80df8338d272a8040c2004feab4b12896",
+      "r": []
+    },
+    {
+      "v": "#head@30a01d162bc4308ddb5ed094dbe25622c559c783",
+      "r": [],
+      "a": "bung87",
+      "d": "ONNX Runtime wrapper for Nim - High-level interface for loading and running ONNX models",
+      "l": "MIT",
+      "s": "src",
+      "k": [
+        "nim",
+        "c"
+      ],
+      "m": "2.2.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:49:57Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

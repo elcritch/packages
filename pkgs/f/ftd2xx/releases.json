@@ -1,0 +1,41 @@
+{
+  "cv": 17,
+  "name": "ftd2xx",
+  "fqn": "ftd2xx.leeooox.github.com",
+  "head": "6756bfe5868a64aab83e266e64990619c0231104",
+  "author": "leeooox",
+  "description": "Nim wrapper for FTDI ftd2xx library",
+  "license": "MIT",
+  "nim": "1.2.6",
+  "srcDir": "src",
+  "skipDirs": [
+    "examples",
+    "docs"
+  ],
+  "releases": [
+    {
+      "v": "0.0.2@532d5f142b56bd213c9847130bf84ab3b21c2512",
+      "r": []
+    },
+    {
+      "v": "#head@6756bfe5868a64aab83e266e64990619c0231104",
+      "r": [],
+      "a": "leeooox",
+      "d": "Nim wrapper for FTDI ftd2xx library",
+      "l": "MIT",
+      "s": "src",
+      "x": [
+        "examples",
+        "docs"
+      ],
+      "m": "1.2.6"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:59Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

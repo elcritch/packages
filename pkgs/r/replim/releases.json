@@ -1,0 +1,71 @@
+{
+  "cv": 17,
+  "name": "replim",
+  "fqn": "replim.gmshiba.github.com",
+  "head": "6328febc7ae72fbbda7273472739b07f20c1c2e2",
+  "author": "S.Shiba",
+  "description": "most quick REPL of nim",
+  "license": "MIT",
+  "nim": "0.18.0",
+  "srcDir": "src",
+  "binDir": "bin",
+  "bin": [
+    "replim"
+  ],
+  "releases": [
+    {
+      "v": "0.1.2@f2d0d6a6df6264b215f6fd9bc6b3b7533266580b",
+      "r": []
+    },
+    {
+      "v": "0.1.3@cd91b41397a3ec0be71ee68655f197c73f8a0e35",
+      "r": [],
+      "a": "gmShiba"
+    },
+    {
+      "v": "0.1.4@fa82e0b6c09370781c48f40fde3788fff9783f23",
+      "r": [],
+      "a": "gmShiba"
+    },
+    {
+      "v": "0.2.0@45a3ed7c4675cf9252111755fb12c477d41aba0b",
+      "r": [],
+      "a": "gmShiba"
+    },
+    {
+      "v": "0.2.1@c9fccbbe52f6358ea94677ab3282ca2bcf8ba9db",
+      "r": [],
+      "a": "gmShiba"
+    },
+    {
+      "v": "0.2.2@224ee6adc11517a7adf09df8de4d3428fa68b601",
+      "r": [],
+      "a": "gmShiba"
+    },
+    {
+      "v": "0.2.3@0aeafce19b5dc5cab95c630998d112c3d6065512",
+      "r": [],
+      "a": "gmShiba"
+    },
+    {
+      "v": "#head@6328febc7ae72fbbda7273472739b07f20c1c2e2",
+      "r": [],
+      "a": "mtshiba",
+      "d": "most quick REPL of nim",
+      "l": "MIT",
+      "s": "src",
+      "b": "bin",
+      "p": [
+        "replim"
+      ],
+      "m": "0.18.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:11Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

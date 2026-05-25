@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "conio",
+  "fqn": "conio.guevara-chan.github.com",
+  "head": "b311f94f462057cf8df1d92a2c139227a9586618",
+  "author": "Guevara-chan",
+  "description": ".NET-inspired lightweight terminal library",
+  "license": "MIT",
+  "nim": "0.18.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@34e16afbf8cfb29e5bbe61af33b438a737836a2a",
+      "r": []
+    },
+    {
+      "v": "#head@b311f94f462057cf8df1d92a2c139227a9586618",
+      "r": [],
+      "a": "Guevara-chan",
+      "d": ".NET-inspired lightweight terminal library",
+      "l": "MIT",
+      "s": "src",
+      "m": "0.18.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:43:33Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

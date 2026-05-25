@@ -1,0 +1,50 @@
+{
+  "cv": 17,
+  "name": "lasm",
+  "fqn": "lasm.fox0430.github.com",
+  "head": "149b53af231649df5ce149f3da4efc4a40428846",
+  "author": "fox0430",
+  "description": "LSP server for testing LSP clients",
+  "license": "MIT",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "bin": [
+    "lasm"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@853390d8fbd0d37f5392da1cd53df3a9fc134019",
+      "r": [
+        "chronos >= 4.0.4"
+      ]
+    },
+    {
+      "v": "#head@149b53af231649df5ce149f3da4efc4a40428846",
+      "r": [
+        "chronos >= 4.0.4"
+      ],
+      "a": "fox0430",
+      "d": "A configurable LSP server for debugging/testing LSP clients",
+      "l": "MIT",
+      "s": "src",
+      "p": [
+        "lasm"
+      ],
+      "m": "2.0.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:46:37Z",
+  "allDeps": {
+    "packages": [
+      "bearssl",
+      "chronos",
+      "httputils",
+      "results",
+      "stew",
+      "unittest2"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

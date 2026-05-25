@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "usu",
+  "fqn": "usu-nim.usu-dev.github.com",
+  "head": "09b8ba9e0643b8f933d4c73887dddbb976b1849e",
+  "author": "Daylin Morgan",
+  "description": "usu parser/writer",
+  "license": "MIT",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@27d1f89790239bd056cb7669db6b5bf3bf5e2a6e",
+      "r": []
+    },
+    {
+      "v": "#head@09b8ba9e0643b8f933d4c73887dddbb976b1849e",
+      "r": [],
+      "a": "Daylin Morgan",
+      "d": "usu parser/writer",
+      "l": "MIT",
+      "s": "src",
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:53:27Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

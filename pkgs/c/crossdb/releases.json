@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "crossdb",
+  "fqn": "crossdb-nim.openpeeps.github.com",
+  "head": "45522009cdeb38105d4d0cfffb4af639b405807f",
+  "author": "George Lemon",
+  "description": "CrossDB Nim Driver",
+  "license": "MIT",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@0aedcf72c7f83f4412db01b802310892879d393d",
+      "r": []
+    },
+    {
+      "v": "#head@45522009cdeb38105d4d0cfffb4af639b405807f",
+      "r": [],
+      "a": "George Lemon",
+      "d": "CrossDB Driver for Nim",
+      "l": "MIT",
+      "s": "src",
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:43:42Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

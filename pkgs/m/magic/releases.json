@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "magic",
+  "fqn": "nim-magic.xmonader.github.com",
+  "head": "3eb3cc7e0139a696a7b42fd447d0359f07338bd7",
+  "author": "xmonader",
+  "description": "libmagic for nim",
+  "license": "MIT",
+  "nim": "0.18.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@03a6be320d6c3f7c19b08536e690d5ad533df833",
+      "r": []
+    },
+    {
+      "v": "#head@3eb3cc7e0139a696a7b42fd447d0359f07338bd7",
+      "r": [],
+      "a": "xmonader",
+      "d": "libmagic for nim",
+      "l": "MIT",
+      "s": "src",
+      "m": "0.18.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:47:14Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

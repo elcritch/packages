@@ -1,0 +1,32 @@
+{
+  "cv": 17,
+  "name": "readfq",
+  "fqn": "nimreadfq.andreas-wilm.github.com",
+  "head": "5a685b578fd57e286d3e88df979c6591b9f5f6ba",
+  "releases": [
+    {
+      "v": "0.1.1@4ac20ef3dfff8dfb16a220d62f01d810002839d4",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file"
+    },
+    {
+      "v": "#head@5a685b578fd57e286d3e88df979c6591b9f5f6ba",
+      "r": [],
+      "a": "Andreas Wilm",
+      "d": "Wrapper for Heng Li's kseq",
+      "l": "MIT",
+      "x": [
+        "tests"
+      ],
+      "m": "0.19"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:05Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "cv": 17,
+  "name": "pas2nim",
+  "fqn": "pas2nim.nim-lang.github.com",
+  "head": "cec4c960267e19fb7248f025b776644686da850b",
+  "releases": [
+    {
+      "v": "~@cec4c960267e19fb7248f025b776644686da850b",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    },
+    {
+      "v": "#head@cec4c960267e19fb7248f025b776644686da850b",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:50:20Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

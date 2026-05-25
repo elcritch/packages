@@ -1,0 +1,50 @@
+{
+  "cv": 17,
+  "name": "nimodpi",
+  "fqn": "nimodpi.mikra01.github.com",
+  "head": "0a2599b2d44a015297358e446937d9edd15f6787",
+  "author": "Michael Krauter",
+  "description": " oracle odpi-c wrapper ",
+  "license": "MIT",
+  "nim": "0.19.6",
+  "skipDirs": [
+    "demo"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@1c5d8874a0333e8784e4e0b1c5a81737fb25378f",
+      "r": [
+        "nimterop >= 0.1.0"
+      ]
+    },
+    {
+      "v": "#head@0a2599b2d44a015297358e446937d9edd15f6787",
+      "r": [
+        "nimterop >= 0.6.11"
+      ],
+      "a": "Michael Krauter",
+      "d": " oracle odpi-c wrapper ",
+      "l": "MIT",
+      "s": "src",
+      "x": [
+        "demo"
+      ],
+      "m": "1.2.6"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:49:01Z",
+  "allDeps": {
+    "packages": [
+      "cligen",
+      "graphemes",
+      "nimterop",
+      "regex",
+      "segmentation",
+      "unicodedb",
+      "unicodeplus"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

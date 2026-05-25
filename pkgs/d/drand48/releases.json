@@ -1,0 +1,46 @@
+{
+  "cv": 17,
+  "name": "drand48",
+  "fqn": "drand48.JeffersonLab.github.com",
+  "head": "d57d1852b0d501957d2d30463235f912e0bda72d",
+  "author": "Robert Edwards",
+  "description": "Nim implementation of standard unix drand48 random number generator",
+  "license": "BSD clause 3",
+  "nim": "1.0.0",
+  "releases": [
+    {
+      "v": "1.1.2@d57d1852b0d501957d2d30463235f912e0bda72d^",
+      "r": []
+    },
+    {
+      "v": "1.1.1@332b275cc975e6bb66c46d0f28ebad9432a1bab4",
+      "r": []
+    },
+    {
+      "v": "1.1.0@c43e31749d665c5c6cdf5a6540929965bc53195e",
+      "r": [],
+      "m": "0.19.0"
+    },
+    {
+      "v": "1.0.1@6eb363e19d42b9841ef43c2963fd4700622514e8",
+      "r": [],
+      "m": "0.17.0"
+    },
+    {
+      "v": "1.0.0@531b000046f199c73d1a558219461483146b9a38",
+      "r": [],
+      "m": "0.17.0"
+    },
+    {
+      "v": "#head@d57d1852b0d501957d2d30463235f912e0bda72d",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:11Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

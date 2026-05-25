@@ -1,0 +1,57 @@
+{
+  "cv": 17,
+  "name": "crockfordb32",
+  "fqn": "Crockford-Base32-Nim.The-Ticking-Clockwork.github.com",
+  "head": "8f42b213a4e35f5fc0b151a0ef76958e76c460a8",
+  "author": "Yu Vitaqua fer Chronos",
+  "description": "A simple implementation of Crockford Base32! Supports nint128, doesn't support check symbols",
+  "license": "CC0",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "2.0.1@c1921e6d5df275d315883152fd7c6cb58a7b13e9",
+      "r": []
+    },
+    {
+      "v": "2.0.0@c5b9dadb19d1f13f98868c48514294015ba0b383",
+      "r": []
+    },
+    {
+      "v": "1.1.0@80190df2c820d27562d472498efb658f67550e18",
+      "r": []
+    },
+    {
+      "v": "1.0.0@7ae239f15437dc9ba92b0738e830c7ba280cdd2a",
+      "r": []
+    },
+    {
+      "v": "0.2.0@3bd0be7fa6aef04d50287a9550e3c1de0ae2f72c",
+      "r": []
+    },
+    {
+      "v": "0.1.1@62237a4a8a6a1ae39f618bac9b1e4d82920f75d5",
+      "r": []
+    },
+    {
+      "v": "0.1.0@fbd0c84b00d03d8be565ed8c64115e616f9bcc49",
+      "r": []
+    },
+    {
+      "v": "#head@8f42b213a4e35f5fc0b151a0ef76958e76c460a8",
+      "r": [],
+      "a": "Yu Vitaqua fer Chronos",
+      "d": "A simple implementation of Crockford Base32! Supports nint128, doesn't support check symbols",
+      "l": "CC0",
+      "s": "src",
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:43:41Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,510 @@
+{
+  "cv": 17,
+  "name": "atoz",
+  "fqn": "atoz.disruptek.github.com",
+  "head": "fd8a4cefee6e7ba65c4fc003a935d0538d7c9a9f",
+  "author": "disruptek",
+  "description": "Amazon Web Services (AWS) APIs",
+  "license": "MIT",
+  "nim": "0.20.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "2626.5.2@857a9c6d35518d25fce78efb32aca54a8d149e20",
+      "r": [
+        "sigv4 >= 1.3.0 & < 2.0.0",
+        "gh:disruptek/rest >= 1.0.0",
+        "openapi >= 3.3.0 & < 4.0.0",
+        "npeg >= 0.22.2 & < 2.0.0"
+      ],
+      "m": "~"
+    },
+    {
+      "v": "2626.4.1@f9450d1ed73258dc2cd25dacb7ca1040774bba41",
+      "r": [
+        "sigv4 >= 1.3.0 & < 2.0.0",
+        "gh:disruptek/rest >= 1.0.0",
+        "openapi >= 3.3.0 & < 4.0.0",
+        "npeg >= 0.22.2 & < 2.0.0"
+      ],
+      "m": "~"
+    },
+    {
+      "v": "2626.4.0@f019d7dd339d663220971e856cf8e3e52264b49f",
+      "r": [
+        "sigv4 >= 1.3.0 & < 2.0.0",
+        "gh:disruptek/rest >= 1.0.0",
+        "openapi >= 3.3.0 & < 4.0.0",
+        "npeg >= 0.22.2 & < 1.0.0"
+      ],
+      "m": "~"
+    },
+    {
+      "v": "2626.3.0@f13aa85d5021cf67ecafbd6f5325f1fa1872c0bb",
+      "r": [
+        "sigv4 >= 1.2.1 & < 2.0.0",
+        "gh:disruptek/rest >= 1.0.0",
+        "openapi >= 3.3.0 & < 4.0.0",
+        "npeg >= 0.22.2 & < 1.0.0"
+      ],
+      "m": "~"
+    },
+    {
+      "v": "2626.1.0@b6f48e780b2dc9e269c17448a2d7fb7341d3b036",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0",
+        "openapi >= 3.1.3",
+        "npeg >= 0.22.2"
+      ]
+    },
+    {
+      "v": "2626.0.0@c9a4f22d080dc32ea7602a7a1cd416f63ee33fc8",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0",
+        "openapi >= 3.1.3",
+        "npeg >= 0.22.2"
+      ]
+    },
+    {
+      "v": "2622.0.0@b8fb0fcb2de3a7420fd7c9c346151c6b41f21f81",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0",
+        "openapi >= 3.1.3",
+        "npeg >= 0.22.2"
+      ]
+    },
+    {
+      "v": "2621.0.0@9ed8b3ff869d0a9c5de810e16e2aed696f50b1e2",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0",
+        "openapi >= 3.1.3",
+        "npeg >= 0.22.2"
+      ]
+    },
+    {
+      "v": "2619.0.1@daf9df6bd3fc2426485a1938daa2c6577491bfe0",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0",
+        "openapi >= 3.1.3",
+        "npeg >= 0.22.2"
+      ]
+    },
+    {
+      "v": "2619.0.0@53fd1fc63fca52933345b1e26284502d72aae08c",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0",
+        "openapi >= 3.1.3",
+        "npeg >= 0.22.2"
+      ]
+    },
+    {
+      "v": "2618.0.0@fb0122a506a79434f82e97c1eafbf9a7e75338e6",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0",
+        "openapi >= 3.1.3",
+        "npeg >= 0.22.2"
+      ]
+    },
+    {
+      "v": "2617.0.0@7ee0b18a819604c5b0786d81733e3da472a68302",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0",
+        "openapi >= 3.1.3",
+        "npeg >= 0.22.2"
+      ]
+    },
+    {
+      "v": "2616.0.0@771589c0973c5f61614ea1f28e2fd0e19958136e",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0",
+        "openapi >= 3.1.3",
+        "npeg >= 0.22.2"
+      ]
+    },
+    {
+      "v": "2614.0.1@6a0ea810b59593626708b4ce45197971bd281d49",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0",
+        "openapi >= 3.1.3",
+        "npeg >= 0.22.2"
+      ]
+    },
+    {
+      "v": "2614.0.0@383161a29ce8f10bc3409f94f037e6b54ab252d7",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0",
+        "openapi >= 3.1.3",
+        "npeg >= 0.22.2"
+      ]
+    },
+    {
+      "v": "2613.0.0@76fc58af3b77667e8ba5f62d0be72c1dbd41289c",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0",
+        "openapi >= 3.1.3",
+        "npeg >= 0.22.2"
+      ]
+    },
+    {
+      "v": "2612.0.0@bfda16272cfa9f0c46535604f75687720dcd478b",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0",
+        "openapi >= 3.1.3",
+        "npeg >= 0.22.2"
+      ]
+    },
+    {
+      "v": "2610.0.0@58e45872de1f3389719119b7aa95399f03330612",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0",
+        "openapi >= 3.1.3",
+        "npeg >= 0.22.2"
+      ]
+    },
+    {
+      "v": "2609.0.2@657779783501d9b7d9f31414d2938988f0ce0ca3",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0",
+        "openapi >= 3.1.3",
+        "npeg >= 0.22.2"
+      ]
+    },
+    {
+      "v": "2609.0.1@dac3e38fc2b049b4d177dc93127f570306a8fb96",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0"
+      ]
+    },
+    {
+      "v": "2606.0.1@be16658b48e6e1f47fd0fade1ca36996852b9adc",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0"
+      ]
+    },
+    {
+      "v": "2606.0.0@db237b9d7aefbe2a42c8da41351de3e55cbd18e7",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0"
+      ]
+    },
+    {
+      "v": "2605.0.0@a5adf459d70dd83be9d3f395e1e7bb9e5eb91830",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0"
+      ]
+    },
+    {
+      "v": "2604.0.0@23de3cbcc6a927419d28cea0c9a277d3a90d9ee0",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0"
+      ]
+    },
+    {
+      "v": "2603.0.0@c34bca57bf335338a9d1c0f1b3409c9ee1ab6d59",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0"
+      ]
+    },
+    {
+      "v": "2602.0.0@e53a65e701df4e03d1a9511374395e2150260c67",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0"
+      ]
+    },
+    {
+      "v": "2601.0.0@bd1c1a60072d2ab145c6c5c6d6e72c6887b1d535",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0"
+      ]
+    },
+    {
+      "v": "2600.0.0@ae555db5a25b46acc3a91a0c9ceca85342f42be9",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0"
+      ]
+    },
+    {
+      "v": "2599.0.0@184bcff6ef3409e6f26dc075c438ef9c96ec8a17",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0"
+      ]
+    },
+    {
+      "v": "2597.0.0@288662b9ba9878141387fcba891f05e6237b389a",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0"
+      ]
+    },
+    {
+      "v": "2596.0.0@a1bd608082b4c40b23258fe98b25f0bd8fd1e053",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0"
+      ]
+    },
+    {
+      "v": "2595.0.0@c9006c1e15b2c2fd8bfa5bcc9f5db17887820129",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0"
+      ]
+    },
+    {
+      "v": "2590.0.0@ca331b17560d8c438160e80eb5e90e15ef93c09c",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0"
+      ]
+    },
+    {
+      "v": "2587.0.0@808da34cd32d48b532888c7cfbebbd12e2ef33c0",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0"
+      ]
+    },
+    {
+      "v": "2580.0.0@c442bcb57c04caeb1e240bdb6d9c4b52e70f646b",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0"
+      ]
+    },
+    {
+      "v": "2579.0.1@faf7195ed978ec3ec6e9ae1eab5eda1a5f1d31b1",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0"
+      ]
+    },
+    {
+      "v": "2579.0.0@519dc5cc569d4451707762ffdcd2731b14a500b4",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0"
+      ]
+    },
+    {
+      "v": "2572.0.1@1ad6df14e8fca9c7f9dcc27f3841971012ff1742",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0"
+      ]
+    },
+    {
+      "v": "2571.0.0@2a714c93d3a208d094bfd9a0c08e80c252440dc1",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0"
+      ]
+    },
+    {
+      "v": "2570.0.0@e1dbd88a1749855e5388f4a383726cdb6bcbed2c",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0"
+      ]
+    },
+    {
+      "v": "2561.0.1@23099f5c858081837f5e648b5dc83d1f49b2fdd0",
+      "r": [
+        "sigv4 >= 1.0.4",
+        "gh:disruptek/rest >= 1.0.0"
+      ]
+    },
+    {
+      "v": "2561.0.0@dffc860d34e737f305492e7f9d8c8f851a91a9ae",
+      "r": [
+        "sigv4 >= 1.0.2",
+        "gh:disruptek/rest >= 1.0.0"
+      ]
+    },
+    {
+      "v": "2556.0.1@5c29b94900f4ab364a5ad0ac95a98b16c60b51b0",
+      "r": [
+        "sigv4 >= 1.0.2",
+        "gh:disruptek/rest >= 1.0.0"
+      ]
+    },
+    {
+      "v": "2556.0.0@b0f7ead26722f140239c5184da3959d0e248fc63",
+      "r": [
+        "openapi >= 3.1.2",
+        "sigv4 >= 1.0.2",
+        "gh:disruptek/rest >= 1.0.0"
+      ]
+    },
+    {
+      "v": "2543.0.1@68542d4620b3af3473a89963dc4fb5c73b61528e",
+      "r": [
+        "openapi >= 3.1.2",
+        "sigv4 >= 1.0.2",
+        "gh:disruptek/rest >= 1.0.0"
+      ]
+    },
+    {
+      "v": "2543.0.0@609fd41b6dfd57dbe034b4c389ab644322eedaa3",
+      "r": [
+        "openapi >= 3.1.0",
+        "sigv4 >= 1.0.2",
+        "gh:disruptek/rest >= 1.0.0"
+      ]
+    },
+    {
+      "v": "2538.0.1@79e10928c07ecc495768bc9a0fa70d0ed90f8873",
+      "r": [
+        "openapi >= 3.0.0",
+        "sigv4 >= 1.0.2",
+        "gh:disruptek/rest >= 1.0.0"
+      ]
+    },
+    {
+      "v": "2533.0.1@36bd5d7f7ff8112d0207c581a5ea567496f3d6d5",
+      "r": [
+        "openapi 2.0.1",
+        "sigv4 >= 1.0.2"
+      ]
+    },
+    {
+      "v": "2533.0.0@f76b75ce14d45395c2576c71dd94e59cc9b01509",
+      "r": [
+        "openapi 2.0.0",
+        "sigv4 >= 1.0.1"
+      ],
+      "m": "1.0.0"
+    },
+    {
+      "v": "2.803.0@fd8a4cefee6e7ba65c4fc003a935d0538d7c9a9f",
+      "r": [
+        "sigv4 >= 1.3.0 & < 2.0.0",
+        "gh:disruptek/rest >= 1.0.0",
+        "openapi >= 5.0.0 & < 6.0.0",
+        "npeg >= 0.22.2 & < 2.0.0"
+      ],
+      "m": "~"
+    },
+    {
+      "v": "1.0.3@9a1ddba1617d1de2ab6d81b9bf553ed66c099c90",
+      "r": [
+        "openapi 1.0.1",
+        "sigv4 >= 1.0.0"
+      ]
+    },
+    {
+      "v": "1.0.0@823fe2084fb5398ae9e9cf30cd5caab541e3e87c",
+      "r": [
+        "openapi >= 1.0.0",
+        "sigv4 >= 1.0.0"
+      ]
+    },
+    {
+      "v": "#head@fd8a4cefee6e7ba65c4fc003a935d0538d7c9a9f",
+      "r": [
+        "sigv4 >= 1.3.0 & < 2.0.0",
+        "gh:disruptek/rest >= 1.0.0",
+        "openapi >= 5.0.0 & < 6.0.0",
+        "npeg >= 0.22.2 & < 2.0.0"
+      ],
+      "m": "~"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:42:29Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "1.0.0",
+      "1.0.3",
+      "2.803.0",
+      "2533.0.1",
+      "2538.0.1",
+      "2543.0.0",
+      "2543.0.1",
+      "2556.0.0",
+      "2556.0.1",
+      "2561.0.0",
+      "2561.0.1",
+      "2570.0.0",
+      "2571.0.0",
+      "2572.0.1",
+      "2579.0.0",
+      "2579.0.1",
+      "2580.0.0",
+      "2587.0.0",
+      "2590.0.0",
+      "2595.0.0",
+      "2596.0.0",
+      "2597.0.0",
+      "2599.0.0",
+      "2600.0.0",
+      "2601.0.0",
+      "2602.0.0",
+      "2603.0.0",
+      "2604.0.0",
+      "2605.0.0",
+      "2606.0.0",
+      "2606.0.1",
+      "2609.0.1",
+      "2610.0.0",
+      "2612.0.0",
+      "2613.0.0",
+      "2614.0.0",
+      "2614.0.1",
+      "2616.0.0",
+      "2617.0.0",
+      "2618.0.0",
+      "2619.0.0",
+      "2619.0.1",
+      "2621.0.0",
+      "2622.0.0",
+      "2626.0.0",
+      "2626.1.0",
+      "2626.4.0"
+    ],
+    "latest": "2.803.0"
+  },
+  "allDeps": {
+    "packages": [
+      "foreach",
+      "nimSHA2",
+      "nimcrypto",
+      "npeg",
+      "openapi",
+      "sigv4"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:disruptek/nimcrypto",
+      "gh:disruptek/rest"
+    ]
+  }
+}

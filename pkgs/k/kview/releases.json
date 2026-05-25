@@ -1,0 +1,57 @@
+{
+  "cv": 17,
+  "name": "kview",
+  "fqn": "kview.planety.github.com",
+  "head": "f6bbd5103e2db7f426239d1c207ce636eb7ac016",
+  "author": "flywind",
+  "description": "For karax html preview.",
+  "license": "BSD-3-Clause",
+  "nim": "1.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.2@f6bbd5103e2db7f426239d1c207ce636eb7ac016^",
+      "r": [
+        "karax"
+      ]
+    },
+    {
+      "v": "0.1.0@014467907597375a1d52360199283cecf6c303c4",
+      "r": [
+        "karax"
+      ]
+    },
+    {
+      "v": "#head@f6bbd5103e2db7f426239d1c207ce636eb7ac016",
+      "r": [
+        "karax"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:46:35Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.0",
+      "v0.1.2"
+    ],
+    "tagVersions": {
+      "v0.1.0": "0.1.0",
+      "v0.1.2": "0.1.2"
+    },
+    "latest": "v0.1.2"
+  },
+  "allDeps": {
+    "packages": [
+      "dotenv",
+      "karax",
+      "ws"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

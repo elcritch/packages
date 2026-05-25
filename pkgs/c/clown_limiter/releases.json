@@ -1,0 +1,73 @@
+{
+  "cv": 17,
+  "name": "clown_limiter",
+  "fqn": "clown_limiter.C-NERD.github.com",
+  "head": "1bf21dd5079071057ce0235b0bfd9c4de201d8f3",
+  "author": "C-NERD",
+  "description": "Jester rate limiter plugin",
+  "license": "MIT",
+  "nim": "1.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@21f2e31b496ce4361c883dfc56469d923613987c",
+      "r": [
+        "jester >= 0.5.0"
+      ]
+    },
+    {
+      "v": "0.1.5@72dfd18b2e0c618c361d254b6471db3ee6cbbfaa",
+      "r": [
+        "jester >= 0.5.0"
+      ]
+    },
+    {
+      "v": "0.2.0@c50510bd1cd526e1dcf81419ae295f92a9e387f5",
+      "r": [
+        "jester >= 0.5.0"
+      ]
+    },
+    {
+      "v": "0.3.0@3eff66f52ddd4eb98672fa7ce6bd6196719f1e99",
+      "r": [
+        "jester >= 0.5.0"
+      ]
+    },
+    {
+      "v": "0.4.0@1bf21dd5079071057ce0235b0bfd9c4de201d8f3^",
+      "r": [
+        "jester >= 0.5.0"
+      ]
+    },
+    {
+      "v": "#head@1bf21dd5079071057ce0235b0bfd9c4de201d8f3",
+      "r": [
+        "jester >= 0.5.0"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:43:25Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "stable"
+    ],
+    "latest": "stable"
+  },
+  "allDeps": {
+    "packages": [
+      "asynctools",
+      "httpbeast",
+      "jester"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:iffy/asynctools",
+      "gh:timotheecour/asynctools"
+    ]
+  }
+}

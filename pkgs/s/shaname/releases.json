@@ -1,0 +1,30 @@
+{
+  "cv": 17,
+  "name": "shaname",
+  "fqn": "nimble-packages.Torro.github.com",
+  "head": "cd84ca927f4aa4375158612673abc2202db016d9",
+  "author": "Torro",
+  "description": "Rename files to their sha1sums",
+  "license": "BSD",
+  "nim": "0.18.0",
+  "bin": [
+    "shaname"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@cd84ca927f4aa4375158612673abc2202db016d9",
+      "r": []
+    },
+    {
+      "v": "#head@cd84ca927f4aa4375158612673abc2202db016d9",
+      "r": []
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:40Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

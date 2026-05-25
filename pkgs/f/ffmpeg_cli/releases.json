@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "ffmpeg_cli",
+  "fqn": "nim-ffmpeg-cli.termer.git.termer.net",
+  "head": "bf0511a7e2345f1b2d753391b9c5e98e5bf308ba",
+  "author": ".",
+  "description": "Library for interfacing with the FFmpeg CLI to start, observe and terminate encode jobs with an intuitive API",
+  "license": "MIT",
+  "nim": "1.6.10",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@c099fd899637718f6ee9d8ef033e5c61ed7a1649",
+      "r": []
+    },
+    {
+      "v": "#head@bf0511a7e2345f1b2d753391b9c5e98e5bf308ba",
+      "r": [],
+      "a": ".",
+      "d": "Library for interfacing with the FFmpeg CLI to start, observe and terminate encode jobs with an intuitive API",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.6.10"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:44:45Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

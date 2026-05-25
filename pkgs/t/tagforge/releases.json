@@ -1,0 +1,50 @@
+{
+  "cv": 17,
+  "name": "tagforge",
+  "fqn": "TagForge-Nim.Nimberite-Development.github.com",
+  "head": "19c93cca3eb6dd664952f3cb33bba40dedcbc035",
+  "author": "Yu-Vitaqua-fer-Chronos",
+  "description": "A library made for the serialisation and deserialisation of MC NBT!",
+  "license": "Apache-2.0",
+  "nim": "2.0.2",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.1@45e5ce7a11afe2d0244c940c4ad2391f037ac1f4",
+      "r": [
+        "zippy >= 0.10.11",
+        "gh:Yu-Vitaqua-fer-Chronos/MUTF-8 >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.1.0@37351094f01a489908d5d6f415ee116261d068dd",
+      "r": [
+        "zippy >= 0.10.11",
+        "gh:Yu-Vitaqua-fer-Chronos/MUTF-8 >= 0.1.0"
+      ]
+    },
+    {
+      "v": "#head@19c93cca3eb6dd664952f3cb33bba40dedcbc035",
+      "r": [
+        "zippy >= 0.10.11",
+        "gh:Yu-Vitaqua-fer-Chronos/MUTF-8 >= 0.1.0"
+      ],
+      "a": "Yu-Vitaqua-fer-Chronos",
+      "d": "A library made for the serialisation and deserialisation of MC NBT!",
+      "l": "Apache-2.0",
+      "s": "src",
+      "m": "2.0.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:35Z",
+  "allDeps": {
+    "packages": [
+      "zippy"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:Yu-Vitaqua-fer-Chronos/MUTF-8"
+    ]
+  }
+}

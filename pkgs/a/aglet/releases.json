@@ -1,0 +1,156 @@
+{
+  "cv": 17,
+  "name": "aglet",
+  "fqn": "aglet.liquid600pgm.github.com",
+  "head": "5c3312982359f53d3ba8aaf05b9a927333289d71",
+  "author": "liquid600pgm",
+  "description": "A safe, high-level, optimized OpenGL wrapper",
+  "license": "MIT",
+  "nim": "1.2.6",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.4.4@8f8469a50b633d263bd7eaa3c974e06a3bcd963f",
+      "r": [
+        "gh:liquid600pgm/nim-glm >= 1.1.1",
+        "gh:nimgl/glfw >= 3.3.4"
+      ]
+    },
+    {
+      "v": "0.4.3@be3bb0fa6d9dea2837f7d6943f59ef3962b7c7d3",
+      "r": [
+        "gh:liquid600pgm/nim-glm >= 1.1.1",
+        "gh:nimgl/glfw >= 3.3.4"
+      ]
+    },
+    {
+      "v": "0.4.2@6ca4ae531c56bd959bdc38aa96470002ecb7fe1d",
+      "r": [
+        "gh:liquid600pgm/nim-glm >= 1.1.1",
+        "gh:nimgl/glfw >= 3.3.4"
+      ]
+    },
+    {
+      "v": "0.4.1@a0ff8082493571a188ebea03e5421594c712689d",
+      "r": [
+        "glm >= 1.1.1",
+        "gh:nimgl/glfw >= 3.3.4"
+      ]
+    },
+    {
+      "v": "0.4.0@5a3bbc6e0c102e575b0027ace64d4deda41c0a39",
+      "r": [
+        "glm >= 1.1.1",
+        "gh:nimgl/glfw >= 3.3.4"
+      ]
+    },
+    {
+      "v": "0.3.3@ab243da0eba641619b77b147d381a2ea759cf413",
+      "r": [
+        "glm >= 1.1.1",
+        "gh:nimgl/glfw >= 3.3.4"
+      ],
+      "m": "1.0.6"
+    },
+    {
+      "v": "0.3.2@9fe55f76f3fcbe31f244986a99ee5be3733141cd",
+      "r": [
+        "glm >= 1.1.1",
+        "gh:nimgl/glfw >= 3.3.4"
+      ],
+      "m": "1.0.6"
+    },
+    {
+      "v": "0.3.1@8e494985014d644e00c0e5822ab74645874071df",
+      "r": [
+        "glm >= 1.1.1",
+        "gh:nimgl/glfw >= 3.3.4"
+      ],
+      "m": "1.0.6"
+    },
+    {
+      "v": "0.3.0@252e3edf5d80f9778db782da9691ca82cf187c12",
+      "r": [
+        "glm >= 1.1.1",
+        "gh:nimgl/glfw >= 3.3.4"
+      ],
+      "m": "1.0.6"
+    },
+    {
+      "v": "0.2.1@a6fa012dc763c55639d24c04aff173c8d22690f7",
+      "r": [
+        "glm >= 1.1.1",
+        "gh:nimgl/glfw >= 3.3.4"
+      ],
+      "m": "1.0.6"
+    },
+    {
+      "v": "0.2.0@eb59607e8989a62644786ee9f722f40d07e976b0",
+      "r": [
+        "glm >= 1.1.1",
+        "gh:nimgl/glfw >= 3.3.4"
+      ],
+      "m": "1.0.6"
+    },
+    {
+      "v": "0.1.0@bbf37c2c42cb9f76cdebef5b81bc85f75a31bc4c",
+      "r": [
+        "nimterop >= 0.4.4",
+        "glm >= 1.1.1"
+      ],
+      "m": "1.0.6"
+    },
+    {
+      "v": "#head@5c3312982359f53d3ba8aaf05b9a927333289d71",
+      "r": [
+        "gh:liquid600pgm/nim-glm >= 1.1.1",
+        "gh:nimgl/glfw >= 3.3.4"
+      ],
+      "a": "liquid600pgm",
+      "d": "A safe, high-level, optimized OpenGL wrapper",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.2.6"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:41:47Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.1.0",
+      "0.2.0",
+      "0.2.1",
+      "0.3.0",
+      "0.3.1",
+      "0.3.2",
+      "0.3.3",
+      "0.4.0",
+      "0.4.1",
+      "0.4.2",
+      "0.4.3",
+      "0.4.4"
+    ],
+    "latest": "0.4.4"
+  },
+  "allDeps": {
+    "packages": [
+      "cligen <= 0.1.0",
+      "glm <= 0.4.1",
+      "graphemes <= 0.1.0",
+      "nimterop <= 0.1.0",
+      "regex <= 0.1.0",
+      "segmentation <= 0.1.0",
+      "unicodedb <= 0.1.0",
+      "unicodeplus <= 0.1.0"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:liquid600pgm/nim-glm",
+      "gh:nimgl/glfw"
+    ]
+  }
+}

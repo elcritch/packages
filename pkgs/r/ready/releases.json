@@ -1,0 +1,103 @@
+{
+  "cv": 17,
+  "name": "ready",
+  "fqn": "ready.guzba.github.com",
+  "head": "82f12ce64b9c8a03a60382118ce4b6a014fc9aa0",
+  "author": "Ryan Oldenburg",
+  "description": "A Redis client for multi-threaded servers",
+  "license": "MIT",
+  "nim": "1.6.10",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.9@e8dc4bbcda772dbc166969c029f9f64c5f10d4cd",
+      "r": []
+    },
+    {
+      "v": "0.1.8@a7bce99f44f850327c82530ab4fe0ae328425ccc",
+      "r": []
+    },
+    {
+      "v": "0.1.7@8b7923ac7c9c1fe6dc86deae5b4b89aa0fea4a2d",
+      "r": []
+    },
+    {
+      "v": "0.1.6@cc97240877336d71d63485348143525fb6b54472",
+      "r": []
+    },
+    {
+      "v": "0.1.5@e94d69dd297df6f9db28706017cc09b7ea34cf85",
+      "r": [
+        "waterpark >= 0.1.4"
+      ]
+    },
+    {
+      "v": "0.1.4@3afb6adb1f0f15dfb86f63dbcad1f96dda06327c",
+      "r": [
+        "waterpark >= 0.1.3"
+      ]
+    },
+    {
+      "v": "0.1.3@c21bb9cf0371923ccc44a633c7e1a10b6701b10c",
+      "r": [
+        "waterpark >= 0.1.3"
+      ]
+    },
+    {
+      "v": "0.1.2@57fb8bb71d8cbc1ac390aada77697b8abe221983",
+      "r": [
+        "waterpark >= 0.1.3"
+      ]
+    },
+    {
+      "v": "0.1.1@d53a92631f85939714ab2af90604a438a7902824",
+      "r": [
+        "waterpark >= 0.1.3"
+      ]
+    },
+    {
+      "v": "0.1.0@a7ff603a72fef898208d5ab9a29615429b389a90",
+      "r": [
+        "waterpark >= 0.1.0"
+      ]
+    },
+    {
+      "v": "#head@82f12ce64b9c8a03a60382118ce4b6a014fc9aa0",
+      "r": [],
+      "a": "Ryan Oldenburg",
+      "d": "A Redis client for multi-threaded servers",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.6.10"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:06Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.1.0",
+      "0.1.1",
+      "0.1.2",
+      "0.1.3",
+      "0.1.4",
+      "0.1.5",
+      "0.1.6",
+      "0.1.7",
+      "0.1.8",
+      "0.1.9"
+    ],
+    "latest": "0.1.9"
+  },
+  "allDeps": {
+    "packages": [
+      "db_connector <= 0.1.5",
+      "waterpark <= 0.1.5"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

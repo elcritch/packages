@@ -1,0 +1,29 @@
+{
+  "cv": 17,
+  "name": "sugerror",
+  "fqn": "nim-sugerror.quelklef.github.com",
+  "head": "14c5a2ad13bebc3ea0a57958d7cb59a0055b21d6",
+  "author": "Eli Maynard",
+  "description": "Terse and composable error handling.",
+  "license": "MIT",
+  "releases": [
+    {
+      "v": "1.0.0@f70d3ef6d550a3edf8b7618f8fc38797808680d1",
+      "r": []
+    },
+    {
+      "v": "#head@14c5a2ad13bebc3ea0a57958d7cb59a0055b21d6",
+      "r": [],
+      "a": "Eli Maynard",
+      "d": "Terse and composable error handling.",
+      "l": "MIT"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:25Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

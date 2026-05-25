@@ -1,0 +1,38 @@
+{
+  "cv": 17,
+  "name": "libarchibi",
+  "fqn": "libarchibi.juancarlospaco.github.com",
+  "head": "862b18e47eacf45d87fd04215ec1875cb4d25fdf",
+  "author": "Juan Carlos",
+  "description": "Libarchive at compile-time, Libarchive Chibi Edition",
+  "license": "MIT",
+  "nim": "1.0.6",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@7dd2c89cdaf72a8c06103082b922d344e1a660d8",
+      "r": []
+    },
+    {
+      "v": "0.2.0@63c1e4fc010d9915b539a48ae748acaaffc2c086",
+      "r": [],
+      "m": "1.2.4"
+    },
+    {
+      "v": "#head@862b18e47eacf45d87fd04215ec1875cb4d25fdf",
+      "r": [],
+      "a": "Juan Carlos",
+      "d": "Libarchive at compile-time, Libarchive Chibi Edition",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.2.4"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:46:41Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

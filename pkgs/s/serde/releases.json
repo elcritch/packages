@@ -1,0 +1,139 @@
+{
+  "cv": 17,
+  "name": "serde",
+  "fqn": "nim-json.codex-storage.github.com",
+  "head": "fb117e5bd200ef1b4e5d27b9f3b85d63dcf9aa85",
+  "author": "nim-serde authors",
+  "description": "Easy-to-use serialization capabilities (currently json only).",
+  "license": "MIT",
+  "skipDirs": [
+    "tests"
+  ],
+  "releases": [
+    {
+      "v": "1.2.3@afa6692fedada8a245270aec52bf63bb997cbf4e",
+      "r": [
+        "questionable >= 0.10.13 & < 0.11.0",
+        "stint",
+        "stew",
+        "asynctest >= 0.5.1 & < 0.6.0"
+      ]
+    },
+    {
+      "v": "1.2.2@f268cc8fa333172ad9f06997b783d4e281e1b386",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "x": []
+    },
+    {
+      "v": "1.2.1@3c8db9503c53f1480d8fbbcea60c85bf41203a0f",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "x": []
+    },
+    {
+      "v": "1.2.0@fd81098c64a599d61d1da2754fe84784b7b6899d",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "x": []
+    },
+    {
+      "v": "1.1.1@5068667d1437deea856bc47aa1683447ad7dc914",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "x": []
+    },
+    {
+      "v": "1.1.0@06b271a7271756126072d1ed093c4b3cb3bc287b",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "x": []
+    },
+    {
+      "v": "1.0.0@5e2531296cfe0025054856f63958a22381b32150",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "x": []
+    },
+    {
+      "v": "0.1.2@2beb0f8523dbfb18928097ff676771e6dec67952",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "x": []
+    },
+    {
+      "v": "0.1.1@e48be62eba2777344c63339a0e90183744d0d6ca",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "x": []
+    },
+    {
+      "v": "0.1.0@33c10a7518ed709116d203e9cd307ade49f74967",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "x": []
+    },
+    {
+      "v": "#head@fb117e5bd200ef1b4e5d27b9f3b85d63dcf9aa85",
+      "r": [
+        "questionable >= 0.10.13 & < 0.11.0",
+        "stint",
+        "stew",
+        "asynctest >= 0.5.1 & < 0.6.0"
+      ],
+      "a": "nim-serde authors",
+      "d": "Easy-to-use serialization capabilities (currently json only).",
+      "l": "MIT",
+      "x": [
+        "tests"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:36Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v.1.2.2",
+      "v1.1.0",
+      "v1.1.1",
+      "v1.2.0",
+      "v1.2.1",
+      "v1.2.3"
+    ],
+    "tagVersions": {
+      "v.1.2.2": "1.2.2",
+      "v1.1.0": "1.1.0",
+      "v1.1.1": "1.1.1",
+      "v1.2.0": "1.2.0",
+      "v1.2.1": "1.2.1",
+      "v1.2.3": "1.2.3"
+    },
+    "latest": "v1.2.3"
+  },
+  "allDeps": {
+    "packages": [
+      "asynctest > 1.2.2",
+      "intops > 1.2.2",
+      "questionable > 1.2.2",
+      "results > 1.2.2",
+      "stew > 1.2.2",
+      "stint > 1.2.2",
+      "unittest2 > 1.2.2"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

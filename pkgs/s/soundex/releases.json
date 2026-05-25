@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "soundex",
+  "fqn": "soundex.Kashiwara0205.github.com",
+  "head": "2e0337fd92bd320c53ce11194171de063fea6a37",
+  "author": "KASHIWARA FUKI",
+  "description": "soundex algorithm",
+  "license": "MIT",
+  "nim": "1.0.6",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@5d88a8f9f41d51baf5756b79432da82abc001fcd",
+      "r": []
+    },
+    {
+      "v": "#head@2e0337fd92bd320c53ce11194171de063fea6a37",
+      "r": [],
+      "a": "KASHIWARA FUKI",
+      "d": "soundex algorithm",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.0.6"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:52:02Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "cv": 17,
+  "name": "pixels",
+  "fqn": "pixels.Araq.github.com",
+  "head": "bf9ae23d1c4b127db9894acbd0d6ed81d84d6680",
+  "author": "Araq",
+  "description": "Toy support library for primitive graphics programming.",
+  "license": "MIT",
+  "nim": "1.6.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@399912794346bf2608dac6867ae72c14412e7671",
+      "r": []
+    },
+    {
+      "v": "#head@bf9ae23d1c4b127db9894acbd0d6ed81d84d6680",
+      "r": [
+        "sdl2"
+      ],
+      "a": "Araq",
+      "d": "Toy support library for primitive graphics programming.",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.6.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:50:27Z",
+  "allDeps": {
+    "packages": [
+      "sdl2"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

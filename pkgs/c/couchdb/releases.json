@@ -1,0 +1,43 @@
+{
+  "cv": 17,
+  "name": "couchdb",
+  "fqn": "nim-couchdb.theAkito.github.com",
+  "head": "f89ca16c6c8f3661c082659efc2f5402f20c5c40",
+  "author": "Akito <the@akito.ooo>",
+  "description": "Easily and comfortably access your CouchDB.",
+  "license": "GPL-3.0-or-later",
+  "nim": "1.4.0",
+  "skipDirs": [
+    "tasks"
+  ],
+  "skipFiles": [
+    "README.md"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@2c913c18a9e005c290dfbe95cbe86caa541fbecb",
+      "r": []
+    },
+    {
+      "v": "#head@f89ca16c6c8f3661c082659efc2f5402f20c5c40",
+      "r": [],
+      "a": "Akito <the@akito.ooo>",
+      "d": "Easily and comfortably access your CouchDB.",
+      "l": "GPL-3.0-or-later",
+      "x": [
+        "tasks"
+      ],
+      "y": [
+        "README.md"
+      ],
+      "m": "1.4.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:43:37Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

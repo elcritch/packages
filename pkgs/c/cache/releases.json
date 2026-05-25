@@ -1,0 +1,38 @@
+{
+  "cv": 17,
+  "name": "cache",
+  "fqn": "cached.planety.github.com",
+  "head": "86832d22e5cbd66d4922500fb04f4391475b852b",
+  "author": "flywind",
+  "description": "A new awesome nimble package",
+  "license": "MIT",
+  "nim": "1.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@54403b2b9a1039b5802711c56973f5b2ee0ac286",
+      "r": []
+    },
+    {
+      "v": "0.1.2@597971df44c81968750aac2984d9e080efa17993",
+      "r": [],
+      "d": "A cache library."
+    },
+    {
+      "v": "#head@86832d22e5cbd66d4922500fb04f4391475b852b",
+      "r": [],
+      "a": "flywind",
+      "d": "A cache library.",
+      "l": "BSD-3-Clause",
+      "s": "src",
+      "m": "1.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:42:59Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

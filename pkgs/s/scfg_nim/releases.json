@@ -1,0 +1,61 @@
+{
+  "cv": 17,
+  "name": "scfg_nim",
+  "fqn": "scfg-nim.heuer.github.com",
+  "head": "26bde6ccbb24012e01a1c0043815ef27e1b5b2a2",
+  "author": "Lars Heuer",
+  "description": "scfg (simple configuration file format) parser",
+  "license": "MIT",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.3.0@efc050760e75aee4566386d3d86e4ee23f7da30e",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "s": ""
+    },
+    {
+      "v": "0.2.4@f5858ec5be1c01c6381af328cf92e2bf98a98eab",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "m": "~",
+      "s": ""
+    },
+    {
+      "v": "0.2.3@72b2039ab9c45bf72b16afaa1140d0d0d0610158",
+      "r": []
+    },
+    {
+      "v": "0.2.2@b89c50b9e8159ebea8628998e5260b1ca438c2d3",
+      "r": []
+    },
+    {
+      "v": "0.2.1@f5bff8d39f061b291d6f6499f7378f2d92ffbead",
+      "r": []
+    },
+    {
+      "v": "0.2.0@bd2a0d4d423d4b3b2b653788a0da8ec8fb800a24",
+      "r": []
+    },
+    {
+      "v": "#head@26bde6ccbb24012e01a1c0043815ef27e1b5b2a2",
+      "r": [],
+      "a": "Lars Heuer",
+      "d": "scfg (simple configuration file format) parser",
+      "l": "MIT",
+      "s": "src",
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:25Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

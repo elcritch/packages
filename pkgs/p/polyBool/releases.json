@@ -1,0 +1,30 @@
+{
+  "cv": 17,
+  "name": "polyBool",
+  "fqn": "polyBool.jangko.github.com",
+  "head": "e7281860b002ed1e62b5802ede40c530dfd5bfde",
+  "author": "Andri Lim",
+  "description": "Polygon Clipping Library",
+  "license": "MIT",
+  "releases": [
+    {
+      "v": "0.1.0@0c7d4d617c8e1b020162d47791439b82915e91dc",
+      "r": []
+    },
+    {
+      "v": "#head@e7281860b002ed1e62b5802ede40c530dfd5bfde",
+      "n": "polyBool",
+      "r": [],
+      "a": "Andri Lim",
+      "d": "Polygon Clipping Library",
+      "l": "MIT"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:50:36Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "cv": 17,
+  "name": "wavecore",
+  "fqn": "wavecore.ansiwave.github.com",
+  "head": "836ce54862804c521478df8cac7c0b130a993567",
+  "author": "oakes",
+  "description": "Server and client utils for ANSIWAVE BBS",
+  "license": "Public Domain",
+  "nim": "1.2.6",
+  "srcDir": "src",
+  "installExt": [
+    "nim",
+    "c",
+    "h"
+  ],
+  "bin": [
+    "wavecore"
+  ],
+  "releases": [
+    {
+      "v": "0.9.1@836ce54862804c521478df8cac7c0b130a993567^",
+      "r": [
+        "puppy >= 2.1.2",
+        "flatty >= 0.3.4",
+        "paramidi >= 0.6.0",
+        "threading >= 0.1.0",
+        "ansiutils >= 0.2.0"
+      ]
+    },
+    {
+      "v": "0.9.0@eeafb8e51b1789a5c09bbc3bad7750f72d038477",
+      "r": [
+        "puppy >= 2.1.0",
+        "flatty >= 0.3.4",
+        "paramidi >= 0.6.0",
+        "threading >= 0.1.0",
+        "ansiutils >= 0.2.0"
+      ]
+    },
+    {
+      "v": "0.8.0@af375a9d560b1a0e9b95764666d078920ea2d47f",
+      "r": [
+        "puppy >= 2.0.1",
+        "flatty >= 0.3.4",
+        "paramidi >= 0.6.0",
+        "threading >= 0.1.0",
+        "ansiutils >= 0.2.0"
+      ]
+    },
+    {
+      "v": "0.7.1@6f8bdb02c394707a7a276256d016e51668053d66",
+      "r": [
+        "urlly >= 1.0.0",
+        "puppy >= 1.5.3",
+        "flatty >= 0.2.4",
+        "paramidi >= 0.6.0",
+        "threading >= 0.1.0",
+        "ansiutils >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.7.0@17c219f8395d52728f55fe3b0eb98fbbe75b340e",
+      "r": [
+        "urlly >= 1.0.0",
+        "puppy >= 1.5.3",
+        "flatty >= 0.2.4",
+        "zippy >= 0.7.3",
+        "paramidi >= 0.6.0",
+        "threading >= 0.1.0",
+        "ansiutils >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.6.0@3503ca820ecac878e302c7214d5efc92880fece7",
+      "r": [
+        "urlly >= 1.0.0",
+        "puppy >= 1.5.3",
+        "flatty >= 0.2.4",
+        "zippy >= 0.7.3",
+        "paramidi >= 0.6.0",
+        "threading >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.5.0@5126fd6b54c3459bc317ff16924d272499571da7",
+      "r": [
+        "urlly >= 1.0.0",
+        "puppy >= 1.5.1",
+        "flatty >= 0.2.3",
+        "zippy >= 0.7.3",
+        "paramidi >= 0.6.0",
+        "threading >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.4.3@83b6ec08e00a661efe3396a5ca350617df3e08b7",
+      "r": [
+        "urlly >= 1.0.0",
+        "puppy >= 1.5.1",
+        "flatty >= 0.2.3",
+        "zippy >= 0.7.3",
+        "paramidi >= 0.6.0"
+      ]
+    },
+    {
+      "v": "0.4.2@a9ce523b0ccac24a239aadb55352c3b8427cfb90",
+      "r": [
+        "urlly >= 1.0.0",
+        "puppy >= 1.5.1",
+        "flatty >= 0.2.3",
+        "zippy >= 0.7.3",
+        "paramidi >= 0.6.0"
+      ]
+    },
+    {
+      "v": "0.4.1@a5855d7259885e64dfcb0b939d53814c772e04ad",
+      "r": [
+        "urlly >= 1.0.0",
+        "puppy >= 1.5.1",
+        "flatty >= 0.2.3",
+        "zippy >= 0.7.3",
+        "paramidi >= 0.6.0"
+      ]
+    },
+    {
+      "v": "0.4.0@f46fe1febce0f380df456573b0d8fa7638e5cd54",
+      "r": [
+        "urlly >= 1.0.0",
+        "puppy >= 1.5.1",
+        "flatty >= 0.2.3",
+        "zippy >= 0.7.3",
+        "paramidi >= 0.6.0"
+      ]
+    },
+    {
+      "v": "0.3.7@651da213e78cbfc570c13ff054e1f89db865795a",
+      "r": [
+        "urlly >= 1.0.0",
+        "puppy >= 1.5.1",
+        "flatty >= 0.2.3",
+        "zippy >= 0.7.3",
+        "paramidi >= 0.6.0"
+      ]
+    },
+    {
+      "v": "0.3.6@e96cb671bfc31a116436d8e8fdea61b160e45822",
+      "r": [
+        "urlly >= 1.0.0",
+        "puppy >= 1.4.0",
+        "flatty >= 0.2.3",
+        "zippy >= 0.7.3",
+        "paramidi >= 0.6.0"
+      ]
+    },
+    {
+      "v": "0.3.5@df2200816f7d41fc8a85378d96784a85a78aaf41",
+      "r": [
+        "urlly >= 1.0.0",
+        "puppy >= 1.4.0",
+        "flatty >= 0.2.3",
+        "zippy >= 0.7.3",
+        "paramidi >= 0.6.0"
+      ]
+    },
+    {
+      "v": "0.3.4@028c62a7bbde23c3ad4d6032c6348d5c4bf5bd2f",
+      "r": [
+        "urlly >= 1.0.0",
+        "puppy >= 1.4.0",
+        "flatty >= 0.2.3",
+        "zippy >= 0.7.3",
+        "paramidi >= 0.6.0"
+      ]
+    },
+    {
+      "v": "0.3.3@30e60c4e2c7a96ac843cdccd902bd4424b424e3c",
+      "r": [
+        "urlly >= 1.0.0",
+        "puppy >= 1.4.0",
+        "flatty >= 0.2.3",
+        "zippy >= 0.7.3",
+        "paramidi >= 0.6.0"
+      ]
+    },
+    {
+      "v": "0.3.2@9ec2d5eb9e0c80631a73f61ff902c25c66881d7f",
+      "r": [
+        "urlly >= 1.0.0",
+        "puppy >= 1.4.0",
+        "flatty >= 0.2.3",
+        "zippy >= 0.7.3",
+        "paramidi >= 0.6.0"
+      ]
+    },
+    {
+      "v": "0.3.1@c94c38542da3e9f14dd85af72874bb12d2a81046",
+      "r": [
+        "urlly >= 1.0.0",
+        "puppy >= 1.4.0",
+        "flatty >= 0.2.3",
+        "zippy >= 0.7.3",
+        "paramidi >= 0.6.0"
+      ]
+    },
+    {
+      "v": "0.3.0@32efa1851c131e7a0ae2bd9a1421affe691fb48e",
+      "r": [
+        "urlly >= 1.0.0",
+        "puppy >= 1.4.0",
+        "flatty >= 0.2.3",
+        "zippy >= 0.7.3",
+        "paramidi >= 0.6.0"
+      ]
+    },
+    {
+      "v": "0.2.3@78a42dcb37440853e34289c09eee8f141e7cf5ed",
+      "r": [
+        "urlly >= 1.0.0",
+        "puppy >= 1.4.0",
+        "flatty >= 0.2.3",
+        "zippy >= 0.7.3",
+        "paramidi >= 0.6.0"
+      ]
+    },
+    {
+      "v": "0.2.2@7e43d9598abd0d112d9d6cd4819ec60860ea54bf",
+      "r": [
+        "urlly >= 1.0.0",
+        "puppy >= 1.4.0",
+        "flatty >= 0.2.3",
+        "zippy >= 0.7.3",
+        "paramidi >= 0.6.0"
+      ]
+    },
+    {
+      "v": "0.2.1@75b9100cad94c00d8a5ce855a0da20b909f09db0",
+      "r": [
+        "urlly >= 1.0.0",
+        "puppy >= 1.4.0",
+        "flatty >= 0.2.3",
+        "zippy >= 0.7.3",
+        "paramidi >= 0.6.0"
+      ]
+    },
+    {
+      "v": "0.2.0@2dbee03798197e07551eff65aab28bf49ce0ae07",
+      "r": [
+        "urlly >= 1.0.0",
+        "puppy >= 1.4.0",
+        "flatty >= 0.2.3",
+        "zippy >= 0.7.3",
+        "paramidi >= 0.6.0"
+      ]
+    },
+    {
+      "v": "0.1.1@e2c3dbd3dc5c201451ccfc123cb5e71db0994abf",
+      "r": [
+        "urlly >= 1.0.0",
+        "puppy >= 1.4.0",
+        "flatty >= 0.2.3",
+        "zippy >= 0.7.3",
+        "paramidi >= 0.6.0"
+      ]
+    },
+    {
+      "v": "0.1.0@6aea31787996f77b331f029a19f9898a24a12905",
+      "r": [
+        "urlly >= 1.0.0",
+        "puppy >= 1.4.0",
+        "flatty >= 0.2.3",
+        "zippy >= 0.7.3",
+        "paramidi >= 0.6.0"
+      ]
+    },
+    {
+      "v": "#head@836ce54862804c521478df8cac7c0b130a993567",
+      "r": [
+        "puppy >= 2.1.2",
+        "flatty >= 0.3.4",
+        "paramidi >= 0.6.0",
+        "threading >= 0.1.0",
+        "ansiutils >= 0.2.0"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:53:44Z",
+  "allDeps": {
+    "packages": [
+      "ansiutils > 0.6.0",
+      "flatty",
+      "libcurl",
+      "paramidi",
+      "puppy",
+      "threading > 0.4.3",
+      "urlly",
+      "webby",
+      "winim",
+      "zippy"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

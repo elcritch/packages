@@ -1,0 +1,74 @@
+{
+  "cv": 17,
+  "name": "css",
+  "fqn": "css.thing-king.github.com",
+  "head": "a6e195afd1bb85f768cfbdc5c8a0faced54cbec9",
+  "author": "savannt",
+  "description": "CSS parser and validator",
+  "license": "MIT",
+  "nim": "1.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@05ea3af184e0ec22c4536631208410f83a17a9a6",
+      "r": []
+    },
+    {
+      "v": "0.1.7@8d3a8384b52b2ab1b2a8a269baa7e2b6d0e68145",
+      "r": []
+    },
+    {
+      "v": "0.1.8@8b1956f7d398b915ac73090e6501006847926f33",
+      "r": []
+    },
+    {
+      "v": "0.1.9@0bec1e3d9b9cdb8cec0b9a030a4515f57dc804b2",
+      "r": []
+    },
+    {
+      "v": "0.1.20@3aacbf581f0bf265bbe5a2268202a7c98ea521f6",
+      "r": []
+    },
+    {
+      "v": "0.1.25@59e131bf2427a45c58534673d0667e5fbe377cb0",
+      "r": []
+    },
+    {
+      "v": "0.1.29@f3df168a99736e285dd4587a4dec8e2468d78340",
+      "r": []
+    },
+    {
+      "v": "0.1.36@5e492d4e59b7ae396d2b476c678aa13791c0eae0",
+      "r": [
+        "lifter >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.1.38@661ca7717e690b3670b1d70021cc8a2f0d793bb2",
+      "r": [
+        "lifter >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.1.68@a6e195afd1bb85f768cfbdc5c8a0faced54cbec9^",
+      "r": [
+        "lifter >= 0.1.0"
+      ]
+    },
+    {
+      "v": "#head@a6e195afd1bb85f768cfbdc5c8a0faced54cbec9",
+      "r": [
+        "lifter >= 0.1.0"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:43:44Z",
+  "allDeps": {
+    "packages": [
+      "lifter > 0.1.29"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

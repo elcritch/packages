@@ -1,0 +1,33 @@
+{
+  "cv": 17,
+  "name": "db_connector",
+  "fqn": "db_connector.nim-lang.github.com",
+  "head": "29450a2063970712422e1ab857695c12d80112a6",
+  "author": "ringabout",
+  "description": "Unified database connector.",
+  "license": "MIT",
+  "nim": "1.7.3",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@c77cffdfed0b5a74dc10f599206c5a883778af0d",
+      "r": []
+    },
+    {
+      "v": "#head@29450a2063970712422e1ab857695c12d80112a6",
+      "r": [],
+      "a": "Nim contributors",
+      "d": "Unified database connector.",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.7.3"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:43:52Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

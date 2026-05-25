@@ -1,0 +1,230 @@
+{
+  "cv": 17,
+  "name": "heine",
+  "fqn": "heine.~xigoi.git.sr.ht",
+  "head": "9fb6bf50f745f0886502259e9d387861d657fe64",
+  "author": "Adam Blažek",
+  "description": "A compact notation for math that transpiles to LaTeX",
+  "license": "GPL-3.0-or-later",
+  "nim": "1.6.4",
+  "srcDir": "src",
+  "installExt": [
+    "nim"
+  ],
+  "bin": [
+    "heine"
+  ],
+  "releases": [
+    {
+      "v": "2025.204.0@1f2cc0080c1e16232878e6e3ca1edc195c348d96",
+      "r": [
+        "cligen >= 1.5.21",
+        "npeg 1.2.1"
+      ]
+    },
+    {
+      "v": "2024.227.0@c315e12c0743e8b49936a450e590304567a4bb7a",
+      "r": [
+        "cligen >= 1.5.21",
+        "npeg >= 1.2.1"
+      ]
+    },
+    {
+      "v": "2023.1027.0@40c0189e2a78bd830928ba2dfd265d1bc1f8325b",
+      "r": [
+        "cligen >= 1.5.21",
+        "npeg >= 1.2.1"
+      ]
+    },
+    {
+      "v": "2023.1010.1@d95dbd85666891eb756057d4e0818de953446e79",
+      "r": [
+        "cligen >= 1.5.21",
+        "npeg >= 1.2.1"
+      ]
+    },
+    {
+      "v": "2023.1010.0@4f70033bbb38bf21a1a3bb3ed68e1a75424777e9",
+      "r": [
+        "cligen >= 1.5.21",
+        "npeg >= 1.2.1"
+      ]
+    },
+    {
+      "v": "2023.718.0@70f8b967d354207bb3975845bc99d1709db1784b",
+      "r": [
+        "cligen >= 1.5.21",
+        "npeg >= 1.2.1"
+      ]
+    },
+    {
+      "v": "2023.417.0@b50c61f422c361637c2a8de337da321742b1e044",
+      "r": [
+        "cligen >= 1.5.21",
+        "npeg >= 1.2.1"
+      ]
+    },
+    {
+      "v": "2023.414.1@ec2ebe6097deb8cc558c89de9b1adf87269236e5",
+      "r": [
+        "cligen >= 1.5.21",
+        "npeg >= 1.2.1"
+      ]
+    },
+    {
+      "v": "2023.414.0@d69bb159a2167b6899f987cb5914539577f1f60d",
+      "r": [
+        "cligen >= 1.5.21",
+        "npeg >= 1.2.1"
+      ]
+    },
+    {
+      "v": "2023.413.0@c787f4e529c3c845159b8865ebc786055079c197",
+      "r": [
+        "cligen >= 1.5.21",
+        "honeycomb >= 0.1.2"
+      ]
+    },
+    {
+      "v": "2023.311.0@bec14c96b3681844d9d0c7564beef41de911f947",
+      "r": [
+        "cligen >= 1.5.21",
+        "honeycomb >= 0.1.2"
+      ]
+    },
+    {
+      "v": "2023.308.1@5da0b1f40b0bf5860c2234dff6fa1e8fe5319baa",
+      "r": [
+        "cligen >= 1.5.21",
+        "honeycomb >= 0.1.2"
+      ]
+    },
+    {
+      "v": "2023.308.0@1c65dcb2f2449fe0a5329561c2fb19caf5cb11fd",
+      "r": [
+        "cligen >= 1.5.21",
+        "honeycomb >= 0.1.2"
+      ]
+    },
+    {
+      "v": "2023.302.0@e81439c2539824e0de8ffa04d3d56937ea2940ab",
+      "r": [
+        "cligen >= 1.5.21",
+        "honeycomb >= 0.1.2"
+      ]
+    },
+    {
+      "v": "2023.301.1@37fe77d6620a1821b044b9ad346a6f2367c7583f",
+      "r": [
+        "cligen >= 1.5.21",
+        "honeycomb >= 0.1.2"
+      ]
+    },
+    {
+      "v": "2023.301.0@fbc431848878f030ffe5757050b4673541856e21",
+      "r": [
+        "cligen >= 1.5.21",
+        "honeycomb >= 0.1.2"
+      ]
+    },
+    {
+      "v": "2023.226.0@32eef2c7f9c7eefc4dde6be8918deb222742c6a4",
+      "r": [
+        "cligen >= 1.5.21",
+        "honeycomb >= 0.1.2"
+      ]
+    },
+    {
+      "v": "2023.225.2@698daa21fc0a438ea4341080ce166293fe255c58",
+      "r": [
+        "cligen >= 1.5.21",
+        "honeycomb >= 0.1.2"
+      ]
+    },
+    {
+      "v": "2023.225.1@cfd425bad1794d2c1c6f611a8ceb3fa311575dbd",
+      "r": [
+        "cligen >= 1.5.21",
+        "honeycomb >= 0.1.2"
+      ]
+    },
+    {
+      "v": "2023.225.0@2486c576f800e2c20f3b9e47a0c9d929123439b4",
+      "r": [
+        "cligen >= 1.5.21",
+        "honeycomb >= 0.1.2"
+      ]
+    },
+    {
+      "v": "2023.223.2@d4ca3dcba3ac8342ae342df47ed0218b720f951b",
+      "r": [
+        "cligen >= 1.5.21",
+        "honeycomb >= 0.1.2"
+      ]
+    },
+    {
+      "v": "2023.223.1@d2c629bcc458c106d8f4b1af369def6370dc0721",
+      "r": [
+        "cligen >= 1.5.21",
+        "honeycomb >= 0.1.2"
+      ]
+    },
+    {
+      "v": "2023.223.0@91ca37896758ce1d6ccfe22d7eefa38ffb5abad6",
+      "r": [
+        "cligen >= 1.5.21",
+        "honeycomb >= 0.1.2"
+      ]
+    },
+    {
+      "v": "2023.2.22@aeca2c3d1f6645399c7500cb2136b261ce04cb02",
+      "r": [
+        "cligen >= 1.5.21",
+        "honeycomb >= 0.1.2"
+      ]
+    },
+    {
+      "v": "2023.2.21@1ef4361eb1f0d467d6175c95423589fcc3d2b625",
+      "r": [
+        "cligen >= 1.5.21",
+        "honeycomb >= 0.1.2"
+      ]
+    },
+    {
+      "v": "2023.2.20@3cf17f873917cd3870f3a2e0184c7bb11fac24c3",
+      "r": [
+        "cligen >= 1.5.21",
+        "honeycomb >= 0.1.2"
+      ]
+    },
+    {
+      "v": "#head@9fb6bf50f745f0886502259e9d387861d657fe64",
+      "r": [
+        "cligen >= 1.5.21",
+        "npeg 1.2.1"
+      ],
+      "a": "Adam Blažek",
+      "d": "A compact notation for math that transpiles to LaTeX",
+      "l": "GPL-3.0-or-later",
+      "s": "src",
+      "k": [
+        "nim"
+      ],
+      "p": [
+        "heine"
+      ],
+      "m": "1.6.4"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:42Z",
+  "allDeps": {
+    "packages": [
+      "cligen",
+      "honeycomb <= 2023.413.0",
+      "npeg > 2023.413.0"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

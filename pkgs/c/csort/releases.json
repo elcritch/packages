@@ -1,0 +1,43 @@
+{
+  "cv": 17,
+  "name": "csort",
+  "fqn": "csort.WyattBlue.github.com",
+  "head": "c37c37cbe7a7c9a9466666d19185a5dbe003e42d",
+  "author": "WyattBlue",
+  "description": "A fast, branchless, sorting algorithm",
+  "license": "Unlicense",
+  "nim": "2.2.4",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "1.0.0@e9f0c49b234fd4a2038b752ab02703288346ce98",
+      "r": []
+    },
+    {
+      "v": "#head@c37c37cbe7a7c9a9466666d19185a5dbe003e42d",
+      "r": [],
+      "a": "WyattBlue",
+      "d": "A fast, branchless, sorting algorithm",
+      "l": "Unlicense",
+      "s": "src",
+      "m": "2.2.4"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:43:43Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "1.0.0"
+    ],
+    "latest": "1.0.0"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

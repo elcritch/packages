@@ -1,0 +1,62 @@
+{
+  "cv": 17,
+  "name": "oldgtk3",
+  "fqn": "oldgtk3.stefansalewski.github.com",
+  "head": "4e60fd1c4c08241cc22336362fc4f487c633299c",
+  "author": "Stefan Salewski",
+  "description": "Low level bindings for GTK3 related libraries",
+  "license": "MIT",
+  "nim": "0.17.0",
+  "skipDirs": [
+    "nim-atk",
+    "nim-cairo",
+    "nim-gdk3",
+    "nim-gdk_pixbuf",
+    "nim-gio",
+    "nim-gir",
+    "nim-glib",
+    "nim-gobject",
+    "nim-gtk3",
+    "nim-gtksourceview",
+    "nim-pango",
+    "nim-rsvg",
+    "oldgtk3.bak"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@adeea8be88efacb5e7a1408f58ac6ce99a6583c1",
+      "r": []
+    },
+    {
+      "v": "#head@4e60fd1c4c08241cc22336362fc4f487c633299c",
+      "r": [],
+      "a": "Stefan Salewski",
+      "d": "Low level bindings for GTK3 related libraries",
+      "l": "MIT",
+      "x": [
+        "common",
+        "nim-atk",
+        "nim-cairo",
+        "nim-gdk3",
+        "nim-gdk_pixbuf",
+        "nim-gio",
+        "nim-gir",
+        "nim-glib",
+        "nim-gobject",
+        "nim-gtk3",
+        "nim-gtksourceview",
+        "nim-pango",
+        "nim-rsvg",
+        "oldgtk3.bak"
+      ],
+      "m": "0.17.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:49:55Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

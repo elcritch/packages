@@ -1,0 +1,61 @@
+{
+  "cv": 17,
+  "name": "holidapi",
+  "fqn": "holidapi.nirokay.github.com",
+  "head": "57c9762be492f4afc5c3d96af1b0c2d1aa3accf5",
+  "author": "nirokay",
+  "description": "Nim wrappers for holiday APIs.",
+  "license": "GPL-3.0-only",
+  "nim": "2.0.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "1.0.2@c6d5b79c9f02aec6862b7c809cd769f32e949e08",
+      "r": []
+    },
+    {
+      "v": "1.0.1@7dc0c7265fa2a9058233a7a2895c28f9b2f01147",
+      "r": []
+    },
+    {
+      "v": "1.0.0@1da3e05d3f558885d78fb364025a7d7a5e5c3627",
+      "r": []
+    },
+    {
+      "v": "0.1.0@7cdd1b3ecea35b67d759a0a4dc7495c14b391211",
+      "r": []
+    },
+    {
+      "v": "#head@57c9762be492f4afc5c3d96af1b0c2d1aa3accf5",
+      "r": [],
+      "a": "nirokay",
+      "d": "Nim wrappers for holiday APIs.",
+      "l": "GPL-3.0-only",
+      "s": "src",
+      "m": "2.0.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:43Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.1.0",
+      "1.0.0",
+      "1.0.1",
+      "1.0.2"
+    ],
+    "latest": "1.0.2",
+    "prerelease": [
+      "0.1.0"
+    ]
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "cv": 17,
+  "name": "rangex",
+  "fqn": "rangex-nim.PegasusPlusUS.github.com",
+  "head": "a4af31d2ad147485a7a44e1bf9ece2b410e09659",
+  "author": "pegasus.cadence@gmail.com",
+  "description": "Clear range maker",
+  "license": "MIT",
+  "nim": "2.2.0",
+  "srcDir": "src",
+  "installExt": [
+    "nim"
+  ],
+  "bin": [
+    "rangex"
+  ],
+  "releases": [
+    {
+      "v": "0.4.0@eac46dfc67fadffe91df6621142f589ba0014618",
+      "r": []
+    },
+    {
+      "v": "#head@a4af31d2ad147485a7a44e1bf9ece2b410e09659",
+      "r": [],
+      "a": "pegasus.cadence@gmail.com",
+      "d": "Clear range maker",
+      "l": "MIT",
+      "s": "src",
+      "k": [
+        "nim"
+      ],
+      "p": [
+        "rangex"
+      ],
+      "m": "2.2.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:01Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.4.0"
+    ],
+    "latest": "0.4.0"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

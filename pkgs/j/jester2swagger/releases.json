@@ -1,0 +1,49 @@
+{
+  "cv": 17,
+  "name": "jester2swagger",
+  "fqn": "jester2swagger.ThomasTJdev.github.com",
+  "head": "88dd86859c47730773f4507d7a986a1c0fc7963a",
+  "author": "ThomasTJdev",
+  "description": "Generate Swagger JSON from Jester-routes",
+  "license": "MIT",
+  "nim": "1.4.8",
+  "installExt": [
+    "jester2swagger"
+  ],
+  "bin": [
+    "jester2swagger"
+  ],
+  "releases": [
+    {
+      "v": "0.1.0@b8adaa19631983305f7a1fd668195465ae7777e6",
+      "r": [
+        "cligen >= 1.5.3"
+      ]
+    },
+    {
+      "v": "#head@88dd86859c47730773f4507d7a986a1c0fc7963a",
+      "r": [
+        "cligen >= 1.5.3"
+      ],
+      "a": "ThomasTJdev",
+      "d": "Generate Swagger JSON from Jester-routes",
+      "l": "MIT",
+      "k": [
+        "jester2swagger"
+      ],
+      "p": [
+        "jester2swagger"
+      ],
+      "m": "1.4.8"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:46:17Z",
+  "allDeps": {
+    "packages": [
+      "cligen"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

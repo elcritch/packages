@@ -1,0 +1,57 @@
+{
+  "cv": 17,
+  "name": "gamelight",
+  "fqn": "gamelight.dom96.github.com",
+  "head": "e0abfd649c53a82e65c26a3fd930c838dbb45caa",
+  "author": "Dominik Picheta",
+  "description": "A set of simple modules for writing a JavaScript 2D game.",
+  "license": "MIT",
+  "nim": "0.16.0",
+  "releases": [
+    {
+      "v": "0.1.0@5493dbc6713effaab477f0ebb9e9728eda6c9604",
+      "r": []
+    },
+    {
+      "v": "#head@e0abfd649c53a82e65c26a3fd930c838dbb45caa",
+      "r": [
+        "sdl2",
+        "chroma >= 0.1.0",
+        "typography >= 0.2.4",
+        "flippy >= 0.4.0"
+      ],
+      "a": "Dominik Picheta",
+      "d": "A set of simple modules for writing a JavaScript 2D game.",
+      "l": "MIT",
+      "m": "0.16.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:03Z",
+  "allDeps": {
+    "packages": [
+      "bumpy",
+      "chroma",
+      "faststreams",
+      "flatty",
+      "flippy",
+      "mddoc",
+      "nimPNG",
+      "pixie",
+      "print",
+      "results",
+      "sdl2",
+      "snappy",
+      "stb_image",
+      "stew",
+      "supersnappy",
+      "typography",
+      "unittest2",
+      "vmath"
+    ],
+    "urls": [],
+    "unresolved": [
+      "pixie"
+    ]
+  }
+}

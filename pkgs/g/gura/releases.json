@@ -1,0 +1,38 @@
+{
+  "cv": 17,
+  "name": "gura",
+  "fqn": "gura.khchen.github.com",
+  "head": "3372c3e8976c87066d2ee97fcd66e35609af66a1",
+  "author": "Ward",
+  "description": "Gura Configuration Language for Nim",
+  "license": "MIT",
+  "skipDirs": [
+    "testing"
+  ],
+  "skipFiles": [
+    "tests.nim"
+  ],
+  "releases": [
+    {
+      "v": "0.1.1@3372c3e8976c87066d2ee97fcd66e35609af66a1^",
+      "r": [
+        "npeg >= 1.2.2"
+      ]
+    },
+    {
+      "v": "#head@3372c3e8976c87066d2ee97fcd66e35609af66a1",
+      "r": [
+        "npeg >= 1.2.2"
+      ]
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:45:31Z",
+  "allDeps": {
+    "packages": [
+      "npeg"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

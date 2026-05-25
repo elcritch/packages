@@ -1,0 +1,37 @@
+{
+  "cv": 17,
+  "name": "receq",
+  "fqn": "nim_receq.choltreppe.github.com",
+  "head": "a7ac6fe395be7780d3f14b17c74d9a0192a794af",
+  "author": "Joel Lienhard",
+  "description": "A generator for comparison of recursive ref object types",
+  "license": "MIT",
+  "nim": "1.6.4",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@a95874eee28b174a822bb63aefe025e4c4a68905",
+      "r": []
+    },
+    {
+      "v": "0.1.1@40289f3fb70b47a9243bec7eec35e7a523038dd3",
+      "r": []
+    },
+    {
+      "v": "#head@a7ac6fe395be7780d3f14b17c74d9a0192a794af",
+      "r": [],
+      "a": "Joel Lienhard",
+      "d": "A generator for comparison of recursive ref object types",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.6.4"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:51:06Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}

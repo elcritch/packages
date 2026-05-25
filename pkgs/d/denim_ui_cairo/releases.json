@@ -1,0 +1,48 @@
+{
+  "cv": 17,
+  "name": "denim_ui_cairo",
+  "fqn": "midio-ui-cairo.nortero-code.github.com",
+  "head": "892d103d513bb2c32c4a4e572c78f136f9a9784c",
+  "author": "Kristian Fjeld Hasselknippe",
+  "description": "Cairo backend for the denim ui engine",
+  "license": "MIT",
+  "nim": "1.4.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "0.1.0@eec341c2b198a47fbbf7fb706eed6cae09b2aca9",
+      "r": [
+        "denim_ui",
+        "sdl2",
+        "cairo"
+      ]
+    },
+    {
+      "v": "#head@892d103d513bb2c32c4a4e572c78f136f9a9784c",
+      "r": [
+        "denim_ui",
+        "sdl2",
+        "cairo"
+      ],
+      "a": "Kristian Fjeld Hasselknippe",
+      "d": "Cairo backend for the denim ui engine",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.4.2"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:43:59Z",
+  "allDeps": {
+    "packages": [
+      "cairo",
+      "denim_ui",
+      "itertools",
+      "macroutils",
+      "rx_nim",
+      "sdl2"
+    ],
+    "urls": [],
+    "unresolved": []
+  }
+}

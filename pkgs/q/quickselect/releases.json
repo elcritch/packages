@@ -1,0 +1,41 @@
+{
+  "cv": 17,
+  "name": "quickselect",
+  "fqn": "nim-quickselect.nnsee.github.com",
+  "head": "7b295f4905d90b9e5d95e018f606746c3133c1dd",
+  "author": "Rasmus Moorats",
+  "description": "Nim implemenation of the Quickselect and Floyd-Rivest algorithms",
+  "license": "MIT",
+  "nim": "1.4.0",
+  "srcDir": "src",
+  "releases": [
+    {
+      "v": "1.1.0@7770354f1f7eeff4217823266701c62a90d37ed9",
+      "r": []
+    },
+    {
+      "v": "1.0.2@60163ec216f958ad51c36a1bfb609cd7397c32b4",
+      "r": []
+    },
+    {
+      "v": "1.0.1@7c2dc0f9bcc77b09df773364270004c7812e9082",
+      "r": []
+    },
+    {
+      "v": "#head@7b295f4905d90b9e5d95e018f606746c3133c1dd",
+      "r": [],
+      "a": "Rasmus Moorats",
+      "d": "Nim implemenation of the Quickselect and Floyd-Rivest algorithms",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.4.0"
+    }
+  ],
+  "tags": true,
+  "generatedAt": "2026-05-25T11:50:58Z",
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
+  }
+}
