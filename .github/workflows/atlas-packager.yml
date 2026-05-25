@@ -49,6 +49,7 @@ jobs:
           printf '%s\n' "$releases_files" | while IFS= read -r path; do
             [ -n "$path" ] && git add -- "$path"
           done
+          git stash push --keep-index --include-untracked -m atlas-packager-nonrelease || true
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -m "Update Atlas releases [skip ci]"
