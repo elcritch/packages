@@ -35,7 +35,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:18Z",
+  "generatedAt": "2026-05-25T22:07:28Z",
   "allDeps": {
     "packages": [
       "bumpy",
@@ -60,5 +60,15 @@
     ],
     "urls": [],
     "unresolved": []
+  },
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.2.0"
+    ],
+    "latest": "0.2.0"
   }
 }

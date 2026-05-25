@@ -2,7 +2,7 @@
   "cv": 17,
   "name": "arturo",
   "fqn": "arturo.arturo-lang.github.com",
-  "head": "59d5def2001e9e066629bbb7bde190fc37b116f6",
+  "head": "57f95008337a119eb5d864e7793583ece95cdc30",
   "releases": [
     {
       "v": "0.10.0@8bea10b7306a17bd4538301332edb7ac656ce2b7",
@@ -41,14 +41,14 @@
       "E": "missing nimble file"
     },
     {
-      "v": "#head@59d5def2001e9e066629bbb7bde190fc37b116f6",
+      "v": "#head@57f95008337a119eb5d864e7793583ece95cdc30",
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:09Z",
+  "generatedAt": "2026-05-25T22:02:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

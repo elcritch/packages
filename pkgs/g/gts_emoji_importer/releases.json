@@ -2,7 +2,7 @@
   "cv": 17,
   "name": "gts_emoji_importer",
   "fqn": "gts_emoji_importer.pswilde.codeberg.org",
-  "head": "f8db763c17ad05484f8619751fe75d1637cb973d",
+  "head": "5b874574d46482081ee12d142fd252458507423a",
   "author": "Paul Wilde",
   "description": "An Emoji Importer for GoToSocial",
   "license": "AGPL-3.0-or-later",
@@ -42,10 +42,11 @@
       "l": "GPLv3"
     },
     {
-      "v": "#head@f8db763c17ad05484f8619751fe75d1637cb973d",
+      "v": "#head@5b874574d46482081ee12d142fd252458507423a",
       "r": [
         "fedi_auth >= 0.1.0"
       ],
+      "g": true,
       "a": "Paul Wilde",
       "d": "An Emoji Importer for GoToSocial",
       "l": "GPLv3",
@@ -58,7 +59,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:34Z",
+  "generatedAt": "2026-05-25T22:04:10Z",
   "allDeps": {
     "packages": [
       "fedi_auth > 0.1.0"

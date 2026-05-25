@@ -15,6 +15,7 @@
       "r": [
         "ws >= 0.5.0"
       ],
+      "g": true,
       "a": "Guoliang Cao",
       "d": "Gene - a general purpose language",
       "l": "MIT",
@@ -30,7 +31,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:09Z",
+  "generatedAt": "2026-05-25T22:03:59Z",
   "allDeps": {
     "packages": [
       "ws"

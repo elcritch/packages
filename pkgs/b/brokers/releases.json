@@ -89,6 +89,7 @@
       "faststreams",
       "httputils",
       "json_serialization",
+      "npeg",
       "results",
       "serialization",
       "stew",
