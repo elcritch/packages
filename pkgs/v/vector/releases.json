@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "vector",
   "fqn": "vector.tontinton.github.com",
+  "current": "77d4a292f6c504180da0968834303bdd459dd1c4",
   "author": "Tony Solomonik",
   "description": "Simple reallocating vector",
   "license": "MIT",
@@ -14,17 +15,15 @@
   "releases": [
     {
       "v": "0.1.1@77d4a292f6c504180da0968834303bdd459dd1c4^",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.1.0@2a30b9550776142a7d2eb51d9858ed8cd8c05ab8",
-      "r": [],
-      "x": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:08Z",
+  "generatedAt": "2026-05-26T15:54:46Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

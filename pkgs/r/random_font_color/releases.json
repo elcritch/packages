@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "random_font_color",
   "fqn": "nim-random-font-color.juancarlospaco.github.com",
+  "current": "3d1d9428d5643730a6237d752c6196420004bb16",
   "author": "juancarlospaco",
   "description": "Random curated Fonts and pastel Colors for your UI/UX design, design for non-designers.",
   "license": "LGPLv3",
@@ -13,13 +14,11 @@
   "releases": [
     {
       "v": "0.1.0@1bf5307ee3040c39039e714a3aef11fbbf14fcfc",
-      "r": [],
-      "p": []
+      "r": []
     },
     {
       "v": "0.1.1@1fb6b196d323ada1cc84bad6f3fdc675779905ce",
-      "r": [],
-      "p": []
+      "r": []
     },
     {
       "v": "0.2.1@dff037a65e96ddb9bbd95166b6516e0b999c541b",
@@ -41,7 +40,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:28Z",
+  "generatedAt": "2026-05-26T15:52:32Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "print",
   "fqn": "print.treeform.github.com",
+  "current": "159e540f0686efdd1c8f30ad7b4225a6aa2a5ab9",
   "author": "Andre von Houck",
   "description": "Print is a set of pretty print macros, useful for print-debugging.",
   "license": "MIT",
@@ -37,7 +38,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:17Z",
+  "generatedAt": "2026-05-26T15:52:17Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

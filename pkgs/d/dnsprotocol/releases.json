@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "dnsprotocol",
   "fqn": "nim-dnsprotocol.rockcavera.github.com",
+  "current": "f1aa2d6f809fca124d5902f29ae0f37d645e1685",
   "author": "rockcavera",
   "description": "Domain Name System (DNS) protocol for Nim programming language",
   "license": "MIT",
@@ -36,7 +37,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:36Z",
+  "generatedAt": "2026-05-26T15:46:13Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

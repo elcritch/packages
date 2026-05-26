@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "matplotnim",
   "fqn": "matplotnim.ruivieira.github.com",
+  "current": "33ae2a0c0154b5b018072c4b186857a5a09798bb",
   "author": "Rui Vieira",
   "description": "Nim wrapper for matplotlib",
   "license": "Apache-2.0",
@@ -23,7 +24,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:52Z",
+  "generatedAt": "2026-05-26T15:49:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

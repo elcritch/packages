@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "gpt4free",
   "fqn": "gpt4free.Monsler.github.com",
+  "current": "0fea627c280acf33b116c913a531bda1fe180d1a",
   "author": "Monsler",
   "description": "gpt4free work-in-progress nim implementation",
   "license": "MIT",
@@ -73,12 +74,11 @@
     },
     {
       "v": "0.1.0@b426c486e5b60dffa8b0a90ac174f3cc45433ab4",
-      "r": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:32Z",
+  "generatedAt": "2026-05-26T15:47:27Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

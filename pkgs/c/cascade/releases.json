@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "cascade",
   "fqn": "cascade.haltcase.github.com",
+  "current": "9eea9d252b69d24a5f4449125fb68ba54a265b88",
   "author": "citycide",
   "description": "Method & assignment cascades for Nim, inspired by Smalltalk & Dart.",
   "license": "MIT",
@@ -12,18 +13,16 @@
   "releases": [
     {
       "v": "1.0.0@0e6535da5eeffd5922625cfe4d4437361b894d15",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.2.0@d14ecec9da54ac1b354a029d2421e37577470eaa",
       "r": [],
-      "m": "0.17.1",
-      "x": []
+      "m": "0.17.1"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:49Z",
+  "generatedAt": "2026-05-26T15:45:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

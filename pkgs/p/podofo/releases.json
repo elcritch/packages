@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "podofo",
   "fqn": "nim-podofo.fox0430.github.com",
+  "current": "00c1f26728dd236e71fd6011610f530b35476508",
   "author": "fox0430",
   "description": "Nim bindings for PoDoFo library",
   "license": "MIT",
@@ -13,13 +14,11 @@
   "releases": [
     {
       "v": "0.1.0@15d9db540a2a92dd43886cbff50818aa3a903003",
-      "r": [],
-      "i": [],
-      "e": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:10Z",
+  "generatedAt": "2026-05-26T15:52:08Z",
   "allDeps": {
     "packages": [],
     "urls": [],

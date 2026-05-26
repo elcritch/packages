@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimbioseq",
   "fqn": "nimbioseq.jhbadger.github.com",
+  "current": "56e663c400443ba13a7f81358a122e70341b44ad",
   "author": "Jonathan Badger",
   "description": "Nim Library for sequence (protein/nucleotide) bioinformatics",
   "license": "BSD-3",
@@ -21,31 +22,27 @@
     },
     {
       "v": "0.2.20180716@c8d7abfdad078bc8381f00fa7d2c684e79338d8d",
-      "r": [],
-      "y": []
+      "r": []
     },
     {
       "v": "0.3.20181119@69754d9ba3a671d50fc9dbff694280312b6a739b",
-      "r": [],
-      "y": []
+      "r": []
     },
     {
       "v": "0.3.20181121@c7f98c8f2c647ea215ff895c42ce9bbe4ac0eaec",
       "r": [
         "zip >= 0.2.1"
-      ],
-      "y": []
+      ]
     },
     {
       "v": "0.3.20181126@6f40f7b667964432ccc2b7cc4be2485f2618300b",
       "r": [
         "zip >= 0.2.1"
-      ],
-      "y": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:41Z",
+  "generatedAt": "2026-05-26T15:50:13Z",
   "allDeps": {
     "packages": [
       "zip > 0.3.20181119"

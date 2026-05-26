@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "webrod",
   "fqn": "webrod.j-a-s-d.github.com",
+  "current": "99523ad58e2c7f185cc2c0864133073a021da926",
   "author": "Javier Santo Domingo",
   "description": "webrod",
   "license": "MIT",
@@ -36,7 +37,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:20Z",
+  "generatedAt": "2026-05-26T15:55:01Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

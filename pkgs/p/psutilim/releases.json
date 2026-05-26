@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "psutilim",
   "fqn": "psutil-nim.Techno-Fox.github.com",
+  "current": "a793440b66d1a48d86145d7dce57379e6dbe08a5",
   "author": "johnscillieri",
   "description": "psutil is a cross-platform library for retrieving information on running processes and system utilization (CPU, memory, disks, network)",
   "license": "BSD",
@@ -27,16 +28,14 @@
       "v": "0.5.6@c3f1d2d20cb141090790d289c42b860463840d78",
       "r": [],
       "a": "JohnScillieri, JuanCarlos",
-      "m": "0.19.0",
-      "x": []
+      "m": "0.19.0"
     },
     {
       "v": "0.5.7@242e51733b47cf10866310653e063f348bd987db",
       "r": [],
       "a": "JohnScillieri, JuanCarlos",
       "s": "src",
-      "m": "0.19.0",
-      "x": []
+      "m": "0.19.0"
     },
     {
       "v": "0.5.8@1b519dab1ddaf9ff4a7581759e79c8d552b25f05",
@@ -45,12 +44,11 @@
       "d": "Psutil is a cross-platform library for retrieving information on running processes and system utilization (CPU, memory, disks, network)",
       "l": "MIT",
       "s": "src",
-      "m": "1.2.6",
-      "x": []
+      "m": "1.2.6"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:21Z",
+  "generatedAt": "2026-05-26T15:52:21Z",
   "allDeps": {
     "packages": [],
     "urls": [],

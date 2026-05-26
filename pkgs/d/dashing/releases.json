@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "dashing",
   "fqn": "nim-dashing.FedericoCeratto.github.com",
+  "current": "09a8ee027582521d4cffc98ba7c51c41520d9ee8",
   "author": "Federico Ceratto",
   "description": "Terminal dashboards for Nim",
   "license": "LGPLv3",
@@ -12,12 +13,11 @@
   "releases": [
     {
       "v": "0.1.1@09a8ee027582521d4cffc98ba7c51c41520d9ee8^",
-      "r": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:23Z",
+  "generatedAt": "2026-05-26T15:45:55Z",
   "allDeps": {
     "packages": [],
     "urls": [],

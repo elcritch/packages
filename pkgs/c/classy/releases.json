@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "classy",
   "fqn": "classy.nigredo-tori.github.com",
+  "current": "2a4c5ec004ff58a63ad452255311624f86e3d3c9",
   "author": "nigredo-tori",
   "description": "typeclasses for Nim",
   "license": "Unlicense",
@@ -13,32 +14,25 @@
   "releases": [
     {
       "v": "0.0.4@1796023bbf6eb5cdf3e993a459f2f53b227bbc91",
-      "r": [],
-      "b": "",
-      "j": []
+      "r": []
     },
     {
       "v": "0.0.3@40cb9087d3ba8dd502ab72573001c2894666a8ab",
-      "r": [],
-      "b": "",
-      "j": []
+      "r": []
     },
     {
       "v": "0.0.2@2b9a329d47d1839d74cc4d2e3a2d3d6f2fe6289e",
-      "r": [],
-      "b": "",
-      "j": []
+      "r": []
     },
     {
       "v": "0.0.1@694850d0ca2b46e61673f59c95fc96236b46dd44",
       "r": [],
       "m": "0.15.0",
-      "b": "",
-      "j": []
+      "b": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:02Z",
+  "generatedAt": "2026-05-26T15:45:30Z",
   "allDeps": {
     "packages": [],
     "urls": [],

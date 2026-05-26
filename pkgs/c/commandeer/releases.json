@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "commandeer",
   "fqn": "commandeer.fenekku.github.com",
+  "current": "d8f246703de3c17763a492c8f8ab53ffd8542a28",
   "author": "Guillaume Viger",
   "description": "A small command line parsing DSL",
   "license": "MIT",
@@ -12,35 +13,29 @@
   "releases": [
     {
       "v": "0.12.3@47ed703cbf261ce86c3814bda753467d4c1c7bf6",
-      "r": [],
-      "j": []
+      "r": []
     },
     {
       "v": "0.12.1@a0baa24c0b66a72c77895a2167b05c6713a32265",
-      "r": [],
-      "j": []
+      "r": []
     },
     {
       "v": "0.12.0@b415b7524f9e1964fab431372c3690b370c3e950",
-      "r": [],
-      "j": []
+      "r": []
     },
     {
       "v": "0.11.0@6b4ea600559785b99b2d69b29ad9f14f6363957c",
-      "r": [],
-      "j": []
+      "r": []
     },
     {
       "v": "0.10.5@67f79330c75fea9a36b28684ba7f47d1243d6b15",
       "r": [],
-      "m": "0.14.0",
-      "j": []
+      "m": "0.14.0"
     },
     {
       "v": "0.10.4@fa4253f1b7fd7aaa98b69ef1b517a68182d7b311",
       "r": [],
-      "m": "0.14.0",
-      "j": []
+      "m": "0.14.0"
     },
     {
       "v": "0.10.3@4e07d005d32fc4c604a8b3469515c3ea6e56dbdb",
@@ -121,7 +116,19 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:10Z",
+  "generatedAt": "2026-05-26T15:45:39Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.11.0",
+      "0.2.0",
+      "0.3.0"
+    ],
+    "latest": "0.11.0"
+  },
   "allDeps": {
     "packages": [],
     "urls": [],

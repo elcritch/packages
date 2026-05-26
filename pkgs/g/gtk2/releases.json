@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "gtk2",
   "fqn": "gtk2.nim-lang.github.com",
+  "current": "f953f3a6a117e8a9dbdb5cc98adf564e6d8f6509",
   "nim": "0.9.2",
   "releases": [
     {
@@ -18,7 +19,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:34Z",
+  "generatedAt": "2026-05-26T15:47:30Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "staticglfw",
   "fqn": "staticglfw.treeform.github.com",
+  "current": "f6a40acf98466c3a11ab3f074a70d570c297f82b",
   "author": "Andre von Houck",
   "description": "Static GLFW 3 wrapper for Nim",
   "license": "MIT",
@@ -48,22 +49,19 @@
       "v": "3.3.0.2@347ffb4326ef577eea46363b1d1b5ca688cb2bab",
       "r": [],
       "a": "Erik Johansson Andersson",
-      "d": "GLFW 3 wrapper for Nim",
-      "x": []
+      "d": "GLFW 3 wrapper for Nim"
     },
     {
       "v": "3.3.0.1@a9b152eb7419c14ddc55dda752a9c34b356e44c0",
       "r": [],
       "a": "Erik Johansson Andersson",
-      "d": "GLFW 3 wrapper for Nim",
-      "x": []
+      "d": "GLFW 3 wrapper for Nim"
     },
     {
       "v": "3.3.0.0@5d5148989809b711f15548e23f26c4baa32a73fd",
       "r": [],
       "a": "Erik Johansson Andersson",
-      "d": "GLFW 3 wrapper for Nim",
-      "x": []
+      "d": "GLFW 3 wrapper for Nim"
     },
     {
       "v": "0.3.1@0b3d9684977992f01792a420c1c56749e9eb8beb",
@@ -71,8 +69,7 @@
       "a": "Erik Johansson Andersson",
       "d": "A GLFW 3 wrapper",
       "l": "BSD",
-      "m": "0.18.0",
-      "x": []
+      "m": "0.18.0"
     },
     {
       "v": "0.3.0@566e69393de858500a4a89cbc319790c3cd5813d",
@@ -99,7 +96,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:18Z",
+  "generatedAt": "2026-05-26T15:53:38Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

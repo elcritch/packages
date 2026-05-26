@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "oblivion",
   "fqn": "oblivion.sealmove.github.com",
+  "current": "afd0581d7cd7f054ee849e65ab4b026238f23d8c",
   "author": "Stefanos Mandalas",
   "description": "Shell command manager",
   "license": "MIT",
@@ -12,12 +13,11 @@
   "releases": [
     {
       "v": "0.1.0@ae180ff3102e223fbae86b97a6ebbaa854301b8b",
-      "r": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:42Z",
+  "generatedAt": "2026-05-26T15:51:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

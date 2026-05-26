@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "rangex",
   "fqn": "rangex-nim.PegasusPlusUS.github.com",
+  "current": "a4af31d2ad147485a7a44e1bf9ece2b410e09659",
   "author": "pegasus.cadence@gmail.com",
   "description": "Clear range maker",
   "license": "MIT",
@@ -16,13 +17,11 @@
   "releases": [
     {
       "v": "0.4.0@eac46dfc67fadffe91df6621142f589ba0014618",
-      "r": [],
-      "k": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:28Z",
+  "generatedAt": "2026-05-26T15:52:32Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

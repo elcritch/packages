@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "tinamou",
   "fqn": "tinamou.Double-oxygeN.github.com",
+  "current": "e951247b8cd3bbe0ad5d5add334d0ce8c1358bd5",
   "author": "Double_oxygeN",
   "description": "Game Library in Nim with SDL2",
   "license": "MIT",
@@ -19,10 +20,7 @@
       "v": "0.1.0@5f9f4662bf0becf5723910de68ea2be60b3e0cfd",
       "r": [
         "sdl2 >= 1.1"
-      ],
-      "b": "",
-      "x": [],
-      "p": []
+      ]
     },
     {
       "v": "0.2.0@fdbcd43c9f75731eb66aaa41d4eb7ac84a127799",
@@ -30,8 +28,7 @@
         "sdl2 >= 1.1"
       ],
       "b": "",
-      "p": [],
-      "x": []
+      "p": []
     },
     {
       "v": "0.3.0@89c68271897168deb24587c3e079147dab159e04",
@@ -39,8 +36,7 @@
         "sdl2 >= 1.1"
       ],
       "b": "",
-      "p": [],
-      "x": []
+      "p": []
     },
     {
       "v": "0.3.1@7b53ef7f4841c85bead9df49a75afaaa8e9ad168",
@@ -48,8 +44,7 @@
         "sdl2 >= 1.1"
       ],
       "b": "",
-      "p": [],
-      "x": []
+      "p": []
     },
     {
       "v": "0.4.0@05698b893c4b12909ed56a852aafb941ebcf1907",
@@ -57,8 +52,7 @@
         "sdl2 >= 1.1"
       ],
       "b": "",
-      "p": [],
-      "x": []
+      "p": []
     },
     {
       "v": "0.5.0@ad7ddba29c464fea3b581af8f5963d5bca9858f0",
@@ -67,8 +61,7 @@
       ],
       "m": "0.18.0",
       "b": "",
-      "p": [],
-      "x": []
+      "p": []
     },
     {
       "v": "0.5.1@94a25f4f6aa0bb384ae4de6be2f9e229c992bf02",
@@ -77,8 +70,7 @@
       ],
       "m": "0.18.0",
       "b": "",
-      "p": [],
-      "x": []
+      "p": []
     },
     {
       "v": "0.5.2@3a971a13aeaf35823e046410bac94dcb33921de4",
@@ -87,12 +79,11 @@
       ],
       "m": "0.18.0",
       "b": "",
-      "p": [],
-      "x": []
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:44Z",
+  "generatedAt": "2026-05-26T15:54:15Z",
   "allDeps": {
     "packages": [
       "sdl2"

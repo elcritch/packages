@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "schedules",
   "fqn": "nim-schedules.soasme.github.com",
+  "current": "ce1fe58ef7cc8a8670a8835031fcd5c5262083af",
   "author": "Ju Lin",
   "description": "A Nim scheduler library that lets you kick off jobs at regular intervals.",
   "license": "MIT",
@@ -24,7 +25,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:44Z",
+  "generatedAt": "2026-05-26T15:52:54Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

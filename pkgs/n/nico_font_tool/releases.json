@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nico_font_tool",
   "fqn": "nico-font-tool.TakWolf.github.com",
+  "current": "cb31315322dfc7b1bb8333615963921cfb131333",
   "author": "TakWolf",
   "description": "A tool for converting fonts to NICO Game Framework format fonts.",
   "license": "MIT",
@@ -22,10 +23,7 @@
       "r": [
         "pixie >= 5.0.6",
         "nimPNG >= 0.3.2"
-      ],
-      "x": [],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.0.1@88ae0b17ed531d76ca38f192b540874d0009e2aa",
@@ -34,12 +32,11 @@
         "nimPNG >= 0.3.2"
       ],
       "k": [],
-      "p": [],
-      "x": []
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:27Z",
+  "generatedAt": "2026-05-26T15:49:55Z",
   "allDeps": {
     "packages": [
       "bumpy",

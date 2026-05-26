@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "sermon",
   "fqn": "nim_sermon.ThomasTJdev.github.com",
+  "current": "1ea2211f54379c66013979eadac26b08ea25bb4f",
   "author": "ThomasTJdev",
   "description": "Tool to monitor various items on your Linux server",
   "license": "MIT",
@@ -25,10 +26,7 @@
         "jester >= 0.4.3"
       ],
       "h": true,
-      "x": [],
-      "i": [],
-      "j": [],
-      "p": []
+      "x": []
     },
     {
       "v": "0.3.0@e38b71ea85f1142570f9ab4bd20a3cc1f7f80c58",
@@ -37,10 +35,7 @@
       ],
       "h": true,
       "m": "0.19.4",
-      "i": [],
-      "x": [],
-      "j": [],
-      "p": []
+      "i": []
     },
     {
       "v": "0.2.8@4443a0acd2ab3b2741d06028b75e38ae0ff2f360",
@@ -49,10 +44,7 @@
       ],
       "h": true,
       "m": "0.19.4",
-      "i": [],
-      "x": [],
-      "j": [],
-      "p": []
+      "i": []
     },
     {
       "v": "0.2.7@b0970b4e5de67a473b62fee0de7f43ffe63499e7",
@@ -61,10 +53,7 @@
       ],
       "h": true,
       "m": "0.19.4",
-      "i": [],
-      "x": [],
-      "j": [],
-      "p": []
+      "i": []
     },
     {
       "v": "0.2.6@974215a97d769965177dae0481f24d67f5521233",
@@ -73,10 +62,7 @@
       ],
       "h": true,
       "m": "0.19.4",
-      "i": [],
-      "x": [],
-      "j": [],
-      "p": []
+      "i": []
     },
     {
       "v": "0.1.1@af90fb3021957b69a9f943e322231f7b57349771",
@@ -89,13 +75,11 @@
         "config.default.json"
       ],
       "m": "0.19.0",
-      "i": [],
-      "x": [],
-      "p": []
+      "i": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:53Z",
+  "generatedAt": "2026-05-26T15:53:05Z",
   "allDeps": {
     "packages": [
       "asynctools",

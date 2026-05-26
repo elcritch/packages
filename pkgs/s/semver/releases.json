@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "semver",
   "fqn": "semver.nim.euantorano.github.com",
+  "current": "ec7732a4810441a937fe3059494ba338090c4957",
   "author": "Euan T",
   "description": "Semantic versioning parser for Nim",
   "license": "BSD-3-Clause",
@@ -76,7 +77,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:50Z",
+  "generatedAt": "2026-05-26T15:53:03Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

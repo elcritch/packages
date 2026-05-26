@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "xam",
   "fqn": "xam.j-a-s-d.github.com",
+  "current": "9d44f7851511e41bd6ecf8fb6754433e80f25d2e",
   "author": "Javier Santo Domingo",
   "description": "xam",
   "license": "MIT",
@@ -82,7 +83,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:33Z",
+  "generatedAt": "2026-05-26T15:55:18Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "pricecsv",
   "fqn": "pricecsv.thisago.github.com",
+  "current": "feb8f91fd0f1f40f40d4be0bd9fe33b7afe8c4a2",
   "author": "Thiago Navarro",
   "description": "Easily calculate the total of all products in csv",
   "license": "gpl-3.0",
@@ -16,21 +17,17 @@
       "v": "0.7.1@feb8f91fd0f1f40f40d4be0bd9fe33b7afe8c4a2^",
       "r": [
         "cligen"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "0.7.0@0bf8ec9b430c2f66bf9f7f1528aec99db8b4e205",
       "r": [
         "cligen"
-      ],
-      "b": "",
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:17Z",
+  "generatedAt": "2026-05-26T15:52:16Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

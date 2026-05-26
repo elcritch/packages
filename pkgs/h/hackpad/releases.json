@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "hackpad",
   "fqn": "nim-hackpad.juancarlospaco.github.com",
+  "current": "ef1539f057813d9fd045231e5eb01adfc34984ea",
   "author": "Juan Carlos",
   "description": "Hackathon Web Scratchpad for teaching Nim on events using Wifi with limited or no Internet",
   "license": "MIT",
@@ -13,12 +14,11 @@
   "releases": [
     {
       "v": "0.1.0@bb2360aade8b35e2926114a0fa218030c496de21",
-      "r": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:36Z",
+  "generatedAt": "2026-05-26T15:47:32Z",
   "allDeps": {
     "packages": [],
     "urls": [],

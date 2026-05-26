@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "polymorph",
   "fqn": "polymorph.rlipsc.github.com",
+  "current": "c1da153b7dc4923f92dc882e84c4ca34ea9e184e",
   "author": "Ryan Lipscombe",
   "description": "A compile time focused entity-component-system generator",
   "license": "Apache License 2.0",
@@ -29,8 +30,7 @@
     },
     {
       "v": "0.2.2@d7e505bcad3fb81c1f5a14aaca771ac6d381a5d4",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.2.1@943ee767ab913f89f2215c002f7c241a12e38348",
@@ -54,7 +54,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:12Z",
+  "generatedAt": "2026-05-26T15:52:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

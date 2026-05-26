@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "grab",
   "fqn": "grab.metagn.github.com",
+  "current": "41ff40f74326d964612064b86ce8d1c657f67bbe",
   "author": "metagn",
   "description": "grab statement for importing Nimble packages, similar to Groovy's Grape",
   "license": "MIT",
@@ -24,7 +25,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:32Z",
+  "generatedAt": "2026-05-26T15:47:27Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

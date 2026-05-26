@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "iterrr",
   "fqn": "iterrr.hamidb80.github.com",
+  "current": "0843fc3a3a6923a3c1b909e36ea4e20ad2ebfef1",
   "author": "hamidb80",
   "description": "iterate faster. functional style, extensible iterator library",
   "license": "MIT",
@@ -43,8 +44,7 @@
       "v": "1.0.0@a82aa846c8fc8561c7479228b4c21ccdf35df406",
       "r": [
         "macroplus >= 0.2.3"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.4.6@5cb5e12886fe348fb2e823f57ff60449fdf5f492",
@@ -112,7 +112,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:07Z",
+  "generatedAt": "2026-05-26T15:48:12Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

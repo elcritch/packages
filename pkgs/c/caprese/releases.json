@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "caprese",
   "fqn": "caprese.zenywallet.github.com",
+  "current": "b8ff4aa0c22bad762e9ac9736a02e90440b86514",
   "author": "zenywallet",
   "description": "A front-end web server specialized for real-time message exchange",
   "license": "MIT",
@@ -13,12 +14,11 @@
   "releases": [
     {
       "v": "0.1.0@dffa6ea5efeb9a58f864ccb713a101715bf265bb",
-      "r": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:49Z",
+  "generatedAt": "2026-05-26T15:45:14Z",
   "allDeps": {
     "packages": [],
     "urls": [],

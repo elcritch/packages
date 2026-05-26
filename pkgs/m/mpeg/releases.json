@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "mpeg",
   "fqn": "mpeg.treeform.github.com",
+  "current": "7b2e6ea5d54a5900f28b67ac7a4e6036aecf432c",
   "author": "treeform",
   "description": "Wrapper for pl_mpeg single header mpeg library.",
   "license": "MIT",
@@ -13,7 +14,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:09Z",
+  "generatedAt": "2026-05-26T15:49:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

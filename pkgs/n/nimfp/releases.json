@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimfp",
   "fqn": "nimfp.vegansk.github.com",
+  "current": "17131f3f86c3640efd0a2fbc1284cd76b2e6820d",
   "author": "Anatoly Galiulin <galiulin.anatoly@gmail.com>",
   "description": "Nim functional programming library",
   "license": "MIT",
@@ -171,7 +172,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:51Z",
+  "generatedAt": "2026-05-26T15:50:26Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

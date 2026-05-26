@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "gura",
   "fqn": "gura.khchen.github.com",
+  "current": "3372c3e8976c87066d2ee97fcd66e35609af66a1",
   "author": "Ward",
   "description": "Gura Configuration Language for Nim",
   "license": "MIT",
@@ -16,13 +17,11 @@
       "v": "0.1.1@3372c3e8976c87066d2ee97fcd66e35609af66a1^",
       "r": [
         "npeg >= 1.2.2"
-      ],
-      "x": [],
-      "y": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:36Z",
+  "generatedAt": "2026-05-26T15:47:32Z",
   "allDeps": {
     "packages": [
       "npeg"

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "sqliteral",
   "fqn": "SQLiteral.olliNiinivaara.github.com",
+  "current": "72cb22866138d7e724a5b31b55c2b45470cc1146",
   "author": "Olli",
   "description": "A high level SQLite API for Nim",
   "license": "MIT",
@@ -80,7 +81,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:14Z",
+  "generatedAt": "2026-05-26T15:53:34Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

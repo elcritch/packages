@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "gtkgenui",
   "fqn": "gtkgenui.PMunch.github.com",
+  "current": "de3209744cf41b385c317669311ba7a30501b76c",
   "author": "Peter Munch-Ellingsen",
   "description": "Genui is a DSL macro for creating graphical user interfaces. This version is for the Gtk toolkit.",
   "license": "MIT",
@@ -15,28 +16,25 @@
       "v": "0.1.0@2ccc178653beec84f1dfecb9559bf03fa285598b",
       "r": [
         "gtk2 >= 1.0"
-      ],
-      "y": []
+      ]
     },
     {
       "v": "0.2.0@2b455b56d37c573c93f52336b6e195a219420eed",
       "r": [
         "gtk2 >= 1.0"
       ],
-      "m": "0.19.0",
-      "y": []
+      "m": "0.19.0"
     },
     {
       "v": "0.2.1@de3209744cf41b385c317669311ba7a30501b76c^",
       "r": [
         "gtk2 >= 1.0"
       ],
-      "m": "0.19.0",
-      "y": []
+      "m": "0.19.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:34Z",
+  "generatedAt": "2026-05-26T15:47:30Z",
   "allDeps": {
     "packages": [
       "gtk2"

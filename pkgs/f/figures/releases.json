@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "figures",
   "fqn": "figures.lmariscal.github.com",
+  "current": "144b9676a12b1bb03f73c3ff1359375fb7c04421",
   "author": "Leonardo Mariscal",
   "description": "Unicode symbols with Windows CMD fallbacks ",
   "license": "MIT",
@@ -24,7 +25,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:59Z",
+  "generatedAt": "2026-05-26T15:46:45Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

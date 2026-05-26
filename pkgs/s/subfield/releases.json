@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "subfield",
   "fqn": "subfield.jyapayne.github.com",
+  "current": "09c635039dfdcd87977e9691379ac4e70f4bbf80",
   "author": "Joey Payne",
   "description": "A sub-field accessor macro for the Nim programming language.",
   "license": "MIT",
@@ -14,12 +15,11 @@
       "v": "0.1.0@ec45c02f7255dafc93d782135b7fb141020d644e",
       "r": [
         "einheit >= 0.1.6"
-      ],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:23Z",
+  "generatedAt": "2026-05-26T15:53:45Z",
   "allDeps": {
     "packages": [
       "einheit"

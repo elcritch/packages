@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "sunny",
   "fqn": "sunny.guzba.github.com",
+  "current": "c2aa1e6809c09011d33bf75e54ac8499d23bac0d",
   "author": "Ryan Oldenburg",
   "description": "JSON in Nim with Go-like field tags",
   "license": "MIT",
@@ -87,7 +88,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:25Z",
+  "generatedAt": "2026-05-26T15:53:48Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

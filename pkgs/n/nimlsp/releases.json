@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimlsp",
   "fqn": "nimlsp.PMunch.github.com",
+  "current": "5fa2846f04600c2cf1173625976e037389db4489",
   "author": "PMunch",
   "description": "Nim Language Server Protocol - nimlsp implements the Language Server Protocol",
   "license": "MIT",
@@ -17,32 +18,28 @@
       "r": [
         "jsonschema >= 0.2.1",
         "asynctools >= 0.1.1"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.4.6@d02d2333004699a48c5e732ccb75a36613897aea",
       "r": [
         "jsonschema >= 0.2.1",
         "asynctools >= 0.1.1"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.4.5@f75151a7c362c6707458d289340295009c3b37da",
       "r": [
         "jsonschema >= 0.2.1",
         "asynctools >= 0.1.1"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.4.4@ce9126af0e98ee65ab42c932a87a551b4afd9d35",
       "r": [
         "jsonschema >= 0.2.1",
         "asynctools >= 0.1.1"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.4.3@a6f12557fe66938241b2b14fcd7f6705ba3f729c",
@@ -158,7 +155,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:01Z",
+  "generatedAt": "2026-05-26T15:50:39Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

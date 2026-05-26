@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "margrave",
   "fqn": "margrave.metagn.github.com",
+  "current": "4e2bc5bc5d92666a5ece230e301aba0ac3a2194f",
   "author": "metagn",
   "description": "markdown dialect",
   "license": "MIT",
@@ -102,13 +103,11 @@
     {
       "v": "0.1.0@c43c81c4c03c1396e00bcde52d49dbfcf8926919",
       "r": [],
-      "a": "hlaaftana",
-      "k": [],
-      "p": []
+      "a": "hlaaftana"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:51Z",
+  "generatedAt": "2026-05-26T15:49:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

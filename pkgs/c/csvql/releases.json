@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "csvql",
   "fqn": "csvql.Bennyelg.github.com",
+  "current": "171cf3dd68beeb15112a4264b7f23cd09ee7f1c5",
   "author": "Benny Elgazar",
   "description": "csvql - query csv using ansisql.",
   "license": "MIT",
@@ -27,7 +28,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:20Z",
+  "generatedAt": "2026-05-26T15:45:52Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimwkhtmltox",
   "fqn": "nim-wkhtmltox.neroist.github.com",
+  "current": "95c2093c299ad7970f3ea02b69b3cc1b7067f63b",
   "author": "Jasmine",
   "description": "Bindings for wkhtmltox",
   "license": "LGPL-3.0-or-later",
@@ -22,7 +23,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:21Z",
+  "generatedAt": "2026-05-26T15:51:05Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

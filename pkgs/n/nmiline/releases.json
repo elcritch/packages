@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nmiline",
   "fqn": "NmiLine.mzteruru52.github.com",
+  "current": "ba6246686f91335897e039d49a8df31f79fce502",
   "author": "Teruki Tada",
   "description": "Plotting tool using NiGui",
   "license": "MIT",
@@ -14,13 +15,11 @@
   "releases": [
     {
       "v": "1.1@cbbf08ca0ec648aaf4c068b0a16cf2e0406101f6",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.0.1@128199c424d5c7b00fb380c55a60c0e62956d383",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.0@92a5d627593baa21690446dbfa5208e6939828d0",
@@ -31,7 +30,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:24Z",
+  "generatedAt": "2026-05-26T15:51:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

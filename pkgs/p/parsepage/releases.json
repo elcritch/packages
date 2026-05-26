@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "parsepage",
   "fqn": "parsepage.thisago.github.com",
+  "current": "cfead41fda0f519a2e18875262471b8d31f34bda",
   "author": "Luciano Lorenzo",
   "description": "Automatically extracts the data of sites",
   "license": "GPL-3.0-only",
@@ -19,8 +20,7 @@
         "gl:lurlo/useragent",
         "scraper"
       ],
-      "b": "",
-      "p": []
+      "b": ""
     },
     {
       "v": "1.0.0@609d5f37101b80846357320aa4e87a0001ed054e",
@@ -33,9 +33,7 @@
         "nimquery",
         "yaml"
       ],
-      "m": "1.6.4",
-      "b": "",
-      "p": []
+      "m": "1.6.4"
     },
     {
       "v": "1.1.0@c9bc3b2fcbb9874e9967ac82fe1abff9fa74c46d",
@@ -48,9 +46,7 @@
         "nimquery",
         "yaml"
       ],
-      "m": "1.6.4",
-      "b": "",
-      "p": []
+      "m": "1.6.4"
     },
     {
       "v": "1.2.0@d6d40f9dac01815828945e38e47f6a2baefd78ad",
@@ -64,9 +60,7 @@
         "yaml",
         "css_html_minify"
       ],
-      "m": "1.6.4",
-      "b": "",
-      "p": []
+      "m": "1.6.4"
     },
     {
       "v": "1.2.1@70281cb6c6aa3f79b9c126a6581267c4db9555e9",
@@ -80,13 +74,11 @@
         "yaml",
         "css_html_minify"
       ],
-      "m": "1.6.4",
-      "b": "",
-      "p": []
+      "m": "1.6.4"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:59Z",
+  "generatedAt": "2026-05-26T15:51:54Z",
   "allDeps": {
     "packages": [
       "cligen",

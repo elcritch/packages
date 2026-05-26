@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "Rakta",
   "fqn": "Rakta.DitzDev.github.com",
+  "current": "f4d2b68a561912d9891caff4f96751654031953b",
   "author": "DitzDev",
   "description": "Express.js like, Powerful, Fast, and Minimalist Web Framework for Nim. Focus on your Backend.",
   "license": "MIT",
@@ -17,21 +18,17 @@
   "releases": [
     {
       "v": "0.2.1@ef28f0f43205ad323213f83bd04c4a7b5ab5a9a7",
-      "r": [],
-      "x": [],
-      "y": []
+      "r": []
     },
     {
       "v": "0.2.0@41c14068decbf22c669d8ac198ff7b46d9b8881a",
       "r": [
         "httpbeast >= 0.4.0"
-      ],
-      "x": [],
-      "y": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:11:45Z",
+  "generatedAt": "2026-05-26T15:43:52Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

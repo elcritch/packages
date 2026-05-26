@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "parselicense",
   "fqn": "parselicense.juancarlospaco.github.com",
+  "current": "ffad2e320300215f199e60c785cc24fe63e15091",
   "author": "Juan Carlos",
   "description": "Parse Standard SPDX Licenses from string to Enum",
   "license": "MIT",
@@ -14,12 +15,11 @@
   "releases": [
     {
       "v": "0.1.0@fe3f2252b7c4535182bfb1e89dc8357b4e3fc244",
-      "r": [],
-      "x": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:58Z",
+  "generatedAt": "2026-05-26T15:51:53Z",
   "allDeps": {
     "packages": [],
     "urls": [],

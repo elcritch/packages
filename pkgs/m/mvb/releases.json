@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "mvb",
   "fqn": "mvb-opencv.tapsterbot.github.com",
+  "current": "9ca136ca7467d24e6f6834400e8d136c463dd5d8",
   "author": "Jason Huggins",
   "description": "Minimum viable bindings for OpenCV",
   "license": "MIT",
@@ -13,12 +14,11 @@
       "v": "0.1.0@0e744476feaaa0a6cae180ad3c7956fb1ede7cdd",
       "r": [
         "cppstl"
-      ],
-      "e": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:13Z",
+  "generatedAt": "2026-05-26T15:49:35Z",
   "allDeps": {
     "packages": [
       "cppstl"

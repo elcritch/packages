@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "negamax",
   "fqn": "negamax.JohnAD.github.com",
+  "current": "eea0b77ab5670eff118a50cb344f20f3deef09ea",
   "author": "John Dupuy",
   "description": "Negamax AI algorithm for turn based games",
   "license": "MIT",
@@ -28,7 +29,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:20Z",
+  "generatedAt": "2026-05-26T15:49:45Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

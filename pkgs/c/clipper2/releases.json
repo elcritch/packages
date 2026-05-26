@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "clipper2",
   "fqn": "clipper2.scemino.github.com",
+  "current": "648a008525c9438a0f687e931ce2bbad665df2a2",
   "author": "scemino",
   "description": "Bindings for Clipper2Lib: Polygon Clipping and Offsetting Library from Angus Johnson",
   "license": "boost",
@@ -11,12 +12,11 @@
   "releases": [
     {
       "v": "0.2.0@6e69e672e45344d2fe09dd60df6e59ef5899c0be",
-      "r": [],
-      "e": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:05Z",
+  "generatedAt": "2026-05-26T15:45:32Z",
   "allDeps": {
     "packages": [],
     "urls": [],

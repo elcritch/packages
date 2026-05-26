@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "DxLib",
   "fqn": "DxLib.777shuang.github.com",
+  "current": "767377cf31c5a08d092ddb361c1030cc09abf4d9",
   "author": "777shuang",
   "description": "A Nim binding for DX Library",
   "license": "MIT",
@@ -21,9 +22,7 @@
         "zippy",
         "c2nim",
         "winim"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "3.24.4@65f917a2a91bfe7a878315fc21ee5f542920ad91",
@@ -32,9 +31,7 @@
         "zippy",
         "c2nim",
         "winim"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "3.24.4@ec5e16add98a55049390d46470ca28b9003ff5c6",
@@ -43,9 +40,7 @@
         "zippy",
         "c2nim",
         "winim"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "3.24.2@501a3b93f113dcac3e50e121f049dd9e41afd43a",
@@ -54,9 +49,7 @@
         "zippy",
         "c2nim",
         "winim"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "3.24.2@6bcf36fb648c1f2b47190fe83ba9c483f0bb1434",
@@ -65,9 +58,7 @@
         "zippy",
         "c2nim",
         "winim"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "3.24.2@cc9a425f93559aaaa2edbeb2ce4271941024f922",
@@ -76,9 +67,7 @@
         "zippy",
         "c2nim",
         "winim"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "3.24.2@34cd38181ad1c541ffab12a723f043490d7366c8",
@@ -87,13 +76,11 @@
         "zippy",
         "c2nim",
         "winim"
-      ],
-      "k": [],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:11:40Z",
+  "generatedAt": "2026-05-26T15:43:45Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

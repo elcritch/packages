@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "batchsend",
   "fqn": "batchsend.marcomq.github.com",
+  "current": "95337cf49dd4d000b01ae16925ba82831026b853",
   "author": "Marco Mengelkoch",
   "description": "Nim / Python library to feed HTTP server quickly with custom messages",
   "license": "MIT",
@@ -15,30 +16,26 @@
       "v": "0.1.0@ea7e5f09342e1a432bebe2b7c90a640b2e6aac76",
       "r": [
         "nimpy >= 0.1.1"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.1.1@de122f0da63b620a8af7a2decf45fdda086e7333",
       "r": [
         "nimpy >= 0.1.1"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.2.0@b63d2c4210e9fcc3be82e5ca1a2b4cd68ac2d4b4",
       "r": [
         "nimpy >= 0.1.1"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.2.1@642e38d21dde5a209bb67846231cec25b410aa37",
       "r": [
         "nimpy >= 0.1.1"
       ],
-      "m": "1.2.10",
-      "p": []
+      "m": "1.2.10"
     },
     {
       "v": "0.3.1@a0283832404dffcc8ae65ad7ededf8c9e029d8de",
@@ -74,7 +71,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:20Z",
+  "generatedAt": "2026-05-26T15:44:37Z",
   "allDeps": {
     "packages": [
       "nimpy"

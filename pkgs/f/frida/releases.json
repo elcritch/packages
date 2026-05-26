@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "frida",
   "fqn": "frida.nim.ba0f3.github.com",
+  "current": "210823cc570c149bd19bfd90b9a6da8cf803ebe7",
   "author": "Huy Doan",
   "description": "Frida wrapper",
   "license": "MIT",
@@ -14,27 +15,23 @@
   "releases": [
     {
       "v": "0.2.2@5b616e45e3db986a6710fb37a9f9ab6b103f35d3",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.2.1@a7d9d2b2ebd5985039daa6c52abee2114c6fa41f",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.2.0@8e367848c031212ceca8b4f2bb672a5bdd2468f5",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.1.0@0afc661a711c5d062469e991e6049e32f90c28e1",
-      "r": [],
-      "x": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:12Z",
+  "generatedAt": "2026-05-26T15:47:00Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

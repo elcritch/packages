@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "random",
   "fqn": "nim-random.oprypin.github.com",
+  "current": "4cf3e09857415341d90477d1495a752a11b6f7c2",
   "author": "Oleh Prypin",
   "description": "Pseudo-random number generation library inspired by Python",
   "license": "MIT",
@@ -13,13 +14,11 @@
   "releases": [
     {
       "v": "0.5.7@881019662b584c43f2ef5158ff346bf6b6b29f88",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.5.6@775f878ed1f89677e17b0ab28e3498a36f8b7679",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.5.5@68a4bc7987eea387e31f8124a92c4873e145c053",
@@ -75,7 +74,36 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:28Z",
+  "generatedAt": "2026-05-26T15:52:32Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.2.4",
+      "v0.3.0",
+      "v0.4.0",
+      "v0.5.0",
+      "v0.5.1",
+      "v0.5.2",
+      "v0.5.3",
+      "v0.5.5",
+      "v0.5.7"
+    ],
+    "tagVersions": {
+      "v0.2.4": "0.2.4",
+      "v0.3.0": "0.3.0",
+      "v0.4.0": "0.4.0",
+      "v0.5.0": "0.5.0",
+      "v0.5.1": "0.5.1",
+      "v0.5.2": "0.5.2",
+      "v0.5.3": "0.5.3",
+      "v0.5.5": "0.5.5",
+      "v0.5.7": "0.5.7"
+    },
+    "latest": "v0.5.7"
+  },
   "allDeps": {
     "packages": [],
     "urls": [],

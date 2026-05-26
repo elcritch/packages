@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "clr",
   "fqn": "clr.Calinou.github.com",
+  "current": "74233813a0497ac239b76dbfe14ccb1947edb353",
   "author": "Hugo Locurcio",
   "description": "Get information about colors and convert them in the command line",
   "license": "MIT",
@@ -16,8 +17,7 @@
       "r": [
         "chroma #1bbe72ead9fe8270a8d038eb92bd4f83b3f0fc87",
         "cligen >= 0.9.31"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.1.3@d2587a1ea72f19ca604d19e448b4930753d10310",
@@ -25,8 +25,7 @@
         "chroma #1bbe72ead9fe8270a8d038eb92bd4f83b3f0fc87",
         "docopt #0abba63023a2e246f242e5aefa5d2000b327e11b"
       ],
-      "m": "0.18.0",
-      "p": []
+      "m": "0.18.0"
     },
     {
       "v": "0.1.2@bea3e78ef1b2aebd15a317da4bceaf1cda797e2a",
@@ -34,8 +33,7 @@
         "chroma >= 0.0.1",
         "docopt >= 0.6.5"
       ],
-      "m": "0.18.0",
-      "p": []
+      "m": "0.18.0"
     },
     {
       "v": "0.1.1@21aaa4629b3c5a4f60c20bd4348ea5a15475511d",
@@ -43,8 +41,7 @@
         "chroma >= 0.0.1",
         "docopt >= 0.6.5"
       ],
-      "m": "0.18.0",
-      "p": []
+      "m": "0.18.0"
     },
     {
       "v": "0.1.0@4235ce19d3a925cd5c9ea6ae80a43d2b99c1c462",
@@ -52,12 +49,32 @@
         "chroma >= 0.0.1",
         "docopt >= 0.6.5"
       ],
-      "m": "0.18.0",
-      "p": []
+      "m": "0.18.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:06Z",
+  "generatedAt": "2026-05-26T15:45:35Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.0",
+      "v0.1.1",
+      "v0.1.2",
+      "v0.1.3",
+      "v1.0.0"
+    ],
+    "tagVersions": {
+      "v0.1.0": "0.1.0",
+      "v0.1.1": "0.1.1",
+      "v0.1.2": "0.1.2",
+      "v0.1.3": "0.1.3",
+      "v1.0.0": "1.0.0"
+    },
+    "latest": "v1.0.0"
+  },
   "allDeps": {
     "packages": [
       "chroma",

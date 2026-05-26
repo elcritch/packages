@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "pretty",
   "fqn": "pretty.treeform.github.com",
+  "current": "19bc560f0c7d8f8debf40640b64fa211872f8a66",
   "author": "Andre von Houck",
   "description": "Pretty - a pretty printer for Nim types.",
   "license": "MIT",
@@ -18,7 +19,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:16Z",
+  "generatedAt": "2026-05-26T15:52:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

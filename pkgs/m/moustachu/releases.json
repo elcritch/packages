@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "moustachu",
   "fqn": "moustachu.fenekku.github.com",
+  "current": "f5d3a1e6454f6c0436b54503bd5f560c178aea2a",
   "author": "Guillaume Viger",
   "description": "Mustache templating for Nim",
   "license": "MIT",
@@ -18,17 +19,13 @@
       "v": "0.14.0@9fe211c16958dee13488e3af90ad2814830d67d5",
       "r": [
         "commandeer >= 0.10.4"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.13.0@6b8a5266a2abc037bfd21851c739e1a4f9918740",
       "r": [
         "commandeer >= 0.10.4"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.12.0@cd0b2b5e0d11f6430a955557348da455eee5dae1",
@@ -36,8 +33,7 @@
         "commandeer >= 0.10.4"
       ],
       "m": "0.14.0",
-      "k": [],
-      "p": []
+      "k": []
     },
     {
       "v": "0.11.1@93ca4bb2ce55666030a6307347c40db23fe9b9f4",
@@ -45,8 +41,7 @@
         "commandeer >= 0.10.4"
       ],
       "m": "0.14.0",
-      "k": [],
-      "p": []
+      "k": []
     },
     {
       "v": "0.10.3@bfa91cd29d67e405c6f00c18672a345baab81df8",
@@ -54,8 +49,7 @@
         "commandeer >= 0.10.4"
       ],
       "m": "0.14.0",
-      "k": [],
-      "p": []
+      "k": []
     },
     {
       "v": "0.10.2@3c5a1d175c42ddbe6013321c32801c39bc7eb720",
@@ -133,7 +127,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:10Z",
+  "generatedAt": "2026-05-26T15:49:31Z",
   "allDeps": {
     "packages": [
       "commandeer > 0.10.2"

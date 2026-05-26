@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "PPM",
   "fqn": "PPM-Nim.LemonHX.github.com",
+  "current": "5ee0ab014be4456816c56f478acda81e034ae620",
   "author": "lemonhx",
   "description": "lib for ppm image",
   "license": "LXXSDT-MIT",
@@ -14,14 +15,11 @@
   "releases": [
     {
       "v": "0.1.0@aa0f26536f10d893a4e2f8f78684e28e5656a33c",
-      "r": [],
-      "b": "",
-      "p": [],
-      "e": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:11:43Z",
+  "generatedAt": "2026-05-26T15:43:50Z",
   "allDeps": {
     "packages": [],
     "urls": [],

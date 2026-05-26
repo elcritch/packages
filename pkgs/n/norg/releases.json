@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "norg",
   "fqn": "norgbackup.pswilde.codeberg.org",
+  "current": "a8a99b9206d4ed54dd91871127c1271937578fe3",
   "author": "Paul Wilde",
   "description": "A Borg Backup Orchestration Tool",
   "license": "AGPL-3.0-or-later",
@@ -17,126 +18,98 @@
       "r": [
         "parsetoml >= 0.7.1",
         "argparse >= 4.0.1"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "0.2.2@3cd209846db321ff56a5c75494c38ef26711927e",
       "r": [
         "parsetoml >= 0.7.1",
         "argparse >= 4.0.1"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "0.2.1@505cdd4fdbfd02d05309178a19d43470de7e4557",
       "r": [
         "parsetoml >= 0.7.1",
         "argparse >= 4.0.1"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "0.1.20@98a6d4a05a9328969b91d983be7b037ba0a9bcbe",
       "r": [
         "parsetoml >= 0.7.1",
         "argparse >= 4.0.1"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "0.1.19@21c837c09b8c69ca62dcfe8f80c1cc43bf6e3d97",
       "r": [
         "parsetoml >= 0.7.1",
         "argparse >= 4.0.1"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "0.1.18@afb8a51199eec1f9f986838ec1512b0e0f9331f2",
       "r": [
         "parsetoml >= 0.7.1",
         "argparse >= 4.0.1"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "0.1.17@901bbb399b15e5d6fdce95198609d6bdbde24d90",
       "r": [
         "parsetoml >= 0.7.1",
         "argparse >= 4.0.1"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "0.1.16@93edff23f1cf3bee25e51b6cac4dc776fdcda803",
       "r": [
         "parsetoml >= 0.7.1",
         "argparse >= 4.0.1"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "0.1.15@88c1462a844a9e8e89d212de594bd80eb972e9a6",
       "r": [
         "parsetoml >= 0.7.1",
         "argparse >= 4.0.1"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "0.1.14@76a45c0432d55fa80da3950a92916eedd280614b",
       "r": [
         "parsetoml >= 0.7.1",
         "argparse >= 4.0.1"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "0.1.13@313d772497ab72e95a066e209360f0b20c826153",
       "r": [
         "parsetoml >= 0.7.1",
         "argparse >= 4.0.1"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "0.1.12@19b04e4727b003ed7e3817c8087e8d4a7f562906",
       "r": [
         "parsetoml >= 0.7.1",
         "argparse >= 4.0.1"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "0.1.12@259fc9b08e0eddfb79d16f08ac1465c34bcb3c79",
       "r": [
         "parsetoml >= 0.7.1",
         "argparse >= 4.0.1"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "0.1.11@f566bd2f89a32527321ca8f8f549a9ab25d7d4de",
       "r": [
         "parsetoml >= 0.7.1",
         "argparse >= 4.0.1"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "0.1.10@e396c28ec512644aae18d44447b9c0226bd46303",
@@ -144,9 +117,7 @@
         "parsetoml >= 0.7.1",
         "argparse >= 4.0.1"
       ],
-      "d": "A Borg Backup Wrapper",
-      "b": "",
-      "p": []
+      "d": "A Borg Backup Wrapper"
     },
     {
       "v": "0.1.9@d704463f2f449be2c98cb3abc85b4177e61849bc",
@@ -154,9 +125,7 @@
         "parsetoml >= 0.7.1",
         "argparse >= 4.0.1"
       ],
-      "d": "A Borg Backup Wrapper",
-      "b": "",
-      "p": []
+      "d": "A Borg Backup Wrapper"
     },
     {
       "v": "0.1.8@fe153284671c277b9597c897735c77c0d78f9031",
@@ -164,9 +133,7 @@
         "parsetoml >= 0.7.1",
         "argparse >= 4.0.1"
       ],
-      "d": "A Borg Backup Wrapper",
-      "b": "",
-      "p": []
+      "d": "A Borg Backup Wrapper"
     },
     {
       "v": "0.1.7@e56d02c315649b5ffc251a685f1698b6e4973ae7",
@@ -174,9 +141,7 @@
         "parsetoml >= 0.7.1",
         "argparse >= 4.0.1"
       ],
-      "d": "A Borg Backup Wrapper",
-      "b": "",
-      "p": []
+      "d": "A Borg Backup Wrapper"
     },
     {
       "v": "0.1.6@34645341b1640fad564409f44c28396e41b3b032",
@@ -184,9 +149,7 @@
         "parsetoml >= 0.7.1",
         "argparse >= 4.0.1"
       ],
-      "d": "A Borg Backup Wrapper",
-      "b": "",
-      "p": []
+      "d": "A Borg Backup Wrapper"
     },
     {
       "v": "0.1.5@4e56a2c11df444b9d454a2883c0a61f14dbd87da",
@@ -194,13 +157,11 @@
         "parsetoml >= 0.7.1",
         "argparse >= 4.0.1"
       ],
-      "d": "A Borg Backup Wrapper",
-      "b": "",
-      "p": []
+      "d": "A Borg Backup Wrapper"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:33Z",
+  "generatedAt": "2026-05-26T15:51:20Z",
   "allDeps": {
     "packages": [
       "argparse",

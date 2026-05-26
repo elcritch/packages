@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "bro",
   "fqn": "bro.openpeeps.github.com",
+  "current": "611ee8f8d7b4f27f0acfae2da6c90a22f3701b1e",
   "author": "George Lemon",
   "description": "A super fast stylesheet language for cool kids",
   "license": "MIT",
@@ -27,9 +28,7 @@
         "jsony"
       ],
       "x": [],
-      "k": [],
-      "b": "",
-      "p": []
+      "k": []
     },
     {
       "v": "0.1.1@e7262385a1e026ea8929481b037905fc114cb27d",
@@ -45,11 +44,7 @@
         "pkginfo",
         "StashTable"
       ],
-      "d": "A super fast statically typed stylesheet language for cool kids",
-      "b": "",
-      "x": [],
-      "k": [],
-      "p": []
+      "d": "A super fast statically typed stylesheet language for cool kids"
     },
     {
       "v": "0.1.2@ece2036d9c90927805421e21ff7c62ebe191b1f7",
@@ -68,15 +63,11 @@
         "websocketx"
       ],
       "d": "A super fast stylesheet language for cool kids!",
-      "l": "LGPL",
-      "b": "",
-      "x": [],
-      "k": [],
-      "p": []
+      "l": "LGPL"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:40Z",
+  "generatedAt": "2026-05-26T15:45:02Z",
   "allDeps": {
     "packages": [
       "StashTable > 0.1.0",

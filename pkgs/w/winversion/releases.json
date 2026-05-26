@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "winversion",
   "fqn": "winversion.rockcavera.github.com",
+  "current": "9d7c5db3e07512c522308c321786dc901bccc250",
   "author": "rockcavera",
   "description": "This package allows you to determine the running version of the Windows operating system.",
   "license": "MIT",
@@ -24,7 +25,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:29Z",
+  "generatedAt": "2026-05-26T15:55:12Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

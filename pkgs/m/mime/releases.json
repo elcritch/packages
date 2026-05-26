@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "mime",
   "fqn": "nimMime.enthus1ast.github.com",
+  "current": "7bc2fcf5b60e9212b602508efd19cd8640decb77",
   "author": "enthus1ast",
   "description": "mime generator (email with attachments)",
   "license": "MIT",
@@ -12,12 +13,11 @@
   "releases": [
     {
       "v": "0.0.3@c078527fbea7390f19d79f995237cdfc93575a7c",
-      "r": [],
-      "i": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:00Z",
+  "generatedAt": "2026-05-26T15:49:21Z",
   "allDeps": {
     "packages": [],
     "urls": [],

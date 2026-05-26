@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "amysql",
   "fqn": "amysql.bung87.github.com",
+  "current": "a202f5335ef5b47d1fabd897999f730c9e7fce20",
   "author": "bung87",
   "description": "Async MySQL Connector write in pure Nim.",
   "license": "MIT",
@@ -22,9 +23,7 @@
         "zstd",
         "urlly",
         "chronos"
-      ],
-      "x": [],
-      "y": []
+      ]
     },
     {
       "v": "0.7.5@cb2b6b429549af719ee1dc288d931b85f58eb103",
@@ -34,9 +33,7 @@
         "zstd",
         "urlly",
         "chronos"
-      ],
-      "x": [],
-      "y": []
+      ]
     },
     {
       "v": "0.7.4@bab64c9ef2ef4e55e1394c6f538ac15b8fb6ea0a",
@@ -46,9 +43,7 @@
         "gh:bung87/zstd",
         "urlly",
         "chronos"
-      ],
-      "x": [],
-      "y": []
+      ]
     },
     {
       "v": "0.7.3@e45bde373d6aaedec8feaa136d1f4df524be0d47",
@@ -58,9 +53,7 @@
         "gh:bung87/zstd",
         "urlly",
         "chronos"
-      ],
-      "x": [],
-      "y": []
+      ]
     },
     {
       "v": "0.7.2@66e9e4f9739a76e4ed15d10c8b63097bc2571399",
@@ -70,9 +63,7 @@
         "gh:bung87/zstd",
         "urlly",
         "chronos"
-      ],
-      "x": [],
-      "y": []
+      ]
     },
     {
       "v": "0.7.1@2b26b2d4f0661f1376407d709ef159b3eb56cf52",
@@ -82,9 +73,7 @@
         "gh:bung87/zstd",
         "urlly",
         "chronos"
-      ],
-      "x": [],
-      "y": []
+      ]
     },
     {
       "v": "0.7.0@0dd88deae3272881c35e24a2ea94151931c6e2f6",
@@ -94,9 +83,7 @@
         "gh:bung87/zstd",
         "urlly",
         "chronos"
-      ],
-      "x": [],
-      "y": []
+      ]
     },
     {
       "v": "0.6.1@3e1d6d6dbe21234b62133787681fdc888d065bb1",
@@ -106,9 +93,7 @@
         "gh:bung87/zstd",
         "urlly",
         "chronos"
-      ],
-      "x": [],
-      "y": []
+      ]
     },
     {
       "v": "0.6.0@f8058bba4c8cb922db0d41f1b835a571737ac084",
@@ -118,9 +103,7 @@
         "gh:bung87/zstd",
         "urlly",
         "chronos"
-      ],
-      "x": [],
-      "y": []
+      ]
     },
     {
       "v": "0.1.0@6273eeacdb008e1d560e61ae28fe41f486737077",
@@ -133,7 +116,22 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:11:53Z",
+  "generatedAt": "2026-05-26T15:44:03Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.0"
+    ],
+    "tagVersions": {
+      "v0.1.0": "0.1.0"
+    },
+    "prerelease": [
+      "v0.1.0"
+    ]
+  },
   "allDeps": {
     "packages": [
       "bearssl > 0.1.0",

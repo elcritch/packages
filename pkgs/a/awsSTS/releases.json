@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "awsSTS",
   "fqn": "nim_awsSTS.ThomasTJdev.github.com",
+  "current": "4170b92e4b6be92319c8c09717b61073fcde02d7",
   "author": "Thomas T. Jarløv (https://github.com/ThomasTJdev)",
   "description": "AWS Security Token Service API in Nim",
   "license": "MIT",
@@ -68,7 +69,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:13Z",
+  "generatedAt": "2026-05-26T15:44:29Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

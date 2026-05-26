@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "gnu",
   "fqn": "gnu.tonogram.github.com",
+  "current": "bcfa1a5879c2c05b7a4918d507e3859fa8f14c3d",
   "author": "Knaque",
   "description": "Godot-Nim Utility - Godot gamedev with Nim",
   "license": "MIT",
@@ -16,28 +17,25 @@
       "r": [
         "godot >= 0.7.21 & < 0.8.0",
         "cligen >= 1.5.6"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.1.1@8f57485c78df2c81215ea38db5d6edcdaeff7203",
       "r": [
         "godot >= 0.7.21 & < 0.8.0",
         "cligen >= 1.5.6"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.0.1@a0152775d71779664664333dd6b160e80fb023ce",
       "r": [
         "godot >= 0.7.21 & < 0.8.0",
         "cligen >= 1.5.6"
-      ],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:28Z",
+  "generatedAt": "2026-05-26T15:47:23Z",
   "allDeps": {
     "packages": [
       "cligen",

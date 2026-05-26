@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "geomancer",
   "fqn": "geomancer.VitorGoatman.github.com",
+  "current": "5caf0fd970b6e7943f6438ba21ea04cafaf34699",
   "author": "VitorGoatman",
   "description": "A library and program for getting geomancy charts and figures.",
   "license": "Unlicense",
@@ -18,37 +19,29 @@
       "v": "1.0.3@5caf0fd970b6e7943f6438ba21ea04cafaf34699^",
       "r": [
         "docopt >= 0.6.8"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "1.0.2@a3abcd692d11c30a9098db517b1aee39a4155e87",
       "r": [
         "docopt >= 0.6.8"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "1.0.1@a3f9020963affded5fc675158416298fabbc2577",
       "r": [
         "docopt >= 0.6.8"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "1.0@dc13c2821a1c2f07b24cf7a09bd8b592fff5d188",
       "r": [
         "docopt >= 0.6.8"
-      ],
-      "k": [],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:20Z",
+  "generatedAt": "2026-05-26T15:47:12Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

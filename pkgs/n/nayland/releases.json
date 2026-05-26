@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nayland",
   "fqn": "nayland.nim-windowing.github.com",
+  "current": "4d3a2b141f703ac47061452b73438ff934bf949a",
   "author": "xTrayambak",
   "description": "High-level Nim wrapper around libwayland's client interface",
   "license": "BSD-3-Clause",
@@ -38,7 +39,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:16Z",
+  "generatedAt": "2026-05-26T15:49:41Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "mddoc",
   "fqn": "mddoc.treeform.github.com",
+  "current": "b330712aa8ad15eea2891550a9ca156914fcde88",
   "author": "treeform",
   "description": "Generate Nim API docs in markdown for GitHub's README.md files.",
   "license": "MIT",
@@ -13,17 +14,15 @@
   "releases": [
     {
       "v": "0.0.4@81488710f60958dde18c4963975cdc8e8e3a8820",
-      "r": [],
-      "p": []
+      "r": []
     },
     {
       "v": "0.0.3@bc49c179c2575f58c8a4a9faef7bb5fda18c5604",
-      "r": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:55Z",
+  "generatedAt": "2026-05-26T15:49:13Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

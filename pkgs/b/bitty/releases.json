@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "bitty",
   "fqn": "bitty.treeform.github.com",
+  "current": "e0d3307f3803b7684142fd170fb32f539e45c9dd",
   "author": "Andre von Houck",
   "description": "Utilities with dealing with 1d and 2d bit arrays.",
   "license": "MIT",
@@ -30,7 +31,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:32Z",
+  "generatedAt": "2026-05-26T15:44:52Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "ad",
   "fqn": "ad.subsetpark.github.com",
+  "current": "0e1fa79e2a1b7e0f7411136a84c612bf03c5d7af",
   "author": "Z. D. Smith",
   "description": "A simple RPN calculator",
   "license": "MIT",
@@ -20,9 +21,7 @@
       "r": [
         "bignum >= 0.2.5"
       ],
-      "b": "",
-      "z": [],
-      "p": []
+      "b": ""
     },
     {
       "v": "0.7.2@38661e503e7b45816a1239458ff9012361a8956c",
@@ -30,9 +29,7 @@
         "bignum >= 0.2.5"
       ],
       "m": "0.14.2",
-      "b": "",
-      "z": [],
-      "p": []
+      "b": ""
     },
     {
       "v": "0.7.1@89939814b143fc8c34daff4eb5d1e396faba8f63",
@@ -40,9 +37,7 @@
         "bignum >= 0.2.5"
       ],
       "m": "0.14.2",
-      "b": "",
-      "z": [],
-      "p": []
+      "b": ""
     },
     {
       "v": "0.7@422c1ffea6388bcd91862c9147c2b790311e7e38",
@@ -50,29 +45,22 @@
         "bignum >= 0.2.5"
       ],
       "m": "0.14.2",
-      "b": "",
-      "z": [],
-      "p": []
+      "b": ""
     },
     {
       "v": "0.6.4@cc1b1da0f691f7ac2a7123bf269d08315bf93eb3",
       "r": [],
       "m": "0.14.2",
-      "b": "",
-      "z": [],
-      "p": []
+      "b": ""
     },
     {
       "v": "0.6.3@dd414fe51912a798973acf92ad29adaab877f669",
       "r": [],
-      "m": "0.14.2",
-      "b": "",
-      "z": [],
-      "p": []
+      "m": "0.14.2"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:11:48Z",
+  "generatedAt": "2026-05-26T15:43:56Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

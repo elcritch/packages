@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "drchaos",
   "fqn": "nim-drchaos.status-im.github.com",
+  "current": "0cf181777c69bef988ef8c70cc124316bb36e7b6",
   "author": "Dr. Chaos Team",
   "description": "A powerful and easy-to-use fuzzing framework in Nim for C/C++/Obj-C targets",
   "license": "Apache License 2.0",
@@ -16,55 +17,50 @@
   "releases": [
     {
       "v": "0.1.9@29c39cc4ba4ce63d225fa1b1077ddd7752a104ba",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.1.8@2ec768c1fb67646c7081910242ca85f15e0e0872",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.1.7@7c704f596dd048e2282e8cd21ed1bb3d43abaef9",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.1.6@4662b4215acdd96d419c2306950a1d2b237725dc",
-      "r": [],
-      "x": []
+      "r": []
+    },
+    {
+      "v": "0.1.5@9cbf2f50f459ddf4276e3fa73d46f7a9e5a92685",
+      "r": []
     },
     {
       "v": "0.1.4@8fc4b594689e753e851e60d672cc49ec96027475",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.1.3@96ef0be0d44052a637392c5b9b6c3f5c572e5775",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.1.2@c5665f9bde41a9d5fbcba5e7b13840f35afa1032",
       "r": [],
-      "m": "1.4.0",
-      "x": []
+      "m": "1.4.0"
     },
     {
       "v": "0.1.1@72664f3d7e04a63c24f5216bb177703042bf3eca",
       "r": [],
-      "m": "1.4.0",
-      "x": []
+      "m": "1.4.0"
     },
     {
       "v": "0.1.0@a4cbf3e6c6d40cc0abe4da58db1ffc708ac78143",
       "r": [],
-      "m": "1.4.0",
-      "x": []
+      "m": "1.4.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:38Z",
+  "generatedAt": "2026-05-26T15:46:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

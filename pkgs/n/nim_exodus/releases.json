@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nim_exodus",
   "fqn": "nim_exodus.shinriyo.github.com",
+  "current": "2136500667dfc309e9b48b708534151e59928c3e",
   "author": "Shinsuke Sugita (@shinriyo)",
   "description": "Template generator for gester",
   "license": "MIT",
@@ -18,13 +19,11 @@
       "v": "0.0.1@2b82de6c45c554089834978c5c30f1539f99edab",
       "r": [
         "jester"
-      ],
-      "x": [],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:36Z",
+  "generatedAt": "2026-05-26T15:50:06Z",
   "allDeps": {
     "packages": [
       "asynctools",

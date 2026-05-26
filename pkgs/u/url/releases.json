@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "url",
   "fqn": "url.xTrayambak.github.com",
+  "current": "2bc808241b2bf10017e81b4ce68c5ad070aaacf2",
   "author": "xTrayambak",
   "description": "A standards-compliant WHATWG URL parser in pure Nim",
   "license": "BSD-3-Clause",
@@ -63,7 +64,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:04Z",
+  "generatedAt": "2026-05-26T15:54:40Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

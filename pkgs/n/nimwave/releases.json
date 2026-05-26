@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimwave",
   "fqn": "nimwave.ansiwave.github.com",
+  "current": "a9a82fb39e316ad94abaab14dc3f77e7f7c2bc0c",
   "author": "oakes",
   "description": "A TUI -> GUI library",
   "license": "Public Domain",
@@ -94,7 +95,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:18Z",
+  "generatedAt": "2026-05-26T15:51:04Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "mccache",
   "fqn": "mccache-nim.abbeymart.github.com",
+  "current": "cd4fda8e5b01997352b16563abcaf73593fa371a",
   "author": "Abi Akindele [abbeymart]",
   "description": "mccache package: in-memory caching - simple & hash-cache",
   "license": "MIT",
@@ -13,33 +14,29 @@
   "releases": [
     {
       "v": "0.3.0@59c8f83440cbd2282310bd833d64cf3ef1246ae6",
-      "r": [],
-      "y": []
+      "r": []
     },
     {
       "v": "0.2.0@35f1a353ce1c0cba31b56cff6f2be932f0bbfa81",
       "r": [],
       "d": "mccache package: in-memory caching - patched",
-      "m": "1.6.2",
-      "y": []
+      "m": "1.6.2"
     },
     {
       "v": "0.1.2@10327263ea65676b4dddbf850c0f5991d84514bc",
       "r": [],
       "d": "mccache package: in-memory caching - patched",
-      "m": "1.2.0",
-      "y": []
+      "m": "1.2.0"
     },
     {
       "v": "0.1.1@924f88efc2bc5e7b43f62f0d9affa26020893f8e",
       "r": [],
       "d": "mccache package: in-memory caching",
-      "m": "1.2.0",
-      "y": []
+      "m": "1.2.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:53Z",
+  "generatedAt": "2026-05-26T15:49:11Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "simpledecimal",
   "fqn": "nim-simple-decimal.pigmej.github.com",
+  "current": "174c13cb7c37f8f89a81b7ea995757421be35052",
   "author": "Jedrzej Nowak",
   "description": "A simple decimal library",
   "license": "MIT",
@@ -12,12 +13,11 @@
   "releases": [
     {
       "v": "0.1.0@174c13cb7c37f8f89a81b7ea995757421be35052^",
-      "r": [],
-      "y": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:01Z",
+  "generatedAt": "2026-05-26T15:53:16Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

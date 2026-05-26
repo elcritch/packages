@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimgraphql",
   "fqn": "nimgraphql.genotrance.github.com",
+  "current": "49434383a688abcdac05a7bbdd1e87470e5a6c07",
   "author": "genotrance",
   "description": "libgraphqlparser wrapper for Nim",
   "license": "MIT",
@@ -13,20 +14,18 @@
       "v": "0.2.0@49434383a688abcdac05a7bbdd1e87470e5a6c07^",
       "r": [
         "nimterop >= 0.4.4"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "0.1.0@810011bb0e8af9a6548c1de03661b4015b3c1cb0",
       "r": [
         "nimgen >= 0.5.0"
       ],
-      "h": true,
-      "x": []
+      "h": true
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:53Z",
+  "generatedAt": "2026-05-26T15:50:29Z",
   "allDeps": {
     "packages": [
       "c2nim <= 0.1.0",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "zstd",
   "fqn": "nim_zstd.wltsmrz.github.com",
+  "current": "75ee00aa3da80903dc509f1ff1605304cc77c173",
   "author": "wltsmrz",
   "description": "Nim bindings for zstd",
   "license": "MIT",
@@ -22,60 +23,39 @@
     {
       "v": "0.9@f8f80a57ff782f176b16de0b3885600523d39d80^",
       "r": [],
-      "j": [],
-      "x": [],
-      "y": [],
-      "i": []
+      "j": []
     },
     {
       "v": "0.8@52f06accebde9a45e0592ef8f4c659b00ce5a14f",
       "r": [],
-      "j": [],
-      "x": [],
-      "y": [],
-      "i": []
+      "j": []
     },
     {
       "v": "0.7@88868d742b7a2edf32fa2141f27b09e659624192",
       "r": [],
-      "j": [],
-      "x": [],
-      "y": [],
-      "i": []
+      "j": []
     },
     {
       "v": "0.6@9e6cf86e357401044fd3b476520321eff268db12",
       "r": [],
-      "j": [],
-      "x": [],
-      "y": [],
-      "i": []
+      "j": []
     },
     {
       "v": "0.5@7fcf69f3359085735872f3bcc1a20419afb58e74",
       "r": [],
-      "j": [],
-      "x": [],
-      "y": [],
-      "i": []
+      "j": []
     },
     {
       "v": "0.4@97347edacc4acfae364eb6a85d8d663042be06b3",
       "r": [],
       "h": true,
-      "j": [],
-      "x": [],
-      "y": [],
-      "i": []
+      "j": []
     },
     {
       "v": "0.3@bfeb7aed6b568dd6608b025eea0593dac12e1239",
       "r": [],
       "h": true,
-      "j": [],
-      "x": [],
-      "y": [],
-      "i": []
+      "j": []
     },
     {
       "v": "0.2@f59a33b575b0593f680bd28e9a7d3e8c0f98d113",
@@ -84,14 +64,11 @@
       "x": [
         "tests",
         "examples"
-      ],
-      "y": [],
-      "i": [],
-      "j": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:52Z",
+  "generatedAt": "2026-05-26T15:55:41Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

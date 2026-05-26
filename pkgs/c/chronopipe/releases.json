@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "chronopipe",
   "fqn": "chrono.williamd1k0.github.com",
+  "current": "50a0208e116b58a5c3421eea20f07e0c49430c50",
   "author": "William Tumeo",
   "description": "Show start/end datetime and duration of a command-line process using pipe.",
   "license": "MIT",
@@ -13,12 +14,11 @@
   "releases": [
     {
       "v": "0.1.0@02145188e5e4e7a6fbf4d2a731770c202fc04ed4",
-      "r": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:59Z",
+  "generatedAt": "2026-05-26T15:45:26Z",
   "allDeps": {
     "packages": [],
     "urls": [],

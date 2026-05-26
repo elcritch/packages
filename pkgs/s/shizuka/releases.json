@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "shizuka",
   "fqn": "shizuka.ethosa.github.com",
+  "current": "3ce6fe7df26cdc1df116f4c2d3456917d1c237fd",
   "author": "Ethosa",
   "description": "The Nim framework for VK.",
   "license": "MIT",
@@ -25,7 +26,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:57Z",
+  "generatedAt": "2026-05-26T15:53:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

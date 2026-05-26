@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "logue",
   "fqn": "logue.planety.github.com",
+  "current": "abdc645a410a9fed0f4125023e3f57d9957fb376",
   "author": "flywind",
   "description": "Command line tools for Prologue.",
   "license": "Apache-2.0",
@@ -18,50 +19,38 @@
       "v": "0.2.4@fdad43b69bc4517a3595d1a28e86161e8cfca614",
       "r": [
         "cligen >= 1.2.2"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.2.2@a4d649a01487930b1b4fa8cbb7453a6c2fe1d898",
       "r": [
         "cligen >= 1.1.0"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.2.0@048b87a89426b97f465b535da85bbce370c49ffb",
       "r": [
         "cligen >= 1.1.0"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.1.8@24d3276aa8226bb7e1c1bb7f6d06e2c5d1baf0dd",
       "r": [
         "cligen >= 1.1.0"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.1.6@1e7b5c1b273966c6eee73414940c5ced333343d4",
       "r": [
         "cligen >= 1.1.0"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.1.2@25234ea79b9a7a783ced72918d529ef1e3886ac7",
       "r": [
         "cligen >= 1.1.0"
       ],
-      "m": "1.2.0",
-      "k": [],
-      "p": []
+      "m": "1.2.0"
     },
     {
       "v": "0.1.0@1c5fa52997dd1542d2efab446d89ee99268b98df",
@@ -69,12 +58,11 @@
         "cligen >= 1.1.0"
       ],
       "m": "1.2.0",
-      "k": [],
-      "p": []
+      "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:41Z",
+  "generatedAt": "2026-05-26T15:48:59Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

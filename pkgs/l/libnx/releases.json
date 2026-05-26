@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "libnx",
   "fqn": "nim-libnx.jyapayne.github.com",
+  "current": "01dda9d2ce50f3a2fc5b2601f43ffe8e533aa01d",
   "author": "Joey Payne",
   "description": "Nintendo Switch library libnx for Nim.",
   "license": "The Unlicense",
@@ -26,7 +27,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:28Z",
+  "generatedAt": "2026-05-26T15:48:40Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

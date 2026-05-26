@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "fab",
   "fqn": "fab.icyphox.github.com",
+  "current": "58ea6c8689e7c40cb3e6abc7ab63d31fb45ca592",
   "author": "Anirudh",
   "description": "Print fabulously in your terminal",
   "license": "MIT",
@@ -19,54 +20,46 @@
     {
       "v": "0.4.3@a107305280bf1e1912493b0ccae226c3aea65f79",
       "r": [],
-      "m": "0.18.0",
-      "p": []
+      "m": "0.18.0"
     },
     {
       "v": "0.4.2@482cacd0ebfb08d0238721527b34ac48ffe0ef01",
       "r": [],
-      "m": "0.18.0",
-      "p": []
+      "m": "0.18.0"
     },
     {
       "v": "0.4.1@63aff83a59160c04ef88816d89c81df9d515c5cb",
       "r": [],
-      "m": "0.18.1",
-      "p": []
+      "m": "0.18.1"
     },
     {
       "v": "0.4.0@82e18334881891bb8b2b6d9dfed410ffe8190696",
       "r": [],
-      "m": "0.18.1",
-      "p": []
+      "m": "0.18.1"
     },
     {
       "v": "0.3.1@236e03ff6238dc2f5e1eda2c3651219fe32f251c",
       "r": [],
-      "m": "0.18.1",
-      "p": []
+      "m": "0.18.1"
     },
     {
       "v": "0.3.0@ee0bc73f443d800034c19efd991d1e0bf6048f30",
       "r": [],
-      "m": "0.18.1",
-      "p": []
+      "m": "0.18.1"
     },
     {
       "v": "0.2.0@42b63cc9847f014132f12488ad971efe0ccb5296",
       "r": [],
-      "m": "0.18.1",
-      "p": []
+      "m": "0.18.1"
     },
     {
       "v": "0.1.0@7e6d027744be7a18f421586434cc223933a76c49",
       "r": [],
-      "m": "0.18.1",
-      "p": []
+      "m": "0.18.1"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:52Z",
+  "generatedAt": "2026-05-26T15:46:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

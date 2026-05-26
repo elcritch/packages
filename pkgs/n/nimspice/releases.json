@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimspice",
   "fqn": "nimspice.CodeDoes.github.com",
+  "current": "0e0b2f177803eff339ff28ad57b74a99ff91be1e",
   "author": "CodeDoes",
   "description": "A bunch of macros. sugar if you would",
   "license": "MIT",
@@ -12,17 +13,15 @@
   "releases": [
     {
       "v": "0.1.2@8d1e73aba9772f01061cb10699f5e30d48c4f16e",
-      "r": [],
-      "i": []
+      "r": []
     },
     {
       "v": "0.1.0@d9281173d24e8d04a8fdf681f8262e784989f6a8",
-      "r": [],
-      "i": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:13Z",
+  "generatedAt": "2026-05-26T15:50:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "flame",
   "fqn": "flame.navid-m.github.com",
+  "current": "eb02f9155f868c466e3e097efa9beaab4f481972",
   "author": "Navid M",
   "description": "Easy sound synthesis library",
   "license": "MIT",
@@ -15,12 +16,11 @@
       "v": "0.1.0@11ff5e12642d186befcda926dde859f63840da47",
       "r": [
         "sdl2 >= 2.0.5"
-      ],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:06Z",
+  "generatedAt": "2026-05-26T15:46:53Z",
   "allDeps": {
     "packages": [
       "sdl2"

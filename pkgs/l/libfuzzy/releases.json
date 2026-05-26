@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "libfuzzy",
   "fqn": "nim-libfuzzy.srozb.github.com",
+  "current": "362d39ac496754489e93dd441e3e7810a2ff91fa",
   "author": "srozb",
   "description": "libfuzzy/ssdeep wrapper",
   "license": "GPL-2.0-only",
@@ -27,7 +28,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:27Z",
+  "generatedAt": "2026-05-26T15:48:38Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

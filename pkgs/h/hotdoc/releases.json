@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "hotdoc",
   "fqn": "hotdoc.willyboar.github.com",
+  "current": "2dd8d962eaf48d95477aa3d6d1f81d63eddd392c",
   "author": "Willyboar",
   "description": "Single page documentation generator",
   "license": "MIT",
@@ -15,12 +16,11 @@
       "v": "0.1.0@e1e04f196c18fe42e46e954ea222209a374b86a5",
       "r": [
         "docopt >= 0.6.8"
-      ],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:48Z",
+  "generatedAt": "2026-05-26T15:47:46Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

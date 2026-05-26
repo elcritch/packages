@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nordnet",
   "fqn": "nim_nordnet_api.ThomasTJdev.github.com",
+  "current": "3c08ae09939082b2a00c31ca8b4f1d8de544338a",
   "author": "Thomas T. Jarløv (https://github.com/ThomasTJdev)",
   "description": "Scraping API for www.nordnet.dk",
   "license": "MIT",
@@ -15,40 +16,35 @@
       "r": [
         "nmqtt >= 1.0.0",
         "q >= 0.0.7"
-      ],
-      "i": []
+      ]
     },
     {
       "v": "0.0.6@10b95f90911d5a407c34a7a1c74e463b96a0fd48",
       "r": [
         "nmqtt >= 1.0.0",
         "q >= 0.0.7"
-      ],
-      "i": []
+      ]
     },
     {
       "v": "0.0.5@e9b496b69fbb1ef1f5f3d0db958548db84d8cbb3",
       "r": [
         "nmqtt >= 0.1.0",
         "q >= 0.0.7"
-      ],
-      "i": []
+      ]
     },
     {
       "v": "0.0.4@d35237e1d6f8e6d475848e01d62b9367b7157a22",
       "r": [
         "nmqtt >= 0.1.0",
         "q >= 0.0.7"
-      ],
-      "i": []
+      ]
     },
     {
       "v": "0.0.3@157e379bac7bae0d8832714bce28e467dc153208",
       "r": [
         "nmqtt >= 0.1.0",
         "q >= 0.0.7"
-      ],
-      "i": []
+      ]
     },
     {
       "v": "0.0.2@27375f41ab48fef2bd69014842500efb8c8e3844",
@@ -56,8 +52,7 @@
         "nmqtt >= 0.1.0",
         "q >= 0.0.7"
       ],
-      "m": "1.0.6",
-      "i": []
+      "m": "1.0.6"
     },
     {
       "v": "0.0.1@424b1748a7d3e2d6beb3919797774326abad1144",
@@ -65,12 +60,11 @@
         "nmqtt >= 0.0.1",
         "q >= 0.0.7"
       ],
-      "m": "1.0.6",
-      "i": []
+      "m": "1.0.6"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:30Z",
+  "generatedAt": "2026-05-26T15:51:16Z",
   "allDeps": {
     "packages": [
       "bcrypt",

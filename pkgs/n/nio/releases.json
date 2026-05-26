@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nio",
   "fqn": "nio.c-blake.github.com",
+  "current": "52abd3678deb97fcb44a7299b29e794c6b742cd2",
   "author": "Charles Blake",
   "description": "Low Overhead Numerical/Native IO library & tools",
   "license": "MIT/ISC",
@@ -23,78 +24,67 @@
       "v": "0.7.10@0be97eefd69d41178dd90d80bd1c51ed2bcdefc1",
       "r": [
         "cligen >= 1.9.2"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.7.9@002488e332e8934c5effb62c15a964bf2f7131b1",
       "r": [
         "cligen >= 1.8.3"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.7.8@bb5995b29f46949f73707397280cf30e8ecf45bd",
       "r": [
         "cligen >= 1.8.2"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.7.7@9cbe86c5625dfb24f8a4873d7e3c39e10ea1987b",
       "r": [
         "cligen >= 1.8.0"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.7.6@fabb593682c1db44be07dbb431fa8e677b0dc9c2",
       "r": [
         "cligen >= 1.7.9"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.7.5@ffb671ce23b1b77899c3bcff7da2f1ebfb53e7d2",
       "r": [
         "cligen >= 1.7.8"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.7.4@b784d3da9b5f651a201eb81abbb27ba8bd5dd0f8",
       "r": [
         "cligen >= 1.7.7"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.7.3@2535894e0e50e285f2a46034f3f2a7de575b706b",
       "r": [
         "cligen >= 1.7.7"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.7.2@14986ab531faf01b054baa66c70dc6367956c8d4",
       "r": [
         "cligen >= 1.7.4"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.7.1@35a4f2407974c703472b45e8bb9368d51307f662",
       "r": [
         "cligen >= 1.7.2"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.7.0@81a7f8e5aa51bf5bad4f8dd0cf308a48a87493ea",
       "r": [
         "cligen >= 1.7.1"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.6.11@f30017fd69b5842a3a6969cacfeda7fe3c795fe8",
@@ -456,7 +446,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:22Z",
+  "generatedAt": "2026-05-26T15:51:07Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

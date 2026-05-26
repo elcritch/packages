@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "labeledtypes",
   "fqn": "labeledtypes.hamidb80.github.com",
+  "current": "c4dc85944cbd31bd0d80addd13b796b99cce747e",
   "author": "hamidb80",
   "description": "label your types - a convention for self-documented and more readable code",
   "license": "MIT",
@@ -18,7 +19,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:21Z",
+  "generatedAt": "2026-05-26T15:48:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

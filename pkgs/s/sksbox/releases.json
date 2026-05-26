@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "sksbox",
   "fqn": "sksbox.Skrylar.github.com",
+  "current": "d2fd3393c746eed81cadb5a347573e9708a1db37",
   "author": "Skrylar",
   "description": "A Nim-native implementation of the sBOX file format.",
   "license": "MIT",
@@ -12,12 +13,11 @@
   "releases": [
     {
       "v": "0.1.0@d2fd3393c746eed81cadb5a347573e9708a1db37^",
-      "r": [],
-      "x": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:04Z",
+  "generatedAt": "2026-05-26T15:53:19Z",
   "allDeps": {
     "packages": [],
     "urls": [],

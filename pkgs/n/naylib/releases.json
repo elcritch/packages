@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "naylib",
   "fqn": "naylib.planetis-m.github.com",
+  "current": "03c3f7dacab948467348d52c5035b90fe6ee1bd6",
   "author": "Antonis Geralis",
   "description": "Raylib Nim wrapper",
   "license": "MIT",
@@ -244,7 +245,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:18Z",
+  "generatedAt": "2026-05-26T15:49:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

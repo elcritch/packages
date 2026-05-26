@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "bestfetch",
   "fqn": "bestfetch.Maxb0tbeep.gitlab.com",
+  "current": "a84a1e85cd27322f66f34bc3c24484033b2bb988",
   "author": "lx12ucy",
   "description": "The bestest sysfetch ever",
   "license": "GPL-3.0-only",
@@ -20,9 +21,7 @@
         "yaml >= 2.1.1",
         "bytesized >= 1.2.0",
         "plists >= 0.2.0"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "1.5.2@794f33e8c2e792c4c984be470314541fe863e734",
@@ -31,9 +30,7 @@
         "elvis >= 0.5.0",
         "yaml >= 2.1.1",
         "bytesized >= 1.2.0"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "1.5.1@257fe46ffd7e25a01f4377c8cda68f2efe815005",
@@ -42,9 +39,7 @@
         "elvis >= 0.5.0",
         "yaml >= 2.1.1",
         "bytesized >= 1.2.0"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "1.5.0@16563d4ca56712fa8e312b806c8bc4abf164a2af",
@@ -53,9 +48,7 @@
         "elvis >= 0.5.0",
         "yaml >= 2.1.1",
         "bytesized >= 1.2.0"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "1.4.0@ca10a523d55022c1c5c46c1efa565390ab57a406",
@@ -64,9 +57,7 @@
         "elvis >= 0.5.0",
         "yaml >= 2.1.1",
         "bytesized >= 1.2.0"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "1.3.1@f959acb964bb503dc0982e985689eca0f5cd4060",
@@ -75,9 +66,7 @@
         "elvis >= 0.5.0",
         "yaml >= 2.1.1",
         "bytesized >= 1.2.0"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "1.3.0@d803cd5b1c600dc469c9e935f7d8f809200c65a4",
@@ -85,9 +74,7 @@
         "termstyle >= 0.1.0",
         "elvis >= 0.5.0",
         "yaml >= 2.1.1"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "1.2.3@d8ab3bc6567555e71f78085141192d320f2fab74",
@@ -95,9 +82,7 @@
         "termstyle >= 0.1.0",
         "elvis >= 0.5.0",
         "yaml >= 2.1.1"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "1.2.2@efb50f71ce001b5b3e9d111854b937040c0c1230",
@@ -105,9 +90,7 @@
         "termstyle >= 0.1.0",
         "elvis >= 0.5.0",
         "yaml >= 2.1.1"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "1.2.1@dcfdbeb96bdbdf6ed8621ede6b2b17d575f5349a",
@@ -115,9 +98,7 @@
         "termstyle >= 0.1.0",
         "elvis >= 0.5.0",
         "yaml >= 2.1.1"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "1.2.0@03e4ac7da7cce51f9e4e138522e7fadaed66dc9b",
@@ -125,9 +106,7 @@
         "termstyle >= 0.1.0",
         "elvis >= 0.5.0",
         "yaml >= 2.1.1"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "1.1.0@45891ad487bb87e2549f310d9c095ff3e986f9fe",
@@ -135,9 +114,7 @@
         "termstyle >= 0.1.0",
         "elvis >= 0.5.0",
         "yaml >= 2.1.1"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "1.0.0@a6d2999eaf3a67fe8b54ef3f66e6766dc609526d",
@@ -145,13 +122,11 @@
         "termstyle >= 0.1.0",
         "elvis >= 0.5.0",
         "yaml >= 2.1.1"
-      ],
-      "b": "",
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:27Z",
+  "generatedAt": "2026-05-26T15:44:45Z",
   "allDeps": {
     "packages": [
       "bytesized > 1.3.0",

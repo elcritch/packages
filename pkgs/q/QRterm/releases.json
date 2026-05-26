@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "QRterm",
   "fqn": "QRterm.aruZeta.github.com",
+  "current": "e953fbcb6c52c10f70b880c1b0cfdc9033bd06f4",
   "author": "aruZeta",
   "description": "A simple QR generator in your terminal.",
   "license": "MIT",
@@ -16,21 +17,17 @@
       "v": "1.0.1@33302aaffbe6bcd5df173053dac7b589fd221913",
       "r": [
         "QRgen 2.2.1"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "1.0.0@170dcb6af6d740da34b274db88e2b4ba462722e3",
       "r": [
         "QRgen 2.1.1"
-      ],
-      "b": "",
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:11:44Z",
+  "generatedAt": "2026-05-26T15:43:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nake",
   "fqn": "nake.fowlmouth.github.com",
+  "current": "63e87e1713459588f33844280de9821ba04e34c6",
   "author": "fowl",
   "description": "make-like for Nim. Describe your builds as tasks!",
   "license": "MIT",
@@ -19,9 +20,7 @@
   "releases": [
     {
       "v": "1.9.5@63e87e1713459588f33844280de9821ba04e34c6^",
-      "r": [],
-      "j": [],
-      "p": []
+      "r": []
     },
     {
       "v": "1.9.4@8bfbd2fd86ea5935858a1c21a368952998c5e32b",
@@ -32,8 +31,7 @@
         "nake.nim",
         "nakefile.nim",
         "nakelib.nim"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "1.9.3@10bcbe8afae92dcd13b55332f4ae0f18b2a35f59",
@@ -44,8 +42,7 @@
         "nake.nim",
         "nakefile.nim",
         "nakelib.nim"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "1.9.2@7ece16fac895b179a654d897399e65326e9ab381",
@@ -56,8 +53,7 @@
         "nake.nim",
         "nakefile.nim",
         "nakelib.nim"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "1.9.1@73890084f51626ce68c465a32d41a3d782dd7223",
@@ -68,8 +64,7 @@
         "nake.nim",
         "nakefile.nim",
         "nakelib.nim"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "1.9@4013a38160fc12cebeeaaf05720a44f7e853423a",
@@ -80,8 +75,7 @@
         "nake.nim",
         "nakefile.nim",
         "nakelib.nim"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "1.8@b6e82f4aeaca88494cfe34fd4f2e726cc33fd86b",
@@ -128,7 +122,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:14Z",
+  "generatedAt": "2026-05-26T15:49:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "platformer",
   "fqn": "nim-platformer.def-.github.com",
+  "current": "9e79719369ae1722c01b4546a54792a77413c22f",
   "author": "Dennis Felsing",
   "description": "An example 2D platform game with SDL2",
   "license": "MIT",
@@ -15,8 +16,7 @@
       "r": [
         "sdl2 >= 1.1",
         "strfmt >= 0.6"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "1.1@1dd2317adf02f7bd8b2019a1ee07fc8e885b74e9",
@@ -24,12 +24,11 @@
         "sdl2 >= 1.1",
         "strfmt >= 0.6",
         "basic2d >= 0.1.0"
-      ],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:06Z",
+  "generatedAt": "2026-05-26T15:52:02Z",
   "allDeps": {
     "packages": [
       "basic2d > 1.0",

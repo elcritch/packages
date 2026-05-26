@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "gyaric",
   "fqn": "gyaric.jiro4989.github.com",
+  "current": "daf1a4dc68dae6b7469197ff92573d6095fbe9f2",
   "author": "jiro4989",
   "description": "gyaric is a module to encode/decode text to unreadable gyaru's text.",
   "license": "MIT",
@@ -17,21 +18,15 @@
   "releases": [
     {
       "v": "1.0.2@daf1a4dc68dae6b7469197ff92573d6095fbe9f2^",
-      "r": [],
-      "b": "",
-      "k": [],
-      "p": []
+      "r": []
     },
     {
       "v": "1.0.1@d2dac9438a92519503ffe2d755bd6a7047f7cb7a",
-      "r": [],
-      "b": "",
-      "k": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:36Z",
+  "generatedAt": "2026-05-26T15:47:32Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

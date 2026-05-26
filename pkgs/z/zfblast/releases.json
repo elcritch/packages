@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "zfblast",
   "fqn": "nim_zfblast.zendbit.github.com",
+  "current": "3b705d5410110fad57fc3a1f4d64a5a4374526ba",
   "author": "Amru Rosyada",
   "description": "High performance http server (https://tools.ietf.org/html/rfc2616) with persistent connection for nim language",
   "license": "BSD",
@@ -264,7 +265,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:46Z",
+  "generatedAt": "2026-05-26T15:55:35Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

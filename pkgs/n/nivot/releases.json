@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nivot",
   "fqn": "nivot.Luteva-ssh.github.com",
+  "current": "9b2a1a7c7157e6d812ae216f756a2eed585d1d0a",
   "author": "Janni Adamski",
   "description": "nivot is a simple pivot library for nim.",
   "license": "MIT",
@@ -19,14 +20,11 @@
   "releases": [
     {
       "v": "0.1.0@b377fca7a23d257960b47746ac557c8773755675",
-      "r": [],
-      "x": [],
-      "k": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:22Z",
+  "generatedAt": "2026-05-26T15:51:07Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "testutils",
   "fqn": "nim-testutils.status-im.github.com",
+  "current": "6ce5e5e2301ccbc04b09d27ff78741ff4d352b4d",
   "author": "Status Research & Development GmbH",
   "description": "A unittest framework",
   "license": "Apache License 2.0",
@@ -17,92 +18,70 @@
       "v": "0.8.1@6ce5e5e2301ccbc04b09d27ff78741ff4d352b4d^",
       "r": [
         "unittest2"
-      ],
-      "x": [],
-      "p": []
+      ]
     },
     {
       "v": "0.8.0@e4d37dc1652d5c63afb89907efb5a5e812261797",
       "r": [
         "unittest2"
-      ],
-      "x": [],
-      "p": []
+      ]
     },
     {
       "v": "0.7.0@382d740ac9fc0d162a120bb07b1cb8afd17a8c01",
       "r": [
         "unittest2"
-      ],
-      "x": [],
-      "p": []
+      ]
     },
     {
       "v": "0.6.0@94d68e796c045d5b37cabc6be32d7bfa168f8857",
       "r": [
         "unittest2"
-      ],
-      "x": [],
-      "p": []
+      ]
     },
     {
       "v": "0.5.3@c43f90a739c8689a70a2dde5e718bba2e66a6599",
       "r": [
         "unittest2"
-      ],
-      "x": [],
-      "p": []
+      ]
     },
     {
       "v": "0.5.2@e4fb95cbe36ad1e231661c922da04b81e0ffeed9",
       "r": [
         "unittest2"
-      ],
-      "x": [],
-      "p": []
+      ]
     },
     {
       "v": "0.5.0@dfc4c1b39f9ded9baf6365014de2b4bfb4dafc34",
       "r": [
         "unittest2"
       ],
-      "m": "1.2.0",
-      "x": [],
-      "p": []
+      "m": "1.2.0"
     },
     {
       "v": "0.4.2@b68262cf2a47ea2dd07eff16f37a0b51943be91b",
       "r": [
         "unittest2 #head"
       ],
-      "m": "1.2.0",
-      "x": [],
-      "p": []
+      "m": "1.2.0"
     },
     {
       "v": "0.4.1@ad9d9dae96c9bc079f64fabe6852848a1fc379fc",
       "r": [
         "unittest2 #head"
       ],
-      "m": "1.2.0",
-      "x": [],
-      "p": []
+      "m": "1.2.0"
     },
     {
       "v": "0.4.0@6d76fc5e51ce6580289e872558a3b858775e310f",
       "r": [
         "unittest2 #head"
       ],
-      "m": "1.2.0",
-      "x": [],
-      "p": []
+      "m": "1.2.0"
     },
     {
       "v": "0.3.0@c449d909a638fca2c3adf141fb93710d882ed988",
       "r": [],
-      "m": "1.0.2",
-      "x": [],
-      "p": []
+      "m": "1.0.2"
     },
     {
       "v": "0.2.0@481186aa761859a35ceefc1af17c73c5a6bb595f",
@@ -110,8 +89,7 @@
       "p": [
         "testrunner"
       ],
-      "m": "1.0.2",
-      "x": []
+      "m": "1.0.2"
     },
     {
       "v": "0.1.1@b982fc84f35a5c93c965b56ee39ae70f5b809d58",
@@ -119,8 +97,7 @@
       "p": [
         "testrunner"
       ],
-      "m": "1.0.2",
-      "x": []
+      "m": "1.0.2"
     },
     {
       "v": "0.1.0@512bc6afe311f8fe0d1e7d53911ff38791298174",
@@ -128,8 +105,7 @@
       "p": [
         "testrunner"
       ],
-      "m": "1.0.2",
-      "x": []
+      "m": "1.0.2"
     },
     {
       "v": "0.0.2@11d3e2a776ea2435b0764c9cd876d3c3d181c941",
@@ -137,12 +113,11 @@
       "p": [
         "testrunner"
       ],
-      "m": "1.0.2",
-      "x": []
+      "m": "1.0.2"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:38Z",
+  "generatedAt": "2026-05-26T15:54:05Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

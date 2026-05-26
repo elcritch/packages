@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "unicodeplus",
   "fqn": "nim-unicodeplus.nitely.github.com",
+  "current": "f802d012290c32a69a774f2e7ea889546c1132e7",
   "author": "Esteban Castro Borsani (@nitely)",
   "description": "Common unicode operations",
   "license": "MIT",
@@ -162,7 +163,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:59Z",
+  "generatedAt": "2026-05-26T15:54:35Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

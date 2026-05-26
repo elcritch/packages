@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "omni",
   "fqn": "omni.vitreo12.github.com",
+  "current": "b105a96fedef580094fc1786ff3f201786d52377",
   "author": "Francesco Cameli",
   "description": "omni is a DSL for low-level audio programming.",
   "license": "MIT",
@@ -21,30 +22,21 @@
       "r": [
         "cligen >= 1.5.0"
       ],
-      "h": true,
-      "x": [],
-      "i": [],
-      "p": []
+      "h": true
     },
     {
       "v": "0.4.1@d9da9f59091e247e9a990ac40c2d581bbb4bbe99",
       "r": [
         "cligen >= 1.5.0"
       ],
-      "h": true,
-      "x": [],
-      "i": [],
-      "p": []
+      "h": true
     },
     {
       "v": "0.4.0@3ff1140b12a1505794dd2605786f5c5e3102b0be",
       "r": [
         "cligen >= 1.5.0"
       ],
-      "h": true,
-      "x": [],
-      "i": [],
-      "p": []
+      "h": true
     },
     {
       "v": "0.2.3@ca6814e42ea35685aa4153f6fef04907b6151008",
@@ -52,10 +44,7 @@
         "cligen >= 1.0.0"
       ],
       "h": true,
-      "m": "1.0.0",
-      "x": [],
-      "i": [],
-      "p": []
+      "m": "1.0.0"
     },
     {
       "v": "0.2.2@b04ffc1bcf020edd23281a6ef7e8f74ef69e21c8",
@@ -63,10 +52,7 @@
         "cligen >= 1.0.0"
       ],
       "h": true,
-      "m": "1.0.0",
-      "x": [],
-      "i": [],
-      "p": []
+      "m": "1.0.0"
     },
     {
       "v": "0.2.1@f25f28c5af56a411939ed364b96733e82102572a",
@@ -74,10 +60,7 @@
         "cligen >= 0.9.41"
       ],
       "h": true,
-      "m": "1.0.0",
-      "x": [],
-      "i": [],
-      "p": []
+      "m": "1.0.0"
     },
     {
       "v": "0.2.0@29bdf75376bf0d6d622c1431d44813c986ad4517",
@@ -85,10 +68,7 @@
         "cligen >= 0.9.41"
       ],
       "h": true,
-      "m": "1.0.0",
-      "x": [],
-      "i": [],
-      "p": []
+      "m": "1.0.0"
     },
     {
       "v": "0.1.0@8e810e8874cc82c86c144930bd4c67e7fc3bc881",
@@ -96,14 +76,11 @@
         "cligen >= 0.9.41"
       ],
       "h": true,
-      "m": "1.0.0",
-      "x": [],
-      "i": [],
-      "p": []
+      "m": "1.0.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:44Z",
+  "generatedAt": "2026-05-26T15:51:34Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

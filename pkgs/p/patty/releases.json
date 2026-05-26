@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "patty",
   "fqn": "patty.andreaferretti.github.com",
+  "current": "31bb61b990b8b3bae1cba2f353fb978448942318",
   "author": "Andrea Ferretti",
   "description": "Algebraic data types and pattern matching",
   "license": "Apache2",
@@ -15,43 +16,35 @@
   "releases": [
     {
       "v": "0.3.5@31bb61b990b8b3bae1cba2f353fb978448942318^",
-      "r": [],
-      "y": []
+      "r": []
     },
     {
       "v": "0.3.4@4bed5b8c05ad9b46ac67d848b64c0d77e4dab190",
-      "r": [],
-      "y": []
+      "r": []
     },
     {
       "v": "0.3.3@1a89606b1873846669d35c70f2770aa797150670",
-      "r": [],
-      "y": []
+      "r": []
     },
     {
       "v": "0.3.2@af77d8f24817633c12e516de152460a2109a4748",
-      "r": [],
-      "y": []
+      "r": []
     },
     {
       "v": "0.3.1@51b6a4a52dd08063be7494da7e65589ec1f8a47f",
-      "r": [],
-      "y": []
+      "r": []
     },
     {
       "v": "0.3.0@0d53df194cd50f7d0a01271d5c97a9fdd751c458",
-      "r": [],
-      "y": []
+      "r": []
     },
     {
       "v": "0.2.1@abfd0224cffff9598d0eb70f4b65cf6c097f41e6",
-      "r": [],
-      "y": []
+      "r": []
     },
     {
       "v": "0.2.0@22db539273ff47b196d926e3873350ec5c7927ab",
-      "r": [],
-      "y": []
+      "r": []
     },
     {
       "v": "0.1.10@782265a20145bafdc2f41ce08dbcd6aa0a14def4",
@@ -123,7 +116,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:00Z",
+  "generatedAt": "2026-05-26T15:51:55Z",
   "allDeps": {
     "packages": [],
     "urls": [],

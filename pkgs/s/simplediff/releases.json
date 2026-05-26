@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "simplediff",
   "fqn": "nim-simplediff.~reesmichael1.git.sr.ht",
+  "current": "e1ba26d407c7daeee0656d4ddb8ed381f685b7f2",
   "author": "Michael Rees",
   "description": "A library for straightforward calculation of string differences",
   "license": "GPL-3.0",
@@ -13,12 +14,11 @@
   "releases": [
     {
       "v": "0.1.0@f4818c49bf8f65c452b1780c319b2f3e2d8173cd",
-      "r": [],
-      "k": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:02Z",
+  "generatedAt": "2026-05-26T15:53:17Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "subnet",
   "fqn": "subnet.jiro4989.github.com",
+  "current": "f22461575de221b8f71c3c5e964c289e2b510a87",
   "author": "jiro4989",
   "description": "subnet prints subnet mask in human readable.",
   "license": "MIT",
@@ -16,22 +17,18 @@
       "v": "1.0.1@f22461575de221b8f71c3c5e964c289e2b510a87^",
       "r": [
         "cligen >= 1.0.0"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "1.0.0@32cf117becedd3ac3dca343049794256c7fa037c",
       "r": [
         "cligen >= 1.0.0"
       ],
-      "m": "1.2.4",
-      "b": "",
-      "p": []
+      "m": "1.2.4"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:23Z",
+  "generatedAt": "2026-05-26T15:53:45Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

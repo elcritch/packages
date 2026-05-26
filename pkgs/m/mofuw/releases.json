@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "mofuw",
   "fqn": "mofuw.2vg.github.com",
+  "current": "33e6c1c066129cd87bbf8e7b9b5818540001f71c",
   "author": "2vg",
   "description": "more faster, ultra performance webserver",
   "license": "MIT",
@@ -14,8 +15,7 @@
   "releases": [
     {
       "v": "0.1.0@55a0e0066c89132692172f31ae849bf2e8f8657e",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.1.1@c52876a490d3774a9ff2e717d38a52e896c385be",
@@ -240,7 +240,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:06Z",
+  "generatedAt": "2026-05-26T15:49:27Z",
   "allDeps": {
     "packages": [],
     "urls": [],

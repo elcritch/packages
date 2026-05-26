@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimppt",
   "fqn": "Nimppt.HUSKI3.github.com",
+  "current": "d2f6b9847e5400dfeb2b5d5883e95c6cef0063f0",
   "author": "Artur Z",
   "description": "A simple and elegant presentation generator",
   "license": "MIT",
@@ -19,8 +20,7 @@
         "nimja >= 0.8.7",
         "jester",
         "cligen"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.1.1@d2f6b9847e5400dfeb2b5d5883e95c6cef0063f0^",
@@ -30,12 +30,21 @@
         "nimja >= 0.8.7",
         "jester",
         "cligen"
-      ],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:08Z",
+  "generatedAt": "2026-05-26T15:50:48Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "main"
+    ],
+    "latest": "main"
+  },
   "allDeps": {
     "packages": [
       "asynctools",

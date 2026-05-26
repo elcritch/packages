@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "marvdown",
   "fqn": "marvdown.openpeeps.github.com",
+  "current": "faa5a123c540b1f00cd0861b25b0f1e408ae6c77",
   "author": "George Lemon",
   "description": "A stupid simple Markdown library",
   "license": "MIT",
@@ -21,14 +22,11 @@
         "kapsis",
         "denim",
         "jsony"
-      ],
-      "b": "",
-      "k": [],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:52Z",
+  "generatedAt": "2026-05-26T15:49:10Z",
   "allDeps": {
     "packages": [
       "ansiparse",

@@ -77,10 +77,27 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:11:59Z",
+  "generatedAt": "2026-05-26T15:44:10Z",
   "allDeps": {
     "packages": [],
     "urls": [],
     "unresolved": []
+  },
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v2.0.1",
+      "v2.1.0",
+      "v2.1.2"
+    ],
+    "tagVersions": {
+      "v2.0.1": "2.0.1",
+      "v2.1.0": "2.1.0",
+      "v2.1.2": "2.1.2"
+    },
+    "latest": "v2.1.2"
   }
 }

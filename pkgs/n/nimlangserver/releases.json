@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimlangserver",
   "fqn": "langserver.nim-lang.github.com",
+  "current": "b8b924112d074ad54179a4f2dbd6ce6f49623ce4",
   "author": "The core Nim team",
   "description": "Nim language server for IDEs",
   "license": "MIT",
@@ -79,9 +80,7 @@
         "serialization",
         "json_serialization",
         "stew"
-      ],
-      "x": [],
-      "p": []
+      ]
     },
     {
       "v": "1.4.0@69e94dd6be48cb2bb4ec814b0b2098cb0c11a03f",
@@ -93,9 +92,7 @@
         "serialization",
         "json_serialization"
       ],
-      "m": "2.0.0",
-      "x": [],
-      "p": []
+      "m": "2.0.0"
     },
     {
       "v": "1.2.0@71b59bfa77dabf6b8b381f6e18a1d963a1a658fc",
@@ -107,9 +104,7 @@
         "serialization",
         "json_serialization"
       ],
-      "m": "1.0.0",
-      "x": [],
-      "p": []
+      "m": "1.0.0"
     },
     {
       "v": "0.1.0@56c35448a6e979ad2b5734b3beb2f316d9a7214f",
@@ -119,13 +114,11 @@
         "with",
         "chronicles"
       ],
-      "m": "1.0.0",
-      "x": [],
-      "p": []
+      "m": "1.0.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:00Z",
+  "generatedAt": "2026-05-26T15:50:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

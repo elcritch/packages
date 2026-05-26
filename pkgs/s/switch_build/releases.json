@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "switch_build",
   "fqn": "switch-build.jyapayne.github.com",
+  "current": "a660561818a7ff4943f6f4fccc52da28fae69f73",
   "author": "Joey Payne",
   "description": "Nintendo Switch library libnx for Nim.",
   "license": "The Unlicense",
@@ -13,12 +14,11 @@
   "releases": [
     {
       "v": "0.1.2@8ab57a101c29c759171e25616ea32feb22f65a06",
-      "r": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:28Z",
+  "generatedAt": "2026-05-26T15:53:52Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "chain",
   "fqn": "chain.khchen.github.com",
+  "current": "09bfc377c8294c9bb3ddd1e14f61746bcd5da739",
   "author": "Ward",
   "description": "Nim's function chaining and method cascading",
   "license": "MIT",
@@ -12,12 +13,11 @@
   "releases": [
     {
       "v": "1.0.0@25029e63d0ec841f6419708b283de76d08ed8ece",
-      "r": [],
-      "x": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:54Z",
+  "generatedAt": "2026-05-26T15:45:18Z",
   "allDeps": {
     "packages": [],
     "urls": [],

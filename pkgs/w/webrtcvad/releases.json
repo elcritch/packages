@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "webrtcvad",
   "fqn": "nim-webrtcvad.eagledot.gitlab.com",
+  "current": "fc4d79f0887e4244ef6f90bd816641fcb9f7a024",
   "author": "Anubhav (eagledot)",
   "description": "webrtcvad (google's opensourced voice activity detection engine) bindings for Nim",
   "license": "MIT",
@@ -13,12 +14,11 @@
   "releases": [
     {
       "v": "0.1.0@3f1913f9c187dd4329b61eb3b518168c1408f141",
-      "r": [],
-      "x": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:20Z",
+  "generatedAt": "2026-05-26T15:55:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

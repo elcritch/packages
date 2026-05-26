@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "sprymicro",
   "fqn": "sprymicro.gokr.github.com",
+  "current": "f4ae830760d0a7fddb79bf80cc595e8239d8b3c4",
   "author": "Göran Krampe",
   "description": "Small demo Spry interpreters",
   "license": "MIT",
@@ -18,20 +19,17 @@
       "r": [
         "spryvm"
       ],
-      "z": [],
-      "p": []
+      "z": []
     },
     {
       "v": "0.0.2@f4ae830760d0a7fddb79bf80cc595e8239d8b3c4^",
       "r": [
         "spryvm"
-      ],
-      "z": [],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:13Z",
+  "generatedAt": "2026-05-26T15:53:32Z",
   "allDeps": {
     "packages": [
       "LimDB",

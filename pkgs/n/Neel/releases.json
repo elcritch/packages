@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "Neel",
   "fqn": "Neel.Niminem.github.com",
+  "current": "0e484079a12be38a9ef60d42872b0ceeed3da25e",
   "author": "Leon Lysak, Blane Lysak",
   "description": "A Nim library for making lightweight Electron-like HTML/JS GUI apps, with full access to Nim capabilities.",
   "license": "MIT",
@@ -61,10 +62,7 @@
         "ws >= 0.4.2"
       ],
       "h": true,
-      "m": "1.2.2",
-      "x": [],
-      "k": [],
-      "p": []
+      "m": "1.2.2"
     },
     {
       "v": "0.3.2@dc59c538d7a52ef2e0c25d6c8de34bc8027067d7",
@@ -189,7 +187,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:11:41Z",
+  "generatedAt": "2026-05-26T15:43:47Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

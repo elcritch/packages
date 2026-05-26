@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "binary_serialization",
   "fqn": "nim-binary-serialization.status-im.github.com",
+  "current": "38a73a70fd43f3835ca01a877353858b19e39d70",
   "author": "Status Research & Development GmbH",
   "description": "Flexible binary serialization not relying on run-time type information",
   "license": "Apache License 2.0",
@@ -15,12 +16,11 @@
       "r": [
         "serialization",
         "stew"
-      ],
-      "x": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:28Z",
+  "generatedAt": "2026-05-26T15:44:47Z",
   "allDeps": {
     "packages": [
       "faststreams",

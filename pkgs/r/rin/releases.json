@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "rin",
   "fqn": "rin.capocasa.github.com",
+  "current": "9e2a18f9650788914cca0b79b72c1dcf0b653593",
   "author": "Carlo",
   "description": "Tiny CLI timer with desktop notification and alarm sound",
   "license": "MIT",
@@ -13,12 +14,11 @@
   "releases": [
     {
       "v": "0.1.0@9e2a18f9650788914cca0b79b72c1dcf0b653593^",
-      "r": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:36Z",
+  "generatedAt": "2026-05-26T15:52:44Z",
   "allDeps": {
     "packages": [],
     "urls": [],

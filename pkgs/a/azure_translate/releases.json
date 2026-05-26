@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "azure_translate",
   "fqn": "azure_translate.williamhatcher.github.com",
+  "current": "0bffe47bdc59fc0ea4af8b1116e08c135aef1f1a",
   "author": "William Hatcher",
   "description": "Nim Library for Azure Cognitive Services Translate",
   "license": "MIT",
@@ -16,7 +17,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:13Z",
+  "generatedAt": "2026-05-26T15:44:29Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "cal",
   "fqn": "cal.ringabout.github.com",
+  "current": "d5a242613274d76cf12cf7cfce97fcd565d94c52",
   "author": "flywind",
   "description": "A simple interactive calculator",
   "license": "MIT",
@@ -15,13 +16,11 @@
   "releases": [
     {
       "v": "0.2.0@17a34a2b995277f87223296950af4e741715239a",
-      "r": [],
-      "k": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:47Z",
+  "generatedAt": "2026-05-26T15:45:12Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

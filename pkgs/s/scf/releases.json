@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "scf",
   "fqn": "scf.capocasa.github.com",
+  "current": "2352fce2cb5df597b27abc4b85e6e7214eaa12fd",
   "author": "pharao",
   "description": "Standalone Nim source code filter (stdtmpl) transformer",
   "license": "MIT",
@@ -16,13 +17,11 @@
   "releases": [
     {
       "v": "0.1.0@2352fce2cb5df597b27abc4b85e6e7214eaa12fd^",
-      "r": [],
-      "k": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:43Z",
+  "generatedAt": "2026-05-26T15:52:53Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "blake2",
   "fqn": "blake2.nim-community.github.com",
+  "current": "accd10c04248b8fab72f0977184721cd2ef3e6b3",
   "author": "tankfeeder",
   "description": "blake2 - cryptographic hash function",
   "license": "CC0",
@@ -11,12 +12,11 @@
   "releases": [
     {
       "v": "0.4@58fca5bc66ec8ecf7a228fb3c9c73a9580596984",
-      "r": [],
-      "z": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:32Z",
+  "generatedAt": "2026-05-26T15:44:53Z",
   "allDeps": {
     "packages": [],
     "urls": [],

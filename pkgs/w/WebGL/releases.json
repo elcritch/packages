@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "WebGL",
   "fqn": "webgl.stisa.github.com",
+  "current": "1196ef8df277dd70cab70972c738108a8e0e8481",
   "author": "stisa",
   "description": "Basic wrapper for WebGL.",
   "license": "MIT",
@@ -14,19 +15,16 @@
   "releases": [
     {
       "v": "0.2.1@18ef9a0ce37824779e6cf2c2c6a9ba72b4c120f5",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.2.0@9103431db30d1d29e2225255351001d5f8635506",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.1.2@76809269a62bf6be3784550d1f98166afa856516",
       "r": [],
-      "m": "0.16.0",
-      "x": []
+      "m": "0.16.0"
     },
     {
       "v": "0.1.0@e1f2f2563749307680dd6d960129022d03471f4e",
@@ -36,7 +34,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:11:47Z",
+  "generatedAt": "2026-05-26T15:43:54Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

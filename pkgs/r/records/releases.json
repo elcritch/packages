@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "records",
   "fqn": "nim-records.rotu.github.com",
+  "current": "eea8cf425084d4e8a2fdc85de8e8e8a67be534ec",
   "author": "Dan Rose",
   "description": "Operations on tuples as heterogeneous record types a la Relational Algebra",
   "license": "MIT",
@@ -11,18 +12,16 @@
   "releases": [
     {
       "v": "0.5.2@2bbbd1b8f61d33e7135d02fe8f2bacbea6ec3ab3",
-      "r": [],
-      "b": ""
+      "r": []
     },
     {
       "v": "0.5.1@399b932040a8fb30fb3a1069ce9e0fe1ededec09",
       "r": [],
-      "m": "1.6.0",
-      "b": ""
+      "m": "1.6.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:31Z",
+  "generatedAt": "2026-05-26T15:52:37Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "shorten",
   "fqn": "shorten.capocasa.github.com",
+  "current": "f3aaf237db09cc4585b6db17361f717662070f32",
   "author": "Carlo Capocasa",
   "description": "Minimal secure URL shortener",
   "license": "MIT",
@@ -18,12 +19,11 @@
         "LimDB",
         "httpbeast #master",
         "libsha"
-      ],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:57Z",
+  "generatedAt": "2026-05-26T15:53:12Z",
   "allDeps": {
     "packages": [
       "LimDB",

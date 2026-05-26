@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "shioridll",
   "fqn": "shioridll-nim.Narazaka.github.com",
+  "current": "9bb220712818ce709d9eeb69c1a9d1cbd77906a6",
   "author": "Narazaka",
   "description": "The SHIORI DLL interface",
   "license": "MIT",
@@ -12,32 +13,27 @@
   "releases": [
     {
       "v": "3.0.1@6ab7dc0ac279cc2b6cb2995c55b612d3ae24b5b0",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "3.0.0@bde72bafccae843feaf5d9b79d0cc437f40d312e",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "2.0.0@3685a50ad2b5013cbd0a53c85c19dbdad15a5641",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.0.1@56db249b939569de524f4783bb4b31f039e7872b",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.0.0@102211d00093ef114942cff72e8b7bc59c3903fc",
-      "r": [],
-      "x": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:57Z",
+  "generatedAt": "2026-05-26T15:53:11Z",
   "allDeps": {
     "packages": [],
     "urls": [],

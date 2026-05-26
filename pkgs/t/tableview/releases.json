@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "tableview",
   "fqn": "tabview.telatin.www.github.com",
+  "current": "9cea249ac8c0f32abd4860441ea426c5acded14c",
   "author": "Andrea Telatin",
   "description": "TUI table viewer library with interactive sort, search, filter and graph",
   "license": "MIT",
@@ -27,10 +28,7 @@
         "illwave",
         "argparse"
       ],
-      "p": [],
-      "b": "",
-      "j": [],
-      "o": {}
+      "p": []
     },
     {
       "v": "0.5.0@6684d39a6046102b67db6ddd53036a1d883ae805",
@@ -39,10 +37,7 @@
         "illwave",
         "argparse"
       ],
-      "p": [],
-      "b": "",
-      "j": [],
-      "o": {}
+      "p": []
     },
     {
       "v": "0.3.7@b48e932106e3c4e4f6619fd6e7d3c2dec94a2803",
@@ -51,10 +46,7 @@
         "illwave",
         "argparse"
       ],
-      "p": [],
-      "b": "",
-      "j": [],
-      "o": {}
+      "p": []
     },
     {
       "v": "0.3.6@3884949b7d7dc5ed0d0c9a8c93eb1afec7977f9a",
@@ -63,10 +55,7 @@
         "illwave",
         "argparse"
       ],
-      "p": [],
-      "b": "",
-      "j": [],
-      "o": {}
+      "p": []
     },
     {
       "v": "0.3.5@aa47fd267c432428f7308c4285cf9ac8742f3dad",
@@ -80,8 +69,7 @@
         "src/tableview_app": "tableview"
       },
       "j": [],
-      "p": [],
-      "b": ""
+      "p": []
     },
     {
       "v": "0.3.3@47cf5757dd1f4d4bc5b16ca70d205aea929308f8",
@@ -95,8 +83,7 @@
         "src/tableview_app": "tableview"
       },
       "j": [],
-      "p": [],
-      "b": ""
+      "p": []
     },
     {
       "v": "0.3.2@a232ccecd08a9579f62d7f32597f49e034c129b1",
@@ -110,8 +97,7 @@
         "src/tableview_app": "tableview"
       },
       "j": [],
-      "p": [],
-      "b": ""
+      "p": []
     },
     {
       "v": "0.3.1@f545c3628526add977749b61884534715ac4e04c",
@@ -121,9 +107,7 @@
         "argparse"
       ],
       "j": [],
-      "p": [],
-      "b": "",
-      "o": {}
+      "p": []
     },
     {
       "v": "0.3.0@cad7afb196bfe724ea62d1ca5c59ef03cafe0ad9",
@@ -133,9 +117,7 @@
         "argparse"
       ],
       "j": [],
-      "p": [],
-      "b": "",
-      "o": {}
+      "p": []
     },
     {
       "v": "0.2.0@900746be99269b058fb8f80e0182dda96ffdd16d",
@@ -146,13 +128,11 @@
       ],
       "d": "TUI application for viewing TSV/CSV files",
       "j": [],
-      "o": {},
-      "b": "",
-      "p": []
+      "o": {}
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:31Z",
+  "generatedAt": "2026-05-26T15:53:55Z",
   "allDeps": {
     "packages": [
       "ansiutils",

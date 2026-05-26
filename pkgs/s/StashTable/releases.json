@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "StashTable",
   "fqn": "StashTable.olliNiinivaara.github.com",
+  "current": "d472ee8611a9ed986c49fed57540d67496ea2f10",
   "author": "Olli Niinivaara",
   "description": "Concurrent hash table",
   "license": "MIT",
@@ -13,8 +14,7 @@
   "releases": [
     {
       "v": "1.2.2@d472ee8611a9ed986c49fed57540d67496ea2f10^",
-      "r": [],
-      "j": []
+      "r": []
     },
     {
       "v": "1.2.1@95b01fd8be306fe3d18c733be331e878e2003fda",
@@ -42,7 +42,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:11:46Z",
+  "generatedAt": "2026-05-26T15:43:54Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

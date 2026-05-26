@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "snail",
   "fqn": "snail.stisa.github.com",
+  "current": "c1c541f84aeeb3b6f0c52f93cc5d9689984d77e7",
   "author": "Stisa",
   "description": "Simple Naive Algebra for Nim",
   "license": "MIT",
@@ -15,12 +16,11 @@
       "v": "0.2.0@f4cbbe211e2309ab5ef184f80745191d1bcfe917",
       "r": [
         "nimblas"
-      ],
-      "x": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:07Z",
+  "generatedAt": "2026-05-26T15:53:23Z",
   "allDeps": {
     "packages": [
       "nimblas"

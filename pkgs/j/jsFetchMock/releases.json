@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "jsFetchMock",
   "fqn": "jsfetchMock.thisago.github.com",
+  "current": "7ce1aab6072b5093b85414a8fe863d218abdc52e",
   "author": "Thiago Navarro",
   "description": "A simple lib to intercept Javascript fetch to capture or edit the data",
   "license": "MIT",
@@ -16,20 +17,15 @@
     {
       "v": "0.1.1@7ce1aab6072b5093b85414a8fe863d218abdc52e^",
       "r": [],
-      "p": [],
-      "b": "",
-      "e": ""
+      "p": []
     },
     {
       "v": "0.1.0@232badd3265b440d783904788b56f4c2fe3cbf08",
-      "r": [],
-      "b": "",
-      "p": [],
-      "e": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:11Z",
+  "generatedAt": "2026-05-26T15:48:17Z",
   "allDeps": {
     "packages": [],
     "urls": [],

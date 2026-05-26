@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "loony",
   "fqn": "loony.shayanhabibi.github.com",
+  "current": "b60da76184b6d83c0227724bb59216403c04fed4",
   "author": "cabboose",
   "description": "Fast mpmc queue with sympathetic memory behavior",
   "license": "MIT",
@@ -91,7 +92,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:42Z",
+  "generatedAt": "2026-05-26T15:49:00Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

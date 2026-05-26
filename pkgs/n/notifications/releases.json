@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "notifications",
   "fqn": "notifications.dom96.github.com",
+  "current": "5c30d45ea7235446647858bc50b2a24f0b5b1cb8",
   "author": "Dominik Picheta",
   "description": "GUI notifications for Mac OS X's Notification Center",
   "license": "MIT",
@@ -12,12 +13,11 @@
   "releases": [
     {
       "v": "0.1.0@265f5d06bfa5013b4acdd0d5b29f6fb4f69fcb8a",
-      "r": [],
-      "x": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:34Z",
+  "generatedAt": "2026-05-26T15:51:21Z",
   "allDeps": {
     "packages": [],
     "urls": [],

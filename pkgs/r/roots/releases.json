@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "roots",
   "fqn": "roots.BarrOff.github.com",
+  "current": "bc7323d16f4c751857968a007b5461e042ca9029",
   "author": "BarrOff",
   "description": "Root finding functions for Nim",
   "license": "MIT",
@@ -60,7 +61,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:38Z",
+  "generatedAt": "2026-05-26T15:52:46Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

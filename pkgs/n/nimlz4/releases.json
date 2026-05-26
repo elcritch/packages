@@ -1,8 +1,8 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimlz4",
   "fqn": "nimlz4.dfdeshom.github.com",
-  "head": "211aac02a0643087fb82a7f1df8294fb0c6fe5e0",
+  "current": "211aac02a0643087fb82a7f1df8294fb0c6fe5e0",
   "author": "Didier Deshommes",
   "description": "Nim wrapper for the LZ4 library",
   "license": "BSD-3",
@@ -10,14 +10,10 @@
     {
       "v": "0.1.0@685c531b4c6b47cf879cca98069f9553080bd519",
       "r": []
-    },
-    {
-      "v": "#head@211aac02a0643087fb82a7f1df8294fb0c6fe5e0",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:01Z",
+  "generatedAt": "2026-05-26T15:50:39Z",
   "allDeps": {
     "packages": [],
     "urls": [],

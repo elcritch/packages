@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "scinim",
   "fqn": "scinim.SciNim.github.com",
+  "current": "c5250b41ee16d268594a4e899967b703d04b1bd8",
   "author": "SciNim",
   "description": "The core types and functions of the SciNim ecosystem",
   "license": "MIT",
@@ -16,8 +17,7 @@
         "arraymancer >= 0.7.3",
         "polynumeric >= 0.2.0",
         "nimpy >= 0.2.0"
-      ],
-      "e": ""
+      ]
     },
     {
       "v": "0.2.4@09632b7476e46a097b1dcdb200511fe7f9d3bbec",
@@ -26,8 +26,7 @@
         "arraymancer >= 0.7.3",
         "polynumeric >= 0.2.0",
         "nimpy >= 0.2.0"
-      ],
-      "e": ""
+      ]
     },
     {
       "v": "0.2.3@a6f937ad7a78708333a93e51a1355035491090d7",
@@ -36,8 +35,7 @@
         "arraymancer >= 0.7.3",
         "polynumeric >= 0.2.0",
         "nimpy >= 0.2.0"
-      ],
-      "e": ""
+      ]
     },
     {
       "v": "0.2.2@f97967cab1a153fd82de5ce790fa2da4fb5d26e4",
@@ -46,8 +44,7 @@
         "arraymancer >= 0.7.3",
         "polynumeric >= 0.2.0",
         "nimpy >= 0.2.0"
-      ],
-      "e": ""
+      ]
     },
     {
       "v": "0.1.0@0817498d5e64ff798896fafa86e4caac5e9daa53",
@@ -60,7 +57,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:44Z",
+  "generatedAt": "2026-05-26T15:52:55Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "gplay",
   "fqn": "gplay.yglukhov.github.com",
+  "current": "b4154578f9a3b12a04fbe8422a2140614340cd78",
   "author": "Yuriy Glukhov",
   "description": "Upload APK to Google Play",
   "license": "MIT",
@@ -16,12 +17,11 @@
         "jwt",
         "cligen",
         "zip"
-      ],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:31Z",
+  "generatedAt": "2026-05-26T15:47:27Z",
   "allDeps": {
     "packages": [
       "bearssl",

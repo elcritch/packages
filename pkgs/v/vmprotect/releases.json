@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "vmprotect",
   "fqn": "vmprotect.nim.ba0f3.github.com",
+  "current": "621ea653d8ddf9eb81f58069e8ff781f06b2b1ed",
   "author": "Huy Doan",
   "description": "Wrapper for VMProtect SDK",
   "license": "MIT",
@@ -18,7 +19,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:11Z",
+  "generatedAt": "2026-05-26T15:54:49Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

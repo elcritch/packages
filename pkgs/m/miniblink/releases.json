@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "miniblink",
   "fqn": "miniblink.lihf8515.github.com",
+  "current": "78bd220395bff34e4edd1eec450b302b257e1603",
   "author": "Lihaifeng <lihaifeng@wxm.com>",
   "description": "miniblinkµÄnim·â×°¿â.",
   "license": "MIT",
@@ -13,12 +14,11 @@
   "releases": [
     {
       "v": "0.1.0@40f8eb54965e7063a43d92b8b7326c9543abb83a",
-      "r": [],
-      "x": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:01Z",
+  "generatedAt": "2026-05-26T15:49:22Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "morepretty",
   "fqn": "morepretty.treeform.github.com",
+  "current": "10e7b2754e5a34f758789e64804d90dad6d2953f",
   "author": "treeform",
   "description": "morepretty - More pretty than nimpretty.",
   "license": "MIT",
@@ -13,12 +14,11 @@
   "releases": [
     {
       "v": "0.1.0@d9b219f04b7a316e5104fcc72ef8537d1b459703",
-      "r": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:08Z",
+  "generatedAt": "2026-05-26T15:49:29Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

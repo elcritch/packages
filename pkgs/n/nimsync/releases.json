@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimsync",
   "fqn": "nimsync.codenimja.github.com",
+  "current": "ee993279967dd06eaee89085724ebac04cd628e9",
   "author": "boonzy",
   "description": "Production-ready async runtime with lock-free SPSC channels (615M ops/sec, 31ns P99)",
   "license": "MIT",
@@ -23,7 +24,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:14Z",
+  "generatedAt": "2026-05-26T15:50:56Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimmonocypher",
   "fqn": "nimmonocypher.genotrance.github.com",
+  "current": "5b49c41709dd8732f1110de4a5ba214b252b73f7",
   "author": "genotrance",
   "description": "monocypher wrapper for Nim",
   "license": "MIT",
@@ -14,20 +15,18 @@
       "r": [
         "nimgen >= 0.4.0"
       ],
-      "h": true,
-      "x": []
+      "h": true
     },
     {
       "v": "0.1.1@931eda1b53c4499c1be9b39ddfea6b3dbb61fd18",
       "r": [
         "nimgen >= 0.4.0"
       ],
-      "h": true,
-      "x": []
+      "h": true
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:02Z",
+  "generatedAt": "2026-05-26T15:50:40Z",
   "allDeps": {
     "packages": [
       "c2nim",

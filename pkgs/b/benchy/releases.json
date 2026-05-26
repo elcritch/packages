@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "benchy",
   "fqn": "benchy.treeform.github.com",
+  "current": "6425417b578dc54008285aad020625b4b4f61f7b",
   "author": "Andre von Houck",
   "description": "Benchmarking",
   "license": "MIT",
@@ -18,7 +19,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:25Z",
+  "generatedAt": "2026-05-26T15:44:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

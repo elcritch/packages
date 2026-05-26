@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "bncurve",
   "fqn": "nim-bncurve.status-im.github.com",
+  "current": "412a11c32b75f45a02e11390bef834e2d4155b4b",
   "author": "Status Research & Development GmbH",
   "description": "Barreto-Naehrig pairing-friendly elliptic curve implementation",
   "license": "Apache License 2.0 or MIT",
@@ -14,19 +15,17 @@
   "releases": [
     {
       "v": "1.0.0@4b8f6db181acb29d09c8d87a273cb3c215ab29dc",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.0.1@7709d551c8247bfd262af30d555a9da3567a66dd",
       "r": [
         "nimcrypto"
-      ],
-      "x": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:35Z",
+  "generatedAt": "2026-05-26T15:44:56Z",
   "allDeps": {
     "packages": [
       "nimcrypto > 1.0.0"

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "ipv4utils",
   "fqn": "ipv4utils.TelegramXPlus.github.com",
+  "current": "dc6883cf43a88d367dd07ca8e061ecf4328eb068",
   "author": "EnteryName",
   "description": "Simple library to work with IPv4 addresses. Made for fun for everyone.",
   "license": "MIT",
@@ -14,7 +15,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:06Z",
+  "generatedAt": "2026-05-26T15:48:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

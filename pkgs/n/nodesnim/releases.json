@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nodesnim",
   "fqn": "nodesnim.Ethosa.github.com",
+  "current": "7abb307658d459159c001cba1b15fc1b61a1ad0d",
   "author": "Ethosa",
   "description": "The Nim GUI/2D framework based on OpenGL and SDL2.",
   "license": "MIT",
@@ -182,8 +183,7 @@
     },
     {
       "v": "0.2.1@f5e5a31f26a767b36f780963fd9bff26dfdea80d",
-      "r": [],
-      "j": []
+      "r": []
     },
     {
       "v": "0.2.1@f7fb795da945f1d026a9ce5ba6ef8191ef30daeb",
@@ -207,7 +207,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:30Z",
+  "generatedAt": "2026-05-26T15:51:17Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -243,7 +243,6 @@
       "nightly-0.4.2a",
       "nightly-0.4.2b",
       "nightly_0.2.1",
-      "stable",
       "stable-0.2.1",
       "stable-0.2.2",
       "stable-0.2.4",
@@ -300,8 +299,7 @@
     "latest": "stable-0.4.2",
     "prerelease": [
       "01.09.21_1.24_0.0.6",
-      "nightly",
-      "stable"
+      "nightly"
     ]
   },
   "allDeps": {

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "supersnappy",
   "fqn": "supersnappy.guzba.github.com",
+  "current": "4fed6553d539cbbfb17ab5fea16a58b4f1916e7d",
   "author": "Ryan Oldenburg",
   "description": "Nim implementation of Google's Snappy compression.",
   "license": "MIT",
@@ -58,7 +59,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:26Z",
+  "generatedAt": "2026-05-26T15:53:49Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

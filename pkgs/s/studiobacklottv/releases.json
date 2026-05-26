@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "studiobacklottv",
   "fqn": "studiobacklottv.thisago.github.com",
+  "current": "d985d244d4013b5cf640361d7bb8f10cff1b3443",
   "author": "Thiago Navarro",
   "description": "Studio Backlot TV video extractor",
   "license": "MIT",
@@ -18,9 +19,7 @@
         "cligen",
         "util",
         "brightcove"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "0.2.0@d985d244d4013b5cf640361d7bb8f10cff1b3443^",
@@ -29,13 +28,11 @@
         "util",
         "brightcove"
       ],
-      "d": "Studio Backlot TV video downloader",
-      "b": "",
-      "p": []
+      "d": "Studio Backlot TV video downloader"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:22Z",
+  "generatedAt": "2026-05-26T15:53:44Z",
   "allDeps": {
     "packages": [
       "brightcove",

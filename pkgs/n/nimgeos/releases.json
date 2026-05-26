@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimgeos",
   "fqn": "nimgeos.JohnMoutafis.github.com",
+  "current": "3947d2a62167a7bedd00e0e5ce77561cb9b0757c",
   "author": "John Moutafis",
   "description": "Nim wrapper for the GEOS geometry engine (libgeos_c)",
   "license": "MIT",
@@ -50,7 +51,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:52Z",
+  "generatedAt": "2026-05-26T15:50:27Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

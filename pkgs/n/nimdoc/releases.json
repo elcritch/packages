@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimdoc",
   "fqn": "nimdoc.WaywardWizard.github.com",
+  "current": "24b88ad8694a274c6ca7e47a3ef35eca0a4bd414",
   "author": "Ben Tomlin",
   "description": "Generate and view local documentation of installed nimble packages",
   "license": "MIT",
@@ -15,26 +16,23 @@
       "v": "1.1.2@24b88ad8694a274c6ca7e47a3ef35eca0a4bd414^",
       "r": [
         "gh:WaywardWizard/nim-argparse >= 4.1.2"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "1.1@2e935475d4a5e4db69ad5dbeba4d214eec32acb8",
       "r": [
         "gh:WaywardWizard/nim-argparse >= 4.1.2"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "1.0@fd74c81bced0c4de27b6acf62db426075d361856",
       "r": [
         "gh:WaywardWizard/nim-argparse >= 4.1.2"
-      ],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:49Z",
+  "generatedAt": "2026-05-26T15:50:22Z",
   "allDeps": {
     "packages": [],
     "urls": [],

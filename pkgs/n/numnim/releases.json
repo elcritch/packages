@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "numnim",
   "fqn": "numnim.YesDrX.github.com",
+  "current": "eb9a5b7a30ce165083c43eb517dcbebd43ee16a7",
   "author": "YesDrX",
   "description": "A numpy like ndarray and dataframe library for nim-lang.",
   "license": "MIT",
@@ -17,12 +18,11 @@
         "nimblas >= 0.2.2",
         "nimlapack >= 0.2.0",
         "nimpy >= 0.1.0"
-      ],
-      "x": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:40Z",
+  "generatedAt": "2026-05-26T15:51:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

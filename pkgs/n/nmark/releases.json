@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nmark",
   "fqn": "nmark.kyoheiu.github.com",
+  "current": "6aae07347e928b817c03940d68d0162ef3964204",
   "author": "kyoheiu",
   "description": "A new awesome nimble package",
   "license": "MIT",
@@ -19,10 +20,7 @@
   "releases": [
     {
       "v": "0.1.0@1044bc8701993b43056e0e2e643d0b30ad5f9a8e",
-      "r": [],
-      "x": [],
-      "k": [],
-      "p": []
+      "r": []
     },
     {
       "v": "0.1.1@8186ff03062f25a6d1041ed33e0a8a63418a2f89",
@@ -31,8 +29,7 @@
       "d": "fast markdown parser",
       "m": "1.4.4",
       "x": [],
-      "k": [],
-      "p": []
+      "k": []
     },
     {
       "v": "0.1.2@7566f800d449f11a1d2f5aa728d4ecfb9a32c228",
@@ -132,7 +129,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:24Z",
+  "generatedAt": "2026-05-26T15:51:10Z",
   "allDeps": {
     "packages": [
       "graphemes > 0.1.7",

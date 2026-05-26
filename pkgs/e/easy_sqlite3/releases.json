@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "easy_sqlite3",
   "fqn": "easy_sqlite3.codehz.github.com",
+  "current": "34ae9e46b135eac13101dcacb55ea05524d70e6f",
   "author": "CodeHz",
   "description": "Yet another SQLite wrapper for Nim",
   "license": "MIT",
@@ -58,7 +59,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:42Z",
+  "generatedAt": "2026-05-26T15:46:21Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

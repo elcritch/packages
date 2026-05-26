@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "edens",
   "fqn": "edens.jiro4989.github.com",
+  "current": "19d8574deb4f95f1321bb0ef8295254d1221554a",
   "author": "jiro4989",
   "description": "A command to encode / decode text with your dictionary",
   "license": "MIT",
@@ -19,14 +20,11 @@
       "v": "1.0.0@19d8574deb4f95f1321bb0ef8295254d1221554a^",
       "r": [
         "cligen >= 0.9.32"
-      ],
-      "b": "",
-      "j": [],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:42Z",
+  "generatedAt": "2026-05-26T15:46:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "remarker_light",
   "fqn": "remarker_light.muxueqz.github.com",
+  "current": "34ca9fcbfa0c5753ccf02b5f7aedca2f9157b233",
   "author": "muxueqz",
   "description": "remarker_light is a command line tool for building a remark-based slideshow page very easily.",
   "license": "GPL-2.0",
@@ -16,8 +17,7 @@
       "r": [
         "jester",
         "docopt"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "1.0.0@6799da7e0716c1960f57e5c6d76a85f383243626",
@@ -28,7 +28,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:33Z",
+  "generatedAt": "2026-05-26T15:52:39Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

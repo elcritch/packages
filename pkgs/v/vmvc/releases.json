@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "vmvc",
   "fqn": "vmvc.kobi2187.github.com",
+  "current": "488c7925a8e24f4db466abccb52a11b74c5b4bb6",
   "author": "Kobi Lurie",
   "description": "a framework for handling complexity by having a \"middle-man\" focal point to handle user interactions - a variant of the mvc/dci concept",
   "license": "MIT",
@@ -30,12 +31,11 @@
         "uuids >= 0.1.10",
         "regex >= 0.10.0"
       ],
-      "d": "a skeleton/structure for a variation on the mvc pattern, similar to dci. For command line and gui programs. it's a middle ground between rapid application development and handling software complexity.",
-      "x": []
+      "d": "a skeleton/structure for a variation on the mvc pattern, similar to dci. For command line and gui programs. it's a middle ground between rapid application development and handling software complexity."
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:11Z",
+  "generatedAt": "2026-05-26T15:54:50Z",
   "allDeps": {
     "packages": [
       "graphemes <= 0.0.2",

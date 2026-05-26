@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "spread",
   "fqn": "spread.metagn.github.com",
+  "current": "4121b744506700f5a34c31493e8df99c7837ed2c",
   "author": "metagn",
   "description": "macro for spreading blocks into call parameters/collections",
   "license": "MIT",
@@ -18,7 +19,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:13Z",
+  "generatedAt": "2026-05-26T15:53:32Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

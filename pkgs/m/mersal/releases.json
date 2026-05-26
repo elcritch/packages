@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "mersal",
   "fqn": "mersal.foxoman.github.com",
+  "current": "4e58599ed2197dabc171ef49e53db8faea14109f",
   "author": "Sultan Al Isaiee",
   "description": "Send SMS and Otp in nim, a wrapper for TextBelt's public API",
   "license": "MIT",
@@ -14,7 +15,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:56Z",
+  "generatedAt": "2026-05-26T15:49:15Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

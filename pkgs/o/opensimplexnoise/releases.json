@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "opensimplexnoise",
   "fqn": "nim-opensimplexnoise.betofloresbaca.github.com",
+  "current": "b663237a1d13b6d53df4a66ae311adfa3831eed1",
   "author": "Luis Alberto Flores Baca",
   "description": "A pure nim port of the open simplex noise algorithm from Kurt Spencer",
   "license": "MIT",
@@ -19,7 +20,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:48Z",
+  "generatedAt": "2026-05-26T15:51:40Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

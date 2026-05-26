@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "mentat",
   "fqn": "nim-mentat.ruivieira.github.com",
+  "current": "759f97c6216845e726429ce2833d162cc17780cf",
   "author": "Rui Vieira",
   "description": "Machine learning library for Nim",
   "license": "Apache2",
@@ -30,7 +31,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:56Z",
+  "generatedAt": "2026-05-26T15:49:15Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

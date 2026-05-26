@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "ants",
   "fqn": "ants.elcritch.github.com",
+  "current": "e36f88e4332354d041103ac8c653a36150805a64",
   "author": "Jaremy Creechley",
   "description": "ANT: statically typed configurations for Nim (and others)",
   "license": "MIT",
@@ -23,9 +24,7 @@
         "msgpack4nim >= 0.4.0",
         "flatty",
         "yaml"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.3.20@d0f7489cc95b2d6b3a512a0353f1fe49dc4c31dd",
@@ -36,9 +35,7 @@
         "msgpack4nim >= 0.4.0",
         "flatty",
         "yaml"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.3.19@d121395ae44d949e16544a0eb67e8c7da087798c",
@@ -50,9 +47,7 @@
         "flatty",
         "yaml"
       ],
-      "m": "1.6.10",
-      "k": [],
-      "p": []
+      "m": "1.6.10"
     },
     {
       "v": "0.3.18@04548e45441c85cd4000dbeee74698e9cbbc148c",
@@ -63,9 +58,7 @@
         "msgpack4nim >= 0.4.0",
         "flatty",
         "yaml"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.3.17@37012087f23ee7601c915a4c5e85d8c680bc9c22",
@@ -75,9 +68,7 @@
         "msgpack4nim >= 0.4.0",
         "flatty",
         "yaml"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.3.16@fe653200b42cada8de23ad5aec672236173ae33d",
@@ -88,9 +79,7 @@
         "yaml"
       ],
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/ants.elcritch.github.com-fe653200-ants.nimble\ninvalid 'requires' syntax in nimble file: https://github.com/elcritch/nimscripter.git#add-compiler-deps >= 1.0.20",
-      "k": [],
-      "p": []
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/ants.elcritch.github.com-fe653200-ants.nimble\ninvalid 'requires' syntax in nimble file: https://github.com/elcritch/nimscripter.git#add-compiler-deps >= 1.0.20"
     },
     {
       "v": "0.3.15@5895a1cdff874742b85ee5fde5603c0a9266bbc0",
@@ -100,9 +89,7 @@
         "msgpack4nim >= 0.4.0",
         "flatty",
         "yaml"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.3.14@8d2585f7f18a583c450c61d2f4ce717459e01e1a",
@@ -112,9 +99,7 @@
         "msgpack4nim >= 0.4.0",
         "flatty",
         "yaml"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.3.13@a3e9e0a5df4eaf999fb13fe7868d673169fbebbe",
@@ -125,9 +110,7 @@
         "flatty",
         "yaml"
       ],
-      "m": "1.6.10",
-      "k": [],
-      "p": []
+      "m": "1.6.10"
     },
     {
       "v": "0.3.12@3b3bdc60865419c430b5cc6d407b0154aba5c3bb",
@@ -138,9 +121,7 @@
         "flatty",
         "yaml"
       ],
-      "m": "1.6.10",
-      "k": [],
-      "p": []
+      "m": "1.6.10"
     },
     {
       "v": "0.3.11@4bcdc75404a9c3e97ddc86c1219f994a0a264b71",
@@ -150,9 +131,7 @@
         "msgpack4nim >= 0.4.0",
         "flatty",
         "yaml"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.3.10@d366f6ef14bdc73311758066bbe1bfa46f71951c",
@@ -162,9 +141,7 @@
         "msgpack4nim >= 0.4.0",
         "flatty",
         "yaml"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.3.9@39b852e833477c3672c04e6522b9c497a3e3ca55",
@@ -174,9 +151,7 @@
         "msgpack4nim >= 0.4.0",
         "flatty",
         "yaml"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.3.8@f864ab2da137d088e446359a83b08160b4eb4b54",
@@ -188,9 +163,7 @@
         "yaml"
       ],
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/ants.elcritch.github.com-f864ab2d-ants.nimble\ninvalid 'requires' syntax in nimble file: nim ~= 1.6.0",
-      "k": [],
-      "p": []
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/ants.elcritch.github.com-f864ab2d-ants.nimble\ninvalid 'requires' syntax in nimble file: nim ~= 1.6.0"
     },
     {
       "v": "0.3.7@329b059f6959995460a3adf96219d62c197bc694",
@@ -200,9 +173,7 @@
         "msgpack4nim >= 0.4.0",
         "flatty",
         "yaml"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.3.6@df0299d5a1f0342d2123c6973d9321b2928922cc",
@@ -212,9 +183,7 @@
         "msgpack4nim >= 0.4.0",
         "flatty",
         "yaml"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.3.5@7f6713502204e6d06650dba2ffa658cbd010f28d",
@@ -224,9 +193,7 @@
         "msgpack4nim >= 0.4.0",
         "flatty",
         "yaml"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.3.4@34789183bce0f17f0a9f57be3f937887384461f9",
@@ -236,9 +203,7 @@
         "msgpack4nim >= 0.4.0",
         "flatty",
         "yaml"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.3.3@5c857d6f85b8707027663c08cad183a0bec51275",
@@ -248,9 +213,7 @@
         "msgpack4nim >= 0.4.0",
         "flatty",
         "yaml"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.3.2@3a90a5be4c2c194326f42e7ead694e93281bcf84",
@@ -260,9 +223,7 @@
         "msgpack4nim >= 0.4.0",
         "flatty",
         "yaml"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.3.1@d85509272e9f44f5eda210f533a1dadb9082e8cf",
@@ -272,9 +233,7 @@
         "msgpack4nim >= 0.4.0",
         "flatty",
         "yaml"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.3.0@cd8ce18a82ecfe2453bc2b4a31eb93221b9a6b74",
@@ -284,9 +243,7 @@
         "msgpack4nim >= 0.4.0",
         "flatty",
         "yaml"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.2.4@f2d6a1da161679e94e60d46f2523e81445ded9b6",
@@ -295,9 +252,7 @@
         "cligen",
         "msgpack4nim >= 0.4.0",
         "flatty"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.2.3@634e8277fc989801b2fe8e3e31492cbbc9468e14",
@@ -306,9 +261,7 @@
         "cligen",
         "msgpack4nim >= 0.4.0",
         "flatty"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.2.2@6b539ac916f1126569d1998080d878b71270e50d",
@@ -317,9 +270,7 @@
         "cligen",
         "msgpack4nim >= 0.4.0",
         "flatty"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.2.1@3bafc63c52f26138aac606130b6a97273087dbe7",
@@ -328,9 +279,7 @@
         "cligen",
         "msgpack4nim >= 0.4.0",
         "flatty"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.1.7@c6cfa557801de80f618327a3c5ea0c97ccf75688",
@@ -339,9 +288,7 @@
         "cligen",
         "msgpack4nim >= 0.4.0",
         "flatty"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.1.6@43e2325f7ba36e3fc596f8944d55ef3bf49bbce9",
@@ -350,9 +297,7 @@
         "cligen",
         "msgpack4nim >= 0.4.0",
         "flatty"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.1.4@256f2bfdd787058672a1214c21eca63941afaea3",
@@ -361,9 +306,7 @@
         "cligen",
         "msgpack4nim >= 0.4.0",
         "flatty"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.1.3@10179234cf39862b45e57dcde6e27e63c6508af1",
@@ -372,9 +315,7 @@
         "cligen",
         "msgpack4nim >= 0.4.0",
         "flatty"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.1.2@96b3351c4f8d739c2278adfc7e0d4f5361cfaca9",
@@ -383,9 +324,7 @@
         "cligen",
         "msgpack4nim",
         "flatty"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.1.1@e99069cce24dab418a9bd60ef978d9aca9d43688",
@@ -394,13 +333,11 @@
         "cligen",
         "msgpack4nim",
         "flatty"
-      ],
-      "k": [],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:11:56Z",
+  "generatedAt": "2026-05-26T15:44:06Z",
   "allDeps": {
     "packages": [
       "Nimscripter",

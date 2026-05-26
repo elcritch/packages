@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimterlingua",
   "fqn": "nim-internimgua.juancarlospaco.github.com",
+  "current": "0f40b48bbf4e2e2a92ce89e0d2330d14d2c751bd",
   "author": "Juan Carlos",
   "description": "Internationalization at Compile Time for Nim. Macro to translate unmodified code from 1 INI file. NimScript compatible.",
   "license": "MIT",
@@ -13,12 +14,11 @@
   "releases": [
     {
       "v": "0.1.0@a7ae3b3bd5f2b9c36dbdc777e3faeee890c134d1",
-      "r": [],
-      "x": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:14Z",
+  "generatedAt": "2026-05-26T15:50:56Z",
   "allDeps": {
     "packages": [],
     "urls": [],

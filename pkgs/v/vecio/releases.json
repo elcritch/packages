@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "vecio",
   "fqn": "vecio.nim.emekoi.github.com",
+  "current": "d514450b3329f94aabfb7af48066292685deb825",
   "author": "emekoi",
   "description": "vectored io for nim",
   "license": "MIT",
@@ -13,12 +14,11 @@
   "releases": [
     {
       "v": "0.1.0@8a5251e21bc384453554c4ea670a1e29e5c1ac60",
-      "r": [],
-      "x": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:08Z",
+  "generatedAt": "2026-05-26T15:54:46Z",
   "allDeps": {
     "packages": [],
     "urls": [],

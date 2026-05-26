@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "suber",
   "fqn": "Suber.olliNiinivaara.github.com",
+  "current": "52da55cda38d4ddc5417f8ebd124c95b3589fdcf",
   "author": "Olli",
   "description": "Pub/Sub engine",
   "license": "MIT",
@@ -35,7 +36,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:22Z",
+  "generatedAt": "2026-05-26T15:53:45Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

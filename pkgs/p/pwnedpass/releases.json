@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "pwnedpass",
   "fqn": "pwnedpass.foxoman.github.com",
+  "current": "7213b53ba5a4a04ba70d57ce555bf9b1a93cca45",
   "author": "Sultan AlIsaee",
   "description": "A client and api for the Pwned passwords API.",
   "license": "MIT",
@@ -23,9 +24,7 @@
         "puppy",
         "termui"
       ],
-      "z": [],
-      "k": [],
-      "p": []
+      "z": []
     },
     {
       "v": "2.0.4@87f568aaf2014320c11ceade36ef996bde99eb06",
@@ -33,9 +32,7 @@
         "puppy",
         "termui"
       ],
-      "z": [],
-      "k": [],
-      "p": []
+      "z": []
     },
     {
       "v": "2.0.3@f6a6ac8dd6f5e58056aa1d34014378070d58ad1c",
@@ -43,9 +40,7 @@
         "puppy",
         "termui"
       ],
-      "z": [],
-      "k": [],
-      "p": []
+      "z": []
     },
     {
       "v": "2.0.2@e2d87398309a91e36c29997d0c9017e638d9d5ab",
@@ -53,9 +48,7 @@
         "puppy",
         "termui"
       ],
-      "z": [],
-      "k": [],
-      "p": []
+      "z": []
     },
     {
       "v": "2.0.1@3e023f83e73ce2302838a1d66cb766c4ef5d9870",
@@ -63,9 +56,7 @@
         "puppy",
         "termui"
       ],
-      "z": [],
-      "k": [],
-      "p": []
+      "z": []
     },
     {
       "v": "2.0.0@0d73a8169d84b7d2c980b3ffd87a54249cf063b1",
@@ -74,9 +65,7 @@
         "termui"
       ],
       "d": "A client for the Pwned passwords API.",
-      "z": [],
-      "k": [],
-      "p": []
+      "z": []
     },
     {
       "v": "1.0.0@42d3c2c4c0538f0973b8536b148e80435446b6cf",
@@ -87,8 +76,7 @@
         "pwned"
       ],
       "m": "0.17.3",
-      "k": [],
-      "z": []
+      "k": []
     },
     {
       "v": "0.1.0@9b84731c59272193f187b84b824f78dcf944468d",
@@ -104,7 +92,30 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:22Z",
+  "generatedAt": "2026-05-26T15:52:24Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v2.0.0",
+      "v2.0.1",
+      "v2.0.2",
+      "v2.0.3",
+      "v2.0.4",
+      "v2.0.5"
+    ],
+    "tagVersions": {
+      "v2.0.0": "2.0.0",
+      "v2.0.1": "2.0.1",
+      "v2.0.2": "2.0.2",
+      "v2.0.3": "2.0.3",
+      "v2.0.4": "2.0.4",
+      "v2.0.5": "2.0.5"
+    },
+    "latest": "v2.0.5"
+  },
   "allDeps": {
     "packages": [
       "classes > 1.0.0",

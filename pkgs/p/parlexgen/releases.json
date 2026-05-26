@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "parlexgen",
   "fqn": "parlexgen.choltreppe.github.com",
+  "current": "3a77496ef112974e2b840d4ca18c05eb7538f561",
   "author": "Joel Lienhard",
   "description": "parser/lexer generator (LALR)",
   "license": "MIT",
@@ -20,18 +21,14 @@
       "r": [
         "fusion >= 1.1",
         "unibs >= 0.2.0"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.2.3@f9c6ee316c06c9fbadb15831cf61756c73cd1129",
       "r": [
         "fusion >= 1.1",
         "unibs >= 0.2.0"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.2.2@991a91538dbd4b8f0423c245bd9e1e0add45ca2e",
@@ -132,7 +129,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:58Z",
+  "generatedAt": "2026-05-26T15:51:52Z",
   "allDeps": {
     "packages": [
       "fusion",

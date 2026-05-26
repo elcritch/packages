@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "tide",
   "fqn": "tide.arungeorgesaji.github.com",
+  "current": "ed38b903ac261e4fa6f7a71db0d5490b9a75e165",
   "author": "Arun George Saji",
   "description": "Modular terminal editor framework",
   "license": "MIT",
@@ -15,12 +16,11 @@
       "r": [
         "illwill",
         "regex"
-      ],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:41Z",
+  "generatedAt": "2026-05-26T15:54:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

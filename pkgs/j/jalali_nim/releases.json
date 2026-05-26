@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "jalali_nim",
   "fqn": "jalili-nim.hamidb80.github.com",
+  "current": "2f168bb4cfe4a3ca8db3d1a8884a60f9273de358",
   "author": "hamidb80",
   "description": "Jalali <=> Gregorian date converter, originally a copy of http://jdf.scr.ir/",
   "license": "MIT",
@@ -14,7 +15,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:08Z",
+  "generatedAt": "2026-05-26T15:48:13Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "gatabase",
   "fqn": "nim-gatabase.juancarlospaco.github.com",
+  "current": "3aaba860e3090504c77faa419e14c239dfd46045",
   "author": "juancarlospaco",
   "description": "Gatabase",
   "license": "MIT",
@@ -47,20 +48,18 @@
       "r": [],
       "a": "Juan Carlos",
       "d": "Compile-Time ORM for Nim",
-      "m": "1.2.0",
-      "x": []
+      "m": "1.2.0"
     },
     {
       "v": "0.9.9@bb3dd939356bfed14dd62492b7c9f20aea977f0c",
       "r": [],
       "a": "Juan Carlos",
       "d": "Compile-Time ORM for Nim",
-      "m": "1.2.4",
-      "x": []
+      "m": "1.2.4"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:16Z",
+  "generatedAt": "2026-05-26T15:47:06Z",
   "allDeps": {
     "packages": [],
     "urls": [],

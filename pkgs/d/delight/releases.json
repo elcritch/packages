@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "delight",
   "fqn": "delight.liquid600pgm.github.com",
+  "current": "ff314c3fa33085e282c347bf8ded2346f538e843",
   "author": "liquid600pgm",
   "description": "Engine-agnostic library for computing 2D raycasted lights",
   "license": "MIT",
@@ -16,7 +17,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:29Z",
+  "generatedAt": "2026-05-26T15:46:03Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

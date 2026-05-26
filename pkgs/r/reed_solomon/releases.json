@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "reed_solomon",
   "fqn": "Reed-Solomon.lscrd.github.com",
+  "current": "ee3548a988bf6975e4ec5d26bbcc76b6064943c5",
   "author": "Luc Secouard",
   "description": "Library to encode and decode data using Reed-Solomon correction codes.",
   "license": "MIT",
@@ -14,7 +15,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:33Z",
+  "generatedAt": "2026-05-26T15:52:39Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

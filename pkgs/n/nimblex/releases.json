@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimblex",
   "fqn": "nimblex.jjv360.github.com",
+  "current": "9c53618bfaa2fd3c36b483383a6f610e6392cc3a",
   "author": "jjv360",
   "description": "Run command line tools directly from the Nimble Directory",
   "license": "MIT",
@@ -13,12 +14,11 @@
   "releases": [
     {
       "v": "0.1.0@9c53618bfaa2fd3c36b483383a6f610e6392cc3a^",
-      "r": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:43Z",
+  "generatedAt": "2026-05-26T15:50:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

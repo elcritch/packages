@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "googleapi",
   "fqn": "googleapi.treeform.github.com",
+  "current": "4f23aba8546365dada9f9f53a3c43efa4f449013",
   "author": "Andre von Houck",
   "description": "GoogleAPI - Growing collection of google APIs for nim.",
   "license": "MIT",
@@ -49,7 +50,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:31Z",
+  "generatedAt": "2026-05-26T15:47:25Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

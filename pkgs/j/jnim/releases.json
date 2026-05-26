@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "jnim",
   "fqn": "jnim.yglukhov.github.com",
+  "current": "39a8f95c4a58b0af5201ed10f6e555647ff1c92a",
   "author": "Anatoly Galiulin, Yuriy Glukhov",
   "description": "Java bridge for Nim",
   "license": "MIT",
@@ -95,14 +96,6 @@
       "m": "0.13.1"
     },
     {
-      "v": "0.2.6@d4fd21eb078a6f0782d4f3aa857be4c056b8fe93",
-      "r": [
-        "nimfp >= 0.1.0"
-      ],
-      "a": "Anatoly Galiulin",
-      "m": "0.13.1"
-    },
-    {
       "v": "0.2.5@44ec29f7976e3077c0822c90651510117e535efb",
       "r": [
         "nimfp >= 0.1.0"
@@ -160,7 +153,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:10Z",
+  "generatedAt": "2026-05-26T15:48:16Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "wave",
   "fqn": "wave.jiro4989.github.com",
+  "current": "d07397a7c6cba35525a9e88afb9f7a90e6cad78c",
   "author": "jiro4989",
   "description": "wave is a tiny WAV sound module",
   "license": "MIT",
@@ -18,7 +19,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:15Z",
+  "generatedAt": "2026-05-26T15:54:55Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

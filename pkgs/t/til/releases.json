@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "til",
   "fqn": "til-tool.danielecook.github.com",
+  "current": "13a6c862bdd5a2686039a8314f950862f2ccc40e",
   "author": "Daniel E. Cook",
   "description": "til: Today I Learned tool",
   "license": "MIT",
@@ -14,28 +15,25 @@
       "r": [
         "colorize",
         "argparse"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.0.2@9b47749252afdbe94a408130af453249d3764f84",
       "r": [
         "colorize",
         "argparse"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.0.1@78b24aa0b5aba82df5da778b08b3cbb916d51547",
       "r": [
         "colorize",
         "argparse"
-      ],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:42Z",
+  "generatedAt": "2026-05-26T15:54:12Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "memonitor",
   "fqn": "memonitor.quadram-institute-bioscience.github.com",
+  "current": "da4877f68a577ccd968e87c98e78881d6732adab",
   "author": "Andrea Telatin",
   "description": "Cross-platform memory monitoring utilities for Nim programs",
   "license": "MIT",
@@ -17,13 +18,11 @@
   "releases": [
     {
       "v": "0.1.0@7e0dc90fbe6af9f30ec2ff2205adc7d166402aa9",
-      "r": [],
-      "x": [],
-      "k": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:56Z",
+  "generatedAt": "2026-05-26T15:49:15Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "hastyscribe",
   "fqn": "hastyscribe.h3rald.github.com",
+  "current": "443e079d720576559deb10e2c26b52a58988e268",
   "author": "Fabio Cevasco",
   "description": "Self-contained markdown compiler generating self-contained HTML documents",
   "license": "MIT",
@@ -27,25 +28,19 @@
       "r": [
         "nimquery >= 2.0.1",
         "htmlparser >= 0.1.0"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "2.1.0@6add7758156ec697df0993195ed825622f1b3295",
       "r": [
         "nimquery >= 2.0.1"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "2.0.0@4e40a8edb07f9e09e9be3763d84d3674e81bbfa8",
       "r": [
         "nimquery >= 2.0.1"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "1.12.5@c813a6369785dec4735d40739f9b408e42d874b1",
@@ -63,8 +58,7 @@
         "h",
         "in"
       ],
-      "m": "1.4.0",
-      "p": []
+      "m": "1.4.0"
     },
     {
       "v": "1.12.4@2d4f9d5b1f698eca58a20bbff833af2cb0d8418d",
@@ -82,8 +76,7 @@
         "h",
         "in"
       ],
-      "m": "1.4.0",
-      "p": []
+      "m": "1.4.0"
     },
     {
       "v": "1.12.3@9650e8c032ce343ce6089384efbcd865277841e4",
@@ -101,8 +94,7 @@
         "h",
         "in"
       ],
-      "m": "1.4.0",
-      "p": []
+      "m": "1.4.0"
     },
     {
       "v": "1.12.2@669a56eb5d1018a4e3c224312e6676e6dc249439",
@@ -120,8 +112,7 @@
         "h",
         "in"
       ],
-      "m": "1.4.0",
-      "p": []
+      "m": "1.4.0"
     },
     {
       "v": "1.12.1@892c1bfdf5131a624e93ea847a05a1e8d67e52e8",
@@ -139,8 +130,7 @@
         "h",
         "in"
       ],
-      "m": "0.19.0",
-      "p": []
+      "m": "0.19.0"
     },
     {
       "v": "1.12.0@0f51354bd244e6da2642176173098df34ae59df1",
@@ -158,8 +148,7 @@
         "h",
         "in"
       ],
-      "m": "0.19.0",
-      "p": []
+      "m": "0.19.0"
     },
     {
       "v": "1.11.0@39cd9408fdcbfc8590b98ed4e1607b2a8b18cd2f",
@@ -331,7 +320,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:40Z",
+  "generatedAt": "2026-05-26T15:47:39Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

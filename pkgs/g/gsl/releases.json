@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "gsl",
   "fqn": "gsl-nim.YesDrX.github.com",
+  "current": "661f675d0dfdae94bb3803978b43abe43931f223",
   "author": "YesDrX",
   "description": "GNU Scientific Library for nim",
   "license": "MIT",
@@ -14,8 +15,7 @@
   "releases": [
     {
       "v": "0.1.0@b0ddcb8be59f701461486f726d4c3b0b0df2370f",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.1.1@1b33fda0670fa6175c172a46840e19ca59532094",
@@ -29,7 +29,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:34Z",
+  "generatedAt": "2026-05-26T15:47:30Z",
   "allDeps": {
     "packages": [],
     "urls": [],

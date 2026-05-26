@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "asyncio",
   "fqn": "asyncio.Alogani.github.com",
+  "current": "ae7cacca2aa0d268510f4e16d621ad186f565f18",
   "author": "alogani",
   "description": "Async files and streams tools",
   "license": "MIT",
@@ -82,7 +83,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:06Z",
+  "generatedAt": "2026-05-26T15:44:20Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

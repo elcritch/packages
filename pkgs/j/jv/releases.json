@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "jv",
   "fqn": "jv.meenbeese.github.com",
+  "current": "4a3740b3f4d0ae04f5c7d812c007867a05bf68f6",
   "author": "Kuzey Bilgin",
   "description": "Java version manager and build tool",
   "license": "MIT",
@@ -13,12 +14,11 @@
   "releases": [
     {
       "v": "0.1.0@129b0f71e65602c5d8427292190b756663c73d07",
-      "r": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:14Z",
+  "generatedAt": "2026-05-26T15:48:21Z",
   "allDeps": {
     "packages": [],
     "urls": [],

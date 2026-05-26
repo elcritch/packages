@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "pcsc",
   "fqn": "pcsc-nim.mmlado.github.com",
+  "current": "5a9156c4e9f76a98b90808e726d4c0c0a8bf6d36",
   "author": "mmlado",
   "description": "Thin + ergonomic Nim bindings for PC/SC (winscard / pcsc‑lite) ",
   "license": "MIT",
@@ -17,19 +18,15 @@
   "releases": [
     {
       "v": "0.1.1@5a9156c4e9f76a98b90808e726d4c0c0a8bf6d36^",
-      "r": [],
-      "x": [],
-      "i": []
+      "r": []
     },
     {
       "v": "0.1.0@9dcb2e22e3bd97b3f3d6196ad200db6b9b0c298c",
-      "r": [],
-      "x": [],
-      "i": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:01Z",
+  "generatedAt": "2026-05-26T15:51:56Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

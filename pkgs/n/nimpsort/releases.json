@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimpsort",
   "fqn": "nimpsort.cycneuramus.github.com",
+  "current": "ccb659760648613bb8047d257f6986aef686da3b",
   "author": "cycneuramus",
   "description": "Sort imports in Nim source files",
   "license": "GPL-3.0-only",
@@ -13,17 +14,30 @@
   "releases": [
     {
       "v": "0.1.1@5d4834323099ec3678c053702a48a51da5ffd6e8",
-      "r": [],
-      "p": []
+      "r": []
     },
     {
       "v": "0.1.0@bb02dee8071785b5bf5e1699013adbf9d3a975a0",
-      "r": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:08Z",
+  "generatedAt": "2026-05-26T15:50:49Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.0",
+      "v0.1.1"
+    ],
+    "tagVersions": {
+      "v0.1.0": "0.1.0",
+      "v0.1.1": "0.1.1"
+    },
+    "latest": "v0.1.1"
+  },
   "allDeps": {
     "packages": [],
     "urls": [],

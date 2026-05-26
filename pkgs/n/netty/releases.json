@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "netty",
   "fqn": "netty.treeform.github.com",
+  "current": "d237fb234ad9de618224abf16249e4e7b349ac0c",
   "author": "treeform",
   "description": "Netty is a reliable UDP connection for games in Nim.",
   "license": "MIT",
@@ -27,7 +28,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:24Z",
+  "generatedAt": "2026-05-26T15:49:50Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

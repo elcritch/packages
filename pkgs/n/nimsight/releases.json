@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimsight",
   "fqn": "nimsight.ire4ever1190.github.com",
+  "current": "7519a5850639e24c35d0bd05f7069dd9f83fb712",
   "author": "Jake Leahy",
   "description": "Yet another LSP for Nim",
   "license": "MIT",
@@ -18,20 +19,29 @@
         "threading #c5a39a0",
         "minilru #c353041",
         "gh:ire4ever1190/jaysonrpc #0f1f4fc"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.1.0@2fde22977fde87d398dd9553235c88721d95004a",
       "r": [
         "threading #c69e13a",
         "minilru #c353041"
-      ],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:12Z",
+  "generatedAt": "2026-05-26T15:50:53Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.1.0",
+      "0.2.0"
+    ],
+    "latest": "0.2.0"
+  },
   "allDeps": {
     "packages": [
       "anano > 0.1.0",

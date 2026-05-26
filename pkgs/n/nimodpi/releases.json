@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimodpi",
   "fqn": "nimodpi.mikra01.github.com",
+  "current": "0a2599b2d44a015297358e446937d9edd15f6787",
   "author": "Michael Krauter",
   "description": " oracle odpi-c wrapper ",
   "license": "MIT",
@@ -14,12 +15,11 @@
       "v": "0.1.0@1c5d8874a0333e8784e4e0b1c5a81737fb25378f",
       "r": [
         "nimterop >= 0.1.0"
-      ],
-      "x": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:04Z",
+  "generatedAt": "2026-05-26T15:50:43Z",
   "allDeps": {
     "packages": [
       "cligen",

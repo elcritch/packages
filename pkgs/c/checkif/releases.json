@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "checkif",
   "fqn": "checkif.thisago.github.com",
+  "current": "c534e6428dc3fb72dc22f003c86de6f4d2792bef",
   "author": "Thiago Navarro",
   "description": "A CLI tool to check files (and registry in Windows)",
   "license": "MIT",
@@ -17,29 +18,23 @@
       "r": [
         "cligen",
         "util"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "1.1.0@303dc33c9e125072e503c7a47e71217a83378c7b",
       "r": [
         "cligen"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "1.0.0@47f9a5be2eeed1156f9584454f10eccb89f3dce9",
       "r": [
         "cligen"
-      ],
-      "b": "",
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:57Z",
+  "generatedAt": "2026-05-26T15:45:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

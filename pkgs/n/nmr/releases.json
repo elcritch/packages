@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nmr",
   "fqn": "nmr.HapticX.github.com",
+  "current": "716392e1e7944b21a28333c1e7c9c9200f656843",
   "author": "HapticX",
   "description": "A super-fast Nim package manager with automatic dependency graph and parallel installation.",
   "license": "MIT",
@@ -19,13 +20,11 @@
       "r": [
         "cligen >= 1.8.4",
         "QRgen >= 3.1.0"
-      ],
-      "k": [],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:25Z",
+  "generatedAt": "2026-05-26T15:51:11Z",
   "allDeps": {
     "packages": [
       "QRgen",

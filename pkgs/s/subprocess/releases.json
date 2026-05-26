@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "subprocess",
   "fqn": "nim-subprocess.YesDrX.github.com",
+  "current": "4a8d79c61ce5d4474f08ecae8cccbc25d638316b",
   "author": "YesDrX",
   "description": "A subprocess module",
   "license": "MIT",
@@ -30,7 +31,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:23Z",
+  "generatedAt": "2026-05-26T15:53:45Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

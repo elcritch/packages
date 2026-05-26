@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "Nimduvo",
   "fqn": "Nimduvo.sednoids.github.com",
+  "current": "8176ae4441b702b1ac1909e2c16c780045ae4a9f",
   "author": "sednoids",
   "description": "A Nim wrapper for the Luduvo API.",
   "license": "MIT",
@@ -18,7 +19,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:11:43Z",
+  "generatedAt": "2026-05-26T15:43:49Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

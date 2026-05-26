@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "latinize",
   "fqn": "Latinize.AmanoTeam.github.com",
+  "current": "473843019098dec2a5825700bd98abda8e57aa1f",
   "author": "SnwMds",
   "description": "Simple Nim library to convert accents (diacritics) from strings to latin characters.",
   "license": "LGPL-3.0",
@@ -16,13 +17,11 @@
   "releases": [
     {
       "v": "0.1@473843019098dec2a5825700bd98abda8e57aa1f^",
-      "r": [],
-      "k": [],
-      "o": {}
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:22Z",
+  "generatedAt": "2026-05-26T15:48:32Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

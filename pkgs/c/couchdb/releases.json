@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "couchdb",
   "fqn": "nim-couchdb.theAkito.github.com",
+  "current": "f89ca16c6c8f3661c082659efc2f5402f20c5c40",
   "author": "Akito <the@akito.ooo>",
   "description": "Easily and comfortably access your CouchDB.",
   "license": "GPL-3.0-or-later",
@@ -15,13 +16,11 @@
   "releases": [
     {
       "v": "0.1.0@2c913c18a9e005c290dfbe95cbe86caa541fbecb",
-      "r": [],
-      "x": [],
-      "y": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:14Z",
+  "generatedAt": "2026-05-26T15:45:45Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "zlib",
   "fqn": "nim-zlib.status-im.github.com",
+  "current": "c9e64574438e69f3dd9b64da048f9fffc89e2809",
   "author": "Status Research & Development GmbH",
   "description": "zlib wrapper in nim",
   "license": "Apache License 2.0",
@@ -14,8 +15,7 @@
       "v": "0.1.0@6bbc67d09e624d69052d62b2353878f491186942",
       "r": [
         "stew >= 0.1.0"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "0.2.0@190246aa0bb6569781370964fa2faa474203d6dd",
@@ -23,12 +23,11 @@
         "stew >= 0.1.0",
         "results >= 0.5.1"
       ],
-      "m": "1.6.0",
-      "x": []
+      "m": "1.6.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:49Z",
+  "generatedAt": "2026-05-26T15:55:39Z",
   "allDeps": {
     "packages": [
       "results",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimphea",
   "fqn": "Nimphea.Brokezawa.github.com",
+  "current": "c1984dead29a3c9e0be1eede4ca41e7b0e3a28d0",
   "author": "Brokezawa",
   "description": "Nimphea - Elegant Nim bindings for libDaisy Hardware Abstraction Library (Daisy Audio Platform: Seed, Patch, Pod, Field, Petal, Versio)",
   "license": "MIT",
@@ -22,8 +23,7 @@
     {
       "v": "1.1.0@c1984dead29a3c9e0be1eede4ca41e7b0e3a28d0^",
       "r": [],
-      "h": true,
-      "x": []
+      "h": true
     },
     {
       "v": "1.0.0@dd095b793284db919b6396590a07c0903c791108",
@@ -47,7 +47,22 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:07Z",
+  "generatedAt": "2026-05-26T15:50:46Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v1.0.0",
+      "v1.1.0"
+    ],
+    "tagVersions": {
+      "v1.0.0": "1.0.0",
+      "v1.1.0": "1.1.0"
+    },
+    "latest": "v1.1.0"
+  },
   "allDeps": {
     "packages": [
       "unittest2 <= 1.0.0"

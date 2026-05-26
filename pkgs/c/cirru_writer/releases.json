@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "cirru_writer",
   "fqn": "writer.nim.Cirru.github.com",
+  "current": "d603e225f9436084abe955863591da3071245415",
   "author": "jiyinyiyong",
   "description": "Cirru writer in Nim",
   "license": "MIT",
@@ -41,7 +42,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:01Z",
+  "generatedAt": "2026-05-26T15:45:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

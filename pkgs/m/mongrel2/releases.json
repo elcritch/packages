@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "mongrel2",
   "fqn": "nim-mongrel2.mahlonsmith.github.com",
+  "current": "8ffc30acceb67888d5724a633239a192dba1c034",
   "author": "Mahlon E. Smith <mahlon@martini.nu>",
   "description": "Simplistic handler framework for the Mongrel2 webserver.",
   "license": "MIT",
@@ -21,8 +22,7 @@
       "r": [
         "tnetstring >= 0.1.1",
         "zmq >= 0.2.1"
-      ],
-      "k": []
+      ]
     },
     {
       "v": "0.1.2@8ffc30acceb67888d5724a633239a192dba1c034^",
@@ -37,7 +37,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:06Z",
+  "generatedAt": "2026-05-26T15:49:28Z",
   "allDeps": {
     "packages": [
       "tnetstring > 0.1.0",

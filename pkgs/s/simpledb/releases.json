@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "simpledb",
   "fqn": "nim-simpledb.jjv360.github.com",
+  "current": "a773af65ac5901c94a78da5b93495a61e46f7a11",
   "author": "jjv360",
   "description": "A simple NoSQL JSON document database",
   "license": "MIT",
@@ -32,7 +33,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:01Z",
+  "generatedAt": "2026-05-26T15:53:16Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

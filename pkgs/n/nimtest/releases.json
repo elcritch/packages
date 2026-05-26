@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimtest",
   "fqn": "nimtest.avahe-kellenberger.github.com",
+  "current": "17bd3a0f794106428b8592c69832bf48c97b23e2",
   "author": "Avahe Kellenberger",
   "description": "Simple testing framework for Nim",
   "license": "GPL-2.0-only",
@@ -16,19 +17,15 @@
   "releases": [
     {
       "v": "0.1.2@17bd3a0f794106428b8592c69832bf48c97b23e2^",
-      "r": [],
-      "k": [],
-      "p": []
+      "r": []
     },
     {
       "v": "0.1.1@df1cf56ea85cf747a885034bb0f8e9eb97bf3185",
-      "r": [],
-      "k": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:15Z",
+  "generatedAt": "2026-05-26T15:50:57Z",
   "allDeps": {
     "packages": [],
     "urls": [],

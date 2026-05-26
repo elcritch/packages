@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "td",
   "fqn": "td.capocasa.github.com",
+  "current": "f94a3b61759105bffae1d30594fd549a9b35b47e",
   "author": "Carlo Capocasa",
   "description": "Task manager for ICS/vdirsyncer",
   "license": "MIT",
@@ -13,12 +14,11 @@
   "releases": [
     {
       "v": "0.1.0@0a6b31f2bdf9985298df40bdfef896318c99093f",
-      "r": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:34Z",
+  "generatedAt": "2026-05-26T15:54:00Z",
   "allDeps": {
     "packages": [],
     "urls": [],

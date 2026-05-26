@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "vimeo",
   "fqn": "vimeo.thisago.github.com",
+  "current": "dab3c6f462de6da1bdc03a28ff4dabf231939fd1",
   "author": "Thiago Navarro",
   "description": "Vimeo extractor",
   "license": "MIT",
@@ -21,33 +22,25 @@
         "cligen",
         "util"
       ],
-      "k": [],
-      "b": "",
-      "p": []
+      "k": []
     },
     {
       "v": "0.2.0@9aa69c6077147d614e532edcaf1f399a5e5d68bd",
       "r": [
         "cligen",
         "util"
-      ],
-      "b": "",
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.3.0@dab3c6f462de6da1bdc03a28ff4dabf231939fd1^",
       "r": [
         "cligen",
         "util"
-      ],
-      "b": "",
-      "k": [],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:09Z",
+  "generatedAt": "2026-05-26T15:54:47Z",
   "allDeps": {
     "packages": [
       "cligen",

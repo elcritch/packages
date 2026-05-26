@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "trayx",
   "fqn": "T-RayX.teob97.github.com",
+  "current": "39bea5ee47b796ee385a48eb4b623560c7efce17",
   "author": "Baratto M. ; Gatti E.",
   "description": "Ray tracing",
   "license": "GPL3",
@@ -16,24 +17,21 @@
       "r": [
         "simplepng",
         "docopt"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "1.0.0@f34d90f35a1985f2fa60d260b79f96fa61ed0776",
       "r": [
         "simplepng",
         "docopt"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.2.0@29cacf1c5bb852e55a163ea36eff2425e42c0ed0",
       "r": [
         "simplepng",
         "docopt"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.1.0@4b32dc51efabb8c869685059e4c2c13ab1658347",
@@ -46,7 +44,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:51Z",
+  "generatedAt": "2026-05-26T15:54:23Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

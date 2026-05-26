@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "winimx",
   "fqn": "winimx.khchen.github.com",
+  "current": "0f7beded6e2a0893567d6824e956002b86571f91",
   "author": "Ward",
   "description": "Winimx - Winim minified code generator",
   "license": "MIT",
@@ -19,9 +20,7 @@
         "winim >= 3.6.0",
         "zippy >= 0.5.7",
         "jsony >= 1.0.1"
-      ],
-      "x": [],
-      "p": []
+      ]
     },
     {
       "v": "1.1.0@0f7beded6e2a0893567d6824e956002b86571f91^",
@@ -29,13 +28,11 @@
         "winim >= 3.7.1",
         "zippy >= 0.5.7",
         "jsony >= 1.0.1"
-      ],
-      "x": [],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:28Z",
+  "generatedAt": "2026-05-26T15:55:11Z",
   "allDeps": {
     "packages": [
       "jsony",

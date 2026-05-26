@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "rodster",
   "fqn": "rodster.j-a-s-d.github.com",
+  "current": "31b64a28a27b4e162441d67ea9998d8cc72223a3",
   "author": "Javier Santo Domingo",
   "description": "rodster",
   "license": "MIT",
@@ -52,7 +53,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:38Z",
+  "generatedAt": "2026-05-26T15:52:46Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

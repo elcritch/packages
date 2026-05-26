@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimjl",
   "fqn": "nimjl.SciNim.github.com",
+  "current": "233a57f1ca5a7ed4c63949f37632e63d6e2cc610",
   "author": "Regis Caillaud",
   "description": "Nim Julia bridge",
   "license": "MIT",
@@ -225,7 +226,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:58Z",
+  "generatedAt": "2026-05-26T15:50:35Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

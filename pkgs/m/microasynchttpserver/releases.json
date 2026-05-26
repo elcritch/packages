@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "microasynchttpserver",
   "fqn": "microasynchttpserver.philip-wernersbach.github.com",
+  "current": "2f2065143261e6cf07a8f45f4e8ef38575657745",
   "author": "Philip Wernersbach",
   "description": "A thin asynchronous HTTP server library, API compatible with Nim's built-in asynchttpserver",
   "license": "MIT",
@@ -41,7 +42,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:58Z",
+  "generatedAt": "2026-05-26T15:49:18Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

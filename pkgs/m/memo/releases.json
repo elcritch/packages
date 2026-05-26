@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "memo",
   "fqn": "memo.andreaferretti.github.com",
+  "current": "9ef23bce0784cbe66cf8c9570c3e9ad1bf300dad",
   "author": "wiffel",
   "description": "Memoize Nim functions",
   "license": "Apache2",
@@ -13,23 +14,19 @@
   "releases": [
     {
       "v": "0.4.0@9ef23bce0784cbe66cf8c9570c3e9ad1bf300dad^",
-      "r": [],
-      "y": []
+      "r": []
     },
     {
       "v": "0.3.0@94ab1c100cf220385e64599fd02e698c0abeef37",
-      "r": [],
-      "y": []
+      "r": []
     },
     {
       "v": "0.2.2@246e8da3c729655e4e1ca401ae89d5ddc7c25069",
-      "r": [],
-      "y": []
+      "r": []
     },
     {
       "v": "0.2.1@7ade42571d675e4965e778a71dd27dd1236e3c64",
-      "r": [],
-      "y": []
+      "r": []
     },
     {
       "v": "0.2.0@5fe340778fec2515b7b6f8da60ac2af072644edc",
@@ -60,7 +57,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:56Z",
+  "generatedAt": "2026-05-26T15:49:15Z",
   "allDeps": {
     "packages": [],
     "urls": [],

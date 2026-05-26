@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "cueconfig",
   "fqn": "cueconfig.WaywardWizard.github.com",
+  "current": "8db4f9f1d43da583250f26c604a2b7def83d0feb",
   "author": "Ben Tomlin",
   "description": "Cue, sops, json, env typesafe compile/runtime configuration library",
   "license": "MIT",
@@ -84,7 +85,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:21Z",
+  "generatedAt": "2026-05-26T15:45:53Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "diskclean",
   "fqn": "diskclean.ynishi.github.com",
+  "current": "8c11b3f2313cbbfba0755f231c55786f6829e4c2",
   "author": "Yutaka Nishimura",
   "description": "Declarative disk cleanup for development projects",
   "license": "MIT",
@@ -14,25 +15,19 @@
   "releases": [
     {
       "v": "0.3.1@8c11b3f2313cbbfba0755f231c55786f6829e4c2^",
-      "r": [],
-      "b": "",
-      "p": []
+      "r": []
     },
     {
       "v": "0.2.0@f831a4b2e1b068dc1e0e8e81896486794895cd0d",
-      "r": [],
-      "b": "",
-      "p": []
+      "r": []
     },
     {
       "v": "0.1.0@8f3a0ce1a3f43bafe873ce340912c813e8de81b5",
-      "r": [],
-      "b": "",
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:34Z",
+  "generatedAt": "2026-05-26T15:46:10Z",
   "allDeps": {
     "packages": [],
     "urls": [],

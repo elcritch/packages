@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "morse",
   "fqn": "morse.ph4mished.github.com",
+  "current": "6a6e32cc8aa9b3a6dc561f3242fbb4013bb0fc99",
   "author": "ph4mished",
   "description": "A morse encoding and decoding tool",
   "license": "MIT",
@@ -13,12 +14,11 @@
   "releases": [
     {
       "v": "0.1.0@6a6e32cc8aa9b3a6dc561f3242fbb4013bb0fc99^",
-      "r": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:08Z",
+  "generatedAt": "2026-05-26T15:49:30Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "values",
   "fqn": "values.nim-appkit.github.com",
+  "current": "ca86ed29dab618fdc2e742ec8f298064bd805e85",
   "author": "Christoph Herzog",
   "description": "Library for working with arbitrary values + a map data structure.",
   "license": "MIT",
@@ -17,7 +18,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:07Z",
+  "generatedAt": "2026-05-26T15:54:44Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

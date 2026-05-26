@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "yfnim",
   "fqn": "yfnim.jailop.github.com",
+  "current": "a8fc077eaff1e2fefa6075bef4be5e866a680369",
   "author": "Jaime Lopez",
   "description": "A Yahoo Finance historical data retriever with support for multiple intervals",
   "license": "MIT",
@@ -19,28 +20,19 @@
       "v": "0.3.0@c1890425fb748da7828f39eb19b3dd73b7c68312",
       "r": [
         "cligen >= 1.9.6"
-      ],
-      "b": "",
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.2.0@fddd9ecdb430b0091cf48679a3c07af9acfbc9d9",
-      "r": [],
-      "b": "",
-      "k": [],
-      "p": []
+      "r": []
     },
     {
       "v": "0.1.0@c40cd66dfb481c8baadd7c89eba3ed1d6becb701",
-      "r": [],
-      "b": "",
-      "k": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:44Z",
+  "generatedAt": "2026-05-26T15:55:32Z",
   "allDeps": {
     "packages": [
       "cligen > 0.2.0"

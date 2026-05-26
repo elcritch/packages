@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimbomb",
   "fqn": "nimbomb.Tyler-Yocolano.github.com",
+  "current": "b289c82053ecaf648c03d77ce58c79cd88bf1179",
   "author": "Tyler Yocolano",
   "description": "A GiantBomb-wiki wrapper for nim ",
   "license": "MIT",
@@ -12,12 +13,11 @@
   "releases": [
     {
       "v": "0.1.0@b289c82053ecaf648c03d77ce58c79cd88bf1179^",
-      "r": [],
-      "x": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:43Z",
+  "generatedAt": "2026-05-26T15:50:15Z",
   "allDeps": {
     "packages": [],
     "urls": [],

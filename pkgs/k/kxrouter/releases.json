@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "kxrouter",
   "fqn": "nim-kxrouter.nitely.github.com",
+  "current": "2dcd55a851ba3ac8f38e7fec8edc28b7acddc9f9",
   "author": "Esteban Castro Borsani (@nitely)",
   "description": "A karax router with life-time events",
   "license": "MIT",
@@ -15,19 +16,17 @@
       "v": "0.1.1@2dcd55a851ba3ac8f38e7fec8edc28b7acddc9f9^",
       "r": [
         "karax >= 1.5.0"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "0.1.0@e5b68c256185c24ba0bd8e713778943166cf450e",
       "r": [
         "karax >= 1.5.0"
-      ],
-      "x": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:21Z",
+  "generatedAt": "2026-05-26T15:48:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

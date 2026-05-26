@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "obfusel",
   "fqn": "obfusel.Luteva-ssh.github.com",
+  "current": "3af46de6eef89cbb9d5a2acb60dfb8d85efe907b",
   "author": "Janni Adamski",
   "description": "An obfuscator for excel sheets. If you are not allowed to transfer data to an AI system, this can be an easy solution :).",
   "license": "MIT",
@@ -15,12 +16,11 @@
       "v": "0.1.0@b4865b65e07923bee515bfda4e078fdcda982be2",
       "r": [
         "xlsx"
-      ],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:42Z",
+  "generatedAt": "2026-05-26T15:51:31Z",
   "allDeps": {
     "packages": [
       "xlsx",

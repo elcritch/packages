@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "illwave",
   "fqn": "illwave.ansiwave.github.com",
+  "current": "7558f89925f7c10e52559c80b26c7c090433a5c2",
   "author": "oakes",
   "description": "A cross-platform terminal UI library",
   "license": "WTFPL",
@@ -13,37 +14,31 @@
   "releases": [
     {
       "v": "0.6.0@7558f89925f7c10e52559c80b26c7c090433a5c2^",
-      "r": [],
-      "k": []
+      "r": []
     },
     {
       "v": "0.5.0@c0f0448e76ff2fa7c030daccb6fa17c17da68f31",
-      "r": [],
-      "k": []
+      "r": []
     },
     {
       "v": "0.4.0@b26018e493475536e021032bf9e93df5ad0306f8",
-      "r": [],
-      "k": []
+      "r": []
     },
     {
       "v": "0.3.0@5650defa34928e12d5ea48120257982c015b4969",
-      "r": [],
-      "k": []
+      "r": []
     },
     {
       "v": "0.2.0@0e83781079e94d62f05ac80aedf36d8a4434f42b",
-      "r": [],
-      "k": []
+      "r": []
     },
     {
       "v": "0.1.0@3278a904a981b2c034013d0dee1966c843382066",
-      "r": [],
-      "k": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:57Z",
+  "generatedAt": "2026-05-26T15:47:59Z",
   "allDeps": {
     "packages": [],
     "urls": [],

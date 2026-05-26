@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "foreach",
   "fqn": "foreach.disruptek.github.com",
+  "current": "edae1f2c5b98a00a574b4b24e7b79b42cc8cdc66",
   "author": "disruptek",
   "description": "A sugary for loop with syntax for typechecking loop variables",
   "license": "MIT",
@@ -21,7 +22,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:09Z",
+  "generatedAt": "2026-05-26T15:46:56Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "illwill_unsafe",
   "fqn": "illwill_unsafe.matthewjcavalier.github.com",
+  "current": "ca518fee6e3e3849068c74ef70c2d2805e83e09d",
   "author": "John Novak <john@johnnovak.net>",
   "description": "A curses inspired simple cross-platform console library for Nim",
   "license": "WTFPL",
@@ -14,12 +15,11 @@
   "releases": [
     {
       "v": "0.1.0@ecbb414938a709cbd9eb2945c052ddd8adaa5c66",
-      "r": [],
-      "x": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:57Z",
+  "generatedAt": "2026-05-26T15:47:59Z",
   "allDeps": {
     "packages": [],
     "urls": [],

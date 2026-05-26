@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "pfring",
   "fqn": "pfring.nim.ba0f3.github.com",
+  "current": "c3fbbd27686d24830d45c4c2ad642a9263433873",
   "author": "Huy Doan",
   "description": "PF_RING wrapper for Nim",
   "license": "MIT",
@@ -16,7 +17,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:02Z",
+  "generatedAt": "2026-05-26T15:51:57Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

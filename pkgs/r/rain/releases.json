@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "rain",
   "fqn": "rain.nim.OHermesJunior.github.com",
+  "current": "6cc61747bc0393bf0dc72be4a30210d40e4d7fab",
   "author": "OHermesJunior",
   "description": "Rain simulation in your terminal",
   "license": "MIT",
@@ -13,12 +14,11 @@
   "releases": [
     {
       "v": "0.1.0@e83906a8393398bca2d6b0d6585c9066e1e51d87",
-      "r": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:28Z",
+  "generatedAt": "2026-05-26T15:52:31Z",
   "allDeps": {
     "packages": [],
     "urls": [],

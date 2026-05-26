@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "mathexpr",
   "fqn": "nim-mathexpr.nimbackup.github.com",
+  "current": "eb0129397ac53e54cc2247585b1b6cb87f61e36b",
   "author": "Daniil Yarancev",
   "description": "MathExpr - wrapper around TinyExpr C library",
   "license": "MIT",
@@ -20,8 +21,7 @@
       "v": "1.0.0@64348b534edecb390c0035416217199358a3397f",
       "r": [],
       "d": "MathExpr - tiny mathematical expression evaluator library",
-      "m": "0.17.0",
-      "y": []
+      "m": "0.17.0"
     },
     {
       "v": "1.1.0@5da4fa282c0730f5e3c31d29aa740c3e11083bb7",
@@ -97,7 +97,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:52Z",
+  "generatedAt": "2026-05-26T15:49:10Z",
   "allDeps": {
     "packages": [],
     "urls": [],

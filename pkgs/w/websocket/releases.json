@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "websocket",
   "fqn": "websocket.nim.niv.github.com",
+  "current": "405f49382fbd482901a3d72bd7775569ae433413",
   "author": "niv",
   "description": "websockets for nim",
   "license": "MIT",
@@ -12,58 +13,47 @@
   "releases": [
     {
       "v": "0.5.2@405f49382fbd482901a3d72bd7775569ae433413^",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.5.1@b889d2f8bdb81fd800fb203866cf4b1f7a31c451",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.5.0@28cc44c8defc0b248b3abbc8205759b69a98f7f6",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.4.2@b24634144ef53f5b016b1e9ec7dcf9096a50de80",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.4.1@58fece6f85cae48e17a110bddeb6f6579a91e2a6",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.4.0@4fdd6a63d9ccf51d6dac2cffa498fcd2ca3ac32a",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.3.6@edb2d41b08d97f77a154236a8cc5ec9da6c633c5",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.3.5@62057bf43fef9c4a4ad42d5eebb8c2495ffc464c",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.3.4@5b9b05986615ca6b74a936d06b6013b6a9838a8a",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.3.3@a2e2674c1ba94941a4bd6608ec77d55cc68a7414",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.3.2@0cf2c2becfdcd2968e255b6dff6457ad80c66158",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.3.0@7a02aebf332758864ac58516d72a98e2aabf7899",
@@ -92,7 +82,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:21Z",
+  "generatedAt": "2026-05-26T15:55:02Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

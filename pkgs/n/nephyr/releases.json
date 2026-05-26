@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nephyr",
   "fqn": "nephyr.EmbeddedNim.github.com",
+  "current": "c2c29c5acaad56ee78e798d5b1c5b695ddc71b82",
   "author": "Jaremy J. Creechley",
   "description": "Nim wrapper for Zephyr RTOS",
   "license": "Apache-2.0",
@@ -21,13 +22,11 @@
         "stew >= 0.1.0",
         "mcu_utils #main",
         "gh:EmbeddedNim/fast_rpc"
-      ],
-      "k": [],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:21Z",
+  "generatedAt": "2026-05-26T15:49:47Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

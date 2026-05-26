@@ -20,7 +20,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:04Z",
+  "generatedAt": "2026-05-26T15:50:43Z",
   "allDeps": {
     "packages": [
       "checksums",
@@ -32,5 +32,18 @@
     ],
     "urls": [],
     "unresolved": []
+  },
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.2.0"
+    ],
+    "tagVersions": {
+      "v0.2.0": "0.2.0"
+    },
+    "latest": "v0.2.0"
   }
 }

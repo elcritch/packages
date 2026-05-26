@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "gigi",
   "fqn": "gigi.attakei.github.com",
+  "current": "1ff10af1ec789594b3fd859a0bdc0ded4cc9763f",
   "author": "Kazuya Takei",
   "description": "GitIgnore Generation Interface",
   "license": "Apache-2.0",
@@ -19,41 +20,29 @@
       "v": "0.2.1@f68a8312fad5988c333bf2946740e694854b5e0d",
       "r": [
         "puppy >= 1.4.0"
-      ],
-      "b": "",
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.2.0@f0d349ddb13bee7dbbd655394ebeaa68cc111b3d",
       "r": [
         "puppy >= 1.4.0"
-      ],
-      "b": "",
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.1.1@8c4c42186d8599d4f77ae5c1e416e09f9c8b1cc5",
       "r": [
         "puppy >= 1.4.0"
-      ],
-      "b": "",
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.1.0@fcfbfff48223162da06905c46f06b48977810e6f",
       "r": [
         "puppy >= 1.4.0"
-      ],
-      "b": "",
-      "k": [],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:23Z",
+  "generatedAt": "2026-05-26T15:47:16Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

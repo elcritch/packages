@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "libtcod_nim",
   "fqn": "libtcod_nim.Vladar4.github.com",
+  "current": "3f9be2188ff08fa503af9f9d8cc83ac0a1dffc1f",
   "author": "Vladar",
   "description": "Wrapper of the libtcod library for the Nim language.",
   "license": "zlib",
@@ -26,9 +27,7 @@
     },
     {
       "v": "1.112.0@8c443ae4b9ce80f4632a0ffdfd3f3a43dd893232",
-      "r": [],
-      "i": [],
-      "j": []
+      "r": []
     },
     {
       "v": "0.99@35d771e1c03abbfed392a452bc0d8b14bfbfc25c",
@@ -36,8 +35,7 @@
       "i": [
         "src151",
         "src170"
-      ],
-      "j": []
+      ]
     },
     {
       "v": "0.98.1@ed11a68f9cae49237466da5ff4efb0636e9571a4",
@@ -46,8 +44,7 @@
       ],
       "i": [
         "src"
-      ],
-      "j": []
+      ]
     },
     {
       "v": "0.98@7e5f3face19d710d87b799260bd2101bd0f4ea07",
@@ -90,7 +87,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:31Z",
+  "generatedAt": "2026-05-26T15:48:46Z",
   "allDeps": {
     "packages": [
       "sdl1 > 0.97 & <= 0.98.1",

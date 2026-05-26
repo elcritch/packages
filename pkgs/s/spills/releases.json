@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "spills",
   "fqn": "spills.andreaferretti.github.com",
+  "current": "1d29c86654ac9568ff5c9a01945d4203037a0e98",
   "author": "Andrea Ferretti",
   "description": "Disk-backed sequences",
   "license": "Apache2",
@@ -12,30 +13,26 @@
   "releases": [
     {
       "v": "0.1.3@1d29c86654ac9568ff5c9a01945d4203037a0e98^",
-      "r": [],
-      "y": []
+      "r": []
     },
     {
       "v": "0.1.2@42ee045da4297abc4b28fd4d896e8a6d787b9d61",
       "r": [],
-      "d": "Disk-baked sequences",
-      "y": []
+      "d": "Disk-baked sequences"
     },
     {
       "v": "0.1.1@985b480dc2d30390e05e9dac19da8b73b13af907",
       "r": [],
-      "d": "Disk-baked sequences",
-      "y": []
+      "d": "Disk-baked sequences"
     },
     {
       "v": "0.1.0@1299a79f010f295be2b4fada3f1c79eb2a0d37e8",
       "r": [],
-      "d": "Disk-baked sequences",
-      "y": []
+      "d": "Disk-baked sequences"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:12Z",
+  "generatedAt": "2026-05-26T15:53:30Z",
   "allDeps": {
     "packages": [],
     "urls": [],

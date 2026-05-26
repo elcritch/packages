@@ -32,10 +32,28 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:20Z",
+  "generatedAt": "2026-05-26T15:52:20Z",
   "allDeps": {
     "packages": [],
     "urls": [],
     "unresolved": []
+  },
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.1.0",
+      "0.1.1",
+      "0.1.2",
+      "0.1.3",
+      "0.1.4"
+    ],
+    "latest": "0.1.4",
+    "prerelease": [
+      "0.1.0",
+      "0.1.1"
+    ]
   }
 }

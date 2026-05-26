@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "avr_io",
   "fqn": "avr_io.Abathargh.github.com",
+  "current": "3e4b50cf03f696cb8f44c3c9b3775bc4cbc7961a",
   "author": "Gianmarco Marcello",
   "description": "AVR registers, interrupts, progmem and peripheral support in nim!",
   "license": "BSD-3-Clause",
@@ -56,7 +57,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:12Z",
+  "generatedAt": "2026-05-26T15:44:26Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "clang",
   "fqn": "libclang-nim.samdmarshall.github.com",
+  "current": "a274d788bec337ccec16d527156f4822a1221bf2",
   "author": "Samantha Marshall",
   "description": "Wrapper for libclang C headers",
   "license": "BSD 3-Clause",
@@ -14,7 +15,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:02Z",
+  "generatedAt": "2026-05-26T15:45:29Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

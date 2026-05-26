@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "symbolicnim",
   "fqn": "symbolicnim.HugoGranstrom.github.com",
+  "current": "f763ce704afe31fa42f3db67f5cbbf6d3f28f346",
   "author": "HugoGranstrom",
   "description": "A symbolic algebra library written in Nim",
   "license": "MIT",
@@ -41,7 +42,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:28Z",
+  "generatedAt": "2026-05-26T15:53:52Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "wNim",
   "fqn": "wNim.khchen.github.com",
+  "current": "16105eec911c633e3c994c879e42a43584b6d5b5",
   "author": "Ward",
   "description": "wNim - Nim's Windows GUI framework",
   "license": "MIT",
@@ -17,8 +18,7 @@
         "winim >= 3.6.0",
         "npeg >= 0.24.1",
         "memlib >= 1.1.0"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "0.13.5@1dee5983972570a27eee6ca49bfb96d4328f9a0e",
@@ -26,8 +26,7 @@
         "winim >= 3.6.0",
         "npeg >= 0.24.1",
         "memlib >= 1.1.0"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "0.13.4@27fc2038350689794a947dc1268af13bb74b735e",
@@ -35,12 +34,11 @@
         "winim >= 3.6.0",
         "npeg >= 0.24.1",
         "memlib >= 1.1.0"
-      ],
-      "x": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:14Z",
+  "generatedAt": "2026-05-26T15:54:53Z",
   "allDeps": {
     "packages": [
       "memlib",

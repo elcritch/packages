@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimitheme",
   "fqn": "nimitheme.neroist.github.com",
+  "current": "85ad9b80029112e1d2903dbd5b2a418bbcccb467",
   "author": "Jasmine",
   "description": "Make nimib look beautiful with nimitheme",
   "license": "MIT",
@@ -34,7 +35,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:58Z",
+  "generatedAt": "2026-05-26T15:50:35Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

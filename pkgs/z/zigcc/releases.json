@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "zigcc",
   "fqn": "zigcc.enthus1ast.github.com",
+  "current": "85b4c8baf0ace7b5172352d4b6152522244ea474",
   "author": "David Krause",
   "description": "wraps `zig cc` to be able to be called by the nim compiler",
   "license": "MIT",
@@ -13,8 +14,7 @@
   "releases": [
     {
       "v": "0.1.0@abf1857bf49322ae8869cf62736a1fbad165e267",
-      "r": [],
-      "p": []
+      "r": []
     },
     {
       "v": "1.0.0@66ed291f7646033143a69598e98ee21ca9c4a2c5",
@@ -50,7 +50,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:48Z",
+  "generatedAt": "2026-05-26T15:55:37Z",
   "allDeps": {
     "packages": [],
     "urls": [],

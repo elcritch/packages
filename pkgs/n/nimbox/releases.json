@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimbox",
   "fqn": "nimbox.dom96.github.com",
+  "current": "6a56e76c01481176f16ae29b7d7c526bd83f229b",
   "author": "Samadi van Koten",
   "description": "A Rustbox-inspired wrapper for termbox",
   "license": "MIT",
@@ -16,13 +17,11 @@
     {
       "v": "0.1.0@7c39a25cf45c13baaa848ce4510feb3d097b2fc0",
       "r": [],
-      "h": true,
-      "x": [],
-      "y": []
+      "h": true
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:43Z",
+  "generatedAt": "2026-05-26T15:50:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

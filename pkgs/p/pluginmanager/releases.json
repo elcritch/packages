@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "pluginmanager",
   "fqn": "plugin-manager.samdmarshall.github.com",
+  "current": "dd9729b8b21c0d7dc1b3f1c136fe1029ce520270",
   "author": "Samantha Marshall",
   "description": "Simple plugin implementation",
   "license": "BSD 3-Clause",
@@ -13,12 +14,11 @@
   "releases": [
     {
       "v": "0.1.0@b4b6755555a4096c154f1a1c04f1680d4eb925e8",
-      "r": [],
-      "x": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:09Z",
+  "generatedAt": "2026-05-26T15:52:05Z",
   "allDeps": {
     "packages": [],
     "urls": [],

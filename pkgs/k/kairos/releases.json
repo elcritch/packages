@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "kairos",
   "fqn": "kairos.jmgomez.github.com",
+  "current": "de7a87c2125badf0b243789686c5bfc6fba82c32",
   "author": "jmgomez",
   "description": "Multi-threaded chronos HTTP server with httpx-compatible API",
   "license": "MIT",
@@ -22,8 +23,7 @@
         "ws": [
           "websock >= 0.2.1"
         ]
-      },
-      "x": []
+      }
     },
     {
       "v": "0.1.0@fdedc4159ad5d04589a326c330b4fae45ff372d9",
@@ -34,12 +34,11 @@
         "ws": [
           "websock >= 0.2.1"
         ]
-      },
-      "x": []
+      }
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:15Z",
+  "generatedAt": "2026-05-26T15:48:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

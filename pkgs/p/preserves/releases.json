@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "preserves",
   "fqn": "preserves-nim.ehmry.git.syndicate-lang.org",
+  "current": "872b008e192f361b70210e05d7259d9f715f9a17",
   "author": "Emery Hemingway",
   "description": "data model and serialization format",
   "license": "Unlicense",
@@ -118,8 +119,7 @@
       "r": [
         "npeg >= 1.2.1",
         "gh:ehmry/nim-bigints >= 20231006"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "20240522@1fee87590940761e288cf9ab3c7270832403b719",
@@ -399,7 +399,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:16Z",
+  "generatedAt": "2026-05-26T15:52:16Z",
   "allDeps": {
     "packages": [
       "npeg > 1.20260526 & <= 20240523"

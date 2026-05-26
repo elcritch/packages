@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "letUtils",
   "fqn": "let-utils-nim.SirNickolas.github.com",
+  "current": "a640c906cbbf78c2724158fe62e65e26b430432c",
   "author": "Nickolay Bukreyev",
   "description": "A few handy macros for those who prefer `let` over `var`",
   "license": "MIT",
@@ -25,7 +26,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:24Z",
+  "generatedAt": "2026-05-26T15:48:35Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

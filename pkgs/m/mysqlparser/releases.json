@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "mysqlparser",
   "fqn": "mysqlparser.tulayang.github.com",
+  "current": "0b4c9ce39ff6eab4f398eac158b41fb0d7945d11",
   "author": "Wang Tong",
   "description": "An efficient packet parser for MySQL Client/Server Protocol. Help you to write Mysql communication in either BLOCKIONG-IO or NON-BLOCKING-IO.",
   "license": "MIT",
@@ -13,12 +14,11 @@
   "releases": [
     {
       "v": "0.2.0@228625be4a344e4f9dd6467e8b8141ae568dd0a7",
-      "r": [],
-      "y": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:13Z",
+  "generatedAt": "2026-05-26T15:49:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "pine",
   "fqn": "pine.Willyboar.github.com",
+  "current": "1142e06fdcffe1bacb461d712a5b59df58c0612a",
   "author": "BigBaron",
   "description": "Nim Static Blog & Site Generator",
   "license": "MIT",
@@ -16,36 +17,32 @@
       "r": [
         "markdown >= 0.8.0",
         "rainbow >= 0.2.2"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.1.2@54d155553a4c1f0af556b061ca6cfc93d6eee143",
       "r": [
         "markdown >= 0.8.0",
         "rainbow >= 0.2.2"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.1.1@c38550de4824e5d781b918e343a6743f061833d7",
       "r": [
         "markdown >= 0.8.0",
         "rainbow >= 0.2.2"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.1.0@bc1c9c466224295d1ca5ed70da309167278c2812",
       "r": [
         "markdown >= 0.8.0",
         "rainbow >= 0.2.2"
-      ],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:03Z",
+  "generatedAt": "2026-05-26T15:52:00Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

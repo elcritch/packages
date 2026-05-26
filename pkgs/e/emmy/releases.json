@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "emmy",
   "fqn": "emmy.andreaferretti.github.com",
+  "current": "c135a25cc9e899a4c231b6d2a42dd911581d82f0",
   "author": "Andrea Ferretti",
   "description": "Algebra for Nim",
   "license": "Apache2",
@@ -20,9 +21,7 @@
         "neo >= 0.2.4",
         "bigints >= 0.4.3",
         "stint >= 0.0.1"
-      ],
-      "x": [],
-      "y": []
+      ]
     },
     {
       "v": "0.1.0@9060c0e2785b10a18fbc107cbf37b36361ef00ef",
@@ -30,13 +29,11 @@
         "neo >= 0.2.4",
         "bigints >= 0.4.2",
         "stint >= 0.0.1"
-      ],
-      "x": [],
-      "y": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:44Z",
+  "generatedAt": "2026-05-26T15:46:25Z",
   "allDeps": {
     "packages": [
       "bigints",

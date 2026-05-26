@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimip",
   "fqn": "nimip.hitblast.github.com",
+  "current": "ac99b5e920345c26b97c1d79ccef4fa8995ed4bd",
   "author": "HitBlast",
   "description": "Asynchronously lookup IP addresses with this tiny, hybrid Nim application.",
   "license": "MIT",
@@ -19,9 +20,7 @@
       "r": [
         "argparse >= 4.0",
         "illwill 0.3.2"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "1.2.1@9e45fcc263b24ab6aefdaee1151841a4eaf8ab10",
@@ -29,9 +28,7 @@
         "argparse >= 4.0",
         "illwill 0.3.2"
       ],
-      "m": "1.6.10",
-      "k": [],
-      "p": []
+      "m": "1.6.10"
     },
     {
       "v": "1.2.0@486b8af3510085153ac2587574c82b00420f0ff2",
@@ -39,9 +36,7 @@
         "argparse >= 4.0",
         "illwill >= 0.3"
       ],
-      "m": "1.6.12",
-      "k": [],
-      "p": []
+      "m": "1.6.12"
     },
     {
       "v": "1.1.0@bc30f6cb3121a9525615bfba004b4cecab52707b",
@@ -49,9 +44,7 @@
         "argparse >= 4.0",
         "illwill >= 0.3"
       ],
-      "m": "1.6",
-      "k": [],
-      "p": []
+      "m": "1.6"
     },
     {
       "v": "1.0.0@35a905f407feeec1498b504181857af71d99bcd3",
@@ -59,13 +52,11 @@
         "argparse >= 4.0",
         "illwill >= 0.3"
       ],
-      "m": "1.6",
-      "k": [],
-      "p": []
+      "m": "1.6"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:57Z",
+  "generatedAt": "2026-05-26T15:50:33Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

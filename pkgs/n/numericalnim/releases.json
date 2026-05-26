@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "numericalnim",
   "fqn": "numericalnim.SciNim.github.com",
+  "current": "5156285dc74bfd994627e2dc451632164b6b0632",
   "author": "Hugo Granström",
   "description": "A collection of numerical methods written in Nim. Current features: integration, ode, optimization.",
   "license": "MIT",
@@ -203,7 +204,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:41Z",
+  "generatedAt": "2026-05-26T15:51:29Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

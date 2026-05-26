@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "httpx",
   "fqn": "httpx.ringabout.github.com",
+  "current": "47cb5e79c6070153240f7395134885a114b0f039",
   "author": "ringabout",
   "description": "A super-fast epoll-backed and parallel HTTP server.",
   "license": "Apache 2.0",
@@ -143,7 +144,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:53Z",
+  "generatedAt": "2026-05-26T15:47:53Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

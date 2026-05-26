@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "caster",
   "fqn": "caster.hamidb80.github.com",
+  "current": "86c87fc54c7e09f9efa6307b77d35fbabdd28374",
   "author": "hamidb80",
   "description": "casting macro for procedure parameters",
   "license": "MIT",
@@ -22,7 +23,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:49Z",
+  "generatedAt": "2026-05-26T15:45:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

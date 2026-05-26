@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "notcurses",
   "fqn": "nim-notcurses.michaelsbradleyjr.github.com",
+  "current": "681dd2e87e2d67ba007d49b9a420792c16d5aa08",
   "author": "Michael Bradley, Jr.",
   "description": "A wrapper for Notcurses",
   "license": "Apache License 2.0 or MIT",
@@ -17,213 +18,161 @@
       "v": "3.0.9@051556320d1bcc668fd5c4251d8357ffbdff2f3d",
       "r": [
         "nimterop >= 0.6.13"
-      ],
-      "i": [],
-      "j": []
+      ]
     },
     {
       "v": "3.0.8@8d0b6b6e934a711e2b14d98502a88f4ff725a1cb",
       "r": [
         "nimterop >= 0.6.13"
-      ],
-      "i": [],
-      "j": []
+      ]
     },
     {
       "v": "3.0.7@10c8fd9015181f7402b51bc8215a8b730c1c38e1",
       "r": [
         "nimterop >= 0.6.13"
-      ],
-      "i": [],
-      "j": []
+      ]
     },
     {
       "v": "3.0.6@d3f5df6b2804d7e031c8ebe320f95d35aa30323e",
       "r": [
         "nimterop >= 0.6.13"
-      ],
-      "i": [],
-      "j": []
+      ]
     },
     {
       "v": "3.0.5@de0a6bb16797a5b521c58b68768f90c36ed44b2a",
       "r": [
         "nimterop >= 0.6.13"
-      ],
-      "i": [],
-      "j": []
+      ]
     },
     {
       "v": "3.0.4@13323d4c2a4238b53ba55b1ade2b2bb467aa7f76",
       "r": [
         "nimterop >= 0.6.13"
-      ],
-      "i": [],
-      "j": []
+      ]
     },
     {
       "v": "3.0.3@dda4bcee3071d9d8aa2440ac6cbcb37e8732441e",
       "r": [
         "nimterop >= 0.6.13"
-      ],
-      "i": [],
-      "j": []
+      ]
     },
     {
       "v": "3.0.2@90d1a717661ece0e3408e05a9a962db6de97ed6d",
       "r": [
         "nimterop >= 0.6.13"
-      ],
-      "i": [],
-      "j": []
+      ]
     },
     {
       "v": "3.0.1@11204b063f79b65fea1e2ec5bc51a31d06f22be7",
       "r": [
         "nimterop >= 0.6.13"
-      ],
-      "i": [],
-      "j": []
+      ]
     },
     {
       "v": "3.0.0@9acc8d11aff0214d68157e0cda88afa1d9cd3aae",
       "r": [
         "nimterop >= 0.6.13"
-      ],
-      "i": [],
-      "j": []
+      ]
     },
     {
       "v": "2.4.9@fada661908f79a4f68bf4447691a470359e34e9b",
       "r": [
         "nimterop >= 0.6.13"
-      ],
-      "i": [],
-      "j": []
+      ]
     },
     {
       "v": "2.4.8@51c9455134416ed38987117cc94cb39f0538822d",
       "r": [
         "nimterop >= 0.6.13"
-      ],
-      "i": [],
-      "j": []
+      ]
     },
     {
       "v": "2.4.7@70e544acbd8eef0a0ba4038174e9eb7567485431",
       "r": [
         "nimterop >= 0.6.13"
-      ],
-      "i": [],
-      "j": []
+      ]
     },
     {
       "v": "2.4.6@df14b5a608aab4b0bf947471a3175fcafecb84e4",
       "r": [
         "nimterop >= 0.6.13"
-      ],
-      "i": [],
-      "j": []
+      ]
     },
     {
       "v": "2.4.5@5eaf6df19611555a0b8188ef71418ae28a19cf45",
       "r": [
         "nimterop >= 0.6.13"
-      ],
-      "i": [],
-      "j": []
+      ]
     },
     {
       "v": "2.4.4@2dc4f9d6881d9c75d69d31fce3c573749b07133e",
       "r": [
         "nimterop >= 0.6.13"
-      ],
-      "i": [],
-      "j": []
+      ]
     },
     {
       "v": "2.4.3@7b480607eb6265ccf739194bbe31d8dcd694655a",
       "r": [
         "nimterop >= 0.6.13"
-      ],
-      "i": [],
-      "j": []
+      ]
     },
     {
       "v": "2.4.2@88b35966471eb47c0b62ae4b1715e2ce73cd40b2",
       "r": [
         "nimterop >= 0.6.13"
-      ],
-      "i": [],
-      "j": []
+      ]
     },
     {
       "v": "2.4.1@34fd2535f20b58af95f9df1f0c00ed9d8a35f26c",
       "r": [
         "nimterop >= 0.6.13"
-      ],
-      "i": [],
-      "j": []
+      ]
     },
     {
       "v": "2.4.0@a289fce65530919bc47c69988fcc0ff7a088246a",
       "r": [
         "nimterop >= 0.6.13"
-      ],
-      "i": [],
-      "j": []
+      ]
     },
     {
       "v": "2.3.18@b3fa0bd78ae2d9873258d8ec1092a140f176085c",
       "r": [
         "nimterop >= 0.6.13"
-      ],
-      "i": [],
-      "j": []
+      ]
     },
     {
       "v": "2.3.17@c34520a0e5e61c2070e88a0cdb1585d24d5fd065",
       "r": [
         "nimterop >= 0.6.13"
-      ],
-      "i": [],
-      "j": []
+      ]
     },
     {
       "v": "2.3.16@621f6ffec47e473ed243fe5f42c6be27d1399768",
       "r": [
         "nimterop >= 0.6.13"
-      ],
-      "i": [],
-      "j": []
+      ]
     },
     {
       "v": "2.3.15@afd2d0e7ea5d47ba4cbba89a9d2f36a7109ad931",
       "r": [
         "nimterop >= 0.6.13"
-      ],
-      "i": [],
-      "j": []
+      ]
     },
     {
       "v": "2.3.14@9a68cb5dd066427db66e921093f7964218aba612",
       "r": [
         "nimterop >= 0.6.13"
-      ],
-      "i": [],
-      "j": []
+      ]
     },
     {
       "v": "2.3.13@f34dcc71aed1062856502c97d21500c63fac3b40",
       "r": [
         "nimterop >= 0.6.13"
-      ],
-      "i": [],
-      "j": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:33Z",
+  "generatedAt": "2026-05-26T15:51:20Z",
   "allDeps": {
     "packages": [
       "cligen",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "skybook",
   "fqn": "skybook.muxueqz.github.com",
+  "current": "b53b514d59340f34536b21a5bb6a4fb8d6e526f9",
   "author": "muxueqz",
   "description": "Light weight bookmark manager(delicious alternative)",
   "license": "GPL-2.0",
@@ -15,33 +16,29 @@
       "v": "1.0.3@3a5848178b3940b2675e7c5c00113cd71d5a1592",
       "r": [
         "jester >= 0.4.1"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "1.0.2@db81fedb2d7a2a8be0c373bb491bb03d8e617225",
       "r": [
         "jester >= 0.4.1"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "1.0.1@50aef8b22746691d2fce327ed81d423f93bf2363",
       "r": [
         "jester >= 0.4.1"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "1.0@13bb2bf25622f2719556aa2e6eddc16b76d1f61d",
       "r": [
         "jester >= 0.4.1"
-      ],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:04Z",
+  "generatedAt": "2026-05-26T15:53:20Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

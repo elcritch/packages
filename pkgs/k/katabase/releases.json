@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "katabase",
   "fqn": "katabase.zendbit.github.com",
+  "current": "ab23aba0efa34d3e5c990c2ea5e301b3e6c87ed6",
   "author": "Amru Rosyada",
   "description": "Katabase is nimlang database ORM used in Katalis web framework, but it's not exclusively build for katalis. Supported Database is SqLite, PostgreSql and MariaDb/MySql",
   "license": "MIT",
@@ -250,7 +251,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:17Z",
+  "generatedAt": "2026-05-26T15:48:25Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "calendar",
   "fqn": "calendar.adam-mcdaniel.github.com",
+  "current": "1b748dbed1be5092dff20f8e9a555b193c022dc9",
   "author": "Adam McDaniel",
   "description": "A tiny calendar program",
   "license": "MIT",
@@ -13,12 +14,11 @@
   "releases": [
     {
       "v": "0.1.0@1fc115f28e953a22e677e146d0a15c13f27916e1",
-      "r": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:47Z",
+  "generatedAt": "2026-05-26T15:45:12Z",
   "allDeps": {
     "packages": [],
     "urls": [],

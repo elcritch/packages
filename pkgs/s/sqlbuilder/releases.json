@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "sqlbuilder",
   "fqn": "nim_sqlbuilder.ThomasTJdev.github.com",
+  "current": "ce2a3255d70c1c9edd11c2378c9a47c79b1bfc09",
   "author": "ThomasTJdev",
   "description": "SQL builder",
   "license": "MIT",
@@ -99,7 +100,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:14Z",
+  "generatedAt": "2026-05-26T15:53:33Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

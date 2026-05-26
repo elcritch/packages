@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nodejs",
   "fqn": "nodestdlib.juancarlospaco.github.com",
+  "current": "a8cedb89e1ed37da04da149f253cdcd0d929e8bc",
   "author": "Juan Carlos",
   "description": "NodeJS Standard Library for Nim",
   "license": "MIT",
@@ -40,24 +41,21 @@
       "r": [],
       "a": "Juan_Carlos.nim",
       "d": "Alternative StdLib for Nim for NodeJS/JavaScript targets, hijacks NodeJS StdLib for Nim",
-      "m": "1.0.0",
-      "x": []
+      "m": "1.0.0"
     },
     {
       "v": "16.7.0@457cb2dc9c820d16276ad68e8fbe6dbb70e085ff",
       "r": [],
       "a": "Juan_Carlos.nim",
       "d": "Alternative StdLib for Nim for NodeJS/JavaScript targets, hijacks NodeJS StdLib for Nim",
-      "m": "1.0.0",
-      "x": []
+      "m": "1.0.0"
     },
     {
       "v": "16.8.0@085084f5fa70bb67d05f4afab85d1b28241ae1b0",
       "r": [],
       "a": "Juan_Carlos.nim",
       "d": "Alternative StdLib for Nim for NodeJS/JavaScript targets, hijacks NodeJS StdLib for Nim",
-      "m": "1.0.0",
-      "x": []
+      "m": "1.0.0"
     },
     {
       "v": "16.10.0@eb62b7ed859162a89b008a7091bc9f748c43ecfb",
@@ -152,7 +150,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:28Z",
+  "generatedAt": "2026-05-26T15:51:14Z",
   "allDeps": {
     "packages": [],
     "urls": [],

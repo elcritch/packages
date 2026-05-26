@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nancy",
   "fqn": "nancy.PMunch.github.com",
+  "current": "9918716a563f64d740df6a02db42662781e94fc8",
   "author": "PMunch",
   "description": "Easiest way to print tables in your terminal with full ANSI support and custom style",
   "license": "MIT",
@@ -22,12 +23,11 @@
       "v": "0.1.1@35e16f51c378658dc43e47765d35a4b7ac9e1bf3",
       "r": [
         "ansiparse >= 0.2.0"
-      ],
-      "y": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:14Z",
+  "generatedAt": "2026-05-26T15:49:37Z",
   "allDeps": {
     "packages": [
       "ansiparse"

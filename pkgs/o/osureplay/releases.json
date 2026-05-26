@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "osureplay",
   "fqn": "nim-osureplay.nimbackup.github.com",
+  "current": "437a396fafd77da355d39f7015ba0d454b90a06d",
   "author": "Daniil Yarancev",
   "description": "Osu replay parser.",
   "license": "MIT",
@@ -13,8 +14,7 @@
   "releases": [
     {
       "v": "0.0.1@50108cc3fc1999d6eb0d5d36f4f3691953307156",
-      "r": [],
-      "p": []
+      "r": []
     },
     {
       "v": "0.0.2@d626aefc8bd202bb3fb7d812d89cca21c429a44d",
@@ -36,7 +36,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:51Z",
+  "generatedAt": "2026-05-26T15:51:44Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "minecraft_server_status",
   "fqn": "minecraft_server_status.GabrielLasso.github.com",
+  "current": "f39966e85a2248f6ec6a761d0115c79fbcf0567c",
   "author": "Gabriel Lasso",
   "description": "Check minecraft server status",
   "license": "MIT",
@@ -14,7 +15,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:01Z",
+  "generatedAt": "2026-05-26T15:49:21Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

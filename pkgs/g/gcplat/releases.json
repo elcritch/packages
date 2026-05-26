@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "gcplat",
   "fqn": "gcplat.disruptek.github.com",
+  "current": "c43a88a1738f9852d377fafa366f2b2808acdb28",
   "author": "disruptek",
   "description": "Google Cloud Platform (GCP) APIs",
   "license": "MIT",
@@ -78,7 +79,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:18Z",
+  "generatedAt": "2026-05-26T15:47:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

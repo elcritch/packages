@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "govee",
   "fqn": "nim-govee.neroist.github.com",
+  "current": "0af54ab85762e2cbe7e856db290ce2d764d66ac4",
   "author": "t-h-rk-turner",
   "description": "A Nim wrapper for the Govee API.",
   "license": "MIT",
@@ -28,7 +29,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:31Z",
+  "generatedAt": "2026-05-26T15:47:26Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "jupyternim",
   "fqn": "jupyternim.stisa.github.com",
+  "current": "cd931cc85593b1cef58e36e306b69c6e0015c433",
   "author": "stisa",
   "description": "A Jupyter Kernel for Nim",
   "license": "MIT",
@@ -23,9 +24,7 @@
         "nimSHA2 #b8f666069dff1ed0c5142dd1ca692f0e71434716",
         "nimPNG #2dccf3e19ceb3fdf3f3f415e717d9d336d473a19"
       ],
-      "h": true,
-      "i": [],
-      "p": []
+      "h": true
     },
     {
       "v": "0.7.0@df5fb904ee00678dc2615451cc75fdca6632b238",
@@ -35,9 +34,7 @@
         "nimSHA2 #b8f666069dff1ed0c5142dd1ca692f0e71434716",
         "nimPNG >= 0.3.1 & < 0.4.0"
       ],
-      "h": true,
-      "i": [],
-      "p": []
+      "h": true
     },
     {
       "v": "0.6.3@f0b47f544792c9dd37763ba0311fd4ffa1daab08",
@@ -47,9 +44,7 @@
         "nimSHA2",
         "nimPNG"
       ],
-      "h": true,
-      "i": [],
-      "p": []
+      "h": true
     },
     {
       "v": "0.6.2@d7a29efa84b56b101ecb02f155c51d3c3f1d6602",
@@ -59,9 +54,7 @@
         "nimSHA2",
         "nimPNG"
       ],
-      "h": true,
-      "i": [],
-      "p": []
+      "h": true
     },
     {
       "v": "0.6.1@9ee5ac7e6f9b48c336be64e9f9f74faefa6c64bf",
@@ -71,9 +64,7 @@
         "nimSHA2",
         "nimPNG"
       ],
-      "h": true,
-      "i": [],
-      "p": []
+      "h": true
     },
     {
       "v": "0.6.0@d51a5ed216d4083f73d8b764da0387aa9a547674",
@@ -83,9 +74,7 @@
         "nimSHA2",
         "nimPNG"
       ],
-      "h": true,
-      "i": [],
-      "p": []
+      "h": true
     },
     {
       "v": "0.5.8@b0cbae12424633d901a62a691cf90157941f6bd1",
@@ -96,9 +85,7 @@
         "nimPNG"
       ],
       "h": true,
-      "m": "1.0.0",
-      "i": [],
-      "p": []
+      "m": "1.0.0"
     },
     {
       "v": "0.5.7@a98a2ff47fd3103c289b1a58ffcbae49520ebbc5",
@@ -109,9 +96,7 @@
         "nimPNG"
       ],
       "h": true,
-      "m": "1.0.0",
-      "i": [],
-      "p": []
+      "m": "1.0.0"
     },
     {
       "v": "0.5.5@a7fa2057d2e605de9278605fb984b8123379047d",
@@ -122,9 +107,7 @@
         "nimPNG"
       ],
       "h": true,
-      "m": "1.0.0",
-      "i": [],
-      "p": []
+      "m": "1.0.0"
     },
     {
       "v": "0.5.4@9baa1c642cc8db9defa67bb946eff41a8ace9980",
@@ -135,9 +118,7 @@
         "nimPNG"
       ],
       "h": true,
-      "m": "1.0.0",
-      "i": [],
-      "p": []
+      "m": "1.0.0"
     },
     {
       "v": "0.5.3@696090a76d26f4d1270e63a5d1ce6fcb14def99e",
@@ -148,9 +129,7 @@
         "nimPNG"
       ],
       "h": true,
-      "m": "1.0.0",
-      "i": [],
-      "p": []
+      "m": "1.0.0"
     },
     {
       "v": "0.5.2@f8be6e03febd99835428ffd6e32f1f49647e3be7",
@@ -161,9 +140,7 @@
         "nimPNG"
       ],
       "h": true,
-      "m": "1.0.0",
-      "i": [],
-      "p": []
+      "m": "1.0.0"
     },
     {
       "v": "0.5.1@438e8755fe745a27d8a12a43ed2640e3d464b600",
@@ -174,9 +151,7 @@
         "nimPNG"
       ],
       "h": true,
-      "m": "1.0.0",
-      "i": [],
-      "p": []
+      "m": "1.0.0"
     },
     {
       "v": "0.5.0@31452bd97be0b1efbf8389dcffaf25437ddd5691",
@@ -186,8 +161,7 @@
         "nimSHA2"
       ],
       "m": "1.0.0",
-      "i": [],
-      "p": []
+      "i": []
     },
     {
       "v": "0.4.0@1bb84477c86946e5646a7745d0d5537f06f60b60",
@@ -199,8 +173,7 @@
       ],
       "a": "Silvio T.",
       "m": "1.0.0",
-      "i": [],
-      "p": []
+      "i": []
     },
     {
       "v": "0.3.0@823eeb2d30f8b8dd105dca4817790188a572476a",
@@ -212,8 +185,7 @@
       ],
       "a": "Silvio T.",
       "m": "1.0.0",
-      "i": [],
-      "p": []
+      "i": []
     },
     {
       "v": "0.2.0@bb8672fd2a1cf8fe591506d8fb0861a11b4c16a9",
@@ -225,8 +197,7 @@
       ],
       "a": "Silvio T.",
       "m": "1.0.0",
-      "i": [],
-      "p": []
+      "i": []
     },
     {
       "v": "0.1.1@554eb2110926fafe73cc529b679a0b57a6acfe8b",
@@ -246,7 +217,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:15Z",
+  "generatedAt": "2026-05-26T15:48:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

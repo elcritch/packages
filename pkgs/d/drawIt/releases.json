@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "drawIt",
   "fqn": "drawIt.OFThomas.gitlab.com",
+  "current": "fcca80d648e409d0015b687d7d4356f640e79754",
   "author": "Oliver Thomas",
   "description": "Terminal User Interface (TUI) for drawing plots and shapes in the terminal",
   "license": "MIT",
@@ -19,27 +20,21 @@
       "r": [
         "nimpy",
         "nimPNG"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.6.1@c123b60faeca744770703953a56dfd4fe6141540",
       "r": [
         "nimpy",
         "nimPNG"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.6.0@0b3391f809ea89cb3dfde94867f67848c47d6086",
       "r": [
         "nimpy",
         "nimPNG"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.5.6@f939952230a39cde24bb2c46631344c0e2a0fde5",
@@ -49,52 +44,41 @@
       ],
       "p": [
         "drawIt"
-      ],
-      "k": []
+      ]
     },
     {
       "v": "0.5.4@8ac535b30fdda3d83476d129b4efe8f52ea1fe8b",
       "r": [
         "nimpy",
         "nimPNG"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.5.3@92dec8ef0c46d03b03df41e2eb01cf1f6b0f347e",
       "r": [
         "nimpy",
         "nimPNG"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.5.2@fcd8c37f4c6e3f84925e8c49984a772cef27622d",
       "r": [
         "nimpy",
         "nimPNG"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.5.1@ecf2ffd242b2de39f5e84c3d8d99b867bb80c9ff",
       "r": [
         "nimpy",
         "nimPNG"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.5.0@aee1cb49259eec9eca9c2e844cf718c7bb02493c",
       "r": [
         "nimpy"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.4.0@2af9194cc5ecd28b8340a6d31790e4b1e92ce640",
@@ -103,16 +87,14 @@
       ],
       "p": [
         "drawit"
-      ],
-      "k": []
+      ]
     },
     {
       "v": "0.3.0@f0b880ebca9315c66f1a9e2736d813c22c9ca0f9",
       "r": [],
       "p": [
         "drawit"
-      ],
-      "k": []
+      ]
     },
     {
       "v": "0.2.1@4d90e9350ecb232e34d9313bd4cd48df972a7135",
@@ -140,7 +122,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:39Z",
+  "generatedAt": "2026-05-26T15:46:16Z",
   "allDeps": {
     "packages": [
       "nimPNG > 0.5.0",

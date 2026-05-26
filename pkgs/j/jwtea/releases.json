@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "jwtea",
   "fqn": "jwtea.guzba.github.com",
+  "current": "21d1617996f1928492e665c8008b0b3fc8b4a629",
   "author": "Ryan Oldenburg",
   "description": "Brew JSON Web Tokens in pure Nim",
   "license": "MIT",
@@ -22,7 +23,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:15Z",
+  "generatedAt": "2026-05-26T15:48:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

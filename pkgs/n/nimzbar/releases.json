@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimzbar",
   "fqn": "nimzbar.genotrance.github.com",
+  "current": "2ff94c08f206dd4de81dea91db3a9883dbe560d2",
   "author": "genotrance",
   "description": "zbar wrapper for Nim",
   "license": "MIT",
@@ -14,20 +15,18 @@
       "r": [
         "nimgen >= 0.5.0"
       ],
-      "h": true,
-      "x": []
+      "h": true
     },
     {
       "v": "0.1.0@091148f77e11dcb477011e827206a0f59162503c",
       "r": [
         "nimgen >= 0.5.0"
       ],
-      "h": true,
-      "x": []
+      "h": true
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:20Z",
+  "generatedAt": "2026-05-26T15:51:05Z",
   "allDeps": {
     "packages": [
       "c2nim",

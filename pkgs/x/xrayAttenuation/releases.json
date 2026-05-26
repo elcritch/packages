@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "xrayAttenuation",
   "fqn": "xrayAttenuation.SciNim.github.com",
+  "current": "16ca5505e31e4d344876e23780ccc56128c7cd6e",
   "author": "Vindaar",
   "description": "Library for X-ray reflectivity and transmission / absorption through matter",
   "license": "MIT",
@@ -106,7 +107,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:42Z",
+  "generatedAt": "2026-05-26T15:55:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

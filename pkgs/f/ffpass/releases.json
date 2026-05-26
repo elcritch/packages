@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "ffpass",
   "fqn": "ffpass.bunkford.github.com",
+  "current": "e765b10d265735846868041c4c285dce10550889",
   "author": "Duncan Clarke",
   "description": "ffpass - Api Calls for Ford vehicles equipped with the fordpass app.",
   "license": "MIT",
@@ -12,8 +13,7 @@
   "releases": [
     {
       "v": "1.0.0@ce4dda791e151ce939bbb2d6b9276302a5dc600b",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.0.1@e765b10d265735846868041c4c285dce10550889^",
@@ -25,7 +25,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:56Z",
+  "generatedAt": "2026-05-26T15:46:42Z",
   "allDeps": {
     "packages": [],
     "urls": [],

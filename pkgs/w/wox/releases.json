@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "wox",
   "fqn": "nim-wox.roose.github.com",
+  "current": "192439d1a6ecc152c828a8f96bae798f023747d0",
   "author": "roose",
   "description": "Helper library for writing Wox plugins in Nim",
   "license": "MIT",
@@ -13,8 +14,7 @@
   "releases": [
     {
       "v": "0.4.0@e8b9dc91c3b6df9f668c99112adc898de9bd1bf4",
-      "r": [],
-      "p": []
+      "r": []
     },
     {
       "v": "0.5.0@1bdfb28685fed2226bd8401290157af668e24eb0",
@@ -60,7 +60,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:31Z",
+  "generatedAt": "2026-05-26T15:55:15Z",
   "allDeps": {
     "packages": [
       "graphemes > 0.5.1",

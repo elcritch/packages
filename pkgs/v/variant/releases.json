@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "variant",
   "fqn": "variant.yglukhov.github.com",
+  "current": "097031a499d18d5f4b1fe2f4c16d3f1ded8c7f45",
   "author": "Yuriy Glukhov",
   "description": "Variant type and type matching",
   "license": "MIT",
@@ -69,7 +70,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:07Z",
+  "generatedAt": "2026-05-26T15:54:45Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

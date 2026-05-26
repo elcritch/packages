@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nuwa_sdk",
   "fqn": "nuwa-sdk.martineastwood.github.com",
+  "current": "7957b203b3ccdb095ea07f8e8db450e69072fbe0",
   "author": "Martin Eastwood",
   "description": "SDK for Nuwa Build - provides compile-time metadata for Python stub generation and numpy array wrappers",
   "license": "MIT",
@@ -58,7 +59,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:40Z",
+  "generatedAt": "2026-05-26T15:51:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

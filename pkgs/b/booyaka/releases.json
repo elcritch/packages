@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "booyaka",
   "fqn": "booyaka.openpeeps.github.com",
+  "current": "b60e12b1897b581eb2a8565795378d4df3650c5b",
   "author": "George Lemon",
   "description": "A fast documentation generator for cool kids!",
   "license": "AGPL-3.0-or-later",
@@ -30,13 +31,11 @@
         "libffi"
       ],
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/booyaka.openpeeps.github.com-7bf1bcae-booyaka.nimble\ncannot resolve package name: enimsql",
-      "b": "",
-      "p": []
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/booyaka.openpeeps.github.com-7bf1bcae-booyaka.nimble\ncannot resolve package name: enimsql"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:37Z",
+  "generatedAt": "2026-05-26T15:44:58Z",
   "allDeps": {
     "packages": [
       "ansiparse",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimagehide",
   "fqn": "nimagehide.MnlPhlp.github.com",
+  "current": "1beb5968302420be67719875e138b41ec8330458",
   "author": "MnlPhlp",
   "description": "A library to hide data in images. Usable as library or cli tool.",
   "license": "MIT",
@@ -19,10 +20,7 @@
       "v": "0.1.0@ece6899dc05556b353bda2dc64680580ece67392",
       "r": [
         "stb_image >= 2.3"
-      ],
-      "k": [],
-      "p": [],
-      "e": ""
+      ]
     },
     {
       "v": "0.1.5@77277379903d9607cda83ca7eb5f34c785bf671c",
@@ -30,9 +28,7 @@
         "stb_image >= 2.3",
         "cligen >= 0.9.40"
       ],
-      "e": "c",
-      "k": [],
-      "p": []
+      "e": "c"
     },
     {
       "v": "0.2.0@53c742bdcf5c96ac7271639dc306d5f542842231",
@@ -40,9 +36,7 @@
         "stb_image >= 2.3",
         "cligen >= 0.9.40"
       ],
-      "e": "c",
-      "k": [],
-      "p": []
+      "e": "c"
     },
     {
       "v": "0.2.5@ade9154a4042b62cf7ed87812de89024b04b24eb",
@@ -50,13 +44,11 @@
         "stb_image >= 2.3",
         "cligen >= 0.9.40"
       ],
-      "e": "c",
-      "k": [],
-      "p": []
+      "e": "c"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:39Z",
+  "generatedAt": "2026-05-26T15:50:10Z",
   "allDeps": {
     "packages": [
       "cligen > 0.1.0",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "opencolor",
   "fqn": "opencolor.nim.Double-oxygeN.github.com",
+  "current": "dacf2cfc1662735567f9427e5165814aee9ca912",
   "author": "Double-oxygeN",
   "description": "Nim bindings for Open color",
   "license": "MIT",
@@ -14,17 +15,15 @@
   "releases": [
     {
       "v": "1.9.1.1@4e58fa00b86fedf547f68b7310689a6009fdfab4",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.9.1@0990ff5df05a8bf0738f8dec166d8db10ffe11c0",
-      "r": [],
-      "x": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:46Z",
+  "generatedAt": "2026-05-26T15:51:38Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "XPLM-Nim",
   "fqn": "XPLM-Nim.jpoirier.github.com",
+  "current": "9bcb8f95ea55795d9ebc217b45624a806f10749b",
   "author": "Joseph Poirier",
   "description": "X-Plane XPLM SDK bindings.",
   "license": "BSD",
@@ -40,7 +41,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:11:47Z",
+  "generatedAt": "2026-05-26T15:43:55Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

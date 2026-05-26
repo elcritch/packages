@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "httpbeastfork",
   "fqn": "httpbeast_fork.ThomasTJdev.github.com",
+  "current": "c430925dd318994b7118735eb93d27062a752c82",
   "author": "Dominik Picheta",
   "description": "A super-fast epoll-backed and parallel HTTP server [FORK for nim v2.x.x]",
   "license": "MIT",
@@ -80,7 +81,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:52Z",
+  "generatedAt": "2026-05-26T15:47:52Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

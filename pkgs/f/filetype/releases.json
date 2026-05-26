@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "filetype",
   "fqn": "filetype.jiro4989.github.com",
+  "current": "23836b6e57fc64054585069602dc86eaf3d2546e",
   "author": "jiro4989",
   "description": "Small and dependency free Nim package to infer file and MIME type checking the magic numbers signature.",
   "license": "MIT",
@@ -58,7 +59,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:00Z",
+  "generatedAt": "2026-05-26T15:46:47Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

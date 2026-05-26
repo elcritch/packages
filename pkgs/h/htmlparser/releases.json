@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "htmlparser",
   "fqn": "htmlparser.nim-lang.github.com",
+  "current": "9d6b682f533eaf0da74afa66952cc0eaa836c993",
   "author": "Nim Contributors",
   "description": "Parse a HTML document in Nim.",
   "license": "MIT",
@@ -14,7 +15,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:50Z",
+  "generatedAt": "2026-05-26T15:47:50Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

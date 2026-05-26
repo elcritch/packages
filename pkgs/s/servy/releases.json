@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "servy",
   "fqn": "nim-servy.xmonader.github.com",
+  "current": "f097cdb5a0263b5592e36f65928ee53f00097613",
   "author": "xmonader",
   "description": "a down to earth webserver in nim",
   "license": "MIT",
@@ -13,12 +14,11 @@
   "releases": [
     {
       "v": "0.1.0@730323eb002034ccc9a9f3350cdf9a0800c9e656",
-      "r": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:53Z",
+  "generatedAt": "2026-05-26T15:53:06Z",
   "allDeps": {
     "packages": [],
     "urls": [],

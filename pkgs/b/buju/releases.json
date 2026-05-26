@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "buju",
   "fqn": "buju.haoyu234.github.com",
+  "current": "92094f86677d69edb85926994173dadf743ae14a",
   "author": "haoyu234",
   "description": "simple layout engine",
   "license": "MIT",
@@ -15,33 +16,29 @@
       "v": "0.2.3@f394b4f2d8042b355f624ae680b5c6214fa72449",
       "r": [
         "vmath >= 2.0.0"
-      ],
-      "k": []
+      ]
     },
     {
       "v": "0.2.2@622493909eb6222122931bf68c585ed622530a69",
       "r": [
         "vmath >= 2.0.0"
-      ],
-      "k": []
+      ]
     },
     {
       "v": "0.2.1@d42015aeff3e734a985f713661e91a17f7633d49",
       "r": [
         "vmath >= 2.0.0"
-      ],
-      "k": []
+      ]
     },
     {
       "v": "0.1.0@9ffa93001e44b9798fdc4eabc1c7d0324ed4612a",
       "r": [
         "vmath >= 2.0.0"
-      ],
-      "k": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:41Z",
+  "generatedAt": "2026-05-26T15:45:05Z",
   "allDeps": {
     "packages": [
       "mddoc",

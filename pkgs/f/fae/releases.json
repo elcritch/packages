@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "fae",
   "fqn": "fae.h3rald.github.com",
+  "current": "19479c7091968a79b96bd250a9dd89e579437c39",
   "nim": "1.4.0",
   "srcDir": "src",
   "installExt": [
@@ -12,20 +13,18 @@
   "releases": [
     {
       "v": "1.1.0@9682afb0008d0ef053c89ca17b19e92216631f4f",
-      "r": [],
-      "k": []
+      "r": []
     },
     {
       "v": "1.0.0@cc3b275099573f97d77f69e5f66cb7595a8cc89d",
       "r": [
         "nifty"
       ],
-      "h": true,
-      "k": []
+      "h": true
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:52Z",
+  "generatedAt": "2026-05-26T15:46:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

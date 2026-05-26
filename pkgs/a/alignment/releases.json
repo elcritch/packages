@@ -53,12 +53,33 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:11:51Z",
+  "generatedAt": "2026-05-26T15:44:00Z",
   "allDeps": {
     "packages": [
       "eastasianwidth"
     ],
     "urls": [],
     "unresolved": []
+  },
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "1.0.0",
+      "1.1.0",
+      "v1.1.2",
+      "v1.2.0",
+      "v1.2.1",
+      "v1.3.0"
+    ],
+    "tagVersions": {
+      "v1.1.2": "1.1.2",
+      "v1.2.0": "1.2.0",
+      "v1.2.1": "1.2.1",
+      "v1.3.0": "1.3.0"
+    },
+    "latest": "v1.3.0"
   }
 }

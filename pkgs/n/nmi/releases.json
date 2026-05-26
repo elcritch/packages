@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nmi",
   "fqn": "nmi.jiro4989.github.com",
+  "current": "54fdd4730965908ddc598fa06fb4e607d9075db8",
   "author": "jiro4989",
   "description": "nmi display animations aimed to correct users who accidentally enter nmi instead of nim.",
   "license": "MIT",
@@ -14,25 +15,19 @@
   "releases": [
     {
       "v": "1.1.0@54fdd4730965908ddc598fa06fb4e607d9075db8^",
-      "r": [],
-      "b": "",
-      "p": []
+      "r": []
     },
     {
       "v": "1.0.1@fa464d7418764e7d1289b5e734f2d7c01a3262a6",
-      "r": [],
-      "b": "",
-      "p": []
+      "r": []
     },
     {
       "v": "1.0.0@fa22123748f7c1baa1b6908f1d252db313a696ae",
-      "r": [],
-      "b": "",
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:24Z",
+  "generatedAt": "2026-05-26T15:51:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

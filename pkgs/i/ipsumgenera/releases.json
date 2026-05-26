@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "ipsumgenera",
   "fqn": "ipsumgenera.dom96.github.com",
+  "current": "86d141379d32c22ed65695c032226e8e6718fe03",
   "author": "Dominik Picheta",
   "description": "A static blog generator.",
   "license": "MIT",
@@ -13,12 +14,11 @@
   "releases": [
     {
       "v": "0.1.1@a62438cd5c457336f3e2678dcbcc1496420c82bd",
-      "r": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:05Z",
+  "generatedAt": "2026-05-26T15:48:09Z",
   "allDeps": {
     "packages": [],
     "urls": [],

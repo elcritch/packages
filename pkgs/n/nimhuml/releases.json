@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimhuml",
   "fqn": "nimhuml.w3Abhishek.github.com",
+  "current": "f02c2e9b8942bc7e070611dc4fd6f8ce0f54b616",
   "author": "Abhishek Verma",
   "description": "A Nim implementation of HUML (Human-Oriented Markup Language) parser and serializer",
   "license": "MIT",
@@ -14,7 +15,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:55Z",
+  "generatedAt": "2026-05-26T15:50:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

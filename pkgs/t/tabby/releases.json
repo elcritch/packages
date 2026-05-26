@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "tabby",
   "fqn": "tabby.treeform.github.com",
+  "current": "7bbdbfba9cc80f5b017a3123f9dd29e5b0601c79",
   "author": "Andre von Houck",
   "description": "Direct to object CSV/TSV/tabulated data parser with hooks.",
   "license": "MIT",
@@ -18,7 +19,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:30Z",
+  "generatedAt": "2026-05-26T15:53:55Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

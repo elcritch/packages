@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimrax",
   "fqn": "nimrax.genotrance.github.com",
+  "current": "173032745766bf30e56b1696fc3a2aade2306350",
   "author": "genotrance",
   "description": "Radix tree wrapper for Nim",
   "license": "MIT",
@@ -14,20 +15,18 @@
       "r": [
         "nimgen >= 0.5.0"
       ],
-      "h": true,
-      "x": []
+      "h": true
     },
     {
       "v": "0.1.0@c3963b1b07f0fc43f244d60f992610faca1a5acd",
       "r": [
         "nimgen >= 0.1.4"
       ],
-      "h": true,
-      "x": []
+      "h": true
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:10Z",
+  "generatedAt": "2026-05-26T15:50:50Z",
   "allDeps": {
     "packages": [
       "c2nim",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "kview",
   "fqn": "kview.planety.github.com",
+  "current": "f6bbd5103e2db7f426239d1c207ce636eb7ac016",
   "author": "flywind",
   "description": "For karax html preview.",
   "license": "BSD-3-Clause",
@@ -22,7 +23,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:20Z",
+  "generatedAt": "2026-05-26T15:48:30Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

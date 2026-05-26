@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "reactor",
   "fqn": "reactor.nim.zielmicha.github.com",
+  "current": "bd1d83df1cb7c7cf707909cf0659841cb35af26f",
   "author": "Michał Zieliński <michal@zielinscy.org.pl>",
   "description": "Asynchronous networking engine for Nim",
   "license": "MIT",
@@ -17,15 +18,13 @@
       "v": "0.5.0@718cf015536603c0505817ea45b7acfb4038cc0f",
       "r": [
         "collections >= 0.5.0"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "0.4.6@54fcbec0059bbae4939dcb8e540cede6bc61d08a",
       "r": [
         "collections >= 0.4.0"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "0.4.5@5a1148f325c7296d7e4642d063446b2f40c58740",
@@ -39,11 +38,6 @@
     },
     {
       "v": "0.4.3@6d1e16fe2ed47634e999fbeae77cda6262b3a026",
-      "r": [],
-      "x": []
-    },
-    {
-      "v": "0.4.2@dfa2f0cba05f2a4d6b2174c04658175bede929e8",
       "r": [],
       "x": []
     },
@@ -79,7 +73,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:31Z",
+  "generatedAt": "2026-05-26T15:52:36Z",
   "allDeps": {
     "packages": [
       "collections > 0.4.5"

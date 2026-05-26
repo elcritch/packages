@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nlopt",
   "fqn": "nimnlopt.Vindaar.github.com",
+  "current": "d6d47bf5af81ca06ddb690a988b57f7a0b3f3223",
   "author": "Sebastian Schmidt",
   "description": "A wrapper of the C library NLOPT for non-linear optimization",
   "license": "MIT",
@@ -16,25 +17,19 @@
   "releases": [
     {
       "v": "0.3.2@d6d47bf5af81ca06ddb690a988b57f7a0b3f3223^",
-      "r": [],
-      "x": [],
-      "z": []
+      "r": []
     },
     {
       "v": "0.3.1@3833ae907beab3da8151c4d364db37686747c082",
-      "r": [],
-      "x": [],
-      "z": []
+      "r": []
     },
     {
       "v": "0.3.0@3654926275fe588e03760273ccc871ea05d16969",
-      "r": [],
-      "x": [],
-      "z": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:23Z",
+  "generatedAt": "2026-05-26T15:51:09Z",
   "allDeps": {
     "packages": [],
     "urls": [],

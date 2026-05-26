@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "murmur3",
   "fqn": "nimrod-murmur.boydgreenfield.github.com",
+  "current": "ebf44c9a5f145608f1b37ecbf38c8819e40b4b01",
   "author": "Nick Boyd Greenfield",
   "description": "Simple Murmurhash3 wrapper (for strings only at the moment). MurmurHash code is by Austin Appleby and in the public domain.",
   "license": "MIT",
@@ -34,7 +35,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:12Z",
+  "generatedAt": "2026-05-26T15:49:34Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

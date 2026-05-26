@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimbitarray",
   "fqn": "bitarray.YesDrX.github.com",
+  "current": "75f36b24a1388bdc301ba219fd28bd1768b02885",
   "author": "Yes DrX",
   "description": "bitarray",
   "license": "MIT",
@@ -14,7 +15,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:42Z",
+  "generatedAt": "2026-05-26T15:50:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

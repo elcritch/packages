@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "alasgar",
   "fqn": "alasgar.abisxir.github.com",
+  "current": "766858a8160fa75d57a48730e101639885ba5096",
   "author": "Abi Mohammadi",
   "description": "Game Engine",
   "license": "MIT",
@@ -29,9 +30,7 @@
         "gh:tormund/nester",
         "gh:yglukhov/android",
         "darwin"
-      ],
-      "i": [],
-      "j": []
+      ]
     },
     {
       "v": "0.4@5b80a615a79bbe88cad726a40b26e1c1bb481fcc",
@@ -46,9 +45,7 @@
         "gh:tormund/nester",
         "gh:yglukhov/android",
         "darwin"
-      ],
-      "i": [],
-      "j": []
+      ]
     },
     {
       "v": "0.4.1@69541fc188115b1521829207d9f665f76ef07395",
@@ -58,9 +55,7 @@
         "stb_image",
         "jnim",
         "gh:yglukhov/android"
-      ],
-      "i": [],
-      "j": []
+      ]
     },
     {
       "v": "0.4.3@1dfd2762af85da202832281f1ae55fa63e910fb2",
@@ -70,9 +65,7 @@
         "stb_image",
         "jnim",
         "gh:yglukhov/android"
-      ],
-      "i": [],
-      "j": []
+      ]
     },
     {
       "v": "0.4.4@5c89c479d4547812b9aef0fa1872a98960310141",
@@ -82,13 +75,11 @@
         "stb_image 2.5",
         "jnim 0.5.2",
         "gh:yglukhov/android"
-      ],
-      "i": [],
-      "j": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:11:51Z",
+  "generatedAt": "2026-05-26T15:44:00Z",
   "allDeps": {
     "packages": [
       "checksums > 0.4",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "chame",
   "fqn": "chame.~bptato.git.sr.ht",
+  "current": "c82fe15fd4d8e1e11718287c61ac70f1583cfca5",
   "author": "bptato",
   "description": "HTML5 parser for Chawan",
   "license": "Unlicense",
@@ -13,28 +14,23 @@
   "releases": [
     {
       "v": "1.0.5@ed76eaf2fec85d3957fadb6e4a9895b1925effd0",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.0.4@ffc73ae08dc28c25fcfc43cfd791722333ef1b0e",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.0.3@35fd66657a7ad66071633f6637742e4b845df1a7",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.0.2@f258899774aa9ea23821bb49a5fe01dfdf58e780",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.0.1@b7df5ab216d29267c57c32811cf6bc51b5eb39c6",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.0.0@67cc680f99ddfd37cc9a1da86e56929d701d026a",
@@ -146,7 +142,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:56Z",
+  "generatedAt": "2026-05-26T15:45:21Z",
   "allDeps": {
     "packages": [],
     "urls": [],

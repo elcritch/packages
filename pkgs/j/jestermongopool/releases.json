@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "jestermongopool",
   "fqn": "jestermongopool.JohnAD.github.com",
+  "current": "a6503a5eaea3525a028f70b27a91760b188973e7",
   "author": "John Dupuy",
   "description": "Jester plugin(s) that support the MongoPool MongoDb driver.",
   "license": "MIT",
@@ -16,12 +17,11 @@
       "r": [
         "jesterwithplugins >= 0.5.0",
         "mongopool >= 1.0.1"
-      ],
-      "z": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:09Z",
+  "generatedAt": "2026-05-26T15:48:15Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "parseFixed",
   "fqn": "parsefixed.jlp765.github.com",
+  "current": "f57c3063aa4f1a6830ca18113ac2935b7e9cb1cc",
   "nim": "0.11.2",
   "releases": [
     {
@@ -10,7 +11,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:58Z",
+  "generatedAt": "2026-05-26T15:51:52Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "ioselectors",
   "fqn": "ioselectors.ringabout.github.com",
+  "current": "c9344036936a49db3ff1bce97e0896d6aabcf22d",
   "author": "ringabout",
   "description": "Selectors extension.",
   "license": "Apache-2.0",
@@ -52,7 +53,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:05Z",
+  "generatedAt": "2026-05-26T15:48:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

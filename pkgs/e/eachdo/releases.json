@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "eachdo",
   "fqn": "eachdo.jiro4989.github.com",
+  "current": "2e4171452594f9a1b2ebdaa92ec03b06c6b48d2e",
   "author": "jiro4989",
   "description": "eachdo executes commands with each multidimensional values",
   "license": "MIT",
@@ -16,21 +17,17 @@
       "v": "0.1.1@2e4171452594f9a1b2ebdaa92ec03b06c6b48d2e^",
       "r": [
         "argparse >= 0.10.1"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "0.1.0@7a0e2fb36e2eb670fdfe21a5b0b9f1ff93c78998",
       "r": [
         "argparse >= 0.10.1"
-      ],
-      "b": "",
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:41Z",
+  "generatedAt": "2026-05-26T15:46:19Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

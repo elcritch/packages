@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "uibuilder",
   "fqn": "uibuilder.nim.ba0f3.github.com",
+  "current": "8418698fcb824ab452b7f936d19fe464e6fec714",
   "author": "Huy Doan",
   "description": "UI building with Gnome's Glade",
   "license": "MIT",
@@ -19,9 +20,7 @@
       "r": [
         "ui >= 0.9.2",
         "xml #devel"
-      ],
-      "x": [],
-      "p": []
+      ]
     },
     {
       "v": "0.1.1@1ec0d7e9c739438a581471c1804a153c0f9831ba",
@@ -29,22 +28,18 @@
         "ui >= 0.9.2",
         "q >= 0.0.6",
         "xml >= 0.1.1"
-      ],
-      "x": [],
-      "p": []
+      ]
     },
     {
       "v": "0.1.0@b62e03700b8f388b6707081640eeca6af5371b2c",
       "r": [
         "ui >= 0.9.2",
         "q >= 0.0.6"
-      ],
-      "x": [],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:56Z",
+  "generatedAt": "2026-05-26T15:54:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

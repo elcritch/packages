@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nanim",
   "fqn": "nanim.ErikWDev.github.com",
+  "current": "b9e5cd59ff000001ac1b58029089e40994bf869d",
   "author": "EriKWDev",
   "description": "A new awesome nimble package",
   "license": "MIT",
@@ -29,8 +30,7 @@
         "nanovg #099121232829722752d33e0472a11201195feb55"
       ],
       "d": "Nanim is an easy-to-use framework to create smooth GPU-accelerated animations and export them to videos.",
-      "m": "1.4.2",
-      "x": []
+      "m": "1.4.2"
     },
     {
       "v": "0.3.0@49c664c7310f849b091932142a57829daeeb8102",
@@ -41,8 +41,7 @@
         "rainbow >= 0.2.0"
       ],
       "d": "Nanim is an easy-to-use framework to create smooth GPU-accelerated animations and export them to videos.",
-      "m": "1.4.2",
-      "x": []
+      "m": "1.4.2"
     },
     {
       "v": "0.3.1@f454a046745e8ffe8982e2e359b0ca3f1cc8ae2e",
@@ -94,7 +93,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:14Z",
+  "generatedAt": "2026-05-26T15:49:38Z",
   "allDeps": {
     "packages": [
       "glfw <= 0.2.0",

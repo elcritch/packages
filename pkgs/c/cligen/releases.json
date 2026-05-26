@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "cligen",
   "fqn": "cligen.c-blake.github.com",
+  "current": "7804c03214f3780346bf7be69b17e966c42bcc44",
   "author": "Charles Blake",
   "description": "Infer & generate command-line interface/option/argument parser",
   "license": "MIT/ISC",
@@ -12,800 +13,665 @@
   "releases": [
     {
       "v": "1.9.6@a9511be3b12f3117a142e3490dc5653933df7d42",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.9.5@f082560a4bbd4afa1b35e9810b291d17c265b666",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.9.4@3d1797403b717974ef40a52f41a7ff96ba201ca1",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.9.3@55aa1c79939dc04875d1c9fefa12e52582f39fae",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.9.2@c41e6e8af33d89d13ade880f65eda45f5be5595c",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.9.1@79f1566ee77f696b2ee85ef56f9c14c68c93d089",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.9.0@b75a4a04bc74e28c692ce3d3152013aef0ff3eb6",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.8.10@fd3ba2bad89ee496a25edc4d0b0fd5e813cd75b7",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.8.9@d875561e8c01885771ddbca16307a7c4496ddcf8",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.8.8@83546130e148ee808eb8332df6688986cb4cfb06",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.8.7@f19284f3da0c333196f799a36555b027323b9628",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.8.6@b45a7d00e42ec7b353b9d7f3c8f669fb3c2b6d66",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.8.5@a8b9513d548e5f20ef038b96b5557180bfea5235",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.8.4@678f141c8e109e21c9e3086520589ccdc8e74f3c",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.8.3@fe45e856672f8d16f63931f2e54a3e7d143b2972",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.8.2@85be609a15ca9e2f9069ff9da07416c31f094a8a",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.8.1@213db23859cc20904d768006f030f68a9e4c9fa7",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.8.0@3a56804b4e9f6ce804df82a57112f010516acc90",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.7.9@703edd1f5f557f6c01681159b63eb46bacf6a609",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.7.8@e274362fc12dff368aeacd982112385f59fc8c49",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.7.7@f50f887eacfe33866e22f8a0d322e29a1c830cf9",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.7.6@54f1da5d63cf7e116625e2392e85ae54c2b70719",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.7.5@85daafd76b0104387f50ff3f75c829b4c2804412",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.7.4@32902f690ed31c80b3fb807f1f0b7ca926a4c41b",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.7.3@0e7b3b3a1fa77c448d3681c5fdf85197844cb7e4",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.7.2@8170dcc952a49b59f3ef16cfdb2f00b2e716213d",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.7.1@f9c8b960ab07e83bde63d8ea790925708db0c981",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.7.0@4193f802796f15559c81c6dd56724d6f20345917",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.6.18@c54e2f3ea09d405a0d1b9bd8e7c0472d657d1193",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.6.17@6f6cd154e88b33a21183e8f07edd253cf6dc00df",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.6.16@d9c10ef7aa54b6d9423a585eeebd36fd4ccd0f7c",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.6.15@e607467c4e6a6c54f02b555135bce35eafa714c5",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.6.14@bee21f2d0878d4eba4631fd8b67370e4778424de",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.6.13@8d4e5fb58917eb681d3babd8561ddd175f01df3d",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.6.12@633cc9dc66b233412f1d38d06fc12d8a406c8137",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.6.11@4db43e24e2db95b7a26d82439443e545f9d6a708",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.6.10@8f52a52cd16e25757f1390d27d2814dc664f9630",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.6.9@e3209014485f3f8cde812fac3701029c87587a52",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.6.8@38d34d695e266e8c3f0a1af5c2726510875fc249",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.6.7@fe6c98c0681949b4a8b2bab3948f50bc6cd94c4f",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.6.6@446ecbf46ebc610b0a8f96ede2d505176b8c2e21",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.6.5@aa57bc47a22b27530d4ed08b60fb2be4cbe718b6",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.6.4@ea1a80d298d3af69a098cbc9c4e254de4329dd94",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.6.3@9c90e21f70b61566fb6e4813a0323de30c1bb33e",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.6.2@88da8ff8e9693ed10c57d59c032b7b17fab2a55d",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.6.1@acc0ff8be229be42ed325966a5468300afdde82a",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.6.0@1a1c9c79a93435d9647a16faedd7c593a7afa0d8",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.5.42@e18639f733842ae14c2e2ff75b49cc63bef9f144",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.5.41@a2a13519df95cbd00a58d794bd3bb6e057e8ad7f",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.5.40@a287dc03e0ae561967b2a09921232f72289d130f",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.5.39@4e0566eb93fa50182fe7875a7de774bc25a3d821",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.5.38@210bb475c1c7c00f5e01b7a70a151dedc61098dd",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.5.37@6a92813ddb750a56675cf1ce6dc554d78503e47a",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.5.36@f168e19822226c63514b18c986a52449317ab5ab",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.5.35@4ca70c7700f31e901a30a603983061142e7c7637",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.5.34@907cd5fe8254f82ef62747cd2e1133059ace544a",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.5.33@d8c7f4965dc76797e65808b6f4df121d20455f84",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.5.32@8fe620d7cd2fcae80c86db52f025e832d784cfeb",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.5.31@57191ea4dcc5d48de735295b2d8a79fb3b501625",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.5.30@26b0b5b373783434221bd893522da2a70611c3c7",
       "r": [],
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.5.29@e7b87967ff9c22cac15cea07cc20f6e5c8513c05",
       "r": [],
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.5.28@0cf4a770a017531c230e6a61313e0714d0d70252",
       "r": [],
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.5.27@1cad3607553f24556176b2c883a1796abfd7375c",
       "r": [],
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.5.26@0a074942d2635ed32f7ced7211d1021a9e2b90ad",
       "r": [],
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.5.25@b955b2d911cc12fb1f6095b3b901e4da889b93d1",
       "r": [],
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.5.24@a276fa26fd352816f2ff807591540b27c5247c4a",
       "r": [],
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.5.23@cac47b08172978dad61d08debd0e68c3f249a3f7",
       "r": [],
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.5.22@67cd93ef7568011b17ccda4d9a5f9011142da25e",
       "r": [],
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.5.21@44f9e80ea2f8bbca001d74b2c2804de70a8e51e5",
       "r": [],
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.5.20@91c937d4f06861c86b19508d272cda01148873be",
       "r": [],
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.5.19@b962cf8bc0be847cbc1b4f77952775de765e9689",
       "r": [],
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.5.18@039b0c5358d25a875d718bb36306a4a51a92004e",
       "r": [],
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.5.17@b7402e398a5033b20a0025a87e1292f339fa05cf",
       "r": [],
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.5.16@31e1147120ffea6b1e82992421332741fa82a793",
       "r": [],
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.5.15@aa75c644d485fc085e2734e74d2339a55f947cae",
       "r": [],
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.5.14@b319cc9ee237a3a719efb2b921f03f75a0ec645f",
       "r": [],
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.5.13@217e7aeec0259cbb7b65c90f7e8ff36deb945443",
       "r": [],
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.5.12@7a8d127e45bc040855d280f0996dc2ff439a7755",
       "r": [],
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.5.11@8259487a0b87c5fb168b0078852b5379dd3c4dd5",
       "r": [],
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.5.10@7416ffa68d2ae8413593913b574301f265099d7f",
       "r": [],
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.5.9@b402e530ac6b6f680ba55ec4a03d169ac362c053",
       "r": [],
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.5.8@5df69ffd62f91d80d9f2e28e7a7574d3574a051d",
       "r": [],
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.5.7@6392a81cf9a55f33ebb3dfc0199a9502dbec0b80",
       "r": [],
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.5.6@a53433cda96f94ba59c20a739b6f96268b1867ea",
       "r": [],
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.5.5@f75742174539689e0831f05fc5d521bbf83df141",
       "r": [],
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.5.4@e04fc10684b3f3a28c99bcab4686e5e8501a160a",
       "r": [],
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.5.3@7f07c2c03b4763188f0aaf358baff13de2d7493f",
       "r": [],
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.5.2@6d2a51eda16cadc43d3581c5aafa91c7c4ca8835",
       "r": [],
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.5.1@2a81f2a87e5a33094e839ad64b4f05cf7784be6d",
       "r": [],
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.5.0@4d1ad460121faa02fab2e6d084862432e1799805",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.4.1@34b21db967a1a24d700e101ee1f30cc6db862d63",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.4.0@f7ee6caeefe30d1d474b3274d24837aa867d2d6b",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.3.2@71699d7f95e517831e19b0bd8922b944b72aadc3",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.3.1@4c592f3a6a650359d7971d506bc6ab4ea88f00b5",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.3.0@832deba3b04a1b517def1d35b40f3f35eed6b4ac",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.2.2@eb15f6dd9116fab137cd3e0a7909023b5a47d803",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.2.1@a294008e629ae298eb75d0f6c7b6d4530e6551a4",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.2.0@63974cba2e40b3e7677295a034a89a7ddbc873ab",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.1.0@545936c6b99c34d981a417123cc7664878533523",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "1.0.0@57cd7ebaba33f49bdf7bda642c1e6e59906023e1",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "0.9.47@e08af1ded53f92b578274b275389d0ec122682c3",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "0.9.46@489fe86244cf2e9c97ff9fa0eb4a7c2555abc75c",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "0.9.45@88394cd9c747a061e0e54fb7988e41e8a4a495d0",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "0.9.44@aee478a5d37b6d11122bafbaa3ac0186648bda41",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "0.9.43@5798c00aa428a4d371f72ef5eebc6613513b5be5",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "0.9.42@04ced703878bbcca11f0071d75f3164f9f0eb576",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "0.9.41@b144d5b3392bac63ed49df3e1f176becbbf04e24",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "0.9.40@e6243489021f679e3a24325db0855c2aaacc96e2",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "0.9.39@4a2bbf0169f0c027abef3ca1dd9962ea6f9147a6",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "0.9.38@61c2c3bca7a3a50cd67e23c27587203812e4221d",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "0.9.37@49d90c546fec8a1dbf3df33c336896ea0542e867",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "0.9.36@99af408a6f648f09d2cd8f20108c596c67fa5d0d",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "0.9.35@93545fde9134470d55ce879ab19bbf3920016824",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "0.9.34@c5f5bd3c9ecab8c989b5764c19e2c88b07868ea4",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "0.9.33@d2564cd21671df82b0ccb5bc5e6e883756a077d3",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "0.9.32@f52c36c0c19ba5b9b56173f600bd70a23a9ad765",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "0.9.31@71aef9dd7d49e9f313eac6c5c7062a0870d462f5",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "0.9.30@68e78a822c1686acea71817793491094129308b3",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "0.9.29@5fee35967870bb93efc35e624560a9140c334c16",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "0.9.28@d2b0100ebff51d34e86f5fb4b6435494dab10819",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "0.9.27@7d02c596afd452bae8902615b4d0f1d75ec35c3b",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "0.9.26@cc363275c4e1cabfb7e7adffac3b2cedcaa079bb",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "0.9.25@3a3d1dfe88416b4d553725684e2fc07f8934925e",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "0.9.24@fe08f90aa6fb6c9b939c426bbbeaad5b55245650",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "0.9.23@9ae7c88a1de77b6d344b21b41bc59121d11e3ec2",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "0.9.22@ba75db4dfd12a1406cb47b6b53222b9af5334ef9",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "0.9.19@7d0e78d5cb873184bd883ccc97191c2107041785",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.2",
-      "x": []
+      "m": "0.19.2"
     },
     {
       "v": "0.9.18@b9e3f02d5ae041ab4fa96a4ab49c90dfab2fab46",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.0",
-      "x": []
+      "m": "0.19.0"
     },
     {
       "v": "0.9.17@ba54de396348cf8a6e807a70585b74d11f93bb71",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.0",
-      "x": []
+      "m": "0.19.0"
     },
     {
       "v": "0.9.16@cff0e08dcb353c2c508ac9286ed7929e4b62d10a",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.19.0",
-      "x": []
+      "m": "0.19.0"
     },
     {
       "v": "0.9.15@28e42f25b0baa4852a4ad3bff31de20484fc3684",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.13.0",
-      "x": []
+      "m": "0.13.0"
     },
     {
       "v": "0.9.13@f26278f99a35134c6cf9843ac53d45742ad26581",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.13.0",
-      "x": []
+      "m": "0.13.0"
     },
     {
       "v": "0.9.12@ea01b2a1c5a9515291a45f6a96720265e7a34b8d",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.13.0",
-      "x": []
+      "m": "0.13.0"
     },
     {
       "v": "0.9.11@fda99e5ff99807399fe699ee1819386971a25fc8",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.13.0",
-      "x": []
+      "m": "0.13.0"
     },
     {
       "v": "0.9.10@3da23df929dd642180325d735e7d4954260202d2",
       "r": [],
       "d": "Infer & generate command-line interace/option/argument parser",
-      "m": "0.13.0",
-      "x": []
+      "m": "0.13.0"
     },
     {
       "v": "0.9.9@4ed0e6bc4d39e71f75609b32be8b1f4c2a76c1ea",
@@ -830,15 +696,13 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:07Z",
+  "generatedAt": "2026-05-26T15:45:35Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
       "zip": "/archive/refs/tags/{tag}.zip"
     },
     "releases": [
-      "1.6.0",
-      "1.6.1",
       "1.6.10",
       "1.6.11",
       "1.6.12",
@@ -848,11 +712,6 @@
       "1.6.16",
       "1.6.17",
       "1.6.18",
-      "1.6.2",
-      "1.6.3",
-      "1.6.4",
-      "1.6.5",
-      "1.6.6",
       "1.6.7",
       "1.6.8",
       "1.6.9",
@@ -883,36 +742,8 @@
       "1.9.3",
       "1.9.4",
       "1.9.5",
-      "1.9.6",
-      "v1.5.30",
-      "v1.5.31",
-      "v1.5.32",
-      "v1.5.33",
-      "v1.5.34",
-      "v1.5.35",
-      "v1.5.36",
-      "v1.5.37",
-      "v1.5.38",
-      "v1.5.39",
-      "v1.5.40",
-      "v1.5.41",
-      "v1.5.42"
+      "1.9.6"
     ],
-    "tagVersions": {
-      "v1.5.30": "1.5.30",
-      "v1.5.31": "1.5.31",
-      "v1.5.32": "1.5.32",
-      "v1.5.33": "1.5.33",
-      "v1.5.34": "1.5.34",
-      "v1.5.35": "1.5.35",
-      "v1.5.36": "1.5.36",
-      "v1.5.37": "1.5.37",
-      "v1.5.38": "1.5.38",
-      "v1.5.39": "1.5.39",
-      "v1.5.40": "1.5.40",
-      "v1.5.41": "1.5.41",
-      "v1.5.42": "1.5.42"
-    },
     "latest": "1.9.6"
   },
   "allDeps": {

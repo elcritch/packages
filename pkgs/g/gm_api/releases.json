@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "gm_api",
   "fqn": "gm_api.thisago.github.com",
+  "current": "5c03f5344a7932f98f3bef6c128f8af35d2ddb29",
   "author": "Thiago Navarro",
   "description": "Bindings for Greasemonkey API and header generator",
   "license": "MIT",
@@ -11,17 +12,15 @@
   "releases": [
     {
       "v": "0.3.1@da7d9007250cc1fd759d81b50a0c7740296e4982",
-      "r": [],
-      "e": ""
+      "r": []
     },
     {
       "v": "0.3.0@af64b566c85df75e411e0f4745561f69fc275e98",
-      "r": [],
-      "e": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:27Z",
+  "generatedAt": "2026-05-26T15:47:22Z",
   "allDeps": {
     "packages": [],
     "urls": [],

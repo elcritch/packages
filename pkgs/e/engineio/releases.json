@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "engineio",
   "fqn": "engineio.samc0de.github.com",
+  "current": "5ea4196f38a986983a301cfc8c41a4df6ef065db",
   "releases": [
     {
       "v": "0.1@e942a65234a5af1027b3b4c6f26688bb32f767fb",
@@ -9,7 +10,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:45Z",
+  "generatedAt": "2026-05-26T15:46:25Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

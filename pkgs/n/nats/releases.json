@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nats",
   "fqn": "nim-nats.deem0n.github.com",
+  "current": "ca00be79a05b486fb7e11bfb3ed7a048927eb2ff",
   "author": "Dmitry Dorofeev",
   "description": "Nim wrapper for the nats.c - NATS client library",
   "license": "MIT",
@@ -22,7 +23,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:16Z",
+  "generatedAt": "2026-05-26T15:49:40Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "eternity",
   "fqn": "nim-eternity.hiteshjasani.github.com",
+  "current": "28a2900e62f829c4dd0aaa8f385c4e6cfc6bca16",
   "author": "Hitesh Jasani",
   "description": "A library to humanize elapsed times",
   "license": "MIT",
@@ -20,7 +21,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:47Z",
+  "generatedAt": "2026-05-26T15:46:30Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "libsodium",
   "fqn": "nim-libsodium.FedericoCeratto.github.com",
+  "current": "144d6d8d8d0d789e5e2649385276d83f61e9dc26",
   "author": "Federico Ceratto",
   "description": "libsodium wrapper",
   "license": "MPL-2.0",
@@ -56,7 +57,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:30Z",
+  "generatedAt": "2026-05-26T15:48:44Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

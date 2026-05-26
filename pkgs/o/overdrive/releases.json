@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "overdrive",
   "fqn": "overdrive.xTrayambak.github.com",
+  "current": "13cf1cab8157f4aebd6f1313c8203d0576e42539",
   "author": "xTrayambak",
   "description": "CPU-agnostic SIMD library for your acceleration needs",
   "license": "BSD-3-Clause",
@@ -24,7 +25,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:52Z",
+  "generatedAt": "2026-05-26T15:51:44Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

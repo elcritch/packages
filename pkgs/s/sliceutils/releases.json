@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "sliceutils",
   "fqn": "sliceutils.metagn.github.com",
+  "current": "f5729ca144ca37241ba70542049437f9938317b4",
   "author": "metagn",
   "description": "utils for Slice/HSlice",
   "license": "MIT",
@@ -44,7 +45,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:05Z",
+  "generatedAt": "2026-05-26T15:53:21Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

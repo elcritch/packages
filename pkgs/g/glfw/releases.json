@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "glfw",
   "fqn": "nim-glfw.johnnovak.github.com",
+  "current": "793a575b965b5897778ad3f0cd391971a4e22002",
   "author": "Erik Johansson Andersson, John Novak",
   "description": "GLFW 3 wrapper for Nim",
   "license": "MIT",
@@ -13,73 +14,62 @@
   "releases": [
     {
       "v": "3.4.0.5@793a575b965b5897778ad3f0cd391971a4e22002^",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "3.4.0.4@9ce5a44ba02dc1505c3d6cfb6ee848567aae613b",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "3.4.0.3@de901747bb752947d8186d657227d24301cec0de",
       "r": [],
-      "m": "2.0.6",
-      "x": []
+      "m": "2.0.6"
     },
     {
       "v": "3.4.0.2@5abb07ec6ab400802d3fa6ad55bcf195fd189b9e",
       "r": [],
-      "m": "2.0.6",
-      "x": []
+      "m": "2.0.6"
     },
     {
       "v": "3.4.0.0@1f6f0695914adef9b900cce2999d2b6e2825b3d9",
       "r": [],
-      "m": "2.0.2",
-      "x": []
+      "m": "2.0.2"
     },
     {
       "v": "3.3.4.0@f48c53f97ff9fb41700981205c7e28bdebbb4b03",
       "r": [],
       "a": "Erik Johansson Andersson",
-      "m": "1.6.0",
-      "x": []
+      "m": "1.6.0"
     },
     {
       "v": "3.3.2.1@8ff27ba97fa774d87540480421945786d1ba5aba",
       "r": [],
       "a": "Erik Johansson Andersson",
-      "m": "1.4.0",
-      "x": []
+      "m": "1.4.0"
     },
     {
       "v": "3.3.0.3@ff919dee823d069af5ebedb573103e41184d40da",
       "r": [],
       "a": "Erik Johansson Andersson",
-      "m": "1.0.2",
-      "x": []
+      "m": "1.0.2"
     },
     {
       "v": "3.3.0.2@347ffb4326ef577eea46363b1d1b5ca688cb2bab",
       "r": [],
       "a": "Erik Johansson Andersson",
-      "m": "1.0.2",
-      "x": []
+      "m": "1.0.2"
     },
     {
       "v": "3.3.0.1@a9b152eb7419c14ddc55dda752a9c34b356e44c0",
       "r": [],
       "a": "Erik Johansson Andersson",
-      "m": "1.0.2",
-      "x": []
+      "m": "1.0.2"
     },
     {
       "v": "3.3.0.0@5d5148989809b711f15548e23f26c4baa32a73fd",
       "r": [],
       "a": "Erik Johansson Andersson",
-      "m": "1.0.2",
-      "x": []
+      "m": "1.0.2"
     },
     {
       "v": "0.3.1@0b3d9684977992f01792a420c1c56749e9eb8beb",
@@ -87,8 +77,7 @@
       "a": "Erik Johansson Andersson",
       "d": "A GLFW 3 wrapper",
       "l": "BSD",
-      "m": "0.18.0",
-      "x": []
+      "m": "0.18.0"
     },
     {
       "v": "0.3.0@566e69393de858500a4a89cbc319790c3cd5813d",
@@ -115,7 +104,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:27Z",
+  "generatedAt": "2026-05-26T15:47:21Z",
   "allDeps": {
     "packages": [],
     "urls": [],

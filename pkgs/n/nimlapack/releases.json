@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimlapack",
   "fqn": "nimlapack.andreaferretti.github.com",
+  "current": "231430b3d2156f5cbe8fe16bb8967cd9a93964c5",
   "author": "Andrea Ferretti",
   "description": "Nim binding for LAPACK",
   "license": "Apache2",
@@ -18,43 +19,31 @@
   "releases": [
     {
       "v": "0.3.1@231430b3d2156f5cbe8fe16bb8967cd9a93964c5^",
-      "r": [],
-      "x": [],
-      "y": []
+      "r": []
     },
     {
       "v": "0.3.0@7a86e9aa7b2cecbc56735d80d0574b7516a8206e",
-      "r": [],
-      "x": [],
-      "y": []
+      "r": []
     },
     {
       "v": "0.2.2@8b9baa9a7b7ad5b068563aa39920f040769f9416",
-      "r": [],
-      "x": [],
-      "y": []
+      "r": []
     },
     {
       "v": "0.2.1@983fa690c98814ddef92747de70586a50379a804",
-      "r": [],
-      "x": [],
-      "y": []
+      "r": []
     },
     {
       "v": "0.2.0@e0bcb7cc0b77911d37ea0588656f69db56608aee",
-      "r": [],
-      "x": [],
-      "y": []
+      "r": []
     },
     {
       "v": "0.1.1@dfe88ee0a5e33a4917c268074b5809ad8f668027",
-      "r": [],
-      "x": [],
-      "y": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:59Z",
+  "generatedAt": "2026-05-26T15:50:37Z",
   "allDeps": {
     "packages": [],
     "urls": [],

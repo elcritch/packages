@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "sss",
   "fqn": "sss.nim.markspanbroek.github.com",
+  "current": "f36d8040d5d6940ed5e4dd0342eaab451944876e",
   "author": "Mark Spanbroek",
   "description": "Shamir secret sharing",
   "license": "MIT",
@@ -16,21 +17,15 @@
   "releases": [
     {
       "v": "0.3.3@baaf7e4b79a06dce4c3b215192baf8d0a3485fc3",
-      "r": [],
-      "i": [],
-      "j": []
+      "r": []
     },
     {
       "v": "0.3.2@1e2b05fe06e14bbcca21bac1c7d0515345fc8756",
-      "r": [],
-      "i": [],
-      "j": []
+      "r": []
     },
     {
       "v": "0.3.1@ec697d9c45bb7eda6a59de51f71893f91f459bd8",
-      "r": [],
-      "i": [],
-      "j": []
+      "r": []
     },
     {
       "v": "0.3.0@371da4426b90ee367d622caa405fa3f82839ac1b",
@@ -84,7 +79,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:16Z",
+  "generatedAt": "2026-05-26T15:53:35Z",
   "allDeps": {
     "packages": [
       "cligen <= 0.2.2",

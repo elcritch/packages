@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "fidget",
   "fqn": "fidget.treeform.github.com",
+  "current": "9b1661bc630222939cd2b9ee1dc2dc0a1cdd4e32",
   "author": "Andre von Houck",
   "description": "Fidget - UI Library",
   "license": "MIT",
@@ -384,7 +385,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:05Z",
+  "generatedAt": "2026-05-26T15:46:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

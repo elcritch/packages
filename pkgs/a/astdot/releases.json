@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "astdot",
   "fqn": "astdot.Rekihyt.github.com",
+  "current": "54a613bebe859ca40b23aaa4e88cc155530b4499",
   "author": "Rekihyt",
   "description": "Prints a dot graph of a nim ast dumped using the `dumpTree` macro.",
   "license": "MIT",
@@ -26,13 +27,11 @@
         "nimgraphviz >= 0.3.0"
       ],
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/astdot.Rekihyt.github.com-4aceb922-astdot.nimble\ncannot resolve package name: strings",
-      "b": "",
-      "p": []
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/astdot.Rekihyt.github.com-4aceb922-astdot.nimble\ncannot resolve package name: strings"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:04Z",
+  "generatedAt": "2026-05-26T15:44:17Z",
   "allDeps": {
     "packages": [
       "clapfn > 1.0.0",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimblegui",
   "fqn": "nim_nimble_gui.ThomasTJdev.github.com",
+  "current": "67f0e1612b9aca9d61df0d00ed2e4c1cc2c174f7",
   "author": "Thomas T. Jarløv (https://github.com/ThomasTJdev)",
   "description": "Nimble with GUI",
   "license": "MIT",
@@ -23,8 +24,7 @@
         "webgui >= 0.1.0"
       ],
       "x": [],
-      "z": [],
-      "p": []
+      "z": []
     },
     {
       "v": "0.2.1@f1649c85f0aab2e705e17fc297c4641e5794036f",
@@ -32,8 +32,7 @@
         "webgui >= 0.1.0"
       ],
       "x": [],
-      "z": [],
-      "p": []
+      "z": []
     },
     {
       "v": "0.2.0@c9a410ef56a38b1c7c56ef20d0418e365871f411",
@@ -41,8 +40,7 @@
         "webgui >= 0.1.0"
       ],
       "x": [],
-      "z": [],
-      "p": []
+      "z": []
     },
     {
       "v": "0.1.2@2030a5a6487442628408e569cb9c09338b23f9f7",
@@ -50,14 +48,11 @@
         "uibuilder >= 0.2.1",
         "ui >= 0.9.2"
       ],
-      "m": "0.18.1",
-      "x": [],
-      "z": [],
-      "p": []
+      "m": "0.18.1"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:42Z",
+  "generatedAt": "2026-05-26T15:50:14Z",
   "allDeps": {
     "packages": [
       "q <= 0.1.2",

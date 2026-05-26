@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "ws",
   "fqn": "ws.treeform.github.com",
+  "current": "c9c0c7b51e2e83cc9305a895a0b144a297b4bea8",
   "author": "Andre von Houck",
   "description": "Simple WebSocket library for nim.",
   "license": "MIT",
@@ -63,7 +64,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:31Z",
+  "generatedAt": "2026-05-26T15:55:16Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

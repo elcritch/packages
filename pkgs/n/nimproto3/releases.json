@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimproto3",
   "fqn": "nimproto3.YesDrX.github.com",
+  "current": "f115165679c26f6ff8cfa52f7ce11485c53547d8",
   "author": "Yes DrX",
   "description": "Nim implementation of protobuf3 based on npeg.",
   "license": "MIT",
@@ -24,10 +25,7 @@
         "cligen >= 0.1.0",
         "zippy >= 0.10.0",
         "supersnappy >= 0.1.0"
-      ],
-      "i": [],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.6.7@eb4f3366e7b901ef9205eea83845efb9e1a56c01",
@@ -36,10 +34,7 @@
         "cligen >= 0.1.0",
         "zippy >= 0.10.0",
         "supersnappy >= 0.1.0"
-      ],
-      "i": [],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.6.6@ba0da306451b71c16675c31290def33a4e7185da",
@@ -48,10 +43,7 @@
         "cligen >= 0.1.0",
         "zippy >= 0.10.0",
         "supersnappy >= 0.1.0"
-      ],
-      "i": [],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.6.5@81a744fb74e4f1f7bdb607ac8780311695eb03b2",
@@ -60,10 +52,7 @@
         "cligen >= 0.1.0",
         "zippy >= 0.10.0",
         "supersnappy >= 0.1.0"
-      ],
-      "i": [],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.6.4@03f3411e0fbd10acf0d629872d69e5da8ae40973",
@@ -72,10 +61,7 @@
         "cligen >= 0.1.0",
         "zippy >= 0.10.0",
         "supersnappy >= 0.1.0"
-      ],
-      "i": [],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.6.3@5c2a4fd3f6c89dafefe8dc9b4b995b46e989a6ac",
@@ -84,10 +70,7 @@
         "cligen >= 0.1.0",
         "zippy >= 0.10.0",
         "supersnappy >= 0.1.0"
-      ],
-      "i": [],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.6.2@91cd8dc9f0bbc89312ac073243c6157401a31651",
@@ -96,10 +79,7 @@
         "cligen >= 0.1.0",
         "zippy >= 0.10.0",
         "supersnappy >= 0.1.0"
-      ],
-      "i": [],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.6.0@dfed40e6273f0ae9c7afd23a359824c5baea564a",
@@ -108,10 +88,7 @@
         "cligen >= 0.1.0",
         "zippy >= 0.10.0",
         "supersnappy >= 0.1.0"
-      ],
-      "i": [],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.5.0@efe763712959b15770ffe43dd2d5fa849ed3f825",
@@ -120,10 +97,7 @@
         "cligen >= 0.1.0",
         "zippy >= 0.10.0",
         "supersnappy >= 0.1.0"
-      ],
-      "i": [],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.4.0@bed7859adb5649d2cbd67c7fa45cf8fb7ddf5858",
@@ -132,10 +106,7 @@
         "cligen >= 0.1.0",
         "zippy >= 0.10.0",
         "supersnappy >= 0.1.0"
-      ],
-      "i": [],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.3.1@d41f30fa77eaf8162a87d1af181559fb87495139",
@@ -144,10 +115,7 @@
         "cligen >= 0.1.0",
         "zippy >= 0.10.0",
         "supersnappy >= 0.1.0"
-      ],
-      "i": [],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.3.0@fbafb31e3221771bba84e1074555ea494c09e675",
@@ -156,10 +124,7 @@
         "cligen >= 0.1.0",
         "zippy >= 0.10.0",
         "supersnappy >= 0.1.0"
-      ],
-      "i": [],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.1.1@76bb3a3cecbf4def0121a2d35fee119eef546451",
@@ -168,14 +133,26 @@
         "cligen >= 0.1.0",
         "zippy >= 0.10.0",
         "supersnappy >= 0.1.0"
-      ],
-      "i": [],
-      "k": [],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:10Z",
+  "generatedAt": "2026-05-26T15:50:51Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.6.3",
+      "0.6.4",
+      "0.6.5",
+      "0.6.6",
+      "0.6.7",
+      "0.6.8"
+    ],
+    "latest": "0.6.8"
+  },
   "allDeps": {
     "packages": [
       "cligen",

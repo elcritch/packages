@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "htest",
   "fqn": "HTest.Yandall.github.com",
+  "current": "236f95e35e1946e86a0c3df9e416b461dd0e874c",
   "author": "Yandall",
   "description": "Library to test html strings using css query selectors",
   "license": "MIT",
@@ -23,7 +24,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:49Z",
+  "generatedAt": "2026-05-26T15:47:48Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

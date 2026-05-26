@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "rwlocks",
   "fqn": "nim-rwlocks.tdely.github.com",
+  "current": "dae587cec12d17e2037743e35286f9ba84b02e76",
   "author": "Tobias Dély",
   "description": "Readers-writer locks",
   "license": "MIT",
@@ -19,7 +20,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:41Z",
+  "generatedAt": "2026-05-26T15:52:50Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "m",
   "fqn": "M.bk20x.github.com",
+  "current": "203717790bc076cd8788a00477714f1597e407c5",
   "author": "bk20x",
   "description": "Lightweight and easily extendable / embeddable Lisp dialect with no VM and deterministic performance",
   "license": "BSD-3-Clause",
@@ -15,12 +16,11 @@
       "v": "0.1.0@75b7393b617df5836c70afed66b363d312b87ca1",
       "r": [
         "bigints >= 1.0.0"
-      ],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:49Z",
+  "generatedAt": "2026-05-26T15:49:06Z",
   "allDeps": {
     "packages": [
       "bigints"

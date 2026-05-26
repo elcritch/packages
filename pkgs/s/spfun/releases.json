@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "spfun",
   "fqn": "spfun.c-blake.github.com",
+  "current": "e4bfd1cc3640afcddd19f2d4cb2125ee9331d102",
   "author": "Charles Blake",
   "description": "Special Functions of Stats & Physics",
   "license": "MIT/ISC",
@@ -73,7 +74,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:11Z",
+  "generatedAt": "2026-05-26T15:53:29Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

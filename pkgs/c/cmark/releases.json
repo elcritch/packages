@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "cmark",
   "fqn": "nim-cmark.zengxs.github.com",
+  "current": "2949266fc7e12153a7daee8658e452e37499e97e",
   "author": "zengxs",
   "description": "libcmark wrapper for Nim",
   "license": "Apache-2.0",
@@ -15,12 +16,11 @@
     {
       "v": "0.1.0@cf3176b8ddc7892f9d709c4aed847ae9961c13ce",
       "r": [],
-      "h": true,
-      "k": []
+      "h": true
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:07Z",
+  "generatedAt": "2026-05-26T15:45:35Z",
   "allDeps": {
     "packages": [],
     "urls": [],

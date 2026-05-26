@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "syndicate",
   "fqn": "syndicate-nim.ehmry.git.syndicate-lang.org",
+  "current": "1759e33d4052066206f6fc5902f6300d919cc020",
   "author": "Emery Hemingway",
   "description": "Syndicated actors for conversational concurrency",
   "license": "Unlicense",
@@ -316,8 +317,7 @@
         "preserves >= 20221208",
         "taps >= 20221119"
       ],
-      "m": "1.4.8",
-      "p": []
+      "m": "1.4.8"
     },
     {
       "v": "20230323@b1627a491a4bc21b0dbf00e5b1a68ca8e51ab793",
@@ -326,8 +326,7 @@
         "preserves >= 20221208",
         "taps >= 20221119"
       ],
-      "m": "1.4.8",
-      "p": []
+      "m": "1.4.8"
     },
     {
       "v": "20221102@e26c718142ad22c80bea89355f29a34bb3842a74",
@@ -335,8 +334,7 @@
         "nimSHA2 >= 0.1.1",
         "preserves >= 202210230"
       ],
-      "m": "1.4.8",
-      "p": []
+      "m": "1.4.8"
     },
     {
       "v": "20220904@96d3bbb5008627efcdb51b4d8d23e70343d06c0c",
@@ -392,7 +390,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:32Z",
+  "generatedAt": "2026-05-26T15:53:57Z",
   "allDeps": {
     "packages": [
       "getdns > 20221102 & <= 20240522",

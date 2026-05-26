@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimblas",
   "fqn": "nimblas.andreaferretti.github.com",
+  "current": "93ffdd705496990983eefa0507d52f6a6c533ca7",
   "author": "Andrea Ferretti",
   "description": "BLAS interface for Nim",
   "license": "Apache2",
@@ -12,30 +13,25 @@
   "releases": [
     {
       "v": "0.3.1@93ffdd705496990983eefa0507d52f6a6c533ca7^",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.3.0@464c65cd001a27d5c364baa86dfcf19597535cf3",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.2.2@da7907887efed7bf2114f0ea48340d81a9d5c8ed",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.2.1@7566175acf9c2dcba00d71c2757d76f9a4bfe386",
       "r": [],
-      "m": "0.11.2",
-      "x": []
+      "m": "0.11.2"
     },
     {
       "v": "0.2.0@2b4df408705ca82811173710f8c9821254bf8031",
       "r": [],
-      "m": "0.11.2",
-      "x": []
+      "m": "0.11.2"
     },
     {
       "v": "0.1.4@589db0bd10897906b034bfcfc103403cae07a6e4",
@@ -63,7 +59,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:42Z",
+  "generatedAt": "2026-05-26T15:50:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

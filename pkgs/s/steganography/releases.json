@@ -1,62 +1,23 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "steganography",
   "fqn": "steganography.treeform.github.com",
-  "head": "aea1cc1491b8f3229bd73f49906c6238c14b1523",
+  "current": "aea1cc1491b8f3229bd73f49906c6238c14b1523",
   "author": "Andre von Houck",
   "description": "Steganography - hide data inside an image.",
   "license": "MIT",
-  "nim": "0.20.0",
+  "nim": "1.4.0",
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.1.0@5ddde47cc9f0e06cb6ecd561c29a8fafe9d2e215",
-      "r": [
-        "flippy >= 0.2.1"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "0.2.0@ff246b189203e6381cb269b6933d57e33333c5cd",
-      "r": [
-        "pixie #head"
-      ],
-      "m": "1.4.0",
-      "s": ""
-    },
-    {
-      "v": "#head@aea1cc1491b8f3229bd73f49906c6238c14b1523",
+      "v": "0.2.0@aea1cc1491b8f3229bd73f49906c6238c14b1523^",
       "r": [
         "pixie >= 4.3.0"
-      ],
-      "m": "1.4.0",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:19Z",
-  "allDeps": {
-    "packages": [
-      "bumpy > 0.1.0",
-      "chroma",
-      "crunchy > 0.1.0",
-      "flatty > 0.1.0",
-      "flippy <= 0.1.0",
-      "mddoc",
-      "nimPNG <= 0.1.0",
-      "nimsimd > 0.1.0",
-      "pixie > 0.1.0",
-      "print <= 0.1.0",
-      "snappy <= 0.1.0",
-      "stb_image <= 0.1.0",
-      "supersnappy <= 0.1.0",
-      "vmath",
-      "zippy > 0.1.0"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T15:53:41Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -66,5 +27,20 @@
       "0.2.0"
     ],
     "latest": "0.2.0"
+  },
+  "allDeps": {
+    "packages": [
+      "bumpy",
+      "chroma",
+      "crunchy",
+      "flatty",
+      "mddoc",
+      "nimsimd",
+      "pixie",
+      "vmath",
+      "zippy"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

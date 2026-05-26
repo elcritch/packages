@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "serde",
   "fqn": "nim-json.codex-storage.github.com",
+  "current": "fb117e5bd200ef1b4e5d27b9f3b85d63dcf9aa85",
   "author": "nim-serde authors",
   "description": "Easy-to-use serialization capabilities (currently json only).",
   "license": "MIT",
@@ -16,8 +17,7 @@
         "stint",
         "stew",
         "asynctest >= 0.5.1 & < 0.6.0"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "1.2.2@f268cc8fa333172ad9f06997b783d4e281e1b386",
@@ -84,7 +84,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:51Z",
+  "generatedAt": "2026-05-26T15:53:04Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

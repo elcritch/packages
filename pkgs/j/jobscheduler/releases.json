@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "jobscheduler",
   "fqn": "nim-jobscheduler.YesDrX.github.com",
+  "current": "84df905dfa106192d36eb4d00e268c45c3f273c4",
   "author": "User",
   "description": "A full-featured job scheduler in Nim",
   "license": "MIT",
@@ -22,8 +23,7 @@
         "nimja",
         "cligen",
         "nimcrypto"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.8.0@ca44062d198f05913c7e48f825065a0ad356fe1b",
@@ -36,8 +36,7 @@
         "nimja",
         "cligen",
         "nimcrypto"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.9.0@c3bf7bec984dedc8baffd7fc9350feeda7984495",
@@ -50,8 +49,7 @@
         "nimja",
         "cligen",
         "nimcrypto"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.9.1@2d1b8df4d0611d99a11d1f1a7c99c1a0873bbd8c",
@@ -64,8 +62,7 @@
         "nimja",
         "cligen",
         "nimcrypto"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.9.2@977e4306577dafa653e58827ef625c9b2611e657",
@@ -78,8 +75,7 @@
         "nimja",
         "cligen",
         "nimcrypto"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.9.3@18fb1316bd7197073226d2e42ff8025c9043565e",
@@ -92,8 +88,7 @@
         "nimja",
         "cligen",
         "nimcrypto"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.9.4@cdd6bf2a44f9236207dd3406774394378583ce92",
@@ -106,8 +101,7 @@
         "nimja",
         "cligen",
         "nimcrypto"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.9.5@b4b159d578652d22db4b7fcd2f75bce603d52789",
@@ -120,8 +114,7 @@
         "nimja",
         "cligen",
         "nimcrypto"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.9.6@b91805c21fc3a87fbb41f55e6223bae04ce31ab7",
@@ -134,8 +127,7 @@
         "nimja",
         "cligen",
         "nimcrypto"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.9.7@69349c325e817acc63b89ca455f71bc6285431c9",
@@ -148,8 +140,7 @@
         "nimja",
         "cligen",
         "nimcrypto"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.9.8@477ff6573ebc0ae9c85030f9af3cab1a61c58c49",
@@ -162,8 +153,7 @@
         "nimja",
         "cligen",
         "nimcrypto"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.9.9@64f2e60d98f34e28a29cbb0f021e3cc562d07728",
@@ -176,8 +166,7 @@
         "nimja",
         "cligen",
         "nimcrypto"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "1.0.0@3da7af88cc1ed11b520bc07c09c96aef2116955a",
@@ -190,8 +179,7 @@
         "nimja",
         "cligen",
         "nimcrypto"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "1.0.1@84df905dfa106192d36eb4d00e268c45c3f273c4^",
@@ -204,12 +192,11 @@
         "nimja",
         "cligen",
         "nimcrypto"
-      ],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:11Z",
+  "generatedAt": "2026-05-26T15:48:17Z",
   "allDeps": {
     "packages": [
       "checksums",

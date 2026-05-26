@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "plz",
   "fqn": "nim-pypi.juancarlospaco.github.com",
+  "current": "0cefec96334d9eb06335e19fe9f13402a059f7d4",
   "author": "Juan Carlos",
   "description": "PLZ Python PIP alternative",
   "license": "MIT",
@@ -16,12 +17,11 @@
       "r": [
         "requirementstxt >= 0.0.1",
         "libarchibi >= 0.0.1"
-      ],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:09Z",
+  "generatedAt": "2026-05-26T15:52:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

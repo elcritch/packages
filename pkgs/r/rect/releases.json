@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "rect",
   "fqn": "rect.jiro4989.github.com",
+  "current": "8d8eb05b631ed3974833b6d0cab021e879c7f09b",
   "author": "jiro4989",
   "description": "rect is a command to crop/paste rectangle text.",
   "license": "MIT",
@@ -17,9 +18,7 @@
       "r": [
         "eastasianwidth >= 1.1.0",
         "docopt >= 0.6.8"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "1.0.0@49ea8a08ab8c57a5d55510ea60e45f1d9472b084",
@@ -27,13 +26,11 @@
         "eastasianwidth >= 1.1.0",
         "docopt >= 0.6.8"
       ],
-      "d": "rect is a command to paste text rectangle.",
-      "b": "",
-      "p": []
+      "d": "rect is a command to paste text rectangle."
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:32Z",
+  "generatedAt": "2026-05-26T15:52:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

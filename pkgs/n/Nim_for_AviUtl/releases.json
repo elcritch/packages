@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "Nim_for_AviUtl",
   "fqn": "Nim_for_AviUtl.K-Kentaro-dev.github.com",
+  "current": "2e00b31d23dc3dee06d246d7d3736585ba5a22a9",
   "author": "K.Kentaro",
   "description": "This is a tool to make AviUtl's dll script.",
   "license": "MIT",
@@ -18,7 +19,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:11:42Z",
+  "generatedAt": "2026-05-26T15:43:49Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

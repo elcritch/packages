@@ -22,10 +22,30 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:13Z",
+  "generatedAt": "2026-05-26T15:50:55Z",
   "allDeps": {
     "packages": [],
     "urls": [],
     "unresolved": []
+  },
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.0",
+      "v0.1.1",
+      "v0.1.2"
+    ],
+    "tagVersions": {
+      "v0.1.0": "0.1.0",
+      "v0.1.1": "0.1.1",
+      "v0.1.2": "0.1.2"
+    },
+    "latest": "v0.1.2",
+    "prerelease": [
+      "v0.1.0"
+    ]
   }
 }

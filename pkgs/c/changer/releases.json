@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "changer",
   "fqn": "changer.iffy.github.com",
+  "current": "f64c0068b3c6cfc2f557b7f6477dbffe52c0e3e8",
   "author": "Matt Haggard",
   "description": "Makes doing changelogs easier",
   "license": "MIT",
@@ -17,8 +18,7 @@
         "argparse >= 0.10.1",
         "regex >= 0.15.0 & < 0.25.0",
         "parsetoml >= 0.5.0"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.9.0@24515270169c91c89afcd88346f66eed70619da8",
@@ -26,8 +26,7 @@
         "argparse >= 0.10.1",
         "regex >= 0.15.0",
         "parsetoml >= 0.5.0"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.8.0@c5b09ea7c44cef5cbf40ea3388f3c74bc9d79fa7",
@@ -35,8 +34,7 @@
         "argparse >= 0.10.1",
         "regex >= 0.15.0",
         "parsetoml >= 0.5.0"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.7.0@6d2e226fca32056355430c876547f9fce18bab17",
@@ -44,8 +42,7 @@
         "argparse >= 0.10.1",
         "regex >= 0.15.0",
         "parsetoml >= 0.5.0"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.6.2@70fd950de83afb7383591f4f5cbdbaef2312d183",
@@ -53,8 +50,7 @@
         "argparse >= 0.10.1",
         "regex >= 0.15.0",
         "parsetoml >= 0.5.0"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.6.1@a37f24d111e235ec0b8ad2207edf6e976df8e03f",
@@ -62,8 +58,7 @@
         "argparse >= 0.10.1",
         "regex >= 0.15.0",
         "parsetoml >= 0.5.0"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.6.0@2ac44a445d2d7e3f1894e73696fd20855c6866cc",
@@ -71,8 +66,7 @@
         "argparse >= 0.10.1",
         "regex >= 0.15.0",
         "parsetoml >= 0.5.0"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.5.0@58fc271245d7b17858204f81124c722a32206e6c",
@@ -80,8 +74,7 @@
         "argparse >= 0.10.1",
         "regex >= 0.15.0",
         "parsetoml >= 0.5.0"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.4.2@4fadec17e1d782e84204bac54d4eb3be791ca1b5",
@@ -89,8 +82,7 @@
         "argparse >= 0.10.1",
         "regex >= 0.15.0",
         "parsetoml >= 0.5.0"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.4.1@2fb3c5468eab15e556d738a29476df89faf45a57",
@@ -98,8 +90,7 @@
         "argparse >= 0.10.1",
         "regex >= 0.15.0",
         "parsetoml >= 0.5.0"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.4.0@3b60d477d363587672de66e8805f186b61679399",
@@ -107,8 +98,7 @@
         "argparse >= 0.10.1",
         "regex >= 0.15.0",
         "parsetoml >= 0.5.0"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.3.0@48a6aafde905dec7dc9ba8b28b76ad8a0833fd44",
@@ -116,27 +106,24 @@
         "argparse >= 0.10.1",
         "regex >= 0.15.0",
         "parsetoml >= 0.5.0"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.2.0@b331925e519ade5fa8881d60b1a88c071ff1928d",
       "r": [
         "argparse >= 0.10.1"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.1.1@21a3b2e8d2af87ceb949bd2956282b26b40a658a",
       "r": [
         "argparse >= 0.10.1"
       ],
-      "m": "1.4.0",
-      "p": []
+      "m": "1.4.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:56Z",
+  "generatedAt": "2026-05-26T15:45:21Z",
   "allDeps": {
     "packages": [
       "argparse",

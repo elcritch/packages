@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "turn_based_game",
   "fqn": "turn_based_game.JohnAD.github.com",
+  "current": "72f66eb818c3f0c30b8256914a1e5a0a7cc68dd3",
   "author": "John Dupuy",
   "description": "Game rules framework for turn-based games",
   "license": "MIT",
@@ -59,7 +60,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:53Z",
+  "generatedAt": "2026-05-26T15:54:27Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

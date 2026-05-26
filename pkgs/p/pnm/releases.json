@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "pnm",
   "fqn": "pnm.jiro4989.github.com",
+  "current": "556633d87e65f73f3917321fe1ea59afc2dc9302",
   "author": "jiro4989",
   "description": "pnm is library for PNM (Portable AnyMap).",
   "license": "MIT",
@@ -26,7 +27,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:10Z",
+  "generatedAt": "2026-05-26T15:52:08Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

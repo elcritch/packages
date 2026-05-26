@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "openstreetmap",
   "fqn": "nim-openstreetmap.juancarlospaco.github.com",
+  "current": "6979215809e0959e02c2e4311cd1616cc6974190",
   "author": "juancarlospaco",
   "description": "OpenStreetMap API Lib for Nim",
   "license": "MIT",
@@ -14,7 +15,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:48Z",
+  "generatedAt": "2026-05-26T15:51:39Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "naw",
   "fqn": "naw.capocasa.github.com",
+  "current": "dfa0a9c6b99b87fe6c737525c58757655bdcf8c2",
   "author": "Carlo Capocasa",
   "description": "A glue wrapper to do awk-style text processing with Nim",
   "license": "MIT",
@@ -15,13 +16,11 @@
   "releases": [
     {
       "v": "0.1.0@b5de54798abe6e34dec0d359c7aa651019e62900",
-      "r": [],
-      "k": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:16Z",
+  "generatedAt": "2026-05-26T15:49:40Z",
   "allDeps": {
     "packages": [],
     "urls": [],

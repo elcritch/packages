@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "pych",
   "fqn": "pych.rburmorrison.github.com",
+  "current": "7531683b9152c8e81f8b2862776c810089ffd8fa",
   "author": "Ryan Burmeister-Morrison",
   "description": "A tool that watches Python files and re-runs them on change.",
   "license": "MIT",
@@ -13,22 +14,19 @@
   "releases": [
     {
       "v": "1.0.2@afec146e34832cc20a2048b6ceda93650794cda8",
-      "r": [],
-      "p": []
+      "r": []
     },
     {
       "v": "1.0.1@3354c4a0dc48029ee77cdcba9c05b50f1bdbbc14",
-      "r": [],
-      "p": []
+      "r": []
     },
     {
       "v": "1.0.0@6289ab2e8888aaf783d345a03063c93903e639e5",
-      "r": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:23Z",
+  "generatedAt": "2026-05-26T15:52:25Z",
   "allDeps": {
     "packages": [],
     "urls": [],

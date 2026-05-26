@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "cron",
   "fqn": "cron.c-blake.github.com",
+  "current": "1e42e55312ab1b52dc00860b0caeacde468d6d99",
   "author": "Charles Blake",
   "description": "Library to ease writing cron-like programs",
   "license": "MIT/ISC",
@@ -13,52 +14,43 @@
   "releases": [
     {
       "v": "0.9.3@1e42e55312ab1b52dc00860b0caeacde468d6d99^",
-      "r": [],
-      "j": []
+      "r": []
     },
     {
       "v": "0.9.2@293c6aa81e70375e1b5711ca0bca7d5a6df631e5",
-      "r": [],
-      "j": []
+      "r": []
     },
     {
       "v": "0.9.1@e73eefe3e7cc61c438d06fb85a3c205f335046a3",
-      "r": [],
-      "j": []
+      "r": []
     },
     {
       "v": "0.9.0@4441513aeb069bfb6aaf9200c1fee2e6128acf26",
-      "r": [],
-      "j": []
+      "r": []
     },
     {
       "v": "0.8.1@0ab8f7b1d8df0cb15889aeb4243037f56a2e9c9a",
-      "r": [],
-      "j": []
+      "r": []
     },
     {
       "v": "0.8.0@76f68afe2dbc8c129350eb4805440dec5dc225fe",
-      "r": [],
-      "j": []
+      "r": []
     },
     {
       "v": "0.7.1@e5c436915687e5667a65a3770bc34ecf469c0f1d",
-      "r": [],
-      "j": []
+      "r": []
     },
     {
       "v": "0.7.0@ca78c5735d8f6ac4d5dee0dafbb51ddc8649d453",
-      "r": [],
-      "j": []
+      "r": []
     },
     {
       "v": "0.6.0@66ddf7e62f6e023e8f9846ff5d631c7aa38472e9",
-      "r": [],
-      "j": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:17Z",
+  "generatedAt": "2026-05-26T15:45:47Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

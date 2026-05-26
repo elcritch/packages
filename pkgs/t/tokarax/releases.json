@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "tokarax",
   "fqn": "tokarax.thisago.github.com",
+  "current": "b63616c53335f48cdc153ecb4abe5e7f098d6edc",
   "author": "HELLoSKUuLL",
   "description": "A new awesome nimble package",
   "license": "MIT",
@@ -19,40 +20,28 @@
       "v": "0.1.0@acb60989ddda773fbe6046911469cde2dab0a6a8",
       "r": [
         "cligen"
-      ],
-      "b": "",
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.1.1@768d4d4ffb6556e0e335e1eb7b35626f819ce280",
       "r": [
         "cligen"
       ],
-      "a": "Thiago Ferreira",
-      "b": "",
-      "k": [],
-      "p": []
+      "a": "Thiago Ferreira"
     },
     {
       "v": "0.2.0@dbbeac314e0faad45c43485ac678d4e369cc6b8b",
       "r": [
         "cligen"
       ],
-      "a": "Thiago Ferreira",
-      "b": "",
-      "k": [],
-      "p": []
+      "a": "Thiago Ferreira"
     },
     {
       "v": "0.2.1@32766a258d08b556791c72b07bb3c8c8cc0e079a",
       "r": [
         "cligen"
       ],
-      "a": "Thiago Ferreira",
-      "b": "",
-      "k": [],
-      "p": []
+      "a": "Thiago Ferreira"
     },
     {
       "v": "0.2.2@bd9b200de1a3845b14df6cc46b81996818bc8bdc",
@@ -60,10 +49,7 @@
         "cligen"
       ],
       "a": "Thiago Ferreira",
-      "d": "Converts HTML to Karax representation",
-      "b": "",
-      "k": [],
-      "p": []
+      "d": "Converts HTML to Karax representation"
     },
     {
       "v": "0.3.0@8b052f9925c0ee8ffb21622085135b864319306b",
@@ -71,10 +57,7 @@
         "cligen"
       ],
       "a": "Thiago Ferreira",
-      "d": "Converts HTML to Karax representation",
-      "b": "",
-      "k": [],
-      "p": []
+      "d": "Converts HTML to Karax representation"
     },
     {
       "v": "0.3.1@b63616c53335f48cdc153ecb4abe5e7f098d6edc^",
@@ -82,14 +65,11 @@
         "cligen"
       ],
       "a": "Thiago Ferreira",
-      "d": "Converts HTML to Karax representation",
-      "b": "",
-      "k": [],
-      "p": []
+      "d": "Converts HTML to Karax representation"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:47Z",
+  "generatedAt": "2026-05-26T15:54:18Z",
   "allDeps": {
     "packages": [
       "cligen"

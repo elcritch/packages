@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimcso",
   "fqn": "nimcso.amkrajewski.github.com",
+  "current": "6c6a344e06985aece794a2e415cca9850de9ed50",
   "author": "Adam M. Krajewski",
   "description": "NIM Composition Space Optimization",
   "license": "MIT",
@@ -147,7 +148,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:48Z",
+  "generatedAt": "2026-05-26T15:50:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

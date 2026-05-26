@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "shellcmd",
   "fqn": "shellcmd.Alogani.github.com",
+  "current": "b7d8b0da149bbc23f8e7adb8f4a5236dd7ed2ece",
   "author": "alogani",
   "description": "Collection of Terminal commands to be used inside nim",
   "license": "MIT",
@@ -29,7 +30,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:56Z",
+  "generatedAt": "2026-05-26T15:53:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "pipe",
   "fqn": "pipe.CosmicToast.github.com",
+  "current": "70e0f6f4bee78087dff253d2b4638c5501ed834e",
   "author": "Chloe Kudryavtsev",
   "description": "Pipe operator for nim.",
   "license": "Unlicense",
@@ -12,18 +13,16 @@
   "releases": [
     {
       "v": "0.1.1@70e0f6f4bee78087dff253d2b4638c5501ed834e^",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.1.0@85f41e677f2ac7636f2c8b044df2d06e6a74eab1",
       "r": [],
-      "l": "MIT",
-      "x": []
+      "l": "MIT"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:04Z",
+  "generatedAt": "2026-05-26T15:52:00Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

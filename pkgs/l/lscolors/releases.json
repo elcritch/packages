@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "lscolors",
   "fqn": "nim-lscolors.joachimschmidt557.github.com",
+  "current": "3aaaf0422fcf1e708b135e4118832ee6260277b3",
   "author": "joachimschmidt557",
   "description": "A library for colorizing paths according to LS_COLORS",
   "license": "MIT",
@@ -46,7 +47,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:45Z",
+  "generatedAt": "2026-05-26T15:49:03Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

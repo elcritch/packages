@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "oldgtk3",
   "fqn": "oldgtk3.stefansalewski.github.com",
+  "current": "4e60fd1c4c08241cc22336362fc4f487c633299c",
   "author": "Stefan Salewski",
   "description": "Low level bindings for GTK3 related libraries",
   "license": "MIT",
@@ -24,12 +25,11 @@
   "releases": [
     {
       "v": "0.1.0@adeea8be88efacb5e7a1408f58ac6ce99a6583c1",
-      "r": [],
-      "x": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:43Z",
+  "generatedAt": "2026-05-26T15:51:33Z",
   "allDeps": {
     "packages": [],
     "urls": [],

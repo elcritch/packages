@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "implot",
   "fqn": "nim_implot.dinau.github.com",
+  "current": "72090882acdeafe85d6a4af8bcac4475c7f65bb6",
   "author": "dinau",
   "description": "ImPlot bindings for Nim",
   "license": "MIT",
@@ -18,72 +19,63 @@
       "r": [
         "nimgl >= 1.3.2",
         "gh:nimgl/imgui 1.91.9.0"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "0.16.10@151d039a3671863a1aef8c0f680542f23b2adfab",
       "r": [
         "nimgl >= 1.3.2",
         "gh:dinau/nimgl-imgui 1.89.9.6"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "0.16.9@da8a7f2e7a997990552e9e5070707a493d9e884c",
       "r": [
         "nimgl >= 1.3.2",
         "gh:dinau/nimgl-imgui 1.89.9.6"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "0.16.8@443ea6265e17d287a964e0707bbedc4bc4b8b0cf",
       "r": [
         "nimgl >= 1.3.2",
         "gh:dinau/nimgl-imgui 1.89.9.6"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "0.16.7@11321f5d3c3bf1ccbf2dfb254199e533b077de2c",
       "r": [
         "nimgl >= 1.3.2",
         "gh:dinau/nimgl-imgui 1.89.9.4"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "0.16.6@3b0cd8bc073d9e18ece9c9f275a1e28ed1e5e898",
       "r": [
         "nimgl >= 1.3.2",
         "gh:dinau/nimgl-imgui >= 1.89.9.4"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "0.16.5@5acbb93b0d3b65bdcb957c06a32d3867b447bbd0",
       "r": [
         "nimgl >= 1.3.2",
         "gh:dinau/nimgl-imgui >= 1.89.9.4"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "0.16.4@bb67f2d9e6d5122e71a1c890c26b2d30a50c66a2",
       "r": [
         "nimgl >= 1.3.2",
         "gh:dinau/nimgl-imgui >= 1.89.9.2"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "0.16.3@894d61f330153c8463aa7908cbd7dcffec0e1e14",
       "r": [
         "nimgl >= 1.3.2",
         "gh:dinau/nimgl-imgui >= 1.89.9.2"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "0.16.2@c0452ac13e01e06a5762a8b077d416eccafd8a98",
@@ -117,7 +109,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:59Z",
+  "generatedAt": "2026-05-26T15:48:02Z",
   "allDeps": {
     "packages": [
       "nimgl"

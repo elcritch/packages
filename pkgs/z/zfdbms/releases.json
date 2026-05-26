@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "zfdbms",
   "fqn": "nim_zfdbms.zendbit.github.com",
+  "current": "aae4034aa7dc16df61af9dabcef3498e5fff3507",
   "author": "Amru Rosyada",
   "description": "Simple database generator, connector and query tools.",
   "license": "BSD",
@@ -119,7 +120,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:47Z",
+  "generatedAt": "2026-05-26T15:55:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

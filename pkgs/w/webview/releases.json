@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "webview",
   "fqn": "webview.oskca.github.com",
+  "current": "ca3e25ee93a63c3a819a1bfa17386dad6ad41b1a",
   "author": "oskca",
   "description": "Nim bindings for zserge's webview",
   "license": "MIT",
@@ -12,12 +13,11 @@
   "releases": [
     {
       "v": "0.1.0@c072176a262cc2c637a0412f9d0188526d420e4d",
-      "r": [],
-      "x": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:23Z",
+  "generatedAt": "2026-05-26T15:55:04Z",
   "allDeps": {
     "packages": [],
     "urls": [],

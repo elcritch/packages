@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "tabulator",
   "fqn": "nim-tabulator.erykjj.github.com",
+  "current": "2909bee55418e80d8a35aa007a626f72f59b0e96",
   "author": "Eryk J.",
   "description": "Nim library for generating plain-text tables (with Unicode and ANSI code support)",
   "license": "MIT",
@@ -17,21 +18,17 @@
   "releases": [
     {
       "v": "0.7.0@2e7edc58aadc4dd3c47e66a73f78adc1c57c3dc1",
-      "r": [],
-      "x": [],
-      "y": []
+      "r": []
     },
     {
       "v": "0.5.0@06d3402e83ff1e38d8f47a95dd38a8f63fed6e1c",
       "r": [],
       "d": "A Nim library for generating plain-text tables (with Unicode and ANSI code support)",
-      "l": "Infiniti Noncommercial License (https://github.com/erykjj/tabulator/blob/main/LICENSE.md)",
-      "x": [],
-      "y": []
+      "l": "Infiniti Noncommercial License (https://github.com/erykjj/tabulator/blob/main/LICENSE.md)"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:31Z",
+  "generatedAt": "2026-05-26T15:53:55Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

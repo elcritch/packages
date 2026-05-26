@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "eminim",
   "fqn": "eminim.planetis-m.github.com",
+  "current": "92bbc9dfc2f10eb9b9b3d01640937fca660ee0d9",
   "author": "Antonis Geralis",
   "description": "JSON serialization framework for Nim",
   "license": "MIT",
@@ -13,8 +14,7 @@
   "releases": [
     {
       "v": "2.8.2@86d93daa6e4ee773838d968542e5d9614f011c36",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "2.8.1@6a2acd73d8adc76cec1a1708b48dad11ba75f752",
@@ -190,7 +190,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:45Z",
+  "generatedAt": "2026-05-26T15:46:25Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "awsS3",
   "fqn": "nim_awsS3.ThomasTJdev.github.com",
+  "current": "156d0246b22d7e71e067f5e4eff93d34d8bf1399",
   "author": "Thomas T. Jarløv (https://github.com/ThomasTJdev)",
   "description": "Amazon S3 REST API (basic)",
   "license": "MIT",
@@ -106,48 +107,42 @@
         "jsony 1.1.5",
         "nimSHA2",
         "hmac 0.2.0"
-      ],
-      "i": []
+      ]
     },
     {
       "v": "2.0.1@c89b1952f0919a5da8854f8a5f84d46247675d80",
       "r": [
         "sigv4 1.3.0",
         "awsSTS >= 1.0.3"
-      ],
-      "i": []
+      ]
     },
     {
       "v": "2.0.0@cab982a27b52182afddf765e9e24170d9d58d043",
       "r": [
         "sigv4 1.3.0",
         "awsSTS >= 1.0.2"
-      ],
-      "i": []
+      ]
     },
     {
       "v": "1.0.3@f72ae740ab0be4b481d4d0e171fbf6301bb6d85c",
       "r": [
         "sigv4 1.2.1",
         "awsSTS >= 1.0.0"
-      ],
-      "i": []
+      ]
     },
     {
       "v": "1.0.2@aebaf51287740f10d30c8a27458333155d21c91a",
       "r": [
         "sigv4 1.2.1",
         "awsSTS >= 1.0.0"
-      ],
-      "i": []
+      ]
     },
     {
       "v": "1.0.1@c55ea9575ba01c5ecab166691d10f88dadcfce95",
       "r": [
         "sigv4 1.2.1",
         "awsSTS >= 1.0.0"
-      ],
-      "i": []
+      ]
     },
     {
       "v": "1.0.0@69fded9caf9adf0cc0fb0ac636c97265191a1235",
@@ -159,7 +154,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:13Z",
+  "generatedAt": "2026-05-26T15:44:29Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

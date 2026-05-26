@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimraylib_now",
   "fqn": "nimraylib_now.greenfork.github.com",
+  "current": "baf57c23da279de7c518edc124a791c77495b452",
   "author": "Dmitry Matveyev",
   "description": "The Ultimate Raylib gaming library wrapper",
   "license": "MIT",
@@ -19,10 +20,7 @@
       "v": "0.15.0@59154abcbc4cf89b4c674f402db026dea216da7b",
       "r": [
         "regex"
-      ],
-      "x": [],
-      "y": [],
-      "e": ""
+      ]
     },
     {
       "v": "0.14.2@bc021ec423a858b0ce7b9ba44ae94c028aaa6332",
@@ -35,8 +33,7 @@
         "common_files_setup.nim",
         "raylib_build_static_template.nim"
       ],
-      "x": [],
-      "e": ""
+      "x": []
     },
     {
       "v": "0.14.1@5baad85b7bc4df7ae7d5372f0deca79839a49b5d",
@@ -49,8 +46,7 @@
         "common_files_setup.nim",
         "raylib_build_static_template.nim"
       ],
-      "x": [],
-      "e": ""
+      "x": []
     },
     {
       "v": "0.14.0@bd205288b0c167eb08b76c3459c88d66220090d6",
@@ -63,8 +59,7 @@
         "common_files_setup.nim",
         "raylib_build_static_template.nim"
       ],
-      "x": [],
-      "e": ""
+      "x": []
     },
     {
       "v": "0.13.2@617532f123a123e666aeecc39211c079210d9e4a",
@@ -77,8 +72,7 @@
         "common_files_setup.nim",
         "raylib_build_static_template.nim"
       ],
-      "x": [],
-      "e": ""
+      "x": []
     },
     {
       "v": "0.13.1@a3525203198603735042983e802578ccf92e2411",
@@ -91,8 +85,7 @@
         "common_files_setup.nim",
         "raylib_build_static_template.nim"
       ],
-      "x": [],
-      "e": ""
+      "x": []
     },
     {
       "v": "0.13.0@79a04c6b2c7cbad775b53d313329b7ff06eb460d",
@@ -105,8 +98,7 @@
         "common_files_setup.nim",
         "raylib_build_static_template.nim"
       ],
-      "x": [],
-      "e": ""
+      "x": []
     },
     {
       "v": "0.12.5@c4a0d4edc2c438518ef1e245fd0e6fcf5e92b4be",
@@ -119,8 +111,7 @@
         "common_files_setup.nim",
         "raylib_build_static_template.nim"
       ],
-      "x": [],
-      "e": ""
+      "x": []
     },
     {
       "v": "0.12.4@76ba9bd9c281a2b5cc098cf0ba673da59c03fc91",
@@ -128,8 +119,7 @@
         "regex"
       ],
       "x": [],
-      "y": [],
-      "e": ""
+      "y": []
     },
     {
       "v": "0.12.3@ffc443cab7d38bce3f406ea9d7b580584db29f66",
@@ -137,8 +127,7 @@
         "regex"
       ],
       "x": [],
-      "y": [],
-      "e": ""
+      "y": []
     },
     {
       "v": "0.12.2@78830a46e398453062cacf4112fb6e1bb82b019d",
@@ -151,8 +140,7 @@
         "filenames.nim",
         "common_files_setup.nim"
       ],
-      "x": [],
-      "e": ""
+      "x": []
     },
     {
       "v": "0.12.1@a0e1075b0ba7ec6410dc621b6870818f56ce182c",
@@ -166,8 +154,7 @@
         "common_files_setup.nim",
         "raylib_build_static.nim"
       ],
-      "x": [],
-      "e": ""
+      "x": []
     },
     {
       "v": "0.12.0@b1f5b24c69ecd4d98997b82a8d78dadc51711d2f",
@@ -181,8 +168,7 @@
         "common_files_setup.nim",
         "raylib_build_static.nim"
       ],
-      "x": [],
-      "e": ""
+      "x": []
     },
     {
       "v": "0.10.0@0c485bde044e572330dd50870da6c05f65375715",
@@ -192,8 +178,7 @@
       "y": [
         "converter.nim"
       ],
-      "x": [],
-      "e": ""
+      "x": []
     },
     {
       "v": "0.9.1@68c4f9ab92c98aab1c697f909ed859fd224fa838",
@@ -203,8 +188,7 @@
       "y": [
         "converter.nim"
       ],
-      "x": [],
-      "e": ""
+      "x": []
     },
     {
       "v": "0.9.0@aa1c475d6fb14cb54214104998aee23914f25d74",
@@ -214,8 +198,7 @@
       "y": [
         "converter.nim"
       ],
-      "x": [],
-      "e": ""
+      "x": []
     },
     {
       "v": "0.8.0@19a89c7954d56b36e9fbff82dff59d43782f5cc1",
@@ -225,8 +208,7 @@
       "y": [
         "converter.nim"
       ],
-      "x": [],
-      "e": ""
+      "x": []
     },
     {
       "v": "0.7.0@b6e0903b0ef5baca39ab32213e586c9f7f0f6d8d",
@@ -236,8 +218,7 @@
       "y": [
         "converter.nim"
       ],
-      "x": [],
-      "e": ""
+      "x": []
     },
     {
       "v": "0.6.0@3bc66399a19ffce77d0eafe021aa3f38876f1e57",
@@ -247,8 +228,7 @@
       "y": [
         "converter.nim"
       ],
-      "x": [],
-      "e": ""
+      "x": []
     },
     {
       "v": "0.5.0@d39fc566a9e803027022091ea6e011185bc3cb74",
@@ -258,8 +238,7 @@
       "y": [
         "converter.nim"
       ],
-      "x": [],
-      "e": ""
+      "x": []
     },
     {
       "v": "0.4.0@d185e1eff558b0a5f6e59212b97b66f0faeb73a0",
@@ -270,8 +249,7 @@
       "y": [
         "converter.nim"
       ],
-      "x": [],
-      "e": ""
+      "x": []
     },
     {
       "v": "0.3.0@582c2f458c332c5b4ff61a74c1d0b439f377277f",
@@ -282,12 +260,46 @@
       "y": [
         "converter.nim"
       ],
-      "x": [],
-      "e": ""
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:12Z",
+  "generatedAt": "2026-05-26T15:50:52Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.10.0",
+      "v0.12.0",
+      "v0.13.0",
+      "v0.13.2",
+      "v0.14.0",
+      "v0.14.1",
+      "v0.14.2",
+      "v0.15.0",
+      "v0.4.0",
+      "v0.6.0",
+      "v0.7.0",
+      "v0.8.0"
+    ],
+    "tagVersions": {
+      "v0.10.0": "0.10.0",
+      "v0.12.0": "0.12.0",
+      "v0.13.0": "0.13.0",
+      "v0.13.2": "0.13.2",
+      "v0.14.0": "0.14.0",
+      "v0.14.1": "0.14.1",
+      "v0.14.2": "0.14.2",
+      "v0.15.0": "0.15.0",
+      "v0.4.0": "0.4.0",
+      "v0.6.0": "0.6.0",
+      "v0.7.0": "0.7.0",
+      "v0.8.0": "0.8.0"
+    },
+    "latest": "v0.15.0"
+  },
   "allDeps": {
     "packages": [
       "c2nim <= 0.4.0",

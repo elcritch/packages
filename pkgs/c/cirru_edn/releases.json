@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "cirru_edn",
   "fqn": "cirru-edn.nim.Cirru.github.com",
+  "current": "ae3f4690758e467c91e4f93eab7b938316a7c232",
   "author": "jiyinyiyong",
   "description": "Cirru EDN loader in Nim",
   "license": "MIT",
@@ -120,7 +121,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:01Z",
+  "generatedAt": "2026-05-26T15:45:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

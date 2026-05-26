@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "holo_match",
   "fqn": "holo-match.holo-nim.github.com",
+  "current": "431f244de1a17c01580983730e9582ae4a3f09aa",
   "author": "metagn",
   "description": "nested/overloadable pattern matching",
   "license": "MIT",
@@ -52,7 +53,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:46Z",
+  "generatedAt": "2026-05-26T15:47:44Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

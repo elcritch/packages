@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "pledge",
   "fqn": "pledge.nim.euantorano.github.com",
+  "current": "6dd1e54327057ce6014d6314f99f909faa739149",
   "author": "Euan T",
   "description": "A wrapper around OpenBSD's pledge(2) systemcall for Nim.",
   "license": "BSD3",
@@ -45,7 +46,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:06Z",
+  "generatedAt": "2026-05-26T15:52:03Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

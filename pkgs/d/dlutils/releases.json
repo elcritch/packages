@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "dlutils",
   "fqn": "dlutils.amnr.github.com",
+  "current": "cb3323eebe368e6dcf44cddd4b2638a597307d10",
   "author": "Amun",
   "description": "Nim package for easy shared library loading.",
   "license": "MIT OR NCSA",
@@ -45,7 +46,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:35Z",
+  "generatedAt": "2026-05-26T15:46:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

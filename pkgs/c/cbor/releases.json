@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "cbor",
   "fqn": "nim_cbor.~ehmry.git.sr.ht",
+  "current": "cca1d42e5f0cf683248b6d967407956ba165a0f2",
   "author": "Emery Hemingway",
   "description": "Concise Binary Object Representation decoder and encoder (RFC8949).",
   "license": "Unlicense",
@@ -21,10 +22,7 @@
       "v": "20250805@cca1d42e5f0cf683248b6d967407956ba165a0f2^",
       "r": [
         "gh:ehmry/nim-bigints >= 20231006"
-      ],
-      "x": [],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "20240823@598716d7b47905311cdb6b0ed1cec863bb2bb497",
@@ -35,19 +33,13 @@
     },
     {
       "v": "20230619@a4a1affd45ba90bea24e08733ae2bd02fe058166",
-      "r": [],
-      "x": [],
-      "k": [],
-      "p": []
+      "r": []
     },
     {
       "v": "20230310@aa60c7def53ffd28569824f4a4cd50342b06d4b0",
       "r": [
         "bigints"
-      ],
-      "x": [],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "20221007@0085906108daf6a0e6444c88a2499c2c490ddd34",
@@ -55,10 +47,7 @@
         "bigints"
       ],
       "d": "Concise Binary Object Representation decoder and encoder (RFC7049).",
-      "l": "ISC",
-      "x": [],
-      "k": [],
-      "p": []
+      "l": "ISC"
     },
     {
       "v": "20220831@6f7edf7dd79a841d47ec4bdb2bf92942abcf2af0",
@@ -66,10 +55,7 @@
         "bigints"
       ],
       "d": "Concise Binary Object Representation decoder and encoder (RFC7049).",
-      "l": "ISC",
-      "x": [],
-      "k": [],
-      "p": []
+      "l": "ISC"
     },
     {
       "v": "0.9.0@0eaf828238ab1c595a3851c319062e47886504e7",
@@ -77,10 +63,7 @@
         "bigints"
       ],
       "d": "Concise Binary Object Representation decoder and encoder (RFC7049).",
-      "l": "ISC",
-      "x": [],
-      "k": [],
-      "p": []
+      "l": "ISC"
     },
     {
       "v": "0.8.1@1ae2ef2abfcc12ca30ba7852df322ca9efb73e0a",
@@ -88,10 +71,7 @@
         "bigints"
       ],
       "d": "Concise Binary Object Representation decoder and encoder (RFC7049).",
-      "l": "ISC",
-      "x": [],
-      "k": [],
-      "p": []
+      "l": "ISC"
     },
     {
       "v": "0.8.0@a77c79bfa4446183a1c7366e5e398fd19a58a561",
@@ -99,19 +79,13 @@
         "bignum"
       ],
       "d": "Concise Binary Object Representation decoder and encoder (RFC7049).",
-      "l": "ISC",
-      "x": [],
-      "k": [],
-      "p": []
+      "l": "ISC"
     },
     {
       "v": "0.7.0@697fc846b35e59fab55635d565c7d804aeb08184",
       "r": [],
       "d": "Concise Binary Object Representation decoder and encoder (RFC7049).",
-      "l": "ISC",
-      "x": [],
-      "k": [],
-      "p": []
+      "l": "ISC"
     },
     {
       "v": "0.6.0@7d0bd6fba190349ec888dbe09e63b4c1ebcc0c61",
@@ -198,7 +172,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:51Z",
+  "generatedAt": "2026-05-26T15:45:17Z",
   "allDeps": {
     "packages": [
       "bigints > 0.8.0 & <= 20230310",

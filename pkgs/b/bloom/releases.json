@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "bloom",
   "fqn": "nimrod-bloom.boydgreenfield.github.com",
+  "current": "e4cab54b65a5c3f3efe878beab70d97e0da75709",
   "releases": [
     {
       "v": "0.1.0@a90c92d5be261ef196fd138be8ef9ebb621ad2a0",
@@ -11,7 +12,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:33Z",
+  "generatedAt": "2026-05-26T15:44:54Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

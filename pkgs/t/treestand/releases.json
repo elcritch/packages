@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "treestand",
   "fqn": "nim-treestand.YesDrX.github.com",
+  "current": "e31a984b48aedac8f97f8d78d3aa2dea7207735f",
   "author": "Treestand Contributors",
   "description": "Tree-sitter parser generator for Nim",
   "license": "MIT",
@@ -22,28 +23,19 @@
       "v": "0.4.1@e31a984b48aedac8f97f8d78d3aa2dea7207735f^",
       "r": [
         "cligen"
-      ],
-      "i": [],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.4.0@73e6545f3e09e0d392707317cfe9290cf349d15d",
       "r": [
         "cligen"
-      ],
-      "i": [],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.3.1@7fb9be48deec3e18128d7f9bbf9c929d89f560db",
       "r": [
         "cligen"
-      ],
-      "i": [],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.3.0@b507f5b0a54d43d01a6282e86d3eab193b7a19bf",
@@ -51,8 +43,7 @@
         "cligen"
       ],
       "i": [],
-      "k": [],
-      "p": []
+      "k": []
     },
     {
       "v": "0.2.2@5417aa31192b351bdaac72102e77043208d367d9",
@@ -60,8 +51,7 @@
         "cligen"
       ],
       "i": [],
-      "k": [],
-      "p": []
+      "k": []
     },
     {
       "v": "0.2.1@ac5fa3c4a709032bb4a2970c9f0153685ddbc505",
@@ -69,8 +59,7 @@
         "cligen"
       ],
       "i": [],
-      "k": [],
-      "p": []
+      "k": []
     },
     {
       "v": "0.2.0@c00c9dbed338ad4986c2de7d71c07382a3ca178e",
@@ -78,8 +67,7 @@
         "cligen"
       ],
       "i": [],
-      "k": [],
-      "p": []
+      "k": []
     },
     {
       "v": "0.1.0@59fd9acba7302d78b2180e48d671eb50b7321557",
@@ -87,12 +75,11 @@
         "cligen"
       ],
       "i": [],
-      "k": [],
-      "p": []
+      "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:52Z",
+  "generatedAt": "2026-05-26T15:54:26Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

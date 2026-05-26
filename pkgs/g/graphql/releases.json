@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "graphql",
   "fqn": "nim-graphql.status-im.github.com",
+  "current": "941f1f88011c5bf1969d37f2925e1f451cf24a2b",
   "author": "Status Research & Development GmbH",
   "description": "GraphQL parser, server and client implementation",
   "license": "Apache License 2.0",
@@ -15,8 +16,7 @@
       "r": [
         "faststreams",
         "stew"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "0.1.2@6269cefcb94adff7a79b966d14bc8e99a923fa29",
@@ -311,7 +311,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:34Z",
+  "generatedAt": "2026-05-26T15:47:29Z",
   "allDeps": {
     "packages": [
       "bearssl > 0.2.24",

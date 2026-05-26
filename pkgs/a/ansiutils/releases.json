@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "ansiutils",
   "fqn": "ansiutils.ansiwave.github.com",
+  "current": "65811c1556cd103a060dcf0e08d2d5090633b8fd",
   "author": "oakes",
   "description": "Utilities for parsing CP437 and ANSI escape codes",
   "license": "Public Domain",
@@ -13,17 +14,15 @@
   "releases": [
     {
       "v": "0.2.0@65811c1556cd103a060dcf0e08d2d5090633b8fd^",
-      "r": [],
-      "k": []
+      "r": []
     },
     {
       "v": "0.1.0@7e8057e76b33d1fda59eba2c8f5a50e447615f80",
-      "r": [],
-      "k": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:11:54Z",
+  "generatedAt": "2026-05-26T15:44:04Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "threadproxy",
   "fqn": "threadproxy.nim.jackhftang.github.com",
+  "current": "1889a876ba7d16bd5194692e75719bc6e751f7b5",
   "author": "Jack Tang",
   "description": "Simplify Nim Inter-Thread Communication",
   "license": "MIT",
@@ -48,7 +49,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:41Z",
+  "generatedAt": "2026-05-26T15:54:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

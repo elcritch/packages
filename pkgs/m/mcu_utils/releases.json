@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "mcu_utils",
   "fqn": "mcu_utils.EmbeddedNim.github.com",
+  "current": "a585835c140d54c2c807313b43442e17c44a1a1a",
   "author": "Jaremy Creechley",
   "description": "Utilities and simple helpers for programming with Nim on embedded MCU devices",
   "license": "Apache-2.0",
@@ -16,9 +17,7 @@
   "releases": [
     {
       "v": "0.1.0@fe095b13206ca953d89beccec12e9a56c08438f6",
-      "r": [],
-      "k": [],
-      "p": []
+      "r": []
     },
     {
       "v": "0.2.0@4f6f2784ecd26f792d3bbc8943b4de18d7d94c71",
@@ -96,7 +95,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:55Z",
+  "generatedAt": "2026-05-26T15:49:13Z",
   "allDeps": {
     "packages": [
       "persistent_enums > 0.3.2",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimx",
   "fqn": "nimx.yglukhov.github.com",
+  "current": "7a3f58cf5b25e7e58c27fd540a2155c19da28879",
   "author": "Yuriy Glukhov",
   "description": "GUI framework",
   "license": "MIT",
@@ -33,12 +34,11 @@
         "gh:tormund/nester",
         "nimwebp",
         "gh:yglukhov/clipboard"
-      ],
-      "i": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:20Z",
+  "generatedAt": "2026-05-26T15:51:05Z",
   "allDeps": {
     "packages": [
       "classy",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "tinydialogs",
   "fqn": "tinydialogs.Patitotective.github.com",
+  "current": "c8d2450501a01ef02edd100629e5c716f3cfacba",
   "author": "Patitotective",
   "description": "Tiny file dialogs bindings for Nim",
   "license": "MIT",
@@ -13,27 +14,23 @@
   "releases": [
     {
       "v": "1.1.2@c8d2450501a01ef02edd100629e5c716f3cfacba^",
-      "r": [],
-      "y": []
+      "r": []
     },
     {
       "v": "1.1.1@b20fd335b4774dce3fa96d8c115b187314a974a4",
-      "r": [],
-      "y": []
+      "r": []
     },
     {
       "v": "1.1.0@da6c09ca3198b6a167b19e48ff524be055e51fa0",
-      "r": [],
-      "y": []
+      "r": []
     },
     {
       "v": "1.0.0@9d81d71adf818db5a1c614ad51036c266587c705",
-      "r": [],
-      "y": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:45Z",
+  "generatedAt": "2026-05-26T15:54:15Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

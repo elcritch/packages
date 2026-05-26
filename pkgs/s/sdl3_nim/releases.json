@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "sdl3_nim",
   "fqn": "sdl3_nim.dinau.github.com",
+  "current": "67bb6c4f98a8d7594742d7cc4c20d505b029c70b",
   "author": "dinau",
   "description": "SDL3 library wrapper",
   "license": "MIT",
@@ -18,8 +19,7 @@
         "nimgl 1.3.2",
         "stb_image 2.5",
         "basic2d"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "3.4.0.0@28c92b32a6a9b6de53a8e88ae193761cb9a5fb89",
@@ -27,8 +27,7 @@
         "nimgl 1.3.2",
         "stb_image 2.5",
         "basic2d"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "3.2.26.0@bc9564be7c9f6dd70869e3451b21c0fd583e0fdd",
@@ -36,8 +35,7 @@
         "nimgl 1.3.2",
         "stb_image 2.5",
         "basic2d"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "3.2.24.2@cd841d0c968d9ad0010c6b32de655c05f6b0e00f",
@@ -185,7 +183,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:49Z",
+  "generatedAt": "2026-05-26T15:53:01Z",
   "allDeps": {
     "packages": [
       "basic2d > 0.2.0",

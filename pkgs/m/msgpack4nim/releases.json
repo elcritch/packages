@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "msgpack4nim",
   "fqn": "msgpack4nim.jangko.github.com",
+  "current": "d34532782837553acc4fe1abaf422284b54b837b",
   "author": "Andri Lim",
   "description": "MessagePack serializer/deserializer implementation in nim",
   "license": "MIT",
@@ -21,39 +22,31 @@
     {
       "v": "0.4.4@f4cc097ca9694f17feced9f82994f583ef7911fe",
       "r": [],
-      "j": [],
-      "x": []
+      "j": []
     },
     {
       "v": "0.4.2@a7f290501a8c73ae9a6a5eed97ac2654910b7d6c",
       "r": [],
-      "j": [],
-      "x": []
+      "j": []
     },
     {
       "v": "0.3.1@472152dd56a8b282535647caeba4643f3c4992f8",
       "r": [],
-      "m": "0.18.0",
-      "x": [],
-      "j": []
+      "m": "0.18.0"
     },
     {
       "v": "0.3.0@78630e031537c3889d67340d6215e5df1189ed94",
       "r": [],
-      "m": "0.18.0",
-      "x": [],
-      "j": []
+      "m": "0.18.0"
     },
     {
       "v": "0.2.9@70fa16c92a7dff56bd6f3965a6d5a013bf3f1e48",
       "r": [],
-      "m": "0.18.0",
-      "x": [],
-      "j": []
+      "m": "0.18.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:10Z",
+  "generatedAt": "2026-05-26T15:49:33Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

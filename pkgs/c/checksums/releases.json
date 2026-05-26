@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "checksums",
   "fqn": "checksums.nim-lang.github.com",
+  "current": "5c132cd332cce5d64a0da9ac3e4c9664313dccb4",
   "author": "Nim Contributors",
   "description": "Hash algorithms in Nim.",
   "license": "MIT",
@@ -26,7 +27,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:57Z",
+  "generatedAt": "2026-05-26T15:45:23Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

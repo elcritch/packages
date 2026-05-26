@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "sparc",
   "fqn": "sparc.ph4mished.github.com",
+  "current": "2fe29f776678f37d8ac90153d6aa79dc9f3bf7f3",
   "author": "Jonathan Botchway Owusu",
   "description": "Schema Parser for Arguments and Commands for Nim",
   "license": "MIT",
@@ -14,7 +15,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:10Z",
+  "generatedAt": "2026-05-26T15:53:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

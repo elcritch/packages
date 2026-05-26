@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimcb",
   "fqn": "nimcb.AdrianV.github.com",
+  "current": "b07815e1f0174da6035e9570f390dd9b833b715a",
   "author": "Adrian Veith",
   "description": "Integrate nim projects in the C++Builder build process",
   "license": "MIT",
@@ -13,12 +14,11 @@
   "releases": [
     {
       "v": "0.1.0@13ed89d5259a9b6ef32777650dba5bd63e206112",
-      "r": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:44Z",
+  "generatedAt": "2026-05-26T15:50:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

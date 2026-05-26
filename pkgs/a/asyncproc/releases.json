@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "asyncproc",
   "fqn": "asyncproc.Alogani.github.com",
+  "current": "5bd0bb7871a68f1f1a8f5b996f400690d8927373",
   "author": "alogani",
   "description": "Flexible child process spawner with strong async features",
   "license": "MIT",
@@ -95,7 +96,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:07Z",
+  "generatedAt": "2026-05-26T15:44:21Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

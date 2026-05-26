@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "feta",
   "fqn": "office-DSL-thesis.FlorianRauls.github.com",
+  "current": "8abbd3481168609a0e0e3b0cdd8c12fdaa5bd654",
   "author": "Florian Rauls",
   "description": "A domain-specific language for general purpose office automation. The language is embedded in Nim and allows for quick and easy integration of different office software environments.",
   "license": "MIT",
@@ -17,8 +18,7 @@
         "jester >= 0.5.0",
         "googleapi",
         "ws"
-      ],
-      "i": []
+      ]
     },
     {
       "v": "0.0.17@ec07a044fd11a17b067bb466200dac06c0fb2db2",
@@ -27,8 +27,7 @@
         "jester >= 0.5.0",
         "googleapi",
         "ws"
-      ],
-      "i": []
+      ]
     },
     {
       "v": "0.0.16@950cca87a197512821bd7dce0b30e5bea460eb0d",
@@ -37,8 +36,7 @@
         "jester >= 0.5.0",
         "googleapi",
         "ws"
-      ],
-      "i": []
+      ]
     },
     {
       "v": "0.0.15@1c880192becb294d475950dd6d44a7f7fdd0e624",
@@ -47,8 +45,7 @@
         "jester >= 0.5.0",
         "googleapi",
         "ws"
-      ],
-      "i": []
+      ]
     },
     {
       "v": "0.0.14@8b929aa55f95dfc47d9d3bec6ecc7df834e03b6a",
@@ -57,8 +54,7 @@
         "jester >= 0.5.0",
         "googleapi",
         "ws"
-      ],
-      "i": []
+      ]
     },
     {
       "v": "0.0.13@6f62203428621bb167075c19092ba79777b8629e",
@@ -67,8 +63,7 @@
         "jester >= 0.5.0",
         "googleapi",
         "ws"
-      ],
-      "i": []
+      ]
     },
     {
       "v": "0.0.12@0383c0c9963b23228657ce8fe5d217e92a0cae9e",
@@ -77,8 +72,7 @@
         "jester >= 0.5.0",
         "googleapi",
         "ws"
-      ],
-      "i": []
+      ]
     },
     {
       "v": "0.0.11@0567d9f0a9b4debd1f8ad7b68e060f6cde283244",
@@ -87,8 +81,7 @@
         "jester >= 0.5.0",
         "googleapi",
         "ws"
-      ],
-      "i": []
+      ]
     },
     {
       "v": "0.0.9@a56e97f6c4ea04c19530b542c33dac1e7a3d4d7f",
@@ -98,8 +91,7 @@
         "googleapi",
         "ws"
       ],
-      "m": "1.2.0",
-      "i": []
+      "m": "1.2.0"
     },
     {
       "v": "0.0.8@11d7e9756abfa03ca428f777f7e163fbba4b0b49",
@@ -107,8 +99,7 @@
         "mime >= 0.0.3",
         "jester >= 0.5.0"
       ],
-      "m": "1.2.0",
-      "i": []
+      "m": "1.2.0"
     },
     {
       "v": "0.0.7@1f688f0a268c4cedc9e10f2a15d1d671c93623f7",
@@ -117,8 +108,7 @@
         "jester >= 0.5.0"
       ],
       "d": "A domain-specific for general purpose office automation. The language is embedded in Nim and allows for quick and easy integration of different office software environments.",
-      "m": "1.2.0",
-      "i": []
+      "m": "1.2.0"
     },
     {
       "v": "0.0.6@e069f5b20568430ece70c51d7ff6b3516872f9e2",
@@ -127,8 +117,7 @@
         "jester >= 0.5.0"
       ],
       "d": "A domain-specific for general purpose office automation. The language is embedded in Nim and allows for quick and easy integration of different office software environments.",
-      "m": "1.2.0",
-      "i": []
+      "m": "1.2.0"
     },
     {
       "v": "0.0.5@820a7d1a42861a8ba25cd7414dbf68971f2a602b",
@@ -137,8 +126,7 @@
         "jester >= 0.5.0"
       ],
       "d": "A domain-specific for general purpose office automation. The language is embedded in Nim and allows for quick and easy integration of different office software environments.",
-      "m": "1.2.0",
-      "i": []
+      "m": "1.2.0"
     },
     {
       "v": "0.0.4@6de23e2f3f1d40796fe0e15326a1d3f33073378c",
@@ -147,8 +135,7 @@
         "jester >= 0.5.0"
       ],
       "d": "A domain-specific for general purpose office automation. The language is embedded in Nim and allows for quick and easy integration of different office software environments.",
-      "m": "1.2.0",
-      "i": []
+      "m": "1.2.0"
     },
     {
       "v": "0.0.2@04f86cc46ceb6624534fb98fc84e2453fee2fede",
@@ -157,12 +144,11 @@
         "jester >= 0.5.0"
       ],
       "d": "A domain-specific for general purpose office automation. The language is embedded in Nim and allows for quick and easy integration of different office software environments.",
-      "m": "1.2.0",
-      "i": []
+      "m": "1.2.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:56Z",
+  "generatedAt": "2026-05-26T15:46:41Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

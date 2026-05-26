@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimsuite",
   "fqn": "NimSuite.c6h4clch3.github.com",
+  "current": "76c90cb33b2ee28a4643e6ff53b86cacdd5920ab",
   "author": "c6h4clch3",
   "description": "a simple test framework for nim.",
   "license": "MIT",
@@ -16,13 +17,21 @@
   "releases": [
     {
       "v": "0.1.0@cabc2ac68e455872c557edbe0e9e447fb9490410",
-      "r": [],
-      "k": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:14Z",
+  "generatedAt": "2026-05-26T15:50:55Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.1.0"
+    ],
+    "latest": "0.1.0"
+  },
   "allDeps": {
     "packages": [],
     "urls": [],

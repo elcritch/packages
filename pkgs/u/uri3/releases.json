@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "uri3",
   "fqn": "nim_uri3.zendbit.github.com",
+  "current": "299e37ed5ca0d1a4e194a26af3ac0fe91bf080c3",
   "author": "Amru Rosyada",
   "description": "This is extension for uri (For handling uri) module and forked from uri2 with some bug fix.",
   "license": "MIT",
@@ -66,7 +67,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:03Z",
+  "generatedAt": "2026-05-26T15:54:39Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

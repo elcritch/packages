@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "stomp",
   "fqn": "nim-stomp.mahlonsmith.github.com",
+  "current": "166d8d4ca5d9df90307ca8fe935b3ee96097befd",
   "author": "Mahlon E. Smith <mahlon@martini.nu>",
   "description": "A pure-nim implementation of the STOMP protocol for machine messaging.",
   "license": "MIT",
@@ -23,9 +24,7 @@
     {
       "v": "0.1.1@b06edfff883ea6c07b8e78731f72742d5fa2e9a9",
       "r": [],
-      "m": "0.19.0",
-      "k": [],
-      "p": []
+      "m": "0.19.0"
     },
     {
       "v": "0.1.2@833aab30007fa38130b659eef55b93de589c0334",
@@ -47,7 +46,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:20Z",
+  "generatedAt": "2026-05-26T15:53:41Z",
   "allDeps": {
     "packages": [],
     "urls": [],

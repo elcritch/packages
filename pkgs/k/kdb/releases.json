@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "kdb",
   "fqn": "kdb_nim.inv2004.github.com",
+  "current": "2fbc9da70a508c27ca6da81d28c6e5ea79a4f030",
   "author": "Anonymous",
   "description": "A new awesome nimble package",
   "license": "Apache-2.0",
@@ -16,8 +17,7 @@
       "r": [
         "terminaltables >= 0.1.1",
         "uuids >= 0.1.10"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.7.0@9b6e65994a5c93d3ec9fef56e6763c2d20cd9317",
@@ -31,7 +31,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:17Z",
+  "generatedAt": "2026-05-26T15:48:25Z",
   "allDeps": {
     "packages": [
       "isaac",

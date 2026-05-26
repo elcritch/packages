@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "groovebox",
   "fqn": "groovebox.openpeeps.github.com",
+  "current": "c75131f936349c544b66f26ec02a9e63dfd86ad6",
   "author": "George Lemon",
   "description": "Live stream pre-recorded media to Twitch, Yotube and Icecast servers",
   "license": "AGPL-3.0-or-later",
@@ -20,9 +21,7 @@
         "rtmp #head",
         "malebolgia #head",
         "nyml #head"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "0.1.1@7a888ab7f41dbc27e4419333bf7be08c61718395",
@@ -32,9 +31,7 @@
         "rtmp #head",
         "malebolgia #head",
         "nyml #head"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "0.1.0@912b37adc1a90d594065815df00c8c89ff9c535e",
@@ -44,13 +41,11 @@
         "rtmp #head",
         "malebolgia #head",
         "nyml #head"
-      ],
-      "b": "",
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:33Z",
+  "generatedAt": "2026-05-26T15:47:30Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

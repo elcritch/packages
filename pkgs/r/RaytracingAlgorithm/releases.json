@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "RaytracingAlgorithm",
   "fqn": "RaytracingAlgorithm.lorycontixd.github.com",
+  "current": "23fd19006e24d7efec3363d76a55dd1d6272825f",
   "author": "Lorenzo Conti, Diana Barindelli",
   "description": "RayTracing Algorith in Nim",
   "license": "GPL-3.0",
@@ -17,8 +18,7 @@
         "simplepng",
         "cligen",
         "stacks"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "2.1.0@f1f463ba648ffb50f0cf00591c57e3b865ac53c3",
@@ -26,8 +26,7 @@
         "simplepng",
         "cligen",
         "stacks"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "2.0.0@35d2949345caca52fb63fba8cb71162a7871848c",
@@ -35,16 +34,14 @@
         "simplepng",
         "cligen",
         "stacks"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "1.0.0@27952756f4a2dff65698e8db1063fe6ec37c28c4",
       "r": [
         "simplepng",
         "cligen"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.1.1@14ee0ee891f0684904a7b19c4798d4f86ac4190e",
@@ -65,7 +62,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:11:48Z",
+  "generatedAt": "2026-05-26T15:43:55Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

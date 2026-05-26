@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "vier",
   "fqn": "vier.~xigoi.git.sr.ht",
+  "current": "c1a1c5af6e0126b278c144b6dbe386805371a56a",
   "author": "Adam Blažek",
   "description": "Vim-Inspired Editor of Rasters",
   "license": "GPL-3.0-or-later",
@@ -16,72 +17,63 @@
       "r": [
         "naylib",
         "spryvm"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "2024.129.1@bd1d60db801f9bcd7f59679d39e284b6e604cb9e",
       "r": [
         "naylib",
         "spryvm"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "2024.129.0@d370239d9ee87ba74059c528099535424741e4bd",
       "r": [
         "naylib",
         "spryvm"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "2024.125.0@8713dd2c856a8dfc91c3be9173f80d653c1cea75",
       "r": [
         "naylib",
         "spryvm"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "2024.123.0@5fe71bb1be0af1a8f1113e2e782e6131a40d00e5",
       "r": [
         "naylib",
         "spryvm"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "2024.108.0@f7a57603cac2da068576e206c26d9280b69faf2b",
       "r": [
         "naylib",
         "spryvm"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "2024.107.0@b7d0b11d9217f6e8f5778b3e17a6168bc1b95f06",
       "r": [
         "naylib",
         "spryvm"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "2024.105.0@2fb64c7d59eb249d3ffd3b24c7fe86acb7ccf785",
       "r": [
         "naylib",
         "spryvm"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "2023.1230.0@93765d26158e35b181f77af706e7fafb2439b274",
       "r": [
         "naylib",
         "spryvm"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "2023.1220.0@3d27f38cbc018d9a5c17a452796fbe0746dffaf2",
@@ -220,7 +212,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:12Z",
+  "generatedAt": "2026-05-26T15:54:50Z",
   "allDeps": {
     "packages": [
       "LimDB > 2023.1212.1",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimtesseract",
   "fqn": "nimtesseract.DavideGalilei.github.com",
+  "current": "81dbb412bcf5621d346d16f8f97a248b32119dad",
   "author": "Davide Galilei",
   "description": "A wrapper to Tesseract OCR library for Nim",
   "license": "Unlicense",
@@ -29,7 +30,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:15Z",
+  "generatedAt": "2026-05-26T15:50:57Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

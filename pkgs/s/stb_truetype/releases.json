@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "stb_truetype",
   "fqn": "stb_truetype.guzba.github.com",
+  "current": "d345d3a13222200338a10c72dd5345afc814408d",
   "author": "Ryan Oldenburg",
   "description": "Nim bindings for stb_truetype.",
   "license": "MIT",
@@ -14,7 +15,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:18Z",
+  "generatedAt": "2026-05-26T15:53:39Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

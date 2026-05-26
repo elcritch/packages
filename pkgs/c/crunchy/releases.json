@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "crunchy",
   "fqn": "crunchy.guzba.github.com",
+  "current": "98eb6526982bb8aae8eec6e8781f4539fa19e049",
   "author": "Ryan Oldenburg",
   "description": "SIMD-optimized hashing, checksums and CRCs",
   "license": "MIT",
@@ -82,7 +83,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:18Z",
+  "generatedAt": "2026-05-26T15:45:49Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

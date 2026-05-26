@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "grafanim",
   "fqn": "grafanim.jamesalbert.github.com",
+  "current": "f9e75a9fa07330fea483f3acfb1051bd72aa22d1",
   "author": "jamesalbert",
   "description": "grafana for nim",
   "license": "GNU",
@@ -19,12 +20,11 @@
       "v": "0.1.0@5a156ea15e6844d308cafc8dd3ed3e6aa05bc427",
       "r": [],
       "d": "Grafana module for nim",
-      "l": "GPL",
-      "x": []
+      "l": "GPL"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:32Z",
+  "generatedAt": "2026-05-26T15:47:27Z",
   "allDeps": {
     "packages": [],
     "urls": [],

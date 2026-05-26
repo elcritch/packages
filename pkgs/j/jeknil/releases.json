@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "jeknil",
   "fqn": "jeknil.tonogram.github.com",
+  "current": "53a3f47331ecc3a64238489ef3f37079bcc6d473",
   "author": "Reilly Moore",
   "description": "A blog post generator for people with priorities.",
   "license": "CC0-1.0",
@@ -15,26 +16,23 @@
       "v": "0.2.0@1f1b649f591f2410d3fd892853c8dec981141030",
       "r": [
         "markdown >= 0.8.0"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.1.1@cb002fae504e16ba6ac9fbfffaa3567a35d733a5",
       "r": [
         "markdown >= 0.8.0"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.1.0@ed09fa1ae74eee33744b80ba53958a71f4db995a",
       "r": [
         "markdown >= 0.8.0"
-      ],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:08Z",
+  "generatedAt": "2026-05-26T15:48:14Z",
   "allDeps": {
     "packages": [
       "markdown"

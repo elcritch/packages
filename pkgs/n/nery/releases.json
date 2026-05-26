@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nery",
   "fqn": "Nery.David-Kunz.github.com",
+  "current": "403c136942b4717675eed8fae9d0e2e2c60b7310",
   "author": "Dr. David Alexander Kunz",
   "description": "Easily create queries in Nim",
   "license": "MIT",
@@ -16,7 +17,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:21Z",
+  "generatedAt": "2026-05-26T15:49:47Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

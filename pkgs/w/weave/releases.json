@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "weave",
   "fqn": "weave.mratsim.github.com",
+  "current": "b6255afa5816ee431dbf2f59cc6bc605d8d657b8",
   "author": "Mamy André-Ratsimbazafy",
   "description": "a state-of-the-art multithreading runtime",
   "license": "MIT or Apache License 2.0",
@@ -42,7 +43,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:17Z",
+  "generatedAt": "2026-05-26T15:54:58Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimpy",
   "fqn": "nimpy.yglukhov.github.com",
+  "current": "d559f7bcb8fb877b4eae4bd116b8fbc9e16560ef",
   "author": "Yuriy Glukhov",
   "description": "Nim python integration lib",
   "license": "MIT",
@@ -16,7 +17,7 @@
       "r": []
     },
     {
-      "v": "0.2.0@1963283148d01f46ac789a83412afbb5d375cfad",
+      "v": "0.2.0@621bb4cdd9f85f93fe20570142b1984e6f4500aa",
       "r": [],
       "m": "1.0"
     },
@@ -27,7 +28,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:09Z",
+  "generatedAt": "2026-05-26T15:50:49Z",
   "allDeps": {
     "packages": [],
     "urls": [],

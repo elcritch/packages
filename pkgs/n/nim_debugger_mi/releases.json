@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nim_debugger_mi",
   "fqn": "nimdebugger.YesDrX.github.com",
+  "current": "d9d03e7d0f83af254d4395b3e581f39832488454",
   "author": "yesdrx",
   "description": "GDB/LLDB/MI proxy for Nim that handles symbol mangling/demangling",
   "license": "MIT",
@@ -16,40 +17,50 @@
       "r": [
         "glob >= 0.1.0",
         "subprocess >= 0.2.1"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.3.1@553eeb59aff83b2adb4703416d3b612a54296302",
       "r": [
         "glob >= 0.1.0"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.3.0@24359a65f7cfce00745e07425e08bd74665341d2",
       "r": [
         "glob >= 0.1.0"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.2.6@78f100c3046db295e9dfbbb21c16ed88dc523386",
       "r": [
         "glob >= 0.1.0"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.2.5@6e88f7969c4cc8c62bf4591e4a9babc7df595400",
       "r": [
         "glob >= 0.1.0"
-      ],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:35Z",
+  "generatedAt": "2026-05-26T15:50:06Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.2.4",
+      "0.2.5",
+      "0.2.6",
+      "0.3.0",
+      "0.3.1",
+      "0.4.0"
+    ],
+    "latest": "0.4.0"
+  },
   "allDeps": {
     "packages": [
       "glob",

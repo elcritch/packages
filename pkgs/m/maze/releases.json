@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "maze",
   "fqn": "maze.jiro4989.github.com",
+  "current": "6d8f56837f4ece89703ccfc4dae1b22413a303be",
   "author": "jiro4989",
   "description": "A command and library to generate mazes",
   "license": "MIT",
@@ -17,14 +18,11 @@
   "releases": [
     {
       "v": "1.0.0@c87c1707ad01377efd9d98ee0522e4a362f171bd",
-      "r": [],
-      "b": "",
-      "k": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:53Z",
+  "generatedAt": "2026-05-26T15:49:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

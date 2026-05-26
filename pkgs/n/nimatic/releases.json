@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimatic",
   "fqn": "nimatic.DangerOnTheRanger.github.com",
+  "current": "430c5158a533961bf17ec28266060395d0c9522d",
   "author": "Kermit Alexander II",
   "description": "A static site generator written in Nim",
   "license": "2-clause BSD",
@@ -18,21 +19,17 @@
       "v": "0.1.0@d87b90a1f710192773cb6cde0fc23d2c1fa1f2bf",
       "r": [
         "markdown >= 0.8.0"
-      ],
-      "z": [],
-      "p": []
+      ]
     },
     {
       "v": "0.2.0@518adbed880b5668942d9ddad7b8d7cb7813f7ec",
       "r": [
         "markdown >= 0.8.0"
-      ],
-      "z": [],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:40Z",
+  "generatedAt": "2026-05-26T15:50:12Z",
   "allDeps": {
     "packages": [
       "markdown"

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "zfplugs",
   "fqn": "nim_zfplugs.zendbit.github.com",
+  "current": "27167132a23c651cec78282b6cd0125f62e0d472",
   "author": "Amru Rosyada",
   "description": "This is the plugins for the zfcore framework https://github.com/zendbit/nim.zfcore",
   "license": "BSD",
@@ -250,7 +251,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:48Z",
+  "generatedAt": "2026-05-26T15:55:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "happyx-native",
   "fqn": "happyx-native.HapticX.github.com",
+  "current": "9a3663d4ea4f5d942761cb3d9e9e494e9693e8aa",
   "author": "HapticX",
   "description": "Macro-oriented web-framework compiles to native written with ♥",
   "license": "MIT",
@@ -30,15 +31,11 @@
         "happyx #head",
         "jnim #head",
         "rcedit"
-      ],
-      "i": [],
-      "j": [],
-      "k": [],
-      "o": {}
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:37Z",
+  "generatedAt": "2026-05-26T15:47:35Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

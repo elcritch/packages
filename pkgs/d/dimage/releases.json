@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "dimage",
   "fqn": "dimage.accodeing.github.com",
+  "current": "30ff470dec65d5d6d868e1b0c588a378e2ca2781",
   "author": "Jonas Schubert Erlandsson",
   "description": "Pure Nim, no external dependensies image dimension reader for all web supported image formats",
   "license": "LGPL-3.0-only",
@@ -21,14 +22,11 @@
       "v": "0.1.0@e24b19f23afb061e984722e39b151a58d93fe68e",
       "r": [
         "cligen >= 1.5.28"
-      ],
-      "x": [],
-      "k": [],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:32Z",
+  "generatedAt": "2026-05-26T15:46:08Z",
   "allDeps": {
     "packages": [
       "cligen"

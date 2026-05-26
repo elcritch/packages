@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nap",
   "fqn": "nap.madprops.github.com",
+  "current": "e89077ec751f1308a0101c99aaefe57e55b59d45",
   "author": "madprops",
   "description": "Argument parser",
   "license": "MIT",
@@ -141,7 +142,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:15Z",
+  "generatedAt": "2026-05-26T15:49:38Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

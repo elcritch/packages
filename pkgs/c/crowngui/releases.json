@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "crowngui",
   "fqn": "crowngui.bung87.github.com",
+  "current": "99309ac50ea56ab0f2f5298edb3caca58ba7d023",
   "author": "bung87",
   "description": "Web Technologies based Crossplatform GUI Framework",
   "license": "MIT",
@@ -21,8 +22,7 @@
         "darwin",
         "winim"
       ],
-      "p": [],
-      "k": []
+      "p": []
     },
     {
       "v": "0.3.8@ad17ae10e7232d71229121f08ac22319b89150e0",
@@ -31,8 +31,7 @@
         "darwin",
         "winim"
       ],
-      "p": [],
-      "k": []
+      "p": []
     },
     {
       "v": "0.3.7@761e6fce1b8445ae09a6da8588e14b4f84f40232",
@@ -41,8 +40,7 @@
         "darwin",
         "winim"
       ],
-      "p": [],
-      "k": []
+      "p": []
     },
     {
       "v": "0.3.6@14f14ed1e5e16fe4ddc703584128fb358d92d358",
@@ -51,8 +49,7 @@
         "darwin",
         "winim"
       ],
-      "p": [],
-      "k": []
+      "p": []
     },
     {
       "v": "0.3.5@90e671bf9b5d07e3742f95f067770d7bcfe5101a",
@@ -61,8 +58,7 @@
         "darwin",
         "winim"
       ],
-      "p": [],
-      "k": []
+      "p": []
     },
     {
       "v": "0.3.4@cfead9aeaa6b9fe4a03b32fa2beca54e5067129b",
@@ -73,8 +69,7 @@
         "darwin",
         "winim"
       ],
-      "p": [],
-      "k": []
+      "p": []
     },
     {
       "v": "0.3.3@218a4a1d6de1dca8a9733441c2629e016b07673e",
@@ -85,8 +80,7 @@
         "darwin",
         "winim"
       ],
-      "p": [],
-      "k": []
+      "p": []
     },
     {
       "v": "0.3.2@bc13340fb1f1061865bea9580601ce9e84b1b600",
@@ -97,8 +91,7 @@
         "darwin",
         "winim"
       ],
-      "p": [],
-      "k": []
+      "p": []
     },
     {
       "v": "0.3.1@3041166a37119cc1359706cb377c693807568db4",
@@ -109,8 +102,7 @@
         "darwin",
         "winim"
       ],
-      "p": [],
-      "k": []
+      "p": []
     },
     {
       "v": "0.3.0@e0109b30542fd8627d96d957f02a15584483befc",
@@ -121,8 +113,7 @@
         "darwin",
         "winim"
       ],
-      "p": [],
-      "k": []
+      "p": []
     },
     {
       "v": "0.2.19@89fb69b5f7a807691dc988d6e53be83a805495d2",
@@ -134,8 +125,7 @@
         "darwin",
         "winim"
       ],
-      "p": [],
-      "k": []
+      "p": []
     },
     {
       "v": "0.2.18@37b38bdbf82f9ca4a586a6deab54c14ae4d9b458",
@@ -147,8 +137,7 @@
         "darwin",
         "winim"
       ],
-      "p": [],
-      "k": []
+      "p": []
     },
     {
       "v": "0.2.17@7b296669631fcb5cf061ab8763f67852c1c290aa",
@@ -160,8 +149,7 @@
         "darwin",
         "winim"
       ],
-      "p": [],
-      "k": []
+      "p": []
     },
     {
       "v": "0.2.16@9a68ead31004e478e0bb4e97adb710141adb5b65",
@@ -173,8 +161,7 @@
         "darwin",
         "winim"
       ],
-      "p": [],
-      "k": []
+      "p": []
     },
     {
       "v": "0.2.15@c365a0572f25341506e6d68e4ff44f8319eb5989",
@@ -186,8 +173,7 @@
         "darwin",
         "winim"
       ],
-      "p": [],
-      "k": []
+      "p": []
     },
     {
       "v": "0.2.13@16e044264f61622f8b8979bae2c6c5745402f4e1",
@@ -199,8 +185,7 @@
         "darwin",
         "winim"
       ],
-      "p": [],
-      "k": []
+      "p": []
     },
     {
       "v": "0.2.12@fa4e1a447c5f81936a1621bcfb7bd6c576cbe422",
@@ -277,8 +262,7 @@
       "k": [
         "nim",
         "h"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.2.4@1c0f0a018ee389d7c412e3958207b96b657cc686",
@@ -292,9 +276,7 @@
         "gh:bung87/static_server >= 2.0.3",
         "icon >= 0.2.0",
         "jsonschema"
-      ],
-      "k": [],
-      "p": []
+      ]
     },
     {
       "v": "0.2.3@0217c5d0b47ebbb9d7bc57fd74a749ec596e8b9c",
@@ -308,13 +290,11 @@
         "gh:bung87/static_server >= 2.0.2",
         "icon >= 0.2.0",
         "jsonschema"
-      ],
-      "k": [],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:19Z",
+  "generatedAt": "2026-05-26T15:45:50Z",
   "allDeps": {
     "packages": [
       "arraymancer <= 0.2.4",

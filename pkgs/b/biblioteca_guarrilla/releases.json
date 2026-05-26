@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "biblioteca_guarrilla",
   "fqn": "biblioteca-guarrilla.juancarlospaco.github.com",
+  "current": "1fc83dc423b5b2452c414e224c068bbd081fbd4f",
   "author": "Juan Carlos",
   "description": "Simple web to share books, Calibre, Jester, Spectre CSS, No JavaScript, WebP & ZIP to reduce bandwidth",
   "license": "GPL",
@@ -25,10 +26,7 @@
         "jester",
         "webp",
         "zip"
-      ],
-      "i": [],
-      "j": [],
-      "p": []
+      ]
     },
     {
       "v": "0.1.8@10a37427a31612564276e650df4c30423c0b1b10",
@@ -37,8 +35,7 @@
         "zip"
       ],
       "i": [],
-      "j": [],
-      "p": []
+      "j": []
     },
     {
       "v": "0.1.5@fce41084df456dbae7240d745491fb9db884da02",
@@ -47,12 +44,11 @@
         "zip"
       ],
       "i": [],
-      "j": [],
-      "p": []
+      "j": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:27Z",
+  "generatedAt": "2026-05-26T15:44:46Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

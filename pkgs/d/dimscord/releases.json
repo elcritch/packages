@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "dimscord",
   "fqn": "dimscord.krisppurg.github.com",
+  "current": "5bef06763751b6582075cd4218b47dbc64068b88",
   "author": "KrispPurg",
   "description": "A Discord Bot & REST Library for Nim.",
   "license": "MIT",
@@ -136,7 +137,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:33Z",
+  "generatedAt": "2026-05-26T15:46:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

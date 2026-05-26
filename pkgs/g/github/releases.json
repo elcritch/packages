@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "github",
   "fqn": "github.disruptek.github.com",
+  "current": "b62d73e889df0092d3a47144b435693720991eaf",
   "author": "disruptek",
   "description": "github api",
   "license": "MIT",
@@ -99,8 +100,7 @@
         "npeg >= 0.20.0",
         "gh:disruptek/rest >= 1.0.0"
       ],
-      "m": "0.20.0",
-      "i": []
+      "m": "0.20.0"
     },
     {
       "v": "1.0.0@38b982a8f4f7c33b58e2e6ef7c9be341253c9dfe",
@@ -113,7 +113,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:24Z",
+  "generatedAt": "2026-05-26T15:47:17Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

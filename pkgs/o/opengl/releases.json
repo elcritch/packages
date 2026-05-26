@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "opengl",
   "fqn": "opengl.nim-lang.github.com",
+  "current": "8e2e098f82dc5eefd874488c37b5830233cd18f4",
   "author": "Andreas Rumpf",
   "description": "an OpenGL wrapper",
   "license": "MIT",
@@ -81,7 +82,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:47Z",
+  "generatedAt": "2026-05-26T15:51:39Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

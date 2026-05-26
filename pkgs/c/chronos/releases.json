@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "chronos",
   "fqn": "nim-chronos.status-im.github.com",
+  "current": "31ddf9be6560072f83aeb25933c3132d4ecd638e",
   "author": "Status Research & Development GmbH",
   "description": "Networking framework with async/await support",
   "license": "MIT or Apache License 2.0",
@@ -18,8 +19,7 @@
         "bearssl >= 0.2.7",
         "httputils",
         "unittest2"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "4.2.0@0d00279e67ad9fadeb944944449adc89f052b8bd",
@@ -29,8 +29,7 @@
         "bearssl >= 0.2.5",
         "httputils",
         "unittest2"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "4.0.5@785fcf4ddec1101a3df1f044d6331504d7ab95c6",
@@ -40,8 +39,7 @@
         "bearssl >= 0.2.7",
         "httputils",
         "unittest2"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "4.0.4@0646c444fce7c7ed08ef6f2c9a7abfd172ffe655",
@@ -51,8 +49,7 @@
         "bearssl >= 0.2.5",
         "httputils",
         "unittest2"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "4.0.3@c090d4029af85c7d134f12b133f885e6348b8102",
@@ -62,8 +59,7 @@
         "bearssl >= 0.2.5",
         "httputils",
         "unittest2"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "4.0.2@ef1b077adfdc803fcce880e81a5740b964bac0bc",
@@ -73,8 +69,7 @@
         "bearssl",
         "httputils",
         "unittest2"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "4.0.1@0e806d59aea5e49a65524567cfa18de34e37ccca",
@@ -84,8 +79,7 @@
         "bearssl",
         "httputils",
         "unittest2"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "4.0.0@672db137b7cad9b384b8f4fb551fb6bbeaabfe1b",
@@ -95,8 +89,7 @@
         "bearssl",
         "httputils",
         "unittest2"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "3.2.1@3ea372ee31eb6357c13c94367352767a99c17838",
@@ -106,8 +99,7 @@
         "httputils",
         "unittest2"
       ],
-      "m": "1.2.0",
-      "x": []
+      "m": "1.2.0"
     },
     {
       "v": "3.2.0@ba143e029f35fd9b4cd3d89d007cc834d0d5ba3c",
@@ -117,12 +109,11 @@
         "httputils",
         "unittest2"
       ],
-      "m": "1.2.0",
-      "x": []
+      "m": "1.2.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:01Z",
+  "generatedAt": "2026-05-26T15:45:28Z",
   "allDeps": {
     "packages": [
       "bearssl",

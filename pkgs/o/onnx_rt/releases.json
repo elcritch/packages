@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "onnx_rt",
   "fqn": "onnx.bung87.github.com",
+  "current": "30a01d162bc4308ddb5ed094dbe25622c559c783",
   "author": "bung87",
   "description": "ONNX Runtime wrapper for Nim - High-level interface for loading and running ONNX models",
   "license": "MIT",
@@ -14,12 +15,11 @@
   "releases": [
     {
       "v": "0.1.0@32a5f9a80df8338d272a8040c2004feab4b12896",
-      "r": [],
-      "k": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:45Z",
+  "generatedAt": "2026-05-26T15:51:35Z",
   "allDeps": {
     "packages": [],
     "urls": [],

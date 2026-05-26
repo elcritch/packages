@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "httpquery",
   "fqn": "httpquery.AmanoTeam.github.com",
+  "current": "b361de0a78d96cc11db3de8d98fc73524289b62b",
   "author": "kartatz",
   "description": "A Nim library for parsing RFC 3986 URL query strings",
   "license": "LGPL-3.0",
@@ -15,12 +16,11 @@
   "releases": [
     {
       "v": "0.1@fa24ad372a5dba0fe2e73157a153f1ab819174c6",
-      "r": [],
-      "k": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:52Z",
+  "generatedAt": "2026-05-26T15:47:52Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "sysinfo",
   "fqn": "sysinfo.treeform.github.com",
+  "current": "ebbf985a3cb1f600d7c21a6f4515a2c1ebdaadfd",
   "author": "treeform",
   "description": "System info, CPU, OS, Memory",
   "license": "MIT",
@@ -20,7 +21,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:29Z",
+  "generatedAt": "2026-05-26T15:53:53Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

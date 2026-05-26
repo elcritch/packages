@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimpath",
   "fqn": "NimPath.weskerfoot.github.com",
+  "current": "fdbe12cc867ac4c168681686b00e85012306eb9a",
   "author": "Wesley Kerfoot",
   "description": "Interface to libxml2's XPath parser",
   "license": "MIT",
@@ -13,17 +14,30 @@
   "releases": [
     {
       "v": "0.1.10@5bde4110d3358dab983f1e563cd076e27b81aa79",
-      "r": [],
-      "k": []
+      "r": []
     },
     {
       "v": "0.1.9@1312488e2f4d708bbb6ca2d3078fb76191ab7bfd",
-      "r": [],
-      "k": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:05Z",
+  "generatedAt": "2026-05-26T15:50:45Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.10",
+      "v0.1.9"
+    ],
+    "tagVersions": {
+      "v0.1.10": "0.1.10",
+      "v0.1.9": "0.1.9"
+    },
+    "latest": "v0.1.10"
+  },
   "allDeps": {
     "packages": [],
     "urls": [],

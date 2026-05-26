@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "QRgen",
   "fqn": "QRgen.aruZeta.github.com",
+  "current": "4445bb93a126ec33004901e9486963a40cbb97fc",
   "author": "aruZeta",
   "description": "A QR code generation library.",
   "license": "MIT",
@@ -13,13 +14,11 @@
   "releases": [
     {
       "v": "3.1.0@0d83b6e3a33b0eb0d1dbf987a973ad7d7d7540f9",
-      "r": [],
-      "y": []
+      "r": []
     },
     {
       "v": "3.0.0@7fb3591750b96b1872376261d7d353315b52ec76",
-      "r": [],
-      "y": []
+      "r": []
     },
     {
       "v": "2.2.1@726961df29adee1943bc3df44f1f932273e2baa8",
@@ -58,7 +57,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:11:44Z",
+  "generatedAt": "2026-05-26T15:43:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

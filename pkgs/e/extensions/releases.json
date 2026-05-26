@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "extensions",
   "fqn": "nim-extensions.jyapayne.github.com",
+  "current": "45a9fad9616a342f3a67f2fa7b581c899dcab7c7",
   "author": "Joey Yakimowich-Payne",
   "description": "Nim extensions",
   "license": "MIT",
@@ -14,7 +15,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:51Z",
+  "generatedAt": "2026-05-26T15:46:35Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

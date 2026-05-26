@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "polypbren",
   "fqn": "polypbren.guibar64.github.com",
+  "current": "5b98684d21325580576bc7aa0cd0927bdaf37843",
   "author": "G. Bareigts",
   "description": "Renormalization of colloidal charges of polydipserse dispersions using the Poisson-Boltzmann equation",
   "license": "MIT",
@@ -16,43 +17,31 @@
       "v": "0.5.0@c314ca5148bc4b98cc8e089cc76c10ed99c3e909",
       "r": [
         "gh:yglukhov/threadpools"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "0.4.3@818da0fd907fdf21b0a12c6792cf8eb0c50c8fe5",
-      "r": [],
-      "b": "",
-      "p": []
+      "r": []
     },
     {
       "v": "0.4.2@12edbde7a5897066ded148dd368d99f12ccdcfb2",
-      "r": [],
-      "b": "",
-      "p": []
+      "r": []
     },
     {
       "v": "0.4.1@3d2dce0bc0ca3402fe82ef37d5bdbe0425479fc2",
-      "r": [],
-      "b": "",
-      "p": []
+      "r": []
     },
     {
       "v": "0.4@b1a85476cb2901a04679c04b528ecfd9d30c76cf",
-      "r": [],
-      "b": "",
-      "p": []
+      "r": []
     },
     {
       "v": "0.4.0@3bfa2076ba60bde1acbe05ae698f5bbe616b56e8",
-      "r": [],
-      "b": "",
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:12Z",
+  "generatedAt": "2026-05-26T15:52:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

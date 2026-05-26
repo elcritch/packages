@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "webterminal",
   "fqn": "webterminal.JohnAD.github.com",
+  "current": "5c07ea85d2cfdd055cde755a117f50244d6c0021",
   "author": "John Dupuy",
   "description": "Simple HTML5/Javascript text terminal for embedding an nim app on a web page.",
   "license": "MIT",
@@ -19,7 +20,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:21Z",
+  "generatedAt": "2026-05-26T15:55:03Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

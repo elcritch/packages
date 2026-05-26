@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "retranslator",
   "fqn": "RegularExpressions.Transformer.linksplatform.github.com",
+  "current": "5654c8f08a2662e4b3f3badf30c760ca58f3f29a",
   "author": "Ethosa, Konard",
   "description": "Transformer",
   "license": "LGPLv3",
@@ -77,7 +78,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:36Z",
+  "generatedAt": "2026-05-26T15:52:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

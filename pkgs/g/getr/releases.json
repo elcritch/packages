@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "getr",
   "fqn": "getr-nim.jrfondren.github.com",
+  "current": "bcfb2786d0ec3b21e9dff570460d439aa7de8050",
   "author": "Julian Fondren",
   "description": "Benchmarking wrapper around getrusage()",
   "license": "MIT",
@@ -13,12 +14,11 @@
   "releases": [
     {
       "v": "0.1.1@e72ba01950d222b9e83e6967031a0866c3a1a4eb",
-      "r": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:21Z",
+  "generatedAt": "2026-05-26T15:47:14Z",
   "allDeps": {
     "packages": [],
     "urls": [],

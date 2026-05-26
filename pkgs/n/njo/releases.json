@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "njo",
   "fqn": "njo.uga-rosa.github.com",
+  "current": "3ccbdf8e5774d4cde82522e2bf8025552c3c15b5",
   "author": "uga-rosa",
   "description": "A small utility to create JSON objects written in Nim. This is inspired by jpmens/jo.",
   "license": "MIT",
@@ -14,13 +15,11 @@
   "releases": [
     {
       "v": "1.0@01ebe3b4567e2742e3b80fadcd7df1f5254a507c",
-      "r": [],
-      "b": "",
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:23Z",
+  "generatedAt": "2026-05-26T15:51:08Z",
   "allDeps": {
     "packages": [],
     "urls": [],

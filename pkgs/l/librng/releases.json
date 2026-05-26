@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "librng",
   "fqn": "librng.xTrayambak.github.com",
+  "current": "69638caddffff2e55b3d8aabf573cb0c1aaef4b5",
   "author": "xTrayambak",
   "description": "A collection of PRNG algorithms written in Nim",
   "license": "MIT",
@@ -14,7 +15,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:30Z",
+  "generatedAt": "2026-05-26T15:48:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

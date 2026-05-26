@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "forge",
   "fqn": "forge.daylinmorgan.github.com",
+  "current": "7519e70e64f336397103b3d967e755d31400848d",
   "author": "Daylin Morgan",
   "description": "build nim binaries for all the platforms",
   "license": "MIT",
@@ -17,72 +18,56 @@
       "r": [
         "hwylterm >= 0.3.1",
         "usu #09b8ba9e"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "2025.1012@b1a2716b2c279d9ea5228db911a25219564cfdc0",
       "r": [
         "hwylterm #3f19c64a",
         "usu"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "2025.1011@da2fb174e13a1bbdcf1c90b1148a35a304e24909",
       "r": [
         "hwylterm #8c3f459",
         "usu"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "2025.1010@7b8ad1f1231db4bbe371e6de4676ef1c9c6c79b1",
       "r": [
         "hwylterm #8c3f459",
         "usu"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "2025.1009@4075aea500287d25081a8e25d33351e5dcc89e4d",
       "r": [
         "hwylterm #8c3f459",
         "usu"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "2025.1008@c53c241a78ac58e92f0ef51c151df0f468a97058",
       "r": [
         "hwylterm #8c3f459",
         "usu"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "2025.1007@1ce6822b4b2b5885737f6b06737ed66f82f46cde",
       "r": [
         "hwylterm #8c3f459",
         "usu"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "2025.1006@4ba589ba2a47d728dcc5188bf8c57e5045c91609",
       "r": [
         "hwylterm #07770fbd",
         "usu"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "2024.1004@674813e9b798c88e69da41e3d502fd64578dd8b2",
@@ -92,8 +77,7 @@
       "p": [
         "forge",
         "forgecc"
-      ],
-      "b": ""
+      ]
     },
     {
       "v": "2024.1003@e60415e9b013e47f89a7156b3e6fb5be8712b9c4",
@@ -104,8 +88,7 @@
       "p": [
         "forge",
         "forgecc"
-      ],
-      "b": ""
+      ]
     },
     {
       "v": "2023.1002@9840e6ea04b8f6871da027d7850a9d9ae6be87de",
@@ -116,8 +99,7 @@
       "p": [
         "forge",
         "forgecc"
-      ],
-      "b": ""
+      ]
     },
     {
       "v": "2023.1001@95f9631263993bc47e7b678024bee5a96a87155d",
@@ -127,12 +109,11 @@
       "p": [
         "forge",
         "forgecc"
-      ],
-      "b": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:09Z",
+  "generatedAt": "2026-05-26T15:46:57Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

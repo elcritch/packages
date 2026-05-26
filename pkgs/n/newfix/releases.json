@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "newfix",
   "fqn": "newfix.inv2004.github.com",
+  "current": "03bbdb1d1cf0037a366f23167d3723f66181f888",
   "author": "inv2004",
   "description": "FIX Protocol parser",
   "license": "Apache-2.0",
@@ -22,13 +23,11 @@
     },
     {
       "v": "0.2.1@d999b4d361fb3519f659f4904be30b77edfc7e0b",
-      "r": [],
-      "k": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:24Z",
+  "generatedAt": "2026-05-26T15:49:50Z",
   "allDeps": {
     "packages": [],
     "urls": [],

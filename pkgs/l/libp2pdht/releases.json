@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "libp2pdht",
   "fqn": "nim-codex-dht.codex-storage.github.com",
+  "current": "d02670d6b03f655db2872bee9e3fafe74ecfc8f3",
   "author": "Status Research & Development GmbH",
   "description": "DHT based on Eth discv5 implementation",
   "license": "MIT",
@@ -62,9 +63,7 @@
         "asynctest >= 0.4.3 & < 0.5.0",
         "gh:codex-storage/nim-datastore #head",
         "questionable"
-      ],
-      "x": [],
-      "j": []
+      ]
     },
     {
       "v": "0.4.1@bd9e8d4d662ea73fa69a57d78a32338a0c00fc4d",
@@ -83,9 +82,7 @@
         "gh:codex-storage/nim-datastore #head",
         "questionable"
       ],
-      "m": "1.2.0",
-      "x": [],
-      "j": []
+      "m": "1.2.0"
     },
     {
       "v": "0.3.2@fc7d7ef80c708b3543e51d2b59b1dbd3421822e0",
@@ -106,8 +103,7 @@
       ],
       "d": "DHT based on the libp2p Kademlia spec",
       "m": "1.2.0",
-      "j": [],
-      "x": []
+      "j": []
     },
     {
       "v": "0.3.1@f1ba5d7cda7a779210df1553e7d2cec65d5273ca",
@@ -128,8 +124,7 @@
       ],
       "d": "DHT based on the libp2p Kademlia spec",
       "m": "1.2.0",
-      "j": [],
-      "x": []
+      "j": []
     },
     {
       "v": "0.3.0@04302014a6884958c363a8ebc07d59e3a80e8f57",
@@ -150,8 +145,7 @@
       ],
       "d": "DHT based on the libp2p Kademlia spec",
       "m": "1.2.0",
-      "j": [],
-      "x": []
+      "j": []
     },
     {
       "v": "0.2.1@83f7dbebfea17c06f097a7e665407680c5c732dc",
@@ -172,8 +166,7 @@
       ],
       "d": "DHT based on the libp2p Kademlia spec",
       "m": "1.2.0",
-      "j": [],
-      "x": []
+      "j": []
     },
     {
       "v": "0.2.0@9386baa9c435bc9223150d6f7cb884346ed05780",
@@ -194,12 +187,11 @@
       ],
       "d": "DHT based on the libp2p Kademlia spec",
       "m": "1.2.0",
-      "j": [],
-      "x": []
+      "j": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:29Z",
+  "generatedAt": "2026-05-26T15:48:43Z",
   "allDeps": {
     "packages": [
       "asynctest <= 0.5.0",

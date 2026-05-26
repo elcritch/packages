@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "enkodo",
   "fqn": "enkodo.hortinstein.github.com",
+  "current": "c8bbc02cbbb001d47b7c1e25abb84daea4d5ad9f",
   "author": "Alex",
   "description": "A cross platform encyption and serialization library",
   "license": "MIT",
@@ -73,7 +74,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:46Z",
+  "generatedAt": "2026-05-26T15:46:27Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "distorm3",
   "fqn": "distorm3.nim.ba0f3.github.com",
+  "current": "7a70dd877c6d98d530b671be8753a69187f0d8b0",
   "author": "Huy Doan",
   "description": "Nim wrapper for distorm3 - Powerful Disassembler Library For x86/AMD64",
   "license": "MIT",
@@ -14,7 +15,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:34Z",
+  "generatedAt": "2026-05-26T15:46:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

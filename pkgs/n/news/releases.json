@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "news",
   "fqn": "news.tormund.github.com",
+  "current": "0ec63567ef2c955ed0383c3c4994c4d2fb75c91b",
   "author": "Andre von Houck, Volodymyr Melnychuk",
   "description": "Simple WebSocket library for nim.",
   "license": "MIT",
@@ -30,7 +31,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:25Z",
+  "generatedAt": "2026-05-26T15:49:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

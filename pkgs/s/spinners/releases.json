@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "spinners",
   "fqn": "libspinners-nim.thechampagne.github.com",
+  "current": "faf6af7cab8cdfa6625f748d62565231c0e6128f",
   "author": "XXIV",
   "description": "Binding for libspinners an elegant terminal spinners",
   "license": "MIT",
@@ -14,7 +15,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:12Z",
+  "generatedAt": "2026-05-26T15:53:30Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

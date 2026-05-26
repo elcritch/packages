@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "convertKana",
   "fqn": "convertKana.z-kk.github.com",
+  "current": "77989c3ee90221240a196a4ffd132642c5e2951a",
   "author": "z-kk",
   "description": "Convert Japanese Kana",
   "license": "MIT",
@@ -17,21 +18,15 @@
   "releases": [
     {
       "v": "0.1.1@77989c3ee90221240a196a4ffd132642c5e2951a^",
-      "r": [],
-      "b": "",
-      "k": [],
-      "p": []
+      "r": []
     },
     {
       "v": "0.1.0@ab5073226b32db7fc9e3aad5bcb0827a8b73cec2",
-      "r": [],
-      "b": "",
-      "k": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:14Z",
+  "generatedAt": "2026-05-26T15:45:44Z",
   "allDeps": {
     "packages": [],
     "urls": [],

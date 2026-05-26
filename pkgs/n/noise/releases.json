@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "noise",
   "fqn": "nim-noise.jangko.github.com",
+  "current": "4ef91d821a01d317968404b40b0d1a41ade54939",
   "author": "Andri Lim",
   "description": "noise is a Nim implementation of linenoise",
   "license": "MIT",
@@ -12,27 +13,23 @@
   "releases": [
     {
       "v": "0.1.10@1062d35d38fcd4d8a3bcdee3003381e639786edf",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.1.8@3cb3250ddcdaa74809aad931c066e7ef6e4af36d",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.1.6@4923932454a0850edb2f1fb71c9bffff343f457f",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.1.4@947f195c5796d3aca331de39d49dc073140748c1",
-      "r": [],
-      "x": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:27Z",
+  "generatedAt": "2026-05-26T15:51:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

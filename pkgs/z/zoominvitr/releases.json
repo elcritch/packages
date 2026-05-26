@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "zoominvitr",
   "fqn": "zoominvitr.theAkito.github.com",
+  "current": "ff6bbac6bd76b28e3d6e55dcbc6c188e27d07a77",
   "author": "Akito <the@akito.ooo>",
   "description": "Automatically send invitations about planned Zoom meetings.",
   "license": "AGPL-3.0-or-later",
@@ -29,11 +30,7 @@
         "zero_functional >= 1.3.0",
         "smtp #8013aa199dedd04905d46acf3484a232378de518",
         "yaml #854d33378e2b31ada7e54716439a4d6990460268"
-      ],
-      "y": [],
-      "z": [],
-      "p": [],
-      "e": ""
+      ]
     },
     {
       "v": "0.5.0@2af537079e6b9ceef7edfb43e6d358cb9b069dab",
@@ -46,11 +43,7 @@
         "zero_functional >= 1.3.0",
         "smtp #8013aa199dedd04905d46acf3484a232378de518",
         "yaml #854d33378e2b31ada7e54716439a4d6990460268"
-      ],
-      "y": [],
-      "z": [],
-      "p": [],
-      "e": ""
+      ]
     },
     {
       "v": "0.4.3@d982dbda158b9cb7b0707bf289b7f9effbace42e",
@@ -63,11 +56,7 @@
         "zero_functional >= 1.3.0",
         "smtp #8013aa199dedd04905d46acf3484a232378de518",
         "yaml #854d33378e2b31ada7e54716439a4d6990460268"
-      ],
-      "y": [],
-      "z": [],
-      "p": [],
-      "e": ""
+      ]
     },
     {
       "v": "0.4.2@7c152bbfcbe223db1dfb7434ebb653daa112a89f",
@@ -80,11 +69,7 @@
         "zero_functional >= 1.3.0",
         "smtp #8013aa199dedd04905d46acf3484a232378de518",
         "yaml #854d33378e2b31ada7e54716439a4d6990460268"
-      ],
-      "y": [],
-      "z": [],
-      "p": [],
-      "e": ""
+      ]
     },
     {
       "v": "0.4.1@3faa6c08f4daef9313381ca6ecae59f5c44a09da",
@@ -97,11 +82,7 @@
         "zero_functional >= 1.3.0",
         "smtp #8013aa199dedd04905d46acf3484a232378de518",
         "yaml #854d33378e2b31ada7e54716439a4d6990460268"
-      ],
-      "y": [],
-      "z": [],
-      "p": [],
-      "e": ""
+      ]
     },
     {
       "v": "0.4.0@e8f3af656c78c0ebacc84304946eff8f97629974",
@@ -114,11 +95,7 @@
         "zero_functional >= 1.3.0",
         "smtp #8013aa199dedd04905d46acf3484a232378de518",
         "yaml #854d33378e2b31ada7e54716439a4d6990460268"
-      ],
-      "y": [],
-      "z": [],
-      "p": [],
-      "e": ""
+      ]
     },
     {
       "v": "0.3.1@25dd6068f4642daa10c77b40d58a88e567febf74",
@@ -131,15 +108,11 @@
         "zero_functional >= 1.3.0",
         "smtp #8013aa199dedd04905d46acf3484a232378de518",
         "yaml #854d33378e2b31ada7e54716439a4d6990460268"
-      ],
-      "y": [],
-      "z": [],
-      "p": [],
-      "e": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:50Z",
+  "generatedAt": "2026-05-26T15:55:40Z",
   "allDeps": {
     "packages": [
       "db_connector",

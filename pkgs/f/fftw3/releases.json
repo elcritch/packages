@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "fftw3",
   "fqn": "nimfftw3.SciNim.github.com",
+  "current": "984471bb4a763a7b1548dc4aa85dac106ee93f05",
   "author": "rcaillaud",
   "description": "Nim FFTW bindings",
   "license": "LGPL-2.1",
@@ -16,16 +17,14 @@
       "r": [
         "arraymancer >= 0.6.3",
         "zippy"
-      ],
-      "i": []
+      ]
     },
     {
       "v": "0.5.2@6f4beb2f3de855f5dbf2dea0700edf9f4dffa707",
       "r": [
         "arraymancer >= 0.6.3",
         "zippy"
-      ],
-      "i": []
+      ]
     },
     {
       "v": "0.5.1@308df5be908e1ecebf9652d037ac0481c16e23eb",
@@ -33,8 +32,7 @@
         "arraymancer >= 0.6.3",
         "weave >= 0.4.9",
         "zippy"
-      ],
-      "i": []
+      ]
     },
     {
       "v": "0.5.0@fb659ec2aaadc7cb6332707ee4b24274a612772e",
@@ -42,8 +40,7 @@
         "arraymancer >= 0.6.3",
         "weave >= 0.4.9",
         "zippy"
-      ],
-      "i": []
+      ]
     },
     {
       "v": "0.4.7@8f75a51c9a3b92fa30596a55998c1d27e3a2a3e8",
@@ -198,7 +195,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:57Z",
+  "generatedAt": "2026-05-26T15:46:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

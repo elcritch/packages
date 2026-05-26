@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "cirru_parser",
   "fqn": "parser.nim.Cirru.github.com",
+  "current": "83fa0ef3947153b803e3acdce8b8245ff3653914",
   "author": "jiyinyiyong",
   "description": "Parser for Cirru syntax",
   "license": "MIT",
@@ -78,7 +79,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:01Z",
+  "generatedAt": "2026-05-26T15:45:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

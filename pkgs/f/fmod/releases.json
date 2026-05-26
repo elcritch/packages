@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "fmod",
   "fqn": "nim-fmod.johnnovak.github.com",
+  "current": "40d70b2dd6c3a7e5123b1e08b724ad8ab7521cd2",
   "author": "John Novak",
   "description": "Nim wrapper for the FMOD Low Level C API",
   "license": "MIT",
@@ -12,18 +13,16 @@
   "releases": [
     {
       "v": "0.1.1@40d70b2dd6c3a7e5123b1e08b724ad8ab7521cd2^",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.1.0@d9f3e69767c541891538451e95640a133fd4a7fe",
       "r": [],
-      "m": "0.18.0",
-      "x": []
+      "m": "0.18.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:08Z",
+  "generatedAt": "2026-05-26T15:46:55Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

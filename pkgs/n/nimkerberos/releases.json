@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimkerberos",
   "fqn": "nimkerberos.genotrance.github.com",
+  "current": "c40d99e0a551f4cccdfd546876444ddfffdc41ad",
   "author": "genotrance",
   "description": "WinKerberos wrapper for Nim",
   "license": "MIT",
@@ -14,28 +15,25 @@
       "r": [
         "nimgen >= 0.4.0"
       ],
-      "h": true,
-      "x": []
+      "h": true
     },
     {
       "v": "0.1.1@36187d14280138398dca3a6b8ec657198b9ed465",
       "r": [
         "nimgen >= 0.2.3"
       ],
-      "h": true,
-      "x": []
+      "h": true
     },
     {
       "v": "0.1.0@3c870570f88ff5374273e082dba4f4ed220282ee",
       "r": [
         "nimgen >= 0.1.4"
       ],
-      "h": true,
-      "x": []
+      "h": true
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:58Z",
+  "generatedAt": "2026-05-26T15:50:35Z",
   "allDeps": {
     "packages": [
       "c2nim",

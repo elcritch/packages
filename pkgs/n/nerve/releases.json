@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nerve",
   "fqn": "nerve-rpc.nepeckman.github.com",
+  "current": "d2cb58ffc27086507bc62e4b03ba346c61b881f0",
   "author": "nepeckman",
   "description": "An RPC framework",
   "license": "MIT",
@@ -32,7 +33,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:21Z",
+  "generatedAt": "2026-05-26T15:49:47Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

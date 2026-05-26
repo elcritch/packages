@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nserve",
   "fqn": "nserve.v4rm4n.github.com",
+  "current": "36b2e3b37ee6247d042cc69059d8e7764673359b",
   "author": "heckarmon",
   "description": "A lightweight zero-deps, async HTTP file server with uploads",
   "license": "MIT",
@@ -13,13 +14,11 @@
   "releases": [
     {
       "v": "1.0.4@81d30f89e2e5c89301e585c6e5ce442eca5d214a",
-      "r": [],
-      "p": []
+      "r": []
     },
     {
       "v": "1.0.3@72799ef20035f47069ae33f983ecd7beb7bd65fd",
-      "r": [],
-      "p": []
+      "r": []
     },
     {
       "v": "1.0.2@7213fefe55ca6df3031e2b5cee6698ff08df6cb1",
@@ -44,7 +43,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:37Z",
+  "generatedAt": "2026-05-26T15:51:25Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

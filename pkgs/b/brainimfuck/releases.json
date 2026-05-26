@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "brainimfuck",
   "fqn": "brainimfuck.nirokay.github.com",
+  "current": "615e4c65223fa3bbc7894f998da511ea9f13aa1d",
   "author": "nirokay",
   "description": "Brainfuck interpreter with some advanced features, such as syntax checking and highlighting errors.",
   "license": "GPL-3.0-only",
@@ -13,12 +14,11 @@
   "releases": [
     {
       "v": "1.0.0@373bedcccafcbdbc6fd4798b8315536f2673e753",
-      "r": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:38Z",
+  "generatedAt": "2026-05-26T15:45:00Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

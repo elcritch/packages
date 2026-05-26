@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "ninit",
   "fqn": "ninit.cypherwytch.github.com",
+  "current": "5f9782a221deb247a448922dfeebc15616cdc72a",
   "author": "Via Stone",
   "description": "Initialize a Nim package non-interactively (does not require nimble)",
   "license": "BSD",
@@ -17,8 +18,7 @@
         "shell",
         "cligen",
         "regex"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "1.0.2@57a56023868d122eff62849f3098aeee2d177ccd",
@@ -26,8 +26,7 @@
         "shell",
         "cligen",
         "regex"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "1.0.1@afaa86c8ec475e2c99453dcb6ec42016e10a4eff",
@@ -35,8 +34,7 @@
         "shell",
         "cligen",
         "regex"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "1.0.0@0ac5386209b9f69b120cde0e46f0befc65fcd6de",
@@ -44,12 +42,11 @@
         "shell",
         "cligen",
         "regex"
-      ],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:21Z",
+  "generatedAt": "2026-05-26T15:51:06Z",
   "allDeps": {
     "packages": [
       "cligen",

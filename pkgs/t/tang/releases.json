@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "tang",
   "fqn": "tang-nim.5-6-1.github.com",
+  "current": "e4be17e835e72e59ecd8c9adb396f63211e67112",
   "author": "5-6-1",
   "description": "elegant sugar",
   "license": "MIT",
@@ -14,7 +15,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:32Z",
+  "generatedAt": "2026-05-26T15:53:57Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

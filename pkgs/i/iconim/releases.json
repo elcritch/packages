@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "iconim",
   "fqn": "iconim.openpeeps.github.com",
+  "current": "1a7706e187639c058e8d894bc18ba3e78aacf900",
   "author": "George Lemon",
   "description": "Icon library manager for server-side rendering",
   "license": "MIT",
@@ -13,12 +14,11 @@
   "releases": [
     {
       "v": "0.1.0@6e43982c0b194ea57a055a0b8c3e30ec28b6727e",
-      "r": [],
-      "x": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:57Z",
+  "generatedAt": "2026-05-26T15:47:58Z",
   "allDeps": {
     "packages": [],
     "urls": [],

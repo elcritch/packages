@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "deepspeech",
   "fqn": "nim-deepspeech.eagledot.gitlab.com",
+  "current": "ff465cedbf4b17b92a9101186d87a4116ff0a38f",
   "author": "Anubhav (eagledot)",
   "description": "DeepSpeech (Mozilla) bindings for Nim",
   "license": "MIT",
@@ -14,17 +15,15 @@
   "releases": [
     {
       "v": "0.7.1@ff465cedbf4b17b92a9101186d87a4116ff0a38f^",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.7.0@5acefdf4f4f5b8c9419d03c6c9970223a35f123b",
-      "r": [],
-      "x": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:29Z",
+  "generatedAt": "2026-05-26T15:46:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

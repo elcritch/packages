@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "taggy",
   "fqn": "taggy.treeform.github.com",
+  "current": "e80ed1a806e871fd4ead4e0d3e9f6593569c0e38",
   "author": "Andre von Houck",
   "description": "HTML DOM generator for Nim's JS mode.",
   "license": "MIT",
@@ -22,7 +23,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:32Z",
+  "generatedAt": "2026-05-26T15:53:56Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

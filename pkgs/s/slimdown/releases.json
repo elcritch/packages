@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "slimdown",
   "fqn": "nim-slimdown.ruivieira.github.com",
+  "current": "a879450e58323070e3173f6eb33ac3c4c1a460c0",
   "author": "Rui Vieira",
   "description": "Nim module that converts Markdown text to HTML using only regular expressions. Based on jbroadway's Slimdown.",
   "license": "MIT",
@@ -12,12 +13,11 @@
   "releases": [
     {
       "v": "0.0.1@537c617066d814954263d2a6c0a1cde57cfb8a5a",
-      "r": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:05Z",
+  "generatedAt": "2026-05-26T15:53:21Z",
   "allDeps": {
     "packages": [],
     "urls": [],

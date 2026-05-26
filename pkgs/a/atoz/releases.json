@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "atoz",
   "fqn": "atoz.disruptek.github.com",
+  "current": "fd8a4cefee6e7ba65c4fc003a935d0538d7c9a9f",
   "author": "disruptek",
   "description": "Amazon Web Services (AWS) APIs",
   "license": "MIT",
@@ -419,21 +420,14 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:26Z",
+  "generatedAt": "2026-05-26T15:44:41Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
       "zip": "/archive/refs/tags/{tag}.zip"
     },
     "releases": [
-      "1.0.0",
-      "1.0.3",
       "2.803.0",
-      "2533.0.1",
-      "2538.0.1",
-      "2543.0.0",
-      "2543.0.1",
-      "2556.0.0",
       "2556.0.1",
       "2561.0.0",
       "2561.0.1",

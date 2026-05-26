@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "diffoutput",
   "fqn": "diffoutput.JohnAD.github.com",
+  "current": "45bbd217bf70debe7ef907b0655c6988d4d0a26d",
   "author": "John Dupuy",
   "description": "Collection of Diff stringifications (and reversals)",
   "license": "MIT",
@@ -26,7 +27,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:31Z",
+  "generatedAt": "2026-05-26T15:46:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

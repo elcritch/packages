@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "ballpark",
   "fqn": "ballpark.Mihara.github.com",
+  "current": "a73d402ce76642c8792faa265e3e0c232dac75bd",
   "author": "Eugene Medvedev (R2AZE)",
   "description": "An amateur radio tool to get you a ballpark estimate of where a given Maidenhead grid square is.",
   "license": "MIT",
@@ -16,21 +17,17 @@
       "v": "1.0.1@d6e0eb467dce561554bd344261379b92520cd9f0",
       "r": [
         "fsnotify >= 0.1.0"
-      ],
-      "b": "",
-      "p": []
+      ]
     },
     {
       "v": "1.0.0@7eb8a01762cbca3a612deaa9ec7fc5ca890d86b3",
       "r": [
         "fsnotify >= 0.1.0"
-      ],
-      "b": "",
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:16Z",
+  "generatedAt": "2026-05-26T15:44:32Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

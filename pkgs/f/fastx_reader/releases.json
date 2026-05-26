@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "fastx_reader",
   "fqn": "fastx_reader.ahcm.github.com",
+  "current": "9befdfc3ba29460b4b0d344c4544dadda8f27cc3",
   "author": "Andreas Hauser",
   "description": "FastQ and Fasta readers for NIM",
   "license": "LGPL-3.0",
@@ -17,14 +18,11 @@
   "releases": [
     {
       "v": "0.1.0@b92f65e2e78a094d565dfa7c32ef650940e7c07d",
-      "r": [],
-      "b": "",
-      "k": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:54Z",
+  "generatedAt": "2026-05-26T15:46:38Z",
   "allDeps": {
     "packages": [],
     "urls": [],

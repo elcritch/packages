@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nmgr",
   "fqn": "nmgr.cycneuramus.github.com",
+  "current": "943f3fe42e147511c1d4c8fc0f3f74cb6bde6fdb",
   "author": "cycneuramus",
   "description": "Programmatically manage jobs in a Nomad cluster",
   "license": "GPL-3.0-only",
@@ -15,57 +16,49 @@
       "v": "1.2.4@943f3fe42e147511c1d4c8fc0f3f74cb6bde6fdb^",
       "r": [
         "argparse >= 4.0.2"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "1.2.3@0419ab6b5bd255e05f6a27989a1662ce668b642a",
       "r": [
         "argparse >= 4.0.2"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "1.2.2@5df3caaed1b886a989b26168c0c95335e8f25a09",
       "r": [
         "argparse >= 4.0.2"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "1.2.1@2a38082c54ddd021c3ecce61ed4ca4022bc6d83c",
       "r": [
         "argparse >= 4.0.2"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "1.2.0@7ab639edeffbdb15d28681fd66514aeab8972913",
       "r": [
         "argparse >= 4.0.2"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "1.1.0@e8dafddc79f2b6ee083b78a2965a1e9247dd54ba",
       "r": [
         "argparse >= 4.0.2"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "1.0.1@f994df7fdf1f6cc775777b8a7059d59065df0453",
       "r": [
         "argparse >= 4.0.2"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "1.0.0@a1cf1698cfec9225a887294bd466ea753f105c34",
       "r": [
         "argparse >= 4.0.2"
-      ],
-      "p": []
+      ]
     },
     {
       "v": "0.3.1@c11f46cec433380210efaf994bb052032c13ace4",
@@ -104,7 +97,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:24Z",
+  "generatedAt": "2026-05-26T15:51:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

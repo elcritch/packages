@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "dekao",
   "fqn": "dekao.ajusa.github.com",
+  "current": "64f392fc6af423d949d3c99ee0343b8b7fdba59e",
   "author": "ajusa",
   "description": "HTML templating language",
   "license": "MIT",
@@ -26,7 +27,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:28Z",
+  "generatedAt": "2026-05-26T15:46:02Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

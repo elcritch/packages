@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "jscanvas",
   "fqn": "jscanvas.planetis-m.github.com",
+  "current": "8fb011b5da355236484ffd6263bb037dafb18553",
   "author": "Antonis",
   "description": "A Nim wrapper for the Canvas API",
   "license": "MIT",
@@ -10,12 +11,11 @@
   "releases": [
     {
       "v": "0.1.0@8fb011b5da355236484ffd6263bb037dafb18553^",
-      "r": [],
-      "e": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:11Z",
+  "generatedAt": "2026-05-26T15:48:17Z",
   "allDeps": {
     "packages": [],
     "urls": [],

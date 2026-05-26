@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "usha",
   "fqn": "untitled-shell-history-application.subsetpark.github.com",
+  "current": "dbf23bdd64055c18ac42df4f7538e7341adf180e",
   "author": "Zach Smith",
   "description": "untitled shell history application",
   "license": "MIT",
@@ -14,12 +15,11 @@
       "v": "0.2@2ecd171ee50637147efa669bf0846a393f3d47eb",
       "r": [
         "docopt"
-      ],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:05Z",
+  "generatedAt": "2026-05-26T15:54:41Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

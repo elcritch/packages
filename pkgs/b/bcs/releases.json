@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "bcs",
   "fqn": "nimBcs.C-NERD.github.com",
+  "current": "56f4981aa6c3ca3798fed051583ef4c5c18503b2",
   "author": "cnerd",
   "description": "nim implementation of bcs serialization format",
   "license": "MIT",
@@ -34,7 +35,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:23Z",
+  "generatedAt": "2026-05-26T15:44:41Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

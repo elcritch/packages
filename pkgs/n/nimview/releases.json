@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimview",
   "fqn": "nimview.marcomq.github.com",
+  "current": "d6bf5ce39d710f6ed80f0ca320b93ee6323ae66f",
   "author": "Marco Mengelkoch",
   "description": "Nim / Python / C library to run webview with HTML/JS as UI",
   "license": "MIT",
@@ -113,8 +114,7 @@
         "webview >= 0.1.0",
         "nake >= 1.9.0"
       ],
-      "m": "1.0.0",
-      "p": []
+      "m": "1.0.0"
     },
     {
       "v": "0.1.2@c58311504877fd3973491fde61029ab75aee1a19",
@@ -124,8 +124,7 @@
         "webview >= 0.1.0",
         "nake >= 1.9.0"
       ],
-      "m": "0.17.0",
-      "p": []
+      "m": "0.17.0"
     },
     {
       "v": "0.1.1@cd7b4737e49e998874e1a38c7c57d932b79aab8a",
@@ -135,12 +134,11 @@
         "webview >= 0.1.0",
         "nake >= 1.9.0"
       ],
-      "m": "0.17.0",
-      "p": []
+      "m": "0.17.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:17Z",
+  "generatedAt": "2026-05-26T15:51:00Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

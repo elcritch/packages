@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "bluu",
   "fqn": "bluu.disruptek.github.com",
+  "current": "f6accb5b57ec68c199e2a011b5e9156e08f4f173",
   "author": "disruptek",
   "description": "Microsoft Azure Cloud Computing Platform and Services (MAC) APIs",
   "license": "MIT",
@@ -51,7 +52,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:37Z",
+  "generatedAt": "2026-05-26T15:44:59Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

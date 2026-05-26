@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "dnsprotec",
   "fqn": "nim-dnsprotec.juancarlospaco.github.com",
+  "current": "a0044f179361f2000fb85ce608b7a90bd7032249",
   "author": "Juan Carlos",
   "description": "DNS /etc/hosts file manager, Block 1 Million malicious domains with 1 command",
   "license": "MIT",
@@ -13,12 +14,11 @@
   "releases": [
     {
       "v": "0.0.1@1fe0c0f7a1a28a673aafad5bbe8d7a2fd8b15aea",
-      "r": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:35Z",
+  "generatedAt": "2026-05-26T15:46:12Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

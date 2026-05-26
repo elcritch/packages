@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "tissue",
   "fqn": "tissue.genotrance.github.com",
+  "current": "64e1ddd45c5df8d8d4d9355751f37878a5be6df7",
   "author": "genotrance",
   "description": "Test failing snippets from Nim's issues",
   "license": "MIT",
@@ -15,13 +16,11 @@
   "releases": [
     {
       "v": "0.1.0@442fd96d5833e15f8c57d4c7b850e5c01aa03b40",
-      "r": [],
-      "x": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:45Z",
+  "generatedAt": "2026-05-26T15:54:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

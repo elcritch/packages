@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "expander",
   "fqn": "expander.soraiemame.github.com",
+  "current": "5c63c18aadd900f0717b2f0c1f9d5fbfc8bcbbff",
   "author": "soraie",
   "description": "expands code for competitive programing",
   "license": "MIT",
@@ -14,22 +15,18 @@
   "releases": [
     {
       "v": "0.1.0@f636665b23aa00900678baa764ebb6e1b5f587e8",
-      "r": [],
-      "b": "",
-      "p": []
+      "r": []
     },
     {
       "v": "0.1.1@5c63c18aadd900f0717b2f0c1f9d5fbfc8bcbbff^",
       "r": [
         "cligen >= 1.5.3"
       ],
-      "d": "expand codes for competitive programing",
-      "b": "",
-      "p": []
+      "d": "expand codes for competitive programing"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:50Z",
+  "generatedAt": "2026-05-26T15:46:34Z",
   "allDeps": {
     "packages": [
       "cligen > 0.1.0"

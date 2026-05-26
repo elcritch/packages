@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "leveldb",
   "fqn": "leveldb.nim.zielmicha.github.com",
+  "current": "69f86fe38c71afb391a0334130e421df8099bc50",
   "author": "Michał Zieliński",
   "description": "LevelDB wrapper for Nim",
   "license": "MIT",
@@ -30,19 +31,15 @@
     },
     {
       "v": "0.3.0@158b6d38af9835f8a12f85187b895c3fb90a8ef7",
-      "r": [],
-      "b": "",
-      "p": []
+      "r": []
     },
     {
       "v": "0.2.0@fb5c3b93818365a087ee41250eb7152f5827e1de",
-      "r": [],
-      "b": "",
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:25Z",
+  "generatedAt": "2026-05-26T15:48:35Z",
   "allDeps": {
     "packages": [],
     "urls": [],

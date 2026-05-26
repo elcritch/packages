@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "deser",
   "fqn": "deser.gabbhack.github.com",
+  "current": "efa0b92765fa84130aadb62344aec4e703f13805",
   "author": "gabbhack",
   "description": "De/serialization library for Nim",
   "license": "MIT",
@@ -52,22 +53,19 @@
       "v": "0.1.4@bf3629897ae79e817304ecab60ff7dbc214f5cf6",
       "r": [],
       "d": "De/serialization library for Nim ",
-      "m": "1.4.2",
-      "x": []
+      "m": "1.4.2"
     },
     {
       "v": "0.1.3@1dbdf74fde55d1add9fbaf213c3590e9a9c288e6",
       "r": [],
       "d": "De/serialization library for Nim ",
-      "m": "1.4.2",
-      "x": []
+      "m": "1.4.2"
     },
     {
       "v": "0.1.2@42191beeaad92c6d0d68e478b4c8d928c735e1ea",
       "r": [],
       "d": "De/serialization library for Nim ",
-      "m": "1.4.2",
-      "x": []
+      "m": "1.4.2"
     },
     {
       "v": "0.1.1@26371ebb5429b2ab330fadb5cb4dffb1ab8bf9dc",
@@ -75,8 +73,7 @@
         "gh:gabbhack/anycase-fork >= 0.2.0"
       ],
       "d": "De/serialization library for Nim ",
-      "m": "1.4.2",
-      "x": []
+      "m": "1.4.2"
     },
     {
       "v": "0.1.1@70b9cef20a2c8f1319a7dd9ba92622e6eb45ec6e",
@@ -84,15 +81,13 @@
         "gh:gabbhack/anycase-fork >= 0.2.0"
       ],
       "d": "De/serialization library for Nim ",
-      "m": "1.4.2",
-      "x": []
+      "m": "1.4.2"
     },
     {
       "v": "0.1.1@e0f340d412b783a6cd60a4edb69ccbaf0c769482",
       "r": [],
       "d": "De/serialization library for Nim ",
-      "m": "1.4.2",
-      "x": []
+      "m": "1.4.2"
     },
     {
       "v": "0.1.0@bf21fa954fb60f8dcb8d5547e41ca56c11d2b00b",
@@ -100,12 +95,11 @@
         "gh:gabbhack/anycase-fork 0.2.0"
       ],
       "d": "De/serialization library for Nim ",
-      "m": "1.4.2",
-      "x": []
+      "m": "1.4.2"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:31Z",
+  "generatedAt": "2026-05-26T15:46:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

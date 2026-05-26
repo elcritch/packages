@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "xml",
   "fqn": "xml.nim.ba0f3.github.com",
+  "current": "8ff9ff9be87a47c8089740484b3e1e4e2bd02b93",
   "author": "Huy Doan",
   "description": "Pure Nim XML parser",
   "license": "MIT",
@@ -14,8 +15,7 @@
   "releases": [
     {
       "v": "0.1.5@8ff9ff9be87a47c8089740484b3e1e4e2bd02b93^",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.1.4@3ed5ad1c370331be08df9730f1c6a45e8cfb5f94",
@@ -47,7 +47,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:38Z",
+  "generatedAt": "2026-05-26T15:55:24Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

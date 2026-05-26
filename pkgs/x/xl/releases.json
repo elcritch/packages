@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "xl",
   "fqn": "xl.khchen.github.com",
+  "current": "3f4a3ee50eff48e03502a6d3a5dc335ff9ba00b6",
   "author": "Ward",
   "description": "Xl - Open XML Spreadsheet (Excel) Library for Nim",
   "license": "MIT",
@@ -15,26 +16,23 @@
       "v": "1.0.0@75c85b933054ce40a2402fca151ea1f81cf4ebe0",
       "r": [
         "zippy >= 0.10.4"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "1.0.1@22d4ea2d147467967527d8fd64e77d2c040f1e91",
       "r": [
         "zippy >= 0.10.4"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "1.1.0@86ac22b82bd889c6e0a9c33f0aec1fd32bf6bf3d",
       "r": [
         "zippy >= 0.10.4"
-      ],
-      "x": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:36Z",
+  "generatedAt": "2026-05-26T15:55:22Z",
   "allDeps": {
     "packages": [
       "zippy"

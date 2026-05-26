@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "respite",
   "fqn": "respite.guzba.github.com",
+  "current": "aeb8102438408b9ac788d189c7397505e2c333c2",
   "author": "Ryan Oldenburg",
   "description": "Redis protocol backed by SQLite",
   "license": "MIT",
@@ -14,7 +15,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:35Z",
+  "generatedAt": "2026-05-26T15:52:42Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

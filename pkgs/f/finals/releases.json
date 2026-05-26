@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "finals",
   "fqn": "nim-finals.quelklef.github.com",
+  "current": "769fdd4035b781039d19ea930e23e16cc80c7ced",
   "author": "Eli Maynard",
   "description": "A macro to guarantee an object's field is final.",
   "license": "MIT",
@@ -11,42 +12,36 @@
   "releases": [
     {
       "v": "1.0.0@bb7fe70cbf2844a1062188660391e14cdf9a6bc7",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "1.0.1@1d903768bdf6b2dcdb7d00c06a091e7365bac877",
       "r": [],
-      "d": "Transparently declare single-set attributes.",
-      "x": []
+      "d": "Transparently declare single-set attributes."
     },
     {
       "v": "1.0.2@1d3d5a2e7b2d75fd96954060385f1331731fb1ae",
       "r": [],
-      "d": "Transparently declare single-set attributes.",
-      "x": []
+      "d": "Transparently declare single-set attributes."
     },
     {
       "v": "1.0.3@9a2e61fd4e6196c82eb802250aa59b1fcae5b757",
       "r": [],
-      "d": "Transparently declare single-set attributes.",
-      "x": []
+      "d": "Transparently declare single-set attributes."
     },
     {
       "v": "1.0.4@21bfdcccd4f26b2d8da04fa35cd72b5fb06e42ff",
       "r": [],
-      "d": "Transparently declare single-set attributes.",
-      "x": []
+      "d": "Transparently declare single-set attributes."
     },
     {
       "v": "1.0.5@769fdd4035b781039d19ea930e23e16cc80c7ced^",
       "r": [],
-      "d": "Transparently declare single-set attributes.",
-      "x": []
+      "d": "Transparently declare single-set attributes."
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:01Z",
+  "generatedAt": "2026-05-26T15:46:49Z",
   "allDeps": {
     "packages": [],
     "urls": [],

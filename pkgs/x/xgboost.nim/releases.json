@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "xgboost.nim",
   "fqn": "xgboost.nim.jackhftang.github.com",
+  "current": "d653d798c36bb04f8b612f0fd139c1a8739066e8",
   "author": "Jack Tang",
   "description": "Nim wrapper for libxgboost",
   "license": "MIT",
@@ -26,7 +27,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:34Z",
+  "generatedAt": "2026-05-26T15:55:20Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

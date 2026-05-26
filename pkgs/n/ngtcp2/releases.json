@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "ngtcp2",
   "fqn": "nim-ngtcp2.status-im.github.com",
+  "current": "791eb859145f9f268eb23eb9cbe777bdd7699c4d",
   "author": "Status Research & Development GmbH",
   "description": "Nim wrapper around the ngtcp2 library",
   "license": "MIT",
@@ -17,9 +18,7 @@
   "releases": [
     {
       "v": "0.39.0@791eb859145f9f268eb23eb9cbe777bdd7699c4d^",
-      "r": [],
-      "i": [],
-      "j": []
+      "r": []
     },
     {
       "v": "0.38.0@50c9d44f7674fc1b65defc08fe75e3befec654b9",
@@ -27,8 +26,7 @@
       "j": [
         "ngtcp2.nim"
       ],
-      "m": "1.6.0",
-      "i": []
+      "m": "1.6.0"
     },
     {
       "v": "0.37.0@6ca91ea115ee5ceedc12f19f0e87493ff9b5ae93",
@@ -36,8 +34,7 @@
       "j": [
         "ngtcp2.nim"
       ],
-      "m": "1.6.0",
-      "i": []
+      "m": "1.6.0"
     },
     {
       "v": "0.36.1@9456daa178c655bccd4a3c78ad3b8cce1f0add73",
@@ -45,8 +42,7 @@
       "j": [
         "ngtcp2.nim"
       ],
-      "m": "1.6.0",
-      "i": []
+      "m": "1.6.0"
     },
     {
       "v": "0.36.0@eb044940470a3a848e8d12a9ca8cfa82cec12ae5",
@@ -54,8 +50,7 @@
       "j": [
         "ngtcp2.nim"
       ],
-      "m": "1.6.0",
-      "i": []
+      "m": "1.6.0"
     },
     {
       "v": "0.35.0@b9dbc3ad58bc31bc1767f0030f136859a753ccbc",
@@ -63,8 +58,7 @@
       "j": [
         "ngtcp2.nim"
       ],
-      "m": "1.6.0",
-      "i": []
+      "m": "1.6.0"
     },
     {
       "v": "0.34.0@817de8ece899a301c62f09b828b11cbdfdf4deb0",
@@ -104,7 +98,32 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:26Z",
+  "generatedAt": "2026-05-26T15:49:54Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.34.0",
+      "v0.35.0",
+      "v0.36.0",
+      "v0.36.1",
+      "v0.37.0",
+      "v0.38.0",
+      "v0.39.0"
+    ],
+    "tagVersions": {
+      "v0.34.0": "0.34.0",
+      "v0.35.0": "0.35.0",
+      "v0.36.0": "0.36.0",
+      "v0.36.1": "0.36.1",
+      "v0.37.0": "0.37.0",
+      "v0.38.0": "0.38.0",
+      "v0.39.0": "0.39.0"
+    },
+    "latest": "v0.39.0"
+  },
   "allDeps": {
     "packages": [],
     "urls": [],

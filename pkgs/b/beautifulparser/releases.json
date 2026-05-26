@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "beautifulparser",
   "fqn": "beautifulparser.TelegramXPlus.github.com",
+  "current": "ac594fdafdb292536c2ad9a0b7c7057867352720",
   "author": "TelegramXPlus",
   "description": "Simple parser for HTML",
   "license": "MIT",
@@ -22,7 +23,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:25Z",
+  "generatedAt": "2026-05-26T15:44:42Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

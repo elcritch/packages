@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "silerovad",
   "fqn": "nim-silero-vad.nitely.github.com",
+  "current": "22bc6bf62a91b3cb28786b26a3ef05ea9a3fa0fe",
   "author": "nitely",
   "description": "Silero VAD",
   "license": "MIT",
@@ -15,17 +16,15 @@
   "releases": [
     {
       "v": "0.2.0@22bc6bf62a91b3cb28786b26a3ef05ea9a3fa0fe^",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.1.0@fa4ffcb300889408f364ad86f2995fd850f3ba0a",
-      "r": [],
-      "x": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:59Z",
+  "generatedAt": "2026-05-26T15:53:13Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

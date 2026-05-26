@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "tempfile",
   "fqn": "tempfile.nim.OpenSystemsLab.github.com",
+  "current": "96fe74e69838c99641e4f7138c987d5f346c26f1",
   "author": "Huy Doan",
   "description": "Temporary files and folders",
   "license": "MIT",
@@ -12,8 +13,7 @@
   "releases": [
     {
       "v": "0.1.7@26e0239441755e5edcfd170e9aa566bb9c9eb6f3",
-      "r": [],
-      "p": []
+      "r": []
     },
     {
       "v": "0.1.6@2668c148e9b9946aeb262715ad10c7c50abb5448",
@@ -47,7 +47,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:35Z",
+  "generatedAt": "2026-05-26T15:54:01Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

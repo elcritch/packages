@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "textformats",
   "fqn": "textformats.ggonnella.github.com",
+  "current": "ce5fb38f0ee5c2b645b0befe9874e94a53121d26",
   "author": "Giorgio Gonnella",
   "description": "Easy specification of text formats for structured data",
   "license": "ISC",
@@ -21,10 +22,7 @@
         "regex 0.19.0",
         "nimpy 0.2.0",
         "msgpack4nim 0.3.1"
-      ],
-      "b": "",
-      "k": [],
-      "e": ""
+      ]
     },
     {
       "v": "1.2.2@341798a71d6bfd43b9b604faba0554c0f52375f2",
@@ -34,10 +32,7 @@
         "regex 0.19.0",
         "nimpy 0.2.0",
         "msgpack4nim 0.3.1"
-      ],
-      "b": "",
-      "k": [],
-      "e": ""
+      ]
     },
     {
       "v": "1.2.1@a1e46aa52b5ad67e1884642491e5db684e33babc",
@@ -47,10 +42,7 @@
         "regex 0.19.0",
         "nimpy 0.2.0",
         "msgpack4nim 0.3.1"
-      ],
-      "b": "",
-      "k": [],
-      "e": ""
+      ]
     },
     {
       "v": "1.2.0@8c19af7bf81935a9f6b649721478dafef85109df",
@@ -60,10 +52,7 @@
         "regex 0.19.0",
         "nimpy 0.2.0"
       ],
-      "m": "1.6.2",
-      "b": "",
-      "k": [],
-      "e": ""
+      "m": "1.6.2"
     },
     {
       "v": "1.1.0@8df0873b514ec203cb7c43862f48ee03662803b2",
@@ -74,9 +63,7 @@
         "nimpy 0.2.0"
       ],
       "m": "1.0.2",
-      "e": "",
-      "b": "",
-      "k": []
+      "e": ""
     },
     {
       "v": "1.0.0@2e0c4ae6e28fffc68115639748ae30d1ad85db44",
@@ -87,13 +74,11 @@
         "nimpy"
       ],
       "m": "1.0.2",
-      "e": "",
-      "b": "",
-      "k": []
+      "e": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:39Z",
+  "generatedAt": "2026-05-26T15:54:07Z",
   "allDeps": {
     "packages": [
       "cligen",

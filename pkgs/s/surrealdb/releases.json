@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "surrealdb",
   "fqn": "surrealdb.nim.Xkonti.github.com",
+  "current": "7b2ecabfd84c3c2e2e94b60a2a986d0dad4eab3c",
   "author": "Xkonti",
   "description": "SurrealDB driver for Nim",
   "license": "MIT",
@@ -17,12 +18,11 @@
         "ws",
         "asynctest >= 0.5.2 & < 0.6.0",
         "dotenv >= 2.0.0"
-      ],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:27Z",
+  "generatedAt": "2026-05-26T15:53:50Z",
   "allDeps": {
     "packages": [
       "asynctest",

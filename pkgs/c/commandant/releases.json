@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "commandant",
   "fqn": "commandant.casey-SK.github.com",
+  "current": "492ae9442e5e2c5948df31b6f065b8fa70c01308",
   "author": "Casey McMahon",
   "description": "A small command line parsing DSL",
   "license": "MIT",
@@ -12,8 +13,7 @@
   "releases": [
     {
       "v": "0.15.0@78d2ee81ad3277f578d43d4d1837a2a3896ac624",
-      "r": [],
-      "j": []
+      "r": []
     },
     {
       "v": "0.14.0@0634d9ec7e28ef31c0204f79513f3d3b1ec073ab",
@@ -171,7 +171,19 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:10Z",
+  "generatedAt": "2026-05-26T15:45:40Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.13.0",
+      "0.14.0",
+      "0.15.0"
+    ],
+    "latest": "0.15.0"
+  },
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "spurdify",
   "fqn": "spurdify.paradox460.github.com",
+  "current": "5e17c8cab22e6302e330194a16564e4d69afff73",
   "author": "Jeff Sandberg",
   "description": "Spurdification library and CLI",
   "license": "MIT",
@@ -35,26 +36,19 @@
     },
     {
       "v": "0.0.6@5cf812fd0155c82e1a8575cf895ed6bbc68c8a69",
-      "r": [],
-      "b": "",
-      "k": [],
-      "p": []
+      "r": []
     },
     {
       "v": "0.0.5@1c10b26502e86a5e33e821987c033ad52887240c",
       "r": [],
       "m": "0.20.0",
-      "b": "",
-      "k": [],
-      "p": []
+      "b": ""
     },
     {
       "v": "0.0.4@cd722c7f5fbfb54ec1a2bf6f96c2a7202d3e0edf",
       "r": [],
       "m": "0.19.0",
-      "b": "",
-      "k": [],
-      "p": []
+      "b": ""
     },
     {
       "v": "0.0.2@e43cae8861b3914257fbf9495ab14187ebddae84",
@@ -67,7 +61,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:15Z",
+  "generatedAt": "2026-05-26T15:53:33Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

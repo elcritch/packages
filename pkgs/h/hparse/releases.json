@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "hparse",
   "fqn": "hparse.haxscramper.github.com",
+  "current": "4ac140a5e0802de1a3775f87f36cf33cf4a041d3",
   "author": "haxscramper",
   "description": "Text parsing utilities",
   "license": "Apache-2.0",
@@ -25,11 +26,7 @@
         "hmisc >= 0.11.17",
         "hpprint",
         "hnimast >= 0.3.35"
-      ],
-      "b": "",
-      "k": [],
-      "p": [],
-      "o": {}
+      ]
     },
     {
       "v": "0.2.5@c4118019afb9c0989c82f9759f21d048f1f653f1",
@@ -39,11 +36,7 @@
         "hasts",
         "hpprint"
       ],
-      "m": "1.2.4",
-      "b": "",
-      "k": [],
-      "p": [],
-      "o": {}
+      "m": "1.2.4"
     },
     {
       "v": "0.2.4@d98f071518c922f0f6cfbd5c0610870e39b8c2ad",
@@ -53,15 +46,11 @@
         "hasts",
         "hpprint"
       ],
-      "m": "1.2.4",
-      "b": "",
-      "k": [],
-      "p": [],
-      "o": {}
+      "m": "1.2.4"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:48Z",
+  "generatedAt": "2026-05-26T15:47:47Z",
   "allDeps": {
     "packages": [
       "benchy",

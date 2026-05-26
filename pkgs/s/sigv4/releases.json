@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "sigv4",
   "fqn": "sigv4.disruptek.github.com",
+  "current": "6f5f925a26e2fc2fd6868bc52438e1f622abd957",
   "author": "disruptek",
   "description": "Amazon Web Services Signature Version 4",
   "license": "MIT",
@@ -144,7 +145,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:59Z",
+  "generatedAt": "2026-05-26T15:53:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

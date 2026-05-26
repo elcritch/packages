@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "pronimgress",
   "fqn": "pronimgress.bichanna.github.com",
+  "current": "17ca09446ef059f0b51db0e235bee8b4e429d30a",
   "author": "bichanna",
   "description": "Simple text progress bars in Nim!",
   "license": "MIT",
@@ -13,12 +14,24 @@
   "releases": [
     {
       "v": "0.1.0@ee615739f40c78dc3bc9f5f48d05430f34590f34",
-      "r": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:19Z",
+  "generatedAt": "2026-05-26T15:52:19Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.0"
+    ],
+    "tagVersions": {
+      "v0.1.0": "0.1.0"
+    },
+    "latest": "v0.1.0"
+  },
   "allDeps": {
     "packages": [],
     "urls": [],

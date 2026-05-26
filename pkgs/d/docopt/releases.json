@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "docopt",
   "fqn": "docopt.nim.docopt.github.com",
+  "current": "efaa112b6df172a9168c4eb581ab8dda1fbcfe2a",
   "author": "Oleh Prypin",
   "description": "Command line option parser that will make you smile",
   "license": "MIT",
@@ -69,7 +70,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:36Z",
+  "generatedAt": "2026-05-26T15:46:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

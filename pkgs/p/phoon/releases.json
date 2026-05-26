@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "phoon",
   "fqn": "phoon.ducdetronquito.github.com",
+  "current": "253fdc7989853d9008d8b9a7baf94645262d1b6d",
   "author": "Guillaume Paulet",
   "description": "A web framework inspired by ExpressJS 🐇⚡",
   "license": "Public Domain",
@@ -13,18 +14,15 @@
   "releases": [
     {
       "v": "0.4.0@854cf98212ffdf5ea1d3347035e545d2df7adf38",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.3.0@6ac7b8f2bb489a96fec7a350441568a190dadf62",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.2.0@3a0523c39d12e4c9f1bf2812228a838390fedcee",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "0.1.1@671fe0bc2b9462120fbcda564b770d870c748fae",
@@ -45,7 +43,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:03Z",
+  "generatedAt": "2026-05-26T15:51:59Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimclipboard",
   "fqn": "nimclipboard.genotrance.github.com",
+  "current": "666f37ce461d6914a7c1818bc31e1ec97593e7bb",
   "author": "genotrance",
   "description": "Nim wrapper for libclipboard",
   "license": "MIT",
@@ -14,28 +15,25 @@
       "r": [
         "nimgen >= 0.4.0"
       ],
-      "h": true,
-      "x": []
+      "h": true
     },
     {
       "v": "0.1.1@82faf6f1e0fc30fa888dc269648fa4045224f144",
       "r": [
         "nimgen >= 0.3.0"
       ],
-      "h": true,
-      "x": []
+      "h": true
     },
     {
       "v": "0.1.0@839b7775e412e16bc805914e29db42c9a7bea207",
       "r": [
         "nimgen >= 0.3.0"
       ],
-      "h": true,
-      "x": []
+      "h": true
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:45Z",
+  "generatedAt": "2026-05-26T15:50:18Z",
   "allDeps": {
     "packages": [
       "c2nim",

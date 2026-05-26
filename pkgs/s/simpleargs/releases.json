@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "simpleargs",
   "fqn": "nim-simpleargs.HTGenomeAnalysisUnit.github.com",
+  "current": "d5df9fae2216d60cb2655b0522116b09e7b06975",
   "author": "edoardo.giacopuzzi",
   "description": "Simple command line arguments parsing",
   "license": "MIT",
@@ -13,12 +14,11 @@
   "releases": [
     {
       "v": "0.1.0@d5df9fae2216d60cb2655b0522116b09e7b06975^",
-      "r": [],
-      "x": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:01Z",
+  "generatedAt": "2026-05-26T15:53:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

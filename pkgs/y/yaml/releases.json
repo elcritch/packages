@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "yaml",
   "fqn": "NimYAML.flyx.github.com",
+  "current": "b4a4c2403a75ad80363edba74d7fb6be2a26acce",
   "author": "Felix Krause",
   "description": "YAML 1.2 implementation for Nim",
   "license": "MIT",
@@ -17,23 +18,19 @@
   "releases": [
     {
       "v": "2.2.1@d6ad3a0271b9819ae91f2a5892a96b4c58823046",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "2.2.0@13740da75a688de7fcb8f73930986058c3bc7163",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "2.1.1@7290559f881aabc5ba98307949ce5a290788c202",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "2.1.0@8a63c1f900a2e4a0b3ff4b2549aae66e8369f677",
-      "r": [],
-      "x": []
+      "r": []
     },
     {
       "v": "2.0.0@9d6040232957042657416f6940f30ae4daaaeea2",
@@ -278,7 +275,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:43Z",
+  "generatedAt": "2026-05-26T15:55:30Z",
   "allDeps": {
     "packages": [],
     "urls": [],

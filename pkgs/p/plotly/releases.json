@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "plotly",
   "fqn": "nim-plotly.SciNim.github.com",
+  "current": "b9705980965f65e4174ef68c4f93cd082375b623",
   "author": "Brent Pedersen",
   "description": "plotting library for nim",
   "license": "MIT",
@@ -18,8 +19,7 @@
         "jsbind",
         "webview",
         "ws"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "0.3.2@35f634279f1f52bbadccf5d9bb9ad55a3c89ea53",
@@ -28,8 +28,7 @@
         "jsbind",
         "webview",
         "ws"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "0.3.0@a34dcdcc62e28603847518f4bcd0bf1816399b7d",
@@ -38,8 +37,7 @@
         "jsbind",
         "webview",
         "ws"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "0.2.1@f514825b9c43dbfda99f00542f4fb1fc46aec5e8",
@@ -48,8 +46,7 @@
         "jsbind",
         "webview",
         "ws"
-      ],
-      "x": []
+      ]
     },
     {
       "v": "0.2.0@ec536af399d3deb125fdec31c17d302def5b314a",
@@ -58,12 +55,11 @@
         "jsbind",
         "webview",
         "websocket >= 0.4.1"
-      ],
-      "x": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:08Z",
+  "generatedAt": "2026-05-26T15:52:05Z",
   "allDeps": {
     "packages": [
       "chroma",

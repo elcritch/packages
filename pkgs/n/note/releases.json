@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "note",
   "fqn": "note.pswilde.codeberg.org",
+  "current": "779649587276445c43bf6aed07cbbb8c18fdd70b",
   "author": "Paul Wilde",
   "description": "A simple paste bin",
   "license": "AGPL-3.0-or-later",
@@ -19,13 +20,11 @@
         "nimja >= 0.8.7",
         "threadlogging >= 0.1.5",
         "argparse >= 4.0.1"
-      ],
-      "b": "",
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:35Z",
+  "generatedAt": "2026-05-26T15:51:23Z",
   "allDeps": {
     "packages": [
       "argparse",

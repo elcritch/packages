@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "variantkey",
   "fqn": "variantkey-nim.brentp.github.com",
+  "current": "6c191d75fb722e1c2e929b261b34afadd3a1a681",
   "author": "Brent Pedersen",
   "description": "encode variants to uint64",
   "license": "MIT",
@@ -21,22 +22,17 @@
       "r": [
         "nimgen"
       ],
-      "h": true,
-      "x": [],
-      "k": [],
-      "p": []
+      "h": true
     },
     {
       "v": "0.0.2@3a51a4ab45f8407078ae57555d37e52085e2486a",
       "r": [],
       "h": true,
-      "p": [],
-      "x": [],
-      "k": []
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:07Z",
+  "generatedAt": "2026-05-26T15:54:44Z",
   "allDeps": {
     "packages": [
       "c2nim <= 0.0.1",

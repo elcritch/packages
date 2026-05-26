@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "supra",
   "fqn": "supra.supranim.github.com",
+  "current": "297ed0fac714c7cebc4e6b09e867f68d9cee2fa1",
   "author": "Supranim",
   "description": "CLI tool for bootstrapping Supranim applications",
   "license": "MIT",
@@ -27,13 +28,11 @@
         "valido"
       ],
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/supra.supranim.github.com-ef6bc37c-supra.nimble\ncannot resolve package name: enimsql",
-      "b": "",
-      "p": []
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/supra.supranim.github.com-ef6bc37c-supra.nimble\ncannot resolve package name: enimsql"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:25Z",
+  "generatedAt": "2026-05-26T15:53:48Z",
   "allDeps": {
     "packages": [
       "ansiparse",

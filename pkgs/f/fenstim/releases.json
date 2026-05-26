@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "fenstim",
   "fqn": "fenstim.CardealRusso.github.com",
+  "current": "1213fca41df0bced151ec9d3c08cefc9b0951b01",
   "author": "Comunity",
   "description": "The most minimal cross-platform GUI library - in Nim",
   "license": "MIT",
@@ -13,12 +14,11 @@
   "releases": [
     {
       "v": "1.0.3@1213fca41df0bced151ec9d3c08cefc9b0951b01^",
-      "r": [],
-      "x": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:55Z",
+  "generatedAt": "2026-05-26T15:46:40Z",
   "allDeps": {
     "packages": [],
     "urls": [],

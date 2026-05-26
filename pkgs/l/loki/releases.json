@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "loki",
   "fqn": "loki.beshrkayali.github.com",
+  "current": "c6d8f076cffe29227ba83f54c20d9b2598da2bb3",
   "author": "Beshr Kayali",
   "description": "A small library for writing cli programs in Nim.",
   "license": "Zlib",
@@ -26,7 +27,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:41Z",
+  "generatedAt": "2026-05-26T15:48:59Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

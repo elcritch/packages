@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "bilidown",
   "fqn": "bilidown.bung87.github.com",
+  "current": "f584de394ba2e944175757c3bd7477271f83abfd",
   "author": "bung87",
   "description": "Bilibili video downloader",
   "license": "MIT",
@@ -18,13 +19,11 @@
       "v": "0.1.0@b83a1db96023297902118fabcbf9970c56769b69",
       "r": [
         "checksums"
-      ],
-      "k": [],
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:28Z",
+  "generatedAt": "2026-05-26T15:44:46Z",
   "allDeps": {
     "packages": [
       "checksums"

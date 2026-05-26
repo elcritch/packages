@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "canonicaljson",
   "fqn": "canonicaljson.nim.jackhftang.github.com",
+  "current": "10d3f0280c0ecd700e09f93192437cdf347d5906",
   "author": "Jack Tang",
   "description": "canonicaljson",
   "license": "MIT",
@@ -12,37 +13,27 @@
   "releases": [
     {
       "v": "1.1.2@e1c2af398f946949595ad64774a7156e5c8d53a4",
-      "r": [],
-      "b": "",
-      "e": ""
+      "r": []
     },
     {
       "v": "1.1.0@6475bd479839555ac039202407813690fd2291ab",
-      "r": [],
-      "b": "",
-      "e": ""
+      "r": []
     },
     {
       "v": "1.0.2@5eec74a8df99ea29ae5b71262e9c77715cf274eb",
-      "r": [],
-      "b": "",
-      "e": ""
+      "r": []
     },
     {
       "v": "1.0.1@a20f2d1ec27350a99639ead94151cd57428a7dcf",
-      "r": [],
-      "b": "",
-      "e": ""
+      "r": []
     },
     {
       "v": "1.0.0@0ad035f73f657296ffe120a0c1a561b4987ef1b5",
-      "r": [],
-      "b": "",
-      "e": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:47Z",
+  "generatedAt": "2026-05-26T15:45:12Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

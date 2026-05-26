@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "what_the_fork",
   "fqn": "what_the_fork.Luteva-ssh.github.com",
+  "current": "96ca51c6a5e1c2f91ae51e0c110a1da39520858d",
   "author": "Janni Adamski",
   "description": "What_the_fork is a terminal tool that analyses forks of a given github repo to extract changes like bugfixes, new features etc.",
   "license": "MIT",
@@ -14,13 +15,11 @@
   "releases": [
     {
       "v": "0.1.0@420012468f142b4eeefe08829a7e1db51d51c246",
-      "r": [],
-      "b": "",
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:23Z",
+  "generatedAt": "2026-05-26T15:55:05Z",
   "allDeps": {
     "packages": [],
     "urls": [],

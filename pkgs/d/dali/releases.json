@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "dali",
   "fqn": "dali.akavel.github.com",
+  "current": "911fea3b41ca4f9bc8eb2013f7456dff38a65af0",
   "author": "Mateusz Czapliński",
   "description": "Dalvik Assembler/Linker",
   "license": "AGPL-3.0",
@@ -53,7 +54,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:23Z",
+  "generatedAt": "2026-05-26T15:45:55Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

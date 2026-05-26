@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nasp",
   "fqn": "Nasp.Niminem.github.com",
+  "current": "da4d2107e39813e0d4523058e072ad1c8ccb0d46",
   "author": "Niminem",
   "description": "Nim CLI tool & API wrapper for developing Apps Script projects on your local machine.",
   "license": "MIT",
@@ -16,13 +17,11 @@
   "releases": [
     {
       "v": "0.1.0@17bd3ddf79b6903714747eccd75d05d14d0e75b2",
-      "r": [],
-      "k": [],
-      "p": []
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:15Z",
+  "generatedAt": "2026-05-26T15:49:39Z",
   "allDeps": {
     "packages": [],
     "urls": [],
