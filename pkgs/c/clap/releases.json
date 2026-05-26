@@ -11,24 +11,25 @@
   "releases": [
     {
       "v": "0.2.0@043618c195be7b2ba1045dc4aa1fed42ee451858",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.0@86e8758c25e89d1dbda489d53b0c491503fea097",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@c2abfe3056a6b3fabb7a8136f14a191a98697892",
       "r": [],
-      "a": "Morgan Holly",
-      "d": "Clap plugin bindings",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:19Z",
+  "generatedAt": "2026-05-26T00:46:14Z",
   "allDeps": {
     "packages": [],
     "urls": [],

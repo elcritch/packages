@@ -17,15 +17,11 @@
     },
     {
       "v": "#head@fa69fd7db70e14f8f4bbe364adc8e37195dd93b4",
-      "n": "capnp",
-      "r": [],
-      "a": "Michał Zieliński <michal@zielinscy.org.pl>",
-      "d": "Cap'n Proto bindings",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:02Z",
+  "generatedAt": "2026-05-26T00:45:58Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -22,32 +22,51 @@
         "cligen",
         "util"
       ],
-      "k": []
+      "k": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.2.0@9aa69c6077147d614e532edcaf1f399a5e5d68bd",
       "r": [
         "cligen",
         "util"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.3.0@dab3c6f462de6da1bdc03a28ff4dabf231939fd1^",
       "r": [
         "cligen",
         "util"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@dab3c6f462de6da1bdc03a28ff4dabf231939fd1",
       "r": [
         "cligen",
         "util"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:34Z",
+  "generatedAt": "2026-05-26T00:56:30Z",
   "allDeps": {
     "packages": [
       "cligen",

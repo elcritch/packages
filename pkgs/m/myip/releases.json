@@ -13,17 +13,21 @@
       "v": "0.1.0@65f849acc1e504db4584b3d127056c8935d3bd3d^",
       "r": [
         "jsony"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@65f849acc1e504db4584b3d127056c8935d3bd3d",
       "r": [
         "jsony"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:48Z",
+  "generatedAt": "2026-05-26T00:50:50Z",
   "allDeps": {
     "packages": [
       "jsony"

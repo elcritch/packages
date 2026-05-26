@@ -19,7 +19,8 @@
         "jsony >= 1.1.3",
         "opussum >= 0.6.0",
         "etf #e0b77f7"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "1.6.0@c012fa6d8378a9373aa7346aafe84ef6aba2a902",
@@ -138,14 +139,11 @@
         "opussum >= 0.6.0",
         "etf #e0b77f7"
       ],
-      "a": "KrispPurg",
-      "d": "A Discord Bot & REST Library for Nim.",
-      "l": "MIT",
-      "m": "2.0.6"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:04Z",
+  "generatedAt": "2026-05-26T00:46:58Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -28,7 +28,11 @@
         "valido"
       ],
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/supra.supranim.github.com-ef6bc37c-supra.nimble\ncannot resolve package name: enimsql"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/supra.supranim.github.com-ef6bc37c-supra.nimble\ncannot resolve package name: enimsql",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "#head@297ed0fac714c7cebc4e6b09e867f68d9cee2fa1",
@@ -41,19 +45,15 @@
         "valido",
         "ozark"
       ],
-      "a": "Supranim",
       "d": "CLI tool for managing Supranim projects",
-      "l": "MIT",
-      "s": "src",
-      "b": "bin",
-      "p": [
-        "supra"
-      ],
-      "m": "2.0.0"
+      "m": "2.0.0",
+      "s": "",
+      "b": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:27Z",
+  "generatedAt": "2026-05-26T00:55:27Z",
   "allDeps": {
     "packages": [
       "ansiparse",

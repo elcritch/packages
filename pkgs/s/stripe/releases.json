@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@535a450721d0e77099fa82e31bc73304251cadc6",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@67d9192d3549e44efb4fdfc26a4bf8eb02e637fe",
       "r": [],
-      "a": "Matt Haggard",
-      "d": "Stripe SDK",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:21Z",
+  "generatedAt": "2026-05-26T00:55:22Z",
   "allDeps": {
     "packages": [],
     "urls": [],

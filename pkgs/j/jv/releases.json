@@ -14,26 +14,25 @@
   "releases": [
     {
       "v": "0.1.0@129b0f71e65602c5d8427292190b756663c73d07",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@4a3740b3f4d0ae04f5c7d812c007867a05bf68f6",
       "r": [],
-      "a": "Kuzey Bilgin",
       "d": "A Java version manager and build tool written in Nim",
-      "l": "MIT",
-      "s": "src",
       "k": [
         "nim"
       ],
-      "p": [
-        "jv"
-      ],
-      "m": "2.0.0"
+      "m": "2.0.0",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:26Z",
+  "generatedAt": "2026-05-26T00:49:29Z",
   "allDeps": {
     "packages": [],
     "urls": [],

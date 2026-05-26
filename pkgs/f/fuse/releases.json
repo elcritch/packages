@@ -13,15 +13,12 @@
     },
     {
       "v": "#head@e2bf395b40c7a00d6130c9eb97d9419ad95c6591",
-      "n": "fuse",
       "r": [],
-      "a": "Akira Hayakawa",
-      "d": "A FUSE binding for Nim",
-      "l": "MIT"
+      "d": "A FUSE binding for Nim"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:01Z",
+  "generatedAt": "2026-05-26T00:48:00Z",
   "allDeps": {
     "packages": [],
     "urls": [],

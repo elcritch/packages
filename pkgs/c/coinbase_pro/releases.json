@@ -13,7 +13,9 @@
       "v": "0.1.0@cce7c0665d62fa8e88544852f91ec04950fbcbf2",
       "r": [
         "ws"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@446a5ef7b13456c8e6b040377c4aef10f6bb891e",
@@ -21,7 +23,9 @@
         "ws",
         "decimal",
         "uuids"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.3@ce1f397afd4111f2e62500b0bb1dc65923da6a57",
@@ -29,7 +33,9 @@
         "ws",
         "decimal",
         "uuids"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@c91664ff454238a134d690ab841e0e1f476da6b5",
@@ -38,15 +44,12 @@
         "decimal",
         "uuids"
       ],
-      "a": "inv2004",
-      "d": "Coinbase pro client for Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:29Z",
+  "generatedAt": "2026-05-26T00:46:23Z",
   "allDeps": {
     "packages": [
       "decimal > 0.1.0",

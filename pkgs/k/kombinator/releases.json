@@ -20,7 +20,12 @@
         "parsetoml >= 0.5.0",
         "cligen >= 1.2.2",
         "suru >= 0.3.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": [],
+      "e": ""
     },
     {
       "v": "1.3.0@ba6060427b063a0c605bcdf32f5c7972ec052f6c",
@@ -28,7 +33,12 @@
         "parsetoml >= 0.5.0",
         "cligen >= 1.2.2",
         "suru >= 0.3.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": [],
+      "e": ""
     },
     {
       "v": "1.2.0@8db022154abafa8e32992d7af9ecaeb335ded3c5",
@@ -36,7 +46,12 @@
         "parsetoml >= 0.5.0",
         "cligen >= 1.2.2",
         "suru >= 0.3.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": [],
+      "e": ""
     },
     {
       "v": "1.1.0@d91035aea76f3f8f0ac3a4afdf92f20ada7c3349",
@@ -44,7 +59,12 @@
         "parsetoml >= 0.5.0",
         "cligen >= 1.2.2",
         "suru >= 0.3.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": [],
+      "e": ""
     },
     {
       "v": "1.0.2@20df99e137a22afac2056c41f2397287f699de51",
@@ -52,7 +72,12 @@
         "parsetoml >= 0.5.0",
         "cligen >= 1.2.2",
         "suru >= 0.3.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": [],
+      "e": ""
     },
     {
       "v": "1.0.1@ee612d5e08bfa81baf681c29db3062ff47831373",
@@ -60,7 +85,12 @@
         "parsetoml >= 0.5.0",
         "cligen >= 1.2.2",
         "suru >= 0.3.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": [],
+      "e": ""
     },
     {
       "v": "1.0.0@cb470e3641e4c042ed234463cfeb6721a1ef1614",
@@ -68,7 +98,12 @@
         "parsetoml >= 0.5.0",
         "cligen >= 1.2.2",
         "suru >= 0.3.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": [],
+      "e": ""
     },
     {
       "v": "#head@aa79300fff797dd85504115f80489fbda4c30346",
@@ -76,21 +111,11 @@
         "parsetoml >= 0.5.0",
         "cligen >= 1.2.2",
         "suru >= 0.3.0"
-      ],
-      "a": "Arnaud Moura",
-      "d": "Kombinator is a tool to generate commands line from parameters combination from a config file.",
-      "l": "MIT",
-      "s": "src",
-      "b": "bin",
-      "p": [
-        "kombinator"
-      ],
-      "e": "c",
-      "m": "1.4.2"
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:34Z",
+  "generatedAt": "2026-05-26T00:49:38Z",
   "allDeps": {
     "packages": [
       "cligen",

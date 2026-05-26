@@ -19,7 +19,9 @@
         "pixie >= 4.4.0",
         "shell",
         "gh:zetashift/fontim >= 0.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.6.1@ac3920a9c2005d4ea6f2016677a8edfa8ce0cbb3",
@@ -31,7 +33,9 @@
         "pixie >= 4.4.0",
         "shell",
         "gh:zetashift/fontim >= 0.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.6.0@71f2384e15cc8b7e0d59647b2fb735df8cbdf83f",
@@ -43,7 +47,9 @@
         "pixie >= 4.4.0",
         "shell",
         "gh:zetashift/fontim >= 0.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.5.3@569d6aa746962e3de9530505181a09c5f2851837",
@@ -55,7 +61,9 @@
         "pixie >= 4.4.0",
         "shell",
         "gh:zetashift/fontim >= 0.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.5.2@76bee329c7b46bc0de3f27cf27d7d7ba656baf59",
@@ -67,7 +75,9 @@
         "pixie >= 4.4.0",
         "shell",
         "gh:zetashift/fontim >= 0.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.5.1@0fb037a60df6e1c634dc85e2b75413664bf80ead",
@@ -79,7 +89,9 @@
         "pixie >= 4.4.0",
         "shell",
         "gh:zetashift/fontim >= 0.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.5.0@adfd9ad178f1016b13f8794cd4015d5ac6e42669",
@@ -91,7 +103,9 @@
         "pixie >= 4.4.0",
         "shell",
         "gh:zetashift/fontim >= 0.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.4.3@558941973f8234e49d1a6d3142f98e43816a022b",
@@ -103,7 +117,9 @@
         "pixie >= 4.4.0",
         "shell",
         "gh:zetashift/fontim >= 0.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.4.2@9ccf6d9667395bd9dcb8df1a040646370a64b359",
@@ -115,7 +131,9 @@
         "pixie >= 4.4.0",
         "shell",
         "gh:zetashift/fontim >= 0.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.4.1@2104f8d3eb3ca056b6d43c79b1865bc41cbffc07",
@@ -127,7 +145,9 @@
         "pixie >= 4.4.0",
         "shell",
         "gh:zetashift/fontim >= 0.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.4.0@92daf4b6374605ad1f93e2f0c52ac4fb2b317632",
@@ -139,7 +159,9 @@
         "pixie >= 4.4.0",
         "shell",
         "gh:zetashift/fontim >= 0.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.13@ca471eaea4393bfd65e1b04e20c0e9b4873d366f",
@@ -151,7 +173,9 @@
         "pixie >= 4.4.0",
         "shell",
         "gh:zetashift/fontim >= 0.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.12@2443e4cb3bbd3fe897c1427cfd3c33d06ac1f231",
@@ -161,7 +185,9 @@
         "cairo >= 1.1.1",
         "latexdsl >= 0.1.5",
         "shell"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.11@4bc59e5b6e86b359b849fa307ca332df31ac07a1",
@@ -171,7 +197,9 @@
         "cairo >= 1.1.1",
         "latexdsl >= 0.1.5",
         "shell"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.10@821d5ffa27cfe8e718de7de4edc9c2e262fd4e33",
@@ -181,7 +209,9 @@
         "cairo >= 1.1.1",
         "latexdsl >= 0.1.5",
         "shell"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.9@6f89dc9a4cf5dcb7c9a1b237af003dbbc7a8a1cb",
@@ -191,7 +221,9 @@
         "cairo >= 1.1.1",
         "latexdsl >= 0.1.5",
         "shell"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.8@bc2f5f93aa381b9f791205dfaf92d78f4c5a9016",
@@ -201,7 +233,9 @@
         "cairo >= 1.1.1",
         "latexdsl >= 0.1.5",
         "shell"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.7@d950d7286fe3771ce5b72cc0d5651832551665d5",
@@ -211,7 +245,9 @@
         "cairo >= 1.1.1",
         "latexdsl >= 0.1.5",
         "shell"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.6@1736eb94c87d28a38ee9df4e0ebf9cc52189d8c8",
@@ -221,7 +257,9 @@
         "cairo >= 1.1.1",
         "latexdsl >= 0.1.5",
         "shell"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.5@3282e9f21fa41ed0af62f3cc4a496a1dfae01986",
@@ -231,7 +269,9 @@
         "cairo >= 1.1.1",
         "latexdsl >= 0.1.5",
         "shell"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.4@c37436443dc65b69d7b1de002ed975d7f4dcff45",
@@ -241,7 +281,9 @@
         "cairo >= 1.1.1",
         "latexdsl >= 0.1.5",
         "shell"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.3@bcf2646672f14f504997308f71f647b9c8a61fc1",
@@ -251,7 +293,9 @@
         "cairo >= 1.1.1",
         "latexdsl >= 0.1.5",
         "shell"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.2@7696ef28a1b8800565c440fecb702b1211fe228b",
@@ -261,7 +305,9 @@
         "cairo >= 1.1.1",
         "latexdsl >= 0.1.5",
         "shell"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.1@16c0c6c875f32ece0f9ccfa149d021a4085607a8",
@@ -271,7 +317,9 @@
         "cairo >= 1.1.1",
         "latexdsl >= 0.1.5",
         "shell"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.0@bd8bcafc985b6875a3bbee56a7f1ad7529f2a4a5",
@@ -281,7 +329,9 @@
         "cairo >= 1.1.1",
         "latexdsl >= 0.1.4",
         "shell"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.12@68cd05808a537f95346e1148385ba6365c3024aa",
@@ -289,7 +339,9 @@
         "chroma >= 0.1.0",
         "gh:Vindaar/seqmath >= 0.1.7",
         "cairo >= 1.1.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.11@c3b5f1bcd44980d852dc946f4630a7f4f8ef2345",
@@ -297,7 +349,9 @@
         "chroma >= 0.1.0",
         "gh:Vindaar/seqmath >= 0.1.7",
         "cairo >= 1.1.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.10@c7a2bb69bbf3cd8e29e9b2eb69df762b1ec612f0",
@@ -305,7 +359,9 @@
         "chroma >= 0.1.0",
         "gh:Vindaar/seqmath >= 0.1.7",
         "cairo >= 1.1.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.8@db6d5f6b15542b125c839c16755b9f667719551f",
@@ -313,7 +369,9 @@
         "chroma >= 0.1.0",
         "gh:Vindaar/seqmath >= 0.1.7",
         "cairo >= 1.1.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.7@e36771d17e7edec6cfc9176120561038a176ca73",
@@ -321,7 +379,9 @@
         "chroma >= 0.1.0",
         "gh:vindaar/seqmath >= 0.1.7",
         "cairo >= 1.1.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.6@43c40d9fcd5072c14dc24bf2ff0709fda1a4773a",
@@ -329,7 +389,9 @@
         "chroma >= 0.1.0",
         "gh:vindaar/seqmath >= 0.1.7",
         "cairo >= 1.1.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.4@6fd7be58c7e4542c8feaaa4e63bc8b4791427b72",
@@ -337,7 +399,9 @@
         "chroma >= 0.1.0",
         "gh:vindaar/seqmath >= 0.1.7",
         "cairo"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.3@c7ce718b47e473047b46721526272d1132bc6293",
@@ -345,7 +409,9 @@
         "chroma >= 0.1.0",
         "gh:vindaar/seqmath >= 0.1.7",
         "cairo"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.2@b25e47547644d273da86c62d1f36d077f90a630c",
@@ -353,7 +419,9 @@
         "chroma >= 0.1.0",
         "gh:vindaar/seqmath >= 0.1.7",
         "cairo"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.1@cd0a6412ada26b503ed80393b0558809fdc76fc5",
@@ -361,7 +429,9 @@
         "chroma >= 0.1.0",
         "gh:vindaar/seqmath >= 0.1.7",
         "cairo"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@ae5677012513fa48abf2c0579ffb79ab1195a28e",
@@ -369,7 +439,9 @@
         "chroma >= 0.1.0",
         "gh:vindaar/seqmath >= 0.1.7",
         "cairo"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.17@a75780a3905be12853b3ca455f0fde1f6a1ea2c3",
@@ -377,7 +449,9 @@
         "chroma >= 0.1.0",
         "gh:vindaar/seqmath >= 0.1.7",
         "cairo"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.16@9f9abad5a53690ab5848ec5f74e815f7739aefec",
@@ -385,7 +459,9 @@
         "chroma >= 0.1.0",
         "gh:vindaar/seqmath >= 0.1.7",
         "cairo"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.15@be0fd57c16cdb3117b4d155e294ab0a2bcb9b01f",
@@ -393,7 +469,9 @@
         "chroma >= 0.1.0",
         "gh:vindaar/seqmath >= 0.1.7",
         "cairo"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.14@6fc2ace6b2e0ae6130c15039fc901ae5be5b1fcc",
@@ -401,7 +479,9 @@
         "chroma >= 0.1.0",
         "gh:vindaar/seqmath >= 0.1.7",
         "cairo"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.13@7a77fabd991d6f8c890dcef0b8531766cee9ac15",
@@ -409,7 +489,9 @@
         "chroma >= 0.1.0",
         "gh:vindaar/seqmath >= 0.1.7",
         "cairo"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.12@cb5fc47fad1d794b4a1b3e89cf53485649c7eecd",
@@ -417,7 +499,9 @@
         "chroma >= 0.1.0",
         "gh:vindaar/seqmath >= 0.1.7",
         "cairo"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.11@6d1bfae9618b1e3811941c938f7fa260b29f5239",
@@ -425,7 +509,9 @@
         "chroma >= 0.1.0",
         "gh:vindaar/seqmath >= 0.1.7",
         "cairo"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.10@c08be20707a7d15f251a1700205d9101522ed389",
@@ -433,7 +519,9 @@
         "chroma >= 0.1.0",
         "gh:vindaar/seqmath >= 0.1.3",
         "cairo"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.9@ce6d1d7ec7d82bb2374c631ba1cc43065600b174",
@@ -441,7 +529,9 @@
         "chroma >= 0.1.0",
         "gh:vindaar/seqmath >= 0.1.3",
         "cairo"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.8@1a37bfbef9d1f2fb2402dd890c8e7f9463a77dcf",
@@ -449,7 +539,9 @@
         "chroma >= 0.1.0",
         "gh:vindaar/seqmath >= 0.1.3",
         "cairo"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.7@bd481c187cc752b2ba8782fe3d8f3935e51b92a7",
@@ -457,7 +549,9 @@
         "chroma >= 0.1.0",
         "gh:vindaar/seqmath >= 0.1.3",
         "cairo"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.6@0caf1fcbeb3cb5509e06c6b40587346bffd5f45e",
@@ -465,7 +559,9 @@
         "chroma >= 0.1.0",
         "gh:vindaar/seqmath >= 0.1.3",
         "cairo"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.5@5d441d1acc805ce03d6ed557654b505537e99b6d",
@@ -473,7 +569,9 @@
         "chroma >= 0.1.0",
         "gh:vindaar/seqmath >= 0.1.3",
         "cairo"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.4@be999e1c4923991dfd4171947071f9c456bb7a77",
@@ -481,7 +579,9 @@
         "chroma >= 0.1.0",
         "gh:vindaar/seqmath >= 0.1.3",
         "cairo"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.3@4991eaea87f21f88774a92bbde83fbe97ca9b621",
@@ -489,7 +589,9 @@
         "chroma >= 0.1.0",
         "gh:vindaar/seqmath >= 0.1.3",
         "cairo"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.2@c89f0c7357ac5412a306179f45659387ba8829f7",
@@ -497,7 +599,9 @@
         "chroma #head",
         "gh:vindaar/seqmath >= 0.1.3",
         "cairo"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@12f1668786ebe18f56336312fb7e0cfb5f658186",
@@ -505,7 +609,9 @@
         "chroma #head",
         "gh:vindaar/seqmath #head",
         "cairo"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@55abbfb73c57dab0be5428ce0b0803d755803e96",
@@ -517,11 +623,13 @@
         "pixie >= 4.4.0",
         "shell",
         "gh:zetashift/fontim >= 0.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:17Z",
+  "generatedAt": "2026-05-26T00:48:19Z",
   "allDeps": {
     "packages": [
       "arraymancer > 0.2.12",

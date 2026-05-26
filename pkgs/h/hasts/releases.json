@@ -13,48 +13,53 @@
       "v": "0.1.6@dc970e9bf5c538ebabb4476c3d6b07e09925d4b9",
       "r": [
         "hmisc >= 0.9.15"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.5@420164551aa9a15ec22df8b6484808b4b32ad65c",
       "r": [
         "hmisc >= 0.9.15"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.4@365e172862f9b5c4fa4a1b2537af56dceb624ef2",
       "r": [
         "hmisc >= 0.9.15"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.3@2c72df03b20147e4d52f94b828fcd1a13f2abb40",
       "r": [
         "hmisc >= 0.8.0"
       ],
-      "m": "1.2.4"
+      "m": "1.2.4",
+      "s": ""
     },
     {
       "v": "0.1.1@7f0127da7548a1d4a0c3778bb9c3afb98ffc8c75",
       "r": [
         "hmisc"
       ],
-      "m": "1.2.4"
+      "m": "1.2.4",
+      "s": ""
     },
     {
       "v": "#head@e526a3b4f0b95285dea3435576d59a547d8b6289",
       "r": [
         "hmisc >= 0.9.15"
       ],
-      "a": "haxscramper",
-      "d": "AST for various markup languages",
-      "l": "Apache-2.0",
-      "s": "src",
-      "m": "1.4.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:37Z",
+  "generatedAt": "2026-05-26T00:48:40Z",
   "allDeps": {
     "packages": [
       "benchy",

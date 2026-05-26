@@ -35,7 +35,8 @@
         "error://ffi"
       ],
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nwaku.waku-org.github.com-f757a8eb-waku.nimble\ncannot resolve package name: ffi"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nwaku.waku-org.github.com-f757a8eb-waku.nimble\ncannot resolve package name: ffi",
+      "m": "~"
     },
     {
       "v": "0.38.0@4d314b376d95e210e938894027bb9267e834e81d",
@@ -64,7 +65,8 @@
         "error://ffi"
       ],
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nwaku.waku-org.github.com-4d314b37-waku.nimble\ncannot resolve package name: ffi"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nwaku.waku-org.github.com-4d314b37-waku.nimble\ncannot resolve package name: ffi",
+      "m": "~"
     },
     {
       "v": "0.37.4@79bc9fd421d0c0de12cf2a9f87a3a77e5b4f5feb",
@@ -88,7 +90,8 @@
         "results",
         "db_connector",
         "minilru"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.37.3@f3852c3a439353d74f3b7175fe3347e4f5aecd32",
@@ -112,7 +115,8 @@
         "results",
         "db_connector",
         "minilru"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.37.2@b8a97fc4e7c528dc30d2505dc420edb0eddba593",
@@ -136,7 +140,8 @@
         "results",
         "db_connector",
         "minilru"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.37.1@d1c830f35d517881e46556c1163b51aa540b8592",
@@ -160,7 +165,8 @@
         "results",
         "db_connector",
         "minilru"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.37.1@e049cb1562b1182b9305890670fd8541827a986e",
@@ -184,7 +190,8 @@
         "results",
         "db_connector",
         "minilru"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.37.0@1dcd12b2518808d036e2858704c2f843cff53b58",
@@ -208,7 +215,8 @@
         "results",
         "db_connector",
         "minilru"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.36.0@ddf454163e9876983662bb0c57df8e4008681a23",
@@ -231,7 +239,8 @@
         "db_connector",
         "minilru",
         "quic"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.35.1@2c37c2dabcac1d61f609dd67f30b65170cfbb740",
@@ -823,14 +832,11 @@
         "lsquic",
         "gh:vacp2p/nim-jwt #057ec95eb5af0eea9c49bfe9025b3312c95dc5f2"
       ],
-      "a": "Status Research & Development GmbH",
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "l": "MIT or Apache License 2.0",
-      "m": "2.2.4"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T22:08:13Z",
+  "generatedAt": "2026-05-26T00:56:45Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

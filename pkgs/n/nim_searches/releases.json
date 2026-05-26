@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@ed4c845262c2ae03e83033d2abcad95512e32866",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@915bae8bb207e9e4a530dfa0c5d10c25a25cf05f",
       "r": [],
-      "a": "nnahito",
-      "d": "search algorithms",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:23Z",
+  "generatedAt": "2026-05-26T00:51:25Z",
   "allDeps": {
     "packages": [],
     "urls": [],

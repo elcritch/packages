@@ -26,7 +26,11 @@
         "nimcrypto 0.5.4",
         "regex 0.19.0",
         "uuids 0.1.11"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.1.0@0824aa21683f751cec1639cd402a777f888986b3",
@@ -39,7 +43,11 @@
         "nimcrypto 0.4.11",
         "regex 0.13.0",
         "uuids 0.1.10"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@100896e29539c735fcde1e4baebf5dd6c57691a3",
@@ -53,21 +61,14 @@
         "regex 0.20.0",
         "uuids 0.1.11"
       ],
-      "a": "Jason Jones",
-      "d": "Dynamic site generator",
-      "l": "MIT",
-      "s": "src",
-      "k": [
-        "nim"
-      ],
-      "p": [
-        "gerbil"
-      ],
-      "m": "1.6.10"
+      "m": "1.6.10",
+      "s": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:12Z",
+  "generatedAt": "2026-05-26T00:48:12Z",
   "allDeps": {
     "packages": [
       "argparse",

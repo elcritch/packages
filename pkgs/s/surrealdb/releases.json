@@ -18,7 +18,10 @@
         "ws",
         "asynctest >= 0.5.2 & < 0.6.0",
         "dotenv >= 2.0.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@7b2ecabfd84c3c2e2e94b60a2a986d0dad4eab3c",
@@ -28,18 +31,13 @@
         "asynctest >= 0.5.2 & < 0.6.0",
         "dotenv >= 2.0.0"
       ],
-      "a": "Xkonti",
-      "d": "SurrealDB driver for Nim",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "surrealdb"
-      ],
-      "m": "2.0.0"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:29Z",
+  "generatedAt": "2026-05-26T00:55:29Z",
   "allDeps": {
     "packages": [
       "asynctest",

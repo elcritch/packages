@@ -10,20 +10,18 @@
   "releases": [
     {
       "v": "0.1.0@ecf06062a77b901d50ae5d3784b2c068d65690b1",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "#head@d60a96be1a9366d7dbb0b65223f153ff2743d184",
       "r": [],
-      "a": "Samantha Marshall",
-      "d": "wrapper around libplist https://github.com/libimobiledevice/libplist",
-      "l": "MIT",
       "s": "src/",
-      "m": "0.16.0"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:49Z",
+  "generatedAt": "2026-05-26T00:49:52Z",
   "allDeps": {
     "packages": [],
     "urls": [],

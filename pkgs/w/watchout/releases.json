@@ -14,27 +14,28 @@
       "r": [
         "httpx",
         "websocketx"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@e04f9a50eaf33bf23eb15d81ca81b30edf0b6ea6",
       "r": [
         "httpx",
         "websocketx"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@e2679ff126450019e15d985b92a479baddb180dc",
       "r": [],
-      "a": "George Lemon",
-      "d": "A stupid simple filesystem monitor",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "2.0.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:42Z",
+  "generatedAt": "2026-05-26T00:56:38Z",
   "allDeps": {
     "packages": [
       "httpx",

@@ -13,40 +13,45 @@
       "v": "0.5.0@0599557cb963e8ad3b9abd7ebc155dbcf072083f",
       "r": [
         "stew"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.5.1@ce69ca11ac43e50adc2f24f86e9182b7f8bb320f",
       "r": [
         "stew"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.5.2@a65201c7df79c376abacbfb1fe92201351fab258",
       "r": [
         "stew"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.5.3@d4d2f911198d3e4b957f615451b16b8988e7edc7",
       "r": [
         "stew"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@ba0c891a2ff7ab43496e13b95b2ee99d52cdd0df",
       "r": [
         "stew"
       ],
-      "a": "inv2004",
-      "d": "LDAP client bindings",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.8"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:55Z",
+  "generatedAt": "2026-05-26T00:51:57Z",
   "allDeps": {
     "packages": [
       "results",

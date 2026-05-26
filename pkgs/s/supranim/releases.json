@@ -21,7 +21,9 @@
         "ozark #head",
         "threading",
         "mimedb #head"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@2c5fde856aa81417d8a3c538f00f517607cc58e8",
@@ -36,15 +38,12 @@
         "threading",
         "mimedb #head"
       ],
-      "a": "OpenPeeps",
-      "d": "A full-featured web framework for Nim",
-      "l": "LGPL-3.0-or-later",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:28Z",
+  "generatedAt": "2026-05-26T00:55:29Z",
   "allDeps": {
     "packages": [
       "ansiparse",

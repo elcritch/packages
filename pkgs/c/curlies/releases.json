@@ -15,7 +15,9 @@
         "micros >= 0.1.13",
         "ast_pattern_matching",
         "fungus"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@7a665b630eabcb23c6dcee1b697277ded1361835",
@@ -23,11 +25,13 @@
         "micros >= 0.1.13",
         "ast_pattern_matching",
         "fungus"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:47Z",
+  "generatedAt": "2026-05-26T00:46:41Z",
   "allDeps": {
     "packages": [
       "ast_pattern_matching",

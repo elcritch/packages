@@ -11,34 +11,39 @@
   "releases": [
     {
       "v": "0.1.0@9fce349430d032d65218d86ee59cc88b29dc93a8",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@e54f9bcedcd0df6433622702a38b5dea9edfa7e5",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@177a1e6d138f4c16dd639d815db655df32ff3564",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.1@2f7befa045c90be75c8023476efe1ed9ad7eebad",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@c3a8b1b41cb9b6311ab117f80a1c31710540f74d",
       "r": [
         "regex >= 0.23.0"
       ],
-      "a": "lamartire",
-      "d": "Convert strings to any case",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:58Z",
+  "generatedAt": "2026-05-26T00:44:48Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

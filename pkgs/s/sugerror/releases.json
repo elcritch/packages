@@ -13,14 +13,11 @@
     },
     {
       "v": "#head@14c5a2ad13bebc3ea0a57958d7cb59a0055b21d6",
-      "r": [],
-      "a": "Eli Maynard",
-      "d": "Terse and composable error handling.",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:25Z",
+  "generatedAt": "2026-05-26T00:55:25Z",
   "allDeps": {
     "packages": [],
     "urls": [],

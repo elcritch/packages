@@ -11,24 +11,25 @@
   "releases": [
     {
       "v": "0.1.1@b42ad791a08a273945a7a0be92650cc5357198c3",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@5cc6ca606db2e3650874ed26182cbfc9e100f4c2",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@9567652bc7f1c50a7b62584b033f90566cf779dd",
       "r": [],
-      "a": "Tangdongle",
-      "d": "An implementation of the observer pattern",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.18.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:00Z",
+  "generatedAt": "2026-05-26T00:52:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

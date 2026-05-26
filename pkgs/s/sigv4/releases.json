@@ -92,31 +92,36 @@
       "v": "1.0.9@236f559eaf3828c9027419fa359bb05e7cc51f24",
       "r": [
         "nimSHA2 < 1.0.0"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "1.0.8@402f8fe7200e9aadf4693c4dd2dc7ef1aeb3632d",
       "r": [
         "nimSHA2"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "1.0.7@e4121cce9fede56065b519e14c4f28e3f6e0cd9a",
       "r": [
         "gh:disruptek/nimcrypto #tinycc"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "1.0.6@a67906c97c8d35b8e1d8528c4c385934dfec1bc7",
       "r": [
         "gh:disruptek/nimcrypto #tinycc"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "1.0.5@5938ce0447aba3b5f58329ec1cfcaa5a4c3f9dd1",
       "r": [
         "nimcrypto >= 0.4.0"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "1.0.4@d2f65d1a72b933f9d9795fda684f725aec5d1ed1",
@@ -159,13 +164,11 @@
         "nimcrypto >= 0.5.4 & < 1.0.0",
         "nimSHA2 < 1.0.0"
       ],
-      "a": "disruptek",
-      "d": "Amazon Web Services Signature Version 4",
-      "l": "MIT"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:47Z",
+  "generatedAt": "2026-05-26T00:54:49Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

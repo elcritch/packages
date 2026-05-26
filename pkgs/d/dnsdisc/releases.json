@@ -20,7 +20,8 @@
         "testutils",
         "unittest2",
         "nimcrypto"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.1.1@6cb1b7e3922645275043c68e476cac1501a45e55^",
@@ -56,7 +57,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:08Z",
+  "generatedAt": "2026-05-26T00:47:01Z",
   "allDeps": {
     "packages": [
       "bearssl",

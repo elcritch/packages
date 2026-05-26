@@ -11,29 +11,31 @@
   "releases": [
     {
       "v": "0.1.0@cabe575a175a4bd17dd771e80c1d1f6227da075a",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@b1dc9f3b42db8417f9c25f187e2d96b0af640f75",
       "r": [
         "nimsimd"
       ],
-      "d": "Tiny parsers and serializers for JSON, CSV, RSS, Atom feeds and more"
+      "d": "Tiny parsers and serializers for JSON, CSV, RSS, Atom feeds and more",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@2813021e39925d3b97c999bc31e8974ab70f092c",
       "r": [
         "nimsimd"
       ],
-      "a": "George Lemon",
       "d": "Tiny parsers and serializers for JSON, CSV, RSS, Atom feeds and more",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:02Z",
+  "generatedAt": "2026-05-26T00:53:07Z",
   "allDeps": {
     "packages": [
       "nimsimd > 0.1.0"

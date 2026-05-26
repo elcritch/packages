@@ -13,7 +13,9 @@
       "v": "3.5.0@a4fa4d3c26afa8b52cd23a6919e3e0c81fb63096",
       "r": [
         "gh:thisago/findxml"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "3.7.0@13a97ba38dcc3fab3a24049e21ab51f449afdea8",
@@ -21,7 +23,9 @@
         "gh:thisago/findxml",
         "scraper",
         "util"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "3.7.1@eaf26e648c9823d1bbf7d118e4e1db9e981eb9c3",
@@ -29,7 +33,9 @@
         "gh:thisago/findxml",
         "scraper",
         "util"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "3.7.2@985e64c33315e7433ceca09940fcd7a41cef4be5",
@@ -37,7 +43,9 @@
         "gh:thisago/findxml",
         "scraper",
         "util"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "3.7.3@07126e37a6fe3899d0c43cdba0ff68b15550e04b",
@@ -45,7 +53,9 @@
         "gh:thisago/findxml",
         "scraper",
         "util"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "3.7.4@d63bccea030af26504a68f7e8655770f8a5d9b7d",
@@ -53,7 +63,9 @@
         "gh:thisago/findxml",
         "scraper",
         "util"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "3.7.5@ffa38076ed5b77b17bcfc038e971dcb9bded30ba^",
@@ -62,7 +74,9 @@
         "gh:thisago/findxml",
         "scraper",
         "util"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@ffa38076ed5b77b17bcfc038e971dcb9bded30ba",
@@ -71,11 +85,13 @@
         "gh:thisago/findxml",
         "scraper",
         "util"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:13Z",
+  "generatedAt": "2026-05-26T00:48:13Z",
   "allDeps": {
     "packages": [
       "nimquery > 3.7.4",

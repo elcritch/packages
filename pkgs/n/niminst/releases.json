@@ -13,15 +13,11 @@
     },
     {
       "v": "#head@b30ea9685f34fce3d827f9fe016a14cb47f405ef",
-      "n": "niminst",
-      "r": [],
-      "a": "Andreas Rumpf",
-      "d": "Tool to generate installers for Nim",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:51Z",
+  "generatedAt": "2026-05-26T00:51:52Z",
   "allDeps": {
     "packages": [],
     "urls": [],

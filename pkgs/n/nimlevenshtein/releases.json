@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@54c45351372ab13e1b5a53b6f144fcc34b0faa3b",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@6f062eeca4609039a0bdf0e8d2ebb44280872af3",
       "r": [],
-      "a": "Oskari Timperi",
-      "d": "A wrapper for algorithms from python-Levenshtein package.",
-      "l": "GPL-2.0",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:56Z",
+  "generatedAt": "2026-05-26T00:51:58Z",
   "allDeps": {
     "packages": [],
     "urls": [],

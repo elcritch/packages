@@ -18,7 +18,11 @@
       "r": [
         "kapsis",
         "httpbeast >= 0.4.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "#head@3823078f89ae7437a75ca5bd618c56b9964c648b",
@@ -28,19 +32,15 @@
         "httpx",
         "kapsis"
       ],
-      "a": "George Lemon",
       "d": "Local webserver for Design Prototyping and Front-end Development",
-      "l": "MIT",
-      "s": "src",
-      "b": "bin",
-      "p": [
-        "madam"
-      ],
-      "m": "1.6.0"
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:14Z",
+  "generatedAt": "2026-05-26T00:50:18Z",
   "allDeps": {
     "packages": [
       "ansiparse",

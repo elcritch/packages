@@ -19,28 +19,25 @@
       "v": "0.1.0@02d633d64d11ca92440d288d6a0c98e27223ee65",
       "r": [
         "tempfile"
-      ]
+      ],
+      "s": "",
+      "b": "",
+      "z": [],
+      "p": []
     },
     {
       "v": "#head@4e8f613b15aa1450f2f30f2836cae50bbf74667e",
       "r": [
         "tempfile"
       ],
-      "a": "Lee Braiden <leebraid@gmail.com>",
-      "d": "Runs nim code as scripts, regardless of file extension",
-      "l": "MIT",
-      "s": "src",
-      "b": "bin",
-      "z": [
-        "nim"
-      ],
-      "p": [
-        "nimrun"
-      ]
+      "s": "",
+      "b": "",
+      "z": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:12Z",
+  "generatedAt": "2026-05-26T00:52:15Z",
   "allDeps": {
     "packages": [
       "tempfile"

@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@4395eac1fadb92c0e66ef2a54be81344e22a55fb",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@df2ac211bb9593081f58a1649aba71f30175517f",
       "r": [],
-      "a": "Sqids",
-      "d": "Official Nim port of Sqids. Generate short YouTube-looking IDs from numbers.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:09Z",
+  "generatedAt": "2026-05-26T00:55:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

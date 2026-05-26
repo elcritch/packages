@@ -16,7 +16,9 @@
         "windy >= 0.0.1",
         "pixie >= 5.0.0",
         "vmath >= 2.0.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@cc37e9c68f229a9ef2f5df048f6b5acc414ecdb4",
@@ -25,11 +27,13 @@
         "windy >= 0.0.1",
         "pixie >= 5.0.0",
         "vmath >= 2.0.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:55Z",
+  "generatedAt": "2026-05-26T00:53:00Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

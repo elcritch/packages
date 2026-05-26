@@ -25,7 +25,10 @@
         "unittest2",
         "chronicles >= 0.11.0",
         "gh:vacp2p/nim-boringssl >= 0.0.4"
-      ]
+      ],
+      "m": "~",
+      "i": [],
+      "j": []
     },
     {
       "v": "0.4.1@00e4b7dfaa197cd120267aa897b33b0914166b45",
@@ -37,7 +40,10 @@
         "unittest2",
         "chronicles >= 0.11.0",
         "gh:vacp2p/nim-boringssl >= 0.0.4"
-      ]
+      ],
+      "m": "~",
+      "i": [],
+      "j": []
     },
     {
       "v": "0.4.0@0b9ee1f915963ab8384c701fda3c49a116b6f5fa",
@@ -49,7 +55,10 @@
         "unittest2",
         "chronicles >= 0.11.0",
         "gh:vacp2p/nim-boringssl #v0.0.4"
-      ]
+      ],
+      "m": "~",
+      "i": [],
+      "j": []
     },
     {
       "v": "0.3.0@504c8c1574f1fc47d994ed7fc94f17a28d95d579",
@@ -64,7 +73,9 @@
       "j": [
         "lsquic.nim",
         "boringssl.nim"
-      ]
+      ],
+      "m": "~",
+      "i": []
     },
     {
       "v": "0.2.0@6d2bc489d05a0a33636a144d48bd99c707285a42",
@@ -79,7 +90,9 @@
       "j": [
         "lsquic.nim",
         "boringssl.nim"
-      ]
+      ],
+      "m": "~",
+      "i": []
     },
     {
       "v": "0.1.0@a776eced48d1f3c630d8f3a8a3e976171dd1f9c1",
@@ -94,7 +107,9 @@
       "j": [
         "lsquic.nim",
         "boringssl.nim"
-      ]
+      ],
+      "m": "~",
+      "i": []
     },
     {
       "v": "0.0.1@35b130e7b65fe5738e14cce07e2ed0b22dcd7995",
@@ -109,7 +124,9 @@
       "j": [
         "lsquic.nim",
         "boringssl.nim"
-      ]
+      ],
+      "m": "~",
+      "i": []
     },
     {
       "v": "#head@d911ab827dfb9397dcee644ee01295a6de0cd315",
@@ -121,11 +138,14 @@
         "unittest2",
         "chronicles >= 0.11.0",
         "gh:vacp2p/nim-boringssl >= 0.0.4"
-      ]
+      ],
+      "m": "~",
+      "i": [],
+      "j": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:11Z",
+  "generatedAt": "2026-05-26T00:50:15Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

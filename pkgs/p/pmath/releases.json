@@ -11,24 +11,25 @@
   "releases": [
     {
       "v": "0.1.1@a69262404c63b29c09e3b7628b1b6b0da5acc634",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@509bf75da318f4732f5528117fd0f3a37979d03d",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@1dd9f5576e58c3fbd5aa86c7088c388cd02210ac",
       "r": [],
-      "a": "thatrandomperson5",
-      "d": "library that resolves the inaccuracies of normal float math. ",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:34Z",
+  "generatedAt": "2026-05-26T00:53:38Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

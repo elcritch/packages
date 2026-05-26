@@ -13,22 +13,21 @@
       "v": "0.1.0@f10b13e6c40d5d06d57b80182ab504fb0416408b",
       "r": [
         "jsony #head"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@ce734c2f0bf01b4a1f9da8187d466d5db7ea5d4c",
       "r": [
         "jsony #head"
       ],
-      "a": "George Lemon",
-      "d": "A large Database of MIME types",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:31Z",
+  "generatedAt": "2026-05-26T00:50:34Z",
   "allDeps": {
     "packages": [
       "jsony"

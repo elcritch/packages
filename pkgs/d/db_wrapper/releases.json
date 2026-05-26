@@ -24,33 +24,23 @@
   "releases": [
     {
       "v": "0.1.0@257053d5a1d94de404e82624e9dbcb10ceeea422",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "x": [],
+      "y": []
     },
     {
       "v": "#head@6700bf4c9980689e37021cff0b223af4155529fa",
       "r": [],
-      "a": "sivchari",
-      "d": "this libraly able to use database/sql of Go",
-      "l": "MIT",
-      "s": "src",
-      "x": [
-        "database-resource",
-        "db",
-        "docker",
-        "examples",
-        "img",
-        "tests",
-        "testresults"
-      ],
-      "y": [
-        "README.md",
-        "docker-compose.yml"
-      ],
-      "m": "1.0.0"
+      "m": "~",
+      "s": "",
+      "x": [],
+      "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:56Z",
+  "generatedAt": "2026-05-26T00:46:50Z",
   "allDeps": {
     "packages": [],
     "urls": [],

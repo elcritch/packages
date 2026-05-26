@@ -13,22 +13,21 @@
       "v": "0.1.0@179240787e82fb13a8958151cfdd5e39f36d37e9",
       "r": [
         "glm >= 1.1.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@ff314c3fa33085e282c347bf8ded2346f538e843",
       "r": [
         "glm >= 1.1.1"
       ],
-      "a": "liquid600pgm",
-      "d": "Engine-agnostic library for computing 2D raycasted lights",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.4"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:58Z",
+  "generatedAt": "2026-05-26T00:46:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

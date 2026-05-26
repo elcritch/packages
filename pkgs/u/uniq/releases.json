@@ -13,28 +13,29 @@
       "v": "0.2.1@592992cec672de75e2eba1ffa74f1a5fe15e1b24",
       "r": [
         "checksums >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@74c202254009ce0a1a77fd8e008c2fbc0133e285",
       "r": [
         "checksums >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@e50f235b71656331aca227e17f9043ec33abc238",
       "r": [
         "checksums >= 0.1.0"
       ],
-      "a": "akvilary",
-      "d": "RFC 9562 UUID library for Nim — stack-allocated, versions 1-8",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:21Z",
+  "generatedAt": "2026-05-26T00:56:18Z",
   "allDeps": {
     "packages": [
       "checksums"

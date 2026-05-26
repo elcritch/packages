@@ -10,24 +10,22 @@
   "releases": [
     {
       "v": "0.2.1@e446bcc70baa57483a750b216534a96fdf8ef9c2",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "0.2@3280d3dc21c1acc0ad9676163a948b95e3cb59e8",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "#head@c81b088704b09ff08304bbc0211ac9b22e1bb77e",
       "r": [],
-      "a": "Emery Hemingway",
-      "d": "Tiger hash function",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.19.4"
+      "s": "src"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:53Z",
+  "generatedAt": "2026-05-26T00:55:51Z",
   "allDeps": {
     "packages": [],
     "urls": [],

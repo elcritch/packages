@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.2.0@a1928e63080ad286341e0436c4c190656d194cbc",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@f02c2e9b8942bc7e070611dc4fd6f8ce0f54b616",
       "r": [],
-      "a": "Abhishek Verma",
-      "d": "A Nim implementation of HUML (Human-Oriented Markup Language) parser and serializer",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:49Z",
+  "generatedAt": "2026-05-26T00:51:50Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

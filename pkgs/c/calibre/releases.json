@@ -11,29 +11,31 @@
   "releases": [
     {
       "v": "0.1.0@e2336427f4f48f6e7be69484742a4ab9ef752fea",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.2@7e3ca5f34b315f6e957d0fec7407f6d39984b339",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.2@bb70f7ac53d9abc7f536aaf4315126dd91042b67",
       "r": [],
-      "m": "0.19.0"
+      "m": "0.19.0",
+      "s": ""
     },
     {
       "v": "#head@df5a6745907aa406c0876f9448cc4e4e7b5bb5fd",
       "r": [],
-      "a": "Juan Carlos",
-      "d": "Calibre Database Lib for Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.20.0"
+      "m": "0.20.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:01Z",
+  "generatedAt": "2026-05-26T00:45:57Z",
   "allDeps": {
     "packages": [],
     "urls": [],

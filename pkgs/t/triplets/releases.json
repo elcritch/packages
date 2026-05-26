@@ -10,15 +10,18 @@
   "releases": [
     {
       "v": "0.1.1@41b195b3cd256f8c8b4da510caa0997de6875a8f",
-      "r": []
+      "r": [],
+      "s": ""
     },
     {
       "v": "0.1.1@7766537fcfafd8840a4902fe7ed5d3b4480175d8",
-      "r": []
+      "r": [],
+      "s": ""
     },
     {
       "v": "0.1.0@024b14cbe2994c3bd6612bda2cc09ce27241721b",
-      "r": []
+      "r": [],
+      "s": ""
     },
     {
       "v": "0.0.7@a1aba26ebab787aceee571ad585b81cb5403ce47",
@@ -71,16 +74,12 @@
     },
     {
       "v": "#head@cf7bf6c2bde297faaa2cd27b77890a9c8ad5272c",
-      "n": "triplets",
       "r": [],
-      "a": "Ethosa",
-      "d": "The Nim bindings for linksplatform/Data.Triplets.Kernel.",
-      "l": "AGPLv3",
-      "s": "nim/src"
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:10Z",
+  "generatedAt": "2026-05-26T00:56:07Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

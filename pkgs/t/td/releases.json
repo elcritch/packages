@@ -14,23 +14,21 @@
   "releases": [
     {
       "v": "0.1.0@0a6b31f2bdf9985298df40bdfef896318c99093f",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@f94a3b61759105bffae1d30594fd549a9b35b47e",
       "r": [],
-      "a": "Carlo Capocasa",
-      "d": "Task manager for ICS/vdirsyncer",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "td"
-      ],
-      "m": "2.0.0"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:40Z",
+  "generatedAt": "2026-05-26T00:55:40Z",
   "allDeps": {
     "packages": [],
     "urls": [],

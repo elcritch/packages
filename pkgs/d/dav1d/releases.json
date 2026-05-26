@@ -12,21 +12,20 @@
       "v": "0.1.0@92f82edbad31891df95965e577774b31f97579d9",
       "r": [
         "nimterop"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "#head@6fac5771be9cfa3ed4b0b0fde443194ffed1ffd1",
       "r": [
         "gh:capocasa/nimterop #a2af4b6"
       ],
-      "a": "Carlo Capocasa",
-      "d": "Nim wrapper for dav1d, a fast, portable av1 video decoder created by videolan and used by VLC and Netflix",
       "l": "BSD2",
-      "m": "1.4.2"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:51Z",
+  "generatedAt": "2026-05-26T00:46:44Z",
   "allDeps": {
     "packages": [
       "cligen",

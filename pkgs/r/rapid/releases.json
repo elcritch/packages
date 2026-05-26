@@ -15,7 +15,9 @@
         "glm >= 1.1.1",
         "nimterop",
         "nimPNG"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@e9712c8dc35954e950c554e75d1fdd1e7548d664",
@@ -23,17 +25,14 @@
         "aglet >= 0.4.2",
         "error://stbimage >= 2.5"
       ],
-      "a": "iLiquid",
-      "d": "A game engine for rapid development and easy prototyping",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.20.0",
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/r/rapid/.worktree/rapid.nimble\ncannot resolve package name: stbimage"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/r/rapid/.worktree/rapid.nimble\ncannot resolve package name: stbimage",
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:02Z",
+  "generatedAt": "2026-05-26T00:54:07Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

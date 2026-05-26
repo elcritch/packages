@@ -10,7 +10,8 @@
   "releases": [
     {
       "v": "0.1.2@f96b83b7565b50e74f85e7518f285f674d5ff5c5",
-      "r": []
+      "r": [],
+      "s": ""
     },
     {
       "v": "0.1.1@103e4e5b8607aa87fbf090a4126ed136efd8e173",
@@ -28,16 +29,12 @@
     },
     {
       "v": "#head@74ff85bb9d4e05c72cff1e0736ba1edf8cc45961",
-      "n": "nimroutine",
       "r": [],
-      "a": "Roger Shi",
-      "d": "A go routine like nim implementation",
-      "l": "MIT",
-      "s": "src"
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:11Z",
+  "generatedAt": "2026-05-26T00:52:14Z",
   "allDeps": {
     "packages": [],
     "urls": [],

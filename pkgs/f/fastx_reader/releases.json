@@ -18,27 +18,25 @@
   "releases": [
     {
       "v": "0.1.0@b92f65e2e78a094d565dfa7c32ef650940e7c07d",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@9befdfc3ba29460b4b0d344c4544dadda8f27cc3",
       "r": [],
-      "a": "Andreas Hauser",
-      "d": "FastQ and Fasta readers for NIM",
-      "l": "LGPL-3.0",
-      "s": "src",
-      "b": "bin",
-      "k": [
-        "nim"
-      ],
-      "p": [
-        "fastx_reader"
-      ],
-      "m": "0.20.0"
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:37Z",
+  "generatedAt": "2026-05-26T00:47:31Z",
   "allDeps": {
     "packages": [],
     "urls": [],

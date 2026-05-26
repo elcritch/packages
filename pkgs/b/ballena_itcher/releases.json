@@ -14,23 +14,21 @@
   "releases": [
     {
       "v": "0.0.1@1f613afedc1ae6f646ad1919e999660331c197e1",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@c436047fcc865860ba8b34128131c72eb7692dfa",
       "r": [],
-      "a": "Juan Carlos",
-      "d": "Flash ISO images to SD cards & USB drives, safely and easily.",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "ballena_itcher"
-      ],
-      "m": "1.2.0"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:23Z",
+  "generatedAt": "2026-05-26T00:45:15Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

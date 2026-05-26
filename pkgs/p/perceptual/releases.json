@@ -14,7 +14,9 @@
       "r": [
         "chroma >= 0.2.7",
         "pixie >= 5.0.6"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@fb0e2faf2d9c440e21fcec187158cfffe7cf8753",
@@ -22,15 +24,12 @@
         "chroma >= 0.2.7",
         "pixie >= 5.0.6"
       ],
-      "a": "Denis Olshin",
-      "d": "A library for computing and comparing perceptual hashes in Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.12"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:23Z",
+  "generatedAt": "2026-05-26T00:53:27Z",
   "allDeps": {
     "packages": [
       "bumpy",

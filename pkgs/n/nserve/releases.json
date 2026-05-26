@@ -14,11 +14,17 @@
   "releases": [
     {
       "v": "1.0.4@81d30f89e2e5c89301e585c6e5ce442eca5d214a",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "1.0.3@72799ef20035f47069ae33f983ecd7beb7bd65fd",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "1.0.2@7213fefe55ca6df3031e2b5cee6698ff08df6cb1",
@@ -50,18 +56,13 @@
     {
       "v": "#head@36b2e3b37ee6247d042cc69059d8e7764673359b",
       "r": [],
-      "a": "heckarmon",
-      "d": "A lightweight zero-deps, async HTTP file server with uploads",
-      "l": "MIT",
-      "s": ".",
-      "p": [
-        "nserve"
-      ],
-      "m": "2.0.0"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:46Z",
+  "generatedAt": "2026-05-26T00:52:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

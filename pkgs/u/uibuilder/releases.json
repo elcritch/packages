@@ -20,7 +20,10 @@
       "r": [
         "ui >= 0.9.2",
         "xml #devel"
-      ]
+      ],
+      "m": "~",
+      "x": [],
+      "p": []
     },
     {
       "v": "0.1.1@1ec0d7e9c739438a581471c1804a153c0f9831ba",
@@ -28,14 +31,20 @@
         "ui >= 0.9.2",
         "q >= 0.0.6",
         "xml >= 0.1.1"
-      ]
+      ],
+      "m": "~",
+      "x": [],
+      "p": []
     },
     {
       "v": "0.1.0@b62e03700b8f388b6707081640eeca6af5371b2c",
       "r": [
         "ui >= 0.9.2",
         "q >= 0.0.6"
-      ]
+      ],
+      "m": "~",
+      "x": [],
+      "p": []
     },
     {
       "v": "#head@8418698fcb824ab452b7f936d19fe464e6fec714",
@@ -43,21 +52,13 @@
         "ui >= 0.9.2",
         "xml #devel"
       ],
-      "a": "Huy Doan",
-      "d": "UI building with Gnome's Glade",
-      "l": "MIT",
-      "x": [
-        "examples",
-        "tests"
-      ],
-      "p": [
-        "uibuilder"
-      ],
-      "m": "0.18.1"
+      "m": "~",
+      "x": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:16Z",
+  "generatedAt": "2026-05-26T00:56:12Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

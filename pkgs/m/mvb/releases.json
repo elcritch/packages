@@ -14,23 +14,23 @@
       "v": "0.1.0@0e744476feaaa0a6cae180ad3c7956fb1ede7cdd",
       "r": [
         "cppstl"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "e": ""
     },
     {
       "v": "#head@9ca136ca7467d24e6f6834400e8d136c463dd5d8",
       "r": [
         "cppstl"
       ],
-      "a": "Jason Huggins",
-      "d": "Minimum viable bindings for OpenCV",
-      "l": "MIT",
-      "s": "src",
-      "e": "cpp",
-      "m": "1.6.12"
+      "m": "~",
+      "s": "",
+      "e": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:48Z",
+  "generatedAt": "2026-05-26T00:50:49Z",
   "allDeps": {
     "packages": [
       "cppstl"

@@ -11,24 +11,25 @@
   "releases": [
     {
       "v": "0.2.0@fb0088f64f91c4f04860789f3b7a026e4f21818f",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@c53bc08766d877400f6625dd231d5572e6c6dd7e",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@f007c3b42ae93aa757f55c7575e42d1b58e1109f",
       "r": [],
-      "a": "Evan Perry Grove",
-      "d": "Dependency resolution and semantic versioning utils",
-      "l": "BSD-3-Clause",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:11Z",
+  "generatedAt": "2026-05-26T00:54:15Z",
   "allDeps": {
     "packages": [],
     "urls": [],

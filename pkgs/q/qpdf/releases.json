@@ -14,23 +14,21 @@
   "releases": [
     {
       "v": "0.1.0@03ba9fa4c4d40b44d1af2aa6eb9cf72c7575426a",
-      "r": []
+      "r": [],
+      "m": "~",
+      "i": [],
+      "e": ""
     },
     {
       "v": "#head@1c7c06dc777333aa37099086b5c59f47d5267906",
       "r": [],
-      "a": "fox0430",
-      "d": "Nim bindings for qpdf C++ library",
-      "l": "MIT",
-      "i": [
-        "lowlevel"
-      ],
-      "e": "cpp",
-      "m": "2.0.6"
+      "m": "2.0.6",
+      "i": [],
+      "e": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:55Z",
+  "generatedAt": "2026-05-26T00:53:59Z",
   "allDeps": {
     "packages": [],
     "urls": [],

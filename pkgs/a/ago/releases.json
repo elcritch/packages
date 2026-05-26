@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@6b5c18600c3e1228873a78ca9b8d8141261076ee",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@de420118c02fe2ad57f4b7e3d0affdb4e3bc60ee",
       "r": [],
-      "a": "Daehee",
-      "d": "Time ago in words in Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:48Z",
+  "generatedAt": "2026-05-26T00:44:39Z",
   "allDeps": {
     "packages": [],
     "urls": [],

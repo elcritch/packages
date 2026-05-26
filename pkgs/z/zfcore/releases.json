@@ -19,7 +19,8 @@
         "regex >= 0.20.2",
         "checksums"
       ],
-      "s": ""
+      "s": "",
+      "m": "~"
     },
     {
       "v": "1.5.3@13065483e89d3ac5aa92fb4aa1f0499b0567f527",
@@ -31,7 +32,8 @@
         "regex >= 0.20.2",
         "checksums"
       ],
-      "s": ""
+      "s": "",
+      "m": "~"
     },
     {
       "v": "1.5.2@558ef5506e22aa831abc352e2a1f241833bd5f13",
@@ -43,7 +45,8 @@
         "regex >= 0.20.2",
         "checksums"
       ],
-      "s": ""
+      "s": "",
+      "m": "~"
     },
     {
       "v": "1.5.1@184c120f5962010f7a32a3ac0a0cb9870f66a46a",
@@ -54,7 +57,9 @@
         "zip >= 0.3.1",
         "regex >= 0.20.2",
         "checksums"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.5.0@0e7f31399b25f6b8a07574d78e5cb078bb597a3e",
@@ -66,7 +71,8 @@
         "regex >= 0.20.2",
         "checksums"
       ],
-      "s": ""
+      "s": "",
+      "m": "~"
     },
     {
       "v": "1.4.9@8437833e9a45fdf5afde6ff7c2ef3f31e442311b",
@@ -558,14 +564,12 @@
         "regex >= 0.20.2",
         "checksums"
       ],
-      "a": "Amru Rosyada",
-      "d": "High performance asynchttpserver and web framework for nim lang.",
-      "l": "BSD",
-      "m": "2.0.0"
+      "s": "",
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:54:26Z",
+  "generatedAt": "2026-05-26T00:57:24Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

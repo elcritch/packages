@@ -13,23 +13,29 @@
       "v": "0.1.0@5f869d1b7b095f0421c4542d962a053b63c6eb4b",
       "r": [
         "optionsutils >= 1.0.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@7b08b8511011ac49eaff13996137b014df58ef35^",
       "r": [
         "optionsutils >= 1.0.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@7b08b8511011ac49eaff13996137b014df58ef35",
       "r": [
         "optionsutils >= 1.0.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:12Z",
+  "generatedAt": "2026-05-26T00:48:12Z",
   "allDeps": {
     "packages": [
       "optionsutils"

@@ -11,20 +11,20 @@
   "releases": [
     {
       "v": "1.0.0@248c8680d6be2566a20488c2a9903972e65853ed",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@1a50392e5c353488112dd0451fea49a2cc5f0e34",
       "r": [],
-      "a": "Andre von Houck",
       "d": "Cross-platform collection of OS Utilities",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.10"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:30Z",
+  "generatedAt": "2026-05-26T00:48:33Z",
   "allDeps": {
     "packages": [],
     "urls": [],

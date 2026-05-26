@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@cb2d4cdd50c02b541e95111ac3251827ca8a178e",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@21ae10d83baf94017021d500adff5bc2f4c72c8a",
       "r": [],
-      "a": "bung87",
-      "d": "webpage information extractor",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.1.1"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:48Z",
+  "generatedAt": "2026-05-26T00:56:46Z",
   "allDeps": {
     "packages": [],
     "urls": [],

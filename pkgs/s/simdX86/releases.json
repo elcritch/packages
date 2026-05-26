@@ -10,19 +10,17 @@
   "releases": [
     {
       "v": "0.1.0@7f5771679fc9c23d27f3cadad4d494d74e18b73f",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "#head@d8e00afc7c09b09b19643179705448eba6060b3d",
       "r": [],
-      "a": "James C. Osborn",
-      "d": "Wrappers for X86 SIMD intrinsics",
-      "l": "MIT",
-      "m": "0.17.0"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:48Z",
+  "generatedAt": "2026-05-26T00:54:50Z",
   "allDeps": {
     "packages": [],
     "urls": [],

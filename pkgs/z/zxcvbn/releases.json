@@ -15,25 +15,22 @@
       "v": "0.1.0@2c86512ffc2a7a5a5c4e543e2e70820ec74a0f94",
       "r": [
         "testutils"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "#head@d827fdc9968a4f06bba587dc38df2b20399f8cf5",
-      "n": "zxcvbn",
       "r": [
         "testutils"
       ],
-      "a": "Status Research & Development GmbH",
       "d": "Nim bindings for the zxcvbn-c password strength estimator",
-      "l": "Apache License 2.0",
-      "x": [
-        "tests"
-      ],
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:54:30Z",
+  "generatedAt": "2026-05-26T00:57:29Z",
   "allDeps": {
     "packages": [
       "testutils",

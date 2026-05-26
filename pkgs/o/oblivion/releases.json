@@ -13,22 +13,19 @@
   "releases": [
     {
       "v": "0.1.0@ae180ff3102e223fbae86b97a6ebbaa854301b8b",
-      "r": []
+      "r": [],
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@afd0581d7cd7f054ee849e65ab4b026238f23d8c",
       "r": [],
-      "a": "Stefanos Mandalas",
-      "d": "Shell command manager",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "o"
-      ]
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:53Z",
+  "generatedAt": "2026-05-26T00:52:57Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

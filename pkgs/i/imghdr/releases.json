@@ -21,15 +21,11 @@
     },
     {
       "v": "#head@de6463188468b83ddc9b1ec28976bb3fc598e1ee",
-      "n": "imghdr",
-      "r": [],
-      "a": "Adam Chesak",
-      "d": "Library for detecting the format of an image",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:03Z",
+  "generatedAt": "2026-05-26T00:49:06Z",
   "allDeps": {
     "packages": [],
     "urls": [],

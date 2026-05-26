@@ -11,32 +11,37 @@
   "releases": [
     {
       "v": "1.2.1@641c5c028d4bdd6aeac19b17e7b6f15acb063553",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.2.0@e9c329f10676c531a20f09c0286a76f4677d9de0",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.1.0@13e574f2de29fdcee1b922da02dc0fa38867caf1",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.0@410dda94ecb4b2031eaa63fb0426b97734445bc7",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@d39c28806006060f5e4551e2078bd2d7fc2220ad",
       "r": [],
-      "a": "stscoundrel / Sampo Silvennoinen",
-      "d": "Transform latin letters to runes &amp; vice versa",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:14Z",
+  "generatedAt": "2026-05-26T00:54:17Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

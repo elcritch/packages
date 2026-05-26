@@ -13,33 +13,43 @@
       "v": "0.3.0@d2cb58ffc27086507bc62e4b03ba346c61b881f0^",
       "r": [
         "ws"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@b0400fe06869cf268cd811f1658cfde477edd30b",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@bca5ee1bca7f6899ecb7f30cd06611be33613554",
       "r": [],
-      "d": "A new awesome nimble package"
+      "d": "A new awesome nimble package",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@9ea4ded6bb08f41979925a8a18ccf220e67e828f",
       "r": [
         "httpbeast 0.2.1"
       ],
-      "d": "A new awesome nimble package"
+      "d": "A new awesome nimble package",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@d2cb58ffc27086507bc62e4b03ba346c61b881f0",
       "r": [
         "ws"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:00Z",
+  "generatedAt": "2026-05-26T00:51:02Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

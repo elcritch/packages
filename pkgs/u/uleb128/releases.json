@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@9085a7dc7994687153dcee0a2bc22514e960b95c",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@e6d2cd421ea9de2800b815b1629955ca1989fa15",
       "r": [],
-      "a": "bk20x",
-      "d": "uleb128 decode/encode",
-      "l": "MIT",
-      "s": "src",
-      "m": "1"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:17Z",
+  "generatedAt": "2026-05-26T00:56:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

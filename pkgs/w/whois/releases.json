@@ -11,29 +11,29 @@
   "releases": [
     {
       "v": "0.1.0@e0831e7a8dce63d0e98e2211fd30a96d06dae288",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.2@2bdbb39338442269c0b2fd47342387961cb4ac10",
       "r": [
         "kashae"
       ],
-      "m": "1.4.1"
+      "m": "1.4.1",
+      "s": ""
     },
     {
       "v": "#head@9f5f46f845095a23ad466cfc1ae9bef2bfa16451",
       "r": [
         "kashae"
       ],
-      "a": "Thiago Navarro",
-      "d": "A simple and free whois client",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.1"
+      "m": "1.4.1",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:56Z",
+  "generatedAt": "2026-05-26T00:56:53Z",
   "allDeps": {
     "packages": [
       "kashae > 0.1.0",

@@ -13,7 +13,9 @@
   "releases": [
     {
       "v": "0.15.0@78d2ee81ad3277f578d43d4d1837a2a3896ac624",
-      "r": []
+      "r": [],
+      "m": "~",
+      "j": []
     },
     {
       "v": "0.14.0@0634d9ec7e28ef31c0204f79513f3d3b1ec073ab",
@@ -185,17 +187,13 @@
     {
       "v": "#head@492ae9442e5e2c5948df31b6f065b8fa70c01308",
       "r": [],
-      "a": "Casey McMahon",
       "d": "Commandant is a simple to use library for parsing command line arguments. Commandant is ideal for writing terminal applications, with  support for flags, options, subcommands, and custom exit options.",
-      "l": "MIT",
-      "j": [
-        "commandant.nim"
-      ],
-      "m": "1.0.0"
+      "m": "~",
+      "j": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:31Z",
+  "generatedAt": "2026-05-26T00:46:25Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

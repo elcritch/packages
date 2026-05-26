@@ -36,7 +36,13 @@
         "libffi",
         "gccjit",
         "watchout #head"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "x": [],
+      "k": [],
+      "p": []
     },
     {
       "v": "0.1.3@7d430f496c16a6a5347a4124f94d3b56020943b1",
@@ -56,7 +62,13 @@
         "genny >= 0.1.0",
         "htmlparser",
         "httpbeast #head"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "x": [],
+      "k": [],
+      "p": []
     },
     {
       "v": "0.1.2@76b383aa3c1119d8b8999d973acaa94f04cbf567",
@@ -73,7 +85,13 @@
         "nyml",
         "kapsis #head"
       ],
-      "l": "MIT"
+      "l": "MIT",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "x": [],
+      "k": [],
+      "p": []
     },
     {
       "v": "0.1.1@8c54d8d55d72a47992addd713850482674193103",
@@ -94,7 +112,12 @@
       "x": [
         "example",
         "editors"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.1.0@b896d819ecd98a6eb1caff6d541122ca684658f4",
@@ -115,7 +138,12 @@
       "x": [
         "example",
         "editors"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@0f446f81ae850a6cc23ebfd0edc1c3560bc4ccb8",
@@ -130,27 +158,17 @@
         "openparser #head",
         "vancode #head"
       ],
-      "a": "OpenPeeps",
-      "d": "A super fast template engine for cool kids!",
       "l": "LGPL-3.0-or-later",
-      "s": "src",
-      "b": "bin",
-      "x": [
-        "example",
-        "editors",
-        "bindings"
-      ],
-      "k": [
-        "nim"
-      ],
-      "p": [
-        "tim"
-      ],
-      "m": "2.0.0"
+      "m": "~",
+      "s": "",
+      "b": "",
+      "x": [],
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:54Z",
+  "generatedAt": "2026-05-26T00:55:53Z",
   "allDeps": {
     "packages": [
       "ansiparse",

@@ -13,15 +13,11 @@
     },
     {
       "v": "#head@4173625287cc3b7365c0312ee8483841139d1f25",
-      "n": "pari",
-      "r": [],
-      "a": "Lompik",
-      "d": "Pari/Gp C library wrapper for Nim",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:17Z",
+  "generatedAt": "2026-05-26T00:53:21Z",
   "allDeps": {
     "packages": [],
     "urls": [],

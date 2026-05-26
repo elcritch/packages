@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@7ef453955d1d0791cb54e0178b0acc3d6d0a9e76",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@45f927dc682eac90b4d4a740e5b91a9db6f9ed86",
       "r": [],
-      "a": "Kace Cottam",
-      "d": "A library for cleanly creating an object or tuple based on another object or tuple",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.20.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:27Z",
+  "generatedAt": "2026-05-26T00:45:19Z",
   "allDeps": {
     "packages": [],
     "urls": [],

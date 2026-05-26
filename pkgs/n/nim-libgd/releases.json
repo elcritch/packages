@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.0.1@6cdea8dbf610545c61ad2000aa19633c45a6c0b5",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@0ef07cc89746def43d0af1fcca4dd8d6f01f8663",
       "r": [],
-      "a": "Henrique Dias",
-      "d": "Nim Wrapper for LibGD 2.x",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.19.4"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:10Z",
+  "generatedAt": "2026-05-26T00:51:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

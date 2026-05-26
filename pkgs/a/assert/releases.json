@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.2@aa80d10d48231ffc873ccf8ab585b0033cb6f9cb",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@e015185af38a0b9156bf44f1fccfcbf17360d06b",
       "r": [],
-      "a": "alexekdahl",
-      "d": "DbC library for Nim providing precondition and postcondition assertions",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.2.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:04Z",
+  "generatedAt": "2026-05-26T00:44:57Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

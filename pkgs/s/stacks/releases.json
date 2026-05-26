@@ -11,29 +11,31 @@
   "releases": [
     {
       "v": "0.4.2@d199f30e09eabd1a046f398c47833f1575d7392d",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.4.1@4cacaaab15e11a018d77a852134e27c3cfec4952",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.4.0@26cb2c3e8647929a4a3de4c21c642a2df8f8762a",
       "r": [],
-      "m": "0.20.2"
+      "m": "0.20.2",
+      "s": ""
     },
     {
       "v": "#head@3562d2d98c3cb282a9f20e985c83d34a8ec5f2b9",
       "r": [],
-      "a": "Max Skybin",
-      "d": "Pure Nim stack implementation based on sequences.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.2.4"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:13Z",
+  "generatedAt": "2026-05-26T00:55:14Z",
   "allDeps": {
     "packages": [],
     "urls": [],

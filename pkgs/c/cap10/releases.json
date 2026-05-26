@@ -16,32 +16,35 @@
       "v": "0.2.0@92605e3450cac013a4d027f06f6ada19346d4941",
       "r": [
         "gh:crashappsec/nimutils #ec728cf7c1bc0fd19ca203fe3504abbfe127e6bd"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.0.1@23a56a0e68d42dad1c16833c6e2120cdab9fa5d6",
       "r": [
         "gh:crashappsec/nimutils #0dc81b58f5884a0cb7a5c22404362e6c91191f9c"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@ff5eab30d6069f98c850b09688886958b1c9c085",
       "r": [
         "gh:crashappsec/nimutils #de08f11339ccd5d06079747271329b29ca9e27a9"
       ],
-      "a": "John Viega",
-      "d": "A tool to capture and replay command line terminal sessions",
-      "l": "Apache-2.0",
-      "s": "src",
       "p": [
         "cap10",
         "demo"
       ],
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:02Z",
+  "generatedAt": "2026-05-26T00:45:57Z",
   "allDeps": {
     "packages": [],
     "urls": [],

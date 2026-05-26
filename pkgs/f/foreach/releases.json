@@ -10,27 +10,27 @@
   "releases": [
     {
       "v": "1.0.2@bacb1bd04920e2cc0fe01a8893465a4459efa111",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "1.0.1@ee6e11bf6d05fff63d3b1c178029673a3162a65e",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "1.0.0@685dbe6c2b8469ef985168a69c266650583aaac9",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "#head@edae1f2c5b98a00a574b4b24e7b79b42cc8cdc66",
       "r": [],
-      "a": "disruptek",
-      "d": "A sugary for loop with syntax for typechecking loop variables",
-      "l": "MIT",
-      "m": "0.20.0"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:53Z",
+  "generatedAt": "2026-05-26T00:47:52Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -11,20 +11,20 @@
   "releases": [
     {
       "v": "0.1.0@621099d7132eaa57eb3aa6a2577c6b6d6b7bcfa7",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@01ebeee88a4ca4f3f16897b5f9975bdd8098053c",
       "r": [],
-      "a": "Iced Quinn",
       "d": "Various hash computing algorithms for Nim.",
-      "l": "MPL-2",
-      "s": "src",
-      "m": "1.0.4"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:00Z",
+  "generatedAt": "2026-05-26T00:49:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

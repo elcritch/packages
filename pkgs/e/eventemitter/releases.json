@@ -12,21 +12,21 @@
   "releases": [
     {
       "v": "0.1.0@bc9e99c531ab93eea7e48e7d08104de2dceda438",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "e": ""
     },
     {
       "v": "#head@f498d8531afe5f41b1d6dfbbd8ba45eb859510a9",
       "r": [],
-      "a": "al-bimani",
-      "d": "event emitter for nim",
-      "l": "MIT",
-      "s": "src",
-      "e": "cpp",
-      "m": "1.2.0"
+      "m": "~",
+      "s": "",
+      "e": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:31Z",
+  "generatedAt": "2026-05-26T00:47:23Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -13,24 +13,21 @@
   "releases": [
     {
       "v": "0.1.1@48b78aad65d7cb4ef30b03861bea0e95591169e5",
-      "r": []
+      "r": [],
+      "m": "~",
+      "y": []
     },
     {
       "v": "#head@60eb5b694ef82c250a5e8cddfd7a94b2583eed28",
       "r": [
         "httpkit >= 0.1.0"
       ],
-      "a": "Wang Tong",
-      "d": "Library for async programming and communication. This Library uses an event-driven, non-blocking I/O model based on libuv. Furthermore, you can use ``Future`` ``async/await`` in the standard library to construct logical workflow to simplify programming tasks.",
-      "l": "MIT",
-      "y": [
-        "TODO.md"
-      ],
-      "m": "0.17.1"
+      "m": "~",
+      "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:31Z",
+  "generatedAt": "2026-05-26T00:52:36Z",
   "allDeps": {
     "packages": [
       "httpkit"

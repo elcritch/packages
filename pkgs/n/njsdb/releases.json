@@ -14,13 +14,17 @@
       "r": [
         "classes >= 0.3.17",
         "db_connector >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@f90de67cef9133b93cc86ca56bf186ece1e307b9",
       "r": [
         "tiny_sqlite >= 0.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@2d08e20b2ceeed0918aa063cd62c4d2da73f420b",
@@ -28,14 +32,12 @@
         "tiny_sqlite >= 0.2.0"
       ],
       "a": "bung87",
-      "d": "NJSDB - Nim JSON SQLite Database - A simple NoSQL JSON document database",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:28Z",
+  "generatedAt": "2026-05-26T00:52:33Z",
   "allDeps": {
     "packages": [
       "classes <= 0.1.2",

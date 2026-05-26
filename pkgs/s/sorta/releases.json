@@ -11,24 +11,25 @@
   "releases": [
     {
       "v": "0.1.0@fb17dc06c4813a9f150b4de93b62d151f35cfb9f",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@d5c27d704b9ac7640ad1950586cff0a22756d88b",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@be57458b5b075151cbc192a99c2a43e513a6340a",
       "r": [],
-      "a": "narimiran",
-      "d": "Sorted Tables based on B-Trees",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:01Z",
+  "generatedAt": "2026-05-26T00:55:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

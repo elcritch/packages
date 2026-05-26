@@ -16,7 +16,10 @@
   "releases": [
     {
       "v": "0.1.0@cf4b92c9dd457dd86e5309840f0b13d5e9d4bc11",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": [],
+      "y": []
     },
     {
       "v": "#head@fa6b60589b264937cbd372951117106d743a2100",
@@ -28,20 +31,13 @@
         "yaml #189844a72b90ba7ade864f997280809efcb21d0a",
         "nimSHA2"
       ],
-      "a": "Akito <the@akito.ooo>",
-      "d": "NOSTR Protocol implementation.",
-      "l": "GPL-3.0-or-later",
-      "x": [
-        "tasks"
-      ],
-      "y": [
-        "README.md"
-      ],
-      "m": "2.0.0"
+      "m": "~",
+      "x": [],
+      "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:39Z",
+  "generatedAt": "2026-05-26T00:52:44Z",
   "allDeps": {
     "packages": [
       "libcurl",

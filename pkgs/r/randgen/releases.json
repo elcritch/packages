@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@d9d5fe37fda7210d45795460f7f38a57d389e6cc",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@06ab570e89ee93d74840b718d98060f0597dbaba",
       "r": [],
-      "a": "YesDrX",
-      "d": "A random variable generator library for nim-lang.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:00Z",
+  "generatedAt": "2026-05-26T00:54:04Z",
   "allDeps": {
     "packages": [],
     "urls": [],

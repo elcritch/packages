@@ -10,20 +10,17 @@
   "releases": [
     {
       "v": "0.1@b2aa0c77f924ccc7bf2023582b6e9f52836e7d1f",
-      "r": []
+      "r": [],
+      "s": ""
     },
     {
       "v": "#head@d515d0dec6f9c246b0fa236ad1c21738d80c0ddc",
-      "n": "nimrat",
       "r": [],
-      "a": "Jonathan Edwards",
-      "d": "Rational arithmetic module for Nim",
-      "l": "MIT",
-      "s": "src"
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:09Z",
+  "generatedAt": "2026-05-26T00:52:12Z",
   "allDeps": {
     "packages": [],
     "urls": [],

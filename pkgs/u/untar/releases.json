@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@955b98a54bb087d6b0c90d26377f261303425487",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@b49f6ac94974fe11cb3d396a8a9c533824a497a7",
       "r": [],
-      "a": "Dominik Picheta",
-      "d": "Library for decompressing tar.gz files.",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.16.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:24Z",
+  "generatedAt": "2026-05-26T00:56:20Z",
   "allDeps": {
     "packages": [],
     "urls": [],

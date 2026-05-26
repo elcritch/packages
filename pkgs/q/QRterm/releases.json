@@ -17,32 +17,35 @@
       "v": "1.0.1@33302aaffbe6bcd5df173053dac7b589fd221913",
       "r": [
         "QRgen 2.2.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "1.0.0@170dcb6af6d740da34b274db88e2b4ba462722e3",
       "r": [
         "QRgen 2.1.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "#head@e953fbcb6c52c10f70b880c1b0cfdc9033bd06f4",
       "r": [
         "QRgen 2.2.1"
       ],
-      "a": "aruZeta",
-      "d": "A simple QR generator in your terminal.",
-      "l": "MIT",
-      "s": "src",
-      "b": "bin",
-      "p": [
-        "qrterm"
-      ],
-      "m": "1.6.0"
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:39Z",
+  "generatedAt": "2026-05-26T00:44:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

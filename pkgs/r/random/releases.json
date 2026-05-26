@@ -14,29 +14,38 @@
   "releases": [
     {
       "v": "0.5.7@881019662b584c43f2ef5158ff346bf6b6b29f88",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.5.6@775f878ed1f89677e17b0ab28e3498a36f8b7679",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.5.5@68a4bc7987eea387e31f8124a92c4873e145c053",
       "r": [],
       "s": "",
-      "x": []
+      "x": [],
+      "m": "~"
     },
     {
       "v": "0.5.4@3213cc333235ed3578c6de323f459f0a1378671c",
       "r": [],
       "s": "",
-      "x": []
+      "x": [],
+      "m": "~"
     },
     {
       "v": "0.5.3@446bc216d0e8cf3cc5610d0061aceac9334596d2",
       "r": [],
       "s": "",
-      "x": []
+      "x": [],
+      "m": "~"
     },
     {
       "v": "0.5.2@5c8090c03d44347cbcee24dc95700ec23a47dfcc",
@@ -84,20 +93,14 @@
     },
     {
       "v": "#head@4cf3e09857415341d90477d1495a752a11b6f7c2",
-      "n": "random",
       "r": [],
-      "a": "Oleh Prypin",
-      "d": "Pseudo-random number generation library inspired by Python",
-      "l": "MIT",
-      "s": "src",
-      "x": [
-        "test"
-      ],
-      "m": "0.12.0"
+      "m": "~",
+      "s": "",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:00Z",
+  "generatedAt": "2026-05-26T00:54:04Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

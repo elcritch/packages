@@ -18,7 +18,9 @@
         "serialization >= 0.4.9",
         "stew >= 0.4.1",
         "results"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.2.0@fbbdb3490bd1d815f627020d7b4e94e524e05669",
@@ -26,7 +28,9 @@
         "serialization >= 0.4.9",
         "stew >= 0.4.1",
         "results"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.1.0@6133e3046d135b26d0a39ad16729a2c4277d2cd5",
@@ -34,11 +38,12 @@
         "serialization >= 0.4.9",
         "stew >= 0.4.1",
         "results"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "#head@bcda1f6afb6742779d201a572a357d496f99f4a6",
-      "n": "cbor_serialization",
       "r": [
         "serialization >= 0.4.9",
         "stew >= 0.4.1",
@@ -46,18 +51,12 @@
         "results",
         "unittest2"
       ],
-      "a": "Status Research & Development GmbH",
-      "d": "Flexible CBOR serialization not relying on run-time type information",
-      "l": "Apache License 2.0",
-      "x": [
-        "tests",
-        "fuzzer"
-      ],
-      "m": "2.0.0"
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T22:02:58Z",
+  "generatedAt": "2026-05-26T00:46:01Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.3.1@ad9d88a5b5ae6f07a82473ceec33cefd7461438d",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@93be628dc5b387ae235ceec0fef0d1914c5d3500",
       "r": [],
-      "a": "Marc Azar",
-      "d": "A high performance Nim implementation of a Cyclic Polynomial Hash, aka BuzHash, and Rabin-Karp algorithm.",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.19.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:41Z",
+  "generatedAt": "2026-05-26T00:44:33Z",
   "allDeps": {
     "packages": [],
     "urls": [],

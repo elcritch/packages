@@ -13,14 +13,11 @@
     },
     {
       "v": "#head@9cf7502cfb636576f3c49a84ae972ff10c7df5c7",
-      "r": [],
-      "a": "Daniel M. Schaadt",
-      "d": "Calculates astro data for sun and moon such as sun rise, set, dawn etc.",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:26Z",
+  "generatedAt": "2026-05-26T00:55:26Z",
   "allDeps": {
     "packages": [],
     "urls": [],

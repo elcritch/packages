@@ -15,24 +15,23 @@
   "releases": [
     {
       "v": "0.1.0@420012468f142b4eeefe08829a7e1db51d51c246",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "#head@96ca51c6a5e1c2f91ae51e0c110a1da39520858d",
       "r": [],
-      "a": "Janni Adamski",
-      "d": "What_the_fork is a terminal tool that analyses forks of a given github repo to extract changes like bugfixes, new features etc.",
-      "l": "MIT",
-      "s": "src",
-      "b": "bin",
-      "p": [
-        "what_the_fork"
-      ],
-      "m": "2.2.4"
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:53Z",
+  "generatedAt": "2026-05-26T00:56:50Z",
   "allDeps": {
     "packages": [],
     "urls": [],

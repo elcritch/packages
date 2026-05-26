@@ -26,19 +26,34 @@
       "r": [
         "trick >= 0.1.6",
         "riff"
-      ]
+      ],
+      "m": "~",
+      "x": [],
+      "i": [],
+      "k": [],
+      "p": []
     },
     {
       "v": "0.2.1@794b5eea8a5b90a45ead1ad6c50ec12f2fc22fd0",
       "r": [
         "trick >= 0.1.6"
-      ]
+      ],
+      "m": "~",
+      "x": [],
+      "i": [],
+      "k": [],
+      "p": []
     },
     {
       "v": "0.2.0@9a084328391e7e733e147b318b542a7bc9c28235",
       "r": [
         "trick >= 0.1.6"
-      ]
+      ],
+      "m": "~",
+      "x": [],
+      "i": [],
+      "k": [],
+      "p": []
     },
     {
       "v": "0.1.2@0125215d00d3571f2bac60eef0988700aabeffb0",
@@ -64,27 +79,15 @@
         "trick >= 0.1.6",
         "riff"
       ],
-      "a": "exelotl",
-      "d": "Game Boy Advance development library",
-      "l": "zlib",
-      "x": [
-        "examples"
-      ],
-      "i": [
-        "vendor"
-      ],
-      "k": [
-        "nim"
-      ],
-      "p": [
-        "natu",
-        "mmutil"
-      ],
-      "m": "1.4.2"
+      "m": "~",
+      "x": [],
+      "i": [],
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:53Z",
+  "generatedAt": "2026-05-26T00:50:55Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

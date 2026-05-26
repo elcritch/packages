@@ -15,18 +15,20 @@
       "r": [
         "nimgen >= 0.1.4"
       ],
-      "h": true
+      "h": true,
+      "x": []
     },
     {
       "v": "#head@148afad6c531e50d2cd70cfd3c797075441fca22",
       "r": [
         "nimgen >= 0.1.4"
       ],
-      "h": true
+      "h": true,
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:20Z",
+  "generatedAt": "2026-05-26T00:51:22Z",
   "allDeps": {
     "packages": [
       "c2nim",

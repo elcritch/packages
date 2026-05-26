@@ -13,23 +13,29 @@
       "v": "0.1.0@f1f65ebe682eb2c1538370b5fb993dfcba65115a",
       "r": [
         "nimja"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@d1352b45aea89adc836acd37e06ca1b2cf5a8a0b^",
       "r": [
         "nimja"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@d1352b45aea89adc836acd37e06ca1b2cf5a8a0b",
       "r": [
         "nimja"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:54Z",
+  "generatedAt": "2026-05-26T00:47:53Z",
   "allDeps": {
     "packages": [
       "nimja"

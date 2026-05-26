@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@05db35f2522ada8bbaece62574d34210add0ee27",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@7bac0e00944f8085361d9f3ceae5db3be171117d",
       "r": [],
-      "a": "Fabian Keller",
-      "d": "Macro for building OOP class hierarchies based on closure methods.",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.19.9"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:58Z",
+  "generatedAt": "2026-05-26T00:53:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

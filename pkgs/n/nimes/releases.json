@@ -10,28 +10,26 @@
   "releases": [
     {
       "v": "0.1@68bc1b0f32989205618a7511adc8712be6fe0889",
-      "r": []
+      "r": [],
+      "s": ""
     },
     {
       "v": "#head@baefb72c290471f5b487910e1545614b9a3d24b3",
       "r": [
         "sdl2 >= 1.0"
       ],
-      "a": "Dennis Felsing",
-      "d": "NimES: NES Emulator in Nim",
-      "l": "MIT",
-      "s": "src",
       "z": [
         "nim"
       ],
       "p": [
         "nimes"
       ],
-      "m": "0.12.0"
+      "m": "0.12.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:41Z",
+  "generatedAt": "2026-05-26T00:51:42Z",
   "allDeps": {
     "packages": [
       "sdl2"

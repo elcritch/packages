@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@a0b99008adc00c4372cbc5a6369ba9f11fbcde57",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@566b777fccb7204304c0ae5588bb378051e0735d",
       "r": [],
-      "a": "Eric Lee",
-      "d": "Simple Graph Library",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.17.3"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:49Z",
+  "generatedAt": "2026-05-26T00:54:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

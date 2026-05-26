@@ -18,32 +18,28 @@
   "releases": [
     {
       "v": "2.0.0@aff06d5d50bb223db2cd0467f92756db122c1d22",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": [],
+      "y": []
     },
     {
       "v": "1.0.1@96792f9973bc4e531aca91e1e1538c77709b14ae",
       "r": [],
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "x": [],
+      "y": []
     },
     {
       "v": "#head@06e810b38c558055df8882f535b7308fc4e7be59",
       "r": [],
-      "a": "nirokay",
-      "d": "nimcatapi is a library that lets you easily request images from thecatapi and/or thedogapi.",
-      "l": "GPL-3.0-only",
-      "x": [
-        "docs",
-        "tests"
-      ],
-      "y": [
-        "run_tests.sh",
-        "update_docs.sh"
-      ],
-      "m": "1.1.0"
+      "m": "~",
+      "x": [],
+      "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:32Z",
+  "generatedAt": "2026-05-26T00:51:34Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

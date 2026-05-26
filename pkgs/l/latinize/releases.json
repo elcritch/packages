@@ -17,15 +17,23 @@
   "releases": [
     {
       "v": "0.1@473843019098dec2a5825700bd98abda8e57aa1f^",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "o": {}
     },
     {
       "v": "#head@473843019098dec2a5825700bd98abda8e57aa1f",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "o": {}
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:38Z",
+  "generatedAt": "2026-05-26T00:49:42Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

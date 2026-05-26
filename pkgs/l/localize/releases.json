@@ -11,32 +11,42 @@
   "releases": [
     {
       "v": "0.3.5@d1b5ae639f7fbeb9fe6fdf93b4fa177f73e50e30^",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.4@14bbc5cac8a02345a289ca41444fd0178e054a86",
       "r": [
         "fusion"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.3@91370f7fc1352887a8136e1ebe3ab93a0ecb3bb9",
       "r": [
         "fusion"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.2@48f299c43d0d15ef72d24357ad30c07edd910be4",
       "r": [
         "fusion"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.1@3fa43ca692216c2c34703f20c73a7917c2f479f9",
       "r": [
         "fusion"
       ],
-      "d": "Compile time localization for applications"
+      "d": "Compile time localization for applications",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3@7b5cfe7fcfde00c1913de46b5be932a7f49b811c",
@@ -44,7 +54,8 @@
         "fusion"
       ],
       "d": "Compile time localization for applications",
-      "m": "1.6.10"
+      "m": "1.6.10",
+      "s": ""
     },
     {
       "v": "0.2@430eefbe550253e3307d1ab04f1015d2e2e19d88",
@@ -52,7 +63,8 @@
         "fusion"
       ],
       "d": "Compile time localization for applications",
-      "m": "1.4.8"
+      "m": "1.4.8",
+      "s": ""
     },
     {
       "v": "0.1@87749d909e398a09bbb47acef0e319a0b798b6c1",
@@ -60,15 +72,18 @@
         "fusion"
       ],
       "d": "Compile time localization for applications",
-      "m": "1.4.8"
+      "m": "1.4.8",
+      "s": ""
     },
     {
       "v": "#head@d1b5ae639f7fbeb9fe6fdf93b4fa177f73e50e30",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:02Z",
+  "generatedAt": "2026-05-26T00:50:05Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -10,20 +10,17 @@
   "releases": [
     {
       "v": "1.0.0@88119a9277eb5c235e48a8464be7dde04b3e5825",
-      "r": []
+      "r": [],
+      "s": ""
     },
     {
       "v": "#head@d8ef41f393de0f0df3647431067b2ac74a3ab3ec",
-      "n": "sdl1",
       "r": [],
-      "a": "Andreas Rumpf",
-      "d": "SDL 1.2 wrapper for Nim.",
-      "l": "LGPL",
-      "s": "src"
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:29Z",
+  "generatedAt": "2026-05-26T00:54:31Z",
   "allDeps": {
     "packages": [],
     "urls": [],

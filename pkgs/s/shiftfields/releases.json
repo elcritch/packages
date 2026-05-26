@@ -11,25 +11,33 @@
   "releases": [
     {
       "v": "0.1.0@1b5e593b689c59ee92a351fc67e7e019ac0d0418",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@c876f4a17e940499d1680097be01e6e1a54c176b",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.0@1400224274aad5a88f9819ea9f5924257db1ee1c^",
       "r": [],
-      "d": "Sugar for bitfields"
+      "d": "Sugar for bitfields",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@1400224274aad5a88f9819ea9f5924257db1ee1c",
       "r": [],
-      "d": "Sugar for bitfields"
+      "d": "Sugar for bitfields",
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:43Z",
+  "generatedAt": "2026-05-26T00:54:46Z",
   "allDeps": {
     "packages": [],
     "urls": [],

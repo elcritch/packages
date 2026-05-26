@@ -10,15 +10,18 @@
   "releases": [
     {
       "v": "1.5.3@4cc1ca3fda59c3a95e8e572317e553306ef5ed98",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "1.5.2@6eb2f6e4c7b83fd40991a169408bccadf3af4cfc",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "1.5.1@d9483701f34697281cfc13a7c6bbe06bb90cb5da",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "1.5.0@2c5e7a52dfabad5de64b121f47a28bb6eed74b5c",
@@ -73,14 +76,11 @@
     {
       "v": "#head@9ee08485e083d44021d91c6be31000c5429101b1",
       "r": [],
-      "a": "Andreas Rumpf",
-      "d": "ZeroMQ wrapper",
-      "l": "MIT",
-      "m": "2.0.0"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:54:28Z",
+  "generatedAt": "2026-05-26T00:57:26Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

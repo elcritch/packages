@@ -19,7 +19,10 @@
         "LimDB",
         "httpbeast #master",
         "libsha"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@f3aaf237db09cc4585b6db17361f717662070f32",
@@ -27,11 +30,14 @@
         "LimDB",
         "httpbeast #master",
         "libsha"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:46Z",
+  "generatedAt": "2026-05-26T00:54:48Z",
   "allDeps": {
     "packages": [
       "LimDB",

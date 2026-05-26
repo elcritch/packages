@@ -20,7 +20,10 @@
         "npeg",
         "kiwi",
         "termstyle"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.6.0@b8083fd05c043015ffda629c7c5d6e294e949e76",
@@ -30,7 +33,10 @@
         "npeg",
         "kiwi",
         "termstyle"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.5.0@5e1ecebd49bce9dc44174be6835d92db872d9b69",
@@ -40,7 +46,10 @@
         "npeg",
         "kiwi",
         "termstyle"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.3.0@43cbb8e0daf9733b79c1ca0f011d6edbad7ceb25",
@@ -50,7 +59,10 @@
         "gh:PMunch/x11 #monitors",
         "npeg",
         "kiwi"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@3252766e15cf6587969d6b616198298796e7237c",
@@ -61,18 +73,13 @@
         "kiwi",
         "termstyle"
       ],
-      "a": "PMunch",
-      "d": "Simple program to show notifications with images and actions around the screen",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "notifishower"
-      ],
-      "m": "1.2.6"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:42Z",
+  "generatedAt": "2026-05-26T00:52:47Z",
   "allDeps": {
     "packages": [
       "docopt <= 0.3.0",

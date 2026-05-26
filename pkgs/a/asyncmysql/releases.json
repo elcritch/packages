@@ -15,24 +15,21 @@
       "v": "0.4.3@c58b738bc94e717d176d0cff6dc0b7e992c15583",
       "r": [
         "mysqlparser >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "y": []
     },
     {
       "v": "#head@46578a1787b70c2b55cc7f46ab943775e0f6c2b7",
       "r": [
         "mysqlparser >= 0.1.0"
       ],
-      "a": "Wang Tong",
-      "d": "Asynchronous MySQL connector written in pure Nim.",
-      "l": "MIT",
-      "y": [
-        "TODO.md"
-      ],
-      "m": "0.17.0"
+      "m": "~",
+      "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:10Z",
+  "generatedAt": "2026-05-26T00:45:02Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

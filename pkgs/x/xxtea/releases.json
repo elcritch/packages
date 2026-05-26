@@ -11,12 +11,15 @@
   "releases": [
     {
       "v": "0.1.0@15952ac475104a9bf9d6c9c9b864451452aa74f8",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.0@837a786d804e3ad6e5fd699688f5f9cc3b2ef3e1",
       "r": [],
-      "m": "0.10.0"
+      "m": "0.10.0",
+      "s": ""
     },
     {
       "v": "1.0.1@143c45c9d2b1eb540783ce9f794e5d782dc126c3",
@@ -32,15 +35,13 @@
     },
     {
       "v": "#head@5afa2d679ac6f2eb34714ce894a4eb51bc6e0162",
-      "n": "xxtea",
       "r": [],
-      "a": "Ma Bingyao",
-      "d": "XXTEA for encryption algorithm library Nim.",
-      "l": "MIT"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:54:18Z",
+  "generatedAt": "2026-05-26T00:57:15Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -11,25 +11,27 @@
   "releases": [
     {
       "v": "0.0.1@b6ec2bb54aa50aecb54343576860906e11d773e3",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@1fb87c8831a70a4427157d1d3afcdb8b47f42199",
       "r": [],
-      "d": "Native Nim Zend API glue for easy PHP extension development."
+      "d": "Native Nim Zend API glue for easy PHP extension development.",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@a418e30936772c2cb975696f5388475cf94214e0",
       "r": [],
-      "a": "Hans Raaf - METATEXX GmbH",
       "d": "Native Nim Zend API glue for easy PHP extension development.",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.13.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T13:10:17Z",
+  "generatedAt": "2026-05-26T00:52:29Z",
   "allDeps": {
     "packages": [],
     "urls": [],

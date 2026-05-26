@@ -12,17 +12,19 @@
       "v": "0.1.1@fe01c05688cc896309fe45a1fe2db1d0552630b5^",
       "r": [
         "regex >= 0.26.3"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "#head@fe01c05688cc896309fe45a1fe2db1d0552630b5",
       "r": [
         "regex >= 0.26.3"
-      ]
+      ],
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:20Z",
+  "generatedAt": "2026-05-26T00:47:12Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

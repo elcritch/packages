@@ -20,29 +20,25 @@
   "releases": [
     {
       "v": "0.1.0@b377fca7a23d257960b47746ac557c8773755675",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "x": [],
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@9b2a1a7c7157e6d812ae216f756a2eed585d1d0a",
       "r": [],
-      "a": "Janni Adamski",
-      "d": "nivot is a simple pivot library for nim.",
-      "l": "MIT",
-      "s": "src",
-      "x": [
-        "tests"
-      ],
-      "k": [
-        "nim"
-      ],
-      "p": [
-        "nivot"
-      ],
-      "m": "2.2.0"
+      "m": "~",
+      "s": "",
+      "x": [],
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:27Z",
+  "generatedAt": "2026-05-26T00:52:31Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -11,29 +11,37 @@
   "releases": [
     {
       "v": "0.1.0@ec19c1cd6a6d7a9f28b17325628d2bb771a0613c",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@a599007c21a0eecc21387eab47dea77fce1bad0d",
       "r": [
         "cligen"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.1@164eb9834785fc60d8fce3ddc79695e2e7575df3^",
       "r": [
         "cligen"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@164eb9834785fc60d8fce3ddc79695e2e7575df3",
       "r": [
         "cligen"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:59Z",
+  "generatedAt": "2026-05-26T00:50:02Z",
   "allDeps": {
     "packages": [
       "cligen > 0.1.0"

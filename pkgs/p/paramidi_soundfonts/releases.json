@@ -15,28 +15,28 @@
   "releases": [
     {
       "v": "0.2.0@a669ac25a629967647d3d19293325cd3d145de76",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "k": []
     },
     {
       "v": "0.1.0@00561a74e127304cc967b91991ead0a7e97a9505",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "k": []
     },
     {
       "v": "#head@4bf5402917cdb81bbb1f6db9b5fe2fa663505841",
       "r": [],
-      "a": "oakes",
-      "d": "Sound fonts for paramidi",
-      "l": "Public Domain",
-      "s": "src",
-      "k": [
-        "nim",
-        "sf2"
-      ],
-      "m": "1.2.6"
+      "m": "~",
+      "s": "",
+      "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:16Z",
+  "generatedAt": "2026-05-26T00:53:19Z",
   "allDeps": {
     "packages": [],
     "urls": [],

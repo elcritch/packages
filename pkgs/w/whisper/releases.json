@@ -14,18 +14,22 @@
       "r": [
         "wave >= 1.1.0",
         "futhark >= 0.13.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@3f5d19118a763078521e5e8ce3c6eb0dca2c5465",
       "r": [
         "wave >= 1.1.0",
         "futhark >= 0.13.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:55Z",
+  "generatedAt": "2026-05-26T00:56:52Z",
   "allDeps": {
     "packages": [
       "futhark",

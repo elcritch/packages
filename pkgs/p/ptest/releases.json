@@ -11,23 +11,23 @@
   "releases": [
     {
       "v": "0.1.0@c04b60a7c72ab7a4013d7fe95e486076aef39e13",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@a377f4062d5de8d17d6decafe8c792e758b0ab63",
       "r": [],
       "a": "Andre von Houck",
-      "d": "You debug with print statements? Why don't you also test with them?",
-      "l": "MIT",
-      "s": "src",
       "p": [
         "ptest"
       ],
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:48Z",
+  "generatedAt": "2026-05-26T00:53:53Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

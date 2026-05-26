@@ -10,23 +10,22 @@
   "releases": [
     {
       "v": "0.1.1@ffe1dc2570be6649735cde61f238c1a8b611518e",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "#head@7b2e6ea5d54a5900f28b67ac7a4e6036aecf432c",
       "r": [],
       "a": "Andre von Houck",
-      "d": "Wrapper for pl_mpeg single header mpeg library.",
-      "l": "MIT",
       "s": "src",
       "x": [
         "examples"
       ],
-      "m": "0.20.0"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:43Z",
+  "generatedAt": "2026-05-26T00:50:45Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

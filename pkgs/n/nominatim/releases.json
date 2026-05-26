@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.5@12cb97d59b0bfd977cfbf9bcd4f828f993e878a8",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@4be3a868971d627d2682caf340389e175fcee99f",
       "r": [],
-      "a": "juancarlospaco",
-      "d": "OpenStreetMap Nominatim API Lib and CLI Client for Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.20.0"
+      "m": "0.20.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:35Z",
+  "generatedAt": "2026-05-26T00:52:40Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

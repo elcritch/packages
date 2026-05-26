@@ -14,7 +14,9 @@
       "r": [
         "winim >= 3.6.0",
         "regex >= 0.19.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@17bc3d686165ca974bf3dd71b02a4ac26b4342f0",
@@ -23,7 +25,8 @@
       ],
       "a": "qb",
       "d": "Cross platform library for external process memory manipulation",
-      "m": "~"
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@0a61504898a42062102c0595c41b629cb5e8cb6e",
@@ -32,12 +35,12 @@
       ],
       "a": "qb",
       "d": "Cross platform (windows, linux) library for external process memory manipulation",
-      "l": "MIT",
-      "s": "src"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:40Z",
+  "generatedAt": "2026-05-26T00:51:41Z",
   "allDeps": {
     "packages": [
       "graphemes <= 0.1.0",

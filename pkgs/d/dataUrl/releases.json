@@ -21,21 +21,33 @@
       "r": [
         "cligen"
       ],
-      "k": []
+      "k": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "1.0.0@5225f4427d59254dc5bd330c2175dc3c5bf7b843",
       "r": [
         "cligen"
       ],
-      "k": []
+      "k": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "1.0.1@dcfd5c55348af2560c30c284eb3f94002d4a1235",
       "r": [
         "cligen"
       ],
-      "k": []
+      "k": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "1.1.0@beb0ab39be0ba168bd389fb6cb1ebff15cfe1a3a",
@@ -43,7 +55,11 @@
         "cligen"
       ],
       "d": "Easily create data urls! CLI included",
-      "k": []
+      "k": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "1.1.1@e18116621d6354f2fa555a24050e30812f4e12c4",
@@ -51,7 +67,11 @@
         "cligen"
       ],
       "d": "Easily create data urls! CLI included",
-      "k": []
+      "k": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "1.2.0@90571c7a8e6fa9e5a39264648449e8e402b91f41",
@@ -59,21 +79,35 @@
         "cligen"
       ],
       "d": "Easily create data urls! CLI included",
-      "k": []
+      "k": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "1.2.1@c0fa8e6a40cbfb84637e886ca184773570d68839",
       "r": [
         "cligen"
       ],
-      "d": "Easily create data urls! CLI included"
+      "d": "Easily create data urls! CLI included",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "1.3.0@53796ca034915221754c311fa50f6eb71214b0e6",
       "r": [
         "cligen"
       ],
-      "d": "Easily create data urls! CLI included"
+      "d": "Easily create data urls! CLI included",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "1.3.1@b075b6ed4df1bfc470498f6523e39ce667e81fb2^",
@@ -81,7 +115,12 @@
         "cligen"
       ],
       "a": "Thiago Navarro",
-      "d": "Easily create data urls! CLI included"
+      "d": "Easily create data urls! CLI included",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@b075b6ed4df1bfc470498f6523e39ce667e81fb2",
@@ -89,11 +128,16 @@
         "cligen"
       ],
       "a": "Thiago Navarro",
-      "d": "Easily create data urls! CLI included"
+      "d": "Easily create data urls! CLI included",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:49Z",
+  "generatedAt": "2026-05-26T00:46:44Z",
   "allDeps": {
     "packages": [
       "cligen"

@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@3483e383dc4acdf4888af2c1fa9d4ad26427b798",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@e0b77f78180e5c4d18e4b51d17fc95861035c1da",
       "r": [],
-      "a": "hlaaftana",
-      "d": "etf library for nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:28Z",
+  "generatedAt": "2026-05-26T00:47:19Z",
   "allDeps": {
     "packages": [],
     "urls": [],

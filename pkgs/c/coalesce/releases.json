@@ -10,35 +10,37 @@
   "releases": [
     {
       "v": "0.3.2@a2253787b8f77e593864a0f331ac95fdc1d0e996",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "0.3.1@9aaf182134373a80da98497a570863afc9739cfc",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "0.3.0@74dc65b51554938cc72db568c1bd30f24f9c12f2",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "0.2.0@4afb3b6ee50137e3562b579004f0996f9e0c7a70",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "0.1.0@a9f255ec24a2e01d0a7caa0cec64b4ed13b2a4ff",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "#head@6d909c65045be331646254cdceee6b7df0d84a0b",
       "r": [],
-      "a": "Bennjamin Blast",
-      "d": "coalesce to the first value that exists",
-      "l": "MIT",
-      "m": "0.17.0"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:27Z",
+  "generatedAt": "2026-05-26T00:46:22Z",
   "allDeps": {
     "packages": [],
     "urls": [],

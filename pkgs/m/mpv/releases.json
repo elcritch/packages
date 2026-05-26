@@ -14,18 +14,22 @@
       "r": [
         "nimterop >= 0.6.13",
         "ncurses >= 1.0.2"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@386a342f48ec89a2c38637d827bb92b83aebae11",
       "r": [
         "nimterop >= 0.6.13",
         "ncurses >= 1.0.2"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:43Z",
+  "generatedAt": "2026-05-26T00:50:45Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

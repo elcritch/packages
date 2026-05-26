@@ -17,15 +17,11 @@
     },
     {
       "v": "#head@02e9955d9643692c066b318d07ddd4c339712e1e",
-      "n": "fnmatch",
-      "r": [],
-      "a": "Adam Chesak",
-      "d": " Nim module for filename matching with UNIX shell patterns",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:52Z",
+  "generatedAt": "2026-05-26T00:47:51Z",
   "allDeps": {
     "packages": [],
     "urls": [],

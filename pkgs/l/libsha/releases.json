@@ -14,16 +14,13 @@
     {
       "v": "#head@fcdc448a63cc70814df5e92de050d8225715fe0a",
       "r": [],
-      "a": "Ievgen Svietikov",
-      "d": "Sha1 and Sha2 implementations",
-      "l": "MIT",
       "x": [
         "tests"
       ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:49Z",
+  "generatedAt": "2026-05-26T00:49:53Z",
   "allDeps": {
     "packages": [],
     "urls": [],

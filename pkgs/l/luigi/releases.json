@@ -13,7 +13,9 @@
       "v": "0.1.0@2a84164216f330cd578d4f1a888c0e1c84a0366c",
       "r": [
         "gh:neroist/freetype"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@92af8103ac9a4faa47af23a8e8cb15e73ada3ae2",
@@ -21,15 +23,12 @@
         "freetype >= 0.1.2"
       ],
       "h": true,
-      "a": "Jasmine",
-      "d": "Nim wrapper of Luigi UI library",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.2.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:12Z",
+  "generatedAt": "2026-05-26T00:50:15Z",
   "allDeps": {
     "packages": [
       "freetype"

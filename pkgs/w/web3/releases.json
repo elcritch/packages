@@ -23,7 +23,8 @@
         "stew",
         "stint",
         "results"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.7.0@85af8f228a7032d60572685513607fdb2d587a53",
@@ -39,7 +40,8 @@
         "stew",
         "stint",
         "results"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.6.0@d5f78ee5dffd122cf448c0884ec25da766d2f42b",
@@ -55,7 +57,8 @@
         "stew",
         "stint",
         "results"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.5.0@d8a91d040975cd3dd2a10c26456fab2d7523e8dd",
@@ -71,7 +74,8 @@
         "stew",
         "stint",
         "results"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "#head@aa40059eb54f516031025aefccae5c221c0a27a9",
@@ -89,14 +93,11 @@
         "stint",
         "results"
       ],
-      "a": "Status Research & Development GmbH",
-      "d": "These are the humble beginnings of library similar to web3.[js|py]",
-      "l": "MIT or Apache License 2.0",
-      "m": "2.0.0"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:46Z",
+  "generatedAt": "2026-05-26T00:56:42Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

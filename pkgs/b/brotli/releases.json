@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@685b95113341555443835d0363a1889fbc3a72ff",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@645427cd18a67165fad4a5e2b066766c3ab026f1",
       "r": [],
-      "a": "neroist",
-      "d": "Nim Brotli wrapper",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:54Z",
+  "generatedAt": "2026-05-26T00:45:50Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

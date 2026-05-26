@@ -13,22 +13,19 @@
   "releases": [
     {
       "v": "0.1.0@b4c0782597f21db8a22eb4933be212d77c07405e",
-      "r": []
+      "r": [],
+      "m": "~",
+      "p": []
     },
     {
       "v": "#head@6da50b7f8f60fb3b8c6cad6f003c6278c76e0900",
       "r": [],
-      "a": "Federico Ceratto",
-      "d": "CircleCI API client",
-      "l": "LGPLv3",
-      "p": [
-        "circleci_client"
-      ],
-      "m": "0.14.2"
+      "m": "~",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:17Z",
+  "generatedAt": "2026-05-26T00:46:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -11,26 +11,27 @@
   "releases": [
     {
       "v": "0.1.0@00690c275a7a327d597f2943263ad480ff9fcaa9",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@f070b2e687c6cc7aca456ffe232cf0da589ce85a",
       "r": [],
       "d": "Wrapper for js ajax",
-      "m": "1.4.0"
+      "m": "1.4.0",
+      "s": ""
     },
     {
       "v": "#head@f06cded6d91318ea007e8972665a2d837b4bf136",
       "r": [],
-      "a": "stisa",
       "d": "Wrapper for js ajax",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.0"
+      "m": "1.4.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:48Z",
+  "generatedAt": "2026-05-26T00:44:39Z",
   "allDeps": {
     "packages": [],
     "urls": [],

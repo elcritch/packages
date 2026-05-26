@@ -24,7 +24,12 @@
         "nimquery >= 1.2.2",
         "eastasianwidth >= 1.1.0",
         "alignment >= 1.0.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "i": [],
+      "p": []
     },
     {
       "v": "#head@56efda80499338c2e11e733aa70ea221afaa7f7b",
@@ -35,22 +40,16 @@
         "eastasianwidth >= 1.1.0",
         "alignment >= 1.0.0"
       ],
-      "a": "jiro4989",
       "d": "A command that to read novel on terminal",
-      "l": "MIT",
-      "s": "src",
-      "b": "bin",
-      "i": [
-        "novels"
-      ],
-      "p": [
-        "termnovel"
-      ],
-      "m": "0.20.2"
+      "m": "~",
+      "s": "",
+      "b": "",
+      "i": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:48Z",
+  "generatedAt": "2026-05-26T00:55:46Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

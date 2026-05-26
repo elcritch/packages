@@ -11,24 +11,25 @@
   "releases": [
     {
       "v": "0.5.0@f656c6d72faa719ac6fefa031afd5de1cce3dc4a",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.6.0@420e3e73a73e28eb095d259d644f0d294af5f4f7",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@9f421793dd4e349801b09e9b999f77dca713f424",
       "r": [],
-      "a": "Morgan Holly",
-      "d": "array 2d/3d, vector 2d/3d",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:33Z",
+  "generatedAt": "2026-05-26T00:56:29Z",
   "allDeps": {
     "packages": [],
     "urls": [],

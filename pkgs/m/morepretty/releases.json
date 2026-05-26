@@ -14,23 +14,22 @@
   "releases": [
     {
       "v": "0.1.0@d9b219f04b7a316e5104fcc72ef8537d1b459703",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@10e7b2754e5a34f758789e64804d90dad6d2953f",
       "r": [],
       "a": "Andre von Houck",
-      "d": "morepretty - More pretty than nimpretty.",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "morepretty"
-      ],
-      "m": "1.0.0"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:40Z",
+  "generatedAt": "2026-05-26T00:50:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

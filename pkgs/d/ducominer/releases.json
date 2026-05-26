@@ -14,41 +14,40 @@
       "v": "1.2.0@509e7036f2094fe85e2ad7eee3c0ea65c6286be8",
       "r": [
         "nimcrypto"
-      ]
+      ],
+      "p": []
     },
     {
       "v": "1.1.0@3fce8738b122352a6da6e4d550567bd306ec433d",
       "r": [
         "hashlib"
-      ]
+      ],
+      "p": []
     },
     {
       "v": "1.0.1@7341c3592329c3011ab0402ec6c1648d78683b75",
       "r": [
         "hashlib"
-      ]
+      ],
+      "p": []
     },
     {
       "v": "1.0.0@fe48bcdd93063d1458609f860b9a7666d752075f",
       "r": [
         "hashlib"
-      ]
+      ],
+      "p": []
     },
     {
       "v": "#head@d8c767db67c3f40569b445601090faf956b56e12",
       "r": [
         "nimcrypto"
       ],
-      "a": "its5Q",
-      "d": "A multithreaded miner for DuinoCoin written in Nim.",
-      "l": "MIT",
-      "p": [
-        "ducominer"
-      ]
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:14Z",
+  "generatedAt": "2026-05-26T00:47:07Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.5@e6f698956af50cdc08d4a5079d6a2b774b30d610",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@74551b54991570c0103665bec7cfb19b195fd326",
       "r": [],
-      "a": "Juan Carlos",
-      "d": "OpenStreetMap Elevation API MultiSync Client for Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.20.0"
+      "m": "0.20.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:58Z",
+  "generatedAt": "2026-05-26T00:53:02Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@8e32db41a7596a2917045efeaf82921a703dd692",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@bbdd40250a8bb7448ffb0c4e1017e43924ea81eb",
       "r": [],
-      "a": "Beshr Kayali",
-      "d": "WebDAV Client for Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:46Z",
+  "generatedAt": "2026-05-26T00:56:43Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -14,7 +14,8 @@
         "chronos >= 4.0.4 & < 5.0.0",
         "results >= 0.5.1",
         "nimcrypto"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "#head@f22daeae4ca2c0971bbbbd99d289ff0ea71a56fc",
@@ -23,14 +24,11 @@
         "results >= 0.5.1",
         "nimcrypto"
       ],
-      "a": "Jacek Sieka",
-      "d": "Thread-safe MPMC channel for Chronos",
-      "l": "MIT",
       "m": "2.0.14"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:08Z",
+  "generatedAt": "2026-05-26T00:45:01Z",
   "allDeps": {
     "packages": [
       "bearssl",

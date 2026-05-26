@@ -11,25 +11,25 @@
   "releases": [
     {
       "v": "0.1.0@9550fa323a194710abb17141e1afeab82242129e",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@a0d507d0c5be52773a5a84f7d3a421af689f2118",
       "r": [],
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "s": ""
     },
     {
       "v": "#head@498ecad0c69e3a5bd4144695bc3d1ec946afe29f",
       "r": [],
-      "a": "Thisago",
-      "d": "Mathematical formulas",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:54Z",
+  "generatedAt": "2026-05-26T00:47:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

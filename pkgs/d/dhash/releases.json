@@ -21,7 +21,11 @@
         "imageman >= 0.8.2",
         "argparse >= 4.0.1",
         "bigints #head"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "2.1.0@df9f4c4c0d3cf4b69cde210eaa90b2e0d9a72edb",
@@ -29,7 +33,11 @@
         "imageman >= 0.8.2",
         "argparse >= 4.0.1",
         "bigints #head"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "2.0.0@97dc577eac6cd3af0b466fd22437320ee7e20ad6",
@@ -37,7 +45,11 @@
         "imageman >= 0.8.2",
         "argparse >= 4.0.1",
         "bigints #head"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "1.0.0@5ab32923e57d272f3c0104310d486d7547707a92",
@@ -46,7 +58,10 @@
         "argparse >= 4.0.1",
         "nint128 >= 0.3.1"
       ],
-      "m": "1.6.10"
+      "m": "1.6.10",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@01672d6e9a60b34404459d3671c3b09ece335883",
@@ -54,11 +69,15 @@
         "imageman >= 0.8.2",
         "argparse >= 4.0.1",
         "bigints #head"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:02Z",
+  "generatedAt": "2026-05-26T00:46:55Z",
   "allDeps": {
     "packages": [
       "argparse",

@@ -11,7 +11,9 @@
   "releases": [
     {
       "v": "0.1.0@f458c27b01b44cc182d5c2769388b35d6350ea1c",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@9eeaac2453ec0a642771ca9095df5a3a7bfc4791",
@@ -20,15 +22,12 @@
         "macroutils",
         "optionsutils"
       ],
-      "a": "chocobo333",
-      "d": "This module provides the feature of algebraic data type and its associated method",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:49Z",
+  "generatedAt": "2026-05-26T00:44:40Z",
   "allDeps": {
     "packages": [
       "ast_pattern_matching",

@@ -16,11 +16,12 @@
       "r": [
         "serialization",
         "stew"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "#head@1cc4d87437a9f8f7a8b1119991af48308fbfe04b",
-      "n": "ssz_serialization",
       "r": [
         "serialization >= 0.5.0",
         "json_serialization",
@@ -32,17 +33,12 @@
         "unittest2",
         "hashtree_abi"
       ],
-      "a": "Status Research & Development GmbH",
-      "d": "Simple Serialize (SSZ) serialization and merkleization",
-      "l": "Apache License 2.0",
-      "x": [
-        "tests"
-      ],
-      "m": "2.0.10"
+      "m": "2.0.10",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:14Z",
+  "generatedAt": "2026-05-26T00:55:14Z",
   "allDeps": {
     "packages": [
       "blscurve",

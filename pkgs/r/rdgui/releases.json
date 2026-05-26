@@ -13,22 +13,21 @@
       "v": "0.1.0@f2bb90796a1307090b5ff4694f80a4099d7d8859",
       "r": [
         "rapid"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@360035a29be04348430ad89045687844b5c6b2b4",
       "r": [
         "rapid"
       ],
-      "a": "liquid600pgm",
-      "d": "A modular GUI toolkit for rapid",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:04Z",
+  "generatedAt": "2026-05-26T00:54:08Z",
   "allDeps": {
     "packages": [
       "aglet",

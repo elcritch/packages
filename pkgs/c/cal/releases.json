@@ -16,25 +16,21 @@
   "releases": [
     {
       "v": "0.2.0@17a34a2b995277f87223296950af4e741715239a",
-      "r": []
+      "r": [],
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@d5a242613274d76cf12cf7cfce97fcd565d94c52",
       "r": [],
-      "a": "flywind",
-      "d": "A simple interactive calculator",
-      "l": "MIT",
-      "s": "src",
-      "k": [
-        "nim"
-      ],
-      "p": [
-        "cal"
-      ]
+      "s": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:00Z",
+  "generatedAt": "2026-05-26T00:45:56Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

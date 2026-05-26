@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@4e3e6f8f65a1c947ee46af4d2bf6418ae80427e8",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@4cbbd2a734c68666ee3e7820e09326be8e15b44c",
       "r": [],
-      "a": "aquilax",
-      "d": "Sparkline library",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:04Z",
+  "generatedAt": "2026-05-26T00:55:05Z",
   "allDeps": {
     "packages": [],
     "urls": [],

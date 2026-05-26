@@ -12,19 +12,27 @@
   "releases": [
     {
       "v": "1.0.0@1f77d9b3114778af70b9bd9c88d0a6e398c32d4b",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.9.1@ac347f5d7956131943f82e0394d97988335c9c84",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.9.0@65657903a63350f8ba9f9c0fefd61a1caa60d2c8",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.5.0@285e701284251220e4e16b669221d501b0ce73b7",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@edee1e12c8434b6ab18eab470a8f1315c73d10d8",
@@ -32,12 +40,12 @@
       "a": "Jonathan D.A. Jewell <j.d.a.jewell@open.ac.uk>",
       "d": "FFI bindings to libproven -- formally verified safety primitives",
       "l": "MPL-2.0",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:49Z",
+  "generatedAt": "2026-05-26T00:53:54Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

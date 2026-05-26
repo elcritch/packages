@@ -13,29 +13,30 @@
       "v": "1.1.0@f644cf7b7eb4b35ec5e552b86b95cea36a22ffb5",
       "r": [
         "chronos >= 4.0.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.1@c62cd71c395f6331b2b828599655f9ff6949dd54",
       "r": [
         "chronos >= 4.0.0"
       ],
-      "d": "Lock-free SPSC channels for Nim (212M+ ops/sec verified)"
+      "d": "Lock-free SPSC channels for Nim (212M+ ops/sec verified)",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@ee993279967dd06eaee89085724ebac04cd628e9",
       "r": [
         "chronos >= 4.0.0"
       ],
-      "a": "boonzy",
-      "d": "Production-ready async runtime with lock-free SPSC channels (615M ops/sec, 31ns P99)",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:16Z",
+  "generatedAt": "2026-05-26T00:52:19Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

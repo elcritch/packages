@@ -17,7 +17,9 @@
         "jacket",
         "jill >= 0.2.1",
         "rtthread"
-      ]
+      ],
+      "m": "~",
+      "p": []
     },
     {
       "v": "0.1.2@ca852b5639c074ab803781926540a408a6182deb",
@@ -25,7 +27,9 @@
         "jacket",
         "jill >= 0.2.1",
         "rtthread"
-      ]
+      ],
+      "m": "~",
+      "p": []
     },
     {
       "v": "0.1.1@c0a973713a839564a846dbe77cd19c535a90300f",
@@ -33,7 +37,9 @@
         "jacket",
         "jill",
         "rtthread"
-      ]
+      ],
+      "m": "~",
+      "p": []
     },
     {
       "v": "0.1.0@8c02984abed5e2526ba41e5a35ea70c05447c1ae",
@@ -41,7 +47,9 @@
         "jacket",
         "jill",
         "rtthread"
-      ]
+      ],
+      "m": "~",
+      "p": []
     },
     {
       "v": "#head@ef0867f3381295a15400f879da42f982baaf3d3e",
@@ -49,11 +57,13 @@
         "jacket",
         "jill >= 0.2.1",
         "rtthread"
-      ]
+      ],
+      "m": "~",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:17Z",
+  "generatedAt": "2026-05-26T00:50:21Z",
   "allDeps": {
     "packages": [
       "jacket",

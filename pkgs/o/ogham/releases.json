@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "1.0.0@6b38780d18010e3bb1d65e174dc965607d2061e4",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@36d27f2a4398c0a344bedbcb6ba4ead2e28c4226",
       "r": [],
-      "a": "stscoundrel / Sampo Silvennoinen",
-      "d": "Convert Ogham inscriptions to latin text & vice versa.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:54Z",
+  "generatedAt": "2026-05-26T00:52:59Z",
   "allDeps": {
     "packages": [],
     "urls": [],

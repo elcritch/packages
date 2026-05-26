@@ -27,32 +27,37 @@
     },
     {
       "v": "0.2.3@72b2039ab9c45bf72b16afaa1140d0d0d0610158",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.2@b89c50b9e8159ebea8628998e5260b1ca438c2d3",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.1@f5bff8d39f061b291d6f6499f7378f2d92ffbead",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@bd2a0d4d423d4b3b2b653788a0da8ec8fb800a24",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@26bde6ccbb24012e01a1c0043815ef27e1b5b2a2",
       "r": [],
-      "a": "Lars Heuer",
-      "d": "scfg (simple configuration file format) parser",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:25Z",
+  "generatedAt": "2026-05-26T00:54:28Z",
   "allDeps": {
     "packages": [],
     "urls": [],

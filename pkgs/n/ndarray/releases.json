@@ -11,7 +11,9 @@
   "releases": [
     {
       "v": "0.5.0@42f4a2e720274c755b74ac48d8bdee404558ccc9",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.4.0@b6ca571606c268885570efc6fb93f84e4ed5725a",
@@ -64,15 +66,12 @@
     {
       "v": "#head@9309a80d7e4a16173c47e7e4ddb26e5c43d0bca2",
       "r": [],
-      "a": "Jaime Lopez",
-      "d": "Nim bindings for ndarray-c library",
-      "l": "BSD-3-Clause",
-      "s": "nim",
-      "m": "2.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:56Z",
+  "generatedAt": "2026-05-26T00:50:58Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

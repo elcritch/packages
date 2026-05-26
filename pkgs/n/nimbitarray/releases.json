@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.2.1@009664d995fd92c9e599319991dd5af9ba73e811",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@75f36b24a1388bdc301ba219fd28bd1768b02885",
       "r": [],
-      "a": "Yes DrX",
-      "d": "bitarray",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:29Z",
+  "generatedAt": "2026-05-26T00:51:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

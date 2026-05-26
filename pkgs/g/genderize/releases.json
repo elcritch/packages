@@ -14,7 +14,9 @@
       "r": [
         "jsony",
         "results"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@736a8d23c60cb6c9018f0fd72f70d97cec06a0e6",
@@ -22,15 +24,12 @@
         "jsony",
         "results"
       ],
-      "a": "Nemuel Wainaina",
-      "d": "Nim wrapper for the Genderize.io API",
-      "l": "GPL-3.0-only",
-      "s": "src",
-      "m": "1.6"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:08Z",
+  "generatedAt": "2026-05-26T00:48:07Z",
   "allDeps": {
     "packages": [
       "jsony",

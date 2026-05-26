@@ -15,15 +15,17 @@
     },
     {
       "v": "0.1.1@1dd96ad929da209aa26947c8411b51eb0f824263",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "#head@1dd96ad929da209aa26947c8411b51eb0f824263",
-      "r": []
+      "r": [],
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:14Z",
+  "generatedAt": "2026-05-26T00:51:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

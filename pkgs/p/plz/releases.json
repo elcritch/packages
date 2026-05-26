@@ -17,7 +17,10 @@
       "r": [
         "requirementstxt >= 0.0.1",
         "libarchibi >= 0.0.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@0cefec96334d9eb06335e19fe9f13402a059f7d4",
@@ -25,17 +28,13 @@
         "requirementstxt >= 0.0.1"
       ],
       "a": "Juan_Carlos.nim",
-      "d": "PLZ Python PIP alternative",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "plz"
-      ],
-      "m": "1.4.6"
+      "m": "1.4.6",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:34Z",
+  "generatedAt": "2026-05-26T00:53:38Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

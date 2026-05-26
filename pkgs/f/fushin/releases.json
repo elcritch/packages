@@ -20,7 +20,11 @@
       "r": [
         "nimquery >= 2.0.0",
         "csvtools >= 0.2.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.0.0@06af8458834d0fd020652af25c4ea97c8dee3a7d",
@@ -28,7 +32,11 @@
         "nimquery >= 2.0.0",
         "cligen >= 1.5.24"
       ],
-      "d": "Fetch fushinsha serif data and save as csv files"
+      "d": "Fetch fushinsha serif data and save as csv files",
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@6e4ae35c8a5f1a50fff473983affd5c51a65836b",
@@ -36,21 +44,15 @@
         "cligen >= 1.5.24",
         "nimquery >= 2.0.0"
       ],
-      "a": "eggplants",
       "d": "Fetch fushinsha serif data and save as csv files",
-      "l": "MIT",
-      "s": "src",
-      "k": [
-        "nim"
-      ],
-      "p": [
-        "fushin"
-      ],
-      "m": "1.6.6"
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:01Z",
+  "generatedAt": "2026-05-26T00:48:00Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

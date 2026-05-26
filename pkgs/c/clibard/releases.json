@@ -21,7 +21,11 @@
         "error://gookie"
       ],
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-3f213d46-clibard.nimble\ncannot resolve package name: gookie"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-3f213d46-clibard.nimble\ncannot resolve package name: gookie",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.2.0@eac9809246a52844a82739ac4b9e12b4b2267ff1",
@@ -31,7 +35,11 @@
         "error://gookie"
       ],
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-eac98092-clibard.nimble\ncannot resolve package name: gookie"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-eac98092-clibard.nimble\ncannot resolve package name: gookie",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.3.0@6f5cbdf97513baf7bcd4f93f9f5d169c549ef482",
@@ -41,7 +49,11 @@
         "error://gookie"
       ],
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-6f5cbdf9-clibard.nimble\ncannot resolve package name: gookie"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-6f5cbdf9-clibard.nimble\ncannot resolve package name: gookie",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.3.1@f5cd06177c9f464184a70f2e1f123a7b322ad43b",
@@ -51,7 +63,11 @@
         "error://gookie"
       ],
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-f5cd0617-clibard.nimble\ncannot resolve package name: gookie"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-f5cd0617-clibard.nimble\ncannot resolve package name: gookie",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.3.2@deb7bc47b3c93d6f23dd23fc35295eff1de7a89b",
@@ -61,7 +77,11 @@
         "error://gookie"
       ],
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-deb7bc47-clibard.nimble\ncannot resolve package name: gookie"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-deb7bc47-clibard.nimble\ncannot resolve package name: gookie",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.4.0@44ab28ef47e486dcea43520f65c3668c8a105209",
@@ -71,7 +91,11 @@
         "error://gookie"
       ],
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-44ab28ef-clibard.nimble\ncannot resolve package name: gookie"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-44ab28ef-clibard.nimble\ncannot resolve package name: gookie",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.4.1@fbfadf0fbbf3e26e1d1fd942d175af4fdb8dcce8",
@@ -81,7 +105,11 @@
         "error://gookie"
       ],
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-fbfadf0f-clibard.nimble\ncannot resolve package name: gookie"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-fbfadf0f-clibard.nimble\ncannot resolve package name: gookie",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.5.0@25f0853d5bc74c65176fcc3db96caa47347798cd",
@@ -92,7 +120,11 @@
       ],
       "l": "GPL-3.0",
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-25f0853d-clibard.nimble\ncannot resolve package name: gookie"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-25f0853d-clibard.nimble\ncannot resolve package name: gookie",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.5.1@33d60f45b4479b76e6dd31a540cdf78de5d9fa2e",
@@ -103,7 +135,11 @@
       ],
       "l": "GPL-3.0",
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-33d60f45-clibard.nimble\ncannot resolve package name: gookie"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-33d60f45-clibard.nimble\ncannot resolve package name: gookie",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.6.0@edb28a046f5cd5b45bcbc0ba9a8a417816afc9b6",
@@ -114,7 +150,11 @@
       ],
       "l": "GPL-3.0",
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-edb28a04-clibard.nimble\ncannot resolve package name: gookie"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-edb28a04-clibard.nimble\ncannot resolve package name: gookie",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.7.0@239b6de9edae3bec37c131026dad4ee297edcca2",
@@ -125,7 +165,11 @@
       ],
       "l": "GPL-3.0",
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-239b6de9-clibard.nimble\ncannot resolve package name: gookie"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-239b6de9-clibard.nimble\ncannot resolve package name: gookie",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.7.1@99d0b0bcd853f7726b173c4831dd4c5ea8ec34b0",
@@ -134,7 +178,11 @@
         "bard >= 0.7.0",
         "iecook >= 0.6.0"
       ],
-      "l": "GPL-3.0"
+      "l": "GPL-3.0",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "#head@8b52e626b033848fbe7fecb554f22e5e366a780e",
@@ -143,19 +191,15 @@
         "bard >= 0.7.0",
         "iecook >= 0.6.0"
       ],
-      "a": "Thiago Navarro",
-      "d": "Command line interface for Google Bard",
       "l": "GPL-3.0",
-      "s": "src",
-      "b": "build",
-      "p": [
-        "clibard"
-      ],
-      "m": "1.6.0"
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:21Z",
+  "generatedAt": "2026-05-26T00:46:16Z",
   "allDeps": {
     "packages": [
       "bard",

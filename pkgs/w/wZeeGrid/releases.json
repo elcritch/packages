@@ -16,39 +16,37 @@
       "v": "1.0.0@fe239dc69e03c61787ab1532a6cb388d2e79c5a4",
       "r": [
         "wNim >= 0.9.0"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "1.0.1@ef25f1dd66b42469838f1876da2157e976d274db",
       "r": [
         "wNim >= 0.11.4"
       ],
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "x": []
     },
     {
       "v": "1.0.2@202c4c460a9bdb12c60ca9e1ac79bef97568e105",
       "r": [
         "wNim >= 0.11.4"
       ],
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "x": []
     },
     {
       "v": "#head@f3bd27a5ba8c446fd692f86f5092b372ed09fac8",
       "r": [
         "wNim >= 0.11.4"
       ],
-      "a": "Duncan Clarke",
-      "d": "wZeeGird Plugin for wNim.",
-      "l": "MIT",
-      "x": [
-        "examples",
-        "docs"
-      ],
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:40Z",
+  "generatedAt": "2026-05-26T00:56:36Z",
   "allDeps": {
     "packages": [
       "memlib",

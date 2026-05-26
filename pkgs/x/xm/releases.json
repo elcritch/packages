@@ -18,23 +18,32 @@
       "v": "1.0.1@fc89ccf27d8cffbccd7c0c36c5f13d86c52b420d^",
       "r": [
         "cligen >= 1.9.5"
-      ]
+      ],
+      "m": "~",
+      "k": [],
+      "p": []
     },
     {
       "v": "1.0.0@34858ec5e25e9c765e031ac0480035eba4f8f72a",
       "r": [
         "cligen >= 1.9.5"
-      ]
+      ],
+      "m": "~",
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@fc89ccf27d8cffbccd7c0c36c5f13d86c52b420d",
       "r": [
         "cligen >= 1.9.5"
-      ]
+      ],
+      "m": "~",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:54:15Z",
+  "generatedAt": "2026-05-26T00:57:12Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

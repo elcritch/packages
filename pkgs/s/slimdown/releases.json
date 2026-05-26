@@ -13,22 +13,19 @@
   "releases": [
     {
       "v": "0.0.1@537c617066d814954263d2a6c0a1cde57cfb8a5a",
-      "r": []
+      "r": [],
+      "m": "~",
+      "p": []
     },
     {
       "v": "#head@a879450e58323070e3173f6eb33ac3c4c1a460c0",
       "r": [],
-      "a": "Rui Vieira",
-      "d": "Nim module that converts Markdown text to HTML using only regular expressions. Based on jbroadway's Slimdown.",
-      "l": "MIT",
-      "p": [
-        "slimdown"
-      ],
-      "m": "0.14.3"
+      "m": "~",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:56Z",
+  "generatedAt": "2026-05-26T00:54:58Z",
   "allDeps": {
     "packages": [],
     "urls": [],

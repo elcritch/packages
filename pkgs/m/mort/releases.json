@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@5c0c39c0ae19ff8e3e48477503fa8ca10f127070",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@0d9d74563b5a9cec128a5e4b0b8f84bae206ab8a",
       "r": [],
-      "a": "Joey Yakimowich-Payne",
-      "d": "A dead code locator for Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:41Z",
+  "generatedAt": "2026-05-26T00:50:43Z",
   "allDeps": {
     "packages": [],
     "urls": [],

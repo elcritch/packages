@@ -21,14 +21,11 @@
     },
     {
       "v": "#head@1f1cd4c3145b84b98cd426b6b7ef415d34e64956",
-      "r": [],
-      "a": "Stefanos Mandalas",
-      "d": "Kaitai Struct runtime library for Nim",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:27Z",
+  "generatedAt": "2026-05-26T00:49:30Z",
   "allDeps": {
     "packages": [],
     "urls": [],

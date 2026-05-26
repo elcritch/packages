@@ -14,14 +14,18 @@
       "r": [
         "arraymancer >= 0.6.2",
         "distributions >= 0.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@c732328302a7e12a75c87d6a1825f18331317b7f",
       "r": [
         "arraymancer >= 0.6.2",
         "distributions >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@5e2da6d3134819f396f362e3a30e91a4df2aabc7",
@@ -29,15 +33,12 @@
         "arraymancer >= 0.6.2",
         "distributions >= 0.2.0"
       ],
-      "a": "ayman albaz",
-      "d": "Generalized Linear Models in Nim.",
-      "l": "Apache-2.0",
-      "s": "src",
-      "m": "1.4.6"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:56Z",
+  "generatedAt": "2026-05-26T00:49:59Z",
   "allDeps": {
     "packages": [
       "arraymancer",

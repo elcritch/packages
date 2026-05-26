@@ -11,39 +11,55 @@
   "releases": [
     {
       "v": "0.3.3@a9f23f246fd3a2cdb352cf9b67e970f88ec1507c^",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.2@ba5573441973592ab700c4b0c79aaab55ef46f9e",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.1@2c456e4551076a1fa9fb51036e9aea2eb95a9dc4",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.0@20ed7bebacc513a2049c9a73ed2dce9fa47029d1",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.1@f88047b26121bd0ae5cda35cb266083e4b0f36e3",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@0fea4144da7fabd25fd2ccb807a479b7a2094ad3",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@f0be7d05e807e8df2f9a4acbbaa587e58ac3d89e",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@a9f23f246fd3a2cdb352cf9b67e970f88ec1507c",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:25Z",
+  "generatedAt": "2026-05-26T00:52:30Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -14,7 +14,10 @@
   "releases": [
     {
       "v": "0.1.0@bb2360aade8b35e2926114a0fa218030c496de21",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@ef1539f057813d9fd045231e5eb01adfc34984ea",
@@ -22,18 +25,13 @@
         "jester",
         "zip"
       ],
-      "a": "Juan Carlos",
-      "d": "Hackathon Web Scratchpad for teaching Nim on events using Wifi with limited or no Internet",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "hackpad"
-      ],
-      "m": "1.0.4"
+      "m": "1.0.4",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:32Z",
+  "generatedAt": "2026-05-26T00:48:35Z",
   "allDeps": {
     "packages": [
       "asynctools",

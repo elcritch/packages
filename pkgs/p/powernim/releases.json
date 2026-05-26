@@ -17,26 +17,21 @@
       "v": "0.0.1@34c14fca362c3bca6bcba14e0977346e18bcec90",
       "r": [
         "nigui"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": [],
+      "e": ""
     },
     {
       "v": "#head@d6dc45cc57a6c6ca72b3ff40371961e4d89e2882",
       "r": [
         "nigui"
-      ],
-      "a": "Will Reed",
-      "d": "Basic power menu for Linux (with systemd)",
-      "l": "BSD-2-Clause",
-      "s": "src",
-      "p": [
-        "powernim"
-      ],
-      "e": "c",
-      "m": "1.6.6"
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:40Z",
+  "generatedAt": "2026-05-26T00:53:45Z",
   "allDeps": {
     "packages": [
       "nigui"

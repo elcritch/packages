@@ -17,15 +17,11 @@
     },
     {
       "v": "#head@8f337e1d0233e0e0c88fe8e88edea74275fca994",
-      "n": "biscuits",
-      "r": [],
-      "a": "Adam Chesak",
-      "d": "better cookie handling",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:42Z",
+  "generatedAt": "2026-05-26T00:45:34Z",
   "allDeps": {
     "packages": [],
     "urls": [],

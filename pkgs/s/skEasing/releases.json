@@ -10,19 +10,17 @@
   "releases": [
     {
       "v": "0.1.0@44332443436c68fcf656d23f23663bc773843e3b",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "#head@9c369849c65d9425eab698bd578922d7f360f330",
       "r": [],
-      "a": "Skrylar",
-      "d": "A collection of easing curves for animation purposes.",
-      "l": "BSD",
-      "m": "0.17.0"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:53Z",
+  "generatedAt": "2026-05-26T00:54:55Z",
   "allDeps": {
     "packages": [],
     "urls": [],

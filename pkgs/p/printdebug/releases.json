@@ -11,20 +11,20 @@
   "releases": [
     {
       "v": "0.1.0@786e80ba1ed9cbbdea535aaebc34b0e58aa3a595",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@88dcf2dd5f6f0584e80dbe7e40cdbb124c9998fd",
       "r": [],
       "a": "Juan Carlos",
-      "d": "Print Debug for Nim, tiny 3 lines Lib, C Target",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.18.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:44Z",
+  "generatedAt": "2026-05-26T00:53:48Z",
   "allDeps": {
     "packages": [],
     "urls": [],

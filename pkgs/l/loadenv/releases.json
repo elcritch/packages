@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@9655d69f83a3a36f077bee0b29d5252f1d729577",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@961fde7c424f709f141683b7dea33ae4895e6531",
       "r": [],
-      "a": "xmonader",
-      "d": "load .env variables",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.19.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:01Z",
+  "generatedAt": "2026-05-26T00:50:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

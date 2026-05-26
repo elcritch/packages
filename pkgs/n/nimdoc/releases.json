@@ -16,29 +16,41 @@
       "v": "1.1.2@24b88ad8694a274c6ca7e47a3ef35eca0a4bd414^",
       "r": [
         "gh:WaywardWizard/nim-argparse >= 4.1.2"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "1.1@2e935475d4a5e4db69ad5dbeba4d214eec32acb8",
       "r": [
         "gh:WaywardWizard/nim-argparse >= 4.1.2"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "1.0@fd74c81bced0c4de27b6acf62db426075d361856",
       "r": [
         "gh:WaywardWizard/nim-argparse >= 4.1.2"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@24b88ad8694a274c6ca7e47a3ef35eca0a4bd414",
       "r": [
         "gh:WaywardWizard/nim-argparse >= 4.1.2"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:39Z",
+  "generatedAt": "2026-05-26T00:51:41Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -11,29 +11,29 @@
   "releases": [
     {
       "v": "0.1.0@e1ad61254e7748cc2ca988b4804c02d4afcd192a",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@436bf02df2a1bfac4007a7f23d4924e705d266b7",
       "r": [
         "contra"
       ],
-      "m": "0.20.2"
+      "m": "0.20.2",
+      "s": ""
     },
     {
       "v": "#head@272acbcec56a381fdcc6299893fd1c05e09ffbc5",
       "r": [
         "contra"
       ],
-      "a": "Juan Carlos",
-      "d": "HTML5 Tools for Nim, all Templates, No CSS, No Libs, No JS Framework",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.20.2"
+      "m": "0.20.2",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:49Z",
+  "generatedAt": "2026-05-26T00:48:54Z",
   "allDeps": {
     "packages": [
       "contra > 0.1.0"

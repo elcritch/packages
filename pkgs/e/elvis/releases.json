@@ -10,29 +10,29 @@
   "releases": [
     {
       "v": "0.5.0@f0632e830c264ccd2e8489596db9b29fd5d1cd67",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "0.4.0@a775fdfdf0ba10c38b08d35e8c4b95ddb0dd755d",
       "r": [],
-      "d": "truthy, elvis, ternary and conditional assignment, conditional access and coalesce operators for nim"
+      "d": "truthy, elvis, ternary and conditional assignment, conditional access and coalesce operators for nim",
+      "m": "~"
     },
     {
       "v": "0.3.0@c986971a1bbb88412a61c0aaf65f0d965d5f50a7",
       "r": [],
-      "d": "truthy, elvis, ternary and conditional assignment operators for nim"
+      "d": "truthy, elvis, ternary and conditional assignment operators for nim",
+      "m": "~"
     },
     {
       "v": "#head@9aac6d4d80b061251ba1b67a0fb68e74f7b4743c",
       "r": [],
-      "a": "Mat Taylor",
-      "d": "truthy, elvis, ternary, conditional assignment, conditional access and coalesce and default coalesce operators for nim",
-      "l": "MIT",
-      "m": "0.17.0"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:21Z",
+  "generatedAt": "2026-05-26T00:47:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

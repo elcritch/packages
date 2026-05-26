@@ -17,15 +17,11 @@
     },
     {
       "v": "#head@b466a504242b4a91eec6fd61e8d6ff14417e5779",
-      "n": "colorsys",
-      "r": [],
-      "a": "Adam Chesak",
-      "d": "Convert between RGB, YIQ, HLS, and HSV color systems.",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:30Z",
+  "generatedAt": "2026-05-26T00:46:25Z",
   "allDeps": {
     "packages": [],
     "urls": [],

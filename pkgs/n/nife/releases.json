@@ -19,32 +19,35 @@
     {
       "v": "0.1.2@fba0169e22a17259ffee5cf492cdfb2b94574558",
       "r": [],
-      "h": true
+      "h": true,
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.1.1@24167483da7980d00fa98e3ce0206ecf58f9607f",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@5c2b3bf3cc668e717aa08b297516831c5dfd26a3",
       "r": [],
       "h": true,
-      "a": "ANSI-D",
-      "d": "Minimal terminal file manager inspired by Ranger FM",
-      "l": "GPL-3.0",
-      "s": "src",
-      "b": "bin",
-      "k": [
-        "nim"
-      ],
-      "p": [
-        "nife"
-      ],
-      "m": "1.6.0"
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:09Z",
+  "generatedAt": "2026-05-26T00:51:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

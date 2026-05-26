@@ -18,35 +18,35 @@
   "releases": [
     {
       "v": "0.2.1@ef28f0f43205ad323213f83bd04c4a7b5ab5a9a7",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "x": [],
+      "y": []
     },
     {
       "v": "0.2.0@41c14068decbf22c669d8ac198ff7b46d9b8881a",
       "r": [
         "httpbeast >= 0.4.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "x": [],
+      "y": []
     },
     {
       "v": "#head@f4d2b68a561912d9891caff4f96751654031953b",
       "r": [
         "checksums >= 0.2.1"
       ],
-      "a": "DitzDev",
-      "d": "Express.js like, Powerful, Fast, and Minimalist Web Framework for Nim. Focus on your Backend.",
-      "l": "MIT",
-      "s": "src",
-      "x": [
-        "tests",
-        "public"
-      ],
-      "y": [
-        "todo.markdown"
-      ],
-      "m": "2.2.4"
+      "m": "~",
+      "s": "",
+      "x": [],
+      "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:41Z",
+  "generatedAt": "2026-05-26T00:44:32Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

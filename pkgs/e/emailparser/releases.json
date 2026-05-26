@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@50aca24f391ad6cc26c538f4224e2bbad47f07df",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@480a496bbdfb51758ed998f62651c16e7ebc1b48",
       "r": [],
-      "a": "Mildred",
-      "d": "email parser with code from Cyrus",
-      "l": "Cyrus",
-      "s": "src",
-      "m": "1.9.3"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:21Z",
+  "generatedAt": "2026-05-26T00:47:14Z",
   "allDeps": {
     "packages": [],
     "urls": [],

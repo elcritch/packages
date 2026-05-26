@@ -17,26 +17,23 @@
   "releases": [
     {
       "v": "1.0.0@60c7bd4d35abee4dbf8e2265497f8b845ea6659f",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@6b1a16ad33e9dd8447eb7b0e148084711c23504b",
       "r": [],
-      "a": "Navid M",
-      "d": "Convert nim source files from camel to snake case and vice versa",
-      "l": "GPL-3.0-only",
-      "s": "src",
-      "k": [
-        "nim"
-      ],
-      "p": [
-        "shark"
-      ],
-      "m": "2.2.2"
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:41Z",
+  "generatedAt": "2026-05-26T00:54:44Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -11,20 +11,20 @@
   "releases": [
     {
       "v": "0.1.0@a935845fb91b03c0f95c9ae0974fb9c8e9f4a456",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@1dcf8e05afaaf22b81e3ec75209ef15ce1b80427",
       "r": [],
-      "a": "metagn",
       "d": "nim untyped AST node generation at runtime with custom line info",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.12"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:48Z",
+  "generatedAt": "2026-05-26T00:52:52Z",
   "allDeps": {
     "packages": [],
     "urls": [],

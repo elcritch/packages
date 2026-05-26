@@ -13,22 +13,22 @@
       "v": "0.1.0@9c25002d8819777f1ae263668168f6e86d0abb4a",
       "r": [
         "httpx >= 0.3.7"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@c88886466d72cf32152b804de5e6dc0391ae435f",
       "r": [
         "chronos >= 4.0.3"
       ],
-      "a": "akvilary",
       "d": "Super fast async SSR framework — type-safe layouts, zero-copy rendering, compile-time HTML optimization, uses Chronos",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:14Z",
+  "generatedAt": "2026-05-26T00:55:15Z",
   "allDeps": {
     "packages": [
       "bearssl",

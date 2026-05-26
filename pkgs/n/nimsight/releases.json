@@ -19,14 +19,20 @@
         "threading #c5a39a0",
         "minilru #c353041",
         "gh:ire4ever1190/jaysonrpc #0f1f4fc"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.1.0@2fde22977fde87d398dd9553235c88721d95004a",
       "r": [
         "threading #c69e13a",
         "minilru #c353041"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@7519a5850639e24c35d0bd05f7069dd9f83fb712",
@@ -37,20 +43,15 @@
         "gh:ire4ever1190/nort >= 0.2.1",
         "gh:ire4ever1190/legit >= 0.1.1"
       ],
-      "a": "Jake Leahy",
-      "d": "Yet another LSP for Nim",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "nimsight"
-      ],
-      "m": "2.2.4",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/n/nimsight/.worktree/nimsight.nimble\ninvalid 'requires' syntax in nimble file: anano ^= 0.2.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/n/nimsight/.worktree/nimsight.nimble\ninvalid 'requires' syntax in nimble file: anano ^= 0.2.1",
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:13Z",
+  "generatedAt": "2026-05-26T00:52:16Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

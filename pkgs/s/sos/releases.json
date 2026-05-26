@@ -10,19 +10,17 @@
   "releases": [
     {
       "v": "0.0.1@94d40904d629e3fb604ab5a9451189bf9a148d0f",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "#head@48bc549060337b6106b10de65ca91e92814de1a3",
       "r": [],
-      "a": "Christopher Taylor",
-      "d": "nim-sos a Sandia OpenSHMEM wrapper",
-      "l": "boost",
-      "m": "0.18.0"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:01Z",
+  "generatedAt": "2026-05-26T00:55:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

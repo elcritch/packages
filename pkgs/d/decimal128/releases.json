@@ -11,28 +11,31 @@
   "releases": [
     {
       "v": "0.1.2@8239d9ff39ae4f68dfa09490061320a0bca14af9",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@e03f91e66b49135fe140c093955b4b926c533f1f",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@9ec5431b583cb22789ddf1c47dab22e99b1d74b5",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@68add444773abb3d5e03979690959bf1d4881364",
       "r": [],
-      "a": "John Dupuy",
-      "d": "Decimal number type based on IEEE 754-2008",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.2.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:56Z",
+  "generatedAt": "2026-05-26T00:46:49Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

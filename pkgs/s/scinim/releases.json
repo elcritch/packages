@@ -18,7 +18,9 @@
         "polynumeric >= 0.2.0",
         "nimpy >= 0.2.0"
       ],
-      "s": ""
+      "s": "",
+      "m": "~",
+      "e": ""
     },
     {
       "v": "0.2.4@09632b7476e46a097b1dcdb200511fe7f9d3bbec",
@@ -28,7 +30,9 @@
         "polynumeric >= 0.2.0",
         "nimpy >= 0.2.0"
       ],
-      "s": ""
+      "s": "",
+      "m": "~",
+      "e": ""
     },
     {
       "v": "0.2.3@a6f937ad7a78708333a93e51a1355035491090d7",
@@ -38,7 +42,9 @@
         "polynumeric >= 0.2.0",
         "nimpy >= 0.2.0"
       ],
-      "s": ""
+      "s": "",
+      "m": "~",
+      "e": ""
     },
     {
       "v": "0.2.2@f97967cab1a153fd82de5ce790fa2da4fb5d26e4",
@@ -48,7 +54,9 @@
         "polynumeric >= 0.2.0",
         "nimpy >= 0.2.0"
       ],
-      "s": ""
+      "s": "",
+      "m": "~",
+      "e": ""
     },
     {
       "v": "0.1.0@0817498d5e64ff798896fafa86e4caac5e9daa53",
@@ -57,7 +65,8 @@
         "polynumeric >= 0.2.0"
       ],
       "m": "1.4.8",
-      "e": ""
+      "e": "",
+      "s": ""
     },
     {
       "v": "#head@c5250b41ee16d268594a4e899967b703d04b1bd8",
@@ -68,15 +77,13 @@
         "nimpy >= 0.2.0",
         "print"
       ],
-      "a": "SciNim",
-      "d": "The core types and functions of the SciNim ecosystem",
-      "l": "MIT",
-      "e": "cpp",
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "s": "",
+      "e": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:27Z",
+  "generatedAt": "2026-05-26T00:54:29Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

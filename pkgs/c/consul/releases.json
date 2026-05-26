@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.0.1@afeea4310cf4875e1982628ee79a85c45d8ed78e",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@ecb777955cbef445184dba7fb0eeed0b32bfd268",
       "r": [],
-      "a": "Zach Smith",
-      "d": "A simple interface to a running Consul agent.",
-      "l": "BSD2",
-      "s": "src",
-      "m": "0.18.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:34Z",
+  "generatedAt": "2026-05-26T00:46:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

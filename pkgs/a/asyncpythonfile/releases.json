@@ -13,15 +13,11 @@
     },
     {
       "v": "#head@47232f14d8625ccd13c3159e0a174edb50de4633",
-      "n": "asyncpythonfile",
-      "r": [],
-      "a": "Jack VanDrunen",
-      "d": "High level, asynchronous file API mimicking Python's file interface.",
-      "l": "ISC"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:10Z",
+  "generatedAt": "2026-05-26T00:45:02Z",
   "allDeps": {
     "packages": [],
     "urls": [],

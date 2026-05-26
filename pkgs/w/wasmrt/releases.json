@@ -14,29 +14,26 @@
       "v": "0.2.0@b8b727f4e7c47b0cff09b40c35e02b77837aadc2",
       "r": [
         "zippy"
-      ]
+      ],
+      "p": []
     },
     {
       "v": "0.1.0@4c43c82d762215e3ee455a3a52e963aa7335afd1",
       "r": [
         "zippy"
-      ]
+      ],
+      "p": []
     },
     {
       "v": "#head@59b4e5ad1f3799c2127e0b29169af2bfeab21c5a",
       "r": [
         "zippy"
       ],
-      "a": "Yuriy Glukhov",
-      "d": "Nim wasm runtime",
-      "l": "MIT",
-      "p": [
-        "wasmrt/wasm2html"
-      ]
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:42Z",
+  "generatedAt": "2026-05-26T00:56:38Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

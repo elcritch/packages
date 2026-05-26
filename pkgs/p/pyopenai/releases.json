@@ -14,36 +14,41 @@
       "r": [],
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pyopenai.jaredmontoya.github.com-d7774a37-pyopenai.nimble\ninvalid 'requires' syntax in nimble file: nim ^=2.0.0",
-      "m": "~"
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.2@df9c8058fc5f78387717da0fd12df181e200c3bf",
       "r": [],
-      "l": "MIT"
+      "l": "MIT",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@650bfde7bd6f312ecdf5f91afb194b0a84f79a2d",
       "r": [],
-      "l": "MIT"
+      "l": "MIT",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@2c9f83e64b1d433e77666f1d3cad5c3fa55d876f",
       "r": [],
-      "l": "MIT"
+      "l": "MIT",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@26135201880d6c7b8c68f8917cdeaf233db76b19",
       "r": [],
-      "a": "jaredmontoya",
-      "d": "An attempt to reimplement python OpenAI API bindings in nim",
-      "l": "GPL-3.0-or-later",
-      "s": "src",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/p/pyopenai/.worktree/pyopenai.nimble\ninvalid 'requires' syntax in nimble file: nim ^=2.0.0"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/p/pyopenai/.worktree/pyopenai.nimble\ninvalid 'requires' syntax in nimble file: nim ^=2.0.0",
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:52Z",
+  "generatedAt": "2026-05-26T00:53:57Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

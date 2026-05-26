@@ -13,11 +13,15 @@
       "v": "0.4.3@593e3b629ab881896b2c25fd29e5ff46f5cfd1fb",
       "r": [
         "gh:yglukhov/android"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.4.2@c76a2f487eec08061ab4e5869d53aaafc29008d7",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@beec0f363e62886da7a1c6de47ecb3b19d6de75e",
@@ -27,15 +31,12 @@
         "checksums",
         "regex"
       ],
-      "a": "Göran Krampe",
-      "d": "A wrapper of the ORX 2.5D game engine",
-      "l": "Zlib",
-      "s": "src",
-      "m": "2.2.4"
+      "m": "2.2.4",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:41Z",
+  "generatedAt": "2026-05-26T00:52:47Z",
   "allDeps": {
     "packages": [
       "checksums",

@@ -14,25 +14,31 @@
       "r": [
         "util",
         "ajax >= 0.1.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.1.0@cf08215aa952f31d02db185514b53d5f97ce34e2",
       "r": [
         "util",
         "ajax >= 0.1.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@a1c02dd95e4c338841ebd8a03fa3b2f81c4f83ad",
       "r": [
         "util",
         "ajax >= 0.1.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:54:23Z",
+  "generatedAt": "2026-05-26T00:57:21Z",
   "allDeps": {
     "packages": [
       "ajax",

@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@dcbb29a03ef41e8c3ed27bef163d1002b782904f",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@ade4bd9f3f285a1367a5245b714ba2baa6565fbb",
       "r": [],
-      "a": "Diego Guraieb",
-      "d": "easy json helpers to marshal and unmarshal json",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.18.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:16Z",
+  "generatedAt": "2026-05-26T00:49:20Z",
   "allDeps": {
     "packages": [],
     "urls": [],

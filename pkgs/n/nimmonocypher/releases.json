@@ -15,14 +15,16 @@
       "r": [
         "nimgen >= 0.4.0"
       ],
-      "h": true
+      "h": true,
+      "x": []
     },
     {
       "v": "0.1.1@931eda1b53c4499c1be9b39ddfea6b3dbb61fd18",
       "r": [
         "nimgen >= 0.4.0"
       ],
-      "h": true
+      "h": true,
+      "x": []
     },
     {
       "v": "#head@5b49c41709dd8732f1110de4a5ba214b252b73f7",
@@ -30,16 +32,11 @@
         "nimgen >= 0.4.0"
       ],
       "h": true,
-      "a": "genotrance",
-      "d": "monocypher wrapper for Nim",
-      "l": "MIT",
-      "x": [
-        "tests"
-      ]
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:59Z",
+  "generatedAt": "2026-05-26T00:52:02Z",
   "allDeps": {
     "packages": [
       "c2nim",

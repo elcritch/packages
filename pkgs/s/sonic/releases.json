@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@cc2a86e74c2ac835ef15971d45f7a16ffc69ac90",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@452920ba19e497c1779aab8955de3851e2ba895c",
       "r": [],
-      "a": "xmonader",
-      "d": "client for sonic search backend",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.19.4"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:01Z",
+  "generatedAt": "2026-05-26T00:55:02Z",
   "allDeps": {
     "packages": [],
     "urls": [],

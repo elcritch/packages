@@ -23,7 +23,9 @@
         "bearssl",
         "results",
         "zlib"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.3.0@c105d98e6522e0e2cbe3dfa11b07a273e9fd0e7b",
@@ -36,7 +38,9 @@
         "bearssl",
         "results",
         "zlib"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.2.1@428848618d9a5958f49e1844baaf331a701b2958",
@@ -50,7 +54,8 @@
         "results",
         "zlib"
       ],
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "x": []
     },
     {
       "v": "0.2.0@a6bc2dd29f3a5f234a9c673594eb793d6d30e1ed",
@@ -63,7 +68,8 @@
         "bearssl",
         "zlib"
       ],
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "x": []
     },
     {
       "v": "#head@387a8eb7e961e8fdd3b1a717d36bc53b55e4dc5d",
@@ -76,11 +82,13 @@
         "bearssl",
         "results",
         "zlib"
-      ]
+      ],
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:54:26Z",
+  "generatedAt": "2026-05-26T00:57:26Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

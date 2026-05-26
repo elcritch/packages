@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@872c9287726852ff83940f15cfee777842cfe1be",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@5b4c84de2004ebede91b0b61617fa16b87141eaf",
       "r": [],
-      "a": "Julian Fondren",
-      "d": "Get the current hostname with gethostname(2)",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:07Z",
+  "generatedAt": "2026-05-26T00:53:11Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -11,20 +11,20 @@
   "releases": [
     {
       "v": "0.1.0@1ed73984994a40acbb8c8b1face52c016e725c3d",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@a24c77999e501cb10847312d393f35f4c106cd6a",
       "r": [],
       "a": "madonuko",
-      "d": "Common utils for Nimscript",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:15Z",
+  "generatedAt": "2026-05-26T00:52:18Z",
   "allDeps": {
     "packages": [],
     "urls": [],

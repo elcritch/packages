@@ -20,7 +20,11 @@
         "docopt",
         "fab",
         "gara"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "1.2.0@2ae3784f556c77c4edd1fac8e9eae5275441e10c",
@@ -29,7 +33,11 @@
         "docopt",
         "fab",
         "gara"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "1.0.0@df0c65f28707d62ec2c52ab681e5490f3658e9c0",
@@ -38,7 +46,11 @@
         "docopt",
         "fab",
         "gara"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.8.0@168fab9431140f35459dfc6adc1f51d4fdc25b7b",
@@ -46,7 +58,11 @@
         "progress",
         "docopt",
         "fab"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.6.0@528c6fac0e173c4b026be006e7394d37f1cc1034",
@@ -55,7 +71,11 @@
         "docopt",
         "fab"
       ],
-      "d": "A boilerplate generator for Nim Lang's Jester web framework"
+      "d": "A boilerplate generator for Nim Lang's Jester web framework",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.4.0@c1f14cead5ce0eeb1116823dcac007dd993bc043",
@@ -64,7 +84,11 @@
         "docopt",
         "fab"
       ],
-      "d": "A boilerplate generator for Nim Lang's Jester web framework"
+      "d": "A boilerplate generator for Nim Lang's Jester web framework",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.2.0@1923fff6a96484a7d757fc6b9521b936ee806942",
@@ -73,7 +97,11 @@
         "docopt",
         "fab"
       ],
-      "d": "A boilerplate generator for Nim Lang's Jester web framework"
+      "d": "A boilerplate generator for Nim Lang's Jester web framework",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "#head@7c25d0fca7d34fde8ddf948972b4b029214dd40d",
@@ -82,11 +110,15 @@
         "docopt",
         "fab",
         "gara"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:08Z",
+  "generatedAt": "2026-05-26T00:48:07Z",
   "allDeps": {
     "packages": [
       "docopt",

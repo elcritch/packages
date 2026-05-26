@@ -113,7 +113,8 @@
         "nimcrypto >= 0.5.4"
       ],
       "a": "Huy Doan",
-      "d": "HMAC hashing in Nim"
+      "d": "HMAC hashing in Nim",
+      "m": "~"
     },
     {
       "v": "0.3.1@cedc1aa785487c07be65f946e34f212e4108fb25",
@@ -145,12 +146,11 @@
       ],
       "a": "Huy Doan",
       "d": "HMAC hashing in Nim",
-      "l": "MIT",
-      "m": "2.0.0"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:42Z",
+  "generatedAt": "2026-05-26T00:48:47Z",
   "allDeps": {
     "packages": [
       "checksums > 0.3.1",

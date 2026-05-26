@@ -14,23 +14,21 @@
   "releases": [
     {
       "v": "1.0.0@8fda202054765a4967f966dc46e36f8ac21f1acc",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@bb837fcbd3ad4b617d561da9c7b70c1ed3630b2e",
       "r": [],
-      "a": "Chokri Hammedi (blue0x1)",
-      "d": "Advanced XPath Injection Vulnerability Scanner",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "xpath"
-      ],
-      "m": "2.0.0"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:54:17Z",
+  "generatedAt": "2026-05-26T00:57:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

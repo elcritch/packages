@@ -11,30 +11,31 @@
   "releases": [
     {
       "v": "0.1.2@55282bd52cd944bc7432468e063c3fba7163fbdb",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@72869cd88b7e95e0649270fc4a6051275c8e09e1",
       "r": [],
-      "s": ""
+      "s": "",
+      "m": "~"
     },
     {
       "v": "0.1.0@04d058a89ab6bc1115228950326e823dde81c202",
       "r": [],
-      "s": ""
+      "s": "",
+      "m": "~"
     },
     {
       "v": "#head@b755322f8e2532dd7dbcd264a11207a11b0a0e22",
       "r": [],
-      "a": "Jordan Hrycaj",
-      "d": "Jenkins Hasher producing 32 bit digests",
-      "l": "UNLICENCE",
-      "s": "src",
-      "m": "1.4.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:19Z",
+  "generatedAt": "2026-05-26T00:49:22Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -15,36 +15,32 @@
   "releases": [
     {
       "v": "1.0.0@4b8f6db181acb29d09c8d87a273cb3c215ab29dc",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "1.0.1@7709d551c8247bfd262af30d555a9da3567a66dd",
       "r": [
         "nimcrypto"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "#head@412a11c32b75f45a02e11390bef834e2d4155b4b",
-      "n": "bncurve",
       "r": [
         "nimcrypto",
         "stew >= 0.2.0",
         "intops >= 1.0.6",
         "unittest2 >= 0.2.3"
       ],
-      "a": "Status Research & Development GmbH",
-      "d": "Barreto-Naehrig pairing-friendly elliptic curve implementation",
-      "l": "Apache License 2.0 or MIT",
-      "x": [
-        "tests",
-        "Nim",
-        "nim"
-      ],
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:49Z",
+  "generatedAt": "2026-05-26T00:45:42Z",
   "allDeps": {
     "packages": [
       "intops",

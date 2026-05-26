@@ -16,28 +16,33 @@
         "error://findxml"
       ],
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/brainlyextractor.thisago.github.com-2bba258b-brainlyextractor.nimble\ncannot resolve package name: findxml"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/brainlyextractor.thisago.github.com-2bba258b-brainlyextractor.nimble\ncannot resolve package name: findxml",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@1b65a18ca6a46347881a2fab7405d73ab0656c3f",
       "r": [
         "scraper"
       ],
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "s": ""
     },
     {
       "v": "0.1.2@461c93cad4e6b8c1a9b121c15b9950bca4d8c27f",
       "r": [
         "scraper"
       ],
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "s": ""
     },
     {
       "v": "0.1.3@5176224f2160695ed745b75bcbaeb093065661f0",
       "r": [
         "scraper"
       ],
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "s": ""
     },
     {
       "v": "0.2.0@3dc7f53e42e5481b5220f9e89d6d8a5bc0bcb093",
@@ -45,7 +50,8 @@
         "scraper",
         "gl:lurlo/useragent"
       ],
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "s": ""
     },
     {
       "v": "0.2.1@b3163724d6872ff5851bd67b3b306580876e959c",
@@ -53,7 +59,8 @@
         "scraper",
         "gl:lurlo/useragent"
       ],
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "s": ""
     },
     {
       "v": "0.2.2@2639eb7f612506764922b6bb6454c1d906c17ea0",
@@ -61,7 +68,8 @@
         "scraper",
         "gl:lurlo/useragent"
       ],
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "s": ""
     },
     {
       "v": "0.3.0@39994535f1f0b9170dad4712d5cbf10fd68c5950",
@@ -69,7 +77,8 @@
         "scraper",
         "gl:lurlo/useragent"
       ],
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "s": ""
     },
     {
       "v": "#head@4b735563d96363efb03aa61308eb4a9d8b484cd9",
@@ -78,14 +87,12 @@
         "gl:lurlo/useragent"
       ],
       "a": "Thiago Navarro",
-      "d": "Brainly data extractor",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:52Z",
+  "generatedAt": "2026-05-26T00:45:47Z",
   "allDeps": {
     "packages": [
       "scraper > 0.1.0"

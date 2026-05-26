@@ -10,7 +10,8 @@
   "releases": [
     {
       "v": "1.2.0@afbcc2a15f9cfc3436fae03cf02061790feee25d",
-      "r": []
+      "r": [],
+      "s": ""
     },
     {
       "v": "1.1.0@9928a212f49a63260e83111a1674a00d8cc480b7",
@@ -24,16 +25,12 @@
     },
     {
       "v": "#head@9f33a000cfadb4ffe0a404798147dea90fed66c4",
-      "n": "optional_t",
       "r": [],
-      "a": "Flaviu Tamas",
-      "d": "A simple Option[T] library",
-      "l": "MIT",
-      "s": "src"
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:03Z",
+  "generatedAt": "2026-05-26T00:53:08Z",
   "allDeps": {
     "packages": [],
     "urls": [],

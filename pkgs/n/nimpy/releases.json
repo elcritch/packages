@@ -10,11 +10,13 @@
   "releases": [
     {
       "v": "0.1.0@31e5d4105563f3e85300d5cb2aa101a91358d292",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "0.1.1@83a13813a6aa5f66e71619caf160ca6c624d97aa",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "0.2.0@621bb4cdd9f85f93fe20570142b1984e6f4500aa",
@@ -29,14 +31,11 @@
     {
       "v": "#head@d559f7bcb8fb877b4eae4bd116b8fbc9e16560ef",
       "r": [],
-      "a": "Yuriy Glukhov",
-      "d": "Nim python integration lib",
-      "l": "MIT",
       "m": "1.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:08Z",
+  "generatedAt": "2026-05-26T00:52:11Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -11,24 +11,25 @@
   "releases": [
     {
       "v": "1.1.0@11ad29c0f4ed3a608d154c4e1f25dfa1cd5e8847",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.0@12f40dd5f9468cf70fe0de7ed38fc8bd267c1803",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@2e00b31d23dc3dee06d246d7d3736585ba5a22a9",
       "r": [],
-      "a": "K.Kentaro",
-      "d": "This is a tool to make AviUtl's dll script.",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.2.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:36Z",
+  "generatedAt": "2026-05-26T00:44:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

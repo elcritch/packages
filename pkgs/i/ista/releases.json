@@ -17,26 +17,25 @@
       "v": "0.1.0@9d7b0d672cc38a767d5ecec68e4e82f70445bc6d",
       "r": [
         "therapist #HEAD"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "#head@67fd7bda15f90bc312222a608760426da6f2229a",
       "r": [
         "therapist #HEAD"
       ],
-      "a": "M",
-      "d": "Ista - A versatile command line speed reader to enhance your reading efficiency",
-      "l": "GPL-2.0",
-      "s": "src",
-      "b": "bin",
-      "p": [
-        "ista"
-      ],
-      "m": "2.2.0"
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:14Z",
+  "generatedAt": "2026-05-26T00:49:17Z",
   "allDeps": {
     "packages": [
       "therapist"

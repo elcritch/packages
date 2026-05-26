@@ -23,7 +23,10 @@
     {
       "v": "1.1.0@c1984dead29a3c9e0be1eede4ca41e7b0e3a28d0^",
       "r": [],
-      "h": true
+      "h": true,
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "1.0.0@dd095b793284db919b6396590a07c0903c791108",
@@ -43,16 +46,20 @@
         "cmake",
         "ci",
         "resources"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "#head@c1984dead29a3c9e0be1eede4ca41e7b0e3a28d0",
       "r": [],
-      "h": true
+      "h": true,
+      "m": "~",
+      "s": "",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:04Z",
+  "generatedAt": "2026-05-26T00:52:08Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

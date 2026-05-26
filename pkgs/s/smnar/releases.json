@@ -13,33 +13,33 @@
       "v": "0.1.0@ed06ce13cf73457b9c16289123b8ff00fe0aef62",
       "r": [
         "zip >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@022898501b51b44756d1c5edd9ffd129d4bfcdf3",
       "r": [
         "zip >= 0.2.1"
       ],
-      "m": "1.2.0"
+      "m": "1.2.0",
+      "s": ""
     },
     {
       "v": "#head@c059748642370fe17414d7997ee5d63cba6a3cb9",
       "r": [
         "zip >= 0.2.1"
       ],
-      "a": "Juan Carlos",
-      "d": "Servicio Meteorologico Nacional Argentina API Client",
-      "l": "MIT",
-      "s": "src",
       "x": [
         "docs",
         "gui"
       ],
-      "m": "1.2.0"
+      "m": "1.2.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:57Z",
+  "generatedAt": "2026-05-26T00:54:59Z",
   "allDeps": {
     "packages": [
       "zip"

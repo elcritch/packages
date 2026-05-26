@@ -13,17 +13,21 @@
       "v": "0.1.0@2733c0a6761cdc8f992fceb684966a0cb5b4dd01^",
       "r": [
         "x11"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@2733c0a6761cdc8f992fceb684966a0cb5b4dd01",
       "r": [
         "x11"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:54:10Z",
+  "generatedAt": "2026-05-26T00:57:07Z",
   "allDeps": {
     "packages": [
       "x11"

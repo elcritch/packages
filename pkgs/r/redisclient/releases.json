@@ -13,22 +13,21 @@
       "v": "0.1.1@c0911502399d5333d00b3bcc448c987a36f07817",
       "r": [
         "redisparser >= 0.1.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@6a28bb1a82636f16996d8c29db38ec122a0b8197",
       "r": [
         "redisparser >= 0.2.0"
       ],
-      "a": "xmonader",
-      "d": "Redis client for Nim",
-      "l": "Apache2",
-      "s": "src",
-      "m": "0.18.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:07Z",
+  "generatedAt": "2026-05-26T00:54:11Z",
   "allDeps": {
     "packages": [
       "redisparser"

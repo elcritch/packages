@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@a41c4a405b372223d477dc269cbbf7eac15b0fe5",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@d1a30a5f6d69cc634e466ef22b02e89120ddb919",
       "r": [],
-      "a": "Guevara-chan",
-      "d": "Blitz3D-esque DX9 engine for Nim",
-      "l": "MIT",
-      "s": "Headers",
-      "m": "0.18.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:46Z",
+  "generatedAt": "2026-05-26T00:44:37Z",
   "allDeps": {
     "packages": [],
     "urls": [],

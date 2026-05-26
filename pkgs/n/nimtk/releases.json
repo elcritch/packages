@@ -13,22 +13,21 @@
       "v": "0.1.0@99dd3bd95af76f3575892c7005472c53f4682237",
       "r": [
         "nimtcl >= 1.0.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@c4fce10fe329faecb450d4a4796e0ef219208f26",
       "r": [
         "nimtcl >= 0.1.0"
       ],
-      "a": "neroist",
-      "d": "High-level Tk wrapper for Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:18Z",
+  "generatedAt": "2026-05-26T00:52:21Z",
   "allDeps": {
     "packages": [
       "nimtcl"

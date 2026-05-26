@@ -29,7 +29,11 @@
         "nimgraphviz >= 0.3.0"
       ],
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/astdot.Rekihyt.github.com-4aceb922-astdot.nimble\ncannot resolve package name: strings"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/astdot.Rekihyt.github.com-4aceb922-astdot.nimble\ncannot resolve package name: strings",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "#head@54a613bebe859ca40b23aaa4e88cc155530b4499",
@@ -37,19 +41,14 @@
         "clapfn",
         "nimgraphviz >= 0.3.0"
       ],
-      "a": "Rekihyt",
-      "d": "Prints a dot graph of a nim ast dumped using the `dumpTree` macro.",
-      "l": "MIT",
-      "s": "src",
-      "b": "bin",
-      "p": [
-        "astdot"
-      ],
-      "m": "1.2.0"
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:06Z",
+  "generatedAt": "2026-05-26T00:44:59Z",
   "allDeps": {
     "packages": [
       "clapfn > 1.0.0",

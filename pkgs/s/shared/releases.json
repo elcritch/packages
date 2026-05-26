@@ -12,21 +12,17 @@
   "releases": [
     {
       "v": "0.1.0@70ef0d39c957c93f3300b39ec7d53ab1ca2b1fbf",
-      "r": []
+      "r": [],
+      "x": []
     },
     {
       "v": "#head@dee3eff487c4af3c8f9e71ca8ddbb90a9e36da14",
       "r": [],
-      "a": "genotrance",
-      "d": "Nim library for shared types",
-      "l": "MIT",
-      "x": [
-        "tests"
-      ]
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:41Z",
+  "generatedAt": "2026-05-26T00:54:44Z",
   "allDeps": {
     "packages": [],
     "urls": [],

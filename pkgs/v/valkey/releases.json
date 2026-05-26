@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@72e58618a384dd302d43294d1bab26325c6f115a",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@f691200e6aaf4a64716e07e17ca3ac0bd1c0b5d0",
       "r": [],
-      "a": "Parker Shankin Clarke <parkerwsc1@gmail.com>",
-      "d": "Valkey (Redis-compatible) client for Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:30Z",
+  "generatedAt": "2026-05-26T00:56:27Z",
   "allDeps": {
     "packages": [],
     "urls": [],

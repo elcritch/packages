@@ -24,33 +24,25 @@
   "releases": [
     {
       "v": "1.0.0@0e58198dae477be10a5eaffb4926fe8ba51af613",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": [],
+      "y": [],
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@502ce0018e971efafee2058b3d6941e2c9541565",
       "r": [],
-      "a": "nirokay",
-      "d": "Random name/word generator.",
-      "l": "GPL-3.0-only",
-      "x": [
-        "docs",
-        "tests",
-        "examples"
-      ],
-      "y": [
-        "update_docs.sh"
-      ],
-      "k": [
-        "nim"
-      ],
-      "p": [
-        "nimegenerator"
-      ],
-      "m": "1.6.10"
+      "m": "~",
+      "x": [],
+      "y": [],
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:40Z",
+  "generatedAt": "2026-05-26T00:51:41Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

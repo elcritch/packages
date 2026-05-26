@@ -13,7 +13,9 @@
       "v": "0.1.0@15962adb38ee7f83ca1a540197c1b311333f61fa",
       "r": [
         "bigints"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@ef7f6aebef29dd199daea2af9d17952516e04913",
@@ -22,18 +24,15 @@
         "blackpaper",
         "openparser"
       ],
-      "a": "George Lemon",
-      "d": "A library of string validators and sanitizers.",
-      "l": "MIT",
-      "s": "src",
       "x": [
         "data"
       ],
-      "m": "1.6.10"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:30Z",
+  "generatedAt": "2026-05-26T00:56:27Z",
   "allDeps": {
     "packages": [
       "bigints",

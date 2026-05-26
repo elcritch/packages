@@ -14,14 +14,18 @@
       "r": [
         "nimwkhtmltox >= 0.1.0",
         "nimib"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@a4814d8cfb0031f0be2e7c3ade18c57138bc9fb8",
       "r": [
         "nimwkhtmltox >= 0.1.0",
         "nimib"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@2d42e80a45020276ff38879c458615684bd3cc41",
@@ -29,15 +33,12 @@
         "nimwkhtmltox >= 0.1.0",
         "nimib"
       ],
-      "a": "Jasmine",
-      "d": "PDF backend for nimib",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:52Z",
+  "generatedAt": "2026-05-26T00:51:53Z",
   "allDeps": {
     "packages": [
       "faststreams",

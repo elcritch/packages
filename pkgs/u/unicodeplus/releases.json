@@ -15,7 +15,9 @@
         "unicodedb >= 0.8",
         "segmentation >= 0.1",
         "graphemes >= 0.12"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.14.1@75c5b571d0e2ab5b20cd3f0e7a660a46aca4c19f",
@@ -23,7 +25,9 @@
         "unicodedb >= 0.8",
         "segmentation >= 0.1",
         "graphemes >= 0.12"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.14.0@4d83cf0f18a13d3eb7fc668e17c976724b36db97",
@@ -31,56 +35,72 @@
         "unicodedb >= 0.8",
         "segmentation >= 0.1",
         "graphemes >= 0.12"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.13.0@dc0c62d5642f63408f18405b86ee0c4a883dff9f",
       "r": [
         "unicodedb >= 0.8",
         "segmentation >= 0.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.12.0@672f8ac69035f04f323a644ddc46eb70b4ec22fb",
       "r": [
         "unicodedb >= 0.8",
         "segmentation >= 0.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.11.1@ec9b4d684f0c6d00b5feefa6766344df4a59346b",
       "r": [
         "unicodedb >= 0.8",
         "segmentation >= 0.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.11.0@8e29ae4d8df1cc83f90ff8926f2b1bde24924001",
       "r": [
         "unicodedb >= 0.8",
         "segmentation >= 0.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.10.0@461df6b60222fa18f334cbf64b69b26256255084",
       "r": [
         "unicodedb >= 0.8",
         "segmentation >= 0.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.9.1@f5d50197b266173dd4ca4c6fdd30361398433bb4",
       "r": [
         "unicodedb >= 0.8",
         "segmentation >= 0.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.9.0@ee0e11c286ff4d8a4ac5a56e7a272c43b187957f",
       "r": [
         "unicodedb >= 0.8",
         "segmentation >= 0.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.8.0@0788d4b917d057e2b3bc96478fb087a5ad2d8c7b",
@@ -88,7 +108,8 @@
         "unicodedb >= 0.8",
         "segmentation >= 0.1"
       ],
-      "m": "0.19.0"
+      "m": "0.19.0",
+      "s": ""
     },
     {
       "v": "0.6.0@fcbbd7de2296b3b6ab126fc8fc65f0f6fdbcd97c",
@@ -96,70 +117,80 @@
         "unicodedb >= 0.8",
         "segmentation >= 0.1"
       ],
-      "m": "0.19.0"
+      "m": "0.19.0",
+      "s": ""
     },
     {
       "v": "0.5.1@9ebe96bf2aeaad590f4e09d287f76fe74e7efb88",
       "r": [
         "unicodedb >= 0.7"
       ],
-      "m": "0.18.0"
+      "m": "0.18.0",
+      "s": ""
     },
     {
       "v": "0.5.0@59d7d199b5c7086a917f9783ca38759f59809a25",
       "r": [
         "unicodedb >= 0.7"
       ],
-      "m": "0.18.0"
+      "m": "0.18.0",
+      "s": ""
     },
     {
       "v": "0.4.0@c9b89a465feee4096f8adde93c94a0616ee71c6a",
       "r": [
         "unicodedb >= 0.6 & < 0.7"
       ],
-      "m": "0.18.0"
+      "m": "0.18.0",
+      "s": ""
     },
     {
       "v": "0.3.2@8df4f6864490ddba201087289132fd3dee4ee918",
       "r": [
         "unicodedb >= 0.4 & < 0.6"
       ],
-      "m": "0.17.2"
+      "m": "0.17.2",
+      "s": ""
     },
     {
       "v": "0.3.1@9b13101cccd75a0bb6dfa57e2eccc12725402b90",
       "r": [
         "unicodedb >= 0.4 & < 0.6"
       ],
-      "m": "0.17.2"
+      "m": "0.17.2",
+      "s": ""
     },
     {
       "v": "0.3.0@ce2ae5ac8b1dd8f716cc8e1517814b15603e67a5",
       "r": [
         "unicodedb >= 0.4 & < 0.5"
       ],
-      "m": "0.17.2"
+      "m": "0.17.2",
+      "s": ""
     },
     {
       "v": "0.2.0@1e6980de5d1c82b3989a471a8a838e57a4dbb3c2",
       "r": [
         "unicodedb >= 0.4 & < 0.5"
       ],
-      "m": "0.17.2"
+      "m": "0.17.2",
+      "s": ""
     },
     {
       "v": "0.1.1@c9cef21838d739ad81d2c6e137871577a92d8a66",
       "r": [
         "unicodedb >= 0.2 & < 0.3"
       ],
-      "m": "0.17.2"
+      "m": "0.17.2",
+      "s": ""
     },
     {
       "v": "0.1.0@3cddaaa0a5193b15cf6d74f25df2a28cb0921ef2",
       "r": [
         "unicodedb >= 0.2 & <= 0.3"
       ],
-      "m": "0.17.2"
+      "m": "0.17.2",
+      "s": ""
     },
     {
       "v": "#head@f802d012290c32a69a774f2e7ea889546c1132e7",
@@ -167,11 +198,13 @@
         "unicodedb >= 0.8",
         "segmentation >= 0.1",
         "graphemes >= 0.12"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:20Z",
+  "generatedAt": "2026-05-26T00:56:17Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

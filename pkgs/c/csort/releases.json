@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "1.0.0@e9f0c49b234fd4a2038b752ab02703288346ce98",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@c37c37cbe7a7c9a9466666d19185a5dbe003e42d",
       "r": [],
-      "a": "WyattBlue",
-      "d": "A fast, branchless, sorting algorithm",
-      "l": "Unlicense",
-      "s": "src",
-      "m": "2.2.4"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:43Z",
+  "generatedAt": "2026-05-26T00:46:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

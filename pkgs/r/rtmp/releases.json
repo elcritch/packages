@@ -13,22 +13,21 @@
       "v": "0.1.0@7a9dd1a4bb7b51f040433ea7d3ba6c9fc37eb4aa",
       "r": [
         "libevent #head"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@cc456fe8528c4e0e35be7cdb198c50f5ee97c16b",
       "r": [
         "libevent #head"
       ],
-      "a": "George Lemon",
-      "d": "Real-Time Messaging Protocol for Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:20Z",
+  "generatedAt": "2026-05-26T00:54:23Z",
   "allDeps": {
     "packages": [
       "libevent"

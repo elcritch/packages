@@ -133,14 +133,11 @@
     },
     {
       "v": "#head@2906828765d4f253b59e351219ce7bf9e3a3e699",
-      "r": [],
-      "a": "Questionable Authors",
-      "d": "Elegant optional types",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:57Z",
+  "generatedAt": "2026-05-26T00:54:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

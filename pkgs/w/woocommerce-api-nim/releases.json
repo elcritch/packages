@@ -14,23 +14,19 @@
   "releases": [
     {
       "v": "0.0.1@3de406ea5f871a540bf58b82f2cc0b36551ed9b4",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "#head@e5fb8821e73a0b0f372b6f9a71da9bece69516e7",
       "r": [],
-      "a": "Henrique Dias",
-      "d": "A Nim wrapper for the WooCommerce REST API",
-      "l": "MIT",
-      "x": [
-        "examples",
-        "tests"
-      ],
-      "m": "1.0.4"
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:54:03Z",
+  "generatedAt": "2026-05-26T00:57:00Z",
   "allDeps": {
     "packages": [],
     "urls": [],

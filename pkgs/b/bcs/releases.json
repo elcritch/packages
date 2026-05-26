@@ -13,35 +13,45 @@
       "v": "0.3.7@56f4981aa6c3ca3798fed051583ef4c5c18503b2^",
       "r": [
         "integers 0.1.3"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.6@b8e717f84df55111c2a6fcb57e646279a34b5f70",
       "r": [
         "integers 0.1.3"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.5@95aeef0f19afe8396be55b8d395e5aa9fecf20aa",
       "r": [
         "integers 0.1.3"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@e9891bd96161365e32627dbc6e0f48dcbe51dc41",
       "r": [
         "integers 0.1.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@56f4981aa6c3ca3798fed051583ef4c5c18503b2",
       "r": [
         "integers 0.1.3"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:32Z",
+  "generatedAt": "2026-05-26T00:45:25Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -14,7 +14,9 @@
       "r": [
         "vmath >= 1.0.0",
         "bumpy >= 1.0.3"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.0.3@e65ac6156e151323de09d3805a6f3c2bda9c74eb",
@@ -22,7 +24,8 @@
         "vmath >= 0.4.1",
         "bumpy >= 1.0.2"
       ],
-      "m": "1.2.2"
+      "m": "1.2.2",
+      "s": ""
     },
     {
       "v": "0.0.2@ccd4e78eb174bf37b0deb82a51cf4b1d9fa9a27f",
@@ -30,7 +33,8 @@
         "vmath >= 0.4.1",
         "bumpy >= 1.0.2"
       ],
-      "m": "1.2.2"
+      "m": "1.2.2",
+      "s": ""
     },
     {
       "v": "0.0.1@b69bd5880b5dffb8f0f975d0916f27a1cc494da9",
@@ -38,7 +42,8 @@
         "vmath >= 0.4.1",
         "bumpy >= 1.0.2"
       ],
-      "m": "1.2.2"
+      "m": "1.2.2",
+      "s": ""
     },
     {
       "v": "#head@521be7bb29f6eb2b3c38c6c171eaf48f1b528701",
@@ -47,14 +52,12 @@
         "bumpy >= 1.1.1"
       ],
       "a": "Andre von Houck",
-      "d": "Spatial data structures for Nim.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:03Z",
+  "generatedAt": "2026-05-26T00:55:05Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -89,7 +89,9 @@
         "nio >= 0.7.10",
         "fitl >= 0.6.5",
         "spfun >= 0.7.7"
-      ]
+      ],
+      "m": "~",
+      "p": []
     },
     {
       "v": "0.18.12@bea1632e05b93dab2b1d385332b3ecc463d930bf",
@@ -99,7 +101,9 @@
         "nio >= 0.7.10",
         "fitl >= 0.6.4",
         "spfun >= 0.7.6"
-      ]
+      ],
+      "m": "~",
+      "p": []
     },
     {
       "v": "0.18.11@bf291633182aece047a940135f66d1f7d4db7d58",
@@ -180,7 +184,8 @@
         "bu/zipf",
         "niom",
         "ac"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.18.10@dc3ccd6eb2988e8b20c9eef7fe12f61c795bf646",
@@ -261,7 +266,8 @@
         "bu/zipf",
         "niom",
         "ac"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.18.9@5d03ae3c1e8d59181ad4ddcc8a137954f5199277",
@@ -342,7 +348,8 @@
         "bu/zipf",
         "niom",
         "ac"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.18.8@ec466df7063ee7ac7771445eaf7a52aba4ebaff8",
@@ -422,7 +429,8 @@
         "bu/zipf",
         "niom",
         "ac"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.18.7@fd616025fbb0fba21f07201977d704b76ca98508",
@@ -502,7 +510,8 @@
         "bu/zipf",
         "niom",
         "ac"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.18.6@2dbc8f61bd6d07bb806c71a20eebf5faf24dfd75",
@@ -582,7 +591,8 @@
         "bu/zipf",
         "niom",
         "ac"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.18.5@8ced72782474cf621013cf91efe48c2e4d8aaa70",
@@ -661,7 +671,8 @@
         "bu/zipf",
         "niom",
         "ac"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.18.4@c0c0be4b29c1ee564a4968e1c16bead0c0d2eabd",
@@ -740,7 +751,8 @@
         "bu/zipf",
         "niom",
         "ac"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.18.3@171c69587869c88eb9eefa146672990d586aea64",
@@ -818,7 +830,8 @@
         "bu/zipf",
         "niom",
         "ac"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.18.2@6b7a9534d24b78946562927ede019d49a5dc38ca",
@@ -896,7 +909,8 @@
         "bu/zipf",
         "niom",
         "ac"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.18.1@5a1854873f65df3f82c92751a18e60e049865f0b",
@@ -974,7 +988,8 @@
         "bu/zipf",
         "niom",
         "ac"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.18.0@fad8f3701fd268afc82ccfbbb668c57c7cb23cd6",
@@ -1052,7 +1067,8 @@
         "bu/zipf",
         "niom",
         "ac"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.17.3@67a7ed1049fd69e1149b8335f79669831fce1e07",
@@ -1130,7 +1146,8 @@
         "bu/zipf",
         "niom",
         "ac"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.17.2@ac25b9db2e12ee0cac5dad151cae83ef69e0fbc9",
@@ -1208,7 +1225,8 @@
         "bu/zipf",
         "niom",
         "ac"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.17.1@0a237212beaa15bd18a8b985f9f273dad25003ca",
@@ -1285,7 +1303,8 @@
         "bu/zipf",
         "niom",
         "ac"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.17.0@d1b8c04c92cab5b827898777909789f2900cbcf7",
@@ -1361,7 +1380,8 @@
         "bu/zipf",
         "niom",
         "ac"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.16.0@ed3792440d6caf88dcc070f0b92c55be7c5008df",
@@ -4998,9 +5018,6 @@
         "fitl >= 0.6.5",
         "spfun >= 0.7.7"
       ],
-      "a": "Charles Blake",
-      "d": "B)asic|But-For U)tility Code/Programs (Usually Nim & With Unix/POSIX/Linux Context)",
-      "l": "MIT/ISC",
       "p": [
         "catz",
         "ft",
@@ -5075,11 +5092,11 @@
         "niom",
         "ac"
       ],
-      "m": "2.0.0"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T13:06:03Z",
+  "generatedAt": "2026-05-26T00:45:52Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

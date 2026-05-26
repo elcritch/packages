@@ -21,15 +21,11 @@
     },
     {
       "v": "#head@e83754f45d2a2efb5efdef569e17ff80240261ca",
-      "n": "hashids",
-      "r": [],
-      "a": "Adam Chesak",
-      "d": "Nim implementation of Hashids",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:36Z",
+  "generatedAt": "2026-05-26T00:48:39Z",
   "allDeps": {
     "packages": [],
     "urls": [],

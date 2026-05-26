@@ -15,25 +15,37 @@
   "releases": [
     {
       "v": "0.1.0@f636665b23aa00900678baa764ebb6e1b5f587e8",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.1.1@5c63c18aadd900f0717b2f0c1f9d5fbfc8bcbbff^",
       "r": [
         "cligen >= 1.5.3"
       ],
-      "d": "expand codes for competitive programing"
+      "d": "expand codes for competitive programing",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "#head@5c63c18aadd900f0717b2f0c1f9d5fbfc8bcbbff",
       "r": [
         "cligen >= 1.5.3"
       ],
-      "d": "expand codes for competitive programing"
+      "d": "expand codes for competitive programing",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:31Z",
+  "generatedAt": "2026-05-26T00:47:24Z",
   "allDeps": {
     "packages": [
       "cligen > 0.1.0"

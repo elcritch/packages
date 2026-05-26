@@ -11,32 +11,37 @@
   "releases": [
     {
       "v": "1.1.2@9d54157ee9f4a2860582c79f579a9ba7d15f9f59",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.1.1@d3aa6b50adeed2b73c59d39161e31af67a42cb80",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.1@8d801326e8f7fb056ecd36bc0863000558cfcad1",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.0@ca350238341f1a05e6a63d9516d9cc88919b1c48",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@38babfaaf8ebffefd223d63c313bcbf2f3a992c3",
       "r": [],
-      "a": "John Dupuy",
-      "d": "BSON (Binary Json) serialization",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:54Z",
+  "generatedAt": "2026-05-26T00:45:49Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

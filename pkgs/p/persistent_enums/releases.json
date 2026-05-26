@@ -10,19 +10,17 @@
   "releases": [
     {
       "v": "0.1.0@2e77a290ca57b9e580bc3fb212897a4e967a9fd6",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "#head@04eb935d339c90b4be264c1de67b9c27b06f5dad",
       "r": [],
-      "a": "Yuriy Glukhov",
-      "d": "Define enums which values preserve their binary representation upon inserting or reordering",
-      "l": "MIT",
       "m": "1.6"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:23Z",
+  "generatedAt": "2026-05-26T00:53:27Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -13,22 +13,19 @@
   "releases": [
     {
       "v": "1.0.0@b691dfa0533c4de6b2dcac208efa87ec59c61b89",
-      "r": []
+      "r": [],
+      "m": "~",
+      "y": []
     },
     {
       "v": "#head@3f92a26aced63c4d443f62a31402329a1c18d22e",
       "r": [],
-      "a": "Peter Munch-Ellingsen",
-      "d": "Implementation of Clojures persistent vector in Nim for easy immutable lists.",
-      "l": "MIT",
-      "y": [
-        "example.nim"
-      ],
-      "m": "0.17.1"
+      "m": "~",
+      "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:23Z",
+  "generatedAt": "2026-05-26T00:53:27Z",
   "allDeps": {
     "packages": [],
     "urls": [],

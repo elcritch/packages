@@ -11,20 +11,17 @@
   "releases": [
     {
       "v": "0.1.5@b66d224ef23bcdd7f15f412593aa1978de9e9931",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@45747f810f3e83905b06032146be20b9529ffe10",
-      "r": [],
-      "a": "Paul Wilde",
-      "d": "A thread safe logging library using Nim's own logging module",
-      "l": "AGPL-3.0-or-later",
-      "s": "src",
-      "m": "1.6.0"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:51Z",
+  "generatedAt": "2026-05-26T00:55:50Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@f87affb89ade4d92bfaebec1d2d509facf569975",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@525a668eb8dacd4f36d4ba1b223d73da61b2d90b",
       "r": [],
-      "a": "Thiago Navarro",
-      "d": "Convert numbers to words",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.2.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:48Z",
+  "generatedAt": "2026-05-26T00:52:53Z",
   "allDeps": {
     "packages": [],
     "urls": [],

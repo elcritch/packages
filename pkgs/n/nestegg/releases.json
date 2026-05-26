@@ -12,21 +12,20 @@
       "v": "0.1.0@2d3795a58c66ab9c3558b3647877e3ad7375df8a",
       "r": [
         "nimterop"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "#head@0d1fb41be2536177157ba84f36d1d14a0cb09934",
       "r": [
         "nimterop"
       ],
-      "a": "Carlo Capocasa",
       "d": "nestegg, a portable demuxer for the webm audio/video container format, which is a subset of the matroska container format.",
-      "l": "0BSD",
-      "m": "1.4.0"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:01Z",
+  "generatedAt": "2026-05-26T00:51:03Z",
   "allDeps": {
     "packages": [
       "cligen",

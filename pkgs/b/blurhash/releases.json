@@ -13,31 +13,37 @@
       "v": "0.2.1@81102eb57976972b8ac517472cf9fad6fb85cba4^",
       "r": [
         "imageman >= 0.7.4"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@74c24e96c3028b107caf08dbb8cc5054f05bb136",
       "r": [
         "imageman >= 0.6.0"
       ],
-      "m": "0.20.0"
+      "m": "0.20.0",
+      "s": ""
     },
     {
       "v": "0.1.0@d6ca91d6bb32bdb33ae101e77bc6055b2d8ef53d",
       "r": [
         "imageman >= 0.5.0"
       ],
-      "m": "0.20.0"
+      "m": "0.20.0",
+      "s": ""
     },
     {
       "v": "#head@81102eb57976972b8ac517472cf9fad6fb85cba4",
       "r": [
         "imageman >= 0.7.4"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:47Z",
+  "generatedAt": "2026-05-26T00:45:40Z",
   "allDeps": {
     "packages": [
       "imageman",

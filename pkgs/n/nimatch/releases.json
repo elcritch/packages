@@ -11,20 +11,20 @@
   "releases": [
     {
       "v": "0.1.0@9882b8f9e267391cf51c3399e89dc974d47a4333",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@a34dc184557e9bf52ff2e3650405a906ecc74aba",
       "r": [],
-      "a": "Nil",
       "d": "Rust-like match syntax macros for Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:27Z",
+  "generatedAt": "2026-05-26T00:51:29Z",
   "allDeps": {
     "packages": [],
     "urls": [],

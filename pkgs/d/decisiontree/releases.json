@@ -11,7 +11,9 @@
   "releases": [
     {
       "v": "0.1.0@75898b7e4728d9438b3605e1f00c89476624132f",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@493d1aa21d032a30d7d74d9ad66fc41cbd24f8bf",
@@ -19,7 +21,8 @@
         "sequtils2 >= 1.1.0"
       ],
       "a": "Michele De Vita",
-      "m": "1.2.0"
+      "m": "1.2.0",
+      "s": ""
     },
     {
       "v": "#head@3283ba2065820495c177656261d0f909fd7d1228",
@@ -27,14 +30,12 @@
         "sequtils2 >= 1.1.0"
       ],
       "a": "Michele De Vita",
-      "d": "Decision tree and Random forest CART implementation for nim",
-      "l": "GPL-3.0",
-      "s": "src",
-      "m": "1.2.0"
+      "m": "1.2.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:56Z",
+  "generatedAt": "2026-05-26T00:46:50Z",
   "allDeps": {
     "packages": [
       "sequtils2 > 0.1.0"

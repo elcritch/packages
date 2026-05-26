@@ -13,29 +13,29 @@
       "v": "0.1.0@5ddde47cc9f0e06cb6ecd561c29a8fafe9d2e215",
       "r": [
         "flippy >= 0.2.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@ff246b189203e6381cb269b6933d57e33333c5cd",
       "r": [
         "pixie #head"
       ],
-      "m": "1.4.0"
+      "m": "1.4.0",
+      "s": ""
     },
     {
       "v": "#head@aea1cc1491b8f3229bd73f49906c6238c14b1523",
       "r": [
         "pixie >= 4.3.0"
       ],
-      "a": "Andre von Houck",
-      "d": "Steganography - hide data inside an image.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.0"
+      "m": "1.4.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T22:07:28Z",
+  "generatedAt": "2026-05-26T00:55:19Z",
   "allDeps": {
     "packages": [
       "bumpy",

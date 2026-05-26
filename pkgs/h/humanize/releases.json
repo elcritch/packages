@@ -11,24 +11,25 @@
   "releases": [
     {
       "v": "0.1.0@ed03d181e9d2507571a91f4aa50e63d01bd96137",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@a3e7f7d6e8241235fb4a7354e8a85e13b6510fe1",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@9992830d5cd96124cae630cec53a4cfba81b7f5c",
       "r": [],
-      "a": "akvilary",
-      "d": "Human-readable formatting of numbers, file sizes, times, durations, and lists",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:56Z",
+  "generatedAt": "2026-05-26T00:48:59Z",
   "allDeps": {
     "packages": [],
     "urls": [],

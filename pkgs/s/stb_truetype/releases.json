@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.0.1@82f62d5ed14840274d1c0ca30eba07cccc14588b",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@d345d3a13222200338a10c72dd5345afc814408d",
       "r": [],
-      "a": "Ryan Oldenburg",
-      "d": "Nim bindings for stb_truetype.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.2.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:16Z",
+  "generatedAt": "2026-05-26T00:55:17Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

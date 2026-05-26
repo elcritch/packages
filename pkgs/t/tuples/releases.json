@@ -13,16 +13,13 @@
     },
     {
       "v": "#head@da51024576848a03a4f7b1a0826bf9b29c1db3e1",
-      "n": "tuples",
       "r": [],
-      "a": "Mason McGill",
       "d": "Tuple manipulation utilities",
-      "l": "MIT",
       "s": "source"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:11Z",
+  "generatedAt": "2026-05-26T00:56:08Z",
   "allDeps": {
     "packages": [],
     "urls": [],

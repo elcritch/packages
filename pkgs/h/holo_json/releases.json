@@ -13,7 +13,9 @@
       "v": "0.1.0@ed1cb85fe89716b5a65d6be0a31f455603d422cc",
       "r": [
         "gh:metagn/hemodyne #HEAD"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@8e893325daaab90564ffdac2fe00793200d4c40b",
@@ -21,15 +23,12 @@
         "gh:holo-nim/fleu #HEAD",
         "gh:holo-nim/cosm #HEAD"
       ],
-      "a": "Andre von Houck -> metagn",
-      "d": "usable fork of jsony",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:44Z",
+  "generatedAt": "2026-05-26T00:48:48Z",
   "allDeps": {
     "packages": [],
     "urls": [],

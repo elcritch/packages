@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.5@2b36c81363b0638aa30129fb39ff573d01f33e94",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@8ee7885f17b79b0f741c0f6f5abb6b7f0b930899",
       "r": [],
-      "a": "juancarlospaco",
-      "d": "Open Source Routing Machine for OpenStreetMap API Lib and App",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.20.0"
+      "m": "0.20.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:07Z",
+  "generatedAt": "2026-05-26T00:53:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

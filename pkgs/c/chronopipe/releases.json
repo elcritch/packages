@@ -14,23 +14,21 @@
   "releases": [
     {
       "v": "0.1.0@02145188e5e4e7a6fbf4d2a731770c202fc04ed4",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@50a0208e116b58a5c3421eea20f07e0c49430c50",
       "r": [],
-      "a": "William Tumeo",
-      "d": "Show start/end datetime and duration of a command-line process using pipe.",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "chrono"
-      ],
-      "m": "1.0"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:16Z",
+  "generatedAt": "2026-05-26T00:46:11Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -11,28 +11,31 @@
   "releases": [
     {
       "v": "0.1.2@4543bf5a642e4d9c400a40edac0b09fe0edfd5ce",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@7cae89b2f0414d2c885bff2e66f54245d57a0162",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@79be1c15311a4e4e0eed115b724f7069a48c9555",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@92e20f5309ea73701fa4ed036883c0fd266f168f",
       "r": [],
-      "a": "Konstantin Molchanov",
-      "d": "Localization package for Nim.",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.19.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:04Z",
+  "generatedAt": "2026-05-26T00:50:06Z",
   "allDeps": {
     "packages": [],
     "urls": [],

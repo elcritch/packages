@@ -10,20 +10,17 @@
   "releases": [
     {
       "v": "0.0.0@e5dcc34ff2ec9c8a398d962e7a9177434e15fdbf",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "#head@fe85ddb490b33cdabbb1de37e894a6e6b8792b49",
-      "n": "nimcat",
       "r": [],
-      "a": "James Milne",
-      "d": "An implementation of cat",
-      "l": "MIT",
-      "m": "0.10.0"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:33Z",
+  "generatedAt": "2026-05-26T00:51:34Z",
   "allDeps": {
     "packages": [],
     "urls": [],

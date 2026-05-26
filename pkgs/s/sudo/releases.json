@@ -14,25 +14,31 @@
       "r": [
         "sweet >= 0.1.1",
         "results"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@341fb5dbabe7a2fdaf66b3c055de8681f9866af0",
       "r": [
         "sweet >= 0.1.1",
         "results"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@36455ab07524ca2a1896ef1bbad493ea9421c84b",
       "r": [
         "sweet >= 0.1.1",
         "results"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:24Z",
+  "generatedAt": "2026-05-26T00:55:25Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

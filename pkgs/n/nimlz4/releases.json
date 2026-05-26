@@ -13,15 +13,11 @@
     },
     {
       "v": "#head@211aac02a0643087fb82a7f1df8294fb0c6fe5e0",
-      "n": "nimlz4",
-      "r": [],
-      "a": "Didier Deshommes",
-      "d": "Nim wrapper for the LZ4 library",
-      "l": "BSD-3"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:58Z",
+  "generatedAt": "2026-05-26T00:52:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

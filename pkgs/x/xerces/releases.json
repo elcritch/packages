@@ -14,23 +14,21 @@
   "releases": [
     {
       "v": "0.1.0@c2ccb6d66612a1b2274e6df115ab8aca75a8c20f",
-      "r": []
+      "r": [],
+      "m": "~",
+      "i": [],
+      "e": ""
     },
     {
       "v": "#head@f666ac08a36c59e83f6c8e264889bfd2b77756dc",
       "r": [],
-      "a": "fox0430",
-      "d": "Nim bindings for Apache Xerces-C++",
-      "l": "MIT",
-      "i": [
-        "lowlevel"
-      ],
-      "e": "cpp",
-      "m": "2.0.6"
+      "m": "~",
+      "i": [],
+      "e": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:54:09Z",
+  "generatedAt": "2026-05-26T00:57:06Z",
   "allDeps": {
     "packages": [],
     "urls": [],

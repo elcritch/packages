@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@f4bd5e1873251c73683c438bb0092809bc6798ec",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@ede865380aab166a2f7b136cabc1d9ead1857a03",
       "r": [],
-      "a": "Andre von Houck",
-      "d": "Globby - Glob pattern matching for Nim.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.6"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T13:07:37Z",
+  "generatedAt": "2026-05-26T00:48:23Z",
   "allDeps": {
     "packages": [],
     "urls": [],

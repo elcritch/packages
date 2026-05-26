@@ -11,24 +11,23 @@
   "releases": [
     {
       "v": "0.1.1@8a4ad3de520415891e26a45c3392bbfe255e2160",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@4a374d569e584414cedf8302ee3cbed9d8dc90b8",
       "r": [],
-      "a": "xmonader",
-      "d": "RESP(REdis Serialization Protocol) Serialization for Nim",
-      "l": "Apache2",
-      "s": "src",
       "x": [
         "tests",
         "bench"
       ],
-      "m": "0.18.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:08Z",
+  "generatedAt": "2026-05-26T00:54:11Z",
   "allDeps": {
     "packages": [],
     "urls": [],

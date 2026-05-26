@@ -15,7 +15,9 @@
         "supersnappy >= 2.1.3",
         "flatty >= 0.3.4",
         "chacha20 >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@17e8f1d15f7ef56ab9c63d64fd18e82112c7b430",
@@ -23,7 +25,9 @@
         "supersnappy >= 2.1.3",
         "flatty >= 0.3.4",
         "chacha20 >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@8ab6584e268aef86d16711f3b930d8a907ee3eef",
@@ -32,15 +36,13 @@
         "flatty >= 0.3.4",
         "chacha20 >= 0.1.0"
       ],
-      "a": "Willi Kappler",
       "d": "Distributed number crunching with Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:48Z",
+  "generatedAt": "2026-05-26T00:52:53Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

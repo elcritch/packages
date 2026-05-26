@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@1dd9a6403906fe1fff0aca0eb9b20c39bc7f78e5",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@e08988bb8469d29781807357aa6522697876837a",
       "r": [],
-      "a": "Dominik Picheta",
-      "d": "A client for the Google Cloud Text to Speech API.",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.18.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:48Z",
+  "generatedAt": "2026-05-26T00:55:46Z",
   "allDeps": {
     "packages": [],
     "urls": [],

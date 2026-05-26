@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@b83fa8bcb540c7052d976045d31dde43c98cb7d6",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@3c49941a21709e591fb95604e264cb7a46a73f4b",
       "r": [],
-      "a": "Ico Doornekamp",
-      "d": "Nim CMAES library",
-      "l": "Apache-2.0",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:36Z",
+  "generatedAt": "2026-05-26T00:51:37Z",
   "allDeps": {
     "packages": [],
     "urls": [],

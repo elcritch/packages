@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@72230cb1f0b2d2d403405f1f325106e9862dfd8b",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@e4be17e835e72e59ecd8c9adb396f63211e67112",
       "r": [],
-      "a": "5-6-1",
-      "d": "elegant sugar",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:37Z",
+  "generatedAt": "2026-05-26T00:55:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

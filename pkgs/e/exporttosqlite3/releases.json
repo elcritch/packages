@@ -11,19 +11,25 @@
   "releases": [
     {
       "v": "0.1.0@129bc5e2ca66245a0083b6e9aeedbe3be6436fc5",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@03c9081d6e3192a30adacb4ffec14caaa226a2d8^",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@03c9081d6e3192a30adacb4ffec14caaa226a2d8",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:32Z",
+  "generatedAt": "2026-05-26T00:47:25Z",
   "allDeps": {
     "packages": [],
     "urls": [],

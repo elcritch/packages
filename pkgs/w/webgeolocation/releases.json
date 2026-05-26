@@ -11,25 +11,27 @@
   "releases": [
     {
       "v": "0.1.0@ada3b0d15764fffd90352e7a60684c0eba873e29",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.0@d3663962f8a944cfde52b46ba0c2306f81817a79",
       "r": [],
-      "d": "Bindings to the Webgeolocation Web API"
+      "d": "Bindings to the Webgeolocation Web API",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@844881d2af68979fdbab685b0960fd58f8a44a9f",
       "r": [],
-      "a": "Mark Leyva",
       "d": "Bindings to the Webgeolocation Web API",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:47Z",
+  "generatedAt": "2026-05-26T00:56:44Z",
   "allDeps": {
     "packages": [],
     "urls": [],

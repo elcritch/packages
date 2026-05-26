@@ -13,34 +13,37 @@
       "v": "0.2.0@271ea5e01e39eec81476c33d93382830a092df93",
       "r": [
         "special_functions >= 0.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@71d234ff59d840284105eedc4381b2b40bb7b64d",
       "r": [
         "special_functions >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@ed58232fdd7cf67d49f09d002d72dfa03d7c18c5",
       "r": [
         "special_functions >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@4f9a8de49e5ed9a8c0702ac34a7e0bc320a73a11",
       "r": [
         "special_functions >= 0.2.0"
       ],
-      "a": "ayman albaz",
-      "d": "Probability distributions and functions in Nim",
-      "l": "Apache-2.0",
-      "s": "src",
-      "m": "1.4.6"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:06Z",
+  "generatedAt": "2026-05-26T00:46:59Z",
   "allDeps": {
     "packages": [
       "special_functions"

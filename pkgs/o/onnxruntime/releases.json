@@ -10,14 +10,12 @@
   "releases": [
     {
       "v": "0.1.0@60379435f003a52022e065f40dada435c12f0eeb",
-      "r": []
+      "r": [],
+      "s": ""
     },
     {
       "v": "#head@90ead4efb09c5d897dd0696f6d04a9cbb64892cb",
       "r": [],
-      "a": "YesDrX",
-      "d": "onnxruntime c Api wrapped for nim.",
-      "l": "MIT",
       "s": "src",
       "x": [
         "sample",
@@ -27,7 +25,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:58Z",
+  "generatedAt": "2026-05-26T00:53:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

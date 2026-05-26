@@ -20,13 +20,11 @@
         "gh:yglukhov/android"
       ],
       "a": "Yuriy Glukhov",
-      "d": "Cross-platform sound mixer",
-      "l": "MIT",
       "m": "0.10.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:02Z",
+  "generatedAt": "2026-05-26T00:55:04Z",
   "allDeps": {
     "packages": [
       "classy",

@@ -12,34 +12,41 @@
     {
       "v": "2.1.0@722c2543096e64fcf99ad05fe5b7a08ce3f6f65d^",
       "r": [],
-      "h": true
+      "h": true,
+      "m": "~",
+      "s": ""
     },
     {
       "v": "2.0.0@80deff312c96663d0bd2d3263a84084da8cb407f",
       "r": [],
       "h": true,
-      "m": "0.19.0"
+      "m": "0.19.0",
+      "s": ""
     },
     {
       "v": "0.1.1@023cf315eef5c3bcaa990c64ce7fa8c741c55ec1",
       "r": [],
       "h": true,
-      "m": "~"
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@0c17e6a82c60769514eaf3838dcb2cf0703c2e3a",
       "r": [],
       "h": true,
-      "m": "~"
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@722c2543096e64fcf99ad05fe5b7a08ce3f6f65d",
       "r": [],
-      "h": true
+      "h": true,
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:43Z",
+  "generatedAt": "2026-05-26T00:53:48Z",
   "allDeps": {
     "packages": [],
     "urls": [],

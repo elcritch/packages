@@ -11,25 +11,33 @@
   "releases": [
     {
       "v": "0.3.0@3530a04848ba17eff39f438a23113be1bee75a2c^",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@e05ba446319e474af8cbb61d2e6562335d9fdf3e",
       "r": [],
-      "d": "Very basic wrapper over std/sysrand"
+      "d": "Very basic wrapper over std/sysrand",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@ecc5372dce44e3ad01042a624951adc5576acc56",
       "r": [],
-      "d": "Very basic wrapper over std/sysrand"
+      "d": "Very basic wrapper over std/sysrand",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@3530a04848ba17eff39f438a23113be1bee75a2c",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:17Z",
+  "generatedAt": "2026-05-26T00:54:20Z",
   "allDeps": {
     "packages": [],
     "urls": [],

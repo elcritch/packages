@@ -11,19 +11,27 @@
   "releases": [
     {
       "v": "0.1.0@8efb059a4c2243bcf0c95694f7695446b3ffbc17",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.0@b9842f936880b0158a2db0132654d1044df28924",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.4.0@2b6b5fc2f983aafe0bb1a12b0bb3ef4e9ab41adf",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.5.0@9c5f02ae96415b222adf359de43d4ba45b85fd82",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.5.1@5f244322e66bb42516db89645af52776ebeca2c6",
@@ -34,7 +42,9 @@
           "cbor",
           "msgpack4nim"
         ]
-      }
+      },
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.6.0@f95ecc69001828c7d2573eb1795273a94abd6198",
@@ -45,7 +55,9 @@
           "cbor",
           "msgpack4nim"
         ]
-      }
+      },
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.6.1@fa1cc953cb7617254e1e26ffec110a17dc518d96",
@@ -56,7 +68,9 @@
           "cbor",
           "msgpack4nim"
         ]
-      }
+      },
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.7.0@c0506e5cdbc64de27ee151e91b0aedaa438e84a6",
@@ -70,7 +84,9 @@
         "test": [
           "stew"
         ]
-      }
+      },
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.7.1@fb7f6b764ea6799166a858125fbdd9a4edae932a",
@@ -84,16 +100,13 @@
         "test": [
           "stew"
         ]
-      }
+      },
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@6e1817598db24a90350be2d58fb0f4f76787732f",
       "r": [],
-      "a": "Jaremy Creechley",
-      "d": "A new awesome nimble package",
-      "l": "Apache-2.0",
-      "s": "src",
-      "m": "2.0.14",
       "f": {
         "benchmark": [
           "gh:elcritch/nim-cbor-serialization",
@@ -103,11 +116,13 @@
         "test": [
           "stew"
         ]
-      }
+      },
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:05Z",
+  "generatedAt": "2026-05-26T00:46:00Z",
   "allDeps": {
     "packages": [
       "bigints > 0.5.0",

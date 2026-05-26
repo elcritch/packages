@@ -31,15 +31,11 @@
     },
     {
       "v": "#head@a9f4ef156cd2b5e14ffa44d281842f95cd89e2ab",
-      "n": "midnight_dynamite",
-      "r": [],
-      "a": "Grzegorz Adam Hankiewicz",
-      "d": "Wrapper for the markdown rendering hoedown library.",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:29Z",
+  "generatedAt": "2026-05-26T00:50:32Z",
   "allDeps": {
     "packages": [],
     "urls": [],

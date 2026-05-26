@@ -29,15 +29,11 @@
     },
     {
       "v": "#head@920be52019e7511387361228c1f9b7b00500764a",
-      "n": "argument_parser",
-      "r": [],
-      "a": "Grzegorz Adam Hankiewicz",
-      "d": "Provides a complex commandline parser.",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:01Z",
+  "generatedAt": "2026-05-26T00:44:53Z",
   "allDeps": {
     "packages": [],
     "urls": [],

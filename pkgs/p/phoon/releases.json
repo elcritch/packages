@@ -14,15 +14,24 @@
   "releases": [
     {
       "v": "0.4.0@854cf98212ffdf5ea1d3347035e545d2df7adf38",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.3.0@6ac7b8f2bb489a96fec7a350441568a190dadf62",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.2.0@3a0523c39d12e4c9f1bf2812228a838390fedcee",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.1.1@671fe0bc2b9462120fbcda564b770d870c748fae",
@@ -30,7 +39,9 @@
       "x": [
         "benchmark",
         "tests"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@e273e6c6cf42c7e23d5472d9387db6f2ab745a95",
@@ -39,23 +50,19 @@
         "benchmark",
         "tests"
       ],
-      "m": "1.0.2"
+      "m": "1.0.2",
+      "s": ""
     },
     {
       "v": "#head@253fdc7989853d9008d8b9a7baf94645262d1b6d",
       "r": [],
-      "a": "Guillaume Paulet",
-      "d": "A web framework inspired by ExpressJS 🐇⚡",
-      "l": "Public Domain",
-      "s": "src",
-      "x": [
-        "tests"
-      ],
-      "m": "1.6"
+      "m": "~",
+      "s": "",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:25Z",
+  "generatedAt": "2026-05-26T00:53:30Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -11,20 +11,20 @@
   "releases": [
     {
       "v": "0.1.0@d41a89b5b196980597df62a335111c5629c76505",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@7e1fa7724c8be6cfe02fe883ea764f7bcc3576fe",
       "r": [],
       "h": true,
-      "a": "Antonis",
-      "d": "An interface macro for Nim",
-      "l": "MIT",
-      "m": "1.0.9"
+      "s": "",
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:47Z",
+  "generatedAt": "2026-05-26T00:53:51Z",
   "allDeps": {
     "packages": [],
     "urls": [],

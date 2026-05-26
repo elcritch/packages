@@ -14,42 +14,51 @@
   "releases": [
     {
       "v": "0.1.0@1bf5307ee3040c39039e714a3aef11fbbf14fcfc",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.1.1@1fb6b196d323ada1cc84bad6f3fdc675779905ce",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.2.1@dff037a65e96ddb9bbd95166b6516e0b999c541b",
       "r": [],
       "m": "0.19.0",
-      "p": []
+      "p": [],
+      "s": ""
     },
     {
       "v": "0.2.2@b03f763d1fe11c133d5e1c3200df5df080a36975",
       "r": [],
       "m": "0.19.0",
-      "p": []
+      "p": [],
+      "s": ""
     },
     {
       "v": "0.5.0@5b5eebef68facd6e3aba95ac82c94fb6056366ee",
       "r": [],
       "m": "0.19.0",
-      "p": []
+      "p": [],
+      "s": ""
     },
     {
       "v": "#head@3d1d9428d5643730a6237d752c6196420004bb16",
       "r": [],
       "a": "Juan Carlos",
-      "d": "Random curated Fonts and pastel Colors for your UI/UX design, design for non-designers.",
       "l": "MIT",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "p": [],
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:00Z",
+  "generatedAt": "2026-05-26T00:54:04Z",
   "allDeps": {
     "packages": [],
     "urls": [],

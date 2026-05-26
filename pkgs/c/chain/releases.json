@@ -13,22 +13,19 @@
   "releases": [
     {
       "v": "1.0.0@25029e63d0ec841f6419708b283de76d08ed8ece",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "#head@09bfc377c8294c9bb3ddd1e14f61746bcd5da739",
       "r": [],
-      "a": "Ward",
-      "d": "Nim's function chaining and method cascading",
-      "l": "MIT",
-      "x": [
-        "tests"
-      ],
-      "m": "1.2.0"
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:08Z",
+  "generatedAt": "2026-05-26T00:46:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -11,20 +11,20 @@
   "releases": [
     {
       "v": "0.1.0@4959831622920463f68a0199fd7004b00487fdf1",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@fe3efc18ad05d11f7bae93252e33cc7486c6113b",
       "r": [],
-      "a": "Nemuel Wainaina",
       "d": "Encode and decode text using standard international Morse code",
-      "l": "GPL-3.0-or-later",
-      "s": "src",
-      "m": "1.6.12"
+      "m": "1.6.12",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:41Z",
+  "generatedAt": "2026-05-26T00:50:43Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -17,15 +17,11 @@
     },
     {
       "v": "#head@15e6270295f2d5865fb95e2b47188937a0acccd5",
-      "n": "nrpl",
-      "r": [],
-      "a": "Willy Heineman",
-      "d": "A Nim REPL",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:45Z",
+  "generatedAt": "2026-05-26T00:52:50Z",
   "allDeps": {
     "packages": [],
     "urls": [],

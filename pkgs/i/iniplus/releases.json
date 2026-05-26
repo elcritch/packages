@@ -11,47 +11,57 @@
   "releases": [
     {
       "v": "0.3.3@1456af378565c2840ec5e448a2575137596d1179",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.2@a1431a2dca4e64f6effc78b590823e6ceb353970",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.1@cf992472fd1b6ccb5b179970b7cae7e8d5216fba",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.0@3ed13169911b9a7ad78585bad7fd6e2c4d7d318d",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.2@4936b317414f0f36b6ec2ecbcdc3b0532097301e",
       "r": [],
-      "d": "An INI parser written in Nim with support for arrays. It's intended to be as performant as std/parsecfg but with a couple of nice-to-have features."
+      "d": "An INI parser written in Nim with support for arrays. It's intended to be as performant as std/parsecfg but with a couple of nice-to-have features.",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.1@c2ba258a0606fcdfd8efe849defc317fee59e3db",
       "r": [],
-      "d": "An extended INI parser for Nim."
+      "d": "An extended INI parser for Nim.",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@1c9ddaefd3986987c1869409ad62cf2cf990f084",
       "r": [],
-      "d": "An extended INI parser for Nim."
+      "d": "An extended INI parser for Nim.",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@d02192d740655734d02852e981eef26d0a468fe5",
       "r": [],
-      "a": "penguinite",
-      "d": "An INI parser written in Nim. Has more features and datatypes than std/parsecfg while still being just as fast!",
-      "l": "BSD-3-Clause",
-      "s": "src",
-      "m": "2.0.0"
+      "d": "An INI parser written in Nim. Has more features and datatypes than std/parsecfg while still being just as fast!"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:09Z",
+  "generatedAt": "2026-05-26T00:49:12Z",
   "allDeps": {
     "packages": [],
     "urls": [],

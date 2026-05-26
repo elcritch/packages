@@ -15,7 +15,9 @@
         "sysrandom >= 1.1.0 & < 2.0.0",
         "simpleot >= 0.5.1 & < 0.6.0",
         "monocypher >= 0.2.0 & < 0.3.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.4.0@866fe3c6c888a5ff995656fd6db169b5587d6a11",
@@ -23,7 +25,9 @@
         "sysrandom >= 1.1.0 & < 2.0.0",
         "simpleot >= 0.5.0 & < 0.6.0",
         "monocypher >= 0.1.0 & < 0.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.0@e9dd38147e889da00a4851676cc6021264772947",
@@ -32,7 +36,8 @@
         "simpleot >= 0.4.2",
         "monocypher >= 0.1.0"
       ],
-      "m": "0.20.0"
+      "m": "0.20.0",
+      "s": ""
     },
     {
       "v": "0.2.0@cb1e573168ac89f7c8a14f3281a448a8824e34c6",
@@ -40,7 +45,8 @@
         "sysrandom >= 1.1.0",
         "simpleot >= 0.4.0"
       ],
-      "m": "0.20.0"
+      "m": "0.20.0",
+      "s": ""
     },
     {
       "v": "0.1.0@fbade2555c9f95750e14299da6b94f91e540fa1d",
@@ -48,7 +54,8 @@
         "sysrandom >= 1.1.0",
         "simpleot >= 0.4.0"
       ],
-      "m": "0.20.0"
+      "m": "0.20.0",
+      "s": ""
     },
     {
       "v": "#head@fd3af16e025259ed1da11fb65e7c6e1af33384fc",
@@ -57,15 +64,12 @@
         "simpleot >= 0.5.1 & < 0.6.0",
         "monocypher >= 0.2.0 & < 0.3.0"
       ],
-      "a": "Mark Spanbroek",
-      "d": "Secure multi-party computation",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.2.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:34Z",
+  "generatedAt": "2026-05-26T00:44:25Z",
   "allDeps": {
     "packages": [
       "cligen",

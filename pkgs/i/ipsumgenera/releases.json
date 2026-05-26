@@ -14,23 +14,21 @@
   "releases": [
     {
       "v": "0.1.1@a62438cd5c457336f3e2678dcbcc1496420c82bd",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@86d141379d32c22ed65695c032226e8e6718fe03",
       "r": [],
-      "a": "Dominik Picheta",
-      "d": "A static blog generator.",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "ipsum"
-      ],
-      "m": "0.19.4"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:12Z",
+  "generatedAt": "2026-05-26T00:49:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

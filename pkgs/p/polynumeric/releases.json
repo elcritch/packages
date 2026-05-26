@@ -12,27 +12,26 @@
       "v": "0.2.1@c45ae36b3c40c3c332bcf159a6ed21ae53aab66e",
       "r": [
         "arraymancer >= 0.7.3"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.2.0@bb4f648bdad4bc917b22001e07568637601849e3",
       "r": [
         "arraymancer >= 0.7.3"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "#head@1a16ddc89087c2d6b6493847226fee4984f86d7b",
       "r": [
         "arraymancer >= 0.7.3"
       ],
-      "a": "Vindaar",
-      "d": "Polynomial operations",
-      "l": "MIT",
-      "m": "1.0.0"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:37Z",
+  "generatedAt": "2026-05-26T00:53:41Z",
   "allDeps": {
     "packages": [
       "arraymancer",

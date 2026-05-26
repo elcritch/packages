@@ -17,54 +17,70 @@
       "r": [
         "opengl >= 1.2.3"
       ],
-      "x": []
+      "x": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "4.1.2@6b745968ee37f32caa7f350ce868f33620645b41",
       "r": [
         "opengl >= 1.2.3"
       ],
-      "x": []
+      "x": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "4.1.1@38609e1c3e1a1ba8337e0483facf72563831d9f8",
       "r": [
         "opengl >= 1.2.3"
       ],
-      "x": []
+      "x": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "4.1.0@f70e2e412774f704bf0ec5dfaeee661adbd2835f",
       "r": [
         "opengl >= 1.2.3"
       ],
-      "x": []
+      "x": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "4.0.1@11a18733d5a104d8dc0bba3a02d1583d9454b14a",
       "r": [],
-      "x": []
+      "x": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "3.3.0.2@347ffb4326ef577eea46363b1d1b5ca688cb2bab",
       "r": [],
       "a": "Erik Johansson Andersson",
       "d": "GLFW 3 wrapper for Nim",
-      "s": ""
+      "s": "",
+      "m": "~",
+      "x": []
     },
     {
       "v": "3.3.0.1@a9b152eb7419c14ddc55dda752a9c34b356e44c0",
       "r": [],
       "a": "Erik Johansson Andersson",
       "d": "GLFW 3 wrapper for Nim",
-      "s": ""
+      "s": "",
+      "m": "~",
+      "x": []
     },
     {
       "v": "3.3.0.0@5d5148989809b711f15548e23f26c4baa32a73fd",
       "r": [],
       "a": "Erik Johansson Andersson",
       "d": "GLFW 3 wrapper for Nim",
-      "s": ""
+      "s": "",
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.3.1@0b3d9684977992f01792a420c1c56749e9eb8beb",
@@ -73,7 +89,8 @@
       "d": "A GLFW 3 wrapper",
       "l": "BSD",
       "m": "0.18.0",
-      "s": ""
+      "s": "",
+      "x": []
     },
     {
       "v": "0.3.0@566e69393de858500a4a89cbc319790c3cd5813d",
@@ -82,7 +99,8 @@
       "d": "A GLFW 3 wrapper",
       "l": "BSD",
       "m": "0.11.2",
-      "x": []
+      "x": [],
+      "s": ""
     },
     {
       "v": "0.2.1@934e2fc81f0603fa12fce7769d06673bb81b7b97",
@@ -106,15 +124,13 @@
       "r": [
         "opengl >= 1.2.3"
       ],
-      "a": "Andre von Houck",
-      "d": "Static GLFW 3 wrapper for Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.2"
+      "x": [],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:15Z",
+  "generatedAt": "2026-05-26T00:55:16Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

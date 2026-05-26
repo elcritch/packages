@@ -17,15 +17,11 @@
     },
     {
       "v": "#head@b53c8312917acc2881d001b731dc4e2fa0c4b348",
-      "n": "binaryheap",
-      "r": [],
-      "a": "Fabian Keller",
-      "d": "Simple binary heap implementation",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:40Z",
+  "generatedAt": "2026-05-26T00:45:31Z",
   "allDeps": {
     "packages": [],
     "urls": [],

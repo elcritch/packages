@@ -13,41 +13,53 @@
       "v": "0.1.4@55da5adaec35aa13ee7e0e3afa6a9b34236a18df^",
       "r": [
         "semver #head"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.3@bc194357b6bc098282ab7c64ed0fdf7353fedb1d",
       "r": [
         "semver >= 1.1.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.2@462f11a5ec15444407b407bc4a4d041691de25eb",
       "r": [
         "semver >= 1.1.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@768357527f8e863c9c7dc5505744d238ab34ce92",
       "r": [
         "semver >= 1.1.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@43657791603ae46dfed5337e432ff2cf5dc84794",
       "r": [
         "semver >= 1.1.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@55da5adaec35aa13ee7e0e3afa6a9b34236a18df",
       "r": [
         "semver #head"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:28Z",
+  "generatedAt": "2026-05-26T00:53:32Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

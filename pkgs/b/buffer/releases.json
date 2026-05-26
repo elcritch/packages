@@ -13,23 +13,29 @@
       "v": "0.1.0@3a01ab77dc0c2223729fff6aa0a04a3576bb4816",
       "r": [
         "struct"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@31aa5d8d250486c6850a101bed94bd05d0ba36b3^",
       "r": [
         "struct"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@31aa5d8d250486c6850a101bed94bd05d0ba36b3",
       "r": [
         "struct"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:55Z",
+  "generatedAt": "2026-05-26T00:45:51Z",
   "allDeps": {
     "packages": [
       "struct"

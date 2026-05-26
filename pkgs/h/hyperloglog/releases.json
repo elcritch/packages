@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@ad2b5a14825dca68831c42f4657c8ea49e7a5789",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@9744b8012b177ef671648fcd48450faf1cd4a6b4",
       "r": [],
-      "a": "Denis Olshin",
-      "d": "A HyperLogLog data structure implementation in Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.12"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:57Z",
+  "generatedAt": "2026-05-26T00:49:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

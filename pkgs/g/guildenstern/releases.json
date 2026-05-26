@@ -16,56 +16,77 @@
     {
       "v": "8.1.0@cda3fae8d3e6a2679e345b9f89f2b472ced50c28^",
       "r": [],
-      "s": ""
+      "s": "",
+      "m": "~",
+      "x": []
     },
     {
       "v": "8.0.1@e9f44dd9bce7c5bd20aa9b79a3eb2af805578e1c",
       "r": [],
-      "s": ""
+      "s": "",
+      "m": "~",
+      "x": []
     },
     {
       "v": "8.0.0@8c7ba76fc618a4a1ea5df6bae750726ad6d23540",
       "r": [],
-      "s": ""
+      "s": "",
+      "m": "~",
+      "x": []
     },
     {
       "v": "7.3.0@eb9c75124451661484c985b0d6bab4f847acbd11",
       "r": [],
-      "s": ""
+      "s": "",
+      "m": "~",
+      "x": []
     },
     {
       "v": "7.2.1@d5f405baf46934b5e4d9eed3e03f569083fda5b2",
       "r": [],
-      "s": ""
+      "s": "",
+      "m": "~",
+      "x": []
     },
     {
       "v": "7.2.0@33c33c6e8d6021f74f1fc0094d2f187a080fd462",
       "r": [],
       "d": "Modular multithreading HTTP/1.1 + WebSocket server framework",
-      "s": ""
+      "s": "",
+      "m": "~",
+      "x": []
     },
     {
       "v": "7.1.0@18c5b55582568a47a1b99b0f7c9832fd86e82e48",
       "r": [],
       "d": "Modular multithreading HTTP/1.1 + WebSocket server framework",
-      "s": ""
+      "s": "",
+      "m": "~",
+      "x": []
     },
     {
       "v": "7.0.0@56a04127d48d883c0d34217eccd9808fe7cc75ca",
       "r": [],
       "d": "Modular multithreading HTTP/1.1 + WebSocket server",
-      "s": ""
+      "s": "",
+      "m": "~",
+      "x": []
     },
     {
       "v": "6.1.0@ce3f4bd666235aea87401fd95636cc1dd7577661",
       "r": [],
       "d": "Modular multithreading Linux HTTP + WebSocket server",
-      "s": ""
+      "s": "",
+      "m": "~",
+      "x": []
     },
     {
       "v": "6.0.0@7253a149e824738972ec2f78d30b7f868a6ca75d",
       "r": [],
-      "d": "Modular multithreading Linux HTTP + WebSocket server"
+      "d": "Modular multithreading Linux HTTP + WebSocket server",
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "5.1.0@0c2a2ae9a9b86121eb971828850c0ae37c03babe",
@@ -201,11 +222,13 @@
     {
       "v": "#head@cda3fae8d3e6a2679e345b9f89f2b472ced50c28",
       "r": [],
-      "s": ""
+      "s": "",
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T13:07:44Z",
+  "generatedAt": "2026-05-26T00:48:34Z",
   "allDeps": {
     "packages": [
       "synthesis <= 0.7",

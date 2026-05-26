@@ -11,20 +11,17 @@
   "releases": [
     {
       "v": "1.0.0@6e3c9db8e15e91053b296ab6981cf079a8acfd8b",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@4d52f9034e94c81740e1ef98c8d1d9d4c851a2fc",
-      "r": [],
-      "a": "Euan Torano",
-      "d": "Once provides a type that will enforce that a callback is invoked only once.",
-      "l": "BSD-3-Clause",
-      "s": "src",
-      "m": "1.2.6"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:57Z",
+  "generatedAt": "2026-05-26T00:53:02Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -17,22 +17,24 @@
   "releases": [
     {
       "v": "0.1.0@0d0dec6e0c344ad99bddcb1e60ed66eb9488c3d8",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "x": [],
+      "p": []
     },
     {
       "v": "#head@56cb4de7706a5322c72ff64fb4fda2604f4fff84",
       "r": [],
-      "a": "Chris Watson",
-      "d": "Connector for the GitHub API v3",
       "l": "WTFPL",
-      "x": [
-        "test"
-      ],
-      "m": "0.17.2"
+      "s": "",
+      "p": [],
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:18Z",
+  "generatedAt": "2026-05-26T00:48:19Z",
   "allDeps": {
     "packages": [],
     "urls": [],

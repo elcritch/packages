@@ -23,7 +23,10 @@
         "ws": [
           "websock >= 0.2.1"
         ]
-      }
+      },
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.1.0@fdedc4159ad5d04589a326c330b4fae45ff372d9",
@@ -34,32 +37,28 @@
         "ws": [
           "websock >= 0.2.1"
         ]
-      }
+      },
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "#head@de7a87c2125badf0b243789686c5bfc6fba82c32",
       "r": [
         "chronos >= 4.0.0"
       ],
-      "a": "jmgomez",
-      "d": "Multi-threaded chronos HTTP server with httpx-compatible API",
-      "l": "MIT",
-      "s": ".",
-      "x": [
-        "tests",
-        "benchmarks",
-        "docs"
-      ],
-      "m": "2.2.0",
       "f": {
         "ws": [
           "websock >= 0.2.1"
         ]
-      }
+      },
+      "m": "~",
+      "s": "",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:27Z",
+  "generatedAt": "2026-05-26T00:49:30Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

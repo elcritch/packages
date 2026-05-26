@@ -14,23 +14,19 @@
   "releases": [
     {
       "v": "0.1.0@f4818c49bf8f65c452b1780c319b2f3e2d8173cd",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "k": []
     },
     {
       "v": "#head@e1ba26d407c7daeee0656d4ddb8ed381f685b7f2",
       "r": [],
-      "a": "Michael Rees",
-      "d": "A library for straightforward diff calculation",
-      "l": "GPL-3.0",
-      "s": "src",
-      "k": [
-        "nim"
-      ],
-      "m": "1.0"
+      "d": "A library for straightforward diff calculation"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:52Z",
+  "generatedAt": "2026-05-26T00:54:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -11,25 +11,27 @@
   "releases": [
     {
       "v": "0.1.0@6ada82ad77cae336654eb45761ed256140cdee7d",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@38703101e655000460b49b9327e4423cd9764a9d",
       "r": [],
-      "d": "Library for interacting with Monero wallets and nodes via RPC."
+      "d": "Library for interacting with Monero wallets and nodes via RPC.",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@989a4ed35d6b631632903b3250e5e263af69ebb6",
       "r": [],
-      "a": "eversinc33",
       "d": "Library for interacting with Monero wallets and nodes via RPC.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:37Z",
+  "generatedAt": "2026-05-26T00:50:40Z",
   "allDeps": {
     "packages": [],
     "urls": [],

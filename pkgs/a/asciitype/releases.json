@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@073945220c2711c4dbf0ab847f415841d0c8e021",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@523415bfc3019c1681074a6840d927cc42584038",
       "r": [],
-      "a": "chocobo333",
-      "d": "This module performs character tests.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:04Z",
+  "generatedAt": "2026-05-26T00:44:56Z",
   "allDeps": {
     "packages": [],
     "urls": [],

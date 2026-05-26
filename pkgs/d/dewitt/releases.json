@@ -15,24 +15,23 @@
   "releases": [
     {
       "v": "0.1.0@5aab71cc3d32395270cf33cfb2174f93008166c1",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "#head@79d0f6f9df2a85f092ebe8016c7afa7ffc87bdb7",
       "r": [],
-      "a": "Janni Adamski",
-      "d": "Discrete Wavelet Transform (DWT - here 'dewitt') for Audio Analysis",
-      "l": "MIT",
-      "s": "src",
-      "b": "bin",
-      "p": [
-        "dewitt"
-      ],
-      "m": "1.6.0"
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:01Z",
+  "generatedAt": "2026-05-26T00:46:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

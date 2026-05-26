@@ -11,20 +11,21 @@
   "releases": [
     {
       "v": "0.1.0@90972d5ac8c95e0f81a71536d89c8ff626827073",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@73321c2c163e7eebbee1b5774ccde8a74ef6fdbf",
       "r": [],
       "a": "Zeshen Xing",
       "d": "Cross platform system API for os and net.",
-      "l": "Apache-2.0",
-      "s": "src",
-      "m": "1.2.6"
+      "m": "1.2.6",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:54:12Z",
+  "generatedAt": "2026-05-26T00:57:08Z",
   "allDeps": {
     "packages": [],
     "urls": [],

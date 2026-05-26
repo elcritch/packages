@@ -11,24 +11,25 @@
   "releases": [
     {
       "v": "0.1.0@973c4258a430a7af949aa3e669ea6dc8dc6208f0",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@aadeadf6f2b88781a35a88a2fa448b8694866d7e",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@34a3b07626bc65649cbe0ae376b9785dfe9ac014",
       "r": [],
-      "a": "Michael Voronin",
-      "d": "FictionBook2 library and tools.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.10"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:38Z",
+  "generatedAt": "2026-05-26T00:47:32Z",
   "allDeps": {
     "packages": [],
     "urls": [],

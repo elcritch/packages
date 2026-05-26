@@ -29,15 +29,11 @@
     },
     {
       "v": "#head@a570d088d7597d1f9e69d59445c71a585a0f5817",
-      "n": "libssh2",
-      "r": [],
-      "a": "Huy Doan",
-      "d": "Nim wrapper for libssh2",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:51Z",
+  "generatedAt": "2026-05-26T00:49:54Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

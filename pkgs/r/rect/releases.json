@@ -18,7 +18,11 @@
       "r": [
         "eastasianwidth >= 1.1.0",
         "docopt >= 0.6.8"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "1.0.0@49ea8a08ab8c57a5d55510ea60e45f1d9472b084",
@@ -26,18 +30,26 @@
         "eastasianwidth >= 1.1.0",
         "docopt >= 0.6.8"
       ],
-      "d": "rect is a command to paste text rectangle."
+      "d": "rect is a command to paste text rectangle.",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "#head@8d8eb05b631ed3974833b6d0cab021e879c7f09b",
       "r": [
         "eastasianwidth >= 1.1.0",
         "docopt >= 0.6.8"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:07Z",
+  "generatedAt": "2026-05-26T00:54:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

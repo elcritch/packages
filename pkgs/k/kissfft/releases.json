@@ -13,15 +13,12 @@
     },
     {
       "v": "#head@8ac38ac8e770209e75e68c7014ef3dc6858af8c9",
-      "n": "kissfft",
       "r": [],
-      "a": "StarBrilliant",
-      "d": "Nim binding for KissFFT Fast Fourier Transform library",
-      "l": "BSD"
+      "d": "Nim binding for KissFFT Fast Fourier Transform library"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:32Z",
+  "generatedAt": "2026-05-26T00:49:36Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -31,7 +31,9 @@
         "gh:yglukhov/android",
         "darwin"
       ],
-      "m": "~"
+      "m": "~",
+      "i": [],
+      "j": []
     },
     {
       "v": "0.4@5b80a615a79bbe88cad726a40b26e1c1bb481fcc",
@@ -47,7 +49,9 @@
         "gh:yglukhov/android",
         "darwin"
       ],
-      "m": "~"
+      "m": "~",
+      "i": [],
+      "j": []
     },
     {
       "v": "0.4.1@69541fc188115b1521829207d9f665f76ef07395",
@@ -58,7 +62,9 @@
         "jnim",
         "gh:yglukhov/android"
       ],
-      "m": "~"
+      "m": "~",
+      "i": [],
+      "j": []
     },
     {
       "v": "0.4.3@1dfd2762af85da202832281f1ae55fa63e910fb2",
@@ -69,7 +75,9 @@
         "jnim",
         "gh:yglukhov/android"
       ],
-      "m": "~"
+      "m": "~",
+      "i": [],
+      "j": []
     },
     {
       "v": "0.4.4@5c89c479d4547812b9aef0fa1872a98960310141",
@@ -79,7 +87,10 @@
         "stb_image 2.5",
         "jnim 0.5.2",
         "gh:yglukhov/android"
-      ]
+      ],
+      "m": "~",
+      "i": [],
+      "j": []
     },
     {
       "v": "#head@766858a8160fa75d57a48730e101639885ba5096",
@@ -90,21 +101,13 @@
         "jnim 0.5.2",
         "gh:yglukhov/android"
       ],
-      "a": "Abi Mohammadi",
-      "d": "Game Engine",
-      "l": "MIT",
-      "i": [
-        "alasgar",
-        "assets"
-      ],
-      "j": [
-        "alasgar.nim"
-      ],
-      "m": "2.2.0"
+      "m": "~",
+      "i": [],
+      "j": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:49Z",
+  "generatedAt": "2026-05-26T00:44:41Z",
   "allDeps": {
     "packages": [
       "checksums > 0.4",

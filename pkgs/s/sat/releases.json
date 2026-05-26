@@ -11,24 +11,25 @@
   "releases": [
     {
       "v": "0.1.0@603f49b36c081baa0ffab6fb92083f82b6f9ac80",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@0d157c347b00732d93d2cf60731851ffdc91bc8c",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@e63eaea8baf00bed8bcd5a29ffd8823abb265b39",
       "r": [],
-      "a": "Araq",
-      "d": "A SAT solver written in Nim.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:24Z",
+  "generatedAt": "2026-05-26T00:54:26Z",
   "allDeps": {
     "packages": [],
     "urls": [],

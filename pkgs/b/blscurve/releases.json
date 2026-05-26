@@ -12,20 +12,17 @@
       "v": "0.0.1@13a89c9d73c7029b53a7a9dd7cededfd51348df7",
       "r": [
         "nimcrypto"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "#head@f4d0de2eece20380541fbf73d4b8bf57dc214b3b",
-      "n": "blscurve",
       "r": [
         "nimcrypto",
         "stew",
         "results",
         "taskpools >= 0.0.5"
       ],
-      "a": "Status Research & Development GmbH",
-      "d": "BLS381-12 Curve implementation",
-      "l": "Apache License 2.0",
       "i": [
         "blscurve",
         "vendor"
@@ -37,7 +34,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:48Z",
+  "generatedAt": "2026-05-26T00:45:40Z",
   "allDeps": {
     "packages": [
       "nimcrypto",

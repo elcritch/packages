@@ -16,57 +16,61 @@
       "v": "0.0.7@bd118efb67b6abf6f04ac12de690ff7930b8cfe5",
       "r": [
         "nmqtt >= 1.0.0"
-      ]
+      ],
+      "m": "~",
+      "i": []
     },
     {
       "v": "0.0.6@7fffcb18e912fe73b279230632f25320784d1e82",
       "r": [
         "nmqtt >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "i": []
     },
     {
       "v": "0.0.5@f2cee42c4114e03bf317a4a6677b0b6fc9537a97",
       "r": [
         "nmqtt >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "i": []
     },
     {
       "v": "0.0.4@ac928f15ebe80159e7f2442444421c1626c948ca",
       "r": [
         "nmqtt >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "i": []
     },
     {
       "v": "0.0.2@34f9dd0ce0559d59c913b1775b20f9a3ab91dd4a",
       "r": [
         "nmqtt >= 0.1.0"
       ],
-      "m": "1.0.6"
+      "m": "1.0.6",
+      "i": []
     },
     {
       "v": "0.0.1@302820cfe359b503959e4c2089b36edfa3ff43f6",
       "r": [
         "nmqtt >= 0.1.0"
       ],
-      "m": "1.0.6"
+      "m": "1.0.6",
+      "i": []
     },
     {
       "v": "#head@102642cbf24fce2c61597661f654ddec118d383d",
       "r": [
         "nmqtt >= 1.0.0"
       ],
-      "a": "Thomas T. Jarløv (https://github.com/ThomasTJdev)",
-      "d": "API for www.eloverblik.dk",
-      "l": "MIT",
-      "i": [
-        "config",
-        "src"
-      ],
-      "m": "1.2.0"
+      "m": "~",
+      "i": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:21Z",
+  "generatedAt": "2026-05-26T00:47:14Z",
   "allDeps": {
     "packages": [
       "bcrypt",

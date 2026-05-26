@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@b111b03f624ff6716a264beaddf3ce733e348a2c",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@6ec1c8fc09690fd3bf7563f4b9fe321afb6eb36e",
       "r": [],
-      "a": "sillibird",
-      "d": "Implementation of Luhn algorithm in nim.",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.19.4"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:11Z",
+  "generatedAt": "2026-05-26T00:50:14Z",
   "allDeps": {
     "packages": [],
     "urls": [],

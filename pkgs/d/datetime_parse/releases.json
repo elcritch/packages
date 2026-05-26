@@ -12,23 +12,24 @@
   "releases": [
     {
       "v": "0.1.0@92c126840852ad3c047049b41c12cd16012c72b8",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "e": ""
     },
     {
       "v": "#head@2ce54c35e43a165db056ec0135d4f416cb823ccb",
       "r": [
         "timezones >= 0.5.1"
       ],
-      "a": "bung87",
       "d": "parse datetime from various resources",
-      "l": "MIT",
-      "s": "src",
       "e": "c",
-      "m": "1.2.0"
+      "m": "1.2.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:51Z",
+  "generatedAt": "2026-05-26T00:46:45Z",
   "allDeps": {
     "packages": [
       "timezones"

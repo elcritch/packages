@@ -28,7 +28,11 @@
         "prologue",
         "templates",
         "asynctools"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@36ee8709f0f6e8e1b215e57f4607bbfe68e3ab92",
@@ -43,22 +47,14 @@
         "templates",
         "asynctools"
       ],
-      "a": "Mildred Ki'Lya",
-      "d": "Nim newsgroup NNTP server",
-      "l": "GPL-3.0",
-      "s": "src",
-      "k": [
-        "nim"
-      ],
-      "p": [
-        "nimnews",
-        "web/newsweb"
-      ],
-      "m": "1.2.0"
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:00Z",
+  "generatedAt": "2026-05-26T00:52:03Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

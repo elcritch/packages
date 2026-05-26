@@ -11,24 +11,25 @@
   "releases": [
     {
       "v": "0.1.1@7116581eed725b63f90d4f818e8103c323239424",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@3af442b2962b770c50db4412644f429d80d842ec",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@b29ab4f7e8f321090f6638b73cc7906762379498",
       "r": [],
-      "a": "alogani",
-      "d": "Small utilities not worthing a package",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:50Z",
+  "generatedAt": "2026-05-26T00:44:41Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

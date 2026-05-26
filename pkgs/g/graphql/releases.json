@@ -16,7 +16,9 @@
       "r": [
         "faststreams",
         "stew"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.1.2@6269cefcb94adff7a79b966d14bc8e99a923fa29",
@@ -32,7 +34,8 @@
         "fuzzer",
         "docs",
         "playground"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.2.0@e129419bee1b4ca21169d8da1be2e13cef464559",
@@ -48,7 +51,8 @@
         "fuzzer",
         "docs",
         "playground"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.2.2@0f5adb615709f263c0b11b1bb51b7c8a7aeca74f",
@@ -64,7 +68,8 @@
         "fuzzer",
         "docs",
         "playground"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.2.4@7c4b8612e343fd68cf1721df3ff076834c8f6fcf",
@@ -80,7 +85,8 @@
         "fuzzer",
         "docs",
         "playground"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.2.6@6d86711cd668570d74fa088bc373d78381b7531e",
@@ -96,7 +102,8 @@
         "fuzzer",
         "docs",
         "playground"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.2.8@fd3ca99bca4960ef20af832fd9689479ffb67b67",
@@ -112,7 +119,8 @@
         "fuzzer",
         "docs",
         "playground"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.2.10@5a511d8c2eb8bf33f41c74d21e305692f94e5fd8",
@@ -128,7 +136,8 @@
         "fuzzer",
         "docs",
         "playground"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.2.12@29306c96d2cdb359e4452a55be1e3d9034f4ade7",
@@ -144,7 +153,8 @@
         "fuzzer",
         "docs",
         "playground"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.2.14@1ba5bcae25fc823e7ee94b1b7f21ec6e2dd5f0fa",
@@ -160,7 +170,8 @@
         "fuzzer",
         "docs",
         "playground"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.2.16@75d913ca4de8baaa1bfa7d914df74fa8685b985e",
@@ -177,7 +188,8 @@
         "fuzzer",
         "docs",
         "playground"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.2.18@675301de7033977b76b49e27aa2c5c4458318cfa",
@@ -195,7 +207,8 @@
         "fuzzer",
         "docs",
         "playground"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.2.20@a8af6b7af016233ffd44680cfebdf6e08306ade9",
@@ -213,7 +226,8 @@
         "fuzzer",
         "docs",
         "playground"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.2.22@d18aafbf1e62adcc54bd2cf9684602c71af6a2d4",
@@ -231,7 +245,8 @@
         "fuzzer",
         "docs",
         "playground"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.2.24@d2635d0c61a985dea908c8265b6de15cfba38065",
@@ -249,7 +264,8 @@
         "fuzzer",
         "docs",
         "playground"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.2.26@07f238bd05f966a3ca4aa5c16c108fc7ecd07ed0",
@@ -268,7 +284,8 @@
         "fuzzer",
         "docs",
         "playground"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.2.28@ba6f90c80790e54b581061139aef2911f7010ae8",
@@ -287,7 +304,8 @@
         "fuzzer",
         "docs",
         "playground"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.2.30@3821900f72b91c4698f158e43e5f4f90aee63d2e",
@@ -307,11 +325,11 @@
         "fuzzer",
         "docs",
         "playground"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "#head@941f1f88011c5bf1969d37f2925e1f451cf24a2b",
-      "n": "graphql",
       "r": [
         "faststreams",
         "stew",
@@ -323,9 +341,6 @@
         "chronos #head",
         "bearssl #head"
       ],
-      "a": "Status Research & Development GmbH",
-      "d": "GraphQL parser, server and client implementation",
-      "l": "Apache License 2.0",
       "x": [
         "tests",
         "resources",
@@ -337,7 +352,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:28Z",
+  "generatedAt": "2026-05-26T00:48:31Z",
   "allDeps": {
     "packages": [
       "bearssl > 0.2.24",

@@ -16,25 +16,23 @@
       "v": "0.1.0@c3b8af0096456970f742235a2588b10d50cd1d70",
       "r": [
         "termui"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@d087d07cb22b991abb09c3ed944946dbd07229f6",
       "r": [
         "termui"
       ],
-      "a": "Luke",
-      "d": "A new awesome nimble package",
-      "l": "GPL-3.0-or-later",
-      "s": "src",
-      "p": [
-        "passy"
-      ],
-      "m": "1.4.8"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:20Z",
+  "generatedAt": "2026-05-26T00:53:25Z",
   "allDeps": {
     "packages": [
       "classes",

@@ -14,7 +14,9 @@
       "r": [
         "rbtree",
         "flatty"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@fae7dfac800b0690178d9551d745c1038d35963a",
@@ -24,15 +26,14 @@
         "threading",
         "openparser"
       ],
-      "a": "George Lemon",
       "d": "A suite of WAL-based data stores",
       "l": "LGPL-3.0-or-later",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "2.0.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:49Z",
+  "generatedAt": "2026-05-26T00:45:43Z",
   "allDeps": {
     "packages": [
       "flatty",

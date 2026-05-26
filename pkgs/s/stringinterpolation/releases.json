@@ -13,15 +13,11 @@
     },
     {
       "v": "#head@4e07f8052f83cce9056a3a3e8b9fcb4640c0dd29",
-      "n": "stringinterpolation",
-      "r": [],
-      "a": "Fabian Keller",
-      "d": "String interpolation with printf syntax",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:21Z",
+  "generatedAt": "2026-05-26T00:55:22Z",
   "allDeps": {
     "packages": [],
     "urls": [],

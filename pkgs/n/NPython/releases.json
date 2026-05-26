@@ -28,7 +28,13 @@
       "v": "0.1.2@451f1b726c3536facbb40bad9463951b5056e108",
       "r": [],
       "h": true,
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "x": [],
+      "j": [],
+      "k": []
     },
     {
       "v": "0.1.1@d632b8f1cc34f7f8ef1cfe4926b12069b5d43878",
@@ -43,7 +49,9 @@
       "m": "1.6.14",
       "x": [],
       "j": [],
-      "k": []
+      "k": [],
+      "b": "",
+      "p": []
     },
     {
       "v": "0.1.0@1159715bb6d4ff9502e9fa4466ddc6f36a8b63d2",
@@ -66,27 +74,20 @@
       "v": "#head@dbdb6c65cd2c53db4dce16a216b182ccf977d4a4",
       "r": [],
       "h": true,
-      "a": "Weitang Li (liwt),  lit (litlighilit)",
-      "d": "Python interpreter implemented in Nim, supporting JS backends",
-      "l": "MIT",
-      "s": ".",
-      "b": "bin",
-      "x": [
-        "tests"
-      ],
       "j": [
         "LICENSE",
         "npython/Parser/Grammar"
       ],
-      "k": [
-        "nim",
-        "nims"
-      ],
-      "m": "2.0.8"
+      "p": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "x": [],
+      "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:34Z",
+  "generatedAt": "2026-05-26T00:44:27Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

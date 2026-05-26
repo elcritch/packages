@@ -12,41 +12,48 @@
   "releases": [
     {
       "v": "1.0.0@bb7fe70cbf2844a1062188660391e14cdf9a6bc7",
-      "r": []
+      "r": [],
+      "x": []
     },
     {
       "v": "1.0.1@1d903768bdf6b2dcdb7d00c06a091e7365bac877",
       "r": [],
-      "d": "Transparently declare single-set attributes."
+      "d": "Transparently declare single-set attributes.",
+      "x": []
     },
     {
       "v": "1.0.2@1d3d5a2e7b2d75fd96954060385f1331731fb1ae",
       "r": [],
-      "d": "Transparently declare single-set attributes."
+      "d": "Transparently declare single-set attributes.",
+      "x": []
     },
     {
       "v": "1.0.3@9a2e61fd4e6196c82eb802250aa59b1fcae5b757",
       "r": [],
-      "d": "Transparently declare single-set attributes."
+      "d": "Transparently declare single-set attributes.",
+      "x": []
     },
     {
       "v": "1.0.4@21bfdcccd4f26b2d8da04fa35cd72b5fb06e42ff",
       "r": [],
-      "d": "Transparently declare single-set attributes."
+      "d": "Transparently declare single-set attributes.",
+      "x": []
     },
     {
       "v": "1.0.5@769fdd4035b781039d19ea930e23e16cc80c7ced^",
       "r": [],
-      "d": "Transparently declare single-set attributes."
+      "d": "Transparently declare single-set attributes.",
+      "x": []
     },
     {
       "v": "#head@769fdd4035b781039d19ea930e23e16cc80c7ced",
       "r": [],
-      "d": "Transparently declare single-set attributes."
+      "d": "Transparently declare single-set attributes.",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:47Z",
+  "generatedAt": "2026-05-26T00:47:44Z",
   "allDeps": {
     "packages": [],
     "urls": [],

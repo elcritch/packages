@@ -20,41 +20,49 @@
       "v": "0.3.0@49bf9cff00c1a07a298265124143dcd40d3d9722",
       "r": [
         "cligen >= 1.9.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.2.0@54fce119a198482ffb826ef7de3079395aa7b815",
       "r": [
         "cligen >= 1.9.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.1.0@90f57995828184c9abf65b0dd337da7c3f58bb61",
       "r": [
         "cligen >= 1.9.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@969d663c66a7ec3594cb92f6eb60bf8decb272ec",
       "r": [
         "cligen >= 1.9.0"
       ],
-      "a": "Rohit Goswami",
-      "d": "GPG-encrypted opaque-blob vault with hidden filenames",
-      "l": "MIT",
-      "s": "src",
-      "b": "bin",
-      "k": [
-        "nim"
-      ],
-      "p": [
-        "nimvault"
-      ],
-      "m": "2.0.0"
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:20Z",
+  "generatedAt": "2026-05-26T00:52:23Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

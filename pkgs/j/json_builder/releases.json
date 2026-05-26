@@ -10,31 +10,32 @@
   "releases": [
     {
       "v": "0.1.0@81c2de538fc4bd20b411052d2443226d538f7460",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "0.1.1@6b6c2f744c23b510bcd4778477d6ac0033dc9754",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "0.1.2@9c2bbaafe3f007ecbd0613b4aec4205629389f9a",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "0.1.3@6e41441702dbe5431b32888b70396fbcad3f88dd",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "#head@bf4778cb6cf00b5f8ee87fc53e41462f7d958ccf",
       "r": [],
-      "a": "Matthew Bennett-Lovesey",
-      "d": "Easy and fast generator for valid json in nim",
-      "l": "MIT",
-      "m": "0.13.0"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:22Z",
+  "generatedAt": "2026-05-26T00:49:25Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@895b26e9c258e8f3fcd3d700315c7c30bd4cbf96",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@0b2079ccf495934674536ee59037e84b767172e9",
       "r": [],
-      "a": "Andrew Kane",
-      "d": "pgvector support for Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:25Z",
+  "generatedAt": "2026-05-26T00:53:29Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -13,17 +13,21 @@
       "v": "0.1.0@22109a5abb70937dd640e046d4d5f2bd4dbf4b3e^",
       "r": [
         "coap"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@22109a5abb70937dd640e046d4d5f2bd4dbf4b3e",
       "r": [
         "coap"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:01Z",
+  "generatedAt": "2026-05-26T00:49:04Z",
   "allDeps": {
     "packages": [
       "coap"

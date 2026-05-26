@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@e94b1a55cc1f04bc78591dc85b2a0ba0a48c5144",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@ea62846c5b92cc419400eb20485b7daa45cd327e",
       "r": [],
-      "a": "akvilary",
-      "d": "IMAP and POP3 client library for Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:14Z",
+  "generatedAt": "2026-05-26T00:50:18Z",
   "allDeps": {
     "packages": [],
     "urls": [],

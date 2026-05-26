@@ -14,14 +14,18 @@
       "r": [
         "semver >= 1.2.1",
         "winim >= 3.9.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.2@6d6da89ab0db89ae1bf31e0408a304fa822326b3",
       "r": [
         "semver >= 1.2.1",
         "winim >= 3.9.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@b51ad662b68915cc56180eb9472c258254f814c0",
@@ -29,15 +33,12 @@
         "semver >= 1.2.1",
         "winim >= 3.9.1"
       ],
-      "a": "jjv360",
-      "d": "A collection of extra utilities for Nim.",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:17Z",
+  "generatedAt": "2026-05-26T00:55:18Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

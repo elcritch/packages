@@ -21,46 +21,60 @@
     {
       "v": "0.2.3@51e7d3b317c46eb59c65e5c3963179c6dd34eaa7",
       "r": [],
-      "z": []
+      "z": [],
+      "m": "~",
+      "s": "",
+      "x": [],
+      "p": []
     },
     {
       "v": "0.2.2@04ab51e29ac1ea032e56edab1280c97c1a5b9e7f",
       "r": [],
-      "z": []
+      "z": [],
+      "m": "~",
+      "s": "",
+      "x": [],
+      "p": []
     },
     {
       "v": "0.2.1@b03a48965b3c689a1f9235bf03f90c537e4ed19f",
       "r": [],
-      "z": []
+      "z": [],
+      "m": "~",
+      "s": "",
+      "x": [],
+      "p": []
     },
     {
       "v": "0.2.0@fadafd8507da645d94e2c4ae3bdeb2cea8059f4e",
       "r": [],
-      "z": []
+      "z": [],
+      "m": "~",
+      "s": "",
+      "x": [],
+      "p": []
     },
     {
       "v": "0.1.0@dcf4ac2092f819f72acadef1127f0b541a96695c",
       "r": [],
-      "x": []
+      "x": [],
+      "m": "~",
+      "s": "",
+      "z": [],
+      "p": []
     },
     {
       "v": "#head@62234fcf72f4e09508bea4fd9c0fe920da278eb1",
       "r": [],
-      "a": "genotrance",
-      "d": "Text editor to speed up testing code snippets",
-      "l": "MIT",
-      "s": "src",
-      "x": [
-        "snip"
-      ],
-      "p": [
-        "snip"
-      ],
-      "m": "0.17.3"
+      "z": [],
+      "m": "~",
+      "s": "",
+      "x": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:59Z",
+  "generatedAt": "2026-05-26T00:55:01Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

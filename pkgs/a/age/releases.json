@@ -23,7 +23,12 @@
         "mustache >= 0.4.3",
         "parsetoml >= 0.7.2",
         "semver >= 1.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.10.1@4d8f4812df18303da8df4470123c9c8fc8cd7095",
@@ -32,7 +37,12 @@
         "mustache >= 0.4.3",
         "parsetoml >= 0.7.2",
         "semver >= 1.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.10.0@ca53472ce32a3009de9a7f92bd7d34b9377e4e38",
@@ -41,7 +51,12 @@
         "mustache >= 0.4.3",
         "parsetoml >= 0.7.2",
         "semver >= 1.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.9.0@2f8bc0270bb74c2ee0faa452c43976669c2750b5",
@@ -50,7 +65,12 @@
         "mustache >= 0.4.3",
         "parsetoml >= 0.7.2",
         "semver >= 1.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.8.0@10a7a2a722b9610f5e4cf6dffce003a1ba24d79f",
@@ -59,7 +79,12 @@
         "mustache >= 0.4.3",
         "parsetoml >= 0.7.2",
         "semver >= 1.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.7.0@167f414d127bb61fd1af31c04e6b9e433f40dce1",
@@ -168,22 +193,15 @@
         "parsetoml >= 0.7.2",
         "semver >= 1.2.0"
       ],
-      "a": "Kazuya Takei",
-      "d": "Portable version-bumping tool",
-      "l": "Apache-2.0",
-      "s": "src",
-      "b": "dist",
-      "k": [
-        "nim"
-      ],
-      "p": [
-        "age"
-      ],
-      "m": "2.0.0"
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:47Z",
+  "generatedAt": "2026-05-26T00:44:38Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

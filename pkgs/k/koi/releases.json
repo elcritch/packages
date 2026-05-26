@@ -13,7 +13,8 @@
       "r": [
         "glfw >= 3.4.0.5",
         "nanovg >= 0.4.0"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.4.1@79d975157d52b5ca691b83cf7a90acb4d03b3045",
@@ -69,14 +70,11 @@
         "glfw >= 3.4.0.5",
         "nanovg >= 0.4.0"
       ],
-      "a": "John Novak <john@johnnovak.net>",
-      "d": "imgui for Nim",
-      "l": "WTFPL",
-      "m": "2.2.4"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:34Z",
+  "generatedAt": "2026-05-26T00:49:38Z",
   "allDeps": {
     "packages": [
       "glfw",

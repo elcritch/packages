@@ -13,15 +13,11 @@
     },
     {
       "v": "#head@e1e3d57166fa3bc9e840184e038e5e1288809997",
-      "n": "opencv",
-      "r": [],
-      "a": "Dominik Picheta",
-      "d": "OpenCV wrapper",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:00Z",
+  "generatedAt": "2026-05-26T00:53:05Z",
   "allDeps": {
     "packages": [],
     "urls": [],

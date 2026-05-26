@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@18406bd01177daa0e9b840bcc20e6989b3cd88e0",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@4e58599ed2197dabc171ef49e53db8faea14109f",
       "r": [],
-      "a": "Sultan Al Isaiee",
-      "d": "Send SMS and Otp in nim, a wrapper for TextBelt's public API",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:25Z",
+  "generatedAt": "2026-05-26T00:50:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

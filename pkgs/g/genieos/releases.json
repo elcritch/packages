@@ -37,15 +37,11 @@
     },
     {
       "v": "#head@b883d016772036ccc81322d95dcca9ee856a5f4b",
-      "n": "genieos",
-      "r": [],
-      "a": "Grzegorz Adam Hankiewicz",
-      "d": "Too awesome procs to be included in Nim's os module.",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:09Z",
+  "generatedAt": "2026-05-26T00:48:08Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -12,21 +12,25 @@
     {
       "v": "1.0.1@dae587cec12d17e2037743e35286f9ba84b02e76^",
       "r": [],
-      "s": ""
+      "s": "",
+      "m": "~"
     },
     {
       "v": "1.0.0@cd2678ef48980466a42603307faf521e6a6f9705",
       "r": [],
-      "d": "Readers-writer (MRSW) lock"
+      "d": "Readers-writer (MRSW) lock",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@dae587cec12d17e2037743e35286f9ba84b02e76",
       "r": [],
-      "s": ""
+      "s": "",
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:21Z",
+  "generatedAt": "2026-05-26T00:54:23Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

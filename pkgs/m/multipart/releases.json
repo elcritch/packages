@@ -13,22 +13,21 @@
       "v": "0.1.0@17d85a6d35ac901d5ff94c7ae1cc7922deb3170a",
       "r": [
         "checksums"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@b803ca26a28e77294ad27c5df6c140fc870e677d",
       "r": [
         "checksums"
       ],
-      "a": "George Lemon",
-      "d": "A simple multipart parser",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:46Z",
+  "generatedAt": "2026-05-26T00:50:47Z",
   "allDeps": {
     "packages": [
       "checksums"

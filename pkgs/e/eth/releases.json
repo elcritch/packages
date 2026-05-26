@@ -29,7 +29,9 @@
         "results",
         "minilru",
         "snappy"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.8.0@7f5b634c0537984a744542972444147c0ac3c6cf",
@@ -49,7 +51,9 @@
         "results",
         "minilru",
         "snappy"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.7.0@beaef84b7f33f0e3226ce37191f3098a65337ef6",
@@ -69,7 +73,9 @@
         "results",
         "minilru",
         "snappy"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.6.0@57fa21263a50a325e80636280f976e8077f6627c",
@@ -89,7 +95,9 @@
         "results",
         "minilru",
         "snappy"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.5.0@dcfbc4291d39b59563828c3e32be4d51a2f25931",
@@ -110,7 +118,8 @@
         "minilru",
         "snappy"
       ],
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "x": []
     },
     {
       "v": "#head@9a9b0b2cc998cacbfc9e335e49e56eb4d247bf7f",
@@ -131,17 +140,12 @@
         "minilru",
         "snappy"
       ],
-      "a": "Status Research & Development GmbH",
-      "d": "Ethereum Common library",
-      "l": "MIT",
-      "x": [
-        "tests"
-      ],
-      "m": "2.0.10"
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:29Z",
+  "generatedAt": "2026-05-26T00:47:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

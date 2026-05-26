@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "1.0.0@5d44937b43ad37feba1a769d4078b18bb5c02cda",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@43a6096966953b2a8106c839b2203d1f77c7f93a",
       "r": [],
-      "a": "enggar tivandi",
-      "d": "Library data wilayah indonesia",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.10"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:56Z",
+  "generatedAt": "2026-05-26T00:56:53Z",
   "allDeps": {
     "packages": [],
     "urls": [],

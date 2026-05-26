@@ -20,7 +20,9 @@
         "smtp",
         "db_connector",
         "LimDB"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "#head@3df5d147360f3007f69b9ccf86daf99dd77e8b93",
@@ -32,17 +34,12 @@
         "db_connector",
         "LimDB"
       ],
-      "a": "Göran Krampe",
-      "d": "Homoiconic dynamic language interpreter in Nim",
-      "l": "MIT",
-      "x": [
-        "tests"
-      ],
-      "m": "2.2.6"
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:09Z",
+  "generatedAt": "2026-05-26T00:55:11Z",
   "allDeps": {
     "packages": [
       "LimDB",

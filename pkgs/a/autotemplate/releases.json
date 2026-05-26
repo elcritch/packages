@@ -14,7 +14,9 @@
       "r": [
         "with >= 0.5.0",
         "templates"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@253c9fe83d27cce2e88e86a4f52009a358973fd8",
@@ -22,15 +24,12 @@
         "with >= 0.5.0",
         "templates"
       ],
-      "a": "PMunch",
-      "d": "Simple auto-templates library",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:17Z",
+  "generatedAt": "2026-05-26T00:45:08Z",
   "allDeps": {
     "packages": [
       "templates",

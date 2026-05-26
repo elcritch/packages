@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@34e16afbf8cfb29e5bbe61af33b438a737836a2a",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@b311f94f462057cf8df1d92a2c139227a9586618",
       "r": [],
-      "a": "Guevara-chan",
-      "d": ".NET-inspired lightweight terminal library",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.18.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:33Z",
+  "generatedAt": "2026-05-26T00:46:27Z",
   "allDeps": {
     "packages": [],
     "urls": [],

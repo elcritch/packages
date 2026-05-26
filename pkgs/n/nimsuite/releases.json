@@ -17,26 +17,23 @@
   "releases": [
     {
       "v": "0.1.0@cabc2ac68e455872c557edbe0e9e447fb9490410",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@76c90cb33b2ee28a4643e6ff53b86cacdd5920ab",
       "r": [],
-      "a": "c6h4clch3",
-      "d": "a simple test framework for nim.",
-      "l": "MIT",
-      "s": "src",
-      "k": [
-        "nim"
-      ],
-      "p": [
-        "nimsuite"
-      ],
-      "m": "1.0.4"
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T13:10:10Z",
+  "generatedAt": "2026-05-26T00:52:18Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

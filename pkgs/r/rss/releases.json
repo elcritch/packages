@@ -25,25 +25,27 @@
     {
       "v": "1.0@2c99547409d9ae9a9c199c76847ccf70736c153d",
       "r": [],
-      "d": "Nim RSS parser"
+      "d": "Nim RSS parser",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.1@4cf646fd81c31af0eec07c5e4e8af20fccdb0753",
       "r": [],
-      "d": "Nim RSS parser"
+      "d": "Nim RSS parser",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@c51da8c22dbc67889e4884c77d459cea92b17926",
       "r": [],
-      "a": "Adam Chesak",
       "d": "Nim RSS parser",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.18"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:18Z",
+  "generatedAt": "2026-05-26T00:54:21Z",
   "allDeps": {
     "packages": [],
     "urls": [],

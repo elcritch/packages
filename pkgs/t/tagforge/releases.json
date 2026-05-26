@@ -14,14 +14,18 @@
       "r": [
         "zippy >= 0.10.11",
         "gh:Yu-Vitaqua-fer-Chronos/MUTF-8 >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@37351094f01a489908d5d6f415ee116261d068dd",
       "r": [
         "zippy >= 0.10.11",
         "gh:Yu-Vitaqua-fer-Chronos/MUTF-8 >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@19c93cca3eb6dd664952f3cb33bba40dedcbc035",
@@ -29,15 +33,12 @@
         "zippy >= 0.10.11",
         "gh:Yu-Vitaqua-fer-Chronos/MUTF-8 >= 0.1.0"
       ],
-      "a": "Yu-Vitaqua-fer-Chronos",
-      "d": "A library made for the serialisation and deserialisation of MC NBT!",
-      "l": "Apache-2.0",
-      "s": "src",
-      "m": "2.0.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:35Z",
+  "generatedAt": "2026-05-26T00:55:35Z",
   "allDeps": {
     "packages": [
       "zippy"

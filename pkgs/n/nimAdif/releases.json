@@ -11,28 +11,31 @@
   "releases": [
     {
       "v": "0.1.2@c4e8fd521f4fc4610e0fbd7b6cd6c854ef7d0bfe",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@e2d1e26b99d88780bbe7397db11608e3ba0b1392",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@2b9eaa10b8be5632e5ed6ca28bc501059e10f3d0",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@f523f2d9796875811c6e6b34af16f03af14d6b0d",
       "r": [],
-      "a": "clzls",
-      "d": "An Amateur Data Interchange Format (ADIF) formatter and parser library written purely in Nim.",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:13Z",
+  "generatedAt": "2026-05-26T00:51:15Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

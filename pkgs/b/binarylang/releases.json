@@ -12,25 +12,29 @@
       "v": "0.8.1@91797a4585a69b0f12f277dda83cd7f5806f79b4^",
       "r": [
         "bitstreams"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.8.0@2bca6f1de3937ea0f62e5d42102c77209b3098c0",
       "r": [
         "bitstreams"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.7.0@8a37c44daad677a4f079ee41947d7fdfc20c36bb",
       "r": [
         "bitstreams"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.6.0@a25d402e29b49dc194799d0f0b4c4f9e50ce2f44",
       "r": [
         "bitstreams"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.5.1@5767e79481ec13af3fed61007ebf2f5e6a3c305e",
@@ -78,11 +82,12 @@
       "v": "#head@91797a4585a69b0f12f277dda83cd7f5806f79b4",
       "r": [
         "bitstreams"
-      ]
+      ],
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:40Z",
+  "generatedAt": "2026-05-26T00:45:32Z",
   "allDeps": {
     "packages": [
       "bitstreams"

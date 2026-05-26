@@ -11,24 +11,25 @@
   "releases": [
     {
       "v": "0.1.0@01262a86f8bdba0efea10eea20dae57e0c29e48d",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@fd68775e1ba8d5d50d5bc874ee56ed14782a1a06",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@37981f5d403fb55688e00d24ab9b1d56e252f52b",
       "r": [],
-      "a": "xmonader",
-      "d": "terminal tables",
-      "l": "BSD-3-Clause",
-      "s": "src",
-      "m": "0.19.4"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:44Z",
+  "generatedAt": "2026-05-26T00:55:43Z",
   "allDeps": {
     "packages": [],
     "urls": [],

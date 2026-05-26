@@ -14,49 +14,62 @@
   "releases": [
     {
       "v": "0.1.0@5feeaea925409a2449dee332b5741159d01a9f30",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "1.0.0@3941b8f6510692f872920e24d9eed72652ded5b6",
       "r": [],
-      "h": true
+      "h": true,
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "1.0.1@18d61abd591b8be7df3a0b8a83e2a0815ff78096",
       "r": [],
-      "h": true
+      "h": true,
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "1.1.0@9dda5c73776ce1d1c7534162bcd9170cc439b776",
       "r": [],
-      "h": true
+      "h": true,
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "1.2.0@90b04d1b6d9ddc7d5c7f80ff6b29a5f0aafdb338",
       "r": [],
-      "h": true
+      "h": true,
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "1.2.1@bfddd81ce4831acd9b1c27b7ba344ca883c0c099",
       "r": [],
-      "h": true
+      "h": true,
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@5739f866ab3e0bf784345969225a4f91daf71a28",
       "r": [],
       "h": true,
-      "a": "Rainbow Asteroids",
-      "d": "A program to staticlly host files or directories over HTTP",
-      "l": "GPL-3.0",
-      "s": "src",
-      "p": [
-        "host"
-      ],
-      "m": "1.4.2"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:45Z",
+  "generatedAt": "2026-05-26T00:48:50Z",
   "allDeps": {
     "packages": [],
     "urls": [],

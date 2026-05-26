@@ -13,27 +13,25 @@
   "releases": [
     {
       "v": "1.0.0@0e6535da5eeffd5922625cfe4d4437361b894d15",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.2.0@d14ecec9da54ac1b354a029d2421e37577470eaa",
       "r": [],
-      "m": "0.17.1"
+      "m": "0.17.1",
+      "x": []
     },
     {
       "v": "#head@9eea9d252b69d24a5f4449125fb68ba54a265b88",
       "r": [],
-      "a": "citycide",
-      "d": "Method & assignment cascades for Nim, inspired by Smalltalk & Dart.",
-      "l": "MIT",
-      "x": [
-        "tests"
-      ],
-      "m": "1.0.0"
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:02Z",
+  "generatedAt": "2026-05-26T00:45:58Z",
   "allDeps": {
     "packages": [],
     "urls": [],

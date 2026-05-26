@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@9c6e8f740de35a845a02026ed3f2876168e32238",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@debfb6f16f5652b6bb9168a55d6169e250b5039b",
       "r": [],
-      "a": "D4D3VD4V3",
-      "d": "Moss (Measure of Software Similarity) implementation in Nim.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.2.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:41Z",
+  "generatedAt": "2026-05-26T00:50:44Z",
   "allDeps": {
     "packages": [],
     "urls": [],

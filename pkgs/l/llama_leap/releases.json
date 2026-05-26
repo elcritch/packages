@@ -14,7 +14,9 @@
       "r": [
         "curly >= 0.1.12",
         "jsony >= 1.1.5"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@823b0c807d20ce4d71fd47b8990afa3e0bc48f65",
@@ -22,15 +24,12 @@
         "curly >= 0.1.12",
         "jsony >= 1.1.5"
       ],
-      "a": "Andrew Brower",
-      "d": "Ollama API for Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:00Z",
+  "generatedAt": "2026-05-26T00:50:02Z",
   "allDeps": {
     "packages": [
       "curly",

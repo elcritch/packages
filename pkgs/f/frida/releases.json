@@ -15,36 +15,42 @@
   "releases": [
     {
       "v": "0.2.2@5b616e45e3db986a6710fb37a9f9ab6b103f35d3",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.2.1@a7d9d2b2ebd5985039daa6c52abee2114c6fa41f",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.2.0@8e367848c031212ceca8b4f2bb672a5bdd2468f5",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.1.0@0afc661a711c5d062469e991e6049e32f90c28e1",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "#head@210823cc570c149bd19bfd90b9a6da8cf803ebe7",
       "r": [],
-      "a": "Huy Doan",
-      "d": "Frida wrapper",
-      "l": "MIT",
-      "s": "src",
-      "x": [
-        "examples",
-        "tests"
-      ],
-      "m": "1.4.8"
+      "m": "~",
+      "s": "",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:58Z",
+  "generatedAt": "2026-05-26T00:47:57Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

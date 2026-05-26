@@ -14,73 +14,86 @@
   "releases": [
     {
       "v": "0.4.12@2a12410dc021d11405acfd2bf5b35e0d27884327^",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.4.11@ad309b0db84ea6a77722d4699d7e529e63a982ff",
       "r": [],
       "a": "xomachine (Fomichev Dmitriy)",
-      "m": "0.14.2"
+      "m": "0.14.2",
+      "x": []
     },
     {
       "v": "0.4.10@5ee2aedef522a2840ab9d858f95f9c4f4818c3bb",
       "r": [],
       "a": "xomachine (Fomichev Dmitriy)",
-      "m": "0.14.2"
+      "m": "0.14.2",
+      "x": []
     },
     {
       "v": "0.4.9@9cbdb0635b9556b68639b052efd8a2186bd0aaf7",
       "r": [],
       "a": "xomachine (Fomichev Dmitriy)",
-      "m": "0.14.2"
+      "m": "0.14.2",
+      "x": []
     },
     {
       "v": "0.4.8@9ff05bbb4b8441aed20c4db87c637b240ed41b4e",
       "r": [],
       "a": "xomachine (Fomichev Dmitriy)",
-      "m": "0.14.2"
+      "m": "0.14.2",
+      "x": []
     },
     {
       "v": "0.4.7@ce72048821aef5eaaf105abf48ee7f5967c65007",
       "r": [],
       "a": "xomachine (Fomichev Dmitriy)",
-      "m": "0.14.2"
+      "m": "0.14.2",
+      "x": []
     },
     {
       "v": "0.4.6@ee79032f90196483b8d02e5a64b2d5cca630a1d6",
       "r": [],
       "a": "xomachine (Fomichev Dmitriy)",
-      "m": "0.14.2"
+      "m": "0.14.2",
+      "x": []
     },
     {
       "v": "0.4.5@38c0e039d6248a8dd5b63cb764118547aa949668",
       "r": [],
       "a": "xomachine (Fomichev Dmitriy)",
-      "m": "0.14.2"
+      "m": "0.14.2",
+      "x": []
     },
     {
       "v": "0.4.4@af928f720038c379c8b6f9ee1a6485b929877f12",
       "r": [],
       "a": "xomachine (Fomichev Dmitriy)",
-      "m": "0.14.2"
+      "m": "0.14.2",
+      "x": []
     },
     {
       "v": "0.4.3@b28a2e559d79cd04c983d8d6ec9c03a6287096ce",
       "r": [],
       "a": "xomachine (Fomichev Dmitriy)",
-      "m": "0.14.2"
+      "m": "0.14.2",
+      "x": []
     },
     {
       "v": "0.4.2@17d75f0ded1b7a63e411f12bc8f5971ee110f2dc",
       "r": [],
       "a": "xomachine (Fomichev Dmitriy)",
-      "m": "0.14.2"
+      "m": "0.14.2",
+      "x": []
     },
     {
       "v": "0.4.1@401fc9b3aaecb2529fb423b81055724d586b7c27",
       "r": [],
       "a": "xomachine (Fomichev Dmitriy)",
-      "m": "0.14.2"
+      "m": "0.14.2",
+      "x": []
     },
     {
       "v": "0.4.0@b28dbce12cbc7d338ed0d7594d0362b5802f91ec",
@@ -134,11 +147,13 @@
     },
     {
       "v": "#head@2a12410dc021d11405acfd2bf5b35e0d27884327",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:02Z",
+  "generatedAt": "2026-05-26T00:51:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@145159eed8a99f0e99ab16f64c6383aa209dcd2c",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@0b9589447cdf1434e90dcfde731a2dc709ed9670",
       "r": [],
-      "a": "LemonBoy",
-      "d": "Port of Milo Yip's fast dtoa() implementation",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.18.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:13Z",
+  "generatedAt": "2026-05-26T00:47:06Z",
   "allDeps": {
     "packages": [],
     "urls": [],

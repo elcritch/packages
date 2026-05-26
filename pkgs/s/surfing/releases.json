@@ -16,25 +16,24 @@
       "v": "0.1.0@64ee55887b4424b5304791ef5377daf97acde023",
       "r": [
         "cligen >= 1.5.5"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@7506e9cd5297747565d8214bee9cbd81afa51af7",
       "r": [
         "cligen >= 1.5.5"
       ],
-      "a": "Mutsuha Asada",
       "d": "Surfing is a highly functional CLI for Base64.",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "surfing"
-      ],
-      "m": "1.4.8"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:28Z",
+  "generatedAt": "2026-05-26T00:55:29Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

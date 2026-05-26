@@ -11,7 +11,9 @@
   "releases": [
     {
       "v": "0.1.0@36d46f1c094b51a73496085b39408f98ccc566b6",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.12@d6709edfafe11239c0b17ff783bd77141841be7c",
@@ -19,7 +21,9 @@
         "hmisc",
         "hdrawing",
         "hpprint"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.13@81c4f56830c8132d8c81e0c186d0a1b8bbd7f1aa",
@@ -28,7 +32,9 @@
         "hdrawing",
         "hpprint",
         "hnimast"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@1f09c81ada6ecdabcbf06b6fb9d8dfa17e66640c",
@@ -38,15 +44,12 @@
         "hpprint",
         "hnimast"
       ],
-      "a": "haxscramper",
-      "d": "Nim term rewriting system",
-      "l": "Apache-2.0",
-      "s": "src",
-      "m": "1.2.4"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:19Z",
+  "generatedAt": "2026-05-26T00:52:22Z",
   "allDeps": {
     "packages": [
       "benchy > 0.1.0",

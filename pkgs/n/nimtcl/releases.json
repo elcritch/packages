@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@c272c6d70ebca495e48db4ae8b792aa20874e634",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@1424dd6cb13b665c28d60ad9534cd959a8415480",
       "r": [],
-      "a": "neroist",
-      "d": "Low-level Tcl & Tk bindings for Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:16Z",
+  "generatedAt": "2026-05-26T00:52:19Z",
   "allDeps": {
     "packages": [],
     "urls": [],

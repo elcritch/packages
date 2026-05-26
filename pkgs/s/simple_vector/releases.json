@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@c552c4ca551493b9d8adfc4739aa719780174ca5",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@cc5f15f00eb6036729bf22aa87bbbf88920499a6",
       "r": [],
-      "a": "Ephiiz",
-      "d": "Simple vector library for nim-lang.",
-      "l": "GNU Lesser General Public License v2.1",
-      "s": "src",
-      "m": "0.19.4"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:50Z",
+  "generatedAt": "2026-05-26T00:54:52Z",
   "allDeps": {
     "packages": [],
     "urls": [],

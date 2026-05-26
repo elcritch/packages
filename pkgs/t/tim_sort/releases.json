@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@b36445f4a114ac385f03650253871b8fb9164f80",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@b0e410f05ea1f600049c15fe67741e0b97a94cf7",
       "r": [],
-      "a": "bung87",
-      "d": "A new awesome nimble package",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.1.0"
+      "m": "1.1.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:53Z",
+  "generatedAt": "2026-05-26T00:55:51Z",
   "allDeps": {
     "packages": [],
     "urls": [],

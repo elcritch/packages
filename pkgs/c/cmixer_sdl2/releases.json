@@ -14,7 +14,9 @@
       "r": [
         "cmixer",
         "sdl2"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@be81a400bed1f1d0ae6da58db6f5d4095041cdfb",
@@ -22,15 +24,12 @@
         "cmixer",
         "sdl2"
       ],
-      "a": "rxi",
-      "d": "Lightweight audio mixer for SDL2",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.17.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:27Z",
+  "generatedAt": "2026-05-26T00:46:22Z",
   "allDeps": {
     "packages": [
       "cmixer",

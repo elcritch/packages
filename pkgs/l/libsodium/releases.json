@@ -10,62 +10,69 @@
   "releases": [
     {
       "v": "0.7.2@881f3ae8ced4ff764cbdd207fc59f77f2b5ee748",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "0.7.1@f5490ee194d5a0bbc5fa3d4d0b6e58c617d49790",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "0.7.0@9a1d3dee65d48c9c8514142e506b81f93224d386",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "0.6.0@0258efe4e7f48e22daedf26f70e3efbe830abfb5",
       "r": [],
-      "l": "LGPLv3"
+      "l": "LGPLv3",
+      "m": "~"
     },
     {
       "v": "0.5.0@a01589322491380804ad4410d5fe14a908fb5b8b",
       "r": [],
-      "l": "LGPLv3"
+      "l": "LGPLv3",
+      "m": "~"
     },
     {
       "v": "0.4.2@e851e5f9fe25f3d1b90923556fdf5e1a925dbd3f",
       "r": [],
-      "l": "LGPLv3"
+      "l": "LGPLv3",
+      "m": "~"
     },
     {
       "v": "0.4.1@2c831c8539f2bc8ed123b1fb8f845de1cab60fc4",
       "r": [],
-      "l": "LGPLv3"
+      "l": "LGPLv3",
+      "m": "~"
     },
     {
       "v": "0.4.0@a86bcad584ef6cd0437b92703e4f2b860d26c2fe",
       "r": [],
-      "l": "LGPLv3"
+      "l": "LGPLv3",
+      "m": "~"
     },
     {
       "v": "0.3.0@69f8edd040eff66c7b97414573e68c0579df0fd5",
       "r": [],
-      "l": "LGPLv3"
+      "l": "LGPLv3",
+      "m": "~"
     },
     {
       "v": "0.2.2@aa5ef489748bce727b707ebe01ee51ab0055998d",
       "r": [],
-      "l": "LGPLv3"
+      "l": "LGPLv3",
+      "m": "~"
     },
     {
       "v": "#head@144d6d8d8d0d789e5e2649385276d83f61e9dc26",
       "r": [],
-      "a": "Federico Ceratto",
-      "d": "libsodium wrapper",
-      "l": "MPL-2.0",
-      "m": "0.13.0"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:51Z",
+  "generatedAt": "2026-05-26T00:49:54Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

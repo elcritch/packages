@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "1.0.0@26230adfb0de8719b743e8f8b2bd74ae2bb0a0a3",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@faf6af7cab8cdfa6625f748d62565231c0e6128f",
       "r": [],
-      "a": "XXIV",
-      "d": "Binding for libspinners an elegant terminal spinners",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:07Z",
+  "generatedAt": "2026-05-26T00:55:08Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

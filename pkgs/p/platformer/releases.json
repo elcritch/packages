@@ -16,7 +16,9 @@
       "r": [
         "sdl2 >= 1.1",
         "strfmt >= 0.6"
-      ]
+      ],
+      "m": "~",
+      "p": []
     },
     {
       "v": "1.1@1dd2317adf02f7bd8b2019a1ee07fc8e885b74e9",
@@ -24,7 +26,9 @@
         "sdl2 >= 1.1",
         "strfmt >= 0.6",
         "basic2d >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "p": []
     },
     {
       "v": "#head@9e79719369ae1722c01b4546a54792a77413c22f",
@@ -33,17 +37,12 @@
         "strfmt >= 0.6",
         "basic2d >= 0.1.0"
       ],
-      "a": "Dennis Felsing",
-      "d": "An example 2D platform game with SDL2",
-      "l": "MIT",
-      "p": [
-        "platformer"
-      ],
-      "m": "0.10.0"
+      "m": "~",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:30Z",
+  "generatedAt": "2026-05-26T00:53:34Z",
   "allDeps": {
     "packages": [
       "basic2d > 1.0",

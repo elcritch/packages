@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "1.0.0@98748062c1b045e1302d37c01f2ef11b0792b6cf",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@a2fa5ab0bca493e5b0c0806f5b0c3fbfda76fa23",
       "r": [],
-      "a": "Jeff Ciesielski",
-      "d": "Consistent Overhead Byte Stuffing for Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.18.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:28Z",
+  "generatedAt": "2026-05-26T00:46:22Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -20,7 +20,8 @@
         "nimBMP >= 0.1.0",
         "freetype >= 0.1.0",
         "polyBool >= 0.1.0"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.1.3@0566604c1576517ae25b1d5bc430f896d15bd16f",
@@ -46,7 +47,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:13Z",
+  "generatedAt": "2026-05-26T00:51:16Z",
   "allDeps": {
     "packages": [
       "freetype > 0.1.0",

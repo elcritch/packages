@@ -19,23 +19,28 @@
       "r": [
         "spryvm"
       ],
-      "z": []
+      "z": [],
+      "p": []
     },
     {
       "v": "0.0.2@f4ae830760d0a7fddb79bf80cc595e8239d8b3c4^",
       "r": [
         "spryvm"
-      ]
+      ],
+      "z": [],
+      "p": []
     },
     {
       "v": "#head@f4ae830760d0a7fddb79bf80cc595e8239d8b3c4",
       "r": [
         "spryvm"
-      ]
+      ],
+      "z": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:08Z",
+  "generatedAt": "2026-05-26T00:55:10Z",
   "allDeps": {
     "packages": [
       "LimDB",

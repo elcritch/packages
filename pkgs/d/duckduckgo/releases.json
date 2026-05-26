@@ -18,7 +18,11 @@
       "r": [
         "scraper",
         "gl:lurlo/useragent"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.1.2@2059431e7391003e9e807e4fbef7d7f0525a9de5",
@@ -27,7 +31,9 @@
         "gl:lurlo/useragent"
       ],
       "b": "",
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.3@d720d2e1ce3db20e066a811b0a3eeff484603708",
@@ -36,7 +42,9 @@
         "gl:lurlo/useragent"
       ],
       "b": "",
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.4@5e49d27da130e5eb4b0a3d73e6a7b622595261a2",
@@ -45,7 +53,9 @@
         "gl:lurlo/useragent"
       ],
       "b": "",
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@a3bc9deb75d2679f6088120189b50471976e6805",
@@ -54,14 +64,15 @@
         "gl:lurlo/useragent"
       ],
       "a": "Thiago Navarro",
-      "d": "Duckduckgo search",
       "l": "mit",
-      "s": "src",
-      "m": "1.5.1"
+      "b": "",
+      "p": [],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:15Z",
+  "generatedAt": "2026-05-26T00:47:07Z",
   "allDeps": {
     "packages": [
       "scraper"

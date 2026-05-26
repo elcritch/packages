@@ -11,19 +11,25 @@
   "releases": [
     {
       "v": "1.0.1@7b138ac19d7f5452a74742392ffadac3d26ee397^",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.0@cb1d5092c7a5f6d940713abf423ecec7e583127a",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@7b138ac19d7f5452a74742392ffadac3d26ee397",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:59Z",
+  "generatedAt": "2026-05-26T00:53:04Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

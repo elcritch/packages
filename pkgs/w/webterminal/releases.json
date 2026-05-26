@@ -11,25 +11,25 @@
   "releases": [
     {
       "v": "0.0.2@e3b9ad126169534f1ba130a85af8227f66ac4a74",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.0.1@1b2ce4d3ec62560d28643cb386513f997bb53544",
       "r": [],
-      "m": "0.18.0"
+      "m": "0.18.0",
+      "s": ""
     },
     {
       "v": "#head@5c07ea85d2cfdd055cde755a117f50244d6c0021",
       "r": [],
-      "a": "John Dupuy",
-      "d": "Simple HTML5/Javascript text terminal for embedding an nim app on a web page.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:50Z",
+  "generatedAt": "2026-05-26T00:56:47Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

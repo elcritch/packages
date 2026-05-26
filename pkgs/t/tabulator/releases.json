@@ -18,33 +18,33 @@
   "releases": [
     {
       "v": "0.7.0@2e7edc58aadc4dd3c47e66a73f78adc1c57c3dc1",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "x": [],
+      "y": []
     },
     {
       "v": "0.5.0@06d3402e83ff1e38d8f47a95dd38a8f63fed6e1c",
       "r": [],
       "d": "A Nim library for generating plain-text tables (with Unicode and ANSI code support)",
-      "l": "Infiniti Noncommercial License (https://github.com/erykjj/tabulator/blob/main/LICENSE.md)"
+      "l": "Infiniti Noncommercial License (https://github.com/erykjj/tabulator/blob/main/LICENSE.md)",
+      "m": "~",
+      "s": "",
+      "x": [],
+      "y": []
     },
     {
       "v": "#head@2909bee55418e80d8a35aa007a626f72f59b0e96",
       "r": [],
-      "a": "Eryk J.",
-      "d": "Nim library for generating plain-text tables (with Unicode and ANSI code support)",
-      "l": "MIT",
-      "s": "src",
-      "x": [
-        "tests",
-        "examples"
-      ],
-      "y": [
-        "test.nim"
-      ],
-      "m": "1.6.0"
+      "m": "~",
+      "s": "",
+      "x": [],
+      "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:35Z",
+  "generatedAt": "2026-05-26T00:55:35Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

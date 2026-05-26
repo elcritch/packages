@@ -17,7 +17,10 @@
       "r": [
         "nigui >= 0.2.8",
         "nimcrypto >= 0.7.2"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@1f19a624ed8203249ca200bea3133dbf4ce33df6",
@@ -25,18 +28,13 @@
         "nigui >= 0.2.8",
         "nimcrypto >= 0.7.2"
       ],
-      "a": "bk20x",
-      "d": "Small GUI tool for hashing files or mass hashing directories",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "hashbrowns"
-      ],
-      "m": "1.6"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:35Z",
+  "generatedAt": "2026-05-26T00:48:38Z",
   "allDeps": {
     "packages": [
       "nigui",

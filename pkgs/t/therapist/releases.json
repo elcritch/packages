@@ -17,32 +17,29 @@
   "releases": [
     {
       "v": "0.2.0@4ddc0f859676391605de1d753d8fc4aff1167131",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.1.0@1e8b699e24e820419e5a90c18b19eb58010f0b10",
       "r": [],
       "d": "Type-safe argument/option parsing with minimal magic",
-      "l": "MIT"
+      "l": "MIT",
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@cf1b4b257fde6a7abe01c3ac1e82f8b8300298ea",
-      "r": [],
-      "a": "Max Grender-Jones",
-      "d": "Type-safe commandline parsing with minimal magic",
-      "l": "LGPL",
-      "s": "src",
-      "k": [
-        "nim"
-      ],
-      "p": [
-        "therapist"
-      ],
-      "m": "1.0.0"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:49Z",
+  "generatedAt": "2026-05-26T00:55:48Z",
   "allDeps": {
     "packages": [],
     "urls": [],

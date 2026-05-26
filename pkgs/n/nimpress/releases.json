@@ -18,7 +18,10 @@
         "docopt >= 0.6.8",
         "hts >= 0.2.21",
         "lapper >= 0.1.5"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@5b7f150565b93852396f2ab8fcd2864422825340",
@@ -27,18 +30,13 @@
         "hts >= 0.2.21",
         "lapper >= 0.1.5"
       ],
-      "a": "Mark Pinese <mpinese@ccia.org.au>",
-      "d": "Calculate polygenic scores from VCFs",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "nimpress"
-      ],
-      "m": "1.0.0"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:07Z",
+  "generatedAt": "2026-05-26T00:52:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

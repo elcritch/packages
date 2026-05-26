@@ -13,29 +13,29 @@
       "v": "0.2.0@0842adfc441c62cf9b7aa24c0d55c41b39ef50b2",
       "r": [
         "nimcrypto >= 0.5.4"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@0f2447db2db1aca791162268773be04d46bf5056",
       "r": [
         "urand >= 0.1.0"
       ],
-      "m": "0.20.2"
+      "m": "0.20.2",
+      "s": ""
     },
     {
       "v": "#head@df11ba35b14d2fb316c34502b9592302e6ad4e6f",
       "r": [
         "nimcrypto >= 0.5.4"
       ],
-      "a": "Max Skybin",
-      "d": "Password generation library in Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:20Z",
+  "generatedAt": "2026-05-26T00:53:24Z",
   "allDeps": {
     "packages": [
       "nimcrypto > 0.1.0",

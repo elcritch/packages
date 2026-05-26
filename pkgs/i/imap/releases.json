@@ -11,11 +11,15 @@
   "releases": [
     {
       "v": "0.3.0@c6880957365f495d21877c5bfdcf6b3053b6172f",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.2@d7d691538032b90f13a933fb512c487d57d790ee",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@5c70028b70dc4f1581c47579f748f7fc8617b5dd",
@@ -33,16 +37,11 @@
     },
     {
       "v": "#head@dfd95505661052a86c9acf728669395846ce8cdf",
-      "r": [],
-      "a": "Emery Hemingway",
-      "d": "IMAP client library",
-      "l": "GPLv3",
-      "s": "src",
-      "m": "0.18.0"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:03Z",
+  "generatedAt": "2026-05-26T00:49:06Z",
   "allDeps": {
     "packages": [],
     "urls": [],

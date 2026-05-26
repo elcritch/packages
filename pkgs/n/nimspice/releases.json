@@ -13,26 +13,25 @@
   "releases": [
     {
       "v": "0.1.2@8d1e73aba9772f01061cb10699f5e30d48c4f16e",
-      "r": []
+      "r": [],
+      "m": "~",
+      "i": []
     },
     {
       "v": "0.1.0@d9281173d24e8d04a8fdf681f8262e784989f6a8",
-      "r": []
+      "r": [],
+      "m": "~",
+      "i": []
     },
     {
       "v": "#head@0e0b2f177803eff339ff28ad57b74a99ff91be1e",
       "r": [],
-      "a": "CodeDoes",
-      "d": "A bunch of macros. sugar if you would",
-      "l": "MIT",
-      "i": [
-        "nimspice"
-      ],
-      "m": "0.18.1"
+      "m": "~",
+      "i": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:14Z",
+  "generatedAt": "2026-05-26T00:52:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

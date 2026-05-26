@@ -13,29 +13,30 @@
       "v": "0.2.0@2ed026959abdaf9c50d897907b4bc825d70788f1",
       "r": [
         "gtk2"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@1270bb9a8d1f1f1f1732f36734164bba2f9c5f22",
       "r": [
         "oldwinapi",
         "gtk2"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@de021f1f3915f648a036b9a6642762db2ca763e4",
       "r": [
         "gtk2"
       ],
-      "a": "Rostyslav Dzinko (rostislav.dzinko@gmail.com)",
-      "d": "Implements framework-agnostic native operating system dialogs calls",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.10.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:52Z",
+  "generatedAt": "2026-05-26T00:50:54Z",
   "allDeps": {
     "packages": [
       "gtk2",

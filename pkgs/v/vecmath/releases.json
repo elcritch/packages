@@ -10,20 +10,17 @@
   "releases": [
     {
       "v": "0.1.0@ac28a6421cb9beec6c96e44e0eecb5183b2355f5",
-      "r": []
+      "r": [],
+      "s": ""
     },
     {
       "v": "#head@2e31e5a824a6e4c9e26a87b67b52204e225a05e6",
-      "n": "vecmath",
       "r": [],
-      "a": "Charlie Barto",
-      "d": "various maths fucntions useful to graphics",
-      "l": "MIT",
-      "s": "src"
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:32Z",
+  "generatedAt": "2026-05-26T00:56:29Z",
   "allDeps": {
     "packages": [],
     "urls": [],

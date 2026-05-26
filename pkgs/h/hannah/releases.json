@@ -10,20 +10,17 @@
   "releases": [
     {
       "v": "0.10.0@ff173fd94c110948a717972abd104df066872d6e",
-      "r": []
+      "r": [],
+      "s": ""
     },
     {
       "v": "#head@4dc2a907989deb5d939eb90488661784591ad0ba",
-      "n": "hannah",
       "r": [],
-      "a": "Saint",
-      "d": "xxhash wrapper library for Nim",
-      "l": "MIT",
-      "s": "src"
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:33Z",
+  "generatedAt": "2026-05-26T00:48:36Z",
   "allDeps": {
     "packages": [],
     "urls": [],

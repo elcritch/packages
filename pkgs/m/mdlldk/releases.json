@@ -13,22 +13,27 @@
       "v": "0.2.0@9d50b5b4bee741a8a4df50ac7786bf53480e7571^",
       "r": [
         "winim >= 3.9.2"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@6561f99808542d4b20c77a51a256a12283dcf157",
       "r": [],
-      "m": "1.4.0"
+      "m": "1.4.0",
+      "s": ""
     },
     {
       "v": "#head@9d50b5b4bee741a8a4df50ac7786bf53480e7571",
       "r": [
         "winim >= 3.9.2"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:23Z",
+  "generatedAt": "2026-05-26T00:50:26Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

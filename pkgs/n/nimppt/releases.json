@@ -20,7 +20,10 @@
         "nimja >= 0.8.7",
         "jester",
         "cligen"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.1.1@d2f6b9847e5400dfeb2b5d5883e95c6cef0063f0^",
@@ -30,7 +33,10 @@
         "nimja >= 0.8.7",
         "jester",
         "cligen"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@d2f6b9847e5400dfeb2b5d5883e95c6cef0063f0",
@@ -40,11 +46,14 @@
         "nimja >= 0.8.7",
         "jester",
         "cligen"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:06Z",
+  "generatedAt": "2026-05-26T00:52:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -12,24 +12,24 @@
   "releases": [
     {
       "v": "0.2.0@6e69e672e45344d2fe09dd60df6e59ef5899c0be",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "e": ""
     },
     {
       "v": "#head@648a008525c9438a0f687e931ce2bbad665df2a2",
       "r": [],
-      "a": "scemino",
-      "d": "Bindings for Clipper2Lib: Polygon Clipping and Offsetting Library from Angus Johnson",
-      "l": "boost",
-      "s": "src",
       "x": [
         "tests"
       ],
-      "e": "cpp",
-      "m": "1.6.6"
+      "m": "~",
+      "s": "",
+      "e": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:23Z",
+  "generatedAt": "2026-05-26T00:46:17Z",
   "allDeps": {
     "packages": [],
     "urls": [],

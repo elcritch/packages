@@ -14,7 +14,10 @@
   "releases": [
     {
       "v": "0.0.1@941371670ecb003093aec1b99489d9694321d995",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@9e3f96b2a1beaa6e2f8a84cbb2fe377ba9af6590",
@@ -22,17 +25,13 @@
         "cligen >= 1.3.2"
       ],
       "a": "Andre von Houck",
-      "d": "See where your exe size comes from.",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "dumpincludes"
-      ],
-      "m": "1.2.2"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:16Z",
+  "generatedAt": "2026-05-26T00:47:08Z",
   "allDeps": {
     "packages": [
       "cligen"

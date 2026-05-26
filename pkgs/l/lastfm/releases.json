@@ -11,43 +11,45 @@
   "releases": [
     {
       "v": "0.8.2@d781c25a7458df3d852daaa37b5a4dc23e096ad1",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.8.1@fe61ba05ec365d7836f8d2030b0c58d8b584df6e",
       "r": [],
-      "m": "1.4.0"
+      "m": "1.4.0",
+      "s": ""
     },
     {
       "v": "0.8.0@f71281f5fde7402fba61954bba64f9b084d353ee",
       "r": [],
-      "m": "1.4.0"
+      "m": "1.4.0",
+      "s": ""
     },
     {
       "v": "0.7.0@d29ac8538648e87cca04134ba3a6263428d2bac8",
       "r": [],
       "d": "Last.FM API breakouts (documentation: http://ryuk.ooo/nimdocs/lastfm/lastfm.html)",
-      "m": "0.19.2"
+      "m": "0.19.2",
+      "s": ""
     },
     {
       "v": "0.6.0@cbbf56144456c28e55641d226076a5743fef1e61",
       "r": [],
       "a": "ryukoposting",
       "d": "Last.FM API breakouts (documentation: http://ryuk.ooo/nimdocs/lastfm/lastfm.html)",
-      "m": "0.19.2"
+      "m": "0.19.2",
+      "s": ""
     },
     {
       "v": "#head@7440fcd6f92da7e3e5271bf1076bb524dc1cefb7",
       "r": [],
-      "a": "ryukoposting & tandy1000",
-      "d": "Last.FM API bindings (documentation: https://tandy1000.gitlab.io/lastfm-nim/)",
-      "l": "Apache-2.0",
-      "s": "src",
       "m": "1.4.8"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:38Z",
+  "generatedAt": "2026-05-26T00:49:41Z",
   "allDeps": {
     "packages": [],
     "urls": [],

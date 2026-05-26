@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@bced7164e5a5735e3c1d20f63bdaa44a0902a9f9",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@05a0fff002166967188632aeb7e8e17041cd80b0",
       "r": [],
-      "a": "Navid M",
-      "d": "Pandas equivalent",
-      "l": "GPL-3.0-only",
-      "s": "src",
-      "m": "2.2.4"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:02Z",
+  "generatedAt": "2026-05-26T00:54:06Z",
   "allDeps": {
     "packages": [],
     "urls": [],

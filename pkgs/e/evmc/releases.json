@@ -15,32 +15,29 @@
       "v": "0.0.2@4951205ba61becec484357c69b2e56127d712860",
       "r": [
         "stew"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.10.2@78fb00187f19dd0306acab82a52f91ab40217f94",
       "r": [
         "stew"
       ],
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "x": []
     },
     {
       "v": "#head@a800f7f1b0f442fb026b10ffa6393a371fdc8519",
-      "n": "evmc",
       "r": [
         "stew"
       ],
-      "a": "Status Research & Development GmbH",
-      "d": "A wrapper for the The Ethereum EVMC library",
-      "l": "Apache License 2.0",
-      "x": [
-        "tests"
-      ],
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:31Z",
+  "generatedAt": "2026-05-26T00:47:24Z",
   "allDeps": {
     "packages": [
       "results",

@@ -12,14 +12,16 @@
       "v": "0.4.10@b6255afa5816ee431dbf2f59cc6bc605d8d657b8^",
       "r": [
         "synthesis"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.4.0@ce8cac849b1c21b92a8b41cf52dc51c8b959a053",
       "r": [
         "synthesis"
       ],
-      "d": "a state-of-the-art ùultithreading runtime"
+      "d": "a state-of-the-art ùultithreading runtime",
+      "m": "~"
     },
     {
       "v": "0.3.0@bf2ec2ff51725313296e48412ec01d9efbf3b759",
@@ -45,11 +47,12 @@
       "v": "#head@b6255afa5816ee431dbf2f59cc6bc605d8d657b8",
       "r": [
         "synthesis"
-      ]
+      ],
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:45Z",
+  "generatedAt": "2026-05-26T00:56:42Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

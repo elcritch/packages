@@ -14,7 +14,9 @@
       "r": [
         "libcurl #head",
         "zippy >= 0.7.3"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@1234809cf6e6712c11e57e80463a802c247bff7d",
@@ -22,15 +24,12 @@
         "libcurl #head",
         "zippy >= 0.7.3"
       ],
-      "a": "flywind",
-      "d": "ipfs http client",
-      "l": "Apache-2.0",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:12Z",
+  "generatedAt": "2026-05-26T00:49:16Z",
   "allDeps": {
     "packages": [
       "libcurl",

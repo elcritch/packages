@@ -11,24 +11,25 @@
   "releases": [
     {
       "v": "0.2.0@9e770046c5cdf23d395d6b21c4657345481b1c76",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@60850f8c595d4f0b9e55f3a99c7c471244a3182a",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@19bc560f0c7d8f8debf40640b64fa211872f8a66",
       "r": [],
-      "a": "Andre von Houck",
-      "d": "Pretty - a pretty printer for Nim types.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:41Z",
+  "generatedAt": "2026-05-26T00:53:46Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

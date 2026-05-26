@@ -11,20 +11,20 @@
   "releases": [
     {
       "v": "0.1.0@306fd28613154fb1b45be96764577bac234c8a58",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@fef76d8fffe8a0f9cf7bec59473fb264d2e7bd35",
       "r": [],
       "a": "copyleftdev <copyleftdev@users.noreply.github.com>",
-      "d": "A modular Nim implementation of the TOON data format",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.2.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:01Z",
+  "generatedAt": "2026-05-26T00:55:58Z",
   "allDeps": {
     "packages": [],
     "urls": [],

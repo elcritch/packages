@@ -16,29 +16,23 @@
   "releases": [
     {
       "v": "3.6@4f75395ee087953a9a0b52314766eb476e24021a",
-      "r": []
+      "r": [],
+      "m": "~",
+      "y": []
     },
     {
       "v": "3.5@9c60ac9d59717ab9cba80522a1c401496af49c99",
-      "r": []
+      "r": [],
+      "m": "~",
+      "y": []
     },
     {
       "v": "#head@7d0d5ff1dbacd678b108e10613e2ddb1e71a11c1",
-      "r": [],
-      "a": "define-private-public",
-      "d": "A simple timing library for benchmarking code and other things.",
-      "l": "MIT",
-      "y": [
-        "tester.nim",
-        "tester.html",
-        "tester_js.nim",
-        "tester_js.html"
-      ],
-      "m": "0.19.0"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:20Z",
+  "generatedAt": "2026-05-26T00:55:21Z",
   "allDeps": {
     "packages": [],
     "urls": [],

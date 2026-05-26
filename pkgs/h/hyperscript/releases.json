@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1@d129a161f108493c8be311ce458c4351c1da9271",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@f02971acedabe1dec46e604136ab568bb93127f3",
       "r": [],
-      "a": "Felipe S. S. Schneider",
-      "d": "Create HyperText with Nim.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.2.6"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:58Z",
+  "generatedAt": "2026-05-26T00:49:01Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

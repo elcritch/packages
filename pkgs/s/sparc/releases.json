@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@22ab7fcfd98001f121dab2ad0b63a1395110e386",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@2fe29f776678f37d8ac90153d6aa79dc9f3bf7f3",
       "r": [],
-      "a": "Jonathan Botchway Owusu",
-      "d": "Schema Parser for Arguments and Commands for Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.2.4"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:03Z",
+  "generatedAt": "2026-05-26T00:55:05Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

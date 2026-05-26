@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@5052bc9c843ead829c2501ef6bf76d6acc2082b1",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@63b21aca18b2b67d050712e8393c841ce4257767",
       "r": [],
-      "a": "Juan Carlos",
-      "d": "USA Code.Gov MultiSync API Client for Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.19.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:26Z",
+  "generatedAt": "2026-05-26T00:56:22Z",
   "allDeps": {
     "packages": [],
     "urls": [],

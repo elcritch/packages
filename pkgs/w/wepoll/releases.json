@@ -11,20 +11,26 @@
   "releases": [
     {
       "v": "0.1.2@07fb549ecf656f9aab957b78fb0d1e2d2e47a76f^",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@c49c3280130bb724f1601b1d42f5b7deabad3198",
       "r": [],
-      "a": "flywind"
+      "a": "flywind",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@07fb549ecf656f9aab957b78fb0d1e2d2e47a76f",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:52Z",
+  "generatedAt": "2026-05-26T00:56:49Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

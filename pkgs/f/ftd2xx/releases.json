@@ -15,24 +15,21 @@
   "releases": [
     {
       "v": "0.0.2@532d5f142b56bd213c9847130bf84ab3b21c2512",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "#head@6756bfe5868a64aab83e266e64990619c0231104",
       "r": [],
-      "a": "leeooox",
-      "d": "Nim wrapper for FTDI ftd2xx library",
-      "l": "MIT",
-      "s": "src",
-      "x": [
-        "examples",
-        "docs"
-      ],
-      "m": "1.2.6"
+      "m": "~",
+      "s": "",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:59Z",
+  "generatedAt": "2026-05-26T00:47:58Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -14,9 +14,7 @@
     {
       "v": "#head@2d6123ea6345c6500e7470144d8523dad7a07e36",
       "r": [],
-      "a": "Eugene Kabanov",
       "d": "Asynchronous PostgreSQL driver for Nim",
-      "l": "MIT",
       "x": [
         "tests"
       ],
@@ -24,7 +22,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:10Z",
+  "generatedAt": "2026-05-26T00:45:02Z",
   "allDeps": {
     "packages": [],
     "urls": [],

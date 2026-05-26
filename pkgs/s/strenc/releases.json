@@ -11,20 +11,26 @@
   "releases": [
     {
       "v": "0.1.1@1dc1b6a9c05716dc66792b99a877a9d530d159fb^",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1@4e72f44bb730104b3b44502cda356d14a12ae29c",
       "r": [],
-      "a": "Danil Yarantsev (Yardanico)"
+      "a": "Danil Yarantsev (Yardanico)",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@1dc1b6a9c05716dc66792b99a877a9d530d159fb",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:21Z",
+  "generatedAt": "2026-05-26T00:55:21Z",
   "allDeps": {
     "packages": [],
     "urls": [],

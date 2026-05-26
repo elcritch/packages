@@ -15,24 +15,21 @@
       "v": "0.2@2ecd171ee50637147efa669bf0846a393f3d47eb",
       "r": [
         "docopt"
-      ]
+      ],
+      "m": "~",
+      "p": []
     },
     {
       "v": "#head@dbf23bdd64055c18ac42df4f7538e7341adf180e",
       "r": [
         "docopt"
       ],
-      "a": "Zach Smith",
-      "d": "untitled shell history application",
-      "l": "MIT",
-      "p": [
-        "usha"
-      ],
-      "m": "0.17.0"
+      "m": "~",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:27Z",
+  "generatedAt": "2026-05-26T00:56:23Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -13,27 +13,23 @@
   "releases": [
     {
       "v": "0.1.0@d2e4e02c3b1903ed27bc54ad481a9f7b38d5b878",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "#head@36f3115ca350f40841ac0eecc7dfa5fe7790c864",
-      "n": "confutils",
       "r": [
         "stew",
         "serialization",
         "results"
       ],
-      "a": "Status Research & Development GmbH",
-      "d": "Simplified handling of command line options and config files",
-      "l": "Apache License 2.0",
-      "x": [
-        "tests"
-      ],
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:33Z",
+  "generatedAt": "2026-05-26T00:46:27Z",
   "allDeps": {
     "packages": [
       "faststreams",

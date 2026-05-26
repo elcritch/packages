@@ -22,7 +22,10 @@
         "tempfile",
         "unittest2 >= 0.2.5"
       ],
-      "h": true
+      "h": true,
+      "m": "~",
+      "x": [],
+      "i": []
     },
     {
       "v": "10.4.2.1@c4039904e1c0c95dccade1fc6e54dbc08dc7d50d",
@@ -31,7 +34,10 @@
         "tempfile",
         "unittest2"
       ],
-      "h": true
+      "h": true,
+      "m": "~",
+      "x": [],
+      "i": []
     },
     {
       "v": "10.4.2.0@20490d56f0ae9c74d9ecd75e97e6820c7a5f6b2e",
@@ -40,7 +46,10 @@
         "tempfile",
         "unittest2"
       ],
-      "h": true
+      "h": true,
+      "m": "~",
+      "x": [],
+      "i": []
     },
     {
       "v": "10.2.1.0@df51ec89224fbc2a7d54b211698918b3078b0e21",
@@ -49,7 +58,10 @@
         "tempfile",
         "unittest2"
       ],
-      "h": true
+      "h": true,
+      "m": "~",
+      "x": [],
+      "i": []
     },
     {
       "v": "9.10.0.0@3f64e40e8391fc0ebbcabdef3cbdb0053ad6c5ad",
@@ -58,7 +70,10 @@
         "tempfile",
         "unittest2"
       ],
-      "h": true
+      "h": true,
+      "m": "~",
+      "x": [],
+      "i": []
     },
     {
       "v": "9.8.4.0@6329955f438c43c7fa195901aedbd1686b6122f5",
@@ -67,32 +82,26 @@
         "tempfile",
         "unittest2"
       ],
-      "h": true
+      "h": true,
+      "m": "~",
+      "x": [],
+      "i": []
     },
     {
       "v": "#head@bfbf82fc7274a595d7ed6a0d112f04781ab4bcad",
-      "n": "rocksdb",
       "r": [
         "results",
         "tempfile",
         "unittest2 >= 0.2.5"
       ],
       "h": true,
-      "a": "Status Research & Development GmbH",
-      "d": "A wrapper for Facebook's RocksDB, an embeddable, persistent key-value store for fast storage",
-      "l": "Apache License 2.0 or GPLv2",
-      "x": [
-        "examples",
-        "tests"
-      ],
-      "i": [
-        "build"
-      ],
-      "m": "2.0"
+      "m": "~",
+      "x": [],
+      "i": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:16Z",
+  "generatedAt": "2026-05-26T00:54:19Z",
   "allDeps": {
     "packages": [
       "results",

@@ -20,35 +20,33 @@
       "v": "0.1.1@cfcd3fc8f5d4bb43b14b278584b77ec68efe1ce3",
       "r": [
         "sndfile"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "o": {}
     },
     {
       "v": "0.1.0@ead444349f12f0d19ded57b570d6558f91b0ce61",
       "r": [
         "sndfile"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "o": {}
     },
     {
       "v": "#head@69e5c20d9ce9b1ed21023b957ed0a1ec4284e572",
       "r": [
         "sndfile"
-      ],
-      "a": "SpotlightKid",
-      "d": "Generate sample peak data in JSON format from audio files.",
-      "l": "MIT",
-      "s": "src",
-      "b": "bin",
-      "k": [
-        "nim"
-      ],
-      "o": {
-        "audio2json/main": "audio2json"
-      },
-      "m": "2.0"
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:15Z",
+  "generatedAt": "2026-05-26T00:45:07Z",
   "allDeps": {
     "packages": [
       "sndfile"

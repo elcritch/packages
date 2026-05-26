@@ -12,41 +12,53 @@
   "releases": [
     {
       "v": "20220922@efd87edb7b063182c1a1fa018006a87b515d589b",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "e": ""
     },
     {
       "v": "20220910@81abfb1f576d68d6f5eb6be3854ab426d992c325",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "e": ""
     },
     {
       "v": "20220830@17c134d24eff183ce3eb5548dc9e6ef96f0c66ac",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "e": ""
     },
     {
       "v": "20210817@11ebd1a95a98b5b504c77c8ef53a3dc7d5ab7ded",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "e": ""
     },
     {
       "v": "0.1.1@db727b5bb7be41778b1437b9f9a0c3acb0c4a450",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "e": ""
     },
     {
       "v": "0.1.0@e8a54d0fe6baf850341b958bcba62b40914bbe60",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "e": ""
     },
     {
       "v": "#head@2d052f2dde4694cf1b28af516447d28b22c0d028",
-      "r": [],
-      "a": "Emery Hemingway",
-      "d": "Wrapper of the Tkrzw key-value database library",
-      "l": "Apache-2.0",
-      "s": "src",
-      "e": "cpp",
-      "m": "1.4.2"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:59Z",
+  "generatedAt": "2026-05-26T00:55:57Z",
   "allDeps": {
     "packages": [],
     "urls": [],

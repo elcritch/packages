@@ -16,29 +16,27 @@
     {
       "v": "0.1.0@6fbf651ffdc3720f40a2855ad9126615e94d825e",
       "r": [],
-      "k": []
+      "k": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@a769e4c9e35155ac104385dfc97aa07609ac885d",
       "r": [],
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "s": "",
+      "k": []
     },
     {
       "v": "#head@1713a9a60fa8e939800bb2c8c724ea0665fcb0d1",
       "r": [],
-      "a": "bung87",
-      "d": "A new awesome nimble package",
-      "l": "MIT",
-      "s": "src",
-      "k": [
-        "nim",
-        "exe"
-      ],
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "s": "",
+      "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:03Z",
+  "generatedAt": "2026-05-26T00:54:07Z",
   "allDeps": {
     "packages": [],
     "urls": [],

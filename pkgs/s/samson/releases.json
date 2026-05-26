@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@f6a1560fc794fd108bb240bc0e3484410a1d05f6",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@71ead61104302abfc0d4463c91f73a4126b2184c",
       "r": [],
-      "a": "Oscar Nihlgård",
-      "d": "JSON & JSON5 implementation",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.20.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:23Z",
+  "generatedAt": "2026-05-26T00:54:25Z",
   "allDeps": {
     "packages": [],
     "urls": [],

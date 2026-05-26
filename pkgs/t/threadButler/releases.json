@@ -15,7 +15,9 @@
         "threading >= 0.2.0",
         "taskpools >= 0.0.5",
         "owlkettle #head"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@55ceaca43edb7c4066178330f5e8a234f9a6868d",
@@ -27,15 +29,12 @@
         "gh:nim-works/loony >= 0.1.12",
         "owlkettle #head"
       ],
-      "a": "Philipp Doerner",
-      "d": "Use threads as if they were servers/microservices to enable multi-threading with a simple mental model.",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:50Z",
+  "generatedAt": "2026-05-26T00:55:48Z",
   "allDeps": {
     "packages": [
       "bearssl",

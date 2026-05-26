@@ -16,7 +16,10 @@
       "v": "0.1.0@2af3b32354029232e222b8707dae712f56e7be41",
       "r": [
         "syscall >= 0.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@6a038b0a00f58236d53c8a6a70eb9dd054d12293",
@@ -24,18 +27,14 @@
         "syscall >= 0.1",
         "seccomp >= 0.2.1"
       ],
-      "a": "fox0430",
       "d": "A container runtime written in Nim",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "nicoru"
-      ],
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:08Z",
+  "generatedAt": "2026-05-26T00:51:10Z",
   "allDeps": {
     "packages": [
       "seccomp",

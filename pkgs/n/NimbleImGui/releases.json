@@ -18,14 +18,21 @@
       "r": [
         "nimgl"
       ],
-      "e": ""
+      "e": "",
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "1.0.0@007992ceb0473772b0c544a6793265684172f24e",
       "r": [
         "nimgl"
       ],
-      "a": "qb"
+      "a": "qb",
+      "m": "~",
+      "s": "",
+      "p": [],
+      "e": ""
     },
     {
       "v": "#head@fce46b5489e6eaaaec432a9a8eeaaab5dd93549f",
@@ -33,18 +40,14 @@
         "nimgl"
       ],
       "a": "qb",
-      "d": "ImGui Frontend for Nimble",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "NimbleImGui"
-      ],
-      "e": "cpp",
-      "m": "1.4.2"
+      "m": "~",
+      "s": "",
+      "p": [],
+      "e": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:37Z",
+  "generatedAt": "2026-05-26T00:44:28Z",
   "allDeps": {
     "packages": [
       "nimgl"

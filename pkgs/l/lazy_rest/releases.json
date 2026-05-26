@@ -17,15 +17,11 @@
     },
     {
       "v": "#head@dddffda34b56a640d8f30f6d50796fdc93b344f9",
-      "n": "lazy_rest",
-      "r": [],
-      "a": "Grzegorz Adam Hankiewicz",
-      "d": "Simple rst (reStructuredText) HTML generation from Nimrod or C with some extras",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:39Z",
+  "generatedAt": "2026-05-26T00:49:43Z",
   "allDeps": {
     "packages": [],
     "urls": [],

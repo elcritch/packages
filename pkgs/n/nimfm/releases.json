@@ -14,20 +14,26 @@
       "r": [
         "cligen >= 0.9.43",
         "nimlapack >= 0.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@3a60965e9ab9bdf9439f8933a4e74878e6be66e3",
       "r": [
         "cligen >= 0.9.43",
         "nimlapack >= 0.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@481b19ee1b2e547fe7dcd8c944f08aa4f6b2f47b",
       "r": [
         "cligen >= 0.9.43"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@377202d483b8085afd75b0ec955e1abb40e11761",
@@ -35,15 +41,12 @@
         "cligen >= 0.9.43",
         "nimlapack >= 0.2.0"
       ],
-      "a": "Kyohei Atarashi",
-      "d": "nimfm: A library for factorization machines in Nim.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.6"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:42Z",
+  "generatedAt": "2026-05-26T00:51:44Z",
   "allDeps": {
     "packages": [
       "cligen",

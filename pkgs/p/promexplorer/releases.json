@@ -16,50 +16,60 @@
       "v": "0.0.5@f02192d2f5ca67ef3c144530e9b98f10dc78a550",
       "r": [
         "illwill >= 0.3.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.0.4@f6c49fdd9e8fa5db67e00dd1f4a32b92b1be9261",
       "r": [
         "illwill >= 0.3.0",
         "gh:enthus1ast/illwillWidgets"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.0.3@27c391f9dc8f36355c19ca594f3ee24cfb54e9f9",
       "r": [
         "illwill >= 0.3.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.0.2@ee8dae4beeda5308c6887f05a248ef8b5e8b785c",
       "r": [
         "illwill >= 0.3.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.0.1@f601ded7cff0ecead53eebb8b6dfa9a2e9d89a1b",
       "r": [
         "illwill >= 0.3.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@9119787f6833b924b9734a2fcdbb404e720a11e8",
       "r": [
         "illwill >= 0.3.0"
       ],
-      "a": "Marcus Ramberg",
-      "d": "Simple prometheus metrics explorer",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "promexplorer"
-      ],
-      "m": "1.6.6"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:45Z",
+  "generatedAt": "2026-05-26T00:53:50Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

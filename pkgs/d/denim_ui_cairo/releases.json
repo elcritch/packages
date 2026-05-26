@@ -15,7 +15,9 @@
         "denim_ui",
         "sdl2",
         "cairo"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@892d103d513bb2c32c4a4e572c78f136f9a9784c",
@@ -24,15 +26,12 @@
         "sdl2",
         "cairo"
       ],
-      "a": "Kristian Fjeld Hasselknippe",
-      "d": "Cairo backend for the denim ui engine",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.2"
+      "m": "1.4.2",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:59Z",
+  "generatedAt": "2026-05-26T00:46:52Z",
   "allDeps": {
     "packages": [
       "cairo",

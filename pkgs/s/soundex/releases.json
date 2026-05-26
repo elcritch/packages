@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@5d88a8f9f41d51baf5756b79432da82abc001fcd",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@2e0337fd92bd320c53ce11194171de063fea6a37",
       "r": [],
-      "a": "KASHIWARA FUKI",
-      "d": "soundex algorithm",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.6"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:02Z",
+  "generatedAt": "2026-05-26T00:55:04Z",
   "allDeps": {
     "packages": [],
     "urls": [],

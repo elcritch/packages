@@ -13,24 +13,21 @@
   "releases": [
     {
       "v": "0.0.3@c078527fbea7390f19d79f995237cdfc93575a7c",
-      "r": []
+      "r": [],
+      "m": "~",
+      "i": []
     },
     {
       "v": "#head@7bc2fcf5b60e9212b602508efd19cd8640decb77",
       "r": [
         "smtp >= 0.1.0"
       ],
-      "a": "enthus1ast",
-      "d": "mime generator (email with attachments)",
-      "l": "MIT",
-      "i": [
-        "src"
-      ],
-      "m": "1.2.0"
+      "m": "~",
+      "i": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:31Z",
+  "generatedAt": "2026-05-26T00:50:33Z",
   "allDeps": {
     "packages": [
       "smtp"

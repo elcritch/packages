@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@7e5871c5a8e9d8206b3f9bd7f955fdbe1dcf3ea1",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@57856e68ce2d203e6451051c9e0cb5ee27e8c14c",
       "r": [],
-      "a": "SilliBird",
-      "d": "HQ Trivia API wrapper for Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.19.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:48Z",
+  "generatedAt": "2026-05-26T00:51:50Z",
   "allDeps": {
     "packages": [],
     "urls": [],

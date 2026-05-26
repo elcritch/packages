@@ -11,14 +11,18 @@
   "releases": [
     {
       "v": "0.1.0@dd032c54ee5561e372e25e0c3c04ebca5524cf75",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@05ecba011acd379722da799beec714a5129b4d3f",
       "r": [
         "nimgen >= 0.5.0"
       ],
-      "h": true
+      "h": true,
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.1@42389a0be7ce1aff11a6dbfb2c6be6907ce430c1^",
@@ -26,7 +30,8 @@
         "nimgen >= 0.5.0"
       ],
       "h": true,
-      "m": "0.19.0"
+      "m": "0.19.0",
+      "s": ""
     },
     {
       "v": "#head@42389a0be7ce1aff11a6dbfb2c6be6907ce430c1",
@@ -34,11 +39,12 @@
         "nimgen >= 0.5.0"
       ],
       "h": true,
-      "m": "0.19.0"
+      "m": "0.19.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:54:04Z",
+  "generatedAt": "2026-05-26T00:57:02Z",
   "allDeps": {
     "packages": [
       "c2nim > 0.1.0",

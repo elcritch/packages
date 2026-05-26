@@ -11,7 +11,9 @@
   "releases": [
     {
       "v": "0.1.0@348b1d9748226e89f1229187b199a41fdafa35d1",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@808174d97ec40ae77798ea12e5eebe591414e56b",
@@ -20,15 +22,12 @@
         "paramidi_soundfonts >= 0.2.0",
         "parasound >= 0.2.0"
       ],
-      "a": "Pietro Peterlongo",
-      "d": "paramidi with nimib",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:16Z",
+  "generatedAt": "2026-05-26T00:53:19Z",
   "allDeps": {
     "packages": [
       "paramidi",

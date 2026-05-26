@@ -17,25 +17,34 @@
       "r": [
         "x11 #74cbb2c73be7f4b079b6f4edbadc1d1f00d9af15",
         "cligen >= 0.9.41"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.1.0@0ca7fcd21e8eb1a3990f9874838419610ed2b762",
       "r": [
         "gh:SolitudeSF/x11 #a33254a5ac0df76786ffdaf9d736add242179964",
         "cligen >= 0.9.38"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@00f159ebdc3df93724a1e1e046d502e17196e74f",
       "r": [
         "x11 #74cbb2c73be7f4b079b6f4edbadc1d1f00d9af15",
         "cligen >= 0.9.41"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:54:09Z",
+  "generatedAt": "2026-05-26T00:57:06Z",
   "allDeps": {
     "packages": [
       "cligen",

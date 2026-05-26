@@ -16,7 +16,10 @@
       "v": "0.1.0@e1e04f196c18fe42e46e954ea222209a374b86a5",
       "r": [
         "docopt >= 0.6.8"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@2dd8d962eaf48d95477aa3d6d1f81d63eddd392c",
@@ -24,18 +27,13 @@
         "docopt >= 0.6.8",
         "karax >= 1.2.1"
       ],
-      "a": "Willyboar",
-      "d": "Single page documentation generator",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "hotdoc"
-      ],
-      "m": "1.4.6"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:45Z",
+  "generatedAt": "2026-05-26T00:48:50Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

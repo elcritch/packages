@@ -10,19 +10,17 @@
   "releases": [
     {
       "v": "1.0.0@45b2b0bb753fe2376a205a183b2b3f291e19ba14",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "#head@eecbfc31e17ae2f09f0b6d2aaefcfb970c7d2be4",
       "r": [],
-      "a": "Andreas Rumpf, Dominik Picheta",
-      "d": "Nim wrapper for libcurl.",
-      "l": "MIT",
-      "m": "0.10.0"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:43Z",
+  "generatedAt": "2026-05-26T00:49:46Z",
   "allDeps": {
     "packages": [],
     "urls": [],

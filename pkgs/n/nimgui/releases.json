@@ -14,41 +14,50 @@
   "releases": [
     {
       "v": "0.1.0@60129c332972234a6fee9ac1b44ffbe760bb30d1",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "k": []
     },
     {
       "v": "1.6.7@7332fbd05106d5c1c810084fcb45d7b7afd4183d",
       "r": [],
       "a": "Leonardo Mariscal & Zachary Carter",
-      "d": "bindings to cimgui - https://github.com/cimgui/cimgui"
+      "d": "bindings to cimgui - https://github.com/cimgui/cimgui",
+      "m": "~",
+      "s": "",
+      "k": []
     },
     {
       "v": "1.6.8@70cc18bcb2a7de8fad35e2765b80446e661a8b86",
       "r": [],
       "a": "Leonardo Mariscal & Zachary Carter",
-      "d": "bindings to cimgui - https://github.com/cimgui/cimgui"
+      "d": "bindings to cimgui - https://github.com/cimgui/cimgui",
+      "m": "~",
+      "s": "",
+      "k": []
     },
     {
       "v": "1.6.9@0ebba96b96741842ba7b1a0d0de772bb5b569cec",
       "r": [],
       "a": "Leonardo Mariscal & Zachary Carter",
-      "d": "bindings to cimgui - https://github.com/cimgui/cimgui"
+      "d": "bindings to cimgui - https://github.com/cimgui/cimgui",
+      "m": "~",
+      "s": "",
+      "k": []
     },
     {
       "v": "#head@39a967b4fac88de59a5921c8adef99e4d3549cf0",
       "r": [],
       "a": "Leonardo Mariscal & Zachary Carter",
       "d": "bindings to cimgui - https://github.com/cimgui/cimgui",
-      "l": "MIT",
-      "s": "src",
-      "k": [
-        "nim"
-      ],
-      "m": "0.19.0"
+      "m": "~",
+      "s": "",
+      "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:48Z",
+  "generatedAt": "2026-05-26T00:51:49Z",
   "allDeps": {
     "packages": [],
     "urls": [],

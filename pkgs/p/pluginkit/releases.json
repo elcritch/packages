@@ -11,7 +11,9 @@
   "releases": [
     {
       "v": "0.1.0@b18451f32f4231d62b2ac8134900fafa967d6180",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@75e5c1fb52071ec597e9e53ab77159006f6f27c2",
@@ -20,15 +22,13 @@
         "checksums",
         "jsony"
       ],
-      "a": "George Lemon",
       "d": "Create and manage plugins in a modular way",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:32Z",
+  "generatedAt": "2026-05-26T00:53:36Z",
   "allDeps": {
     "packages": [
       "checksums",

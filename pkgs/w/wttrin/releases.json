@@ -11,20 +11,20 @@
   "releases": [
     {
       "v": "0.1.0@a2a638f69366dbb6ff0aa07a8224a24847767a5c",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@8dcd42088d5844c68a916d117ebc8a2faac3ab33",
       "r": [],
-      "a": "Infinitybeond1",
-      "d": "A new awesome nimble package",
       "l": "LGPL-3.0-or-later",
-      "s": "src",
-      "m": "1.4.8"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:54:06Z",
+  "generatedAt": "2026-05-26T00:57:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

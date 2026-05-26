@@ -15,22 +15,22 @@
         "flatty",
         "nyml",
         "watchout"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@313f8211ba9329dadca4375825c990381cba2248",
       "r": [
         "openparser"
       ],
-      "a": "George Lemon",
       "d": "A simple i18n library for Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "2.0.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:06Z",
+  "generatedAt": "2026-05-26T00:53:10Z",
   "allDeps": {
     "packages": [
       "flatty",

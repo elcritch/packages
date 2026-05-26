@@ -11,24 +11,25 @@
   "releases": [
     {
       "v": "0.6.0@8aaeacf05fadb58016745f17660271eb4a18c80b",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.5.0@a7d43fb11eb8981c79687c39ae439e605bfe13c9",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@7bbdbfba9cc80f5b017a3123f9dd29e5b0601c79",
       "r": [],
-      "a": "Andre von Houck",
-      "d": "Direct to object CSV/TSV/tabulated data parser with hooks.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:34Z",
+  "generatedAt": "2026-05-26T00:55:35Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

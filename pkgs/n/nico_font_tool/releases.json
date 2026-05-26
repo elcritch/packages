@@ -23,7 +23,11 @@
       "r": [
         "pixie >= 5.0.6",
         "nimPNG >= 0.3.2"
-      ]
+      ],
+      "m": "~",
+      "x": [],
+      "k": [],
+      "p": []
     },
     {
       "v": "0.0.1@88ae0b17ed531d76ca38f192b540874d0009e2aa",
@@ -32,7 +36,9 @@
         "nimPNG >= 0.3.2"
       ],
       "k": [],
-      "p": []
+      "p": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "#head@cb31315322dfc7b1bb8333615963921cfb131333",
@@ -40,21 +46,14 @@
         "pixie >= 5.0.6",
         "nimPNG >= 0.3.2"
       ],
-      "a": "TakWolf",
-      "d": "A tool for converting fonts to NICO Game Framework format fonts.",
-      "l": "MIT",
-      "x": [
-        "tests",
-        "examples"
-      ],
-      "p": [
-        "nicofont"
-      ],
-      "m": "1.4.0"
+      "k": [],
+      "m": "~",
+      "x": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:08Z",
+  "generatedAt": "2026-05-26T00:51:11Z",
   "allDeps": {
     "packages": [
       "bumpy",

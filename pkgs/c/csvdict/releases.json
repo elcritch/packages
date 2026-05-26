@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@1b4532acfd445ccb80632404b9d333b45aeacf66",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@bce3e5978d780c595f03cb4399c48b62dc5cd489",
       "r": [],
-      "a": "alogani",
-      "d": "Another CsvTable API. Goals are efficient, simple and flexible",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:45Z",
+  "generatedAt": "2026-05-26T00:46:39Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

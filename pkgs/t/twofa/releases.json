@@ -15,7 +15,9 @@
         "otp >= 0.3.3",
         "qr",
         "base32"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@5bc83d187c25c6d68922bc31dd10ac73adbcc420",
@@ -24,15 +26,12 @@
         "qr",
         "base32"
       ],
-      "a": "George Lemon",
-      "d": "Simple 2FA QR CodeGen based on otp & qr packages",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:12Z",
+  "generatedAt": "2026-05-26T00:56:10Z",
   "allDeps": {
     "packages": [
       "base32",

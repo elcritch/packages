@@ -87,7 +87,10 @@
         "serialization",
         "json_serialization",
         "stew"
-      ]
+      ],
+      "m": "~",
+      "x": [],
+      "p": []
     },
     {
       "v": "1.4.0@69e94dd6be48cb2bb4ec814b0b2098cb0c11a03f",
@@ -99,7 +102,9 @@
         "serialization",
         "json_serialization"
       ],
-      "m": "2.0.0"
+      "m": "2.0.0",
+      "x": [],
+      "p": []
     },
     {
       "v": "1.2.0@71b59bfa77dabf6b8b381f6e18a1d963a1a658fc",
@@ -111,7 +116,9 @@
         "serialization",
         "json_serialization"
       ],
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "x": [],
+      "p": []
     },
     {
       "v": "0.1.0@56c35448a6e979ad2b5734b3beb2f316d9a7214f",
@@ -121,11 +128,12 @@
         "with",
         "chronicles"
       ],
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "x": [],
+      "p": []
     },
     {
       "v": "#head@b8b924112d074ad54179a4f2dbd6ce6f49623ce4",
-      "n": "nimlangserver",
       "r": [
         "chronos >= 4.0.4",
         "json_rpc >= 0.5.0",
@@ -138,20 +146,13 @@
         "unittest2 >= 0.2.4"
       ],
       "g": true,
-      "a": "The core Nim team",
-      "d": "Nim language server for IDEs",
-      "l": "MIT",
-      "x": [
-        "tests"
-      ],
-      "p": [
-        "nimlangserver"
-      ],
-      "m": "2.0.8"
+      "m": "~",
+      "x": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T22:05:51Z",
+  "generatedAt": "2026-05-26T00:51:58Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

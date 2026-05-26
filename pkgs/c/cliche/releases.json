@@ -11,24 +11,23 @@
   "releases": [
     {
       "v": "1.0.0@ace31a851d1b8ff926fdb336fa179033eb8a9dc7",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@e08da15572a0f45f881a303f2be89459ad6be6a9",
       "r": [],
-      "a": "Juan_Carlos.nim",
-      "d": "AutoMagic CLI argument parsing is Cliche",
-      "l": "MIT",
-      "s": "src",
       "x": [
         "docs",
         "examples"
       ],
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:21Z",
+  "generatedAt": "2026-05-26T00:46:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

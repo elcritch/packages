@@ -75,11 +75,13 @@
     },
     {
       "v": "0.2.1@826ef1f4addc03e1cab1fe982620b1b94e6906a0",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "0.2@6e76069498a5c3d607a9e78f416748ef223f9fa5",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "#head@097031a499d18d5f4b1fe2f4c16d3f1ded8c7f45",
@@ -88,7 +90,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:32Z",
+  "generatedAt": "2026-05-26T00:56:27Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

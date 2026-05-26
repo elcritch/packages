@@ -14,7 +14,10 @@
   "releases": [
     {
       "v": "0.1.0@abf1857bf49322ae8869cf62736a1fbad165e267",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "1.0.0@66ed291f7646033143a69598e98ee21ca9c4a2c5",
@@ -22,7 +25,9 @@
       "p": [
         "zigcc",
         "zigcpp"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "2.0.0@249c0aead3ae42e2302fb8c94632306c3933b917",
@@ -30,7 +35,9 @@
       "p": [
         "zigcc",
         "zigcpp"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "2.0.1@c33d88645a4636dc65a626049bfd2863fd2d62d9",
@@ -38,7 +45,9 @@
       "p": [
         "zigcc",
         "zigcpp"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "3.0.0@a78d1c215dbbf3c71398f5fa5be4162d3924b6e9",
@@ -46,24 +55,23 @@
       "p": [
         "zigcc",
         "zigcpp"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@85b4c8baf0ace7b5172352d4b6152522244ea474",
       "r": [],
-      "a": "David Krause",
-      "d": "wraps `zig cc` to be able to be called by the nim compiler",
-      "l": "MIT",
-      "s": "src",
       "p": [
         "zigcc",
         "zigcpp"
       ],
-      "m": "1.6.4"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:54:26Z",
+  "generatedAt": "2026-05-26T00:57:25Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -18,7 +18,9 @@
         "jsony #head",
         "voodoo #head",
         "greskewel"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.3@dc7e0ce3d077327ed46d7d24ddb8fbb45bbf5e95",
@@ -29,7 +31,9 @@
         "jsony #head",
         "voodoo #head",
         "greskewel"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.2@36d4f0097950a6b6ee37d451eda575cff3200251",
@@ -40,7 +44,9 @@
         "jsony #head",
         "voodoo #head",
         "greskewel"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@3201b7436c32e4bbbbc3a03058ee062215f252fb",
@@ -51,7 +57,9 @@
         "jsony #head",
         "voodoo #head"
       ],
-      "d": "A magical ORM for the Nim language "
+      "d": "A magical ORM for the Nim language ",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@698b299bc6920d04ac5dcb617bc7f5c9b6293e60",
@@ -62,7 +70,9 @@
         "jsony #head",
         "voodoo #head"
       ],
-      "d": "A magical ORM for the Nim language "
+      "d": "A magical ORM for the Nim language ",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@358dcb031d5062660352edc070f3e73269a24ad6",
@@ -73,15 +83,12 @@
         "voodoo #head",
         "greskewel"
       ],
-      "a": "George Lemon",
-      "d": "A magical ORM for Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T13:10:48Z",
+  "generatedAt": "2026-05-26T00:53:15Z",
   "allDeps": {
     "packages": [
       "db_connector",

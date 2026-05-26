@@ -19,26 +19,44 @@
     {
       "v": "0.1.0@02a6e17c5b06179c79c7fb9f39dd93a05c311389",
       "r": [],
-      "b": ""
+      "b": "",
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "1.1.0@76ecfcbed1a19c0d5addbc1c9f8db3a7217fc5e2",
       "r": [
         "gl:lurlo/useragent"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "1.1.1@3b519017661c667e3c207d5681742d5f08e729e7",
       "r": [
         "gl:lurlo/useragent"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "1.2.2@ed05e7daf6ed58a33546d817bd73b72899a1355a",
       "r": [
         "gl:lurlo/useragent"
       ],
-      "m": "1.6.4"
+      "m": "1.6.4",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "1.3.0@b93fe2b639ff0666504b5b47d8c73f16e9fb8210",
@@ -47,7 +65,11 @@
       ],
       "a": "Thiago Navarro",
       "d": "Google Images scraper lib",
-      "m": "1.6.4"
+      "m": "1.6.4",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@da558974a05fdb86a202d862ba1f279e25c19c3b",
@@ -56,20 +78,15 @@
       ],
       "a": "Thiago Navarro",
       "d": "Google Images scraper lib",
-      "l": "MIT",
-      "s": "src",
-      "b": "build",
-      "k": [
-        "nim"
-      ],
-      "p": [
-        "gimg"
-      ],
-      "m": "1.6.4"
+      "m": "1.6.4",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:15Z",
+  "generatedAt": "2026-05-26T00:48:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

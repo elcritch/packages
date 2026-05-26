@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@53bb7e0142148005c4b1c4ce2e225bb47f21c10b",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@5bb207defa23791a3e24abeb4026339d6d8d4530",
       "r": [],
-      "a": "Raphael",
-      "d": "Marc21 parser for Nimlang",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:36Z",
+  "generatedAt": "2026-05-26T00:44:27Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -24,67 +24,89 @@
       "v": "0.7.10@0be97eefd69d41178dd90d80bd1c51ed2bcdefc1",
       "r": [
         "cligen >= 1.9.2"
-      ]
+      ],
+      "m": "~",
+      "p": []
     },
     {
       "v": "0.7.9@002488e332e8934c5effb62c15a964bf2f7131b1",
       "r": [
         "cligen >= 1.8.3"
-      ]
+      ],
+      "m": "~",
+      "p": []
     },
     {
       "v": "0.7.8@bb5995b29f46949f73707397280cf30e8ecf45bd",
       "r": [
         "cligen >= 1.8.2"
-      ]
+      ],
+      "m": "~",
+      "p": []
     },
     {
       "v": "0.7.7@9cbe86c5625dfb24f8a4873d7e3c39e10ea1987b",
       "r": [
         "cligen >= 1.8.0"
-      ]
+      ],
+      "m": "~",
+      "p": []
     },
     {
       "v": "0.7.6@fabb593682c1db44be07dbb431fa8e677b0dc9c2",
       "r": [
         "cligen >= 1.7.9"
-      ]
+      ],
+      "m": "~",
+      "p": []
     },
     {
       "v": "0.7.5@ffb671ce23b1b77899c3bcff7da2f1ebfb53e7d2",
       "r": [
         "cligen >= 1.7.8"
-      ]
+      ],
+      "m": "~",
+      "p": []
     },
     {
       "v": "0.7.4@b784d3da9b5f651a201eb81abbb27ba8bd5dd0f8",
       "r": [
         "cligen >= 1.7.7"
-      ]
+      ],
+      "m": "~",
+      "p": []
     },
     {
       "v": "0.7.3@2535894e0e50e285f2a46034f3f2a7de575b706b",
       "r": [
         "cligen >= 1.7.7"
-      ]
+      ],
+      "m": "~",
+      "p": []
     },
     {
       "v": "0.7.2@14986ab531faf01b054baa66c70dc6367956c8d4",
       "r": [
         "cligen >= 1.7.4"
-      ]
+      ],
+      "m": "~",
+      "p": []
     },
     {
       "v": "0.7.1@35a4f2407974c703472b45e8bb9368d51307f662",
       "r": [
         "cligen >= 1.7.2"
-      ]
+      ],
+      "m": "~",
+      "p": []
     },
     {
       "v": "0.7.0@81a7f8e5aa51bf5bad4f8dd0cf308a48a87493ea",
       "r": [
         "cligen >= 1.7.1"
-      ]
+      ],
+      "m": "~",
+      "p": []
     },
     {
       "v": "0.6.11@f30017fd69b5842a3a6969cacfeda7fe3c795fe8",
@@ -103,7 +125,8 @@
         "utils/nmatch",
         "utils/transpose",
         "utils/nsv"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.6.10@c5f28db40a4e877eb420d202096afd6aba921871",
@@ -122,7 +145,8 @@
         "utils/nmatch",
         "utils/transpose",
         "utils/nsv"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.6.9@d0b71f203e91a3072f45f73ecc97223f72b09b12",
@@ -141,7 +165,8 @@
         "utils/nmatch",
         "utils/transpose",
         "utils/nsv"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.6.8@44f3fd6ed22a22ce8070c910b9ffb4feeaeeaec3",
@@ -159,7 +184,8 @@
         "utils/lp2term",
         "utils/nmatch",
         "utils/transpose"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.6.7@2a77caaeab1e02c727a43b30c5d061b2a2e9b998",
@@ -177,7 +203,8 @@
         "utils/lp2term",
         "utils/nmatch",
         "utils/transpose"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.6.6@93c2b08d52a8e19c37f3d20192bd9e4cdd0ea459",
@@ -195,7 +222,8 @@
         "utils/lp2term",
         "utils/nmatch",
         "utils/transpose"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.6.5@338eb2a3f75b204463e67c3ba95540463aff8ca6",
@@ -213,7 +241,8 @@
         "utils/lp2term",
         "utils/nmatch",
         "utils/transpose"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.6.4@5d0af695d14da158da6016b8a4ffbcdf5b404b43",
@@ -231,7 +260,8 @@
         "utils/lp2term",
         "utils/nmatch",
         "utils/transpose"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.6.3@86f2c7b06990311c93fe4c4516b097d454cfc961",
@@ -249,7 +279,8 @@
         "utils/lp2term",
         "utils/nmatch",
         "utils/transpose"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.6.2@9352f2b25058f7f1ff5b5bf8c6f9a5faf30a5a80",
@@ -449,26 +480,12 @@
       "r": [
         "cligen >= 1.9.2"
       ],
-      "a": "Charles Blake",
-      "d": "Low Overhead Numerical/Native IO library & tools",
-      "l": "MIT/ISC",
-      "p": [
-        "nio",
-        "utils/addEmpty",
-        "utils/c2tsv",
-        "utils/c2tsvs",
-        "utils/lab2sv",
-        "utils/labs2sv",
-        "utils/lp2term",
-        "utils/nmatch",
-        "utils/transpose",
-        "utils/nsv"
-      ],
-      "m": "1.6.12"
+      "m": "~",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:26Z",
+  "generatedAt": "2026-05-26T00:52:30Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

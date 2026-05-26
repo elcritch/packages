@@ -17,26 +17,25 @@
       "v": "1.0.1@df3b2f10256de6cc9b883882385d30a8caab447b",
       "r": [
         "cligen >= 0.9.32"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "#head@4b45cda084d2ee6ee897687197527162b1d6ae78",
       "r": [
         "cligen >= 0.9.32"
       ],
-      "a": "jiro4989",
-      "d": "rena is a tiny fire/directory renaming command.",
-      "l": "MIT",
-      "s": "src",
-      "b": "bin",
-      "p": [
-        "rena"
-      ],
-      "m": "1.0.6"
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:10Z",
+  "generatedAt": "2026-05-26T00:54:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

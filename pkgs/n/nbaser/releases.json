@@ -11,24 +11,25 @@
   "releases": [
     {
       "v": "1.0.1@d845edd02b2e26f95ee5ece952e5d00388029a41",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.0@ff71592a9f4539bab031f843df4e183e630e09ab",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@0c989e0d9580b4a6c14e11976dba3a0d503ecfcd",
       "r": [],
-      "a": "D-Nice",
-      "d": "Encoder/decoder for any base alphabet up to 256 with leading zero compression",
-      "l": "Apache-2.0",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:54Z",
+  "generatedAt": "2026-05-26T00:50:56Z",
   "allDeps": {
     "packages": [],
     "urls": [],

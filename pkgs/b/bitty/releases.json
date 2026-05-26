@@ -11,36 +11,43 @@
   "releases": [
     {
       "v": "0.1.4@cde1af08ab96536239cc737cbd9217ee284e4e03",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.3@99e5808d5552a84bbd81eb0208300fec305ddd3f",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.2@8fe4986d63432f98c472da4afdae82515d281363",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@fd53f4584f90a7a9f70a873b22058900456683ab",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@0878d5a0aef066c5c83cbd0db05433bb0676fe7a",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@e0d3307f3803b7684142fd170fb32f539e45c9dd",
       "r": [],
-      "a": "Andre von Houck",
-      "d": "Utilities with dealing with 1d and 2d bit arrays.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.0"
+      "m": "1.4.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:45Z",
+  "generatedAt": "2026-05-26T00:45:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

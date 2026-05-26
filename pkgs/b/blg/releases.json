@@ -16,23 +16,32 @@
       "v": "0.2.0@e239495b661b1a4a8ffeade6e3a498829db32e67^",
       "r": [
         "margrave >= 0.3.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.1.0@31ccc4d0556904d70f5074e0520c4535803e4193",
       "r": [
         "margrave >= 0.3.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@e239495b661b1a4a8ffeade6e3a498829db32e67",
       "r": [
         "margrave >= 0.3.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:46Z",
+  "generatedAt": "2026-05-26T00:45:38Z",
   "allDeps": {
     "packages": [
       "margrave"

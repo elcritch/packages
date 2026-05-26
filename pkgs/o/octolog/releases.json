@@ -13,22 +13,22 @@
       "v": "0.1.1@db9b14faf8255f52b64e6bf67c63ffb526d4d21a",
       "r": [
         "malebolgia >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@0eeb32007532a8018f4af3b161e4b4880cee5726",
       "r": [
         "malebolgia >= 0.1.0"
       ],
-      "a": "jaar23",
-      "d": "wrapped std logging library via channel for multi-threaded application",
       "l": "GPL-3.0-or-later",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:53Z",
+  "generatedAt": "2026-05-26T00:52:58Z",
   "allDeps": {
     "packages": [
       "malebolgia"

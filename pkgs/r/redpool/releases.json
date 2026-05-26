@@ -13,22 +13,21 @@
       "v": "0.1.0@8265ee2faa52dcc5ed36a4bb0634a17e46681f27",
       "r": [
         "redis >= 0.3.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@8b7c1db069797300425037c98b825c5d3316f752",
       "r": [
         "gh:zedeus/redis #d0a0e6f"
       ],
-      "a": "zedeus",
-      "d": "Redis connection pool",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.8"
+      "m": "1.4.8",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:08Z",
+  "generatedAt": "2026-05-26T00:54:12Z",
   "allDeps": {
     "packages": [
       "redis"

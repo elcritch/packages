@@ -19,30 +19,30 @@
       "v": "0.1.0@c68d8d31fbf7c41780d33b1dd1a404184ed60e24",
       "r": [],
       "k": [],
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.1@d999b4d361fb3519f659f4904be30b77edfc7e0b",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@03bbdb1d1cf0037a366f23167d3723f66181f888",
       "r": [],
-      "a": "inv2004",
       "d": "FIX Protocol optimized parser (Financial Information eXchange)",
-      "l": "Apache-2.0",
-      "s": "src",
-      "k": [
-        "nim"
-      ],
-      "p": [
-        "genfix"
-      ],
-      "m": "1.4.4"
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:04Z",
+  "generatedAt": "2026-05-26T00:51:06Z",
   "allDeps": {
     "packages": [],
     "urls": [],

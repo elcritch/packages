@@ -11,37 +11,39 @@
     {
       "v": "1.0@4d327dcb276b0065d44b39af0575c535ee9771f3",
       "r": [],
-      "h": true
+      "h": true,
+      "m": "~"
     },
     {
       "v": "1.1@4ec74491be5b1f5856322b4d3c3ca5d1ea79c73b",
       "r": [],
-      "h": true
+      "h": true,
+      "m": "~"
     },
     {
       "v": "2.0@5bec52b1db9ab68900f280cce2368cf9307590c2",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "2.1@1fd2eceb3dfdd210a07527b5e2df82cc086b182e",
       "r": [
         "x11"
       ],
-      "d": "Programmatic control of the mouse"
+      "d": "Programmatic control of the mouse",
+      "m": "~"
     },
     {
       "v": "#head@e68ee9fda37c97b88a0fce9ca12cbfc2420810b5",
       "r": [
         "x11"
       ],
-      "a": "hiikion",
       "d": "Programmatic control of the mouse",
-      "l": "MPL2.0",
-      "m": "0.10.0"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:41Z",
+  "generatedAt": "2026-05-26T00:50:44Z",
   "allDeps": {
     "packages": [
       "x11 > 2.0"

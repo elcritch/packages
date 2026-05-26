@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.0.0@cb00b3599671d402ee1683b5c917e2bb727997c1",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@52772ae5dce004ab6ac1829ab8ad403a379375e1",
       "r": [],
-      "a": "aphkyle",
-      "d": "MMD I/O!",
-      "l": "ISC",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:59Z",
+  "generatedAt": "2026-05-26T00:52:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

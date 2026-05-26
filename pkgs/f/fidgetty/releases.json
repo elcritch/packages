@@ -13,7 +13,9 @@
       "v": "0.1.0@3b4f337989a76f7a44404766cc214e3851623bf4",
       "r": [
         "gh:elcritch/fidgetty #head"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@c3491a8f87ab9745e2564d8ff74164e93614ec32",
@@ -24,7 +26,9 @@
         "patty",
         "macroutils",
         "cdecl >= 0.5.10"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.1@5c52e30e6c1441476c63e1d337d73c73d845f933",
@@ -34,7 +38,9 @@
         "patty >= 0.3.4",
         "macroutils >= 1.2.0",
         "cdecl >= 0.5.10"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.2@cc3e54a66b1c19656e1ce7dfb40ebcd59eba2084",
@@ -45,7 +51,9 @@
         "patty >= 0.3.4",
         "macroutils >= 1.2.0",
         "cdecl >= 0.5.10"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.0@3838a01154846cdd56b86ebec391f65dda7186c1",
@@ -57,7 +65,9 @@
         "macroutils >= 1.2.0",
         "cdecl >= 0.5.10",
         "asynctools >= 0.1.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.1@ba083f3df846e3eeb3312417d7f6bb4e91994e26",
@@ -69,7 +79,9 @@
         "macroutils >= 1.2.0",
         "cdecl >= 0.5.10",
         "asynctools >= 0.1.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.4.0@032ddde9c73bf5bd3bd171c59484e5b5d5ba2cba",
@@ -81,7 +93,9 @@
         "macroutils >= 1.2.0",
         "cdecl >= 0.5.10",
         "asynctools >= 0.1.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.4.1@ad054f29e69bac9d3436b25202c8b0a50db9cef9",
@@ -93,7 +107,9 @@
         "macroutils >= 1.2.0",
         "cdecl >= 0.5.10",
         "asynctools >= 0.1.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@033b23fed3ebb370b16d6fd5b052604048b44084",
@@ -111,15 +127,12 @@
         "cdecl >= 0.7.5",
         "asynctools >= 0.1.1"
       ],
-      "a": "Jaremy Creechley",
-      "d": "Widget library built on Fidget written in pure Nim and OpenGL rendered",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.5"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:43Z",
+  "generatedAt": "2026-05-26T00:47:41Z",
   "allDeps": {
     "packages": [
       "asynctools > 0.2.2",

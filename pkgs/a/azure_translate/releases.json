@@ -13,22 +13,21 @@
       "v": "0.3.0@f4634bd6d0028634b342e915341fdcbf51519b02",
       "r": [
         "nuuid >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@0bffe47bdc59fc0ea4af8b1116e08c135aef1f1a",
       "r": [
         "nuuid >= 0.1.0"
       ],
-      "a": "William Hatcher",
-      "d": "Nim Library for Azure Cognitive Services Translate",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:20Z",
+  "generatedAt": "2026-05-26T00:45:12Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

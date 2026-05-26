@@ -22,7 +22,12 @@
         "ytextractor >= 1.1.1",
         "cligen",
         "util"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@efb05f46230f034dda9387200e63f940420a9e2c",
@@ -31,22 +36,15 @@
         "ytextractor >= 1.1.1",
         "util"
       ],
-      "a": "Thiago Navarro",
-      "d": "CLI tool and lib to get Youtube video captions (with chapters)",
-      "l": "MIT",
-      "s": "src",
-      "b": "build",
-      "k": [
-        "nim"
-      ],
-      "p": [
-        "ytcc"
-      ],
-      "m": "1.6.4"
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:54:23Z",
+  "generatedAt": "2026-05-26T00:57:20Z",
   "allDeps": {
     "packages": [
       "ajax",

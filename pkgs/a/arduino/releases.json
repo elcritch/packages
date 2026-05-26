@@ -10,7 +10,8 @@
   "releases": [
     {
       "v": "0.3.0@ea798d16d07cd64dce3cdddd6f8aa4d3c6be0173^",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "0.2.0@4fff29d36e880d67fcbc3edb62061e941d0cfb70",
@@ -21,11 +22,12 @@
     },
     {
       "v": "#head@ea798d16d07cd64dce3cdddd6f8aa4d3c6be0173",
-      "r": []
+      "r": [],
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:59Z",
+  "generatedAt": "2026-05-26T00:44:51Z",
   "allDeps": {
     "packages": [],
     "urls": [],

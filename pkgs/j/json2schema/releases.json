@@ -15,24 +15,24 @@
   "releases": [
     {
       "v": "1.0.0@287e700b6eaf325ac1a0e424338d48c276247f9c",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "#head@43d99722418ce1ad99919ce0d6e3d8cb604033ae",
       "r": [],
       "a": "Janni Adamski",
-      "d": "Infer a JSON Schema (draft 2020-12) from any JSON value",
-      "l": "MIT",
-      "s": "src",
-      "b": "bin",
-      "p": [
-        "json2schema"
-      ],
-      "m": "1.6.0"
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:21Z",
+  "generatedAt": "2026-05-26T00:49:25Z",
   "allDeps": {
     "packages": [],
     "urls": [],

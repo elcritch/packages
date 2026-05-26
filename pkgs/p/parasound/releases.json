@@ -11,28 +11,31 @@
   "releases": [
     {
       "v": "1.0.0@251aeb6a7893c7df559a2df754c1b6fbf0c8cf83",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@4dd42c11e97068db7042102a1651cac3870d417c",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@92149f92e089ef26c6a42f2dd17bed1d48d05a85",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@bccc7d37501225a4d6e7c806c81ed08f7a5bb72e",
       "r": [],
-      "a": "oakes",
-      "d": "Bindings for miniaudio",
-      "l": "Public Domain",
-      "s": "src",
-      "m": "1.2.6"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:17Z",
+  "generatedAt": "2026-05-26T00:53:20Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@632180af9946e5bd4dd126dd3edfe0a5d180dcf3",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@d34923a4a60298fd1304178816a92720949ad7b4",
       "r": [],
-      "a": "Jeff Ciesielski",
-      "d": "Intel hex file utility library",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.18.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:08Z",
+  "generatedAt": "2026-05-26T00:49:12Z",
   "allDeps": {
     "packages": [],
     "urls": [],

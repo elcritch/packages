@@ -13,15 +13,11 @@
     },
     {
       "v": "#head@f706ec9d80b3f99e13211bcb218ba3ff95b6330f",
-      "n": "listsv",
-      "r": [],
-      "a": "srwiley",
-      "d": "Implements basic operations on singly and doubly linked lists with generic value types.",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:58Z",
+  "generatedAt": "2026-05-26T00:50:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

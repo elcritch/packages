@@ -15,27 +15,24 @@
     {
       "v": "0.1.0@f997ddee3d7e9ce8a9ba88acd3fdd9aef0654b0e",
       "r": [],
-      "x": []
+      "x": [],
+      "m": "~"
     },
     {
       "v": "1.2.6@0cc5f375a98910fe34eddfb90c237b742bdceaf4",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "#head@6766462c5d6c32739de4f2b8fb6513d7d0dd59a1",
       "r": [],
-      "a": "Christopher Dunn",
-      "d": "Wrapper for edlib (Martin Šošić).",
-      "l": "BSD-3",
-      "x": [
-        "tests",
-        "apps"
-      ],
-      "m": "1.2.0"
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:20Z",
+  "generatedAt": "2026-05-26T00:47:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

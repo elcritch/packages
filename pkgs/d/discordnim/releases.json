@@ -10,7 +10,8 @@
   "releases": [
     {
       "v": "0.1.0@5cdadc0929a8795f812dfc376ad4726561d69345",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "1.2.3@42adde2070e59dff157788e32c22ca5e3dfe4a66",
@@ -102,14 +103,11 @@
         "zip >= 0.2.1",
         "websocket >= 0.4.1"
       ],
-      "a": "Krognol",
-      "d": "Discord library for nim",
-      "l": "MIT",
       "m": "1.0.4"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:06Z",
+  "generatedAt": "2026-05-26T00:46:59Z",
   "allDeps": {
     "packages": [
       "websocket > 2.0.0",

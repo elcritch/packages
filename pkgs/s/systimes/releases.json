@@ -13,22 +13,19 @@
   "releases": [
     {
       "v": "0.2.1@eda0f5745a7ce53ef29e677745d72d749a20661c",
-      "r": []
+      "r": [],
+      "m": "~",
+      "y": []
     },
     {
       "v": "#head@60d38f97abf31243ad88be7dcc19804b2dabc2ec",
       "r": [],
-      "a": "Oscar Nihlgård",
-      "d": "An alternative DateTime implementation for Nim",
-      "l": "MIT",
-      "y": [
-        "tests.nim"
-      ],
-      "m": "0.18.1"
+      "m": "~",
+      "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:34Z",
+  "generatedAt": "2026-05-26T00:55:34Z",
   "allDeps": {
     "packages": [],
     "urls": [],

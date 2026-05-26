@@ -13,28 +13,29 @@
       "v": "0.1.1@011ec73e12a92be9f9225874af3fdb73c344b4bb",
       "r": [
         "timestamp >= 0.2.3"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@3e7a6eaae989bd2189eb8d86b4dc64ea76e62005",
       "r": [
         "timestamp >= 0.2.3"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@360c963b5d910d6a5733ac7af263131555994f9d",
       "r": [
         "timestamp >= 0.2.3"
       ],
-      "a": "Jack Tang",
-      "d": "High precision and high performance task scheduler",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.2.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:39Z",
+  "generatedAt": "2026-05-26T00:55:38Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

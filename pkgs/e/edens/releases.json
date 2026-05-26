@@ -20,17 +20,27 @@
       "v": "1.0.0@19d8574deb4f95f1321bb0ef8295254d1221554a^",
       "r": [
         "cligen >= 0.9.32"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "j": [],
+      "p": []
     },
     {
       "v": "#head@19d8574deb4f95f1321bb0ef8295254d1221554a",
       "r": [
         "cligen >= 0.9.32"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "j": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:19Z",
+  "generatedAt": "2026-05-26T00:47:12Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

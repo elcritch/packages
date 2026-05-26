@@ -11,24 +11,25 @@
   "releases": [
     {
       "v": "0.1.2@61c1126c2d36ff0a4aa50d2a54be3935f219648a",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@aaa3aba6a21adef2f80ccc87e77403cee78bfe4a",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@bce244fe7ef3bb872b93b2947bbe72c92a56244f",
       "r": [],
-      "a": "matt forbes",
-      "d": "apache arrow and parquet c api bindings",
-      "l": "Apache-2.0",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:26Z",
+  "generatedAt": "2026-05-26T00:51:28Z",
   "allDeps": {
     "packages": [],
     "urls": [],

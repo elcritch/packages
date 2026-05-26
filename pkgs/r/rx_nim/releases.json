@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@7ad530bca4f56fc04033d3d6670ef32fc73b6c5e",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@d3107b810952ab192753b030eb66af8f5542d341",
       "r": [],
-      "a": "Kristian Hasselknippe",
-      "d": "An implementation of rx observables in nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:22Z",
+  "generatedAt": "2026-05-26T00:54:25Z",
   "allDeps": {
     "packages": [],
     "urls": [],

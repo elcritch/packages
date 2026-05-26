@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@c4779bc4b785296e29561eb97f3d88b263112bad",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@eb4d67c1a84d4bd74cbd7f2a2065b60bcb8bad34",
       "r": [],
-      "a": "Dominik Picheta",
-      "d": "A prometheus instrumentation library for Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.19.4"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:45Z",
+  "generatedAt": "2026-05-26T00:53:49Z",
   "allDeps": {
     "packages": [],
     "urls": [],

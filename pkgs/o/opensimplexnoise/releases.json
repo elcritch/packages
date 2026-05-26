@@ -11,25 +11,25 @@
   "releases": [
     {
       "v": "0.2.0@b7dc2fc1c554c158f3f36a93b40d0fbf8e506874",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@993d5252d4043ec0e8bb17acc873020febbe53e3",
       "r": [],
-      "m": "1.4.0"
+      "m": "1.4.0",
+      "s": ""
     },
     {
       "v": "#head@b663237a1d13b6d53df4a66ae311adfa3831eed1",
       "r": [],
-      "a": "Luis Alberto Flores Baca",
-      "d": "A pure nim port of the open simplex noise algorithm from Kurt Spencer",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:02Z",
+  "generatedAt": "2026-05-26T00:53:07Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

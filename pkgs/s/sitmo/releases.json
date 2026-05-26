@@ -10,23 +10,22 @@
   "releases": [
     {
       "v": "0.0.2@e923da087757540be922f4285f0e765e13aed8c0",
-      "r": []
+      "r": [],
+      "s": ""
     },
     {
       "v": "0.0.1@1a3aac5fbe33d4c6bd7bfdf38557b28fb8bccf93",
-      "r": []
+      "r": [],
+      "s": ""
     },
     {
       "v": "#head@4f8aaf1378ed8d461b1d92c71109d431dff73250",
       "r": [],
-      "a": "Xiao-Yong Jin",
-      "d": "Sitmo parallel random number generator in Nim",
-      "l": "MIT",
-      "s": "src"
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:52Z",
+  "generatedAt": "2026-05-26T00:54:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

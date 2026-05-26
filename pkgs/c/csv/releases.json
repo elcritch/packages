@@ -20,20 +20,17 @@
     },
     {
       "v": "0.3@98576522b340ebf7ae706bb190eb41918a902841",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "#head@8b4d78e80142abb161cb81330c46127d8293e377",
-      "n": "csv",
       "r": [],
-      "a": "Adam Chesak",
-      "d": "procedures for reading, writing, parsing, and stringifying CSV (comma separated value) files",
-      "l": "MIT",
-      "m": "0.18"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:45Z",
+  "generatedAt": "2026-05-26T00:46:38Z",
   "allDeps": {
     "packages": [],
     "urls": [],

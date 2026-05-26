@@ -13,22 +13,21 @@
       "v": "0.1.1@b6284f583732db681bb9dcdf322605e75a42fb69",
       "r": [
         "fusion"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@403c136942b4717675eed8fae9d0e2e2c60b7310",
       "r": [
         "fusion"
       ],
-      "a": "Dr. David Alexander Kunz",
-      "d": "Easily create queries in Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.6"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:00Z",
+  "generatedAt": "2026-05-26T00:51:02Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -18,21 +18,27 @@
         "faststreams >= 0.5.0",
         "serialization",
         "stew"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.2.16@c8dc4527cc7f27b67f41402451a757668819127c",
       "r": [
         "serialization",
         "stew"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.2.14@fea85b27f0badcf617033ca1bc05444b5fd8aa7a",
       "r": [
         "serialization",
         "stew"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "#head@b5b387e6fb2a7cc75d54a269b07cc6218361bd46",
@@ -40,11 +46,13 @@
         "faststreams >= 0.5.0",
         "serialization",
         "stew"
-      ]
+      ],
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:01Z",
+  "generatedAt": "2026-05-26T00:55:58Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

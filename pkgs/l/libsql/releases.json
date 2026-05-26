@@ -14,20 +14,22 @@
   "releases": [
     {
       "v": "0.1.0@f66c95b705778537b1059dbe048b6453ef2900dc",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "i": []
     },
     {
       "v": "#head@de6d0bd59a95c6b48b9557f12b864766e57f65aa",
       "r": [],
       "a": "bung87",
-      "d": "Nim binding for libSQL - an open source, open contribution fork of SQLite",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "i": [],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:50Z",
+  "generatedAt": "2026-05-26T00:49:53Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -13,40 +13,45 @@
       "v": "0.1.4@bd23ebe23fc71f8ee7e31fdede2135fd73450b24",
       "r": [
         "gh:subsetpark/nim-stomp >= 0.1.3"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.2@2aabf5ce8fcdc7f7ded5d35282fac6a651d1d1e2",
       "r": [
         "gh:subsetpark/nim-stomp >= 0.1.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@3ae85f78be16d3f7b297c93896a5e2dba0c8134b",
       "r": [
         "stomp"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@e59b27f59f221629e47795c9e68a411e1003a060",
       "r": [
         "stomp"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@60248aeb8765422ee33990b5e01a70bb4e767af4",
       "r": [
         "gh:subsetpark/nim-stomp >= 0.1.3"
       ],
-      "a": "Zach Smith",
-      "d": "A simple PubSub framework using STOMP.",
-      "l": "BSD2",
-      "s": "src",
-      "m": "0.18.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:19Z",
+  "generatedAt": "2026-05-26T00:46:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

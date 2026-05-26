@@ -14,20 +14,21 @@
   "releases": [
     {
       "v": "0.1.2@b32a9af12f34368ecffe0896804039a1d66b70b9",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@52cbdf830f3603047036070b086a1e5196df94d1",
       "r": [],
-      "a": "Steve Flenniken",
-      "d": "UTF-8 test cases and UTF-8 decoder.",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.2"
+      "m": "2.0.2",
+      "p": [],
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:28Z",
+  "generatedAt": "2026-05-26T00:56:24Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

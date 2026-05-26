@@ -17,7 +17,10 @@
       "r": [
         "jester",
         "docopt"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "1.0.0@6799da7e0716c1960f57e5c6d76a85f383243626",
@@ -34,18 +37,13 @@
         "jester",
         "docopt"
       ],
-      "a": "muxueqz",
-      "d": "remarker_light is a command line tool for building a remark-based slideshow page very easily.",
-      "l": "GPL-2.0",
-      "s": "src",
-      "p": [
-        "remarker_light"
-      ],
-      "m": "0.18"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:10Z",
+  "generatedAt": "2026-05-26T00:54:13Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

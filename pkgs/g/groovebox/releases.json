@@ -21,7 +21,11 @@
         "rtmp #head",
         "malebolgia #head",
         "nyml #head"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.1.1@7a888ab7f41dbc27e4419333bf7be08c61718395",
@@ -31,7 +35,11 @@
         "rtmp #head",
         "malebolgia #head",
         "nyml #head"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.1.0@912b37adc1a90d594065815df00c8c89ff9c535e",
@@ -41,7 +49,11 @@
         "rtmp #head",
         "malebolgia #head",
         "nyml #head"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "#head@c75131f936349c544b66f26ec02a9e63dfd86ad6",
@@ -53,19 +65,14 @@
         "nyml #head",
         "openparser #head"
       ],
-      "a": "George Lemon",
-      "d": "Live stream pre-recorded media to Twitch, Yotube and Icecast servers",
-      "l": "AGPL-3.0-or-later",
-      "s": "src",
-      "b": "bin",
-      "p": [
-        "groovebox"
-      ],
-      "m": "2.0.0"
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T13:07:43Z",
+  "generatedAt": "2026-05-26T00:48:31Z",
   "allDeps": {
     "packages": [
       "ansiparse",

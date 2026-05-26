@@ -19,7 +19,9 @@
         "glm",
         "nanovg"
       ],
-      "x": []
+      "x": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@f5b27f9364846cbb82cd9cc767bbd0d558c8f86c",
@@ -30,7 +32,9 @@
         "nanovg #099121232829722752d33e0472a11201195feb55"
       ],
       "d": "Nanim is an easy-to-use framework to create smooth GPU-accelerated animations and export them to videos.",
-      "m": "1.4.2"
+      "m": "1.4.2",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.3.0@49c664c7310f849b091932142a57829daeeb8102",
@@ -41,7 +45,9 @@
         "rainbow >= 0.2.0"
       ],
       "d": "Nanim is an easy-to-use framework to create smooth GPU-accelerated animations and export them to videos.",
-      "m": "1.4.2"
+      "m": "1.4.2",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.3.1@f454a046745e8ffe8982e2e359b0ca3f1cc8ae2e",
@@ -57,7 +63,8 @@
         "examples",
         "tests"
       ],
-      "m": "1.4.2"
+      "m": "1.4.2",
+      "s": ""
     },
     {
       "v": "0.3.2@7014a510ee9e1ae7a3edcb17793108911f40b0ff",
@@ -73,7 +80,8 @@
         "examples",
         "tests"
       ],
-      "m": "1.4.2"
+      "m": "1.4.2",
+      "s": ""
     },
     {
       "v": "0.3.3@b9e5cd59ff000001ac1b58029089e40994bf869d^",
@@ -89,7 +97,8 @@
         "examples",
         "tests"
       ],
-      "m": "1.4.2"
+      "m": "1.4.2",
+      "s": ""
     },
     {
       "v": "#head@b9e5cd59ff000001ac1b58029089e40994bf869d",
@@ -105,11 +114,12 @@
         "examples",
         "tests"
       ],
-      "m": "1.4.2"
+      "m": "1.4.2",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:50Z",
+  "generatedAt": "2026-05-26T00:50:52Z",
   "allDeps": {
     "packages": [
       "glfw <= 0.2.0",

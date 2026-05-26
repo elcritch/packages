@@ -11,36 +11,43 @@
   "releases": [
     {
       "v": "0.4.0@b1e9ca9651b6c60f20014bedf15bc50892de8da6",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.1@d7f0d84540027e65a6dfa0246759086f573f02ea",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.0@cebb33d3768db97689c03716fa8980e604758b1a",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@dc8b2adfc20b487b3d412ab9c9878d22ae3090c1",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@af4f6e699f18330761fd88552e61107314ea709e",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@461c7760b2652a616d59c49cb57f3e5a1f9fe91b",
       "r": [],
-      "a": "Evan Perry Grove",
-      "d": "Ruby Interpreter API Bindings",
-      "l": "MPL-2.0",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:20Z",
+  "generatedAt": "2026-05-26T00:54:23Z",
   "allDeps": {
     "packages": [],
     "urls": [],

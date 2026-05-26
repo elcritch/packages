@@ -11,34 +11,40 @@
   "releases": [
     {
       "v": "0.1.0@bc231033083b4ba45588bd0b4335fc09f792fde9",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.0@c3a8a41e7c85016591abf7cf061befafc9de23f8",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.1.0@5da3a76498d7877f1b93bb90f57fe875cd08b2ed",
       "r": [],
-      "d": "ski is library for SKI combinator."
+      "d": "ski is library for SKI combinator.",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.2.0@e892100be2f823f34b30723d1c805a659c4ff81d",
       "r": [],
-      "d": "ski is library for SKI combinator."
+      "d": "ski is library for SKI combinator.",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@7937592ed8f1439cc3bf0c677112381e9b5b9ba1",
       "r": [],
-      "a": "jiro4989",
       "d": "ski is library for SKI combinator.",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.19.4"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:53Z",
+  "generatedAt": "2026-05-26T00:54:56Z",
   "allDeps": {
     "packages": [],
     "urls": [],

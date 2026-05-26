@@ -11,25 +11,27 @@
   "releases": [
     {
       "v": "0.1.0@a51ed776d26fd2cbf35b8dd97a9cf3423085a457",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@3619391f2bda1c00a75af3150dab5a5354557c74",
       "r": [],
-      "d": "A port of libnoise into pure nim, heavily inspired by Libnoise.Unity, but true to the original Libnoise"
+      "d": "A port of libnoise into pure nim, heavily inspired by Libnoise.Unity, but true to the original Libnoise",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@93cbb1212dff256791b1a95e82891af53ea2a580",
       "r": [],
-      "a": "blakeanedved",
       "d": "A port of libnoise into pure nim, heavily inspired by Libnoise.Unity, but true to the original Libnoise",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:00Z",
+  "generatedAt": "2026-05-26T00:52:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

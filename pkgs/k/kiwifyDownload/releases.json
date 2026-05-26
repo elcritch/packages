@@ -17,13 +17,21 @@
       "v": "0.1.0@088213720e93cdc915946e402bbae631e3528196",
       "r": [
         "cligen"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.2.0@2266f432ff4a822fa30ce5925c0dd1a1d5523d88",
       "r": [
         "cligen"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.3.0@cc4e7ef612855d4b85ada22b68a308a1694a92ff",
@@ -31,7 +39,11 @@
         "cligen",
         "vimeo",
         "util"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "1.0.0@e567267a02a136b88e19130aee42a51418b618cf",
@@ -39,7 +51,11 @@
         "cligen",
         "vimeo",
         "util"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "1.1.0@8f0aa412ccc0ef1759ec37cbf6253f0595f4c385",
@@ -47,21 +63,33 @@
         "cligen",
         "vimeo",
         "util"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "1.2.0@aa000eea3fcc56364535a8d9b3dbf267c42d03b9",
       "r": [
         "cligen",
         "util"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "1.2.2@5ce1b21e7e3a824f2ae6b981f4dffe305c51d1b3",
       "r": [
         "cligen",
         "util"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "1.3.0@6dd55ff7de83fdf8bc6858f52f5281896f6e8387",
@@ -69,7 +97,11 @@
         "cligen",
         "util"
       ],
-      "a": "thisago"
+      "a": "thisago",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "#head@13da9d5ffdf5f97d6acdc94b33450965e78ea7a3",
@@ -78,18 +110,14 @@
         "util"
       ],
       "a": "thisago",
-      "d": "Downloads the kiwify videos from course JSON",
-      "l": "MIT",
-      "s": "src",
-      "b": "build",
-      "p": [
-        "kiwifyDownload"
-      ],
-      "m": "1.6.4"
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:32Z",
+  "generatedAt": "2026-05-26T00:49:36Z",
   "allDeps": {
     "packages": [
       "cligen",

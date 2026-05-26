@@ -13,7 +13,9 @@
       "v": "0.1.0@40d06d5568f6738e32c350a059bcd8a01d69c142",
       "r": [
         "hmac >= 0.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@caea4db4c833953196fb726dbed0fe5e6109a342",
@@ -22,13 +24,12 @@
       ],
       "a": "Li Haifeng",
       "d": "WeChat payment SDK for Nim.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:54:07Z",
+  "generatedAt": "2026-05-26T00:57:04Z",
   "allDeps": {
     "packages": [
       "checksums",

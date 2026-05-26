@@ -19,7 +19,9 @@
         "serialization",
         "stew >= 0.2.0",
         "results"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.4.2@e076cb9a2dff30e13aad0bb4a13049da86d07967",
@@ -27,7 +29,9 @@
         "serialization",
         "stew >= 0.2.0",
         "results"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.4.0@c20d95ac196bb5b95a2b205cd39c1196cc6f5f9c",
@@ -35,7 +39,9 @@
         "serialization",
         "stew >= 0.2.0",
         "results"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.3.0@53267308d00ed57c05e107f58a647cccb7468c59",
@@ -43,7 +49,9 @@
         "serialization",
         "stew >= 0.2.0",
         "results"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.2.9@6eadb6e939ffa7882ff5437033c11a9464d3385c",
@@ -51,29 +59,24 @@
         "serialization",
         "stew",
         "results"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "#head@43e12f9693f52236786549b09d0306672c69315d",
-      "n": "json_serialization",
       "r": [
         "faststreams >= 0.5.0",
         "serialization",
         "stew >= 0.2.0",
         "results"
       ],
-      "a": "Status Research & Development GmbH",
-      "d": "Flexible JSON serialization not relying on run-time type information",
-      "l": "Apache License 2.0",
-      "x": [
-        "tests",
-        "fuzzer"
-      ],
-      "m": "1.6.0"
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:23Z",
+  "generatedAt": "2026-05-26T00:49:27Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

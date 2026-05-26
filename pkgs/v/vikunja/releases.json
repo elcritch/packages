@@ -13,32 +13,35 @@
       "v": "0.1.2@6be3649bba61a4b5cc88f462bad19446ba40b715",
       "r": [
         "jsony"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@ad36592680fe69a30585f5411de8a5c04314302a",
       "r": [
         "jsony"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@14796b0466c8d938b4c8761a6e8efb67825c56ac",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@cab20213869bc9ed5fc0543c4d283fe3d5c28232",
       "r": [
         "jsony"
       ],
-      "a": "Rui Vieira",
-      "d": "Nim Vikunja client",
-      "l": "Apache-2.0",
-      "s": "src",
-      "m": "1.6.10"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:34Z",
+  "generatedAt": "2026-05-26T00:56:30Z",
   "allDeps": {
     "packages": [
       "jsony > 0.1.0"

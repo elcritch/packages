@@ -11,48 +11,61 @@
   "releases": [
     {
       "v": "0.0.8@63144df1bfd575cde95875a2315d7b956870debd",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.0.7@ee95cca707b0e07a03ff477156a843ccd9257f62",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.0.6@05387a8edd8aced94eb65c9566fbf009e7cce6a1",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.0.5@b55ca7dbb4a3de56ecf0586b574690c382dde743",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.0.4@0510293c40ea190aa85fb75410cdb3ef8b17e967",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.0.3@bb1e017d8cf935ee36dd36ad59eb1d5750730c27",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.0.2@544db6b71ec5673621d591497f79a70061d458a8",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.0.1@214ed4e09be82ddb00f1a74f53b33dedd7a02c10",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@f6702509883fa5d9f4125d5ac349ce20f8b0a367",
       "r": [],
-      "a": "alogani",
-      "d": "Asynchronous Library Inspired by Go's goroutines",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:46Z",
+  "generatedAt": "2026-05-26T00:51:48Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

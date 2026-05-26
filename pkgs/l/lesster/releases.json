@@ -26,7 +26,13 @@
         "illwave",
         "argparse",
         "regex"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "y": [],
+      "j": [],
+      "o": {}
     },
     {
       "v": "0.2.0@65df722be02d9b1475b4a66f1c241f2d9105e595",
@@ -37,7 +43,11 @@
         "regex"
       ],
       "y": [],
-      "j": []
+      "j": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "o": {}
     },
     {
       "v": "#head@f111a09c36248c867c33c12423ae563f86db9949",
@@ -46,26 +56,11 @@
         "illwave",
         "argparse",
         "regex"
-      ],
-      "a": "Andrea Telatin",
-      "d": "A less-like interactive text pager library for Nim",
-      "l": "MIT",
-      "s": "src",
-      "b": "bin",
-      "y": [
-        "parser.nim"
-      ],
-      "j": [
-        "lesster.nim"
-      ],
-      "o": {
-        "lesster_app": "lesster"
-      },
-      "m": "2.0.0"
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:40Z",
+  "generatedAt": "2026-05-26T00:49:44Z",
   "allDeps": {
     "packages": [
       "ansiutils",

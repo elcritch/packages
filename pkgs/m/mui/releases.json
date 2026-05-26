@@ -17,7 +17,10 @@
   "releases": [
     {
       "v": "2.0.1@4bccc0fff6d3db05b05351bce3b87658e9520363",
-      "r": []
+      "r": [],
+      "m": "~",
+      "i": [],
+      "j": []
     },
     {
       "v": "2.0.2@0e1512eb807e39399065228b28aa92f165bff8ee",
@@ -25,22 +28,21 @@
       "i": [
         "src"
       ],
-      "j": []
+      "j": [],
+      "m": "~"
     },
     {
       "v": "#head@fb996aed79743abb3fbbbd3c9a18aecdcb00cb3e",
       "r": [],
-      "a": "Angluca",
-      "d": "A tiny immediate-mode UI library",
-      "l": "MIT",
       "i": [
         "src"
       ],
-      "m": "1.6.6"
+      "m": "1.6.6",
+      "j": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:45Z",
+  "generatedAt": "2026-05-26T00:50:46Z",
   "allDeps": {
     "packages": [],
     "urls": [],

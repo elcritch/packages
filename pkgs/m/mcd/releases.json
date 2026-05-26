@@ -20,7 +20,12 @@
         "parsetoml >= 0.5.0",
         "cligen >= 1.2.2",
         "colorizeEcho"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": [],
+      "e": ""
     },
     {
       "v": "0.3.1@63ac754ff0ceee56ce0dc9bcb08e082e248895ff",
@@ -28,7 +33,12 @@
         "parsetoml >= 0.5.0",
         "cligen >= 1.2.2",
         "colorizeEcho"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": [],
+      "e": ""
     },
     {
       "v": "0.3.0@e46fe665e11a1cba25193fdaa7bedfbe66c9dc9f",
@@ -36,7 +46,12 @@
         "parsetoml >= 0.5.0",
         "cligen >= 1.2.2",
         "colorizeEcho"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": [],
+      "e": ""
     },
     {
       "v": "0.2.0@5043cf8b5ecee024e59e337cabe1e20d2dc939ce",
@@ -44,7 +59,12 @@
         "parsetoml >= 0.5.0",
         "cligen >= 1.2.2",
         "colorizeEcho"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": [],
+      "e": ""
     },
     {
       "v": "0.1.0@f564d4bae189a510cfa5aef24d21295e9ebc7409",
@@ -52,7 +72,12 @@
         "parsetoml >= 0.5.0",
         "cligen >= 1.2.2",
         "colorizeEcho"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": [],
+      "e": ""
     },
     {
       "v": "#head@46ebb49878fcd37153833cda887ec8ceb5dcddcd",
@@ -60,21 +85,11 @@
         "parsetoml >= 0.5.0",
         "cligen >= 1.2.2",
         "colorizeEcho 1.2"
-      ],
-      "a": "Arnaud Moura",
-      "d": "Application to detect which commit generates malicious code detection by antivirus software.",
-      "l": "MIT",
-      "s": "src",
-      "b": "bin",
-      "p": [
-        "mcd"
-      ],
-      "e": "c",
-      "m": "1.4.0"
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:21Z",
+  "generatedAt": "2026-05-26T00:50:24Z",
   "allDeps": {
     "packages": [
       "cligen",

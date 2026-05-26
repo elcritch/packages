@@ -21,15 +21,11 @@
     },
     {
       "v": "#head@417bdf54d4da8fc79577018f1eef6e8a2f39a008",
-      "n": "pythonfile",
-      "r": [],
-      "a": "Adam Chesak",
-      "d": "Wrapper of the file functions to provide an interface as similar as possible to that of Python",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:54Z",
+  "generatedAt": "2026-05-26T00:53:58Z",
   "allDeps": {
     "packages": [],
     "urls": [],

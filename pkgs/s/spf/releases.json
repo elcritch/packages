@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@379556f0ad85dcce9321dd2162dbe0809e87a171",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@c465afbe754e5948e8b1bc299bd8f7c15939fad3",
       "r": [],
-      "a": "George Lemon",
-      "d": "Bindings for the SPF library",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:05Z",
+  "generatedAt": "2026-05-26T00:55:07Z",
   "allDeps": {
     "packages": [],
     "urls": [],

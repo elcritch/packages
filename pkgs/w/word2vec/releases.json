@@ -11,20 +11,20 @@
   "releases": [
     {
       "v": "0.0.1@21df9f28ac8c02b130aec9ded2d1712bb6240374",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@53e079a33be718d17a3769734c52b02cdbb2364d",
       "r": [],
       "a": "Andre von Houck",
-      "d": "Word2vec implemented in nim.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T13:13:19Z",
+  "generatedAt": "2026-05-26T00:57:01Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

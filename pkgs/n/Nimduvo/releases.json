@@ -11,24 +11,25 @@
   "releases": [
     {
       "v": "1.1.1@3d0eec7b8e438eb78d6c648624e3e0dc3d252f1c",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.1.0@3c28c1fd3c09290df9adce6cfa760ffcc7fb565b",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@8176ae4441b702b1ac1909e2c16c780045ae4a9f",
       "r": [],
-      "a": "sednoids",
-      "d": "A Nim wrapper for the Luduvo API.",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.2.8"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:37Z",
+  "generatedAt": "2026-05-26T00:44:29Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -16,55 +16,68 @@
       "v": "1.0.5@b14a664631c2a2805baf41aeb5b5247a5d548af6",
       "r": [
         "httpbeast >= 0.4.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "1.0.4@b6899b99f29f8b958384d5c60660108dd0d333ea",
       "r": [
         "httpbeast >= 0.4.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "1.0.3@9cae3d166d55ac47a668df81d9617d91a7416fec",
       "r": [
         "httpbeast >= 0.4.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "1.0.2@1128ae46542a1ed6e50b8e7afd7bbe2e142927ea",
       "r": [
         "httpbeast >= 0.4.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "1.0.1@9ad0e3cf961324f184ddca0634cbe71ec72265b6",
       "r": [
         "httpbeast >= 0.4.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "1.0.0@45714d7a4f32f67fa669da6c01dfb9ffd51d3ab0",
       "r": [
         "httpbeast >= 0.4.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@b6da2c663bf969b6c118c71a04f008352a2bfe9a",
       "r": [
         "httpbeast >= 0.4.1"
       ],
-      "a": "solaoi",
-      "d": "Voicepeak Server",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "voicepeaky"
-      ],
-      "m": "1.6.10"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:38Z",
+  "generatedAt": "2026-05-26T00:56:34Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

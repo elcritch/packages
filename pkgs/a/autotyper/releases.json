@@ -20,29 +20,27 @@
       "v": "0.2.0@91cd8b493b914890f2f8ab992938805f8ef5fba0",
       "r": [
         "cligen"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@9513d5234b353b4ed28eac709d2b89d5152e6ac5",
       "r": [
         "cligen"
       ],
-      "a": "Michal Kijowski",
-      "d": "Keyboard typing emulator",
-      "l": "MIT",
-      "s": "src",
-      "b": "bin",
-      "k": [
-        "nim"
-      ],
-      "p": [
-        "autotyper"
-      ],
-      "m": "1.0.2"
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:16Z",
+  "generatedAt": "2026-05-26T00:45:08Z",
   "allDeps": {
     "packages": [
       "cligen"

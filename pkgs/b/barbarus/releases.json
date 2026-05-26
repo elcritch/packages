@@ -10,19 +10,17 @@
   "releases": [
     {
       "v": "0.1.0@efe25b6821a7a83d0341f8be688984caac0e7e3f",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "#head@4e9224e2603470bc65080bb332bde6d76a7061c5",
       "r": [],
-      "a": "Giumo Clanjor (哆啦比猫/兰威举)",
-      "d": "A simple extensible i18n engine.",
-      "l": "MIT",
-      "m": "0.14.2"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:25Z",
+  "generatedAt": "2026-05-26T00:45:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

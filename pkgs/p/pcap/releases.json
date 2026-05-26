@@ -10,19 +10,17 @@
   "releases": [
     {
       "v": "0.1.0@3c6a43281a4559bc00bf5584d25e53a7fafd268e",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "#head@36886f0162bba99efd0c57ca771275d561957cc2",
       "r": [],
-      "a": "Peter Munch-Ellingsen",
-      "d": "Tiny pure Nim library to read PCAP files",
-      "l": "MIT",
-      "m": "0.17.1"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:21Z",
+  "generatedAt": "2026-05-26T00:53:26Z",
   "allDeps": {
     "packages": [],
     "urls": [],

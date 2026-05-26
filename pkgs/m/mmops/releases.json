@@ -13,28 +13,29 @@
       "v": "0.1.1@a3cf2a4979899bd8f2b41beaf365daae42aa2fa0",
       "r": [
         "nimsimd"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@b744658bf8fd43e1f027372375375d2313bf022e",
       "r": [
         "nimsimd"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@dd9055eaae45cc8659544a2a40211000c6fda9c4",
       "r": [
         "nimsimd"
       ],
-      "a": "Carlo Capocasa",
-      "d": "Multimedia Operators- Safe, zero-cost nim-like SIMD",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:35Z",
+  "generatedAt": "2026-05-26T00:50:38Z",
   "allDeps": {
     "packages": [
       "nimsimd"

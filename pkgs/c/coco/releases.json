@@ -19,7 +19,10 @@
       "r": [
         "cligen",
         "glob"
-      ]
+      ],
+      "m": "~",
+      "x": [],
+      "p": []
     },
     {
       "v": "#head@0d7b08c9acfd492db19538aceb71901da9e47def",
@@ -27,20 +30,16 @@
         "cligen",
         "glob"
       ],
-      "a": "Samuel Roy",
-      "d": "Code coverage with line and branch support for Nim",
-      "l": "MIT",
       "j": [
         "coco.nim"
       ],
-      "p": [
-        "coco"
-      ],
-      "m": "0.19.0"
+      "m": "0.19.0",
+      "x": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:29Z",
+  "generatedAt": "2026-05-26T00:46:24Z",
   "allDeps": {
     "packages": [
       "cligen",

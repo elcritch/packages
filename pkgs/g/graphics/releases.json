@@ -13,15 +13,11 @@
     },
     {
       "v": "#head@ce69b637c4ac0f108c92c6f0969f3dd76660ae84",
-      "n": "graphics",
-      "r": [],
-      "a": "Andreas Rumpf, Dominik Picheta",
-      "d": "Graphics module for Nim.",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:27Z",
+  "generatedAt": "2026-05-26T00:48:30Z",
   "allDeps": {
     "packages": [],
     "urls": [],

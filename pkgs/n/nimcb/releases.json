@@ -14,23 +14,21 @@
   "releases": [
     {
       "v": "0.1.0@13ed89d5259a9b6ef32777650dba5bd63e206112",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@b07815e1f0174da6035e9570f390dd9b833b715a",
       "r": [],
-      "a": "Adrian Veith",
-      "d": "Integrate nim projects in the C++Builder build process",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "nimcb"
-      ],
-      "m": "0.18.1"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:33Z",
+  "generatedAt": "2026-05-26T00:51:34Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -20,14 +20,22 @@
       "r": [
         "imageman",
         "arraymancer"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.1.1@7224a1baf175edbc3f1d1112b4b4faaa09a0bca6",
       "r": [
         "nimPNG",
         "struct"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.1.2@8f4e05b06ba492fc3474619b8fff993c99a08a7e",
@@ -35,7 +43,10 @@
         "nimPNG",
         "struct"
       ],
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": "",
+      "k": []
     },
     {
       "v": "0.2.0@6893ea2811cce6c550ee7c4f4e25f9e7c1448fd5",
@@ -43,7 +54,10 @@
         "nimPNG",
         "struct"
       ],
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": "",
+      "k": []
     },
     {
       "v": "0.2.1@5db953456753544d3ff7302896e9295512737041",
@@ -51,7 +65,10 @@
         "nimPNG",
         "struct"
       ],
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": "",
+      "k": []
     },
     {
       "v": "#head@29b37b76704a14fe68a7e3523dc06d5c2ebf31f5",
@@ -59,18 +76,14 @@
         "nimPNG",
         "struct"
       ],
-      "a": "bung87",
-      "d": "Generate icon files from PNG files.",
-      "l": "MIT",
-      "s": "src",
-      "k": [
-        "nim"
-      ],
-      "m": "1.2.0"
+      "p": [],
+      "m": "~",
+      "s": "",
+      "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:00Z",
+  "generatedAt": "2026-05-26T00:49:03Z",
   "allDeps": {
     "packages": [
       "arraymancer <= 0.1.0",

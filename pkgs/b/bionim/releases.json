@@ -22,24 +22,42 @@
         "PhylogeNi >= 0.0.2",
         "bio_seq >= 0.0.5"
       ],
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": []
     },
     {
       "v": "0.0.3@cc741739686d2617d6cd737232e29c573b8dca6d",
       "r": [
         "PhylogeNi"
       ],
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": []
     },
     {
       "v": "0.0.2@aa975b3327f0fe034032d63ce0230e8a90e72234",
       "r": [
         "PhylogeNi"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.0.1@0daf0a1d292aa393d355cd6524572f8aaa64408f",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@b5fbadf96ed29a32015c4f54ba123422205a5524",
@@ -47,19 +65,15 @@
         "PhylogeNi >= 0.0.2",
         "bio_seq >= 0.0.5"
       ],
-      "a": "Thomas Dost",
-      "d": "A collection of useful algorithms and data structures for bioinformatics",
-      "l": "MIT",
-      "s": "src",
-      "b": "bin",
-      "k": [
-        "nim"
-      ],
-      "m": "1.4.4"
+      "p": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:42Z",
+  "generatedAt": "2026-05-26T00:45:34Z",
   "allDeps": {
     "packages": [
       "PhylogeNi > 0.0.1",

@@ -22,24 +22,22 @@
     },
     {
       "v": "0.1.2@44486beafa100f44ee0f0ec9bd8fb547168ba358",
-      "r": []
+      "r": [],
+      "y": []
     },
     {
       "v": "#head@b9d6d29cb44d4b6965ad4db04770bef2a35dd4b7",
-      "n": "nimAES",
       "r": [],
-      "a": "Andri Lim",
-      "d": "AES encryption algorithm",
-      "l": "MIT",
       "x": [
         "tests",
         "docs"
       ],
-      "m": "1.0.6"
+      "m": "1.0.6",
+      "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:12Z",
+  "generatedAt": "2026-05-26T00:51:14Z",
   "allDeps": {
     "packages": [],
     "urls": [],

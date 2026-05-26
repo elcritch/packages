@@ -12,21 +12,21 @@
   "releases": [
     {
       "v": "0.1.0@8fb2f73d42a2bd90e60c504e24cf8c29cefbaa91",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "e": ""
     },
     {
       "v": "#head@ff808fa8c44d93cef3eb62ca21ec87419a21dfef",
       "r": [],
-      "a": "Thiago Navarro",
-      "d": "TIC-80 bindings",
-      "l": "MIT",
-      "s": "src",
-      "e": "js",
-      "m": "1.5.1"
+      "m": "~",
+      "s": "",
+      "e": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:51Z",
+  "generatedAt": "2026-05-26T00:55:49Z",
   "allDeps": {
     "packages": [],
     "urls": [],

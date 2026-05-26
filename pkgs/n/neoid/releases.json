@@ -14,7 +14,8 @@
       "r": [
         "random >= 0.5.7"
       ],
-      "s": ""
+      "s": "",
+      "m": "~"
     },
     {
       "v": "0.3.1@39e6a67900f990925a2d279cbae1675e822ebe4f",
@@ -22,7 +23,8 @@
         "random >= 0.5.7",
         "winim >= 3.4.0"
       ],
-      "s": ""
+      "s": "",
+      "m": "~"
     },
     {
       "v": "0.3.0@424b0b359a475da3cc80ffcb0152349d27ae42c1",
@@ -30,7 +32,8 @@
         "random >= 0.5.7",
         "winim >= 3.4.0"
       ],
-      "s": ""
+      "s": "",
+      "m": "~"
     },
     {
       "v": "0.2.0@54ab178c7c86e737be10562ce6683bb81b067749",
@@ -39,7 +42,8 @@
       ],
       "a": "Anirudh",
       "d": "The Nim implementation of NanoID",
-      "m": "0.18.0"
+      "m": "0.18.0",
+      "s": ""
     },
     {
       "v": "0.1.0@683297dad7116d717fe58e125ad27cdfbf18c40c",
@@ -48,21 +52,20 @@
       ],
       "a": "Anirudh",
       "d": "The Nim implementation of NanoID",
-      "m": "0.18.0"
+      "m": "0.18.0",
+      "s": ""
     },
     {
       "v": "#head@f6197a00064a0779b0d0e5c927873d9afe1b4bc1",
       "r": [
         "random >= 0.5.7"
       ],
-      "a": "Akito",
-      "d": "Nim implementation of NanoID.",
-      "l": "MIT",
-      "m": "1.4.0"
+      "s": "",
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:59Z",
+  "generatedAt": "2026-05-26T00:51:01Z",
   "allDeps": {
     "packages": [
       "random",

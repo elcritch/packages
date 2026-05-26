@@ -13,20 +13,26 @@
   "releases": [
     {
       "v": "0.1.1@70e0f6f4bee78087dff253d2b4638c5501ed834e^",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.1.0@85f41e677f2ac7636f2c8b044df2d06e6a74eab1",
       "r": [],
-      "l": "MIT"
+      "l": "MIT",
+      "m": "~",
+      "x": []
     },
     {
       "v": "#head@70e0f6f4bee78087dff253d2b4638c5501ed834e",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:27Z",
+  "generatedAt": "2026-05-26T00:53:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

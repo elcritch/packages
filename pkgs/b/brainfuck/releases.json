@@ -24,7 +24,10 @@
       "r": [
         "docopt >= 0.1.0"
       ],
-      "a": "Dennis Felsing"
+      "a": "Dennis Felsing",
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@62d0175881b3dbd80d1c48eb36aa0050a07c85dc",
@@ -32,17 +35,13 @@
         "docopt >= 0.1.0"
       ],
       "a": "Dennis Felsing",
-      "d": "A brainfuck interpreter and compiler",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "brainfuck"
-      ],
-      "m": "0.10.0"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:52Z",
+  "generatedAt": "2026-05-26T00:45:46Z",
   "allDeps": {
     "packages": [
       "docopt > 1.0",

@@ -11,28 +11,31 @@
   "releases": [
     {
       "v": "0.3.1@4ff29465b2403426d337d607e18b52c221a21111",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.0@437c55998c1a738664d520ab831cbbfa96d5c2fd",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@7a836a89184d85b393d157a61cb067f7ae047c9d",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@f623a34394cd84338c7bb1808bd27f6f2575f171",
       "r": [],
-      "a": "Daylin Morgan",
-      "d": "bringing some fun (hwyl) to the terminal",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.8"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:57Z",
+  "generatedAt": "2026-05-26T00:49:00Z",
   "allDeps": {
     "packages": [],
     "urls": [],

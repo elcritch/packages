@@ -17,7 +17,9 @@
         "jwt",
         "cligen",
         "zip"
-      ]
+      ],
+      "m": "~",
+      "p": []
     },
     {
       "v": "#head@b4154578f9a3b12a04fbe8422a2140614340cd78",
@@ -25,17 +27,12 @@
         "jwt",
         "cligen"
       ],
-      "a": "Yuriy Glukhov",
-      "d": "Upload APK to Google Play",
-      "l": "MIT",
-      "p": [
-        "gplay"
-      ],
-      "m": "0.17.0"
+      "m": "~",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:25Z",
+  "generatedAt": "2026-05-26T00:48:28Z",
   "allDeps": {
     "packages": [
       "bearssl",

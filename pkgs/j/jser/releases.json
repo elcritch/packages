@@ -13,17 +13,22 @@
   "releases": [
     {
       "v": "0.2.1@33c2fb579ecd927481466a203baaa4bad37d58e7^",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.2.0@0703bcd2cad3ec69e4f0118c8736024e294a76f3",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.1.1@efbd4d8aa4e480dd4802830a8e4d2783665fdada",
       "r": [],
       "d": "json de/serializer for tuples and more",
-      "m": "0.13.0"
+      "m": "0.13.0",
+      "x": []
     },
     {
       "v": "0.1.0@a9391b08a2258cca7f4ce2014caacc970736ca7c",
@@ -34,11 +39,13 @@
     },
     {
       "v": "#head@33c2fb579ecd927481466a203baaa4bad37d58e7",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:21Z",
+  "generatedAt": "2026-05-26T00:49:25Z",
   "allDeps": {
     "packages": [],
     "urls": [],

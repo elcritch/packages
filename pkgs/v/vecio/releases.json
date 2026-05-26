@@ -14,24 +14,24 @@
   "releases": [
     {
       "v": "0.1.0@8a5251e21bc384453554c4ea670a1e29e5c1ac60",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "#head@d514450b3329f94aabfb7af48066292685deb825",
       "r": [],
-      "a": "emekoi",
-      "d": "vectored io for nim",
-      "l": "MIT",
-      "s": "src",
       "x": [
         "tests",
         "docs"
       ],
-      "m": "0.18.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:33Z",
+  "generatedAt": "2026-05-26T00:56:28Z",
   "allDeps": {
     "packages": [],
     "urls": [],

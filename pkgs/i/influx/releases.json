@@ -14,23 +14,21 @@
   "releases": [
     {
       "v": "0.1.0@130aa979a2381316d8a173250950cdd482fbf742",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "#head@922be04f9349132addf6c033dd09cf0152e01107",
       "r": [],
-      "a": "Samantha Marshall",
-      "d": "wrapper for communicating with InfluxDB over the REST interface",
-      "l": "BSD 3-Clause",
-      "s": "src",
-      "x": [
-        "tests"
-      ],
-      "m": "0.16.0"
+      "m": "~",
+      "s": "",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:06Z",
+  "generatedAt": "2026-05-26T00:49:09Z",
   "allDeps": {
     "packages": [],
     "urls": [],

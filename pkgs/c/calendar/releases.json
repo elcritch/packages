@@ -14,23 +14,23 @@
   "releases": [
     {
       "v": "0.1.0@1fc115f28e953a22e677e146d0a15c13f27916e1",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@1b748dbed1be5092dff20f8e9a555b193c022dc9",
       "r": [],
-      "a": "Adam McDaniel",
-      "d": "A tiny calendar program",
-      "l": "MIT",
-      "s": "src",
       "p": [
         "cal"
       ],
-      "m": "1.2.4"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:00Z",
+  "generatedAt": "2026-05-26T00:45:56Z",
   "allDeps": {
     "packages": [],
     "urls": [],

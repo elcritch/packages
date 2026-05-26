@@ -13,12 +13,15 @@
   "releases": [
     {
       "v": "0.1.0@9e8ccc754631ac55ac2fd495e167e74e86293edb",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.0.4@b3673c7a7a959ccacb393bd9b47e997bbd177f5a",
       "r": [],
-      "m": "1.2.12"
+      "m": "1.2.12",
+      "x": []
     },
     {
       "v": "0.0.3@7834ee35a54f8fb128d6699d92b882783afc2708",
@@ -34,19 +37,13 @@
     },
     {
       "v": "#head@4acdc6ef005a93dba09f902ed75197548cf7b451",
-      "n": "taskpools",
       "r": [],
-      "a": "Status Research & Development GmbH",
-      "d": "lightweight, energy-efficient, easily auditable threadpool",
-      "l": "MIT",
-      "x": [
-        "tests"
-      ],
-      "m": "1.6.0"
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:39Z",
+  "generatedAt": "2026-05-26T00:55:38Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@c45d85578638cbd678a64f0c050b576956342374",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@eee48407f3727f89900e0a3e672575f54ad2eef1",
       "r": [],
-      "a": "rxi",
-      "d": "Lightweight audio mixer for games",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.17.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:27Z",
+  "generatedAt": "2026-05-26T00:46:21Z",
   "allDeps": {
     "packages": [],
     "urls": [],

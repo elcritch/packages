@@ -12,7 +12,9 @@
       "v": "0.2@a09bd58087dcb1fa704259191c65a01e6fd9c0a1^",
       "r": [
         "networkutils >= 0.6.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1@eb0116e8f6b61d171944d0f44adcf2710d144dfc",
@@ -26,11 +28,13 @@
       "v": "#head@a09bd58087dcb1fa704259191c65a01e6fd9c0a1",
       "r": [
         "networkutils >= 0.6.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:11Z",
+  "generatedAt": "2026-05-26T00:45:03Z",
   "allDeps": {
     "packages": [
       "networkutils",

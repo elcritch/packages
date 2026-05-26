@@ -14,7 +14,9 @@
       "r": [
         "nre >= 2.0.0",
         "timezones >= 0.5"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@0ceaf586bbf4ecaae0e145989c251120f6bf1899",
@@ -22,7 +24,8 @@
         "nre >= 2.0.0",
         "timezones >= 0.5"
       ],
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "s": ""
     },
     {
       "v": "#head@8d9c3af61030c72be5cbac7135991ec118ed03ed",
@@ -30,15 +33,12 @@
         "nre >= 2.0.0",
         "timezones >= 0.5"
       ],
-      "a": "Vinay Sajip",
-      "d": "A configuration system",
-      "l": "BSD-3-Clause",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:32Z",
+  "generatedAt": "2026-05-26T00:46:27Z",
   "allDeps": {
     "packages": [
       "nre",

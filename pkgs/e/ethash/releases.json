@@ -11,23 +11,23 @@
   "releases": [
     {
       "v": "0.0.1@d96742b3203979cf5ce50a7f1bf01b9fd268929e",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@c2658d579295dff1d4b5f19c287c0cd3224ff701",
-      "n": "ethash",
       "r": [
         "nimcrypto >= 0.1.0"
       ],
-      "a": "Status Research & Development GmbH",
       "d": "A Nim implementation of Ethash, the Ethereum proof-of-work hashing function",
       "l": "Apache License 2.0",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:29Z",
+  "generatedAt": "2026-05-26T00:47:22Z",
   "allDeps": {
     "packages": [
       "nimcrypto"

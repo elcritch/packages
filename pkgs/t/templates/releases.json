@@ -18,26 +18,30 @@
     {
       "v": "0.3@8444bcfe95da3e42f6b16789e3870435d7b063a4",
       "r": [],
-      "d": "a compile-time templating engine for nim"
+      "d": "a compile-time templating engine for nim",
+      "x": []
     },
     {
       "v": "0.4@455cbba70a90aad11a43cb697efeb6b884584699",
       "r": [],
-      "d": "a compile-time templating engine for nim"
+      "d": "a compile-time templating engine for nim",
+      "x": []
     },
     {
       "v": "0.5@9c18d46fc1ba70e86eed2515502da34377bee088^",
       "r": [],
-      "d": "a compile-time templating engine for nim"
+      "d": "a compile-time templating engine for nim",
+      "x": []
     },
     {
       "v": "#head@9c18d46fc1ba70e86eed2515502da34377bee088",
       "r": [],
-      "d": "a compile-time templating engine for nim"
+      "d": "a compile-time templating engine for nim",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:43Z",
+  "generatedAt": "2026-05-26T00:55:41Z",
   "allDeps": {
     "packages": [],
     "urls": [],

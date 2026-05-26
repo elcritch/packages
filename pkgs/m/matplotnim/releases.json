@@ -14,13 +14,17 @@
       "r": [
         "tempfile",
         "nimpy"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@3c097c57182f8a3166766b76f93388750a4a127b",
       "r": [
         "tempfile"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@33ae2a0c0154b5b018072c4b186857a5a09798bb",
@@ -28,15 +32,12 @@
         "tempfile",
         "nimpy"
       ],
-      "a": "Rui Vieira",
-      "d": "Nim wrapper for matplotlib",
-      "l": "Apache-2.0",
-      "s": "src",
-      "m": "0.19.4"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:19Z",
+  "generatedAt": "2026-05-26T00:50:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

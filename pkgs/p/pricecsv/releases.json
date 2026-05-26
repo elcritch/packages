@@ -17,23 +17,35 @@
       "v": "0.7.1@feb8f91fd0f1f40f40d4be0bd9fe33b7afe8c4a2^",
       "r": [
         "cligen"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.7.0@0bf8ec9b430c2f66bf9f7f1528aec99db8b4e205",
       "r": [
         "cligen"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "#head@feb8f91fd0f1f40f40d4be0bd9fe33b7afe8c4a2",
       "r": [
         "cligen"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:43Z",
+  "generatedAt": "2026-05-26T00:53:48Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

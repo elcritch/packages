@@ -12,21 +12,19 @@
       "v": "0.1.0@aa71e47e0991f7af4e21b5173be199b3815dd4d3",
       "r": [
         "reni >= 0.1.0"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "#head@4ebe9aa5384aca635de3e304cb14dfabad5b2f8e",
       "r": [
         "reni >= 0.1.0"
       ],
-      "a": "fox0430",
-      "d": "A TextMate grammar parser",
-      "l": "MIT",
-      "m": "2.0.0"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:47Z",
+  "generatedAt": "2026-05-26T00:55:45Z",
   "allDeps": {
     "packages": [
       "reni",

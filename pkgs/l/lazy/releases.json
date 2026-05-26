@@ -13,15 +13,11 @@
     },
     {
       "v": "#head@dbd392ecd5ddd3f43233bbafbd7071cec7a00699",
-      "n": "lazy",
-      "r": [],
-      "a": "Peter Mora",
-      "d": "Iterator library for Nim",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:39Z",
+  "generatedAt": "2026-05-26T00:49:42Z",
   "allDeps": {
     "packages": [],
     "urls": [],

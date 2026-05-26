@@ -11,36 +11,43 @@
   "releases": [
     {
       "v": "0.1.0@d191023904832a30fd221a000b9fe0cbf311aa91",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@dcb83fad3c6b20bce19d9006c7b80e5a35e7ffc6",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.0@f799f3533295e9e7017e1a035a2a0068ee9a78b2",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.1@cb9347cfa0b44b75843a63c0566a5370c7bfdeb3",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.4.0@8732e6690286c78e4f09dd9aa1e1d01638154f8f",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@1b6d749473bfb6bd7b749abf823503df633ba04c",
       "r": [],
-      "a": "T.agd",
-      "d": "Array/Sequence/Object destructuring/unpacking macro",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.19.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:23Z",
+  "generatedAt": "2026-05-26T00:56:19Z",
   "allDeps": {
     "packages": [],
     "urls": [],

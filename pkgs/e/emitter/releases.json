@@ -11,13 +11,17 @@
   "releases": [
     {
       "v": "0.1.0@bc238bbd8c0a1b8472521cff77a9f21087b28e44",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@0708559ea6cefe82910636d112a228b78e73f798",
       "r": [
         "malebolgia #head"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.2@442bfd533b45595a193beda6a33f66ac483f91af",
@@ -26,7 +30,9 @@
         "flatty"
       ],
       "a": "Supranim",
-      "d": "Supranim's Event Emitter - Subscribe & listen for events"
+      "d": "Supranim's Event Emitter - Subscribe & listen for events",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@2add671c0e27a1ad223826fd766208b483528f3a",
@@ -36,13 +42,12 @@
       ],
       "a": "Supranim",
       "d": "Supranim's Event Emitter - Subscribe & listen for events",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:23Z",
+  "generatedAt": "2026-05-26T00:47:15Z",
   "allDeps": {
     "packages": [
       "flatty > 0.1.1",

@@ -14,7 +14,9 @@
       "r": [
         "macroutils >= 1.2.0",
         "macroplus >= 0.2.5"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.4.0@019c9ca4a1a9e988a8f89506f1bf1cde0ce377d2",
@@ -23,7 +25,8 @@
         "macroplus",
         "gh:hamidb80/coverage"
       ],
-      "m": "1.4.8"
+      "m": "1.4.8",
+      "s": ""
     },
     {
       "v": "0.2@1f9276920b8f7fc92f6ca86cc99e56b74b899806",
@@ -32,7 +35,8 @@
         "macroplus",
         "gh:hamidb80/coverage"
       ],
-      "m": "1.4.8"
+      "m": "1.4.8",
+      "s": ""
     },
     {
       "v": "#head@abf4365452e21cc3239ebed617a949aeca05d39c",
@@ -40,15 +44,12 @@
         "macroutils >= 1.2.0",
         "macroplus >= 0.2.5"
       ],
-      "a": "hamidb80",
-      "d": "a couchDB client written in Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:48Z",
+  "generatedAt": "2026-05-26T00:50:50Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

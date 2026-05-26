@@ -16,23 +16,29 @@
       "v": "0.1.1@2dcd55a851ba3ac8f38e7fec8edc28b7acddc9f9^",
       "r": [
         "karax >= 1.5.0"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.1.0@e5b68c256185c24ba0bd8e713778943166cf450e",
       "r": [
         "karax >= 1.5.0"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "#head@2dcd55a851ba3ac8f38e7fec8edc28b7acddc9f9",
       "r": [
         "karax >= 1.5.0"
-      ]
+      ],
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:35Z",
+  "generatedAt": "2026-05-26T00:49:39Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

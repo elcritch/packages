@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@848caaf7c34dc282c5aaf50851d973ee12d3a3a6",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@b2198189070cd1512b6c67044f856530ab4bd983",
       "r": [],
-      "a": "George Lemon",
-      "d": "Libvips - image processing library with low memory needs",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:54Z",
+  "generatedAt": "2026-05-26T00:49:57Z",
   "allDeps": {
     "packages": [],
     "urls": [],

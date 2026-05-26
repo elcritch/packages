@@ -15,26 +15,26 @@
   "releases": [
     {
       "v": "0.1.0@fe3f2252b7c4535182bfb1e89dc8357b4e3fc244",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "#head@ffad2e320300215f199e60c785cc24fe63e15091",
       "r": [],
-      "a": "Juan Carlos",
-      "d": "Parse Standard SPDX Licenses from string to Enum",
-      "l": "MIT",
-      "s": "src",
       "x": [
         "tools",
         "docs",
         "javascript",
         "examples"
       ],
-      "m": "1.2.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:19Z",
+  "generatedAt": "2026-05-26T00:53:22Z",
   "allDeps": {
     "packages": [],
     "urls": [],

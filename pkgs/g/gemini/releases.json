@@ -11,17 +11,22 @@
   "releases": [
     {
       "v": "0.1.0@c507d410b22fa753698f3ccea75968d7d1c99386",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@6f88219a29a211102229f78b437e41fd515d24d0",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.2@2049c41fab04d39ea7a48f92555a5943aae64ddb",
       "r": [],
       "d": "Building blocks for making async Gemini servers and clients",
-      "m": "1.4.2"
+      "m": "1.4.2",
+      "s": ""
     },
     {
       "v": "0.2.0@68d7f5c75a3e5d974336a6258fd75f4b74d208d6",
@@ -29,22 +34,21 @@
         "nimcrypto >= 0.5.4"
       ],
       "d": "Building blocks for making async Gemini servers and clients",
-      "m": "1.4.2"
+      "m": "1.4.2",
+      "s": ""
     },
     {
       "v": "#head@165db7ab5846265b12e9cfa7b7b07e45941fd647",
       "r": [
         "nimcrypto >= 0.5.4"
       ],
-      "a": "Benoit Favre",
       "d": "Building blocks for making async Gemini servers and clients",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.2"
+      "m": "1.4.2",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:06Z",
+  "generatedAt": "2026-05-26T00:48:05Z",
   "allDeps": {
     "packages": [
       "nimcrypto > 0.1.2"

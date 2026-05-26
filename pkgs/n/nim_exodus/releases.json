@@ -19,29 +19,28 @@
       "v": "0.0.1@2b82de6c45c554089834978c5c30f1539f99edab",
       "r": [
         "jester"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "x": [],
+      "p": []
     },
     {
       "v": "#head@2136500667dfc309e9b48b708534151e59928c3e",
       "r": [
         "jester"
       ],
-      "a": "Shinsuke Sugita (@shinriyo)",
-      "d": "Template generator for gester",
-      "l": "MIT",
-      "s": "src",
       "b": "bin",
-      "x": [
-        "sample"
-      ],
       "p": [
         "exodus"
       ],
-      "m": "0.15.2"
+      "m": "~",
+      "s": "",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:21Z",
+  "generatedAt": "2026-05-26T00:51:23Z",
   "allDeps": {
     "packages": [
       "asynctools",

@@ -11,57 +11,69 @@
   "releases": [
     {
       "v": "0.7.0@3e4b50cf03f696cb8f44c3c9b3775bc4cbc7961a^",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.6.1@b7553d1e28bba22e7769628f7c59a31b81ff5d3a",
       "r": [],
-      "m": "2.0.6"
+      "m": "2.0.6",
+      "s": ""
     },
     {
       "v": "0.6.0@84647d922a3a688652c844dedea5b0782fa47892",
       "r": [],
-      "m": "2.0.6"
+      "m": "2.0.6",
+      "s": ""
     },
     {
       "v": "0.5.1@acb5f103f2336ce1a56cbff762c06d9705800fb8",
       "r": [],
-      "m": "2.0.6"
+      "m": "2.0.6",
+      "s": ""
     },
     {
       "v": "0.5.0@183284a32564182b801d2061154920594b061702",
       "r": [],
-      "m": "2.0.6"
+      "m": "2.0.6",
+      "s": ""
     },
     {
       "v": "0.4.0@85a983d03a19a09f454be783158fe9e0cfbfb5ec",
       "r": [],
-      "m": "2.0.6"
+      "m": "2.0.6",
+      "s": ""
     },
     {
       "v": "0.3.0@160c3360b0bc640ccf8eb28dc27ec1ab6e5facd4",
       "r": [],
-      "m": "1.6.8"
+      "m": "1.6.8",
+      "s": ""
     },
     {
       "v": "0.2.0@db97a10eced618dcf093a25618193db8e404c729",
       "r": [],
       "d": "A small library that exposes memory mapped IO registers definitons.",
-      "m": "1.6.8"
+      "m": "1.6.8",
+      "s": ""
     },
     {
       "v": "0.1.0@0d2a53b594de34149f57d33ba64fd19f7f55b0d7",
       "r": [],
       "d": "A small library that exposes memory mapped IO registers definitons.",
-      "m": "1.4.0"
+      "m": "1.4.0",
+      "s": ""
     },
     {
       "v": "#head@3e4b50cf03f696cb8f44c3c9b3775bc4cbc7961a",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:18Z",
+  "generatedAt": "2026-05-26T00:45:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

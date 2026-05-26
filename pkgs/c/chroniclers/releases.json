@@ -16,7 +16,9 @@
         "chronicles": [
           "chronicles"
         ]
-      }
+      },
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@d519710b23d0b00299f57d1d62e3eed1d4f57453",
@@ -25,7 +27,9 @@
         "chronicles": [
           "chronicles"
         ]
-      }
+      },
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.1@3608631f8bc48a9d703bcfcef7d1094575485715",
@@ -34,7 +38,9 @@
         "chronicles": [
           "chronicles"
         ]
-      }
+      },
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.0@5710910a85bbdc90a3dab1088d27d90a6a901aa2^",
@@ -43,7 +49,9 @@
         "chronicles": [
           "chronicles"
         ]
-      }
+      },
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@5710910a85bbdc90a3dab1088d27d90a6a901aa2",
@@ -52,11 +60,13 @@
         "chronicles": [
           "chronicles"
         ]
-      }
+      },
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:15Z",
+  "generatedAt": "2026-05-26T00:46:09Z",
   "allDeps": {
     "packages": [
       "chronicles",

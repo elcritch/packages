@@ -14,23 +14,19 @@
   "releases": [
     {
       "v": "0.2.2@d436d13bb1ac03917bd3ebe4c8728aec12361032",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "#head@6a0bba45d0fc75a295f178924a88e2866018ddab",
       "r": [],
-      "a": "Rui  Vieira",
-      "d": "science!",
-      "l": "Apache 2.0",
-      "x": [
-        "examples",
-        "tests"
-      ],
-      "m": "0.18.0"
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:26Z",
+  "generatedAt": "2026-05-26T00:54:28Z",
   "allDeps": {
     "packages": [],
     "urls": [],

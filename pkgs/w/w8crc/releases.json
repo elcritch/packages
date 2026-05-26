@@ -11,20 +11,20 @@
   "releases": [
     {
       "v": "1.0.1@a4e52da48b4ebcbf159f5a4423989a76dd5873f5",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@fdfd2b33fa6d29456e089b6ec45fb3f3b2b81a9c",
       "r": [],
       "a": "Maxim Cege (Цеге Максим)",
-      "d": "Full-featured CRC library for Nim.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:39Z",
+  "generatedAt": "2026-05-26T00:56:35Z",
   "allDeps": {
     "packages": [],
     "urls": [],

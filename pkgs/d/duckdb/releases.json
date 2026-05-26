@@ -14,7 +14,9 @@
       "r": [
         "db_connector",
         "bigints"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@0e6d78a1792b7c5e9f90e36bc1d47c665b4824a3",
@@ -22,15 +24,12 @@
         "db_connector",
         "bigints"
       ],
-      "a": "George Lemon",
-      "d": "Bindings for DuckDB analytical database",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.2.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:14Z",
+  "generatedAt": "2026-05-26T00:47:07Z",
   "allDeps": {
     "packages": [
       "bigints",

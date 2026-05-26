@@ -14,23 +14,21 @@
   "releases": [
     {
       "v": "0.0.1@cc0a17a8bd4075042dfd0776db18eb1b4c0c92ed",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@82b53baf643daf606c2e6d64ce95c0aa2f5ea536",
       "r": [],
-      "a": "Juan Carlos",
-      "d": "Arch Linux Pacman Optimizer",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "chonker"
-      ],
-      "m": "1.0.2"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:14Z",
+  "generatedAt": "2026-05-26T00:46:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -17,15 +17,11 @@
     },
     {
       "v": "#head@eed71dc4ee879f769e1fa008c899a07ffd0ec346",
-      "n": "Kinto",
-      "r": [],
-      "a": "Huy Doan",
-      "d": "Kinto Client for Nim",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:33Z",
+  "generatedAt": "2026-05-26T00:44:24Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

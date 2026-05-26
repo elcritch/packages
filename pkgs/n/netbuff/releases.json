@@ -11,24 +11,25 @@
   "releases": [
     {
       "v": "0.1.1@149d4510816a805ad508cafff698bf44d577a0ea",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@4d0deecd288dd8d41b6a83a7c80a2c620577478f",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@fd344f9cadc594957f74d75568651b31e9d1c066",
       "r": [],
-      "a": "Jakub Dóka",
-      "d": "Fast and unsafe byte buffering for intensive network data transfer.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.4"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:02Z",
+  "generatedAt": "2026-05-26T00:51:04Z",
   "allDeps": {
     "packages": [],
     "urls": [],

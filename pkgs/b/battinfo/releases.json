@@ -18,25 +18,44 @@
   "releases": [
     {
       "v": "0.2.1@2ce7b89d350d73fc49bd200dc4347b2b5e3f5ac2^",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.2.0@284a8ac9855278b501585e9ba68cc9490f011a46",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.1.0@385dfe0fd65c81e6eae9b8dd6df31334be9f1699",
       "r": [],
       "d": "cli tool to query battery info for GNU/Linux",
-      "k": []
+      "k": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "#head@2ce7b89d350d73fc49bd200dc4347b2b5e3f5ac2",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:30Z",
+  "generatedAt": "2026-05-26T00:45:22Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -12,21 +12,17 @@
   "releases": [
     {
       "v": "0.4@58fca5bc66ec8ecf7a228fb3c9c73a9580596984",
-      "r": []
+      "r": [],
+      "z": []
     },
     {
       "v": "#head@accd10c04248b8fab72f0977184721cd2ef3e6b3",
       "r": [],
-      "a": "tankfeeder",
-      "d": "blake2 - cryptographic hash function",
-      "l": "CC0",
-      "z": [
-        "txt"
-      ]
+      "z": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:45Z",
+  "generatedAt": "2026-05-26T00:45:37Z",
   "allDeps": {
     "packages": [],
     "urls": [],

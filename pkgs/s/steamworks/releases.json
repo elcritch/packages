@@ -10,24 +10,23 @@
   "releases": [
     {
       "v": "0.2.1@69be5298f51cfd52c4d163bef27a3621fade9290",
-      "r": []
+      "r": [],
+      "s": ""
     },
     {
       "v": "0.1.1@73941759b72a71f0be8db428cd3f6caaf7c34553",
       "r": [],
-      "a": "treeform"
+      "a": "treeform",
+      "s": ""
     },
     {
       "v": "#head@6f09afbf7c73d226b7efb76e1dafeb4a50792535",
       "r": [],
-      "a": "Andre von Houck",
-      "d": "Steamworks wrapper for nim.",
-      "l": "MIT",
-      "s": "src"
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:18Z",
+  "generatedAt": "2026-05-26T00:55:19Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

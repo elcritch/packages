@@ -10,19 +10,18 @@
   "releases": [
     {
       "v": "0.1.0@8f6e46d0a3c8582bd9d6cc49d75b771b01b6ff03",
-      "r": []
+      "r": [],
+      "s": ""
     },
     {
       "v": "#head@39713096943091baf7fea154aec8c2a7bcc40bb7",
       "r": [],
-      "a": "Stefanos Mandalas",
       "d": "Implementation of various LZ77 algorithms",
-      "l": "MIT",
-      "s": "src"
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:13Z",
+  "generatedAt": "2026-05-26T00:50:17Z",
   "allDeps": {
     "packages": [],
     "urls": [],

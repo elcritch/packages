@@ -11,25 +11,25 @@
   "releases": [
     {
       "v": "0.1.0@fa2d6aafd26af24c17d291c6c0c108bdc825cd0e",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@1eb6364ed0aeb6aeafa0469502737049a27bfa71",
       "r": [],
-      "m": "0.18.0"
+      "m": "0.18.0",
+      "s": ""
     },
     {
       "v": "#head@dba4aea9ce33b049522f12023108dc4779a4fef2",
       "r": [],
-      "a": "Ruslan Prokopchuk",
-      "d": "Bindings for libsoundio, a library providing cross-platform audio input and output.",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.18.0"
+      "m": "0.18.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:02Z",
+  "generatedAt": "2026-05-26T00:55:04Z",
   "allDeps": {
     "packages": [],
     "urls": [],

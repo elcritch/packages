@@ -15,24 +15,21 @@
       "v": "0.1.0@3543e71d4504bd0947e6ca836ab774e328a8bf70",
       "r": [
         "python >= 0.0.0"
-      ]
+      ],
+      "m": "~",
+      "p": []
     },
     {
       "v": "#head@e623d2d03e42467eb50dd1882e3864108fbff0ed",
       "r": [
         "python >= 0.0.0"
       ],
-      "a": "calebwin",
-      "d": "A tiny framework & language for crafting massively parallel data pipelines",
-      "l": "MIT",
-      "p": [
-        "pipelines/pipelines"
-      ],
-      "m": "0.17.2"
+      "m": "~",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:27Z",
+  "generatedAt": "2026-05-26T00:53:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

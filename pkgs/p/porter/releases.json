@@ -13,14 +13,11 @@
     },
     {
       "v": "#head@891db099c1be02f3cd2e5cfd58f2cb6cfe76e2c9",
-      "r": [],
-      "a": "dmitri.iourinski",
-      "d": "nim implementation of Porter's stemmer, with a possibility to add new languagess",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:38Z",
+  "generatedAt": "2026-05-26T00:53:43Z",
   "allDeps": {
     "packages": [],
     "urls": [],

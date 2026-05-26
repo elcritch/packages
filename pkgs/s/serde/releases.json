@@ -17,7 +17,8 @@
         "stint",
         "stew",
         "asynctest >= 0.5.1 & < 0.6.0"
-      ]
+      ],
+      "x": []
     },
     {
       "v": "1.2.2@f268cc8fa333172ad9f06997b783d4e281e1b386",
@@ -90,16 +91,11 @@
         "stew",
         "asynctest >= 0.5.1 & < 0.6.0"
       ],
-      "a": "nim-serde authors",
-      "d": "Easy-to-use serialization capabilities (currently json only).",
-      "l": "MIT",
-      "x": [
-        "tests"
-      ]
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:36Z",
+  "generatedAt": "2026-05-26T00:54:38Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

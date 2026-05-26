@@ -11,24 +11,25 @@
   "releases": [
     {
       "v": "0.2.0@c069813ef26722da0983600363cd27104021a571",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@20c9564493d9f9b93c1f636c150de71cc8a16422",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@a272e8ffa15c9070a38966a23e8acf1f3260ba0d",
       "r": [],
-      "a": "Dominik Picheta",
-      "d": "Implementation of the WebDriver w3c spec.",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.17.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:47Z",
+  "generatedAt": "2026-05-26T00:56:43Z",
   "allDeps": {
     "packages": [],
     "urls": [],

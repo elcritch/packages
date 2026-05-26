@@ -14,14 +14,18 @@
       "r": [
         "dnsprotocol",
         "stew"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.3@255826e0d8698e4e3256f038225f5e9f0a64f7e5",
       "r": [
         "dnsprotocol",
         "stew"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.2@d18d1c96280a015ed46a1fe7b18ae3e1a10b7ce3",
@@ -29,7 +33,8 @@
         "dnsprotocol",
         "stew"
       ],
-      "m": "1.4.0"
+      "m": "1.4.0",
+      "s": ""
     },
     {
       "v": "0.1.1@5645b02a746e51a814f6a94515d830de77d03228",
@@ -37,7 +42,8 @@
         "dnsprotocol",
         "stew"
       ],
-      "m": "1.4.0"
+      "m": "1.4.0",
+      "s": ""
     },
     {
       "v": "0.1.0@49f8a0dafca4ffd129a5d59c2e0caf718b0099ac",
@@ -45,7 +51,8 @@
         "dnsprotocol",
         "stew"
       ],
-      "m": "1.4.0"
+      "m": "1.4.0",
+      "s": ""
     },
     {
       "v": "#head@5dd982eb76bbe2330459f07c9532cabba26499d7",
@@ -53,15 +60,12 @@
         "dnsprotocol >= 0.2.2",
         "stew"
       ],
-      "a": "rockcavera",
-      "d": "A pure Nim Domain Name System (DNS) client",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.0"
+      "m": "1.4.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:57Z",
+  "generatedAt": "2026-05-26T00:50:59Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

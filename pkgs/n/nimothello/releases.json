@@ -17,26 +17,25 @@
       "v": "1.0.0@6e0e397ccc16c8a617d7b27d6996a2c38eb0d6b4",
       "r": [
         "illwill >= 0.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "#head@7a20dd323bd44cd349251da0c8bfbd83638d488c",
       "r": [
         "illwill >= 0.2.0"
       ],
-      "a": "jiro4989",
-      "d": "A teminal othello (reversi) in Nim.",
-      "l": "MIT",
-      "s": "src",
-      "b": "bin",
-      "p": [
-        "nimothello"
-      ],
-      "m": "1.4.4"
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:02Z",
+  "generatedAt": "2026-05-26T00:52:05Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

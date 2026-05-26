@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "3.5.2@692d433f83f4e7b475e1a795c2e2d079e277cec4",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@7a70dd877c6d98d530b671be8753a69187f0d8b0",
       "r": [],
-      "a": "Huy Doan",
-      "d": "Nim wrapper for distorm3 - Powerful Disassembler Library For x86/AMD64",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.2.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:06Z",
+  "generatedAt": "2026-05-26T00:46:59Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

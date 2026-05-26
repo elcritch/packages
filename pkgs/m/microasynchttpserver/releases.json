@@ -13,7 +13,9 @@
       "v": "0.11.0@2f2065143261e6cf07a8f45f4e8ef38575657745^",
       "r": [
         "picohttpparser >= 0.11.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.10.2@90118afb1dab0ffe81eb496536895ce2b121b031",
@@ -54,11 +56,13 @@
       "v": "#head@2f2065143261e6cf07a8f45f4e8ef38575657745",
       "r": [
         "picohttpparser >= 0.11.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:28Z",
+  "generatedAt": "2026-05-26T00:50:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

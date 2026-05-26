@@ -19,17 +19,25 @@
       "v": "1.0.0@cc8ef60ec48ee206f1f9e063ed099e487058a165^",
       "r": [
         "dogapi >= 1.0.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": [],
+      "o": {}
     },
     {
       "v": "#head@cc8ef60ec48ee206f1f9e063ed099e487058a165",
       "r": [
         "dogapi >= 1.0.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": [],
+      "o": {}
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:10Z",
+  "generatedAt": "2026-05-26T00:47:03Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -11,20 +11,20 @@
   "releases": [
     {
       "v": "0.1.0@f4ea541e020888bf6b8f7112901378cee69783c3",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@1359473de2d778334c8d6583e80be11051cc63b9",
       "r": [],
-      "a": "George Lemon",
       "d": "Blend2D binding for Nim language",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:46Z",
+  "generatedAt": "2026-05-26T00:45:39Z",
   "allDeps": {
     "packages": [],
     "urls": [],

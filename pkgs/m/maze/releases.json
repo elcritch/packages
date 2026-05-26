@@ -18,27 +18,25 @@
   "releases": [
     {
       "v": "1.0.0@c87c1707ad01377efd9d98ee0522e4a362f171bd",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@6d8f56837f4ece89703ccfc4dae1b22413a303be",
       "r": [],
-      "a": "jiro4989",
-      "d": "A command and library to generate mazes",
-      "l": "MIT",
-      "s": "src",
-      "b": "bin",
-      "k": [
-        "nim"
-      ],
-      "p": [
-        "maze"
-      ],
-      "m": "1.0.2"
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:20Z",
+  "generatedAt": "2026-05-26T00:50:23Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -13,63 +13,81 @@
       "v": "2@23c4799a223bf8eb411c22448944c567d11c0761",
       "r": [
         "jsony"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "3@1aa9d030a14a059fb8bfc315a5338b2fcb451c6e",
       "r": [
         "jsony"
       ],
-      "d": "A BTC RPC Wrapper for Nim"
+      "d": "A BTC RPC Wrapper for Nim",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "4@8e79e00c33d7a38abaf2105499332c03586538e1",
       "r": [
         "jsony"
       ],
-      "d": "A BTC RPC Wrapper for Nim"
+      "d": "A BTC RPC Wrapper for Nim",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "5@27dc3f9cddf20f889176ed9e166233d18441f6aa",
       "r": [
         "jsony"
       ],
-      "d": "A BTC RPC Wrapper for Nim"
+      "d": "A BTC RPC Wrapper for Nim",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "6@0f9fb2710e5713e178dbadd4d5f7f33cf5665ba8",
       "r": [
         "jsony"
       ],
-      "d": "A BTC RPC Wrapper for Nim"
+      "d": "A BTC RPC Wrapper for Nim",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "7@cdd1e2dfbfec48efa9e15eecd28fb1ea53643ba0",
       "r": [
         "jsony"
       ],
-      "d": "A BTC RPC Wrapper for Nim"
+      "d": "A BTC RPC Wrapper for Nim",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "8@078466828e0679cef479f610901a370f2fc2e96e",
       "r": [
         "jsony"
       ],
-      "d": "A BTC RPC Wrapper for Nim"
+      "d": "A BTC RPC Wrapper for Nim",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "9@12fbdbed49fe15e206d771487ad0fcb1945977e8",
       "r": [
         "jsony"
       ],
-      "d": "A BTC RPC Wrapper for Nim"
+      "d": "A BTC RPC Wrapper for Nim",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "10@6a76e43fdda4e918558bf4ecdbf5c7c078c53713",
       "r": [
         "jsony"
       ],
-      "d": "A BTC RPC Wrapper for Nim"
+      "d": "A BTC RPC Wrapper for Nim",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "11@e4138ffc2d35b95a2b10a7a1dd42284e0a0751cd",
@@ -77,7 +95,9 @@
         "jsony",
         "puppy"
       ],
-      "d": "A BTC RPC Wrapper for Nim"
+      "d": "A BTC RPC Wrapper for Nim",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "12@a32548a17177f2276a21c56ae832e2bcf9af894c",
@@ -85,7 +105,9 @@
         "jsony",
         "puppy"
       ],
-      "d": "A BTC RPC Wrapper for Nim"
+      "d": "A BTC RPC Wrapper for Nim",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "13@5dad98824030b7ceafd893f1fd685de7edc14dba",
@@ -93,7 +115,9 @@
         "jsony",
         "puppy"
       ],
-      "d": "A BTC RPC Wrapper for Nim"
+      "d": "A BTC RPC Wrapper for Nim",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "14@e220c6195f3416a50763e923f88c156cfc66711e",
@@ -101,7 +125,9 @@
         "jsony",
         "puppy"
       ],
-      "d": "A BTC RPC Wrapper for Nim"
+      "d": "A BTC RPC Wrapper for Nim",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "15@94e4eda49cae44d4c459acef67413932bce62124^",
@@ -109,7 +135,9 @@
         "jsony",
         "puppy"
       ],
-      "d": "A BTC RPC Wrapper for Nim"
+      "d": "A BTC RPC Wrapper for Nim",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@94e4eda49cae44d4c459acef67413932bce62124",
@@ -117,11 +145,13 @@
         "jsony",
         "puppy"
       ],
-      "d": "A BTC RPC Wrapper for Nim"
+      "d": "A BTC RPC Wrapper for Nim",
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:35Z",
+  "generatedAt": "2026-05-26T00:44:26Z",
   "allDeps": {
     "packages": [
       "jsony",

@@ -11,7 +11,9 @@
   "releases": [
     {
       "v": "0.0.1@5a9996ffe91433f6529fab02ca083bfaa87630d3",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@a50303ea276ad77b1ee151b4d1475892133e4927",
@@ -20,21 +22,19 @@
         "npeg",
         "cligen"
       ],
-      "a": "ASVIEST",
       "d": "webidl to Nim bindings generator",
-      "l": "MIT",
-      "s": "src",
       "k": [
         "nim"
       ],
       "p": [
         "webidl2nim"
       ],
-      "m": "1.9.1"
+      "m": "1.9.1",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:48Z",
+  "generatedAt": "2026-05-26T00:56:44Z",
   "allDeps": {
     "packages": [
       "cligen",

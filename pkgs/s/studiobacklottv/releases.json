@@ -19,7 +19,11 @@
         "cligen",
         "util",
         "brightcove"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.2.0@d985d244d4013b5cf640361d7bb8f10cff1b3443^",
@@ -28,7 +32,11 @@
         "util",
         "brightcove"
       ],
-      "d": "Studio Backlot TV video downloader"
+      "d": "Studio Backlot TV video downloader",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "#head@d985d244d4013b5cf640361d7bb8f10cff1b3443",
@@ -37,11 +45,15 @@
         "util",
         "brightcove"
       ],
-      "d": "Studio Backlot TV video downloader"
+      "d": "Studio Backlot TV video downloader",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:23Z",
+  "generatedAt": "2026-05-26T00:55:23Z",
   "allDeps": {
     "packages": [
       "brightcove",

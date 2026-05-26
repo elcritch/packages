@@ -14,23 +14,21 @@
   "releases": [
     {
       "v": "0.1.0@b6e172fd177c5eab6a32aa3cb8cff240d153f27d",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@0ee4bf2041e3c8e95f1b070e1abf90f15965bea5",
       "r": [],
-      "a": "bichanna",
-      "d": "Converts Roman numerals to what you understand without a blinkblink",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "romanim"
-      ],
-      "m": "1.5.4"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:17Z",
+  "generatedAt": "2026-05-26T00:54:20Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -11,20 +11,17 @@
   "releases": [
     {
       "v": "0.1.0@9fce6ed78567afea0b9274ad1420b022f8346be7",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@870e994c0d2b140eee64990a0ffc437985ef811a",
-      "r": [],
-      "a": "Navid M",
-      "d": "Fluent SQL generation",
-      "l": "GPL-3.0-or-later",
-      "s": "src",
-      "m": "2.2.2"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:35Z",
+  "generatedAt": "2026-05-26T00:56:31Z",
   "allDeps": {
     "packages": [],
     "urls": [],

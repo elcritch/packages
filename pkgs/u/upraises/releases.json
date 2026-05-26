@@ -13,14 +13,11 @@
     },
     {
       "v": "#head@bc2628989b63854d980e92dadbd58f83e34b6f25",
-      "r": [],
-      "a": "upraises authors",
-      "d": "exception tracking for older versions of nim",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:24Z",
+  "generatedAt": "2026-05-26T00:56:20Z",
   "allDeps": {
     "packages": [],
     "urls": [],

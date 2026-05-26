@@ -20,43 +20,44 @@
       "r": [
         "cppstl >= 0.6.2",
         "drawIt >= 0.5.4"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.3.0@3899edfe7e4aaf5df4a88eb8cae97c50518ff14f",
       "r": [
         "cppstl >= 0.6.2",
         "drawIt >= 0.5.4"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.2.0@d5c6eeb4ec908e43cbb4a8baa14a2dfbc704bda8",
       "r": [
         "cppstl >= 0.6.2",
         "drawIt >= 0.5.4"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@d061041c816f5af611cfc0a89666fc3e580c5487",
       "r": [
         "cppstl >= 0.6.2",
         "drawIt >= 0.5.4"
-      ],
-      "a": "Oliver Thomas, John Scott",
-      "d": "RISC-V emulator and digital logic simulator",
-      "l": "GPL-2.0-or-later",
-      "s": "src",
-      "k": [
-        "nim"
-      ],
-      "p": [
-        "niscv"
-      ],
-      "m": "1.6.10"
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:27Z",
+  "generatedAt": "2026-05-26T00:52:32Z",
   "allDeps": {
     "packages": [
       "cppstl",

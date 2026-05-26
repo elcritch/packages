@@ -18,13 +18,17 @@
       "v": "0.5.0@718cf015536603c0505817ea45b7acfb4038cc0f",
       "r": [
         "collections >= 0.5.0"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.4.6@54fcbec0059bbae4939dcb8e540cede6bc61d08a",
       "r": [
         "collections >= 0.4.0"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.4.5@5a1148f325c7296d7e4642d063446b2f40c58740",
@@ -91,20 +95,12 @@
       "r": [
         "collections >= 0.5.0"
       ],
-      "a": "Michał Zieliński <michal@zielinscy.org.pl>",
-      "d": "Asynchronous networking engine for Nim",
-      "l": "MIT",
-      "x": [
-        "bench",
-        "examples",
-        "tests",
-        "doc"
-      ],
-      "m": "0.17.0"
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:05Z",
+  "generatedAt": "2026-05-26T00:54:09Z",
   "allDeps": {
     "packages": [
       "collections > 0.4.5"

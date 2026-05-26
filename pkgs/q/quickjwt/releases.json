@@ -11,26 +11,26 @@
   "releases": [
     {
       "v": "0.2.1@d3989dce8b025bd7c813190b7079f6531b9f0f27",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.0.1@3b923666c339d252721763f470498495f4af0cef",
       "r": [],
       "a": "Endre Karlson",
-      "m": "0.19.0"
+      "m": "0.19.0",
+      "s": ""
     },
     {
       "v": "#head@4021980db44e3ec64eb0e47039cea3dacb6d80df",
       "r": [],
-      "a": "Andre von Houck",
-      "d": "JSON Web Tokens for Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.1.1"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:58Z",
+  "generatedAt": "2026-05-26T00:54:03Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

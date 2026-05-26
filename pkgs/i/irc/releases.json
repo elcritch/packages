@@ -11,32 +11,37 @@
   "releases": [
     {
       "v": "0.4.0@0b01ab158fb2a863f98f4bda89792b869955ce48",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.0@d36263861abc753e691a65edf6266004312f7b5c",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.1@a085f1fcd5fa86248ccbfa7cad6d975db9e13903",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@4ba43e6003106ccf237e1e2cecc137a5f4a989b9",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@7522eafe3d14479435ab5b47f6c7bc070ae04114",
       "r": [],
-      "a": "Dominik Picheta",
-      "d": "IRC client module",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.9.5"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:13Z",
+  "generatedAt": "2026-05-26T00:49:16Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

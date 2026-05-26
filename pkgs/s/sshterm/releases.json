@@ -13,17 +13,21 @@
       "v": "0.1.0@dc49902f361cfa45904b547f3710b6054c53969b^",
       "r": [
         "ssh2"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@dc49902f361cfa45904b547f3710b6054c53969b",
       "r": [
         "ssh2"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:12Z",
+  "generatedAt": "2026-05-26T00:55:13Z",
   "allDeps": {
     "packages": [
       "libssh2",

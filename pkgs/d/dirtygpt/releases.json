@@ -15,7 +15,9 @@
         "gm_api",
         "jswebsockets",
         "ws"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.3@756bee59946d4cb791d0d2f670f8b7dd7caf0e34",
@@ -23,7 +25,9 @@
         "gm_api",
         "jswebsockets",
         "ws"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.2@813854c2d18cb99906eefa55673833397766a95f",
@@ -31,7 +35,9 @@
         "gm_api",
         "jswebsockets",
         "ws"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@e1051a3455e973abc12061d827c135ffdf37436f",
@@ -39,11 +45,13 @@
         "gm_api",
         "jswebsockets",
         "ws"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:05Z",
+  "generatedAt": "2026-05-26T00:46:58Z",
   "allDeps": {
     "packages": [
       "gm_api",

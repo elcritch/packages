@@ -14,7 +14,9 @@
       "r": [
         "results",
         "unittest2"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@6dd93feb60f4cded3c05e7af7209cf63fb677893",
@@ -22,15 +24,12 @@
         "results",
         "unittest2"
       ],
-      "a": "Jacek Sieka",
-      "d": "Status Research & Development GmbH",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:33Z",
+  "generatedAt": "2026-05-26T00:50:35Z",
   "allDeps": {
     "packages": [
       "results",

@@ -16,25 +16,21 @@
   "releases": [
     {
       "v": "0.1@fa24ad372a5dba0fe2e73157a153f1ab819174c6",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "k": []
     },
     {
       "v": "#head@b361de0a78d96cc11db3de8d98fc73524289b62b",
       "r": [],
-      "a": "kartatz",
-      "d": "A Nim library for parsing RFC 3986 URL query strings",
-      "l": "LGPL-3.0",
-      "s": "src",
-      "k": [
-        "nim",
-        "c",
-        "h"
-      ],
-      "m": "1.4.0"
+      "m": "~",
+      "s": "",
+      "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:55Z",
+  "generatedAt": "2026-05-26T00:48:57Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -10,20 +10,18 @@
   "releases": [
     {
       "v": "0.0.1@654f855f1d84013c6c4ea0fc889e9ae1e795e4d5",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "#head@d310294017c28d290fdff61724b07a210de6705c",
       "n": "Laser",
       "r": [],
-      "a": "Mamy André-Ratsimbazafy",
-      "d": "High Performance Computing and Image Toolbox: SIMD, JIT Assembler, OpenMP, runtime CPU feature detection, optimised machine learning primitives",
-      "l": "Apache License 2.0",
-      "m": "0.19.2"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:37Z",
+  "generatedAt": "2026-05-26T00:49:41Z",
   "allDeps": {
     "packages": [],
     "urls": [],

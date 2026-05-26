@@ -11,7 +11,9 @@
   "releases": [
     {
       "v": "3.0.0@2cf41feb55dcdb0c11c82bbe064cf8e71367d72a",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.0@a6fe4bd59e0dfd6b759058abaf344ade28194ffd",
@@ -19,20 +21,19 @@
         "nimgen >= 0.4.0"
       ],
       "h": true,
-      "d": "Nim wrapper for the cnats - NATS and NATS Streaming client library"
+      "d": "Nim wrapper for the cnats - NATS and NATS Streaming client library",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@ca00be79a05b486fb7e11bfb3ed7a048927eb2ff",
       "r": [],
-      "a": "Dmitry Dorofeev",
-      "d": "Nim wrapper for the nats.c - NATS client library",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.19.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:53Z",
+  "generatedAt": "2026-05-26T00:50:54Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

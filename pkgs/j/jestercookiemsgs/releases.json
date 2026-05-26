@@ -16,17 +16,23 @@
       "v": "1.0.1@27a6b7c5bc5dfe4520183bfa31a627070dd8d3af^",
       "r": [
         "jesterwithplugins >= 0.5.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "z": []
     },
     {
       "v": "#head@27a6b7c5bc5dfe4520183bfa31a627070dd8d3af",
       "r": [
         "jesterwithplugins >= 0.5.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "z": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:17Z",
+  "generatedAt": "2026-05-26T00:49:21Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

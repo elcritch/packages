@@ -12,17 +12,19 @@
       "v": "0.0.1@b0ea27c34ca7aaee42333541f37b182fa239c844^",
       "r": [
         "unicodedb >= 0.3.2"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "#head@b0ea27c34ca7aaee42333541f37b182fa239c844",
       "r": [
         "unicodedb >= 0.3.2"
-      ]
+      ],
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:45Z",
+  "generatedAt": "2026-05-26T00:53:50Z",
   "allDeps": {
     "packages": [
       "unicodedb"

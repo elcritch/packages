@@ -11,24 +11,25 @@
   "releases": [
     {
       "v": "0.3.0@6f859f2fa07d59a6fb76707d793c023cee08ea94",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@8bc849d8b5f3f6c537fd50d5d045ac08bb8a4943",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@570054bbd9f1144ee3e9bea450c78c6a0258b6a8",
       "r": [],
-      "a": "minamorl",
-      "d": "Reactive programming, in nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:13Z",
+  "generatedAt": "2026-05-26T00:54:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

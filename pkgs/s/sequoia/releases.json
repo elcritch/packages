@@ -15,28 +15,28 @@
   "releases": [
     {
       "v": "0.1.1@45d839c8f658680a959e762dd36845b2ed81c704",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.1.0@d21bbbefd14d413fa155dd805fd5a555337fb4d4",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "#head@92e5fb8307d7945624099f38a31bdbf9b109442c",
       "r": [],
-      "a": "Huy Doan",
-      "d": "Sequoia PGP wrapper for Nim",
-      "l": "GPLv3",
-      "s": "src",
-      "x": [
-        "examples",
-        "tests"
-      ],
-      "m": "0.18.0"
+      "m": "~",
+      "s": "",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:37Z",
+  "generatedAt": "2026-05-26T00:54:40Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

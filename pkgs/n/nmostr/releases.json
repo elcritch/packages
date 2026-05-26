@@ -22,7 +22,10 @@
         "stew",
         "gh:alaviss/union >= 0.2.0 & < 0.3.0",
         "weave >= 0.4.10 & < 0.5.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.1.0@66eef9322d3c798ced54ffb70cdff3b8cda2fb97",
@@ -34,7 +37,10 @@
         "stew",
         "gh:alaviss/union >= 0.1.5 & < 0.2.0",
         "weave >= 0.4.10 & < 0.5.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.15@4cd310dc1f5f0098249b3fdc93524fb92aabc24c",
@@ -45,7 +51,10 @@
         "crunchy >= 0.1.8",
         "weave >= 0.4.10",
         "gh:alaviss/union >= 0.1.5"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.14@89a66cca9f118079e67fa6bc3b85c75877d52480",
@@ -56,7 +65,10 @@
         "crunchy >= 0.1.8",
         "weave >= 0.4.10",
         "gh:alaviss/union >= 0.1.4"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.13@609d08eed5add182b6a08a697d90429102bc5d9a",
@@ -68,7 +80,9 @@
         "weave >= 0.4.10",
         "gh:alaviss/union >= 0.1.4"
       ],
-      "m": "1.9.1"
+      "m": "1.9.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.12.9@a7fb2aa8c30d80bef9db6a6997cb5521d3e9431b",
@@ -81,7 +95,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-a7fb2aa8-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-a7fb2aa8-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.12.8@f67d3b7e88c16a78b2776902c0536184c508c16a",
@@ -94,7 +110,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-f67d3b7e-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-f67d3b7e-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.12.7@367b0d370da1f1963dd9415d85b39257345843a0",
@@ -107,7 +125,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-367b0d37-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-367b0d37-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.12.6@e734fb29e3127b4c3bf2acc3288e3da2aad9794b",
@@ -120,7 +140,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-e734fb29-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-e734fb29-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.12.5@9e82c15c8dcb22367bc36040caeda7b0ae9964f1",
@@ -133,7 +155,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-9e82c15c-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-9e82c15c-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.12.4@361cc005b9d972ba05d72ac396c6b8fedbed59dc",
@@ -146,7 +170,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-361cc005-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-361cc005-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.12.3@c8d9d87020e8e08290c5a1c4f2d815e0b018e6cb",
@@ -159,7 +185,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-c8d9d870-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-c8d9d870-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.12.2@8da5c0485973a79fe39804bd19dfece1d18a700e",
@@ -172,7 +200,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-8da5c048-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-8da5c048-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.12.1@e1635c5539a9703c105f1a9d91bf33a21c7a1c0d",
@@ -185,7 +215,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-e1635c55-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-e1635c55-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.12@6820a4324fdee38be190c0a680fed5760bc03aad",
@@ -198,7 +230,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-6820a432-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-6820a432-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.11.5@268838c622de31ff4829ff7abd210f7d55cad340",
@@ -211,7 +245,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-268838c6-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-268838c6-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.11.4@05b667e10bfe135865bb97f0d17865454d6a20a7",
@@ -224,7 +260,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-05b667e1-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-05b667e1-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.11.3@94b7e83a3aff9df8381b7444dfa361f44e24d453",
@@ -237,7 +275,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-94b7e83a-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-94b7e83a-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.11.2@82fa00ff3f9cf87c2f700c4ae1cca02d6dede122",
@@ -250,7 +290,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-82fa00ff-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-82fa00ff-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.11.1@8ebfbf1ac2a4fb4e36a7e487a0ed2614e82b0bb4",
@@ -263,7 +305,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-8ebfbf1a-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-8ebfbf1a-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.11@20520d1d801139a7d5f9422dd607c36de9b64fe1",
@@ -276,7 +320,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-20520d1d-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-20520d1d-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.10.5@db95c342e81ffc6e8708fdccae4075339339ab80",
@@ -289,7 +335,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-db95c342-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-db95c342-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.10.4@480318d4913739a14e4bcc1df568c244df6fb980",
@@ -302,7 +350,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-480318d4-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-480318d4-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.10.3@f2ebe71903a6d89bdd5adb6e379acb273807c7b5",
@@ -315,7 +365,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-f2ebe719-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-f2ebe719-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.10.2@216447167e2c88d802f6ff9b726222f623b18342",
@@ -328,7 +380,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-21644716-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-21644716-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.10.1@2e1c6e1e1101fb87ecb05bed1bba986a7d9a88a9",
@@ -341,7 +395,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-2e1c6e1e-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-2e1c6e1e-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.10@e2ef29a24c1c5cb67d5a3eda7c920897d5e107fa",
@@ -354,7 +410,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-e2ef29a2-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-e2ef29a2-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.9@ee0ddac1bc2229b94abbc1ac982f4be9677bb4e4",
@@ -366,7 +424,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-ee0ddac1-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-ee0ddac1-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.8.5@42c74be62cd98d9f0c54877e47c9e0abc28eec0c",
@@ -378,7 +438,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-42c74be6-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-42c74be6-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.8.4@ea7d6afdfb7141ffc4068086ddf8e102069125dd",
@@ -390,7 +452,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-ea7d6afd-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-ea7d6afd-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.8.3@90ded1508a91eec6597c4b672227348d7f287ade",
@@ -402,7 +466,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-90ded150-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-90ded150-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.8.2@4d910a5598360197c88b48f56d04defb9fc556d4",
@@ -414,7 +480,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-4d910a55-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-4d910a55-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.8.1@721ffcb8776176c93b85045a1f86262ee1bf0a37",
@@ -426,7 +494,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-721ffcb8-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-721ffcb8-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.8@50a65414da083259786e08b292b32fef916b0457",
@@ -438,7 +508,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-50a65414-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-50a65414-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.7.5@1cd6473b5ec8194b956b098ef25e9c2b07f8027d",
@@ -450,7 +522,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-1cd6473b-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-1cd6473b-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.7.4@ba0d00b14cee522973415314eb35d5ae38984c98",
@@ -462,7 +536,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-ba0d00b1-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-ba0d00b1-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.7.3@412ce145034c78dd5bce2104e5010b3cdf4f55c8",
@@ -474,7 +550,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-412ce145-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-412ce145-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.7.2@930ee95aaabb87c3b05637dc236c02372c6c2bef",
@@ -486,7 +564,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-930ee95a-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-930ee95a-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.7.1@769ad4af7dacffdca074db72ca94154c0e6a42bd",
@@ -498,7 +578,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-769ad4af-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-769ad4af-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.7@91328a7fe720042bea764270fc932ff86ab57d2a",
@@ -510,7 +592,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-91328a7f-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-91328a7f-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.6@832f6dbe40d0b799dc6a166a917155f99a0b59f9",
@@ -522,7 +606,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-832f6dbe-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-832f6dbe-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.5@48f281361a78e1ca249fa5b98559fcf22c4921d0",
@@ -534,7 +620,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-48f28136-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-48f28136-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.4@a4c7bd9eac007515c9de2e071dad928316e42403",
@@ -546,7 +634,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-a4c7bd9e-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-a4c7bd9e-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.3@eaeff59dde0b958c294640bfb099895fe8792c47",
@@ -558,7 +648,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-eaeff59d-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-eaeff59d-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.0.2@a0d0493b38028d2806fdcb603d9715bd8eba73a9",
@@ -570,7 +662,9 @@
       ],
       "m": "1.9.1",
       "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-a0d0493b-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-a0d0493b-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1",
+      "s": "",
+      "x": []
     },
     {
       "v": "#head@1a6588ad3e976a3629239dea06358f634bb43ddb",
@@ -583,18 +677,13 @@
         "gh:alaviss/union >= 0.2.0 & < 0.3.0",
         "weave >= 0.4.10 & < 0.5.0"
       ],
-      "a": "Gruruya",
-      "d": "Library for working with the Nostr protocol.",
-      "l": "AGPL-3.0-only",
-      "s": "src",
-      "x": [
-        "tests"
-      ],
-      "m": "2.0.0"
+      "m": "~",
+      "s": "",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:30Z",
+  "generatedAt": "2026-05-26T00:52:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@1c37d6f4ad83ad5e4a2d692932a5da04ceffb8b2",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@444e6cdf71f4af898f64340b3daf23f72cd94e39",
       "r": [],
-      "a": "G. Bareigts",
-      "d": "Use a Structure of Arrays like an Array of Structures",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.2.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:57Z",
+  "generatedAt": "2026-05-26T00:44:48Z",
   "allDeps": {
     "packages": [],
     "urls": [],

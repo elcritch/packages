@@ -13,32 +13,33 @@
       "v": "0.2.0@c3582aee38dfeeabecea7f995b2ef296b74151b7",
       "r": [
         "jsony"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@9f5dc6feea72ef8999cf9b7b587b62c9f0ac6414",
       "r": [],
-      "m": "1.4.8"
+      "m": "1.4.8",
+      "s": ""
     },
     {
       "v": "0.1.0@bb35b87f5b3f7130f9b11d20dc30ec02f276bb36",
       "r": [],
-      "m": "1.4.8"
+      "m": "1.4.8",
+      "s": ""
     },
     {
       "v": "#head@ff444663fca6a23f79b0a4f5dc214f38eccb0a80",
       "r": [
         "jsony"
       ],
-      "a": "Rui Vieira",
-      "d": "A Nim client for Todoist's REST API",
-      "l": "Apache-2.0",
-      "s": "src",
-      "m": "1.6.6"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:00Z",
+  "generatedAt": "2026-05-26T00:55:57Z",
   "allDeps": {
     "packages": [
       "jsony > 0.1.1"

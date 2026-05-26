@@ -11,20 +11,20 @@
   "releases": [
     {
       "v": "0.1.0@791835f89ecbdb64f3d075a360d18ca2f58994bb",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@769a099b3e4e512985413c9e2740c81d480381d7",
       "r": [],
-      "a": "Juan Carlos",
       "d": "Python requirements.txt parser for Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.2.6"
+      "m": "1.2.6",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:11Z",
+  "generatedAt": "2026-05-26T00:54:15Z",
   "allDeps": {
     "packages": [],
     "urls": [],

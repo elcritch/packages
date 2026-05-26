@@ -13,22 +13,21 @@
       "v": "0.1.0@ccdd1c0d102d5f4e645f1076bf72fe74d5a31575",
       "r": [
         "denim_ui"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@026fb8721012b24b836de87c546dd06d5c92bf62",
       "r": [
         "denim_ui"
       ],
-      "a": "Kristian Fjeld Hasselknippe",
-      "d": "HTML Canvas backend for the denim ui engine",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:59Z",
+  "generatedAt": "2026-05-26T00:46:52Z",
   "allDeps": {
     "packages": [
       "denim_ui",

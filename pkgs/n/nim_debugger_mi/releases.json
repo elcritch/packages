@@ -17,31 +17,46 @@
       "r": [
         "glob >= 0.1.0",
         "subprocess >= 0.2.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.3.1@553eeb59aff83b2adb4703416d3b612a54296302",
       "r": [
         "glob >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.3.0@24359a65f7cfce00745e07425e08bd74665341d2",
       "r": [
         "glob >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.2.6@78f100c3046db295e9dfbbb21c16ed88dc523386",
       "r": [
         "glob >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.2.5@6e88f7969c4cc8c62bf4591e4a9babc7df595400",
       "r": [
         "glob >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@d9d03e7d0f83af254d4395b3e581f39832488454",
@@ -49,18 +64,13 @@
         "glob >= 0.1.0",
         "subprocess >= 0.2.1"
       ],
-      "a": "yesdrx",
-      "d": "GDB/LLDB/MI proxy for Nim that handles symbol mangling/demangling",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "nim_debugger_mi"
-      ],
-      "m": "1.6.0"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:20Z",
+  "generatedAt": "2026-05-26T00:51:23Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

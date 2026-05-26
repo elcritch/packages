@@ -13,7 +13,8 @@
       "r": [
         "nimcrypto >= 0.6.0",
         "checksums >= 0.2.0"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.1.0@8974aa25744eaa7ab2de815548dbb2c5a36b5682",
@@ -29,14 +30,11 @@
         "nimcrypto >= 0.6.0",
         "checksums >= 0.2.0"
       ],
-      "a": "fox0430",
-      "d": "Async PostgreSQL client",
-      "l": "MIT",
-      "m": "2.2.4"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:08Z",
+  "generatedAt": "2026-05-26T00:45:00Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -18,7 +18,10 @@
         "shell",
         "cligen",
         "regex"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "1.0.2@57a56023868d122eff62849f3098aeee2d177ccd",
@@ -26,7 +29,10 @@
         "shell",
         "cligen",
         "regex"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "1.0.1@afaa86c8ec475e2c99453dcb6ec42016e10a4eff",
@@ -34,7 +40,10 @@
         "shell",
         "cligen",
         "regex"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "1.0.0@0ac5386209b9f69b120cde0e46f0befc65fcd6de",
@@ -42,7 +51,10 @@
         "shell",
         "cligen",
         "regex"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@5f9782a221deb247a448922dfeebc15616cdc72a",
@@ -50,11 +62,14 @@
         "shell",
         "cligen",
         "regex"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:25Z",
+  "generatedAt": "2026-05-26T00:52:29Z",
   "allDeps": {
     "packages": [
       "cligen",

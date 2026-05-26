@@ -13,13 +13,17 @@
       "v": "0.1.0@a8f506ea9f4df3708faecebc7a474e6c74690d95",
       "r": [
         "jsony >= 1.1.5"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@6f2b5bc314942d75fee9980cab517480711ab08a",
       "r": [
         "jsony >= 1.1.5"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.2@a09d4e05465a528a923c2ad2408612561c015d75",
@@ -27,7 +31,9 @@
         "jsony >= 1.1.5",
         "colors >= 0.1.1"
       ],
-      "d": "An extension of `jsony` supporting better hooks, types generated from schemas, and general quality of life tools"
+      "d": "An extension of `jsony` supporting better hooks, types generated from schemas, and general quality of life tools",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.3@aff1f884e4cb53d45f1473d0ca9ed2438b9a92ec",
@@ -35,7 +41,9 @@
         "jsony >= 1.1.5",
         "colors >= 0.1.1"
       ],
-      "d": "An extension of `jsony` supporting better hooks, types generated from schemas, and general quality of life tools"
+      "d": "An extension of `jsony` supporting better hooks, types generated from schemas, and general quality of life tools",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.5@c4e51e173aeb809f4c3d1de127967635052e58ae",
@@ -43,7 +51,9 @@
         "jsony >= 1.1.5",
         "colors >= 0.1.1"
       ],
-      "d": "An extension of `jsony` supporting better hooks, types generated from schemas, and general quality of life tools"
+      "d": "An extension of `jsony` supporting better hooks, types generated from schemas, and general quality of life tools",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.7@b40c5ed0de3c47a37962bf654ed5eac48fee2fed",
@@ -51,7 +61,9 @@
         "jsony >= 1.1.5",
         "colors >= 0.1.1"
       ],
-      "d": "An extension of `jsony` supporting better hooks, types generated from schemas, and general quality of life tools"
+      "d": "An extension of `jsony` supporting better hooks, types generated from schemas, and general quality of life tools",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.8@de40fff90b622cadca27a7586d68c6f79285d841",
@@ -59,7 +71,9 @@
         "jsony >= 1.1.5",
         "colors >= 0.1.1"
       ],
-      "d": "An extension of `jsony` supporting better hooks, types generated from schemas, and general quality of life tools"
+      "d": "An extension of `jsony` supporting better hooks, types generated from schemas, and general quality of life tools",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.9@42b42f67f96587f0bf3be9047b5664419b1bbcb3",
@@ -67,7 +81,9 @@
         "jsony >= 1.1.5",
         "colors >= 0.1.1"
       ],
-      "d": "An extension of `jsony` supporting better hooks, types generated from schemas, and general quality of life tools"
+      "d": "An extension of `jsony` supporting better hooks, types generated from schemas, and general quality of life tools",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.10@7bfb045a698bd7d29d7863ea1bd917d1bbb9da41^",
@@ -75,7 +91,9 @@
         "jsony >= 1.1.5",
         "colors >= 0.1.1"
       ],
-      "d": "An extension of `jsony` supporting better hooks, types generated from schemas, and general quality of life tools"
+      "d": "An extension of `jsony` supporting better hooks, types generated from schemas, and general quality of life tools",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@7bfb045a698bd7d29d7863ea1bd917d1bbb9da41",
@@ -83,11 +101,13 @@
         "jsony >= 1.1.5",
         "colors >= 0.1.1"
       ],
-      "d": "An extension of `jsony` supporting better hooks, types generated from schemas, and general quality of life tools"
+      "d": "An extension of `jsony` supporting better hooks, types generated from schemas, and general quality of life tools",
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:24Z",
+  "generatedAt": "2026-05-26T00:49:28Z",
   "allDeps": {
     "packages": [
       "colors > 0.1.1",

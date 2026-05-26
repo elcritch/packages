@@ -11,20 +11,20 @@
   "releases": [
     {
       "v": "0.1.0@a80abe992b8646964ea385fd7d8336909d54485b",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@1382d7c86a726d724503f73d0196f6c893e35c24",
       "r": [],
-      "a": "saint",
-      "d": "json parsing library based on bindings of simdjson",
       "l": "Apache-2.0",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:07Z",
+  "generatedAt": "2026-05-26T00:48:06Z",
   "allDeps": {
     "packages": [],
     "urls": [],

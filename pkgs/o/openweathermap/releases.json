@@ -11,20 +11,20 @@
   "releases": [
     {
       "v": "0.1.0@e81aa4127d45f8168a9841e4e4981fda54a15517",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@812f028358067d9197669e2a4e137369e3a656b9",
       "r": [],
-      "a": "Juan Carlos",
       "d": "OpenWeatherMap API Lib for Nim, Free world wide Creative Commons & Open Data Licensed Weather data",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.20.0"
+      "m": "0.20.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:03Z",
+  "generatedAt": "2026-05-26T00:53:08Z",
   "allDeps": {
     "packages": [],
     "urls": [],

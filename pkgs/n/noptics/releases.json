@@ -15,7 +15,9 @@
         "timeit",
         "weave",
         "gnuplot"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.2@6bf54de9a1fd9c074628b8336f42d43da5763d51",
@@ -23,7 +25,9 @@
         "timeit",
         "weave",
         "gnuplot"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@0b29ce9bd3e1f755b54ea459387ecac119527c00",
@@ -31,16 +35,11 @@
         "timeit",
         "weave",
         "gnuplot"
-      ],
-      "a": "Oliver Thomas",
-      "d": "Nim Linear algebra, classical and quantum optics simulation package",
-      "l": "Apache-2.0",
-      "s": "src",
-      "m": "1.6.10"
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:37Z",
+  "generatedAt": "2026-05-26T00:52:42Z",
   "allDeps": {
     "packages": [
       "gnuplot",

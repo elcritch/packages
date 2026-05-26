@@ -21,7 +21,11 @@
       "r": [
         "shell >= 0.4.3",
         "cligen >= 1.3.2"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@6dfe276b792b4e4bf0d2767e6f50f7e8e692013b",
@@ -29,22 +33,14 @@
         "shell >= 0.4.3",
         "cligen >= 1.3.2"
       ],
-      "a": "bung87",
-      "d": "nim tasks apply to git hooks",
-      "l": "MIT",
-      "s": "src",
-      "k": [
-        "nim",
-        "tpl"
-      ],
-      "p": [
-        "stage"
-      ],
-      "m": "1.2.4"
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:13Z",
+  "generatedAt": "2026-05-26T00:55:14Z",
   "allDeps": {
     "packages": [
       "cligen",

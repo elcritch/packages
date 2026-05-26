@@ -13,41 +13,45 @@
       "v": "1.1.0@7ad48098db74aca3bdba9fee58e2fa273dadb593",
       "r": [
         "regex >= 0.13.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.2@23d378afee5d3dff353354e36df7babc7648a50e",
       "r": [
         "regex >= 0.13.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.1@041a7aff7fe533dd6746e33da2a4d2dd86960864",
       "r": [
         "regex >= 0.13.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.0@61821c4ef2ba5d2f699abf92804346c18a0910a7",
       "r": [
         "regex >= 0.13.0"
       ],
-      "m": "1.0.4"
+      "m": "1.0.4",
+      "s": ""
     },
     {
       "v": "#head@612491f34fb4b77e499f5150a9a9e4aaaaeb41ec",
       "r": [
         "regex >= 0.13.0"
       ],
-      "a": "jiro4989",
-      "d": "envconfig provides a function to get config objects from environment variables.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:25Z",
+  "generatedAt": "2026-05-26T00:47:17Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

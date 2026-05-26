@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@0d727bae8a387629e4fe0f4b8632db1b179740fc",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@8cf4ffc56648e5f0b07130a9f43942cf2bb6f268",
       "r": [],
-      "a": "LemonBoy",
-      "d": "Record and replay your HTTP sessions!",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.19.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:03Z",
+  "generatedAt": "2026-05-26T00:45:58Z",
   "allDeps": {
     "packages": [],
     "urls": [],

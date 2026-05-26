@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@f6c4c2bba9c04e973c9fe609346194a2f9f85162",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@4dcc8a03dbe4007eb49104955a1100e054c62ef7",
       "r": [],
-      "a": "Paul Nameless",
-      "d": "Nim binding to libfswatch",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.6"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:44Z",
+  "generatedAt": "2026-05-26T00:49:47Z",
   "allDeps": {
     "packages": [],
     "urls": [],

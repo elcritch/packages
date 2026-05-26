@@ -11,24 +11,23 @@
   "releases": [
     {
       "v": "0.0.1@dc7a8433104a90de3673d5a3a857696c8dc1ed62",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@a921d43dd47a3c54092f380de4776a772f7250cc",
       "r": [],
-      "a": "Juan Carlos",
-      "d": "TradingView client",
-      "l": "MIT",
-      "s": "src",
       "x": [
         "docs",
         "examples"
       ],
-      "m": "1.6.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:03Z",
+  "generatedAt": "2026-05-26T00:56:00Z",
   "allDeps": {
     "packages": [],
     "urls": [],

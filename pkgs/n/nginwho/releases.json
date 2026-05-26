@@ -14,56 +14,68 @@
   "releases": [
     {
       "v": "2.2.0@08b11f3664ea616477942fa93aef4a8f504a0c38",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "2.1.0@4f929709dbbe74480695a30a1f8e31452a09953f",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "1.2.3@e5d6d16bd9aa0f173a8bb9f11595dd511e358f4a",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "1.0.0@2cec8f51336d249c85e7d78989422aa6dc92a0bf",
       "r": [],
       "d": "nginwho is a lightweight and extremely fast nginx log parser that stores the result into a sqlite3 database for further analysis and actions",
-      "m": "2.0.2"
+      "m": "2.0.2",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.7.1@0a972c57fd8fd15551c8922ee344ca2902318051",
       "r": [],
       "d": "nginwho is a lightweight and extremely fast nginx log parser that stores the result into a sqlite3 database for further analysis and actions",
-      "m": "2.0.2"
+      "m": "2.0.2",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.7.0@7a20da5688eaf8fbea0e790f27674a8c3f5c1176",
       "r": [],
       "d": "nginwho is a lightweight and extremely fast nginx log parser that stores the result into a sqlite3 database for further analysis and actions",
-      "m": "2.0.2"
+      "m": "2.0.2",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.5.0@1277fe3c411b31e53737417746f097c05e4c1013",
       "r": [],
       "a": "pouriyajamshidi",
       "d": "nginwho is a lightweight and extremely fast nginx log parser that stores the result into a sqlite3 database for further analysis and actions",
-      "m": "2.0.2"
+      "m": "2.0.2",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@d54f904691801faa6ecb852bb67c639c72b6bc69",
       "r": [],
-      "a": "pouriya jamshidi",
-      "d": "nginwho is a lightweight and extremely fast nginx log parser, Cloudflare origin IP resolver and non-Cloudflare CIDRs blocker",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "nginwho"
-      ],
-      "m": "2.2.0"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:06Z",
+  "generatedAt": "2026-05-26T00:51:08Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

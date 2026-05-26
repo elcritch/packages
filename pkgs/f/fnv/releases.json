@@ -13,17 +13,21 @@
       "v": "0.1.0@5769537f8e7b2b4f540cf2d702f52561ff4cac46^",
       "r": [
         "stint"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@5769537f8e7b2b4f540cf2d702f52561ff4cac46",
       "r": [
         "stint"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:53Z",
+  "generatedAt": "2026-05-26T00:47:53Z",
   "allDeps": {
     "packages": [
       "intops",

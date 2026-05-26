@@ -16,14 +16,10 @@
     },
     {
       "v": "#head@78b8f7fcc0c592b6766e9121c22ce1fd2f66c3db",
-      "n": "duktape",
       "r": [
         "nimgen >= 0.1.4"
       ],
       "h": true,
-      "a": "Manguluka Kakia",
-      "d": "wrapper for the Duktape embeddable Javascript engine",
-      "l": "MIT",
       "x": [
         "tests",
         "src"
@@ -34,7 +30,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:15Z",
+  "generatedAt": "2026-05-26T00:47:08Z",
   "allDeps": {
     "packages": [
       "c2nim",

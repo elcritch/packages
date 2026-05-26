@@ -10,19 +10,17 @@
   "releases": [
     {
       "v": "0.1.0@8351d846b825731d8134fe9b27ef229b1e56c5f1",
-      "r": []
+      "r": [],
+      "s": ""
     },
     {
       "v": "#head@17a69728bc914443739b4d0bb5bf7be2ce845976",
       "r": [],
-      "a": "Hsien-yu Chu",
-      "d": "A macro to create special procedural types for parameters.",
-      "l": "MIT",
-      "s": "src"
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:56Z",
+  "generatedAt": "2026-05-26T00:44:47Z",
   "allDeps": {
     "packages": [],
     "urls": [],

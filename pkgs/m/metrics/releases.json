@@ -18,7 +18,9 @@
         "chronos >= 4.0.3",
         "results",
         "stew"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.1.2@11d0cddfb0e711aa2a8c75d1892ae24a64c299fc",
@@ -26,28 +28,23 @@
         "chronos >= 4.0.3",
         "results",
         "stew"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "#head@a1296caf3ebb5f30f51a5feae7749a30df2824c2",
-      "n": "metrics",
       "r": [
         "chronos >= 4.0.3",
         "results",
         "stew"
       ],
-      "a": "Status Research & Development GmbH",
-      "d": "Metrics client library supporting Prometheus",
-      "l": "MIT or Apache License 2.0",
-      "x": [
-        "tests",
-        "benchmarks"
-      ],
-      "m": "1.6.14"
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:28Z",
+  "generatedAt": "2026-05-26T00:50:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

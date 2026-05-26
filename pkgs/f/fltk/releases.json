@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "1.3.4@f4565568d58a28d38d32cdb3303ecb03aa86ca0c",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@d1b497d74a3be64a11e8b819a482022c611bcfe0",
       "r": [],
-      "a": "Skrylar",
-      "d": "Fast Light Toolkit.",
-      "l": "LGPL",
-      "s": "src",
-      "m": "0.18.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:51Z",
+  "generatedAt": "2026-05-26T00:47:51Z",
   "allDeps": {
     "packages": [],
     "urls": [],

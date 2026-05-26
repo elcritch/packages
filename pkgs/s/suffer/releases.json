@@ -16,35 +16,37 @@
     {
       "v": "0.1.0@3c66694e690832351a852ee22dff412024976e22",
       "r": [],
-      "x": []
+      "x": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.2@7966135a2d669dc874a6a9007606092f66e2afec",
       "r": [],
-      "d": "a nim library for drawing 2d shapes, text, and images to 32bit software pixel buffers"
+      "d": "a nim library for drawing 2d shapes, text, and images to 32bit software pixel buffers",
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.2.0@aa560545d447510cc7c34ed6e617b7df867be880",
       "r": [],
       "d": "a nim library for drawing 2d shapes, text, and images to 32bit software pixel buffers",
-      "m": "1.2.2"
+      "m": "1.2.2",
+      "s": "",
+      "x": []
     },
     {
       "v": "#head@773dcff99a4ab2575f9c296949009a0485c32c53",
       "r": [],
-      "a": "emekoi",
       "d": "a nim library for drawing 2d shapes, text, and images to 32bit software pixel buffers",
-      "l": "MIT",
-      "s": "src",
-      "x": [
-        "docs",
-        "example"
-      ],
-      "m": "1.2.2"
+      "m": "1.2.2",
+      "s": "",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:25Z",
+  "generatedAt": "2026-05-26T00:55:26Z",
   "allDeps": {
     "packages": [],
     "urls": [],

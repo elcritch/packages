@@ -13,21 +13,27 @@
       "v": "20230210@fb04d0862aca4be2edcc0eafa94b1840030231c8",
       "r": [
         "gh:ehmry/nim-configparser"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "20230201@7304b988057d73b7fc71c422822aca44345b1a65",
       "r": [
         "gh:ehmry/nim-configparser"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@85a7c870bce023efe22c78001f56968328ca509f",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:57Z",
+  "generatedAt": "2026-05-26T00:47:56Z",
   "allDeps": {
     "packages": [],
     "urls": [],

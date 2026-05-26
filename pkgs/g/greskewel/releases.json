@@ -14,7 +14,9 @@
       "r": [
         "db_connector",
         "threading"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@53a1370295a38c7543161f0202be6b884a8f1815",
@@ -22,15 +24,12 @@
         "db_connector",
         "threading"
       ],
-      "a": "George Lemon",
-      "d": "Embedded Postgres in a Box",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:27Z",
+  "generatedAt": "2026-05-26T00:48:30Z",
   "allDeps": {
     "packages": [
       "db_connector",

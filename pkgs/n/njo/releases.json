@@ -15,24 +15,23 @@
   "releases": [
     {
       "v": "1.0@01ebe3b4567e2742e3b80fadcd7df1f5254a507c",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "#head@3ccbdf8e5774d4cde82522e2bf8025552c3c15b5",
       "r": [],
-      "a": "uga-rosa",
-      "d": "A small utility to create JSON objects written in Nim. This is inspired by jpmens/jo.",
-      "l": "MIT",
-      "s": "src",
-      "b": "bin",
-      "p": [
-        "njo"
-      ],
-      "m": "1.6.6"
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:28Z",
+  "generatedAt": "2026-05-26T00:52:32Z",
   "allDeps": {
     "packages": [],
     "urls": [],

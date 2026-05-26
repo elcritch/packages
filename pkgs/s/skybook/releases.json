@@ -16,43 +16,50 @@
       "v": "1.0.3@3a5848178b3940b2675e7c5c00113cd71d5a1592",
       "r": [
         "jester >= 0.4.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "1.0.2@db81fedb2d7a2a8be0c373bb491bb03d8e617225",
       "r": [
         "jester >= 0.4.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "1.0.1@50aef8b22746691d2fce327ed81d423f93bf2363",
       "r": [
         "jester >= 0.4.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "1.0@13bb2bf25622f2719556aa2e6eddc16b76d1f61d",
       "r": [
         "jester >= 0.4.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@b53b514d59340f34536b21a5bb6a4fb8d6e526f9",
       "r": [
         "karax >= 1.0.0"
       ],
-      "a": "muxueqz",
-      "d": "Light weight bookmark manager(delicious alternative)",
-      "l": "GPL-2.0",
-      "s": "src",
-      "p": [
-        "skybook"
-      ],
-      "m": "2.0.0"
+      "m": "2.0.0",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:55Z",
+  "generatedAt": "2026-05-26T00:54:57Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

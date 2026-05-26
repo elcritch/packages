@@ -16,36 +16,46 @@
     {
       "v": "0.3.1@cc48938db39bc16aed74799a0211612417a4c0fc",
       "r": [],
-      "x": []
+      "x": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.0@7e210179aad8f7f00e60ed902cae2ade95e00f81",
       "r": [],
-      "x": []
+      "x": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.3@7091612a951d709756435827500c1e0acf6e9721",
       "r": [],
-      "x": []
+      "x": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.2@d7e505bcad3fb81c1f5a14aaca771ac6d381a5d4",
       "r": [],
-      "s": ""
+      "s": "",
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.2.1@943ee767ab913f89f2215c002f7c241a12e38348",
       "r": [],
       "d": "An entity-component-system generator",
       "s": "",
-      "x": []
+      "x": [],
+      "m": "~"
     },
     {
       "v": "0.2.0@51f3b4451a79fff13ec9e2e9cc77e378a8992be9",
       "r": [],
       "d": "An entity-component-system generator",
       "s": "",
-      "x": []
+      "x": [],
+      "m": "~"
     },
     {
       "v": "0.1.0@065110b446c9d4541a8e57463d40630b151c3351",
@@ -58,17 +68,14 @@
     },
     {
       "v": "#head@c1da153b7dc4923f92dc882e84c4ca34ea9e184e",
-      "n": "polymorph",
       "r": [],
-      "a": "Ryan Lipscombe",
-      "d": "A compile time focused entity-component-system generator",
-      "l": "Apache License 2.0",
-      "s": "src",
-      "m": "1.4.2"
+      "x": [],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:37Z",
+  "generatedAt": "2026-05-26T00:53:42Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

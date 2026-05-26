@@ -14,25 +14,23 @@
   "releases": [
     {
       "v": "0.1.0@3382415a3373fe9b29f73317ea02b83fb5d11c23",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "k": []
     },
     {
       "v": "#head@c75c3a377e167672f6d5d457cdc18d94aec7915a",
       "r": [
         "unittest2"
       ],
-      "a": "Jacek Sieka",
-      "d": "The fastest Fourier transform in the Rhein (so far)",
-      "l": "MIT",
-      "s": "src",
-      "k": [
-        "nim"
-      ],
-      "m": "1.6.0"
+      "m": "~",
+      "s": "",
+      "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:41Z",
+  "generatedAt": "2026-05-26T00:47:36Z",
   "allDeps": {
     "packages": [
       "unittest2"

@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "1.0.0@25bd69ce70f949930504e5669c1806ae5e11a0b5",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@8873f39969955377bafd46189e07e20746804373",
       "r": [],
-      "a": "Nicholas Heaven",
-      "d": "A wrapper for the libpcap library",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.8"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:48Z",
+  "generatedAt": "2026-05-26T00:49:51Z",
   "allDeps": {
     "packages": [],
     "urls": [],

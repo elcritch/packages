@@ -13,54 +13,67 @@
       "v": "1.2.0@759740a6b409b7f61fbf5f951cebeb35b1c1de80",
       "r": [
         "micros"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.1.0@a4397bb2d3a8c366735bdb36e493d3b5eebe145d",
       "r": [
         "micros"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.0@90fdd26286bc539d49df85f45abeb75eb33875d8",
       "r": [
         "micros"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@26039a86d4820823c92f064d3f7d863fd1cf206e",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.3@e9c9de9b3a47f154dcc1a5777cbf478120e1986a",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.2@af7f0e1b9c44646fd500ea238204a3c3bd42c3b8",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@3a392257f09eb126cd244cbd0a82bb76f5c06bbc",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@01e3d7e927e60237ba71b2a5eeccd3200cf93552",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@0983b5e64c5702aa3d6ea202cb81ef7702517fa4",
       "r": [
         "micros 0.1.14"
       ],
-      "a": "Philipp Doerner",
-      "d": "A library to quickly generate functions converting instances of type A to B",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:16Z",
+  "generatedAt": "2026-05-26T00:50:20Z",
   "allDeps": {
     "packages": [
       "micros > 0.2.0"

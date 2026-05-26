@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@9c6e84eda75c0eebd6722f866854be73e424e2da",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@03fa3cf9f37c0fbcbdf400c37d9be7a458660dd6",
       "r": [],
-      "a": "ringabout",
-      "d": "Implements a representation of Unicode with the limited ASCII character subset in Nim.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.7.3"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:50Z",
+  "generatedAt": "2026-05-26T00:53:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

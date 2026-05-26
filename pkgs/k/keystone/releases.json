@@ -11,25 +11,25 @@
   "releases": [
     {
       "v": "0.1.0@f58f5ab3f25a20dfd12d269dd1d9e24d14cb9e8c",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@2bb8bfbc5e115459891449c031716fe2016e6744",
       "r": [],
-      "m": "1.4.0"
+      "m": "1.4.0",
+      "s": ""
     },
     {
       "v": "#head@be01fa7e4a90e5a340d2e999dd2d257a6f300e7e",
       "r": [],
-      "a": "Grégoire Geis",
-      "d": "Bindings to the Keystone Assembler.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.2.8"
+      "m": "1.2.8",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:31Z",
+  "generatedAt": "2026-05-26T00:49:35Z",
   "allDeps": {
     "packages": [],
     "urls": [],

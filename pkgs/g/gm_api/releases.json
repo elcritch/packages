@@ -12,25 +12,28 @@
   "releases": [
     {
       "v": "0.3.1@da7d9007250cc1fd759d81b50a0c7740296e4982",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "e": ""
     },
     {
       "v": "0.3.0@af64b566c85df75e411e0f4745561f69fc275e98",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "e": ""
     },
     {
       "v": "#head@5c03f5344a7932f98f3bef6c128f8af35d2ddb29",
       "r": [],
-      "a": "Thiago Navarro",
-      "d": "Bindings for Greasemonkey API and header generator",
-      "l": "MIT",
-      "s": "src",
-      "e": "js",
-      "m": "1.0.0"
+      "m": "~",
+      "s": "",
+      "e": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:21Z",
+  "generatedAt": "2026-05-26T00:48:23Z",
   "allDeps": {
     "packages": [],
     "urls": [],

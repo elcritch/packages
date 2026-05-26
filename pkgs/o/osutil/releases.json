@@ -11,34 +11,37 @@
   "releases": [
     {
       "v": "0.1.0@3030386abf69e73f46415e895df0e31f15e599ca",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.2@c453c06412a870490610e7c86d93f8b155999163",
       "r": [],
       "a": "Juan Carlos",
       "d": "OS Utils for Nim, simple tiny but useful procs for OS. Turn Display OFF, set Process Name, set Process CPU Usage Limit cap from 5% to 100% on global percentage.",
-      "m": "0.18.0"
+      "m": "0.18.0",
+      "s": ""
     },
     {
       "v": "0.2.0@c677589b82c31037077f696d61e2f68fb4a95ade",
       "r": [],
       "a": "Juan Carlos",
       "d": "OS Utils for Nim, simple tiny but useful procs for OS. Turn Display OFF, set Process Name, set Process CPU Usage Limit cap from 5% to 100% on global percentage.",
-      "m": "0.18.0"
+      "m": "0.18.0",
+      "s": ""
     },
     {
       "v": "#head@b3255dde9d0d74dda1e14c9fa60e50f05225f875",
       "r": [],
       "a": "Juan Carlos",
       "d": "OS Utils for Nim, simple tiny but useful procs for OS. Turn Display OFF, set Process Name, set Process CPU Usage Limit cap from 5% to 100% on global percentage.",
-      "l": "LGPLv3",
-      "s": "src",
-      "m": "0.18.0"
+      "m": "0.18.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:08Z",
+  "generatedAt": "2026-05-26T00:53:12Z",
   "allDeps": {
     "packages": [],
     "urls": [],

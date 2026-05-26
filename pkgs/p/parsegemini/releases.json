@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@c144c646d7ca5d542145dca82af88802b5bdc668",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@50b10def9a9fd0637fbe5a46c6b55f75c435266d",
       "r": [],
-      "a": "Simon Werbeck",
-      "d": "Library for parsing text/gemini",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.2.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:18Z",
+  "generatedAt": "2026-05-26T00:53:22Z",
   "allDeps": {
     "packages": [],
     "urls": [],

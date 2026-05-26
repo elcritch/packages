@@ -11,25 +11,25 @@
   "releases": [
     {
       "v": "0.1.1@74f1e8721781932153131ed04a0966c1922d4933",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@49e6596c9f259f23c9fe15a34c75d6c951ddd78e",
       "r": [],
-      "m": "1.6.12"
+      "m": "1.6.12",
+      "s": ""
     },
     {
       "v": "#head@cc74adfc438b61ad83c83d0d6c58ea7da26e71f9",
       "r": [],
-      "a": "Daylin Morgan",
-      "d": "Soothing pastel theme for nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:04Z",
+  "generatedAt": "2026-05-26T00:45:59Z",
   "allDeps": {
     "packages": [],
     "urls": [],

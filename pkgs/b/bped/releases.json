@@ -13,15 +13,11 @@
     },
     {
       "v": "#head@6cf4dd8f4d969a43dfdb4357efe66062f4898d74",
-      "n": "bped",
-      "r": [],
-      "a": "Tom Krauss",
-      "d": "Nim implementation of the Bittorrent ascii protocol, encodes/decodes data into the Bittorrent ASCII protocol",
-      "l": "Apache2"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:51Z",
+  "generatedAt": "2026-05-26T00:45:45Z",
   "allDeps": {
     "packages": [],
     "urls": [],

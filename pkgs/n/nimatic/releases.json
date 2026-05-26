@@ -19,34 +19,35 @@
       "v": "0.1.0@d87b90a1f710192773cb6cde0fc23d2c1fa1f2bf",
       "r": [
         "markdown >= 0.8.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "z": [],
+      "p": []
     },
     {
       "v": "0.2.0@518adbed880b5668942d9ddad7b8d7cb7813f7ec",
       "r": [
         "markdown >= 0.8.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "z": [],
+      "p": []
     },
     {
       "v": "#head@430c5158a533961bf17ec28266060395d0c9522d",
       "r": [
         "markdown >= 0.8.0"
       ],
-      "a": "Kermit Alexander II",
-      "d": "A static site generator written in Nim",
-      "l": "2-clause BSD",
-      "s": "src",
-      "z": [
-        "nim"
-      ],
-      "p": [
-        "nimatic"
-      ],
-      "m": "1.0.4"
+      "m": "~",
+      "s": "",
+      "z": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:27Z",
+  "generatedAt": "2026-05-26T00:51:30Z",
   "allDeps": {
     "packages": [
       "markdown"

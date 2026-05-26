@@ -15,7 +15,9 @@
         "nimcrypto >= 0.5.4",
         "zip >= 0.1.1",
         "chacha20 >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.0@a1e892fc0ab7749d52342a47df46e4f0fe9c83ba",
@@ -23,7 +25,9 @@
         "nimcrypto >= 0.5.4",
         "zip >= 0.1.1",
         "chacha20 >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@a4de15a9121e50d782ddb108c4f8ba14bb61dbb1",
@@ -32,15 +36,12 @@
         "zip >= 0.1.1",
         "chacha20 >= 0.1.0"
       ],
-      "a": "Peter Munch-Ellingsen",
-      "d": "Library for reading KeePass files and decrypt the passwords within it",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:45Z",
+  "generatedAt": "2026-05-26T00:49:49Z",
   "allDeps": {
     "packages": [
       "chacha20",

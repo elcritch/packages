@@ -10,21 +10,19 @@
   "releases": [
     {
       "v": "0.1.0@d455514e5f6888f1ae1da35462729dcff09a9d7f",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "#head@837a820e351602dd2efbea1bafdef372ac449d2e",
       "r": [
         "nimterop"
       ],
-      "a": "Carlo Capocasa",
-      "d": "A nim wrapper for the opus audio decoder",
-      "l": "BSD-3-Clause",
-      "m": "1.4.2"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:05Z",
+  "generatedAt": "2026-05-26T00:53:09Z",
   "allDeps": {
     "packages": [
       "cligen",

@@ -10,7 +10,8 @@
   "releases": [
     {
       "v": "0.1.0@809a836e5d9e74daa3d37127a5012cb58681a1a2",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "0.1.1@a314fb8d18a08954fc7ea43e40673acb348ce7cc",
@@ -20,14 +21,11 @@
     {
       "v": "#head@a1a17d06713727d97810cad291e29dd7c672738f",
       "r": [],
-      "a": "Eugene Kabanov",
-      "d": "Various asynchronous tools for Nim",
-      "l": "MIT",
       "m": "0.19.4"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:12Z",
+  "generatedAt": "2026-05-26T00:45:04Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -17,15 +17,11 @@
     },
     {
       "v": "#head@afe16cc7a0f9568a5451a0fb600c843cbedae9c4",
-      "n": "nimsnappy",
-      "r": [],
-      "a": "didier deshommes",
-      "d": "Snappy lib wrapper for Nim",
-      "l": "BSD-3"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:13Z",
+  "generatedAt": "2026-05-26T00:52:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -13,15 +13,11 @@
     },
     {
       "v": "#head@c8db2ab0acc505d63f26c15d525e01fa970a8cf6",
-      "n": "fowltek",
-      "r": [],
-      "a": "fowl",
-      "d": "Assorted wrappers and reusable libraries.",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:55Z",
+  "generatedAt": "2026-05-26T00:47:55Z",
   "allDeps": {
     "packages": [],
     "urls": [],

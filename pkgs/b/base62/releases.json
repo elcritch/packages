@@ -13,15 +13,13 @@
     },
     {
       "v": "#head@40a55eb886822ff1d27bfc4471f4e0c22d70eaec",
-      "n": "base62",
       "r": [],
       "a": "perturbation",
-      "d": "Encoder/Decoder.  Defaults to Base-62, but allows for an arbitrary alphabet.",
-      "l": "MIT"
+      "d": "Encoder/Decoder.  Defaults to Base-62, but allows for an arbitrary alphabet."
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:26Z",
+  "generatedAt": "2026-05-26T00:45:19Z",
   "allDeps": {
     "packages": [],
     "urls": [],

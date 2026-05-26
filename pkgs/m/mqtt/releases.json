@@ -10,20 +10,17 @@
   "releases": [
     {
       "v": "0.1.0@020d5fe460bc5eb6e9ebb9f2b7024ac37e543edf",
-      "r": []
+      "r": [],
+      "s": ""
     },
     {
       "v": "#head@8eac94d5b624542a29e7d6cdf236aea561bf2a8a",
-      "n": "mqtt",
       "r": [],
-      "a": "Barnaby Gray",
-      "d": "Wrapper for libpaho-mqtt, a C library that communicates with an MQTT pub/sub server.",
-      "l": "BSD",
-      "s": "src"
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:44Z",
+  "generatedAt": "2026-05-26T00:50:46Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -14,23 +14,18 @@
   "releases": [
     {
       "v": "0.1.0@3f1913f9c187dd4329b61eb3b518168c1408f141",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "#head@fc4d79f0887e4244ef6f90bd816641fcb9f7a024",
-      "r": [],
-      "a": "Anubhav (eagledot)",
-      "d": "webrtcvad (google's opensourced voice activity detection engine) bindings for Nim",
-      "l": "MIT",
-      "s": "src",
-      "x": [
-        "examples"
-      ],
-      "m": "1.0.0"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:50Z",
+  "generatedAt": "2026-05-26T00:56:46Z",
   "allDeps": {
     "packages": [],
     "urls": [],

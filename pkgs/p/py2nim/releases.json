@@ -21,19 +21,31 @@
       "v": "0.1.3@0edfd361f36b365baee306deac940cf94aa2414d",
       "r": [
         "Nimscripter >= 1.0.3"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.1.2@1e19b5de7dd66e50daaf69f6f78beb8fee355ed6",
       "r": [
         "Nimscripter >= 1.0.3"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.1.1@7ef6badd4ba016cc0663ef2fba0f41f97c3c94be",
       "r": [
         "Nimscripter >= 1.0.3"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.1.0@f344249b88eeb9e4b473cc542ce5d7b1561f7c37",
@@ -42,30 +54,24 @@
       ],
       "k": [
         "nim"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@1a2f2a0347c221c11384c5c31dd1887c56fd292f",
       "r": [
         "Nimscripter >= 1.0.3"
       ],
-      "a": "Leon Lysak",
-      "d": "Py2Nim is a tool to translate Python code to Nim. The output is idiomatic Nim code, meant to be tweaked by hand after the translation process.",
-      "l": "MIT",
-      "s": "src",
-      "k": [
-        "nim",
-        "py",
-        "nims"
-      ],
-      "p": [
-        "py2nim"
-      ],
-      "m": "#head"
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:51Z",
+  "generatedAt": "2026-05-26T00:53:56Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

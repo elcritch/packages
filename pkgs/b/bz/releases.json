@@ -16,7 +16,10 @@
       "v": "0.1.0@85a94c16c644a91ab35a32b5b851f7205552a453",
       "r": [
         "argparse >= 4.0.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@f68389d369cf5cbd5c2b0f6f7d8fdc679b1dedcd",
@@ -24,10 +27,7 @@
         "argparse >= 4.0.1",
         "yaml >= 2.0.0"
       ],
-      "a": "Pierre Carrier",
       "d": "A few CLI utilities",
-      "l": "0BSD",
-      "s": "src",
       "p": [
         "cupa",
         "lecho",
@@ -39,11 +39,12 @@
         "urlencode",
         "yaml2json"
       ],
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:58Z",
+  "generatedAt": "2026-05-26T00:45:54Z",
   "allDeps": {
     "packages": [
       "argparse",

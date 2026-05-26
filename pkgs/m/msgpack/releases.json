@@ -13,7 +13,6 @@
     },
     {
       "v": "#head@3e36b57f1755be629ee07da74f5f14df5a321c0c",
-      "n": "msgpack",
       "r": [],
       "a": "Akira Hayakawa",
       "d": "A MessagePack binding for Nim",
@@ -21,7 +20,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:44Z",
+  "generatedAt": "2026-05-26T00:50:46Z",
   "allDeps": {
     "packages": [],
     "urls": [],

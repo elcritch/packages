@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "11.9.0@ce18a564d94da6d3fb8a0ccb90c0cae8979db954",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@c193f42f7500d9869d2fba2fd43c3811fd2660b2",
       "r": [],
-      "a": "Ethosa",
-      "d": "highlight.js bindings for Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:41Z",
+  "generatedAt": "2026-05-26T00:48:46Z",
   "allDeps": {
     "packages": [],
     "urls": [],

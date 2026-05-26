@@ -14,7 +14,9 @@
       "r": [
         "jsony",
         "results"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@2c70ff6fe38ec422d773b4af95dd04255124db18",
@@ -22,15 +24,12 @@
         "jsony",
         "results"
       ],
-      "a": "Nemuel Wainaina",
-      "d": "Nim wrapper for the Nationalize.io API",
-      "l": "GPL-3.0-only",
-      "s": "src",
-      "m": "1.6"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:52Z",
+  "generatedAt": "2026-05-26T00:50:54Z",
   "allDeps": {
     "packages": [
       "jsony",

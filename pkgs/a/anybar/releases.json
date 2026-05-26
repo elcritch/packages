@@ -18,14 +18,11 @@
     {
       "v": "#head@c93f45e01bef2323be134a3a87989963bb9bc683",
       "n": "Anybar",
-      "r": [],
-      "a": "Huy Doan",
-      "d": "Anybar client written in Nim",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:56Z",
+  "generatedAt": "2026-05-26T00:44:47Z",
   "allDeps": {
     "packages": [],
     "urls": [],

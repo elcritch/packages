@@ -11,20 +11,20 @@
   "releases": [
     {
       "v": "0.1.0@96e2700a663dd90e481bbc8f17d2b94ffccc92ac",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@501f95565f001ce3a23b158cae924cb4130ce5b3",
       "r": [],
       "a": "OpenPeeps",
-      "d": "Standalone WebRTC Data Channels, WebRTC Media Transport, and WebSockets",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:43Z",
+  "generatedAt": "2026-05-26T00:49:46Z",
   "allDeps": {
     "packages": [],
     "urls": [],

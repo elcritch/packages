@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.1@d80108a5fa406d3bc67498a78a1cad51c0741326",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@0e1f2839ef61a143e3f6534dac5b84c9a9941f5c",
       "r": [],
-      "a": "Frank S. Hestvik",
-      "d": "Ergonomic GMP Integers",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:08Z",
+  "generatedAt": "2026-05-26T00:49:12Z",
   "allDeps": {
     "packages": [],
     "urls": [],

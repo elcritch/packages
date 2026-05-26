@@ -14,84 +14,108 @@
       "r": [
         "ansiutils >= 0.2.0",
         "illwave >= 0.6.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.2.0@8021c4d4cc82e51e7160858bf902e123f6589511",
       "r": [
         "ansiutils >= 0.2.0",
         "illwave >= 0.6.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.1.0@877f3aec56a79e59638aee0714c2bbdb41426c55",
       "r": [
         "ansiutils >= 0.1.0",
         "illwave >= 0.6.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.0@0cc6c3c7d97e2c109bc45705d820c21fe25da681",
       "r": [
         "ansiutils >= 0.1.0",
         "illwave >= 0.5.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.8.0@6ed4b89cae3b75074a863aac0a02849d91270155",
       "r": [
         "ansiutils >= 0.1.0",
         "illwave >= 0.5.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.7.0@c83d62d45c2092eff3adc6693402da997eee0ef0",
       "r": [
         "ansiutils >= 0.1.0",
         "illwave >= 0.5.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.6.0@7fc4d22b7fb087056a3cf60e4a9a4162e29f7499",
       "r": [
         "ansiutils >= 0.1.0",
         "illwave >= 0.5.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.5.0@300b47021898ea9a88c5942ac95979ffd1232776",
       "r": [
         "ansiutils >= 0.1.0",
         "illwave >= 0.4.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.4.0@e91ec7ee6a0bc8f38ecbed98ff6c1abfe70ed2b9",
       "r": [
         "ansiutils >= 0.1.0",
         "illwave >= 0.4.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.0@58949adaf47f921bfa3c261c12daa8652d1c9613",
       "r": [
         "ansiutils >= 0.1.0",
         "illwave >= 0.3.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@e6436a42da78c978c3884adb8343b7fe3d0c3d5d",
       "r": [
         "ansiutils >= 0.1.0",
         "illwave >= 0.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@efed772318afe73ca7ebf759bf52d8ecfda1c0d8",
       "r": [
         "ansiutils >= 0.1.0",
         "illwave >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@a9a82fb39e316ad94abaab14dc3f77e7f7c2bc0c",
@@ -99,15 +123,12 @@
         "ansiutils >= 0.2.0",
         "illwave >= 0.6.0"
       ],
-      "a": "oakes",
-      "d": "A TUI -> GUI library",
-      "l": "Public Domain",
-      "s": "src",
-      "m": "1.6.4"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:22Z",
+  "generatedAt": "2026-05-26T00:52:25Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

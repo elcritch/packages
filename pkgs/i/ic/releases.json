@@ -11,24 +11,25 @@
   "releases": [
     {
       "v": "0.1.1@5e996775377c1fd88063a73ca14d5448c1a0bb1e",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@4e1cbd0dceaca770608269942da593c02d036f69",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@902aa027d5eb4b719d8cb639546ef48a6ed96465",
       "r": [],
-      "a": "hmbemba",
-      "d": "IceCream-style debug printing for Nim (colored, timestamp, file:line, JS + NimScript support)",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:59Z",
+  "generatedAt": "2026-05-26T00:49:02Z",
   "allDeps": {
     "packages": [],
     "urls": [],

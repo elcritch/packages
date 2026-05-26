@@ -14,23 +14,21 @@
   "releases": [
     {
       "v": "0.1.1@8c0306458f2634b7ecc0fd2f5d82bc852258dc8e",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@ff0ca24468619f5e0b24776265142e31751bc7ff",
       "r": [],
-      "a": "Juan Carlos",
-      "d": "Nim Semi-Auto Bug Report Tool",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "nimbug"
-      ],
-      "m": "1.2.2"
+      "m": "1.2.2",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:32Z",
+  "generatedAt": "2026-05-26T00:51:34Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

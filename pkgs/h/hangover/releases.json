@@ -16,7 +16,8 @@
         "opengl",
         "glfw",
         "glm"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.1.1@240d9430197aa44f70f3d2cf52b45576c8f1a799",
@@ -26,7 +27,8 @@
         "opengl",
         "glfw",
         "glm"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.2.0@1e4e7b6ebb86e9c7e29f609367729692ae554a9d",
@@ -36,7 +38,8 @@
         "opengl",
         "glfw",
         "glm"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.2.1@943ba35907685e6fe21019d6f348fddfc3b8e096^",
@@ -46,7 +49,8 @@
         "opengl",
         "glfw",
         "glm"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "#head@943ba35907685e6fe21019d6f348fddfc3b8e096",
@@ -56,11 +60,12 @@
         "opengl",
         "glfw",
         "glm"
-      ]
+      ],
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:33Z",
+  "generatedAt": "2026-05-26T00:48:36Z",
   "allDeps": {
     "packages": [
       "freetype <= 0.1.1",

@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.2@76c55b4818f1eab7615d5ea145cc76a478b92b9c",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@7e789d51a4951cb8e7f591ef94b8e5a515f6391c",
       "r": [],
-      "a": "Sebastian Zack Tin Lahm",
-      "d": "Minimal web framework for Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.8"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:41Z",
+  "generatedAt": "2026-05-26T00:55:40Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -11,28 +11,31 @@
   "releases": [
     {
       "v": "0.2.1@30ae9e4e4d6abea494ed3367650bda56fb63c907",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@79f80ff419cf3a5ff494a4c65e5042c4892047c5",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@7919b8b9f6b23b1aa62449ad7a7ce3c5f8ef09eb",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@0be04a7ffcb86994f9787431fe0f8a3a26f2db67",
       "r": [],
-      "a": "kixixixixi",
-      "d": "Convert json node to camelcase",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.2.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:01Z",
+  "generatedAt": "2026-05-26T00:45:57Z",
   "allDeps": {
     "packages": [],
     "urls": [],

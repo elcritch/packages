@@ -28,7 +28,12 @@
       ],
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nimalyzer.thindil.github.com-196844f8-nimalyzer.nimble\ncannot resolve package name: coloredlogger",
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "j": [],
+      "o": {}
     },
     {
       "v": "0.12.1@3617124888197e2ba17b847554446bbf8e353a9b",
@@ -39,7 +44,12 @@
       ],
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nimalyzer.thindil.github.com-36171248-nimalyzer.nimble\ncannot resolve package name: coloredlogger",
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "j": [],
+      "o": {}
     },
     {
       "v": "0.12.0@55b32a7d6b011c39a44edffc249181568ef51978",
@@ -50,7 +60,12 @@
       ],
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nimalyzer.thindil.github.com-55b32a7d-nimalyzer.nimble\ncannot resolve package name: coloredlogger",
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "j": [],
+      "o": {}
     },
     {
       "v": "0.11.0@f53e44e95e1691560c26eb7810ca3de0c7de74dc",
@@ -61,7 +76,12 @@
       ],
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nimalyzer.thindil.github.com-f53e44e9-nimalyzer.nimble\ncannot resolve package name: coloredlogger",
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "j": [],
+      "o": {}
     },
     {
       "v": "0.10.1@d871bbf03d6ac8e46c1870a8fbd0ef728ec4a41f",
@@ -72,7 +92,12 @@
       ],
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nimalyzer.thindil.github.com-d871bbf0-nimalyzer.nimble\ncannot resolve package name: coloredlogger",
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "j": [],
+      "o": {}
     },
     {
       "v": "0.10.0@a76cdbc434a05746fa1535bdc03accb88c13fa3b",
@@ -83,7 +108,12 @@
       ],
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nimalyzer.thindil.github.com-a76cdbc4-nimalyzer.nimble\ncannot resolve package name: coloredlogger",
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "j": [],
+      "o": {}
     },
     {
       "v": "0.9.0@4c94b003b78ee75fca533014fc0e83aa9011d234",
@@ -94,7 +124,12 @@
       ],
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nimalyzer.thindil.github.com-4c94b003-nimalyzer.nimble\ncannot resolve package name: coloredlogger",
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "j": [],
+      "o": {}
     },
     {
       "v": "0.8.0@7ee091ab1b69150c03f229eeb28f8da162aad295",
@@ -105,7 +140,12 @@
       ],
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nimalyzer.thindil.github.com-7ee091ab-nimalyzer.nimble\ncannot resolve package name: coloredlogger",
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "j": [],
+      "o": {}
     },
     {
       "v": "0.7.1@901d498f440ca79ba29ed939ae971bd32e88129a",
@@ -115,7 +155,12 @@
       ],
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nimalyzer.thindil.github.com-901d498f-nimalyzer.nimble\ncannot resolve package name: coloredlogger",
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "j": [],
+      "o": {}
     },
     {
       "v": "0.7.0@10037ee0ad5a47c5a4245826dc6f93a69fde3111",
@@ -125,7 +170,12 @@
       ],
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nimalyzer.thindil.github.com-10037ee0-nimalyzer.nimble\ncannot resolve package name: coloredlogger",
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "j": [],
+      "o": {}
     },
     {
       "v": "0.6.0@bd98b5aa19a435e75a821ad88c1213383201be10",
@@ -136,7 +186,11 @@
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nimalyzer.thindil.github.com-bd98b5aa-nimalyzer.nimble\ncannot resolve package name: coloredlogger",
       "j": [],
-      "o": {}
+      "o": {},
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.5.0@c9e6caa61ffbd755af09b6cfaf4faefaf7d7de95",
@@ -144,7 +198,11 @@
         "contracts >= 0.2.2"
       ],
       "j": [],
-      "o": {}
+      "o": {},
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.4.0@4fb99804ca51ac6a39d1b742f1b4dbd389e89479",
@@ -152,7 +210,11 @@
         "contracts >= 0.2.2"
       ],
       "j": [],
-      "o": {}
+      "o": {},
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.3.0@57c21e36307fbd2efa2b65d86ed6b67674e93f30",
@@ -160,7 +222,11 @@
         "contracts >= 0.2.2"
       ],
       "j": [],
-      "o": {}
+      "o": {},
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.2.0@3620ef1afca0bfe640cc7aece0f9607e6103b265",
@@ -168,7 +234,11 @@
         "contracts >= 0.2.2"
       ],
       "j": [],
-      "o": {}
+      "o": {},
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.1.0@bce2d892cdb229a4b8e5b5f3361cc7cd12ea46d5",
@@ -176,7 +246,11 @@
         "contracts >= 0.2.2"
       ],
       "j": [],
-      "o": {}
+      "o": {},
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "#head@d15d7602bebadec2028833311f3887baf3ffa436",
@@ -185,24 +259,18 @@
         "error://coloredlogger >= 0.1.0",
         "unittest2"
       ],
-      "a": "Bartek thindil Jasicki",
-      "d": "A static code analyzer for Nim",
-      "l": "BSD-3-Clause",
-      "s": "src",
-      "b": "bin",
-      "j": [
-        "nimalyzer.nim"
-      ],
-      "o": {
-        "main": "nimalyzer"
-      },
-      "m": "1.6.10",
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/n/nimalyzer/.worktree/nimalyzer.nimble\ncannot resolve package name: coloredlogger"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/n/nimalyzer/.worktree/nimalyzer.nimble\ncannot resolve package name: coloredlogger",
+      "p": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "j": [],
+      "o": {}
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:26Z",
+  "generatedAt": "2026-05-26T00:51:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

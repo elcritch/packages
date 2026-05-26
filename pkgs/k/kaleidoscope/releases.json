@@ -15,7 +15,9 @@
         "nimsimd >= 1.3.1",
         "benchy >= 0.0.1",
         "drchaos >= 0.1.9"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@ceaa27e1478b08355970f56985bddbac842603c3",
@@ -24,15 +26,12 @@
         "benchy >= 0.0.1",
         "drchaos >= 0.1.9"
       ],
-      "a": "xTrayambak",
-      "d": "SIMD accelerated string routines in pure Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:27Z",
+  "generatedAt": "2026-05-26T00:49:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -17,7 +17,10 @@
       "r": [
         "jester",
         "jsony"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@c06f0de7e4757ac21e15bdca601274ad85af3169",
@@ -25,19 +28,14 @@
         "jester",
         "jsony"
       ],
-      "a": "Luke",
-      "d": "A quick media server in nim",
-      "l": "GPL-3.0-only",
-      "s": "src",
       "b": "bin",
-      "p": [
-        "shio"
-      ],
-      "m": "1.4.8"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:44Z",
+  "generatedAt": "2026-05-26T00:54:45Z",
   "allDeps": {
     "packages": [
       "asynctools",

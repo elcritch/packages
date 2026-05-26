@@ -13,38 +13,41 @@
       "v": "0.1.0@9dff54386c9e11b12d099adf0125c338ad8c74c9",
       "r": [
         "pylib"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@08b771672fd72ffbcc12788f2823937467c34612",
       "r": [
         "pylib"
       ],
-      "m": "0.19.0"
+      "m": "0.19.0",
+      "s": ""
     },
     {
       "v": "0.2.2@3329cbfe7f8b9f4da9fbccf5770800757703de9c",
       "r": [],
-      "m": "0.19.2"
+      "m": "0.19.2",
+      "s": ""
     },
     {
       "v": "0.2.5@41be62b119ac510a36bb6db181a64919f2c20339",
       "r": [],
       "l": "MIT",
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "s": ""
     },
     {
       "v": "#head@d9f1b5038ca16d3057aac76a3dd53e425f6f40d0",
       "r": [],
-      "a": "juancarlospaco",
-      "d": "Human friendly DateTime string representations, seconds to millenniums.",
       "l": "MIT",
-      "s": "src",
-      "m": "1.2.4"
+      "m": "1.2.4",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:51Z",
+  "generatedAt": "2026-05-26T00:46:44Z",
   "allDeps": {
     "packages": [
       "pylib <= 0.2.0"

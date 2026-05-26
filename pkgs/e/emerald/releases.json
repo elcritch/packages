@@ -11,22 +11,27 @@
   "releases": [
     {
       "v": "0.2.3@1f88004f7ee5ee7d6af727dd16d2bc23f39a7803",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.2@bdb60c144435dd58bf9c10a1d45bbddcaaac051f",
       "r": [],
-      "m": "~"
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.1@4993acd341ea8af5949c2e7e3bbc67284a0e2633",
       "r": [],
-      "m": "~"
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@c8612d7785a6def19eb7f40a6506bded1439e8af",
       "r": [],
-      "m": "~"
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@e331225a4931edbd5b882544defcba53ba7240f6",
@@ -39,15 +44,12 @@
     {
       "v": "#head@a625ef8f7ae571535f6a1e3ba9cd1b1647e41339",
       "r": [],
-      "a": "Felix Krause",
-      "d": "macro-based HTML templating engine",
-      "l": "WTFPL",
-      "s": "src",
-      "m": "0.20.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T13:06:58Z",
+  "generatedAt": "2026-05-26T00:47:15Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

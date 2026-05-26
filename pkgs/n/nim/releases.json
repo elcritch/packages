@@ -437,7 +437,6 @@
       "h": true,
       "a": "Andreas Rumpf",
       "d": "Nim package providing the compiler binary",
-      "l": "MIT",
       "x": [
         "build",
         "changelogs",
@@ -466,7 +465,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:24Z",
+  "generatedAt": "2026-05-26T00:51:26Z",
   "allDeps": {
     "packages": [],
     "urls": [],

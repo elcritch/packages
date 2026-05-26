@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.00@c704770115667d14adea1c794655af0dd3898f13",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@2aad62a1500b8d69f6cc0fd4446665be3b65dbec",
       "r": [],
-      "a": "savannt",
-      "d": "Scope tracking for untyped macros",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:27Z",
+  "generatedAt": "2026-05-26T00:54:29Z",
   "allDeps": {
     "packages": [],
     "urls": [],

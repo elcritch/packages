@@ -14,23 +14,22 @@
   "releases": [
     {
       "v": "0.1.0@ae104636247b29ff6bbbe6926a6ad535b59023d9",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@7c2fce2541e2d3aa0782c1cfc9219f0d5b5168c7",
       "r": [],
-      "a": "Sean Hellum",
       "d": "A TicTacToe game written in nim!",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "NimTacToe"
-      ],
-      "m": "0.19.4"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:36Z",
+  "generatedAt": "2026-05-26T00:44:28Z",
   "allDeps": {
     "packages": [],
     "urls": [],

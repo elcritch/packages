@@ -13,22 +13,21 @@
       "v": "0.1.0@25a010e8a81cacf634fcc044171c9352f4007caa",
       "r": [
         "checksums"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@b60fa3264bc0358be481b1892108e6ab45241b4a",
       "r": [
         "checksums"
       ],
-      "a": "James Francis",
-      "d": "A package for generating uuids",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:29Z",
+  "generatedAt": "2026-05-26T00:56:25Z",
   "allDeps": {
     "packages": [
       "checksums"

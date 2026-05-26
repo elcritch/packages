@@ -18,9 +18,6 @@
     {
       "v": "#head@b8f666069dff1ed0c5142dd1ca692f0e71434716",
       "r": [],
-      "a": "Andri Lim",
-      "d": "SHA2 secure hash algorithm - 2 - [224, 256, 384, 512 bits]",
-      "l": "MIT",
       "x": [
         "tests",
         "docs"
@@ -29,7 +26,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:18Z",
+  "generatedAt": "2026-05-26T00:51:20Z",
   "allDeps": {
     "packages": [],
     "urls": [],

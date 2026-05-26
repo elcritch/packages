@@ -12,25 +12,25 @@
       "v": "0.1.1@db4bec28f6bed9671b96d317863d0273db302db6",
       "r": [
         "arraymancer >= 0.7.28"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.1.0@639129750cdcebc6e893fc6146d7da7e4c575b1f",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "#head@4615a00b915c6502e3f3aba9c7f478b70f0c4cd3",
       "r": [
         "arraymancer >= 0.7.30"
       ],
-      "a": "SciNim",
       "d": "Signal processing primitives (FFT, filtering, ...)",
-      "l": "MIT",
-      "m": "1.6.0"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:05Z",
+  "generatedAt": "2026-05-26T00:49:08Z",
   "allDeps": {
     "packages": [
       "arraymancer > 0.1.0",

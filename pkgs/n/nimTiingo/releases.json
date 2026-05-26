@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@536657da82c8cf38f2cac60908097dbf0f91b32d",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@ff76a0a6da3daf82b27a40d677dda9cdb263ada7",
       "r": [],
-      "a": "Roland Grein",
-      "d": "Tiingo",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.2.6"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:18Z",
+  "generatedAt": "2026-05-26T00:51:21Z",
   "allDeps": {
     "packages": [],
     "urls": [],

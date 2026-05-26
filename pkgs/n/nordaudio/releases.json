@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@e111ad81bb5cec81d13953562ab8f5625c79caac",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@dcc5ca5ce5d477fb6c145d37386b517347867151",
       "r": [],
-      "a": "Christoph Pohl",
-      "d": "A wrapper for PortAudio",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:36Z",
+  "generatedAt": "2026-05-26T00:52:40Z",
   "allDeps": {
     "packages": [],
     "urls": [],

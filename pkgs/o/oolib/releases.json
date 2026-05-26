@@ -11,96 +11,109 @@
   "releases": [
     {
       "v": "0.7.1@3e96a3909205844a61d96d2f372a689b6f14c09a",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.7.0@a3653aba5f537b74ad0fdb1bf42f5715bfee490c",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.6.1@76ba6a3103734a47d5cb755959bd59de39bd77e0",
       "r": [],
       "d": "A nimble package which provides user-defined types, procedures, etc...",
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "s": ""
     },
     {
       "v": "0.6.0@5a355afa364cf3d9ae3c08f5fcca99bd1cc98c67",
       "r": [],
       "d": "A nimble package which provides user-defined types, procedures, etc...",
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "s": ""
     },
     {
       "v": "0.5.0@d6ef4b76b2a167f9c66d412bc8a5e88afdd7ecb1",
       "r": [],
       "d": "A nimble package which provides user-defined types, procedures, etc...",
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "s": ""
     },
     {
       "v": "0.4.3@f24e30e8073c90a648c9851a37e86d53aab294b0",
       "r": [],
       "d": "A nimble package which provides user-defined types, procedures, etc...",
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "s": ""
     },
     {
       "v": "0.4.2@720154c00f5a841e1e9c6b5c1b0306f3f88f65a1",
       "r": [],
       "d": "A nimble package which provides user-defined types, procedures, etc...",
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "s": ""
     },
     {
       "v": "0.4.1@6a2892d523b1fa23632c35687862512f89a09326",
       "r": [],
       "d": "A nimble package which provides user-defined types, procedures, etc...",
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "s": ""
     },
     {
       "v": "0.4.0@43a4b4eead37a982268d0947a353e9711276bb1e",
       "r": [],
       "d": "A nimble package which provides user-defined types, procedures, etc...",
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "s": ""
     },
     {
       "v": "0.3.0@532bb26202f096c502c09b5f78cb4886d9a985ea",
       "r": [],
       "d": "A nimble package which provides user-defined types, procedures, etc...",
-      "m": "1.4.8"
+      "m": "1.4.8",
+      "s": ""
     },
     {
       "v": "0.2.2@fe0e0da5395a02baea525970fc52742c580193c9",
       "r": [],
       "d": "A nimble package which provides user-defined types, procedures, etc...",
-      "m": "1.4.8"
+      "m": "1.4.8",
+      "s": ""
     },
     {
       "v": "0.2.1@d8ff15838263f6b02f27e6b6c47975c0a96b1100",
       "r": [],
       "d": "A nimble package which provides user-defined types, procedures, etc...",
-      "m": "1.4.8"
+      "m": "1.4.8",
+      "s": ""
     },
     {
       "v": "0.2.0@3ddbcca95d3f24ccdc60f79cd392287f7771860b",
       "r": [],
       "d": "A nimble package which provides user-defined types, procedures, etc...",
-      "m": "1.4.8"
+      "m": "1.4.8",
+      "s": ""
     },
     {
       "v": "0.1.0@b7f3013dde6ac6ecab13bb066bcfcf9d7aba8702",
       "r": [],
       "d": "A new awesome nimble package",
-      "m": "1.4.8"
+      "m": "1.4.8",
+      "s": ""
     },
     {
       "v": "#head@da2d84ee955fc83bae4b1f9513a698ad4f6ebb91",
       "r": [],
-      "a": "Glasses-Neo",
-      "d": "A nimble package for object-oriented programming",
-      "l": "WTFPL",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:58Z",
+  "generatedAt": "2026-05-26T00:53:02Z",
   "allDeps": {
     "packages": [],
     "urls": [],

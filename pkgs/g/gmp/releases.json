@@ -10,47 +10,50 @@
   "releases": [
     {
       "v": "0.2.5@7dfd4570c2a986c2e90ea16bb917a1b99668c460",
-      "r": []
+      "r": [],
+      "s": ""
     },
     {
       "v": "0.2.4@4e9a6a05bfc274abd02a241f2d7c9162b2300191",
-      "r": []
+      "r": [],
+      "s": ""
     },
     {
       "v": "0.2.3@22ddba84fcca5793b6d74bf7a97e63cc6fe780a4",
-      "r": []
+      "r": [],
+      "s": ""
     },
     {
       "v": "0.2.2@684dd6f9e48b139b602b2a6f19c9316abcfb89c4",
-      "r": []
+      "r": [],
+      "s": ""
     },
     {
       "v": "0.2.1@4d7cfd10dd2d889feaf8ed0ae6f1f6ca4f390a83",
-      "r": []
+      "r": [],
+      "s": ""
     },
     {
       "v": "0.1.1@9a76fa70f607ecf5d6a8d854cb4c6ed6aaf3e24f",
       "r": [],
-      "l": "GNU LGPL v3"
+      "l": "GNU LGPL v3",
+      "s": ""
     },
     {
       "v": "#head@aa83952fb8ca9d412676225a294af98585e7f267",
       "r": [],
-      "a": "Will Szumski",
-      "d": "Wrapper for the GNU Multiple Precision Arithmetic Library (GMP)",
-      "l": "MIT",
-      "s": "src",
       "x": [
         "examples"
       ],
       "k": [
         "nim"
       ],
-      "m": "0.9.6"
+      "m": "0.9.6",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T13:07:38Z",
+  "generatedAt": "2026-05-26T00:48:24Z",
   "allDeps": {
     "packages": [],
     "urls": [],

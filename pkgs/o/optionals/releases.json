@@ -13,16 +13,13 @@
     },
     {
       "v": "#head@41259ef68f080d25912b0609bb8398d1138820c4",
-      "n": "optionals",
       "r": [],
-      "a": "Mason McGill",
       "d": "Option types",
-      "l": "MIT",
       "s": "source"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:04Z",
+  "generatedAt": "2026-05-26T00:53:08Z",
   "allDeps": {
     "packages": [],
     "urls": [],

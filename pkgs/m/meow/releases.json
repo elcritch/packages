@@ -17,39 +17,37 @@
       "v": "0.2.0@d0af0a1e73512570c7ed32d6242a6678b8d4c152",
       "r": [
         "nimterop >= 0.6.8"
-      ]
+      ],
+      "j": [],
+      "p": []
     },
     {
       "v": "0.1.0@64c83e62519eaaf502ea512d634b1755b201c9fc",
       "r": [
         "nimterop >= 0.6.8"
       ],
-      "j": []
+      "j": [],
+      "p": []
     },
     {
       "v": "0.1.0@297a27a2796e0d284f659ec6c9c5c5789fb7ecf6",
       "r": [
         "nimterop >= 0.6.8"
-      ]
+      ],
+      "j": [],
+      "p": []
     },
     {
       "v": "#head@d62bfb605a8bcea67d58e7b930c41cbfdab17f88",
       "r": [
         "nimterop >= 0.6.8"
       ],
-      "a": "genotrance",
-      "d": "meowhash wrapper for Nim",
-      "l": "MIT",
-      "j": [
-        "meow.nim"
-      ],
-      "p": [
-        "meow"
-      ]
+      "j": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:25Z",
+  "generatedAt": "2026-05-26T00:50:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

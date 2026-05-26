@@ -10,19 +10,17 @@
   "releases": [
     {
       "v": "0.1.0@f2a5bb93fa57d305c9223ed70b7ea2092b28d44b",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "#head@e21fa80cf5c41d77f975614f394f1a0eac538d17",
       "r": [],
-      "a": "Jacob VanDrunen",
-      "d": "A helper module for writing unit tests with nake or similar build system.",
-      "l": "ISC",
-      "m": "0.18.0"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:48Z",
+  "generatedAt": "2026-05-26T00:47:46Z",
   "allDeps": {
     "packages": [],
     "urls": [],

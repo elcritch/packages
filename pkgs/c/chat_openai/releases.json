@@ -15,40 +15,48 @@
   "releases": [
     {
       "v": "1.0.0@32613593122694f5f553866726be353a563f99be",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.3.0@370b89522a969cb24b21b5da6246a640e5e46017",
       "r": [],
-      "b": ""
+      "b": "",
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.2.0@3840b665ed3e8c8900ea03fb3b4c0cee7805d83f",
       "r": [],
-      "b": ""
+      "b": "",
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.1.0@c6c127cafdd97a9bc59cdb02ad97b708156331ba",
       "r": [],
       "a": "@zameerlovesmath, @TTkindboy @joshuajohncohen (GitHub)",
-      "b": ""
+      "b": "",
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@b74c801dd3f634ae56c69bafac4dab730a99e406",
       "r": [],
-      "a": "@zameerlovesmath, @TTkindboy, @joshuajohncohen (GitHub)",
-      "d": "A CLI for the Chat series of models provided by OpenAI",
-      "l": "MIT",
-      "s": "src",
-      "b": "bin",
-      "p": [
-        "chat_openai"
-      ],
-      "m": "1.6.12"
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:10Z",
+  "generatedAt": "2026-05-26T00:46:05Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

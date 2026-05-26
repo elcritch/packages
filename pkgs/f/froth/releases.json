@@ -11,20 +11,20 @@
   "releases": [
     {
       "v": "0.1.0@78d12306915d823b5cf318efde71fb80680be3cb",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@8f1a91f56ce57d17326fdc19bb7ba629e81759ae",
       "r": [],
-      "a": "metagn",
       "d": "tagged pointer types with destructors",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:58Z",
+  "generatedAt": "2026-05-26T00:47:57Z",
   "allDeps": {
     "packages": [],
     "urls": [],

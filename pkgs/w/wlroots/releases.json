@@ -10,7 +10,8 @@
   "releases": [
     {
       "v": "0.14.1@0f8f13cb35c4434660a5411e189a1c99df618e72",
-      "r": []
+      "r": [],
+      "s": ""
     },
     {
       "v": "#head@b37019ef35381e8aba8728175486d348122f7f7d",
@@ -18,14 +19,11 @@
         "wayland",
         "xkb"
       ],
-      "a": "j-james",
-      "d": "Nim bindings for wlroots",
-      "l": "MIT",
-      "s": "src"
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:54:03Z",
+  "generatedAt": "2026-05-26T00:57:00Z",
   "allDeps": {
     "packages": [
       "wayland",

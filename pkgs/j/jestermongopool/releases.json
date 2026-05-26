@@ -17,18 +17,24 @@
       "r": [
         "jesterwithplugins >= 0.5.0",
         "mongopool >= 1.0.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "z": []
     },
     {
       "v": "#head@a6503a5eaea3525a028f70b27a91760b188973e7",
       "r": [
         "jesterwithplugins >= 0.5.0",
         "mongopool >= 1.0.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "z": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:18Z",
+  "generatedAt": "2026-05-26T00:49:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

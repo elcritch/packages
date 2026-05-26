@@ -21,15 +21,11 @@
     },
     {
       "v": "#head@36343818e2103ed3e73b9a872cb831886b269888",
-      "n": "asyncdocker",
-      "r": [],
-      "a": "Wang Tong",
-      "d": "Asynchronous docker client written by Nim-lang",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:09Z",
+  "generatedAt": "2026-05-26T00:45:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

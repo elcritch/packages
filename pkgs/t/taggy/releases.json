@@ -11,28 +11,31 @@
   "releases": [
     {
       "v": "0.0.3@0013a4bf921dc9fa735f81577518b2c1e155f062",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.0.2@a791378850e58f9d0d6dc0ded6a28bd6e189bcde",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.0.1@ba31c9eeba9d75c6dac1a4c81b2fdfb48b87ecfa",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@e80ed1a806e871fd4ead4e0d3e9f6593569c0e38",
       "r": [],
-      "a": "Andre von Houck",
-      "d": "HTML DOM generator for Nim's JS mode.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.2.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:36Z",
+  "generatedAt": "2026-05-26T00:55:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

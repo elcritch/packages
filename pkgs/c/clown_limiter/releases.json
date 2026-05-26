@@ -13,41 +13,53 @@
       "v": "0.1.0@21f2e31b496ce4361c883dfc56469d923613987c",
       "r": [
         "jester >= 0.5.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.5@72dfd18b2e0c618c361d254b6471db3ee6cbbfaa",
       "r": [
         "jester >= 0.5.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@c50510bd1cd526e1dcf81419ae295f92a9e387f5",
       "r": [
         "jester >= 0.5.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.0@3eff66f52ddd4eb98672fa7ce6bd6196719f1e99",
       "r": [
         "jester >= 0.5.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.4.0@1bf21dd5079071057ce0235b0bfd9c4de201d8f3^",
       "r": [
         "jester >= 0.5.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@1bf21dd5079071057ce0235b0bfd9c4de201d8f3",
       "r": [
         "jester >= 0.5.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:25Z",
+  "generatedAt": "2026-05-26T00:46:20Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

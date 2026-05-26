@@ -12,24 +12,23 @@
       "v": "0.1.0@8e4e5849080fa16715bad9e488950873970223a9",
       "r": [
         "reactor >= 0.4.6"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "#head@d207c3ec1485252a25886cde6075cadaeae5d5de",
       "r": [
         "reactor >= 0.4.6"
       ],
-      "a": "Michał Zieliński <michal@zielinscy.org.pl>",
-      "d": "High-level Nim bindings for userspace SCTP implementation",
       "l": "BSD",
       "x": [
         "tests"
       ],
-      "m": "0.17.3"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:28Z",
+  "generatedAt": "2026-05-26T00:54:30Z",
   "allDeps": {
     "packages": [
       "collections",

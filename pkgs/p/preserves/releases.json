@@ -159,7 +159,10 @@
       "r": [
         "npeg >= 1.2.1",
         "gh:ehmry/nim-bigints >= 20231006"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "20240522@1fee87590940761e288cf9ab3c7270832403b719",
@@ -171,7 +174,9 @@
         "preserves/preserves_schema_nim",
         "preserves/private/preserves_encode",
         "preserves/schemac"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "20240422@fd498c6457cb9ad2f3179daa40da69eec00326dd",
@@ -183,7 +188,9 @@
         "preserves/preserves_schema_nim",
         "preserves/private/preserves_encode",
         "preserves/schemac"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "20240312@9ae435a83c6d5028405538af5d24a023af625b6e",
@@ -195,7 +202,9 @@
         "preserves/preserves_schema_nim",
         "preserves/private/preserves_encode",
         "preserves/schemac"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "20240208@2825bceecf33a15b9b7942db5331a32cbc39b281",
@@ -207,7 +216,9 @@
         "preserves/preserves_schema_nim",
         "preserves/private/preserves_encode",
         "preserves/schemac"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "20240108@a01ba8c96d65f670862ba074bf82b50cbda6ed99",
@@ -219,7 +230,9 @@
         "preserves/preserves_schema_nim",
         "preserves/private/preserves_encode",
         "preserves/schemac"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "20231102@4faeb766dc3945bcfacaa1a836ef6ab29b20ceb0",
@@ -231,7 +244,8 @@
         "preserves/private/preserves_encode",
         "preserves/schemac"
       ],
-      "m": "1.4.8"
+      "m": "1.4.8",
+      "s": ""
     },
     {
       "v": "20231021@edece399be70818208bf2263c30cb2bcf435bbff",
@@ -243,7 +257,8 @@
         "preserves/private/preserves_encode",
         "preserves/schemac"
       ],
-      "m": "1.4.8"
+      "m": "1.4.8",
+      "s": ""
     },
     {
       "v": "20231019@a2dc5becc0596d52ab205d869b7c167c0b562fb4",
@@ -255,7 +270,8 @@
         "preserves/private/preserves_encode",
         "preserves/schemac"
       ],
-      "m": "1.4.8"
+      "m": "1.4.8",
+      "s": ""
     },
     {
       "v": "20230914@c915accf7d2a36ca1f323e2f02e2df7375e815f1",
@@ -267,7 +283,8 @@
         "preserves/private/preserves_encode",
         "preserves/schemac"
       ],
-      "m": "1.4.8"
+      "m": "1.4.8",
+      "s": ""
     },
     {
       "v": "20230806@57f99840078047cec5fd35346f5038b4987e804a",
@@ -279,7 +296,8 @@
         "preserves/private/preserves_encode",
         "preserves/schemac"
       ],
-      "m": "1.4.8"
+      "m": "1.4.8",
+      "s": ""
     },
     {
       "v": "20230801@e65dc2271f304e867c8e4a76388443d64e015321",
@@ -291,7 +309,8 @@
         "preserves/private/preserves_encode",
         "preserves/schemac"
       ],
-      "m": "1.4.8"
+      "m": "1.4.8",
+      "s": ""
     },
     {
       "v": "20230720@6008b0ba2509dc2e92f914d78b3f54f24040f641",
@@ -303,7 +322,8 @@
         "preserves/private/preserves_encode",
         "preserves/schemac"
       ],
-      "m": "1.4.8"
+      "m": "1.4.8",
+      "s": ""
     },
     {
       "v": "20230530@0f697349ccbb885045cf0bf4c908507e2a3b2309",
@@ -315,7 +335,8 @@
         "preserves/private/preserves_encode",
         "preserves/schemac"
       ],
-      "m": "1.4.8"
+      "m": "1.4.8",
+      "s": ""
     },
     {
       "v": "20230520@c500e99b95683a4e699d103433ccfc85bb83a77b",
@@ -327,7 +348,8 @@
         "preserves/private/preserves_encode",
         "preserves/schemac"
       ],
-      "m": "1.4.8"
+      "m": "1.4.8",
+      "s": ""
     },
     {
       "v": "20230517@03876850e5e3ecd949809e29661fb2e769342ef1",
@@ -339,7 +361,8 @@
         "preserves/private/preserves_encode",
         "preserves/schemac"
       ],
-      "m": "1.4.8"
+      "m": "1.4.8",
+      "s": ""
     },
     {
       "v": "20230504@b9d8275624cbf3534b91a8e9efdaa57fc0ae29f3",
@@ -351,7 +374,8 @@
         "preserves/private/preserves_encode",
         "preserves/schemac"
       ],
-      "m": "1.4.8"
+      "m": "1.4.8",
+      "s": ""
     },
     {
       "v": "20230329@466a8d3af43ac4ee6897d1be23f10218891fb088",
@@ -363,7 +387,8 @@
         "preserves/private/preserves_encode",
         "preserves/schemac"
       ],
-      "m": "1.4.8"
+      "m": "1.4.8",
+      "s": ""
     },
     {
       "v": "20221208@d5909e4df088d63e20967f2cbb301c93102414ac",
@@ -375,7 +400,8 @@
         "preserves/private/preserves_encode",
         "preserves/schemac"
       ],
-      "m": "1.4.8"
+      "m": "1.4.8",
+      "s": ""
     },
     {
       "v": "20221102@2d2df1f918f4e6ef5b6c51e139bf24bc28101634",
@@ -383,7 +409,8 @@
         "npeg"
       ],
       "m": "1.4.8",
-      "p": []
+      "p": [],
+      "s": ""
     },
     {
       "v": "20221020@85e67603ed565e1dcedfb802a1ed7a175183056d",
@@ -391,7 +418,8 @@
         "npeg"
       ],
       "m": "1.4.8",
-      "p": []
+      "p": [],
+      "s": ""
     },
     {
       "v": "20221013@5b6f673951796553a9cfc2f927e2dd3ed1917d6b",
@@ -399,7 +427,8 @@
         "npeg"
       ],
       "m": "1.4.8",
-      "p": []
+      "p": [],
+      "s": ""
     },
     {
       "v": "20220709@8c0af37694a63ed008488fa42b58a2d144da890b",
@@ -407,7 +436,8 @@
         "npeg"
       ],
       "m": "1.4.8",
-      "p": []
+      "p": [],
+      "s": ""
     },
     {
       "v": "20220625@cc0472da3dc4a736fb1461dd3de20007f11bdb43",
@@ -415,7 +445,8 @@
         "npeg"
       ],
       "m": "1.4.8",
-      "p": []
+      "p": [],
+      "s": ""
     },
     {
       "v": "0.20260407@0b4db660688b0fa81e847500ed8623c10f737e76",
@@ -447,7 +478,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:42Z",
+  "generatedAt": "2026-05-26T00:53:46Z",
   "allDeps": {
     "packages": [
       "npeg > 0.20260407 & <= 20240523"

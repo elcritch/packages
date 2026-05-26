@@ -12,21 +12,27 @@
     {
       "v": "0.2.0@49553e0aa613068ea4d913e72163d8801f9bc1e6^",
       "r": [],
-      "h": true
+      "h": true,
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@b539e223c9ccef2677a48b25de617f9d96c1fe13",
       "r": [],
-      "h": true
+      "h": true,
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@49553e0aa613068ea4d913e72163d8801f9bc1e6",
       "r": [],
-      "h": true
+      "h": true,
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:23Z",
+  "generatedAt": "2026-05-26T00:51:26Z",
   "allDeps": {
     "packages": [],
     "urls": [],

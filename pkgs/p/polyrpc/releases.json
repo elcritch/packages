@@ -13,34 +13,37 @@
       "v": "0.2.2@242372bfcbb7f4364e975a7480f92e492b040d57",
       "r": [
         "jsony >= 1.1.5"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.1@e14a19870863093bfb0c61e6c9d49405a561d135",
       "r": [
         "jsony >= 1.1.5"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@be451eb7a9f19abaacff4b3070e0f69ae6d3bdce",
       "r": [
         "jsony >= 1.1.5"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@a39f0ad8dbf6ed5ba55452968584279d2324cb8c",
       "r": [
         "jsony >= 1.1.5"
       ],
-      "a": "Joel Lienhard",
-      "d": "A lib for generating rpc interface for any client server pair",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.10"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:37Z",
+  "generatedAt": "2026-05-26T00:53:43Z",
   "allDeps": {
     "packages": [
       "jsony"

@@ -26,7 +26,12 @@
         "jester",
         "webp",
         "zip"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "i": [],
+      "j": [],
+      "p": []
     },
     {
       "v": "0.1.8@10a37427a31612564276e650df4c30423c0b1b10",
@@ -35,7 +40,10 @@
         "zip"
       ],
       "i": [],
-      "j": []
+      "j": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.1.5@fce41084df456dbae7240d745491fb9db884da02",
@@ -44,7 +52,10 @@
         "zip"
       ],
       "i": [],
-      "j": []
+      "j": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@1fc83dc423b5b2452c414e224c068bbd081fbd4f",
@@ -53,26 +64,16 @@
         "webp",
         "zip"
       ],
-      "a": "Juan Carlos",
-      "d": "Simple web to share books, Calibre, Jester, Spectre CSS, No JavaScript, WebP & ZIP to reduce bandwidth",
       "l": "MIT",
-      "s": "src",
-      "i": [
-        "static",
-        "static/css"
-      ],
-      "j": [
-        "static/css/spectre.min.css",
-        "static/css/spectre-exp.min.css"
-      ],
-      "p": [
-        "biblioteca_guarrilla"
-      ],
-      "m": "0.20.0"
+      "m": "0.20.0",
+      "s": "",
+      "i": [],
+      "j": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:38Z",
+  "generatedAt": "2026-05-26T00:45:29Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

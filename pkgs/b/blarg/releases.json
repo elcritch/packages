@@ -11,24 +11,25 @@
   "releases": [
     {
       "v": "0.1.1@1ef340a141c57c3ff7368507599c09c05cbf7fcf",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@59ebae2ed50a177c0047359f9d49054a26992910",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@dbc661f9bd1391013fb2de5d3309ea87d6d6375d",
       "r": [],
-      "a": "Michael A. Sinclair",
-      "d": "A basic little argument parser",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:46Z",
+  "generatedAt": "2026-05-26T00:45:38Z",
   "allDeps": {
     "packages": [],
     "urls": [],

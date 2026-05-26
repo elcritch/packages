@@ -13,23 +13,20 @@
   "releases": [
     {
       "v": "0.1.0@6d7bec3839eb68ed009b323d1e51cb9a5681b7d9",
-      "r": []
+      "r": [],
+      "m": "~",
+      "p": []
     },
     {
       "v": "#head@9fcd05ba57402035d53d6cdece99668d12dee8e1",
       "r": [],
-      "a": "Jeff Ciesielski",
-      "d": "Helper to run nim code like a script",
-      "l": "MIT",
       "s": "src",
-      "p": [
-        "nimr"
-      ],
-      "m": "0.16.0"
+      "m": "~",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:09Z",
+  "generatedAt": "2026-05-26T00:52:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

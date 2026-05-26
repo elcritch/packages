@@ -11,44 +11,55 @@
   "releases": [
     {
       "v": "2.0.1@c1921e6d5df275d315883152fd7c6cb58a7b13e9",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "2.0.0@c5b9dadb19d1f13f98868c48514294015ba0b383",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.1.0@80190df2c820d27562d472498efb658f67550e18",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.0@7ae239f15437dc9ba92b0738e830c7ba280cdd2a",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@3bd0be7fa6aef04d50287a9550e3c1de0ae2f72c",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@62237a4a8a6a1ae39f618bac9b1e4d82920f75d5",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@fbd0c84b00d03d8be565ed8c64115e616f9bcc49",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@8f42b213a4e35f5fc0b151a0ef76958e76c460a8",
       "r": [],
-      "a": "Yu Vitaqua fer Chronos",
-      "d": "A simple implementation of Crockford Base32! Supports nint128, doesn't support check symbols",
-      "l": "CC0",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:41Z",
+  "generatedAt": "2026-05-26T00:46:34Z",
   "allDeps": {
     "packages": [],
     "urls": [],

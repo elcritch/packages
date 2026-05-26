@@ -13,22 +13,22 @@
       "v": "0.1.0@431b7f07739c1047137179e0e21e4700ed257991",
       "r": [
         "nimsimd >= 1.2.9"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@1681f1aa63f50cebb66d1c6d4d6892eb898f61a1",
       "r": [
         "nimsimd >= 1.2.9"
       ],
-      "a": "A. Schoeller",
       "d": "A vectorized Quicksort (AVX2)",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.2"
+      "m": "2.0.2",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:39Z",
+  "generatedAt": "2026-05-26T00:56:35Z",
   "allDeps": {
     "packages": [
       "nimsimd"

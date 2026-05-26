@@ -11,26 +11,27 @@
   "releases": [
     {
       "v": "0.1.0@e25c34413cdeee504bf281b934501bf7007e6dfc",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@d9c61511df4e53990429fd1c0e45a733677000a4",
       "r": [],
       "d": "OpenExchangeRates API Client for Nim. Works with/without SSL. Partially works with/without Free API Key.",
-      "m": "0.19.0"
+      "m": "0.19.0",
+      "s": ""
     },
     {
       "v": "#head@2582c88f5391f8b845f7befd38ac1e58591bae42",
       "r": [],
-      "a": "Juan Carlos",
       "d": "OpenExchangeRates API Client for Nim. Works with/without SSL. Partially works with/without Free API Key.",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.20.0"
+      "m": "0.20.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:01Z",
+  "generatedAt": "2026-05-26T00:53:06Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -14,23 +14,19 @@
   "releases": [
     {
       "v": "0.2.0@228625be4a344e4f9dd6467e8b8141ae568dd0a7",
-      "r": []
+      "r": [],
+      "m": "~",
+      "y": []
     },
     {
       "v": "#head@0b4c9ce39ff6eab4f398eac158b41fb0d7945d11",
       "r": [],
-      "a": "Wang Tong",
-      "d": "An efficient packet parser for MySQL Client/Server Protocol. Help you to write Mysql communication in either BLOCKIONG-IO or NON-BLOCKING-IO.",
-      "l": "MIT",
-      "y": [
-        "TODO.md",
-        "test.nim"
-      ],
-      "m": "0.19"
+      "m": "0.19",
+      "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:49Z",
+  "generatedAt": "2026-05-26T00:50:50Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

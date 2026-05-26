@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.1@bcb910940e18aa71ea103cbe6dc976f700840a50",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@ab6fb4b0ab64b0e43120abd140b320256cf8108a",
       "r": [],
-      "a": "Eric Berquist",
-      "d": "Bisection algorithms ported from Python",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:43Z",
+  "generatedAt": "2026-05-26T00:45:34Z",
   "allDeps": {
     "packages": [],
     "urls": [],

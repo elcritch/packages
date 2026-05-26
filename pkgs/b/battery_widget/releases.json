@@ -14,23 +14,22 @@
   "releases": [
     {
       "v": "0.1.0@4cd378d2beb146a5d82e07660e1cd3f3a16b6225",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@28fc15f6df089d809129427a709e4d1962528318",
       "r": [],
-      "a": "sergii.garkusha",
       "d": "Battery widget for command prompt. Written in Nim",
-      "l": "GPL-3.0",
-      "s": "src",
-      "p": [
-        "battery_widget"
-      ],
-      "m": "1.2.6"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:29Z",
+  "generatedAt": "2026-05-26T00:45:21Z",
   "allDeps": {
     "packages": [],
     "urls": [],

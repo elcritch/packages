@@ -13,22 +13,21 @@
       "v": "0.1.0@3e48ef7c1945176a18ac7442e05936063ac3bb37",
       "r": [
         "dnsprotocol"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@bcddd47a813872233ec62424278480f01638cb44",
       "r": [
         "dnsprotocol"
       ],
-      "a": "Mildred Ki'Lya",
-      "d": "Access glibc DNS resolution routines",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.8"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:12Z",
+  "generatedAt": "2026-05-26T00:54:15Z",
   "allDeps": {
     "packages": [
       "dnsprotocol",

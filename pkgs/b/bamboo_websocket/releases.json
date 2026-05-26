@@ -14,27 +14,39 @@
   "releases": [
     {
       "v": "0.3.3@8bf5e4c3ae1b9514a3d1810202271a14da525094",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.3.2@365f32fe229103dfb437b4772fd46d6b05cb21e6",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.3.1@06a5ee5d83284215176905b1881be0a680283d4f",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.3.0@57d70d3af9e1c7535a7b69ffe111e7d02cfbf8d8",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.2.4@89726d16298e191660c6fd2e01ff8c6905d9581f",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.2.3@8c02d19429193252a6fd38b5689526d048775a6a",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.2.2@fbdb6e54212d220fb1ff72aa9adf57723ac0ce93",
@@ -44,7 +56,8 @@
         "example",
         "images",
         "tests"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.2.1@5c180f0c4b2e347d2fb05fdd5b2b7639d9f998f0",
@@ -52,7 +65,8 @@
       "x": [
         "tests",
         "example"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.2.0@a3d09b3523272fc6eb31328cb740dd0d6e5c6644",
@@ -60,7 +74,8 @@
       "x": [
         "tests",
         "example"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.1.0@4ca10a8c0f5c220c4f6fcb405e3923b7ee54e271",
@@ -68,23 +83,18 @@
       "x": [
         "tests",
         "example"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "#head@92539ce8b53f6abf422393fb8dfa7495043f213c",
       "r": [],
-      "a": "obemaru4012",
-      "d": "This is a simple implementation of a WebSocket server with 100% Nim.",
-      "l": "MIT",
-      "x": [
-        "tests",
-        "images"
-      ],
-      "m": "1.4.8"
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:24Z",
+  "generatedAt": "2026-05-26T00:45:16Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

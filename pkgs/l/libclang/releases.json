@@ -10,20 +10,17 @@
   "releases": [
     {
       "v": "0.1.0@314681884bc46a46002553bd7f27120256380d6a",
-      "r": []
+      "r": [],
+      "s": ""
     },
     {
       "v": "#head@ff854c51551d46ff9c48f3e6d4b6cccb2f4eec10",
-      "n": "libclang",
       "r": [],
-      "a": "Will Szumski",
-      "d": "Bindings for libclang",
-      "l": "MIT",
-      "s": "src"
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:42Z",
+  "generatedAt": "2026-05-26T00:49:45Z",
   "allDeps": {
     "packages": [],
     "urls": [],

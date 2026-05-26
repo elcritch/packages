@@ -16,25 +16,23 @@
       "v": "1.0.0@327f136e9e5957e50334dcc8e40a304455fdb73b",
       "r": [
         "sdl2"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@47032a6dd71c8173389d416260190ec3d9f02ecb",
       "r": [
         "sdl2"
       ],
-      "a": "Rainbow Asteroids",
-      "d": "Hex clock made in SDL and Nim",
-      "l": "GPL-3.0-only",
-      "s": "src",
-      "p": [
-        "hexclock"
-      ],
-      "m": "1.4.8"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:40Z",
+  "generatedAt": "2026-05-26T00:48:45Z",
   "allDeps": {
     "packages": [
       "sdl2"

@@ -17,21 +17,30 @@
       "r": [
         "godot >= 0.7.21 & < 0.8.0",
         "cligen >= 1.5.6"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.1.1@8f57485c78df2c81215ea38db5d6edcdaeff7203",
       "r": [
         "godot >= 0.7.21 & < 0.8.0",
         "cligen >= 1.5.6"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.0.1@a0152775d71779664664333dd6b160e80fb023ce",
       "r": [
         "godot >= 0.7.21 & < 0.8.0",
         "cligen >= 1.5.6"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@bcfa1a5879c2c05b7a4918d507e3859fa8f14c3d",
@@ -39,18 +48,13 @@
         "godot >= 0.7.21 & < 0.8.0",
         "cligen >= 1.5.6"
       ],
-      "a": "Knaque",
-      "d": "Godot-Nim Utility - Godot gamedev with Nim",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "gnu"
-      ],
-      "m": "1.4.8"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:22Z",
+  "generatedAt": "2026-05-26T00:48:24Z",
   "allDeps": {
     "packages": [
       "cligen",

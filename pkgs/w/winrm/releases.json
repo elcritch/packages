@@ -11,23 +11,22 @@
   "releases": [
     {
       "v": "1.0.0@8750c481c6db0c43de1b0af43f78fa562671df02",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@f7a52ccbf93278cf3cbce2b09f00fca76f5ea1cb",
       "r": [],
-      "a": "Chokri Hammedi (blue0x1)",
-      "d": "Native WinRM client library for Nim",
-      "l": "MIT",
-      "s": ".",
       "x": [
         "examples"
       ],
-      "m": "1.6.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:54:01Z",
+  "generatedAt": "2026-05-26T00:56:58Z",
   "allDeps": {
     "packages": [],
     "urls": [],

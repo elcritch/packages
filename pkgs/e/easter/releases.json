@@ -11,30 +11,34 @@
   "releases": [
     {
       "v": "0.1.0@4068245560aedd5d56fe68d1b4d8c3d0812a1d37",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@7240b680934eba63b0a4d2abc269ad5011196eb6",
       "r": [],
-      "d": "Easter date calculation engine."
+      "d": "Easter date calculation engine.",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.2@7853d432d9d1263c0d307e94aecdfd5e7c06afa7",
       "r": [],
-      "d": "Easter date calculation engine."
+      "d": "Easter date calculation engine.",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@b8c4b796b71d8ddf8b7a4e1de8e91f0e2483cd97",
       "r": [],
-      "a": "Georges Kayo de Kayo",
       "d": "Easter date calculation engine.",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:17Z",
+  "generatedAt": "2026-05-26T00:47:10Z",
   "allDeps": {
     "packages": [],
     "urls": [],

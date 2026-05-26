@@ -11,20 +11,20 @@
   "releases": [
     {
       "v": "0.6.0@335b8cca96935e71a672ecd29c8dd8aa0a17613e",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@3707faa248d95d585c92d8fd9ba6c11e00ef19d6",
       "r": [],
-      "a": "Thiago Navarro",
       "d": "Cook all cookies of your browser",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:01Z",
+  "generatedAt": "2026-05-26T00:49:04Z",
   "allDeps": {
     "packages": [],
     "urls": [],

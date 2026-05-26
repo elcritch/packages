@@ -12,25 +12,24 @@
     {
       "v": "0.1.0@fe48dfa95d48d1a7546cf84c116f15e71b19112e",
       "r": [],
-      "s": ""
+      "s": "",
+      "m": "~"
     },
     {
       "v": "0.1.1@a0336ac4987ff9f32ea6271956d8ede993263147",
       "r": [],
-      "m": "1.0.4"
+      "m": "1.0.4",
+      "s": ""
     },
     {
       "v": "#head@bc89d93f4072c6b6cb692381734d66a9f1f1b82c",
       "r": [],
-      "a": "Joshua Cearley",
-      "d": "RFC3339 (dates and times) implementation for Nim.",
-      "l": "BSD",
-      "s": "src",
-      "m": "1.0.4"
+      "m": "1.0.4",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:13Z",
+  "generatedAt": "2026-05-26T00:54:17Z",
   "allDeps": {
     "packages": [],
     "urls": [],

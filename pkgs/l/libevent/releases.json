@@ -11,24 +11,25 @@
   "releases": [
     {
       "v": "0.1.1@ed143c000c72b9fc0ba0d101b62712688cc70a1c",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@68fca69dcbac10b21865319216839076bf0cb198",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@3d6942efb19eade4399d01ac1ef727ea961c2deb",
       "r": [],
-      "a": "George Lemon",
-      "d": "Bindings for Libevent",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:44Z",
+  "generatedAt": "2026-05-26T00:49:47Z",
   "allDeps": {
     "packages": [],
     "urls": [],

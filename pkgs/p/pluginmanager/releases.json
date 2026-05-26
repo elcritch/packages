@@ -14,23 +14,21 @@
   "releases": [
     {
       "v": "0.1.0@b4b6755555a4096c154f1a1c04f1680d4eb925e8",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "#head@dd9729b8b21c0d7dc1b3f1c136fe1029ce520270",
       "r": [],
-      "a": "Samantha Marshall",
-      "d": "Simple plugin implementation",
-      "l": "BSD 3-Clause",
-      "s": "src",
-      "x": [
-        "tests"
-      ],
-      "m": "0.16.0"
+      "m": "~",
+      "s": "",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:33Z",
+  "generatedAt": "2026-05-26T00:53:37Z",
   "allDeps": {
     "packages": [],
     "urls": [],

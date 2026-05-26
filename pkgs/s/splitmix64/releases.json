@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@d57f3b43df4d0772087896fb6f3698dd0a5f2bc3",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@63d49f1792f075a41b935d5669660809eb6f5012",
       "r": [],
-      "a": "Iced Quinn",
-      "d": "A very small random number generator.",
-      "l": "CC-PDDC",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:07Z",
+  "generatedAt": "2026-05-26T00:55:09Z",
   "allDeps": {
     "packages": [],
     "urls": [],

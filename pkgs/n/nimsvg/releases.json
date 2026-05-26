@@ -11,26 +11,27 @@
   "releases": [
     {
       "v": "0.1.0@182f0f660d19edccb97c64ceefa5c22829fd0eb2",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@c5b5cfb4079165ee36e212b2e29cfb1da1ba6e0b",
       "r": [],
       "d": "Nim-based DSL allowing to generate SVG files and GIF animations.",
-      "m": "1.2"
+      "m": "1.2",
+      "s": ""
     },
     {
       "v": "#head@89e7b31a1937524451fdf57f3e851f293385e8ca",
       "r": [],
-      "a": "Fabian Keller",
       "d": "Nim-based DSL allowing to generate SVG files and GIF animations.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.2"
+      "m": "1.2",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:16Z",
+  "generatedAt": "2026-05-26T00:52:19Z",
   "allDeps": {
     "packages": [],
     "urls": [],

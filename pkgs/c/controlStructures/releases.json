@@ -10,7 +10,8 @@
   "releases": [
     {
       "v": "0.1.0@222e2a5eaf3533876baa0d529d0c8a8f3e8da40f",
-      "r": []
+      "r": [],
+      "s": ""
     },
     {
       "v": "0.2.0@6e1a225c20272c5db856cdfb12cf1537f70195bb",
@@ -20,13 +21,11 @@
     {
       "v": "#head@60d80ea2a21dbd536c3443ab9b27340f27b7521c",
       "r": [],
-      "a": "TakeYourFreedom",
-      "d": "Additional Control Structures",
-      "l": "MIT"
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:36Z",
+  "generatedAt": "2026-05-26T00:46:30Z",
   "allDeps": {
     "packages": [],
     "urls": [],

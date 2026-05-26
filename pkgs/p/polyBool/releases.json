@@ -13,15 +13,11 @@
     },
     {
       "v": "#head@e7281860b002ed1e62b5802ede40c530dfd5bfde",
-      "n": "polyBool",
-      "r": [],
-      "a": "Andri Lim",
-      "d": "Polygon Clipping Library",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:36Z",
+  "generatedAt": "2026-05-26T00:53:40Z",
   "allDeps": {
     "packages": [],
     "urls": [],

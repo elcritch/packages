@@ -13,15 +13,12 @@
     },
     {
       "v": "#head@078f473fc811793119df55b766a3670a62f988c2",
-      "n": "nuuid",
       "r": [],
-      "a": "Willy Heineman",
-      "d": "A Nim source only UUID generator",
-      "l": "MIT"
+      "d": "A Nim source only UUID generator"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:49Z",
+  "generatedAt": "2026-05-26T00:52:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -10,27 +10,27 @@
   "releases": [
     {
       "v": "0.1.0@49b03edc32f9909cb49d946d27b2b581dc2063ae",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "0.0.2@fd6dbdaf530d6ac4aaf76a4cb87ef631227621d8",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "0.0.1@4d6c9ea42c95c1c6539160035d0b64f326a6ef41",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "#head@905752c35ee419cc5e94ed1a7e6a92cddc477a6c",
       "r": [],
-      "a": "Can Joshua Lehmann",
-      "d": "An experimental deep learning framework",
-      "l": "Apache License 2.0",
-      "m": "1.6.0"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:33Z",
+  "generatedAt": "2026-05-26T00:47:26Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

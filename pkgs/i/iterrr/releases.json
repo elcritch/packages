@@ -17,34 +17,45 @@
       "r": [
         "macroplus >= 0.2.3"
       ],
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.6@a6736374e061a42cdf30202899d4ebfa5c9ca356",
       "r": [
         "macroplus >= 0.2.3"
       ],
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.4@3e2ff8a2c788b6e398af0c1d3b7b98e5317a552c",
       "r": [
         "macroplus >= 0.2.3"
       ],
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.1@433d4d528cfd3eebc491c90538caf6280e6641fa",
       "r": [
         "macroplus >= 0.2.3"
       ],
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.0@a82aa846c8fc8561c7479228b4c21ccdf35df406",
       "r": [
         "macroplus >= 0.2.3"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.4.6@5cb5e12886fe348fb2e823f57ff60449fdf5f492",
@@ -52,7 +63,9 @@
         "macroplus >= 0.2.3"
       ],
       "d": "iterate faster. functional style, lazy like, extensible iterator library",
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.4.5@f86b756a43940bd997db5ebd4f89ee9996a42cbe",
@@ -60,7 +73,9 @@
         "macroplus >= 0.2.2"
       ],
       "d": "iterate faster. functional style, lazy like, extensible iterator library",
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.4.1@b4c586349ff3c236d60ff645847d05e70c476fc4",
@@ -68,7 +83,9 @@
         "macroplus >= 0.2.2"
       ],
       "d": "iterate faster. functional style, lazy like, extensible iterator library",
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.8@75c629d2415628d0e62ff320f31e02a3d2426034",
@@ -76,7 +93,9 @@
         "macroplus >= 0.2.2"
       ],
       "d": "iterate faster. functional style, lazy like, extensible iterator library",
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.5@247ea0faa0aea434921ab8d620cb9489994bea2e",
@@ -84,7 +103,9 @@
         "macroplus >= 0.2.1"
       ],
       "d": "iterate faster. functional style, lazy like, extensible iterator library",
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.0@10ecdb7bfa57955bda70ffae6c87c1b9d472cbba",
@@ -92,7 +113,9 @@
         "macroplus >= 0.1.25"
       ],
       "d": "iterate faster. functional style, lazy like, extensible iterator library",
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.1@f037a412ea5dbb5e52e26fdabed122811e7b7bdd",
@@ -100,7 +123,9 @@
         "macroplus >= 0.1.25"
       ],
       "d": "iterate faster. functional style, lazy like, extensible iterator library",
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@09d7608d0acd53a1634e3995c866276b0c6dc217",
@@ -108,22 +133,22 @@
         "macroplus >= 0.1.22"
       ],
       "d": "iterate faster. functional style, lazy like, extensible iterator library",
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@0843fc3a3a6923a3c1b909e36ea4e20ad2ebfef1",
       "r": [
         "macroplus >= 0.2.3"
       ],
-      "a": "hamidb80",
-      "d": "iterate faster. functional style, extensible iterator library",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.4"
+      "p": [],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:15Z",
+  "generatedAt": "2026-05-26T00:49:18Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@6eb1e199d4b86c1f6b875a9334997a7735bf8d56",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@0589114471b07ae8f4ef206e8739f521ea2ea7ef",
       "r": [],
-      "a": "Ryan Oldenburg",
-      "d": "Makes supporting command line arguments easier",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.10"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:50Z",
+  "generatedAt": "2026-05-26T00:45:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

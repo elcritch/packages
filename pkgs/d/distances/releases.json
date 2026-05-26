@@ -11,7 +11,9 @@
   "releases": [
     {
       "v": "0.2.0@980f8180dd3bc7978c3f6b9af350c5c6333fbff3",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@f8d757656d5cb10bd7d2654b00b2dc00b81d296e",
@@ -19,7 +21,9 @@
         "arraymancer >= 0.6.2",
         "neo >= 0.3.1"
       ],
-      "l": "Apache License 2.0"
+      "l": "Apache License 2.0",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@daf36e647c122092d98640f12ff82c07c14b361e",
@@ -27,20 +31,19 @@
         "arraymancer >= 0.6.2",
         "neo >= 0.3.1"
       ],
-      "l": "Apache License 2.0"
+      "l": "Apache License 2.0",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@a638bc3ea007a19987cae3326c0e187e74483a24",
       "r": [],
-      "a": "ayman albaz",
-      "d": "Distances is a high performance Nim library for calculating distances.",
-      "l": "Apache-2.0",
-      "s": "src",
-      "m": "1.4.6"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:06Z",
+  "generatedAt": "2026-05-26T00:46:59Z",
   "allDeps": {
     "packages": [
       "arraymancer <= 0.1.1",

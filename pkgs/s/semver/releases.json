@@ -11,48 +11,60 @@
   "releases": [
     {
       "v": "1.2.3@ec7732a4810441a937fe3059494ba338090c4957^",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.2.2@fbd04d664e26c749a5ea28b1ca7e83a41fd0a253",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.2.1@3b3fccf325a1e3b1a7b3485750d1d5df2c6be683",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.2.0@72d174a8ab62eb12af2e473c0a4d809158e87cd8",
       "r": [],
-      "l": "BSD3"
+      "l": "BSD3",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.1.1@3b7ace48704236329363290c62ce43f4d35f684d",
       "r": [],
       "d": "Semantic versioning parser for Nim.",
       "l": "BSD3",
-      "m": "0.14.0"
+      "m": "0.14.0",
+      "s": ""
     },
     {
       "v": "1.1.0@ec5a2ece5c9f8d7b124973211b685ae309c515fc",
       "r": [],
       "d": "Semantic versioning parser for Nim.",
       "l": "BSD3",
-      "m": "0.14.0"
+      "m": "0.14.0",
+      "s": ""
     },
     {
       "v": "1.0.4@70b311688cdf13c84a37ec4692538d794d1388be",
       "r": [],
       "d": "Semantic versioning parser for Nim.",
       "l": "BSD3",
-      "m": "0.14.0"
+      "m": "0.14.0",
+      "s": ""
     },
     {
       "v": "1.0.3@166c5dae3ea3293c37813f09f5c34f4906fe8c48",
       "r": [],
       "d": "Semantic versioning parser for Nim.",
       "l": "BSD3",
-      "m": "0.14.0"
+      "m": "0.14.0",
+      "s": ""
     },
     {
       "v": "1.0.2@743d3b6eaa2395d5df5beeca19b569cafdb61670",
@@ -80,11 +92,13 @@
     },
     {
       "v": "#head@ec7732a4810441a937fe3059494ba338090c4957",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:34Z",
+  "generatedAt": "2026-05-26T00:54:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

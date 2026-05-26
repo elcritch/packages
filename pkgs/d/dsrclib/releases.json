@@ -22,7 +22,13 @@
       "v": "0.2.0@96397c24d5f05f7c5222ed695309f80f309fd2ff",
       "r": [
         "readfx >= 0.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "x": [],
+      "p": [],
+      "e": ""
     },
     {
       "v": "0.1.0@6d1b52004494b0c037f0dc27f1680d84f0182cb1",
@@ -31,31 +37,26 @@
       ],
       "s": "",
       "b": "",
-      "p": []
+      "p": [],
+      "m": "~",
+      "x": [],
+      "e": ""
     },
     {
       "v": "#head@e7cd93f4729931002bbf60a7b983bd27dcf19abe",
       "r": [
         "readfx >= 0.2.0"
       ],
-      "a": "Andrea Telatin",
-      "d": "Read DSRC2 compressed FASTQ files",
-      "l": "GPL-2.0",
-      "s": "./",
-      "b": "bin",
-      "x": [
-        "tests"
-      ],
-      "p": [
-        "undsrc",
-        "fastq2dsrc"
-      ],
-      "e": "cpp",
-      "m": "2.0.0"
+      "m": "~",
+      "s": "",
+      "b": "",
+      "x": [],
+      "p": [],
+      "e": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:15Z",
+  "generatedAt": "2026-05-26T00:47:07Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

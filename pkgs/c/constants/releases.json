@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@d4e3149b363b88effe162ef4caa9fc3055fff264",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@179726744006dad76fea3ad62920cb82d3617afc",
       "r": [],
-      "a": "Juan Carlos",
-      "d": "Mathematical numerical named static constants useful for different disciplines",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.8"
+      "m": "1.4.8",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:33Z",
+  "generatedAt": "2026-05-26T00:46:28Z",
   "allDeps": {
     "packages": [],
     "urls": [],

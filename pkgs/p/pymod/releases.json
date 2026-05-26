@@ -13,15 +13,11 @@
     },
     {
       "v": "#head@3e4c49afdfdab2c3325588b6b823c102f22fc588",
-      "n": "pymod",
-      "r": [],
-      "a": "SnapDisco Pty Ltd, Australia.",
-      "d": "Auto-generate a Python module that wraps a Nim module.",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:52Z",
+  "generatedAt": "2026-05-26T00:53:57Z",
   "allDeps": {
     "packages": [],
     "urls": [],

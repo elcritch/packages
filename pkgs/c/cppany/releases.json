@@ -10,15 +10,17 @@
   "releases": [
     {
       "v": "0.1.1@cfd01fbccb5a8ff2bbf11e8fe1e0b5779b967d78^",
-      "r": []
+      "r": [],
+      "s": ""
     },
     {
       "v": "#head@cfd01fbccb5a8ff2bbf11e8fe1e0b5779b967d78",
-      "r": []
+      "r": [],
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:38Z",
+  "generatedAt": "2026-05-26T00:46:32Z",
   "allDeps": {
     "packages": [],
     "urls": [],

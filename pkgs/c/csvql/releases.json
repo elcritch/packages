@@ -11,38 +11,42 @@
   "releases": [
     {
       "v": "3.0@d56a10e7a08a2144497a1a31f1e6642aa9e436e4",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "2.0.1@9f3841a54460747b924a4d10fd3ae95be1040516",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "2.0@8bafb7cd6081798e18ecf88f56016405c24b243b",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0@8a1d51226ae315222387a6e53302d2675a92bfa8",
       "r": [],
-      "m": "0.17.2"
+      "m": "0.17.2",
+      "s": ""
     },
     {
       "v": "#head@171cf3dd68beeb15112a4264b7f23cd09ee7f1c5",
       "r": [
         "cligen >= 0.9.41"
       ],
-      "a": "Benny Elgazar",
-      "d": "csvql - query csv using ansisql.",
-      "l": "MIT",
-      "s": "src",
       "p": [
         "csvql"
       ],
-      "m": "1.0.2"
+      "m": "1.0.2",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:46Z",
+  "generatedAt": "2026-05-26T00:46:39Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

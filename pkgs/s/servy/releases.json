@@ -14,7 +14,10 @@
   "releases": [
     {
       "v": "0.1.0@730323eb002034ccc9a9f3350cdf9a0800c9e656",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@f097cdb5a0263b5592e36f65928ee53f00097613",
@@ -22,18 +25,14 @@
         "terminaltables",
         "ws"
       ],
-      "a": "xmonader",
       "d": "a down to earth webframework in nim",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "servy"
-      ],
-      "m": "1.0.0"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:39Z",
+  "generatedAt": "2026-05-26T00:54:41Z",
   "allDeps": {
     "packages": [
       "terminaltables",

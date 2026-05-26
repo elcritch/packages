@@ -18,27 +18,23 @@
   "releases": [
     {
       "v": "0.1.0@7e0dc90fbe6af9f30ec2ff2205adc7d166402aa9",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "x": [],
+      "k": []
     },
     {
       "v": "#head@da4877f68a577ccd968e87c98e78881d6732adab",
       "r": [],
-      "a": "Andrea Telatin",
-      "d": "Cross-platform memory monitoring utilities for Nim programs",
-      "l": "MIT",
-      "s": ".",
-      "x": [
-        "tests",
-        "docs"
-      ],
-      "k": [
-        "nim"
-      ],
-      "m": "1.6.0"
+      "m": "~",
+      "s": "",
+      "x": [],
+      "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:24Z",
+  "generatedAt": "2026-05-26T00:50:27Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

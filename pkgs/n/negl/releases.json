@@ -11,24 +11,25 @@
   "releases": [
     {
       "v": "0.1.2@2623c77c6da9f6933c5173bd721d389a8a212cc4",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@c9c076216a0662c22b1e7a82b45f7c06faeeb0bc",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@01a9353b15c88ed5c4c47506440f11d84306053d",
       "r": [],
-      "a": "Lucas Alves",
-      "d": "Nim bindings for EGL",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.4"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:58Z",
+  "generatedAt": "2026-05-26T00:50:59Z",
   "allDeps": {
     "packages": [],
     "urls": [],

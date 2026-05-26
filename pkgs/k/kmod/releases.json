@@ -13,17 +13,21 @@
       "v": "0.1.0@923879e15b087e09e21d23a4f42673ea6cf66260^",
       "r": [
         "nimterop >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@923879e15b087e09e21d23a4f42673ea6cf66260",
       "r": [
         "nimterop >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:33Z",
+  "generatedAt": "2026-05-26T00:49:36Z",
   "allDeps": {
     "packages": [
       "cligen",

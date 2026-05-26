@@ -14,7 +14,10 @@
   "releases": [
     {
       "v": "0.1.0@dffa6ea5efeb9a58f864ccb713a101715bf265bb",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@b8ff4aa0c22bad762e9ac9736a02e90440b86514",
@@ -24,10 +27,6 @@
         "regex"
       ],
       "h": true,
-      "a": "zenywallet",
-      "d": "A front-end web server specialized for real-time message exchange",
-      "l": "MIT",
-      "s": "src",
       "i": [
         "bin",
         "brotli",
@@ -38,14 +37,13 @@
         "a",
         "jar"
       ],
-      "p": [
-        "caprese"
-      ],
-      "m": "1.6.4"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:03Z",
+  "generatedAt": "2026-05-26T00:45:58Z",
   "allDeps": {
     "packages": [
       "checksums",

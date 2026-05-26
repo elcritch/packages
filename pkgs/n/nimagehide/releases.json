@@ -20,7 +20,12 @@
       "v": "0.1.0@ece6899dc05556b353bda2dc64680580ece67392",
       "r": [
         "stb_image >= 2.3"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": [],
+      "e": ""
     },
     {
       "v": "0.1.5@77277379903d9607cda83ca7eb5f34c785bf671c",
@@ -28,7 +33,11 @@
         "stb_image >= 2.3",
         "cligen >= 0.9.40"
       ],
-      "e": "c"
+      "e": "c",
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.2.0@53c742bdcf5c96ac7271639dc306d5f542842231",
@@ -36,7 +45,11 @@
         "stb_image >= 2.3",
         "cligen >= 0.9.40"
       ],
-      "e": "c"
+      "e": "c",
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.2.5@ade9154a4042b62cf7ed87812de89024b04b24eb",
@@ -44,7 +57,11 @@
         "stb_image >= 2.3",
         "cligen >= 0.9.40"
       ],
-      "e": "c"
+      "e": "c",
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@1beb5968302420be67719875e138b41ec8330458",
@@ -53,22 +70,15 @@
         "cligen >= 0.9.40",
         "cli_menu >= 0.2.5"
       ],
-      "a": "MnlPhlp",
-      "d": "A library to hide data in images. Usable as library or cli tool.",
-      "l": "MIT",
-      "s": "src",
-      "k": [
-        "nim"
-      ],
-      "p": [
-        "nimagehide"
-      ],
       "e": "c",
-      "m": "1.0.0"
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:25Z",
+  "generatedAt": "2026-05-26T00:51:28Z",
   "allDeps": {
     "packages": [
       "cli_menu",

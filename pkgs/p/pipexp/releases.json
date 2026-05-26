@@ -11,34 +11,37 @@
   "releases": [
     {
       "v": "0.4.0@585cf2eb3229d89fe488a6a34a209533afd1cf44",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.0@6a498e2bd7a889d2e8dd2a752852491b2772dc8f",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@7a61124744ff7ebba456f6cd6d00e9fbc98e45f7",
       "r": [],
-      "a": "tplasdio"
+      "a": "tplasdio",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@0a9084966e65a03f562cd1527b5cc41335da3277",
       "r": [],
-      "a": "tplasdio"
+      "a": "tplasdio",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@facc66046469a14997e297f929697a762e824fdd",
-      "r": [],
-      "a": "emanresu3",
-      "d": "Expression-based pipe operators with placeholder argument",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.6"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:29Z",
+  "generatedAt": "2026-05-26T00:53:32Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -13,22 +13,21 @@
       "v": "0.1.0@14c740a09751476734c7dad562c40b98387bfd58",
       "r": [
         "jsony"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@a7d5d880826e80b31105c762d9f984c7b9ea488e",
       "r": [
         "jsony"
       ],
-      "a": "George Lemon",
-      "d": "Nim library for the Pexels API",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "2.0.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:24Z",
+  "generatedAt": "2026-05-26T00:53:28Z",
   "allDeps": {
     "packages": [
       "jsony"

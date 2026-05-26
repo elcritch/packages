@@ -16,25 +16,23 @@
       "v": "0.1.1@a0c2693194b41bbb18300391a56f33476193af6f",
       "r": [
         "docopt >= 0.6.8"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@08e33e6a374aaaafe2e9d5eac3b7075d208c23fe",
       "r": [
         "docopt >= 0.6.8"
       ],
-      "a": "Abhishek Keshri",
-      "d": "A brainfuck interpreter & compiler implemented in nim",
-      "l": "GPL-3.0",
-      "s": "src",
-      "p": [
-        "nimfcuk"
-      ],
-      "m": "1.4.2"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:42Z",
+  "generatedAt": "2026-05-26T00:51:43Z",
   "allDeps": {
     "packages": [
       "docopt",

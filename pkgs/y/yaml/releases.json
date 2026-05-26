@@ -18,19 +18,27 @@
   "releases": [
     {
       "v": "2.2.1@d6ad3a0271b9819ae91f2a5892a96b4c58823046",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "2.2.0@13740da75a688de7fcb8f73930986058c3bc7163",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "2.1.1@7290559f881aabc5ba98307949ce5a290788c202",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "2.1.0@8a63c1f900a2e4a0b3ff4b2549aae66e8369f677",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "2.0.0@9d6040232957042657416f6940f30ae4daaaeea2",
@@ -41,7 +49,8 @@
         "server",
         "test",
         "tools"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "1.1.0@091391ae0e54c6d61266ee6099dff8ee37f35045",
@@ -276,22 +285,12 @@
     {
       "v": "#head@b4a4c2403a75ad80363edba74d7fb6be2a26acce",
       "r": [],
-      "a": "Felix Krause",
-      "d": "YAML 1.2 implementation for Nim",
-      "l": "MIT",
-      "x": [
-        ".github",
-        "bench",
-        "doc",
-        "server",
-        "test",
-        "tools"
-      ],
-      "m": "2.0.0"
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:54:20Z",
+  "generatedAt": "2026-05-26T00:57:18Z",
   "allDeps": {
     "packages": [],
     "urls": [],

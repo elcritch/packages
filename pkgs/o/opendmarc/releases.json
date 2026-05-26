@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@5612a76eb3a31612ed20f731c149cc618ac41714",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@52948744fe6d463771136461fe2b7befab4dd7e3",
       "r": [],
-      "a": "George Lemon",
-      "d": "OpenDMARC bindings",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:01Z",
+  "generatedAt": "2026-05-26T00:53:05Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.0.1@ec076bf5e42c26a0917718cdcd7cadd77b555b62",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@2e806ac690e4a746db01de779804521e718642d7",
       "r": [],
-      "a": "Himujjal",
-      "d": "Ascii Text allows you to print large ASCII fonts for the console and for the web",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.2.6"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:03Z",
+  "generatedAt": "2026-05-26T00:44:55Z",
   "allDeps": {
     "packages": [],
     "urls": [],

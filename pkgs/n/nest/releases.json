@@ -11,20 +11,20 @@
   "releases": [
     {
       "v": "0.1.0@0c55cd1b9dffd46cc2fc267bb2c7822c1d317964",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@03b9c54925965c991e83527b256423130657e87a",
       "r": [],
       "a": "Kevin Dean <kevin.e.dean@gmail.com>",
-      "d": "RESTful URI router",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.13.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:01Z",
+  "generatedAt": "2026-05-26T00:51:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

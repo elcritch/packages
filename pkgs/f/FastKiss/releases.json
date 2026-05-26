@@ -14,25 +14,22 @@
   "releases": [
     {
       "v": "0.0.1@254de7d1890d6c7df7be838e7dd63378a5e943a7",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "#head@9f5916edb782d2c0fc828dcbf29df779a1300690",
       "r": [
         "regex >= 0.19.0"
       ],
-      "a": "Henrique Dias",
       "d": "FastKiss - A FastCGI Web Framework for Nim",
-      "l": "MIT",
-      "x": [
-        "examples",
-        "tests"
-      ],
-      "m": "1.4.6"
+      "m": "1.4.6",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:32Z",
+  "generatedAt": "2026-05-26T00:44:24Z",
   "allDeps": {
     "packages": [
       "graphemes",

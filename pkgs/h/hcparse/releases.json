@@ -16,7 +16,9 @@
         "hmisc >= 0.4.0",
         "hpprint",
         "nimtraits"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@1e1a68a49192c0a3731ae3279be56c2a24542bb0",
@@ -26,15 +28,12 @@
         "gh:haxscramper/frosty #use-cast",
         "hmisc >= 0.11.5"
       ],
-      "a": "haxscramper",
-      "d": "High-level nim wrapper for C/C++ parsing",
-      "l": "Apache-2.0",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:40Z",
+  "generatedAt": "2026-05-26T00:48:44Z",
   "allDeps": {
     "packages": [
       "benchy",

@@ -13,15 +13,11 @@
     },
     {
       "v": "#head@e090969532d25836e32b51de03cf313075cf9aa7",
-      "n": "shorturl",
-      "r": [],
-      "a": "Adam Chesak",
-      "d": "Nim module for generating URL identifiers",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:46Z",
+  "generatedAt": "2026-05-26T00:54:48Z",
   "allDeps": {
     "packages": [],
     "urls": [],

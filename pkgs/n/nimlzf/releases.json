@@ -11,28 +11,31 @@
   "releases": [
     {
       "v": "1.1.1@47df2c021f73a75ef18208de7282dd704ad72b56",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.1.0@a3d18587bfadd85c2b174aed766f80fd5bb49f34",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.0@d9bad1dca9d52fba51c4c9b877a3d23c0acf6ffb",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@50073102ffdaef076f378ac77c3a599c40c02cf9",
       "r": [],
-      "a": "Anuke",
-      "d": "libzlf wrapper",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:59Z",
+  "generatedAt": "2026-05-26T00:52:01Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

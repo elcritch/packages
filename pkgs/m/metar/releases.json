@@ -14,37 +14,39 @@
   "releases": [
     {
       "v": "0.1.26@ad69ae69c4e9f377713cc2a483d63328f1c7f184",
-      "r": []
+      "r": [],
+      "m": "~",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.1.25@62b27f29d2e83a2f3927d0f9dbbf685553f323c7",
       "r": [
         "nimpy #c8ec14a"
       ],
-      "m": "1.0.4"
+      "m": "1.0.4",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.1.23@e23839891103e4aa8f569a516a048ac3a4ad39d4",
       "r": [
         "nimpy #c8ec14a"
       ],
-      "m": "1.0.4"
+      "m": "1.0.4",
+      "b": "",
+      "p": []
     },
     {
       "v": "#head@549ff5ef7461ccd8dfbeeb0841578745cd71532c",
       "r": [],
-      "a": "Steve Flenniken",
-      "d": "Metadata Reader for Images",
-      "l": "MIT",
-      "b": "bin",
-      "p": [
-        "metar/metar"
-      ],
-      "m": "2.2.4"
+      "m": "~",
+      "b": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:27Z",
+  "generatedAt": "2026-05-26T00:50:30Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

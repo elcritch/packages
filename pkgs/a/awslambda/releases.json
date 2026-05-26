@@ -11,24 +11,25 @@
   "releases": [
     {
       "v": "0.1.0@9c9583952ce709fbc6af3b85200c78bf417e5a11",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@798b1788bd76f9b4f9405bf1e5a481190c93e3db",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@0fa0f62bec56eb7e09d8fd3e2a4c31798baba89f",
       "r": [],
-      "a": "Michael Hart",
-      "d": "A package to compile nim functions for AWS Lambda",
-      "l": "MIT",
-      "s": ".",
-      "m": "0.19.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:20Z",
+  "generatedAt": "2026-05-26T00:45:12Z",
   "allDeps": {
     "packages": [],
     "urls": [],

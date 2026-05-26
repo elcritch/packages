@@ -17,15 +17,11 @@
     },
     {
       "v": "#head@b4f2c41382185c9883d310c13d6e7afb8193d0b9",
-      "n": "nimcfitsio",
-      "r": [],
-      "a": "Maurizio Tomasi <ziotom78 .at. gmail.com>",
-      "d": "Bindings for the CFITSIO library",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:33Z",
+  "generatedAt": "2026-05-26T00:51:35Z",
   "allDeps": {
     "packages": [],
     "urls": [],

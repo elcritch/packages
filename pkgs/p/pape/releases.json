@@ -11,28 +11,31 @@
   "releases": [
     {
       "v": "0.0.1@c8edaf60ad6a44d642e0bbcf43b4e7bbf0022486",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.0.2@f18132768a8e12bc5ffda8b6c3decf4312c480e2",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.0.3@1e89b1fe34bc2d725c0b0bc3f097c39539da6665",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@9ba289d60619593cb0f1d19d4133afc0d82d6b0c",
       "r": [],
-      "a": "hdbg",
-      "d": "Portable Executable parsing library",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.6"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:15Z",
+  "generatedAt": "2026-05-26T00:53:19Z",
   "allDeps": {
     "packages": [],
     "urls": [],

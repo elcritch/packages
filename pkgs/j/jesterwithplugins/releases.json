@@ -20,14 +20,22 @@
       "r": [
         "httpbeast >= 0.2.2",
         "gh:timotheecour/asynctools #pr_fix_compilation"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "x": [],
+      "y": []
     },
     {
       "v": "0.5.1@de099d88a152741525011b3ef183cc0f80d0d20f",
       "r": [
         "httpbeast >= 0.2.2",
         "gh:timotheecour/asynctools #pr_fix_compilation"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "x": [],
+      "y": []
     },
     {
       "v": "0.5.0@28e03604ed6c579f5685bf945f74970ffe8869ae",
@@ -36,7 +44,10 @@
         "gh:timotheecour/asynctools #pr_fix_compilation"
       ],
       "d": "A sinatra-like web framework for Nim.",
-      "s": ""
+      "s": "",
+      "m": "~",
+      "x": [],
+      "y": []
     },
     {
       "v": "0.4.3@6f3b10fb7cb5381f13bd24554849f0c3831e2008",
@@ -46,7 +57,9 @@
       ],
       "d": "A sinatra-like web framework for Nim.",
       "m": "0.18.1",
-      "s": ""
+      "s": "",
+      "x": [],
+      "y": []
     },
     {
       "v": "0.4.2@9ffb309bd4dceb348efe854ae49eb3c883ac52fd",
@@ -56,7 +69,9 @@
       ],
       "d": "A sinatra-like web framework for Nim.",
       "m": "0.18.1",
-      "s": ""
+      "s": "",
+      "x": [],
+      "y": []
     },
     {
       "v": "0.4.1@542603c2b0bd13846478d630138ce0a627d8a30a",
@@ -66,7 +81,9 @@
       ],
       "d": "A sinatra-like web framework for Nim.",
       "m": "0.18.1",
-      "s": ""
+      "s": "",
+      "x": [],
+      "y": []
     },
     {
       "v": "0.4.0@aa4b17be412df716be637a039d2ef578d0605abf",
@@ -76,7 +93,9 @@
       ],
       "d": "A sinatra-like web framework for Nim.",
       "m": "0.18.1",
-      "s": ""
+      "s": "",
+      "x": [],
+      "y": []
     },
     {
       "v": "0.3.0@f957ad4042ec196f5bfb467e5293c2cfcd1f77f4",
@@ -86,14 +105,18 @@
       ],
       "d": "A sinatra-like web framework for Nim.",
       "m": "0.18.0",
-      "s": ""
+      "s": "",
+      "x": [],
+      "y": []
     },
     {
       "v": "0.2.0@11d50760df71b389563e1ddad2675c6fbfbab0b0",
       "r": [],
       "d": "A sinatra-like web framework for Nim.",
       "m": "0.16.0",
-      "s": ""
+      "s": "",
+      "x": [],
+      "y": []
     },
     {
       "v": "0.1.1@6c9bfa3607fd982958c09c92ed57913371d551a4",
@@ -119,21 +142,14 @@
         "httpbeast >= 0.2.2",
         "gh:timotheecour/asynctools #pr_fix_compilation"
       ],
-      "a": "Dominik Picheta",
-      "d": "A sinatra-like web framework (with plugins).",
-      "l": "MIT",
-      "s": "src",
-      "x": [
-        "tests"
-      ],
-      "y": [
-        "todo.markdown"
-      ],
-      "m": "1.2.0"
+      "m": "~",
+      "s": "",
+      "x": [],
+      "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:19Z",
+  "generatedAt": "2026-05-26T00:49:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

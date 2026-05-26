@@ -70,9 +70,6 @@
     {
       "v": "#head@9302d96efb5b4d0fc406e9eb20deca9c5465cef8",
       "r": [],
-      "a": "define-private-public",
-      "d": "HTML5 Canvas and drawing for the JavaScript backend.",
-      "l": "MIT",
       "y": [
         "kevin-bacon.jpg",
         "pattern.png",
@@ -83,7 +80,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:49Z",
+  "generatedAt": "2026-05-26T00:48:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

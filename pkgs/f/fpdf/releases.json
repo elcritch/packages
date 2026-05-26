@@ -14,7 +14,9 @@
       "r": [
         "zippy >= 0.10.0",
         "nimPNG >= 0.3.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@a24e394b3b08bef903343ad6aad5274d8cc74543",
@@ -22,15 +24,13 @@
         "zippy >= 0.10.0",
         "nimPNG >= 0.3.0"
       ],
-      "a": "akvilary",
       "d": "Pure Nim PDF generation library — create PDF documents with text, fonts, graphics, and images. Inspired by the PHP FPDF API.",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:55Z",
+  "generatedAt": "2026-05-26T00:47:55Z",
   "allDeps": {
     "packages": [
       "nimPNG",

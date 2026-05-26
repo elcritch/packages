@@ -15,7 +15,9 @@
     {
       "v": "0.1.0@eacf0970018c84ca9b9ad4717a984ee1e175dd4e",
       "r": [],
-      "x": []
+      "x": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.0.1@613d821bccae116681ad08048d565cc1c484e92e",
@@ -23,7 +25,9 @@
         "uuids >= 0.1.10",
         "regex >= 0.10.0"
       ],
-      "x": []
+      "x": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.0.2@488c7925a8e24f4db466abccb52a11b74c5b4bb6^",
@@ -31,7 +35,10 @@
         "uuids >= 0.1.10",
         "regex >= 0.10.0"
       ],
-      "d": "a skeleton/structure for a variation on the mvc pattern, similar to dci. For command line and gui programs. it's a middle ground between rapid application development and handling software complexity."
+      "d": "a skeleton/structure for a variation on the mvc pattern, similar to dci. For command line and gui programs. it's a middle ground between rapid application development and handling software complexity.",
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "#head@488c7925a8e24f4db466abccb52a11b74c5b4bb6",
@@ -39,11 +46,14 @@
         "uuids >= 0.1.10",
         "regex >= 0.10.0"
       ],
-      "d": "a skeleton/structure for a variation on the mvc pattern, similar to dci. For command line and gui programs. it's a middle ground between rapid application development and handling software complexity."
+      "d": "a skeleton/structure for a variation on the mvc pattern, similar to dci. For command line and gui programs. it's a middle ground between rapid application development and handling software complexity.",
+      "m": "~",
+      "s": "",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:38Z",
+  "generatedAt": "2026-05-26T00:56:33Z",
   "allDeps": {
     "packages": [
       "graphemes <= 0.0.2",

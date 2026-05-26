@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@01d0ece29d43ecace7628ce0aa11baa11790333c",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@422356ad8e2e47960f35930d708c4f1806d93780",
       "r": [],
-      "a": "Niminem (Leon Lysak)",
-      "d": "Nim wrapper for cglm, an optimized 3D math library written in C99",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:08Z",
+  "generatedAt": "2026-05-26T00:46:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

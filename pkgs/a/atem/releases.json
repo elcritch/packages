@@ -17,18 +17,24 @@
       "r": [
         "cligen",
         "dotenv"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@c07888a5ad5dd1bf47c7c42cbb2e0c3a8ef4f158",
       "r": [
         "cligen",
         "dotenv"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:12Z",
+  "generatedAt": "2026-05-26T00:45:04Z",
   "allDeps": {
     "packages": [
       "cligen",

@@ -10,20 +10,18 @@
   "releases": [
     {
       "v": "3.5@6fce9ce59b5569eb6ea5ab27289a9bde371df047",
-      "r": []
+      "r": [],
+      "s": ""
     },
     {
       "v": "#head@389448012ebf1b8a577c56247a85580e879a3709",
       "n": "llvm",
       "r": [],
-      "a": "Federico Omoto",
-      "d": "LLVM wrapper",
-      "l": "MIT",
-      "s": "src"
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:33Z",
+  "generatedAt": "2026-05-26T00:44:24Z",
   "allDeps": {
     "packages": [],
     "urls": [],

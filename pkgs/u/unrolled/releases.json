@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1@fae56e38fa316fd88a7bd6f5a52417422647ee9e",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@b4297abbbbcc842d28664719cbf544fd85376409",
       "r": [],
-      "a": "Felipe S. S. Schneider",
-      "d": "Unroll for-loops at compile-time.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:23Z",
+  "generatedAt": "2026-05-26T00:56:20Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

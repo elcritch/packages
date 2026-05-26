@@ -18,30 +18,33 @@
     {
       "v": "0.2.0@e3a39940cf7758e48e403e9c080c78f8d309aee5",
       "r": [],
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": "",
+      "k": []
     },
     {
       "v": "0.1.0@ffb993089fcd3322ccc0f0675643dd87fbc50fd7",
       "r": [
         "nigui >= 0.2.4",
         "cligen >= 1.3.2"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@836c36972e6ce8b06372651b959e8a9d41e8f50b",
       "r": [],
-      "a": "momeemt",
-      "d": "Color Library",
-      "l": "MIT",
-      "s": "src",
-      "k": [
-        "nim"
-      ],
-      "m": "1.4.0"
+      "p": [],
+      "m": "~",
+      "s": "",
+      "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:37Z",
+  "generatedAt": "2026-05-26T00:44:29Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

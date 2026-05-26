@@ -25,14 +25,13 @@
   "releases": [
     {
       "v": "0.1.0@adeea8be88efacb5e7a1408f58ac6ce99a6583c1",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "#head@4e60fd1c4c08241cc22336362fc4f487c633299c",
       "r": [],
-      "a": "Stefan Salewski",
-      "d": "Low level bindings for GTK3 related libraries",
-      "l": "MIT",
       "x": [
         "common",
         "nim-atk",
@@ -49,11 +48,11 @@
         "nim-rsvg",
         "oldgtk3.bak"
       ],
-      "m": "0.17.0"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:55Z",
+  "generatedAt": "2026-05-26T00:52:59Z",
   "allDeps": {
     "packages": [],
     "urls": [],

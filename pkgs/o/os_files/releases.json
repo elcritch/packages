@@ -36,14 +36,11 @@
         "oldgtk3",
         "jsbind",
         "darwin"
-      ],
-      "a": "Tormund",
-      "d": "Native file dialogs (x11, windows, osx) with extension filters and predefined path.\n    System file icons in any resolution (x11 with theme support, windows, osx).\n    Open file in default application (x11, windows, osx)",
-      "l": "MIT"
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:07Z",
+  "generatedAt": "2026-05-26T00:53:11Z",
   "allDeps": {
     "packages": [
       "darwin",

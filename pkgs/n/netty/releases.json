@@ -13,18 +13,24 @@
       "v": "0.2.1@7b4266458b7435349b28a4468e0af58f1674b198",
       "r": [
         "flatty >= 0.2.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@ec196f85a989653d777cc0ac9c3b617300d88695",
       "r": [
         "snappy >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@db40abe3f952f4a4441e2a9d9c90742bfc603bbb",
       "r": [],
-      "d": "Netpipe is a reliable UDP connection for Nim."
+      "d": "Netpipe is a reliable UDP connection for Nim.",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@d237fb234ad9de618224abf16249e4e7b349ac0c",
@@ -32,14 +38,12 @@
         "flatty >= 0.3.4"
       ],
       "a": "Andre von Houck",
-      "d": "Netty is a reliable UDP connection for games in Nim.",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.19.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:03Z",
+  "generatedAt": "2026-05-26T00:51:05Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

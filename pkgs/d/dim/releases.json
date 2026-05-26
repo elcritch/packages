@@ -13,22 +13,19 @@
   "releases": [
     {
       "v": "0.1.0@a195ff04c7f3d05a854c18f4acdc9faabe4f4d8d",
-      "r": []
+      "r": [],
+      "m": "~",
+      "i": []
     },
     {
       "v": "#head@8adfd48d1afc0adc1b457ab9edaf7d8be681a936",
       "r": [],
-      "a": "lorenzoliuzzo",
-      "d": "Dimensional Analysis in Nim",
-      "l": "GPL-3.0-or-later",
-      "i": [
-        "dim"
-      ],
-      "m": "2.0.2"
+      "m": "~",
+      "i": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:02Z",
+  "generatedAt": "2026-05-26T00:46:56Z",
   "allDeps": {
     "packages": [],
     "urls": [],

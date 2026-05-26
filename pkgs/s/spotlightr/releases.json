@@ -13,42 +13,45 @@
       "v": "0.1.0@915d5e743fe0dcc7639c4d3d57447878558d61b6",
       "r": [
         "util"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@85587767e95969505df3609bd44a7f5d9a56132c",
       "r": [
         "util"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.2@ba38322e477ef1791329099374fb436f7d46748c",
       "r": [
         "util"
       ],
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "s": ""
     },
     {
       "v": "0.1.3@1973dd642ee926ead57acd6a25631bf67c0e7cd8",
       "r": [
         "util"
       ],
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "s": ""
     },
     {
       "v": "#head@d12ecf7dc4f8bf146fa00248941700278392c5c5",
       "r": [
         "util"
       ],
-      "a": "Thiago Navarro",
-      "d": "Spotlightr basic extractor to get the video",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:08Z",
+  "generatedAt": "2026-05-26T00:55:09Z",
   "allDeps": {
     "packages": [
       "util"

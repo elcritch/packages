@@ -11,20 +11,20 @@
   "releases": [
     {
       "v": "0.1.0@78d71248357c5175e2e5a7406efc45a3e8460d12",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@72f05b9fad16de9f3e62846828de699e4462077a",
       "r": [],
-      "a": "metagn",
       "d": "tie compile-time values to types under names",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:33Z",
+  "generatedAt": "2026-05-26T00:49:37Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -13,36 +13,37 @@
       "v": "0.1.2@258d56f665fc28a3206c87b3a94641f92a45d4b7",
       "r": [
         "science"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@f0309912c215d0bae83c443e15849c7c65c6d75c",
       "r": [
         "science"
       ],
-      "m": "0.18.0"
+      "m": "0.18.0",
+      "s": ""
     },
     {
       "v": "0.1.0@5bdcf3776e46d4ec2b7b2df6af60808698a47972",
       "r": [
         "science"
       ],
-      "m": "0.18.0"
+      "m": "0.18.0",
+      "s": ""
     },
     {
       "v": "#head@759f97c6216845e726429ce2833d162cc17780cf",
       "r": [
         "science"
       ],
-      "a": "Rui Vieira",
-      "d": "Machine learning library for Nim",
-      "l": "Apache2",
-      "s": "src",
-      "m": "0.19.4"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:25Z",
+  "generatedAt": "2026-05-26T00:50:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

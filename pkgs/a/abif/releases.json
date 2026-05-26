@@ -29,7 +29,12 @@
         "nimsvg >= 0.1.0"
       ],
       "h": true,
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "x": [],
+      "o": {}
     },
     {
       "v": "0.1.0@d02c93770348c9052ecf9079526314e31a8a714f",
@@ -37,34 +42,27 @@
       "h": true,
       "s": "",
       "b": "",
-      "o": {}
+      "o": {},
+      "m": "~",
+      "x": [],
+      "p": []
     },
     {
       "v": "#head@45f17023cd9acb04b0c177865129b6694450b631",
-      "n": "abif",
       "r": [
         "nimsvg >= 0.1.0"
       ],
       "h": true,
-      "a": "Andrea Telatin, Claude AI",
-      "d": "ABIF (Applied Biosystems Information Format) parser for DNA sequencing data",
-      "l": "MIT",
-      "s": "src",
-      "b": "bin",
-      "x": [
-        "tests"
-      ],
-      "o": {
-        "abichromatogram": "abichromatogram",
-        "abi2fq": "abi2fq",
-        "abimerge": "abimerge",
-        "abimetadata": "abimetadata"
-      },
-      "m": "1.6.0"
+      "p": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "x": [],
+      "o": {}
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:45Z",
+  "generatedAt": "2026-05-26T00:44:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

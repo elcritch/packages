@@ -14,25 +14,31 @@
       "r": [
         "nimsimd >= 1.3.2",
         "shakar >= 0.1.3"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@58fc995992720ea9ed8cae7c5a42d13245a5ae2a",
       "r": [
         "nimsimd >= 1.3.2",
         "shakar >= 0.1.3"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@13cf1cab8157f4aebd6f1313c8203d0576e42539",
       "r": [
         "nimsimd >= 1.3.2",
         "shakar >= 0.1.3"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:08Z",
+  "generatedAt": "2026-05-26T00:53:12Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

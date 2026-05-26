@@ -11,56 +11,73 @@
   "releases": [
     {
       "v": "1.1.4@4983bae80a7e6f2629dec7e948b2fb0faa27f79f",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.1.3@ba4c9c5f598cbc2774a3e8c7ec76ecd2bbb2b2c7",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.1.2@de77d2ea5bf5bce1612b4d615671eeaff5afd391",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.1.1@0d4c446b8a057e69007dcf6ad0d4dbc3c6d6d503",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.1.0@08dc0d82b231ff523f75d597411720bd5672c465",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.4@fb729b447936f9e3eecfee67c74f5635afa11fff",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.3@5ddad531eaf28258d7c5feb07a95f70ccd042224",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.2@def27daf9938a5b5ae09cfaa861857c39706c2e5",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.1@fb468ffa7cbbd26a2ed65a1efb7bae0c00ee15d4",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.0@1489f419126264878553b240752f75e5cb052018",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@1c2eede7e2fbe05b0498537a6f82be8063e093d6",
       "r": [],
-      "a": "Jack Tang",
-      "d": "Least recently used (LRU) cache",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:09Z",
+  "generatedAt": "2026-05-26T00:50:12Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

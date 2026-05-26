@@ -17,32 +17,35 @@
       "v": "1.0.1@d6e0eb467dce561554bd344261379b92520cd9f0",
       "r": [
         "fsnotify >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "1.0.0@7eb8a01762cbca3a612deaa9ec7fc5ca890d86b3",
       "r": [
         "fsnotify >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "#head@a73d402ce76642c8792faa265e3e0c232dac75bd",
       "r": [
         "fsnotify >= 0.1.4"
       ],
-      "a": "Eugene Medvedev (R2AZE)",
-      "d": "An amateur radio tool to get you a ballpark estimate of where a given Maidenhead grid square is.",
-      "l": "MIT",
-      "s": "src",
-      "b": "build",
-      "p": [
-        "ballpark"
-      ],
-      "m": "1.4.8"
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:24Z",
+  "generatedAt": "2026-05-26T00:45:16Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -13,23 +13,29 @@
       "v": "1.1.0@dc75d5eae15e4cb8fa635058c468f8c5c27629b8^",
       "r": [
         "nimsimd >= 1.3.2"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.0@7a5d2487acffab6063c0a44d2208b7f1d40d6a44",
       "r": [
         "nimsimd >= 1.3.2"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@dc75d5eae15e4cb8fa635058c468f8c5c27629b8",
       "r": [
         "nimsimd >= 1.3.2"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:51Z",
+  "generatedAt": "2026-05-26T00:47:50Z",
   "allDeps": {
     "packages": [
       "nimsimd"

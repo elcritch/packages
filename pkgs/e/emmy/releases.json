@@ -21,7 +21,10 @@
         "neo >= 0.2.4",
         "bigints >= 0.4.3",
         "stint >= 0.0.1"
-      ]
+      ],
+      "m": "~",
+      "x": [],
+      "y": []
     },
     {
       "v": "0.1.0@9060c0e2785b10a18fbc107cbf37b36361ef00ef",
@@ -29,30 +32,24 @@
         "neo >= 0.2.4",
         "bigints >= 0.4.2",
         "stint >= 0.0.1"
-      ]
+      ],
+      "m": "~",
+      "x": [],
+      "y": []
     },
     {
       "v": "#head@c135a25cc9e899a4c231b6d2a42dd911581d82f0",
-      "n": "emmy",
       "r": [
         "bigints >= 0.4.2",
         "stint >= 0.0.1"
       ],
-      "a": "Andrea Ferretti",
-      "d": "Algebra for Nim",
-      "l": "Apache2",
-      "x": [
-        "tests"
-      ],
-      "y": [
-        "emmy.html",
-        "emmy.png"
-      ],
-      "m": "0.19"
+      "m": "~",
+      "x": [],
+      "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:24Z",
+  "generatedAt": "2026-05-26T00:47:15Z",
   "allDeps": {
     "packages": [
       "bigints",

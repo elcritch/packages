@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@53a183b375c4db82fb9b2b1c4923a4bf5671c37d",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@62d18ebf79434dc382a75effa5a7f936e9515893",
       "r": [],
-      "a": "Juan Carlos",
-      "d": "Euclidean Division & Euclidean Modulo",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.20.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:30Z",
+  "generatedAt": "2026-05-26T00:47:23Z",
   "allDeps": {
     "packages": [],
     "urls": [],

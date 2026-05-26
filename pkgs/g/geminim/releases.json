@@ -14,41 +14,46 @@
   "releases": [
     {
       "v": "0.1.0@47ede2b0053a5cec0c801cf0efa02f71df92fa63",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.1.2@23f46385ed4ad7df668386e323d624bb801078f6",
       "r": [],
       "l": "BSD2",
-      "m": "1.2.6"
+      "m": "1.2.6",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.1.4@18389a7e28bfed86ac3d4648ff00ec4e258b8c6f",
       "r": [],
       "l": "BSD2",
-      "m": "1.4.0"
+      "m": "1.4.0",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.1.5@7a08b7be19dfe306561f3176572ee613efca6a9e",
       "r": [],
       "l": "BSD2",
-      "m": "1.4.0"
+      "m": "1.4.0",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@053883efc9d432b65ba25e7db570487795ef4bb6",
       "r": [],
-      "a": "IDF",
-      "d": "A simple gemini server written in nim",
       "l": "BSD2",
-      "s": "src",
-      "p": [
-        "geminim"
-      ],
-      "m": "1.4.0"
+      "m": "1.4.0",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:07Z",
+  "generatedAt": "2026-05-26T00:48:06Z",
   "allDeps": {
     "packages": [],
     "urls": [],

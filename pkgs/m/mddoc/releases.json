@@ -14,27 +14,29 @@
   "releases": [
     {
       "v": "0.0.4@81488710f60958dde18c4963975cdc8e8e3a8820",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.0.3@bc49c179c2575f58c8a4a9faef7bb5fda18c5604",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@b330712aa8ad15eea2891550a9ca156914fcde88",
       "r": [],
       "a": "Andre von Houck",
-      "d": "Generate Nim API docs in markdown for GitHub's README.md files.",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "mddoc"
-      ],
-      "m": "1.4.0"
+      "m": "1.4.0",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:22Z",
+  "generatedAt": "2026-05-26T00:50:25Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -11,35 +11,35 @@
   "releases": [
     {
       "v": "0.2.3@488e5e740fdd27936ffb4f068c4f3a062380668a",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.2@2af942ed941a7043a825967f7145d04bdb178cb5",
       "r": [],
-      "m": "2.0.2"
+      "m": "2.0.2",
+      "s": ""
     },
     {
       "v": "0.2.1@28f523647af2842136222f72fc4b7db64102fbb0",
       "r": [],
-      "m": "2.0.2"
+      "m": "2.0.2",
+      "s": ""
     },
     {
       "v": "0.2.0@aeca7949e6df524c1cc5111726b079ee87bba7ff",
       "r": [],
-      "m": "2.0.2"
+      "m": "2.0.2",
+      "s": ""
     },
     {
       "v": "#head@76a966e413fc558f5c9787e82a820523fe29862b",
-      "r": [],
-      "a": "penguinite",
-      "d": "A simple and somewhat extensible templating library",
-      "l": "BSD-3-Clause",
-      "s": "src",
-      "m": "1.6.8"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:44Z",
+  "generatedAt": "2026-05-26T00:55:43Z",
   "allDeps": {
     "packages": [],
     "urls": [],

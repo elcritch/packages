@@ -13,59 +13,69 @@
       "v": "1.3.0@42ca52904e6ebdf15ed44a91ec8286755e5eb10c",
       "r": [
         "eastasianwidth >= 1.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.2.1@1cecf5ac1998a7f6f2742b324e7fbc1a183eedcf",
       "r": [
         "eastasianwidth >= 1.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.2.0@04032f927c3c0dbaadadb7e0ae56f341697d3cc2",
       "r": [
         "eastasianwidth >= 1.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.1.2@c770cd8b88f652abffa577aff64dca83e0581968",
       "r": [
         "eastasianwidth >= 1.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.1.1@fa10399a23f7196594fe056006b2c28ca8308ba8",
       "r": [
         "eastasianwidth >= 1.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.1.0@fa88a40552152249c3720a9ff96ec124d8651b37",
       "r": [
         "eastasianwidth >= 1.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.0@e2b725cc3064860dfa884e22df2f890c08203f9e",
       "r": [
         "eastasianwidth >= 1.1.0"
       ],
-      "m": "0.19.6"
+      "m": "0.19.6",
+      "s": ""
     },
     {
       "v": "#head@1c30eb39401fd2dc31beb61f056182010bf0b1b9",
       "r": [
         "eastasianwidth >= 1.1.0"
       ],
-      "a": "jiro4989",
-      "d": "alignment is a library to align strings.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:50Z",
+  "generatedAt": "2026-05-26T00:44:41Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

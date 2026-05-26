@@ -15,24 +15,20 @@
     {
       "v": "1.0.0@2a9cebb6c9c9de6d34662b2cafdef1caa4af4c67",
       "r": [],
-      "h": true
+      "h": true,
+      "m": "~",
+      "x": []
     },
     {
       "v": "#head@a1053f44ae8866c7d96372b072e9a611831e5a0d",
       "r": [],
       "h": true,
-      "a": "kevin",
-      "d": "High level GObject-Introspection based GTK4/GTK3 bindings (revived, Nim 2.x compatible)",
-      "l": "MIT",
-      "x": [
-        "examples",
-        "tests"
-      ],
-      "m": "2.0.0"
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:17Z",
+  "generatedAt": "2026-05-26T00:48:18Z",
   "allDeps": {
     "packages": [],
     "urls": [],

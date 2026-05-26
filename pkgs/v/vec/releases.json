@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "1.0@c884fdf6a7fd185fd1da4fa4a0da0d0d812378e1",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@ac6a04f0798c92570955bb6ccbe99b77fdab62dd",
       "r": [],
-      "a": "Dominik Picheta",
-      "d": "A very simple vector library.",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.19.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:32Z",
+  "generatedAt": "2026-05-26T00:56:28Z",
   "allDeps": {
     "packages": [],
     "urls": [],

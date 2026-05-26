@@ -14,23 +14,21 @@
   "releases": [
     {
       "v": "0.0.1@4074249aa9419c755336774f4196dbd72ada7f5e",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@ad261211b3ba0e3c39bd6815ef1a0f67ace9f83e",
       "r": [],
-      "a": "Patrick Klitzke",
-      "d": "A simple tool to update nimble version",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "update_nimble_version"
-      ],
-      "m": "1.6.6"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:24Z",
+  "generatedAt": "2026-05-26T00:56:20Z",
   "allDeps": {
     "packages": [],
     "urls": [],

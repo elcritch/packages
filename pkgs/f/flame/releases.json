@@ -16,22 +16,24 @@
       "v": "0.1.0@11ff5e12642d186befcda926dde859f63840da47",
       "r": [
         "sdl2 >= 2.0.5"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@eb02f9155f868c466e3e097efa9beaab4f481972",
       "r": [
         "sdl2 >= 2.0.5"
       ],
-      "a": "Navid M",
       "d": "High level music or audio synthesis and sequencing library that wraps SDL2",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.2.0"
+      "p": [],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:50Z",
+  "generatedAt": "2026-05-26T00:47:48Z",
   "allDeps": {
     "packages": [
       "sdl2"

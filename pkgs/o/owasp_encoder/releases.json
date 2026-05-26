@@ -11,28 +11,31 @@
   "releases": [
     {
       "v": "0.5.2@bac66800de22b70325e6342e058741c10e45e52d",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.5.1@ff2306fc84561e858e685c22ca04e3e870a325ef",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.5.0@fa7ce473492a4c578ed6e893729190248427fdba",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@cff994d2667640d197022dd29243aa6d365b353b",
       "r": [],
-      "a": "Kelvin Tan",
-      "d": "A Nim port of the OWASP Java Encoder for context-aware, secure output encoding.",
-      "l": "BSD-3-Clause",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:09Z",
+  "generatedAt": "2026-05-26T00:53:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

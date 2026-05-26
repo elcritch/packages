@@ -14,23 +14,22 @@
   "releases": [
     {
       "v": "0.1.0@40f8eb54965e7063a43d92b8b7326c9543abb83a",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "#head@78bd220395bff34e4edd1eec450b302b257e1603",
       "r": [],
-      "a": "Lihaifeng <lihaifeng@wxm.com>",
       "d": "A miniblink library for nim.",
-      "l": "MIT",
-      "s": "src",
-      "x": [
-        "examples"
-      ],
-      "m": "1.2.0"
+      "m": "~",
+      "s": "",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:32Z",
+  "generatedAt": "2026-05-26T00:50:34Z",
   "allDeps": {
     "packages": [],
     "urls": [],

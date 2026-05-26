@@ -12,36 +12,39 @@
     {
       "v": "1.0.4@6ca99690e3ac33e4c75226450e2a30291e7934f2",
       "r": [],
-      "h": true
+      "h": true,
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.3@388e6239cc884847a094b6be779120ab060c2e9c",
       "r": [],
-      "h": true
+      "h": true,
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.2@03748661dbb84ce981c78248428427cef543cbbc",
       "r": [],
-      "h": true
+      "h": true,
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.0@bf617c82fe75818b27b97d8a964dff2c00bda6cb",
       "r": [],
-      "h": true
+      "h": true,
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@ebd094ff80440267c3e340b1981fae4a52da1ebc",
       "r": [],
-      "h": true,
-      "a": "Caroline Marceano [Albassort]",
-      "d": "A high-level and easy to use PGP library. Using Rust & Sequoia-PGP on the backend!",
-      "l": "MIT",
-      "s": "src/",
-      "m": "2.0.6"
+      "h": true
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:17Z",
+  "generatedAt": "2026-05-26T00:51:19Z",
   "allDeps": {
     "packages": [],
     "urls": [],

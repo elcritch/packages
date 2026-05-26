@@ -16,7 +16,9 @@
         "error://requests"
       ],
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nim-agify.nemuelw.github.com-f9ef04e8-agify.nimble\ncannot resolve package name: requests"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nim-agify.nemuelw.github.com-f9ef04e8-agify.nimble\ncannot resolve package name: requests",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@a182bcd789d8d640f7d4357b0113af614ec09c2d",
@@ -24,15 +26,12 @@
         "jsony",
         "results"
       ],
-      "a": "Nemuel Wainaina",
-      "d": "Nim wrapper for the Agify.io API",
-      "l": "GPL-3.0-only",
-      "s": "src",
-      "m": "1.6"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:47Z",
+  "generatedAt": "2026-05-26T00:44:38Z",
   "allDeps": {
     "packages": [
       "jsony",

@@ -13,29 +13,37 @@
       "v": "0.3.0@7d5f80f2cf0ecebd429511e370b155c33e710f85^",
       "r": [
         "vmath"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@b025a8c8e75915746917b7f976b0f4dc351f79cd",
       "r": [
         "vmath"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@6503964e0855138024c0f6793b469a7cdcaf773f",
       "r": [
         "vmath"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@7d5f80f2cf0ecebd429511e370b155c33e710f85",
       "r": [
         "vmath"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:36Z",
+  "generatedAt": "2026-05-26T00:45:27Z",
   "allDeps": {
     "packages": [
       "mddoc",

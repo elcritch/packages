@@ -13,21 +13,27 @@
   "releases": [
     {
       "v": "0.1.0@bca00628e5f411027b1f8ec115cad2cf8a631e0d",
-      "r": []
+      "r": [],
+      "m": "~",
+      "y": []
     },
     {
       "v": "0.1.1@8e91b610fa93293df26db842c4099836ebb8c007^",
       "r": [],
-      "d": "An efficient HTTP parser written in pure nim. Help you to write HTTP services or clients via TCP, UDP, or even Unix Domain socket, etc."
+      "d": "An efficient HTTP parser written in pure nim. Help you to write HTTP services or clients via TCP, UDP, or even Unix Domain socket, etc.",
+      "m": "~",
+      "y": []
     },
     {
       "v": "#head@8e91b610fa93293df26db842c4099836ebb8c007",
       "r": [],
-      "d": "An efficient HTTP parser written in pure nim. Help you to write HTTP services or clients via TCP, UDP, or even Unix Domain socket, etc."
+      "d": "An efficient HTTP parser written in pure nim. Help you to write HTTP services or clients via TCP, UDP, or even Unix Domain socket, etc.",
+      "m": "~",
+      "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:54Z",
+  "generatedAt": "2026-05-26T00:48:57Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@e672ef56b136cf5e8b5e6025b71d9faff80ccf8b",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@5b2b65b5f2bbe2611e5ecefd2d1c1a7ef5333020",
       "r": [],
-      "a": "bichanna",
-      "d": "Convert big numbers to what's pleasant to see (an adorable, little girl, perhaps?) ... in Nim!",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:30Z",
+  "generatedAt": "2026-05-26T00:50:33Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

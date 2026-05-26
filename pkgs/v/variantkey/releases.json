@@ -22,33 +22,36 @@
       "r": [
         "nimgen"
       ],
-      "h": true
+      "h": true,
+      "s": "",
+      "x": [],
+      "k": [],
+      "p": []
     },
     {
       "v": "0.0.2@3a51a4ab45f8407078ae57555d37e52085e2486a",
       "r": [],
       "h": true,
-      "p": []
+      "p": [],
+      "s": "",
+      "x": [],
+      "k": []
     },
     {
       "v": "#head@6c191d75fb722e1c2e929b261b34afadd3a1a681",
       "r": [],
-      "a": "Brent Pedersen",
-      "d": "encode variants to uint64",
-      "l": "MIT",
-      "s": "src",
-      "x": [
-        "tests"
-      ],
       "k": [
         "nim",
         "c",
         "h"
-      ]
+      ],
+      "p": [],
+      "s": "",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:31Z",
+  "generatedAt": "2026-05-26T00:56:27Z",
   "allDeps": {
     "packages": [
       "c2nim <= 0.0.1",

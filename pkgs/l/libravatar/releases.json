@@ -11,43 +11,51 @@
   "releases": [
     {
       "v": "0.1.0@2a5674416a9c932844df0fea482e70c78c2ca423",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@876fdfeff9a6d96d15a958407bfcf985525cad58",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.2@ab49d79f82014f07b26cdbc0bb0f09ace67b2240",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.4.0@2f6abb9a57285f445cc56e581f2a25e8e133ec72",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.5.0@cc0ae8cb16d790b5924959d97a3d6c8acf361e11",
       "r": [],
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "s": ""
     },
     {
       "v": "0.5.5@475d936c54f5add775be60ce9cc74e4e4f2d663f",
       "r": [],
       "l": "MIT",
-      "m": "1.4.2"
+      "m": "1.4.2",
+      "s": ""
     },
     {
       "v": "#head@32261ce245c296d5d2b69d4d31a0dcb3eac275b8",
       "r": [],
-      "a": "Juan Carlos",
-      "d": "Libravatar library for Nim, Gravatar alternative. Libravatar is an open source free federated avatar api & service.",
       "l": "MIT",
-      "s": "src",
-      "m": "1.4.2"
+      "m": "1.4.2",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:49Z",
+  "generatedAt": "2026-05-26T00:49:52Z",
   "allDeps": {
     "packages": [],
     "urls": [],

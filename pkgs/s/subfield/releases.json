@@ -15,24 +15,21 @@
       "v": "0.1.0@ec45c02f7255dafc93d782135b7fb141020d644e",
       "r": [
         "einheit >= 0.1.6"
-      ]
+      ],
+      "m": "~",
+      "p": []
     },
     {
       "v": "#head@09c635039dfdcd87977e9691379ac4e70f4bbf80",
       "r": [
         "einheit >= 0.1.6"
       ],
-      "a": "Joey Payne",
-      "d": "A sub-field accessor macro for the Nim programming language.",
-      "l": "MIT",
-      "p": [
-        "subfield"
-      ],
-      "m": "0.14.0"
+      "m": "~",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:23Z",
+  "generatedAt": "2026-05-26T00:55:23Z",
   "allDeps": {
     "packages": [
       "einheit"

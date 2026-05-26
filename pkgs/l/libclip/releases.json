@@ -13,22 +13,21 @@
       "v": "0.1.0@979d01a1a25225185217a7817c60af258880948b",
       "r": [
         "winim >= 3.9.4"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@842e0863f3d418e79aef44ed4b8aa205792d0cc9",
       "r": [
         "winim >= 3.9.4"
       ],
-      "a": "Laszlo Szathmary <jabba.laci@gmail.com>",
-      "d": "A cross-platform Nim library for reading/writing text from/to the clipboard",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.2.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:42Z",
+  "generatedAt": "2026-05-26T00:49:46Z",
   "allDeps": {
     "packages": [
       "winim"

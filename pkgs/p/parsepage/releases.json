@@ -20,7 +20,10 @@
         "gl:lurlo/useragent",
         "scraper"
       ],
-      "b": ""
+      "b": "",
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "1.0.0@609d5f37101b80846357320aa4e87a0001ed054e",
@@ -33,7 +36,10 @@
         "nimquery",
         "yaml"
       ],
-      "m": "1.6.4"
+      "m": "1.6.4",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "1.1.0@c9bc3b2fcbb9874e9967ac82fe1abff9fa74c46d",
@@ -46,7 +52,10 @@
         "nimquery",
         "yaml"
       ],
-      "m": "1.6.4"
+      "m": "1.6.4",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "1.2.0@d6d40f9dac01815828945e38e47f6a2baefd78ad",
@@ -60,7 +69,10 @@
         "yaml",
         "css_html_minify"
       ],
-      "m": "1.6.4"
+      "m": "1.6.4",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "1.2.1@70281cb6c6aa3f79b9c126a6581267c4db9555e9",
@@ -74,7 +86,10 @@
         "yaml",
         "css_html_minify"
       ],
-      "m": "1.6.4"
+      "m": "1.6.4",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "#head@cfead41fda0f519a2e18875262471b8d31f34bda",
@@ -89,18 +104,14 @@
         "css_html_minify"
       ],
       "a": "Thiago Navarro",
-      "d": "Automatically extracts the data of sites",
-      "l": "GPL-3.0-only",
-      "s": "src",
-      "b": "build",
-      "p": [
-        "parsepage"
-      ],
-      "m": "1.6.4"
+      "m": "1.6.4",
+      "s": "",
+      "b": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:19Z",
+  "generatedAt": "2026-05-26T00:53:23Z",
   "allDeps": {
     "packages": [
       "cligen",

@@ -26,7 +26,11 @@
         "gintro 0.9.9"
       ],
       "h": true,
-      "s": ""
+      "s": "",
+      "m": "~",
+      "i": [],
+      "j": [],
+      "p": []
     },
     {
       "v": "0.6.1@ce34e0e2c3f0a856ba291c446479ad24ec8d4618",
@@ -34,7 +38,11 @@
         "gintro #d9a5fba5a39fd50c2014a175140f7e9c7635a091"
       ],
       "h": true,
-      "s": ""
+      "s": "",
+      "m": "~",
+      "i": [],
+      "j": [],
+      "p": []
     },
     {
       "v": "0.6.0@94067a0550a55f174de582936e546d666a30a76e",
@@ -42,7 +50,11 @@
         "gintro #head"
       ],
       "h": true,
-      "s": ""
+      "s": "",
+      "m": "~",
+      "i": [],
+      "j": [],
+      "p": []
     },
     {
       "v": "0.5.0@9fca3cc77cd861cd32e7d026895ddef777996911",
@@ -51,7 +63,9 @@
       ],
       "m": "1.6.4",
       "i": [],
-      "j": []
+      "j": [],
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@de4ac31831fdfa87120f263fb9e7ca4277b69f8c",
@@ -59,25 +73,15 @@
         "gintro 0.9.9"
       ],
       "h": true,
-      "a": "Adam Múdry",
-      "d": "Drag and drop source / target",
-      "l": "GPL-3.0-only",
-      "i": [
-        "resources",
-        "examples"
-      ],
-      "j": [
-        "dnd.cfg",
-        "README.md"
-      ],
-      "p": [
-        "dnd"
-      ],
-      "m": "1.6.2"
+      "s": "",
+      "m": "~",
+      "i": [],
+      "j": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:08Z",
+  "generatedAt": "2026-05-26T00:47:00Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

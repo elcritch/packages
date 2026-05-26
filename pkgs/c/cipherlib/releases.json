@@ -11,24 +11,25 @@
   "releases": [
     {
       "v": "0.1.1@a2ad8f0bdfcff87821d9dc4c1f99fba3fa9be4c3",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@57df843a8314063e2dac3a59f0d7017c9f76d750",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@0fd8c06cd93ade88e11b00822729c9e4977c5729",
       "r": [],
-      "a": "ph4mished",
-      "d": "A collection of classical cipher and encoding algorithms including Caesar, ROT13, ROT47, Vigenere, Morse code and other implementations in one library for educational and practical use",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.2.4"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:17Z",
+  "generatedAt": "2026-05-26T00:46:12Z",
   "allDeps": {
     "packages": [],
     "urls": [],

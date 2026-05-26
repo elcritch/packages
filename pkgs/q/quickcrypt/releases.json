@@ -19,35 +19,50 @@
       "r": [
         "nimAES >= 0.1.2",
         "neoid >= 0.3.0"
-      ]
+      ],
+      "m": "~",
+      "x": [],
+      "y": []
     },
     {
       "v": "0.1.3@9743c09f460d0620691201c421a0363c7870d0a6",
       "r": [
         "nimAES >= 0.1.2",
         "neoid >= 0.3.0"
-      ]
+      ],
+      "m": "~",
+      "x": [],
+      "y": []
     },
     {
       "v": "0.1.2@32fdb3af967f062245295d461d58230242f79bfa",
       "r": [
         "nimAES >= 0.1.2",
         "neoid >= 0.3.0"
-      ]
+      ],
+      "m": "~",
+      "x": [],
+      "y": []
     },
     {
       "v": "0.1.1@ea681f0a9aec14d78ea34388e02fba432268589d",
       "r": [
         "nimAES >= 0.1.2",
         "neoid >= 0.3.0"
-      ]
+      ],
+      "m": "~",
+      "x": [],
+      "y": []
     },
     {
       "v": "0.1.0@27cd589e4aad6dc02ac6209b79f4aa24e7238990",
       "r": [
         "nimAES >= 0.1.2",
         "neoid >= 0.3.0"
-      ]
+      ],
+      "m": "~",
+      "x": [],
+      "y": []
     },
     {
       "v": "#head@b2c6952504bc6528a9b47717b5593f4fe0209f97",
@@ -55,20 +70,13 @@
         "nimAES >= 0.1.2",
         "neoid >= 0.3.0"
       ],
-      "a": "Akito <the@akito.ooo>",
-      "d": "A library for quickly and easily encrypting strings and text file content.",
-      "l": "GPL-3.0-or-later",
-      "x": [
-        "tasks"
-      ],
-      "y": [
-        "README.md"
-      ],
-      "m": "1.4.0"
+      "m": "~",
+      "x": [],
+      "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:57Z",
+  "generatedAt": "2026-05-26T00:54:01Z",
   "allDeps": {
     "packages": [
       "neoid",

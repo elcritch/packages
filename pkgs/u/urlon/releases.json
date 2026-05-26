@@ -11,15 +11,19 @@
   "releases": [
     {
       "v": "0.1@2ebbae97299749aac6bc8ffd4573ec5bb333fead^",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@2ebbae97299749aac6bc8ffd4573ec5bb333fead",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:26Z",
+  "generatedAt": "2026-05-26T00:56:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

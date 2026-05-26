@@ -15,24 +15,21 @@
       "v": "1.0.0@53a9a39a5ad1e01883dfa3ec678e4e0b1d87b8d9",
       "r": [
         "random >= 0.5.7"
-      ]
+      ],
+      "m": "~",
+      "i": []
     },
     {
       "v": "#head@b7494d07ec0f2190afcf2f7f5dbb8244096d98e6",
       "r": [
         "random >= 0.5.7"
       ],
-      "a": "termer",
-      "d": "A high-level Nim Argon2 password hashing library",
-      "l": "MIT",
-      "i": [
-        "phc-winner-argon2"
-      ],
-      "m": "1.6.2"
+      "m": "~",
+      "i": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:59Z",
+  "generatedAt": "2026-05-26T00:44:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

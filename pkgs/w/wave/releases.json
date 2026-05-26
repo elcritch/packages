@@ -11,24 +11,25 @@
   "releases": [
     {
       "v": "1.1.0@c070256c4b0b5635ea0f46e3b38a77440fdc29e5",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.0@a072d1cd973baa831e1ecc58860243f3d54d487d",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@d07397a7c6cba35525a9e88afb9f7a90e6cad78c",
       "r": [],
-      "a": "jiro4989",
-      "d": "wave is a tiny WAV sound module",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.4"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:43Z",
+  "generatedAt": "2026-05-26T00:56:39Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

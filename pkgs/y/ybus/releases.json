@@ -16,7 +16,9 @@
         "flatty >= 0.3.4",
         "results >= 0.5.1",
         "pretty >= 0.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@041d8dc6e52c0ea06be48017102b7c2007ccf9a2",
@@ -25,11 +27,13 @@
         "flatty >= 0.3.4",
         "results >= 0.5.1",
         "pretty >= 0.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:54:22Z",
+  "generatedAt": "2026-05-26T00:57:19Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

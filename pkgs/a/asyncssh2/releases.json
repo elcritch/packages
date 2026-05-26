@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@75b83bb43db34b72764f6bd7851abfd319930b8d",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@badae9032e9443f51941acbfeb0e9823d8b74c10",
       "r": [],
-      "a": "up7down8",
-      "d": "Execute commands and upload/download files using multiple processes and asynchronous methods via SSH.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:11Z",
+  "generatedAt": "2026-05-26T00:45:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -22,22 +22,27 @@
         "kapsis",
         "denim",
         "jsony"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@faa5a123c540b1f00cd0861b25b0f1e408ae6c77",
       "r": [
         "openparser #head"
       ],
-      "a": "George Lemon",
-      "d": "A stupid simple Markdown library",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "b": "",
+      "k": [],
+      "p": [],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:18Z",
+  "generatedAt": "2026-05-26T00:50:21Z",
   "allDeps": {
     "packages": [
       "ansiparse",

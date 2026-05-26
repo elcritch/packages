@@ -20,14 +20,22 @@
       "r": [
         "Nimscripter",
         "cligen"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.2.0@49287db4fa1401c0d56efed6f6a88c843eca4b82",
       "r": [
         "Nimscripter",
         "cligen"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@8649f0a7bf712ddc56925e41521647a1706a7186",
@@ -35,21 +43,14 @@
         "Nimscripter",
         "cligen"
       ],
-      "a": "Peter Munch-Ellingsen",
-      "d": "Nim for microcontrollers",
-      "l": "MIT",
-      "s": "src",
-      "k": [
-        "nim"
-      ],
-      "p": [
-        "ratel"
-      ],
-      "m": "1.6.4"
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:02Z",
+  "generatedAt": "2026-05-26T00:54:07Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

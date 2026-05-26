@@ -11,41 +11,55 @@
   "releases": [
     {
       "v": "0.1.1@0dd44a47a19a91141ad65cd93055a1d222c223c7",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.5@3d205bd5ecf04b73ae590cf2f48ba7f47882cdc2",
       "r": [],
-      "d": "Lifts compile-time object to AST"
+      "d": "Lifts compile-time object to AST",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.6@611c89b0ddaf17683a6a9bd9369f6fb30e6747a9",
       "r": [],
-      "d": "Lifts compile-time object to AST"
+      "d": "Lifts compile-time object to AST",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@1652310e11d5a5e67cc595cc2c4ce957b03786ea",
       "r": [],
-      "d": "Lifts compile-time object to AST"
+      "d": "Lifts compile-time object to AST",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.1@2977fcae15c0b4a70e2df1ae77caed69f48ad775",
       "r": [],
-      "d": "Lifts compile-time object to AST"
+      "d": "Lifts compile-time object to AST",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.3@37d074715568685efefd2358a45c91cb3ba291b1^",
       "r": [],
-      "d": "Lifts compile-time object to AST"
+      "d": "Lifts compile-time object to AST",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@37d074715568685efefd2358a45c91cb3ba291b1",
       "r": [],
-      "d": "Lifts compile-time object to AST"
+      "d": "Lifts compile-time object to AST",
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:55Z",
+  "generatedAt": "2026-05-26T00:49:57Z",
   "allDeps": {
     "packages": [],
     "urls": [],

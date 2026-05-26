@@ -10,20 +10,18 @@
   "releases": [
     {
       "v": "0.1.0@d6aca7c613ff0c0a6576ae0997b93e049da3d61e",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "#head@547c0d1ea92e6f8d4307f67d9741883ee9f71834",
       "r": [],
-      "a": "Charles Barto",
-      "d": "Wrapper for libnetpbm",
-      "l": "MIT",
       "s": "src",
       "m": "0.17.2"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:03Z",
+  "generatedAt": "2026-05-26T00:51:04Z",
   "allDeps": {
     "packages": [],
     "urls": [],

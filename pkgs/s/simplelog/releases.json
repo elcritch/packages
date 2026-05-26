@@ -11,26 +11,34 @@
   "releases": [
     {
       "v": "0.1.0@c945140fea719c049c761718d4b2890c33223db0",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@3713a04b352ebf07f53ad601131dc7771ee24688",
       "r": [],
-      "d": "A deadly simple log package supporting very simple colorful logging."
+      "d": "A deadly simple log package supporting very simple colorful logging.",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.2@058901234f217c84a82975885666b8bae9cca2ba^",
       "r": [],
-      "d": "A deadly simple log package supporting very simple colorful logging."
+      "d": "A deadly simple log package supporting very simple colorful logging.",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@058901234f217c84a82975885666b8bae9cca2ba",
       "r": [],
-      "d": "A deadly simple log package supporting very simple colorful logging."
+      "d": "A deadly simple log package supporting very simple colorful logging.",
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:51Z",
+  "generatedAt": "2026-05-26T00:54:53Z",
   "allDeps": {
     "packages": [],
     "urls": [],

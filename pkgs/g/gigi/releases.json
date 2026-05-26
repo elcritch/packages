@@ -20,47 +20,61 @@
       "v": "0.2.1@f68a8312fad5988c333bf2946740e694854b5e0d",
       "r": [
         "puppy >= 1.4.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.2.0@f0d349ddb13bee7dbbd655394ebeaa68cc111b3d",
       "r": [
         "puppy >= 1.4.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.1.1@8c4c42186d8599d4f77ae5c1e416e09f9c8b1cc5",
       "r": [
         "puppy >= 1.4.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.1.0@fcfbfff48223162da06905c46f06b48977810e6f",
       "r": [
         "puppy >= 1.4.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@1ff10af1ec789594b3fd859a0bdc0ded4cc9763f",
       "r": [
         "puppy >= 1.4.0"
       ],
-      "a": "Kazuya Takei",
       "d": "GitIgnore Generate Interface",
-      "l": "Apache-2.0",
-      "s": "src",
-      "b": "bin",
-      "k": [
-        "nim"
-      ],
-      "p": [
-        "gigi"
-      ],
-      "m": "2.0.0"
+      "m": "2.0.0",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T13:07:33Z",
+  "generatedAt": "2026-05-26T00:48:16Z",
   "allDeps": {
     "packages": [
       "libcurl",

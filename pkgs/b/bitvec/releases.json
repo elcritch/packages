@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@f7581097d93841540769a80a4d3c8b1a8ade297f",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@6d01fd9d68f8544d09173a519b632dfe61e5b8ee",
       "r": [],
-      "a": "Jeff Ciesielski",
-      "d": "Extensible Bit Vector library for nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.18.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:45Z",
+  "generatedAt": "2026-05-26T00:45:37Z",
   "allDeps": {
     "packages": [],
     "urls": [],

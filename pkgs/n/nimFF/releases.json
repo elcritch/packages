@@ -13,24 +13,21 @@
       "r": [
         "binarylang",
         "nimPNG"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "#head@88cbe17fec34305c8506fb970d367847e361a85b",
-      "n": "nimFF",
       "r": [
         "binarylang",
         "nimPNG",
         "cligen"
       ],
-      "a": "Ege Öz",
-      "d": "Farbfeld encoder and decoder",
-      "l": "MIT",
-      "m": "1.5.0"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:14Z",
+  "generatedAt": "2026-05-26T00:51:17Z",
   "allDeps": {
     "packages": [
       "binarylang",

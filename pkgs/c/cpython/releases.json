@@ -14,32 +14,32 @@
   "releases": [
     {
       "v": "3.10.0@cdf8ade0265b5621f41678edc2e544203dbadde1",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "3.12.0@e6a2c41eda6a1e71bbc4650bc61d3acdcf24a16e",
       "r": [
         "nimpy"
       ],
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "s": "",
+      "x": []
     },
     {
       "v": "#head@7c9cd23d3357f0761079b68c2423c5daac6b920d",
       "r": [
         "nimpy"
       ],
-      "a": "Juan_Carlos.nim",
-      "d": "Alternative StdLib for Nim for Python targets",
-      "l": "MIT",
-      "s": "src",
-      "x": [
-        "docs"
-      ],
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "s": "",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:41Z",
+  "generatedAt": "2026-05-26T00:46:35Z",
   "allDeps": {
     "packages": [
       "nimpy > 3.10.0"

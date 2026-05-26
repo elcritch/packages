@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@02174bfd9f26699a9977efbb561358fcb7fa71bf",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@3c6d0ac0a03911e350f2c769dcaf3f880c8412f1",
       "r": [],
-      "a": "viktornv",
-      "d": "High-level Nim wrapper for Wren VM",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:54:05Z",
+  "generatedAt": "2026-05-26T00:57:02Z",
   "allDeps": {
     "packages": [],
     "urls": [],

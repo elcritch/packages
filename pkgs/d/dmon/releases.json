@@ -14,7 +14,9 @@
       "r": [
         "macosutils >= 0.3.2",
         "winim >= 3.9.4"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.3@0548f6e84cf7bf7297a98b658b5580535884dd38",
@@ -22,7 +24,9 @@
         "chronicles >= 0.10.0",
         "macosutils >= 0.3.2",
         "winim >= 3.9.4"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.2@2fde5950be348b64e48bd6bac3b6435a804f5b93",
@@ -30,7 +34,9 @@
         "chronicles >= 0.10.0",
         "macosutils >= 0.3.2",
         "winim >= 3.9.4"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.1@39f0a7e78bce17a7075f8ccd943653c12cbb6642",
@@ -38,35 +44,45 @@
         "chronicles >= 0.10.0",
         "macosutils >= 0.3.2",
         "winim >= 3.9.4"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.0@c04850ee1ff21b40a9ee15d13e6c48ac74d7a28e",
       "r": [
         "chronicles >= 0.10.0",
         "macosutils >= 0.3.2"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@55394c037c01906c2faeee0bec23912e375353f7",
       "r": [
         "chronicles >= 0.10.0",
         "macosutils >= 0.3.2"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.2@0ab9cdf05c81db7d965ec59ea43dd1a50a1b4dac",
       "r": [
         "chronicles >= 0.10.0",
         "macosutils >= 0.2.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@db2112766ac7b347dca14c6968779f2de924bfc8",
       "r": [
         "chronicles >= 0.10.0",
         "macosutils >= 0.2.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@b068e274bd5a45e44ef91a337261dd3eee7423b5",
@@ -74,15 +90,12 @@
         "macosutils >= 0.3.2",
         "winim >= 3.9.4"
       ],
-      "a": "Jaremy Creechley",
-      "d": "Library to monitor file changes in a folder. A port of Dmon.",
-      "l": "BSD-2-Clause",
-      "s": "src",
-      "m": "2.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:08Z",
+  "generatedAt": "2026-05-26T00:47:01Z",
   "allDeps": {
     "packages": [
       "chronicles <= 0.3.3",

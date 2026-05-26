@@ -14,7 +14,9 @@
       "r": [
         "chame >= 1.0.0",
         "chagashi >= 0.7.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@6b3e4a277ebb33b182a5d08e9515d70762c38c3d",
@@ -22,15 +24,12 @@
         "chame >= 1.0.0",
         "chagashi >= 0.7.0"
       ],
-      "a": "bung87",
-      "d": "A Mozilla Readability-like content extraction library for Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.18"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:05Z",
+  "generatedAt": "2026-05-26T00:51:07Z",
   "allDeps": {
     "packages": [
       "chagashi",

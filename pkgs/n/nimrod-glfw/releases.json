@@ -19,16 +19,13 @@
       "v": "#head@b5d128f3620a9f535ba30330ac8616719bbe10e7",
       "n": "glfw",
       "r": [],
-      "a": "Rafael Vasco, Cory Null(Noll) Crimmins - Golden",
-      "d": "Nimrod bindings for GLFW3 library",
-      "l": "MIT",
       "x": [
         "test"
       ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:11Z",
+  "generatedAt": "2026-05-26T00:52:14Z",
   "allDeps": {
     "packages": [],
     "urls": [],

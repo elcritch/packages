@@ -11,24 +11,25 @@
   "releases": [
     {
       "v": "0.1.1@3a23bf4245a742e37656586d2ecf7c711a830795",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@d3d7b83ebad31d9dc01a90279b5328086a0798b4",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@5e888d575d5c3a77d88bceaf85efe2768a3bbc29",
       "r": [],
-      "a": "Yu-Vitaqua-fer-Chronos",
-      "d": "An implementation of a Modified UTF-8 encoder and decoder in Nim!",
-      "l": "Apache-2.0",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:47Z",
+  "generatedAt": "2026-05-26T00:50:49Z",
   "allDeps": {
     "packages": [],
     "urls": [],

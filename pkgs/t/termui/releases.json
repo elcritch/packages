@@ -17,32 +17,44 @@
       "r": [
         "classes >= 0.3.17",
         "elvis >= 0.5.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "k": []
     },
     {
       "v": "0.1.10@5564f27c32cc1f650094d7da5f35a65ca3738263",
       "r": [
         "classes >= 0.3.17",
         "elvis >= 0.5.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "k": []
     },
     {
       "v": "0.1.9@7e9ea2c26a39ef9ec4851a804aacf5a2b8854e49",
       "r": [
         "classes >= 0.2.13",
         "elvis >= 0.5.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "k": []
     },
     {
       "v": "#head@b3245f243efa3f0b1cdeb646b214248c482b0906",
       "r": [
         "classes >= 0.3.17",
         "elvis >= 0.5.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:44Z",
+  "generatedAt": "2026-05-26T00:55:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

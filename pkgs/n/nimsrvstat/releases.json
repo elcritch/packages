@@ -11,28 +11,31 @@
   "releases": [
     {
       "v": "0.1.2@235ba0460d2f04f181939a007840a842e67aab64",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@c52ae9e60cfb97583a14165dee78ce250d6778c5",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@69b1cc31ff9dbab428cc7d07387054e9f9162df3",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@57d2f70aff367c0b400a75966871838534e5312e",
       "r": [],
-      "a": "minejerik",
-      "d": "A nim wrapper around mcsrvstat",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.14"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:14Z",
+  "generatedAt": "2026-05-26T00:52:17Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

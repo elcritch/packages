@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@1c392d51205bd405f725da792a5fa4219ad9336c",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@576f820068966964390b30afe2a24caa1bccc282",
       "r": [],
-      "a": "Antoine Delègue",
-      "d": "An implementation of Range Queries in Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:01Z",
+  "generatedAt": "2026-05-26T00:54:05Z",
   "allDeps": {
     "packages": [],
     "urls": [],

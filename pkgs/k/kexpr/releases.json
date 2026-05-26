@@ -13,22 +13,19 @@
   "releases": [
     {
       "v": "0.0.2@7302245f8dafb33f4ecf9861fd81ceb4d7b193c8",
-      "r": []
+      "r": [],
+      "m": "~",
+      "y": []
     },
     {
       "v": "#head@3a8dbf0d43370f8e4a103b644944b3478f044cd0",
       "r": [],
-      "a": "Brent Pedersen",
-      "d": "math expression evaluator library",
-      "l": "MIT",
-      "y": [
-        "tests.nim"
-      ],
-      "m": "0.17.0"
+      "m": "~",
+      "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:30Z",
+  "generatedAt": "2026-05-26T00:49:34Z",
   "allDeps": {
     "packages": [],
     "urls": [],

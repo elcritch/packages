@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.59@759bc380b211e5ca389fc4da203cd55321e662ea",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@a274d788bec337ccec16d527156f4822a1221bf2",
       "r": [],
-      "a": "Samantha Marshall",
-      "d": "Wrapper for libclang C headers",
-      "l": "BSD 3-Clause",
-      "s": "src/",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:19Z",
+  "generatedAt": "2026-05-26T00:46:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

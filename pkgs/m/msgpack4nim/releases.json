@@ -22,47 +22,54 @@
     {
       "v": "0.4.4@f4cc097ca9694f17feced9f82994f583ef7911fe",
       "r": [],
-      "j": []
+      "j": [],
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.4.2@a7f290501a8c73ae9a6a5eed97ac2654910b7d6c",
       "r": [],
-      "j": []
+      "j": [],
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.3.1@472152dd56a8b282535647caeba4643f3c4992f8",
       "r": [],
       "m": "0.18.0",
-      "s": ""
+      "s": "",
+      "x": [],
+      "j": []
     },
     {
       "v": "0.3.0@78630e031537c3889d67340d6215e5df1189ed94",
       "r": [],
       "m": "0.18.0",
-      "s": ""
+      "s": "",
+      "x": [],
+      "j": []
     },
     {
       "v": "0.2.9@70fa16c92a7dff56bd6f3965a6d5a013bf3f1e48",
       "r": [],
       "m": "0.18.0",
-      "s": ""
+      "s": "",
+      "x": [],
+      "j": []
     },
     {
       "v": "#head@d34532782837553acc4fe1abaf422284b54b837b",
       "r": [],
-      "a": "Andri Lim",
-      "d": "MessagePack serializer/deserializer implementation in nim",
-      "l": "MIT",
-      "s": "src",
-      "x": [
-        "examples",
-        "tests"
-      ],
-      "m": "1.6.0"
+      "j": [],
+      "m": "~",
+      "s": "",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:44Z",
+  "generatedAt": "2026-05-26T00:50:46Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

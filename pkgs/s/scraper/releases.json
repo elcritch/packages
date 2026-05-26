@@ -15,7 +15,9 @@
         "error://findxml"
       ],
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/scraper.thisago.github.com-2d9de467-scraper.nimble\ncannot resolve package name: findxml"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/scraper.thisago.github.com-2d9de467-scraper.nimble\ncannot resolve package name: findxml",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@45955ca9c2bbbe4539574e4fe820268eb790791f",
@@ -23,14 +25,12 @@
         "gh:thisago/findxml"
       ],
       "a": "Thiago Navarro",
-      "d": "Scraping tools",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:28Z",
+  "generatedAt": "2026-05-26T00:54:30Z",
   "allDeps": {
     "packages": [],
     "urls": [

@@ -12,22 +12,19 @@
       "v": "1.0.0@cbc62df527d50a4575cf7e3cdc5263944c832805",
       "r": [
         "flatty >= 0.3.0"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "#head@b845fa359e9c902ace0a8a891001023c68e457a6",
-      "n": "Espirit",
       "r": [
         "flatty >= 0.3.0"
       ],
-      "a": "Toma400",
-      "d": "Nim parser for Morrowind's .esp/.esm files",
-      "l": "MIT Non-AI License",
-      "m": "1.4.0"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:32Z",
+  "generatedAt": "2026-05-26T00:44:24Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

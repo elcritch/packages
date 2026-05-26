@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@8f4f5084b67af556b5a4e7865d90328063010eda",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@3fcec08a559479cc8d2fd769f26c6d56bb27a1a1",
       "r": [],
-      "a": "Andre von Houck and Jeremie Pelletier",
-      "d": "Paddy",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.8"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:13Z",
+  "generatedAt": "2026-05-26T00:53:17Z",
   "allDeps": {
     "packages": [],
     "urls": [],

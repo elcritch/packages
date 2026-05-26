@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@bb5a63882593b3b87fe1817885dc0ef7f85dfecb",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@d9ee0328d5cec8fd216d3ce8676cebf1976e9272",
       "r": [],
-      "a": "azz",
-      "d": "A simple colored logger from std/logging",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:30Z",
+  "generatedAt": "2026-05-26T00:46:24Z",
   "allDeps": {
     "packages": [],
     "urls": [],

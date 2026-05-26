@@ -11,7 +11,9 @@
   "releases": [
     {
       "v": "0.1.0@5de29709fa4bb629722c2dc0b5d807a9f923aad8",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@b692590d6895b3acb17fc0c95f5c61bf37555c36",
@@ -30,14 +32,13 @@
     {
       "v": "#head@ee77a27eca7042a2b68061d0bcee691e5b56aa10",
       "r": [],
-      "a": "Araq",
       "d": "New threading primitives for --mm:arc/orc: atomics, channels, smart pointers and wait groups.",
-      "l": "MIT",
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:50Z",
+  "generatedAt": "2026-05-26T00:55:48Z",
   "allDeps": {
     "packages": [],
     "urls": [],

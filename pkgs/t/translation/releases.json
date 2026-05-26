@@ -14,7 +14,10 @@
   "releases": [
     {
       "v": "0.3.1@ba5c97703865bf506106450f28d853a67bfbe7ad",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.2.0@0022996589e8539a340603a4aa36503eb6d9ee3f",
@@ -22,7 +25,8 @@
       "p": [
         "translation.nim"
       ],
-      "m": "0.18.0"
+      "m": "0.18.0",
+      "s": ""
     },
     {
       "v": "0.1.0@09c18c6c1b3d552236dba78a2dbd0b22bc25efc9",
@@ -33,23 +37,20 @@
       "p": [
         "translation.nim"
       ],
-      "m": "0.18.1"
+      "m": "0.18.1",
+      "s": ""
     },
     {
       "v": "#head@a04c02b923e0191f116515cf1c12c600735bae74",
       "r": [],
-      "a": "Juan Carlos <juancarlospaco@gmail.com>",
-      "d": "Text string translation from free online crowdsourced API. Tinyslation a tiny translation. Sync and Async support (MultiSync). No API Key required.",
       "l": "MIT",
-      "s": "src",
-      "p": [
-        "translation"
-      ],
-      "m": "0.20.0"
+      "m": "0.20.0",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:04Z",
+  "generatedAt": "2026-05-26T00:56:01Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

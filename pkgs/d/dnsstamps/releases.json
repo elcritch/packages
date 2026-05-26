@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@b25c7876ab89c77616114bfd65c170ddd4a13a6a",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@9082e22a57044c4a8a29f2a86e8687ea508d233c",
       "r": [],
-      "a": "Leorize",
-      "d": "An implementation of DNS server stamps in Nim",
-      "l": "MPL-2.0",
-      "s": "src",
-      "m": "1.2.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:09Z",
+  "generatedAt": "2026-05-26T00:47:02Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

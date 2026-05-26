@@ -11,31 +11,34 @@
   "releases": [
     {
       "v": "0.1.0@3935f63bb9bf94b2a9da687a57d3d5d826e4104f",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.0@992ae6faf369ba0881582990dd310b81213eef0d",
       "r": [],
       "d": "Genetic Algorithm Library for Nim.",
-      "s": "nimga"
+      "s": "nimga",
+      "m": "~"
     },
     {
       "v": "0.2.0@48a8e9c32f78b86805831ef55dbbb0480fdfc85d",
       "r": [],
       "d": "Genetic Algorithm Library for Nim.",
-      "s": ""
+      "s": "",
+      "m": "~"
     },
     {
       "v": "#head@b3721f321bb0c716ecfb7c8d9250452bb2756bb8",
       "r": [],
-      "a": "Toshiki Ohnogi",
       "d": "Genetic Algorithm Library for Nim.",
-      "l": "MIT",
-      "m": "0.19.4"
+      "s": "",
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:44Z",
+  "generatedAt": "2026-05-26T00:51:46Z",
   "allDeps": {
     "packages": [],
     "urls": [],

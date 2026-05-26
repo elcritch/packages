@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "1.0.0@1f395ffa86295f534d67426e5875601ba5613ddf",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@7ce5bf5fa2167cb76d07ed595437fa037bbfab94",
       "r": [],
-      "a": "Juan Carlos",
-      "d": "Table implemented as optimized sorted hashed dictionary of {array[char]: Option[T]}, same size as OrderedTable",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.6"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:02Z",
+  "generatedAt": "2026-05-26T00:46:55Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -17,7 +17,9 @@
     {
       "v": "0.1.0@89648250e37d93c5da892a7177660ab371bf1dc0",
       "r": [],
-      "x": []
+      "x": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@76f554d9bc5f81cec641809583a8196bf7506281",
@@ -25,7 +27,8 @@
       "a": "Juan Carlos",
       "d": "Gatabase Postgres and SQLite Database ORM for Nim",
       "m": "0.19.2",
-      "x": []
+      "x": [],
+      "s": ""
     },
     {
       "v": "0.2.2@a464ee50573f2c72263a3c9d9b641f9fe9073837",
@@ -33,7 +36,8 @@
       "a": "Juan Carlos",
       "d": "Gatabase Postgres and SQLite Database ORM for Nim",
       "m": "0.19.4",
-      "x": []
+      "x": [],
+      "s": ""
     },
     {
       "v": "0.5.0@0c78544b264993bd688ef6c5335d656751f6da61",
@@ -41,39 +45,39 @@
       "a": "Juan Carlos",
       "d": "Compile-Time ORM for Nim",
       "m": "1.0.0",
-      "x": []
+      "x": [],
+      "s": ""
     },
     {
       "v": "0.9.0@76cda2828edc2ea037069cd56063fcb502d6df6d",
       "r": [],
       "a": "Juan Carlos",
       "d": "Compile-Time ORM for Nim",
-      "m": "1.2.0"
+      "m": "1.2.0",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.9.9@bb3dd939356bfed14dd62492b7c9f20aea977f0c",
       "r": [],
       "a": "Juan Carlos",
       "d": "Compile-Time ORM for Nim",
-      "m": "1.2.4"
+      "m": "1.2.4",
+      "s": "",
+      "x": []
     },
     {
       "v": "#head@3aaba860e3090504c77faa419e14c239dfd46045",
       "r": [],
       "a": "Juan Carlos",
       "d": "Compile-Time ORM for Nim",
-      "l": "MIT",
-      "s": "src",
-      "x": [
-        "tests",
-        "examples",
-        "docs"
-      ],
-      "m": "1.2.6"
+      "m": "1.2.6",
+      "s": "",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:04Z",
+  "generatedAt": "2026-05-26T00:48:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

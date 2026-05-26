@@ -15,7 +15,8 @@
         "nimcrypto",
         "monocypher",
         "stew"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.0.1@cf8b5c1c54049b066a40d4f379906569a172702c",
@@ -24,7 +25,8 @@
         "nimcrypto",
         "monocypher",
         "stew"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "#head@378ed78c1dfcbf4477cefa6b4489a539c1ebcea2",
@@ -33,11 +35,12 @@
         "nimcrypto",
         "monocypher",
         "stew"
-      ]
+      ],
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:34Z",
+  "generatedAt": "2026-05-26T00:52:39Z",
   "allDeps": {
     "packages": [
       "bearssl",

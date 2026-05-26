@@ -10,19 +10,17 @@
   "releases": [
     {
       "v": "0.1.0@e8edb3f8badd48e728f8f5fca693363e6af40910",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "#head@2e0928d11c8ea21b83c51ffe804bc063ffa9660e",
       "r": [],
-      "a": "Dominik Picheta",
-      "d": "Deprecated package from the stdlib.",
-      "l": "MIT",
-      "m": "0.17.2"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:28Z",
+  "generatedAt": "2026-05-26T00:45:20Z",
   "allDeps": {
     "packages": [],
     "urls": [],

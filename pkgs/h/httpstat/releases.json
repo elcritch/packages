@@ -14,9 +14,6 @@
     {
       "v": "#head@7d695685cc6fcbae25f5eb0ecb7c812a3aa58c98",
       "r": [],
-      "a": "taichi uchihara",
-      "d": "curl statistics made simple",
-      "l": "MIT",
       "s": "src",
       "p": [
         "httpstat"
@@ -25,7 +22,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:55Z",
+  "generatedAt": "2026-05-26T00:48:58Z",
   "allDeps": {
     "packages": [],
     "urls": [],

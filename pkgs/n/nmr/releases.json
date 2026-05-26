@@ -20,7 +20,11 @@
       "r": [
         "cligen >= 1.8.4",
         "QRgen >= 3.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@716392e1e7944b21a28333c1e7c9c9200f656843",
@@ -32,21 +36,14 @@
         "zippy",
         "regex"
       ],
-      "a": "HapticX",
-      "d": "A super-fast Nim package manager with automatic dependency graph and parallel installation.",
-      "l": "MIT",
-      "s": "src",
-      "k": [
-        "nim"
-      ],
-      "p": [
-        "cli/nmr"
-      ],
-      "m": "1.6.6"
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:31Z",
+  "generatedAt": "2026-05-26T00:52:35Z",
   "allDeps": {
     "packages": [
       "QRgen",

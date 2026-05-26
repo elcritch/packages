@@ -11,32 +11,37 @@
   "releases": [
     {
       "v": "0.4.0@d28632d8657a4d8fb41bb8345f6a452083d14846",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.1@f9c14e8e9aff5e4a517b25ebb1fd2f0638456c79",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.0@02725cc490c115eb0ad2a6298ead9b1791d1b3a3",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@e4ac5f5fb1430b7ac4857fc29d942313f46b6403",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@4f97d31792ccc2b76d77cdea7683e7b73d5ff6f6",
       "r": [],
-      "a": "PMunch",
-      "d": "A package to read data and parse it into ANSI escape characters",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.20.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:54Z",
+  "generatedAt": "2026-05-26T00:44:45Z",
   "allDeps": {
     "packages": [],
     "urls": [],

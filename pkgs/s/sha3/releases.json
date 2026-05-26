@@ -12,25 +12,22 @@
   "releases": [
     {
       "v": "0.6@f885234323f4cb7dcaba259d8dc359402be7f3a3",
-      "r": []
+      "r": [],
+      "z": []
     },
     {
       "v": "0.7@7e1a5194668371c8fd4024054ac4d8c7431eddba",
-      "r": []
+      "r": [],
+      "z": []
     },
     {
       "v": "#head@ad09971a572498ee6b5496dfea6af82ec7beaaeb",
       "r": [],
-      "a": "tankfeeder",
-      "d": "sha3 library",
-      "l": "CC0",
-      "z": [
-        "rsp"
-      ]
+      "z": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:40Z",
+  "generatedAt": "2026-05-26T00:54:43Z",
   "allDeps": {
     "packages": [],
     "urls": [],

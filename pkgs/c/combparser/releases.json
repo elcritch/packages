@@ -11,25 +11,25 @@
   "releases": [
     {
       "v": "0.1.0@93c93684c53f48adc01d6cf424a6effc14bf0cee",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@3a5db28275022f721ad521627ea4f76f5d024771",
       "r": [],
-      "m": "0.19.0"
+      "m": "0.19.0",
+      "s": ""
     },
     {
       "v": "#head@e582c436e8750b60253370fd77960509d36e3738",
       "r": [],
-      "a": "Peter Munch-Ellingsen",
-      "d": "A parser combinator library for easy generation of complex parsers",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.19.0"
+      "m": "0.19.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:31Z",
+  "generatedAt": "2026-05-26T00:46:25Z",
   "allDeps": {
     "packages": [],
     "urls": [],

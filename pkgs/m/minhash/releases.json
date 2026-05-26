@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@de8ec2d35ade913862bccf4a0932b86a8f29ac7e",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@68c26198b4b477cfaf72bc57ed41062d7ad81183",
       "r": [],
-      "a": "zhoupeng",
-      "d": "Nim implementation of minhash algoritim",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:31Z",
+  "generatedAt": "2026-05-26T00:50:34Z",
   "allDeps": {
     "packages": [],
     "urls": [],

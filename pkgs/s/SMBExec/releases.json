@@ -16,7 +16,9 @@
       "r": [
         "hashlib",
         "hmac"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "#head@3287ce03728515c0fa7ddc2bc942cfa5642e3cda",
@@ -25,17 +27,12 @@
         "hmac",
         "regex"
       ],
-      "a": "elddy, kevrool",
-      "d": "Nim-SMBExec - SMBExec implementation in Nim",
-      "l": "GPL-3.0",
-      "x": [
-        "Examples"
-      ],
-      "m": "1.2.0"
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:42Z",
+  "generatedAt": "2026-05-26T00:44:34Z",
   "allDeps": {
     "packages": [
       "checksums",

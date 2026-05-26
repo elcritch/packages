@@ -14,60 +14,77 @@
   "releases": [
     {
       "v": "0.1.0@d9edc8c3b0346e349abf9c31e4c019475b3a1b96",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.2.0@c48c5537824de87f481b93db4e43c4ac264fe1e0",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.2.1@fc35657eec7a717e9725946a62f23e6ea741327a",
       "r": [],
-      "d": "<VS Code Data Swapper> Easily manage multiple data folders."
+      "d": "<VS Code Data Swapper> Easily manage multiple data folders.",
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.3.0@ff7b955b338fb5d5123f64c260664bdc6fbc1252",
       "r": [],
-      "d": "<VS Code Data Swapper> Easily manage multiple data folders."
+      "d": "<VS Code Data Swapper> Easily manage multiple data folders.",
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.3.1@0612343b01ccc7ba4c9e651080f0f5e0ad8af5c7",
       "r": [
         "nimlevenshtein >= 0.1.0"
       ],
-      "d": "<VS Code Data Swapper> Easily manage multiple data folders."
+      "d": "<VS Code Data Swapper> Easily manage multiple data folders.",
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.3.2@9976a3bcf5b3dcd96deafa3ab85a8766d9d96eb2",
       "r": [
         "nimlevenshtein >= 0.1.0"
       ],
-      "d": "<VS Code Data Swapper> Easily manage multiple data folders."
+      "d": "<VS Code Data Swapper> Easily manage multiple data folders.",
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.3.3@cc3674f1f78ffdedf737c6255cb30bc43b38b549",
       "r": [
         "nimlevenshtein >= 0.1.0"
       ],
-      "d": "<VS Code Data Swapper> Easily manage multiple data folders."
+      "d": "<VS Code Data Swapper> Easily manage multiple data folders.",
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@58c99dbeee1f4a98ac0de7f9708c77d643e8bbbd",
       "r": [
         "nimlevenshtein >= 0.1.0"
       ],
-      "a": "doongjohn",
       "d": "<VS Code Data Swapper> Easily manage multiple data folders.",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "vscds"
-      ],
-      "m": "1.2.0"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:39Z",
+  "generatedAt": "2026-05-26T00:56:35Z",
   "allDeps": {
     "packages": [
       "nimlevenshtein > 0.3.0"

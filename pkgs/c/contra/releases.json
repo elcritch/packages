@@ -11,44 +11,48 @@
   "releases": [
     {
       "v": "0.1.0@b77366a70965a16af1cae0118592076c8451614b",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@087cdaa6364848e1b0cac05933e71fed3b7137cf",
       "r": [],
       "d": "Lightweight Contract Programming and Security Hardened mode, Design by Contract, on 9 LoC, NimScript, JavaScript, compile-time.",
-      "m": "0.20.2"
+      "m": "0.20.2",
+      "s": ""
     },
     {
       "v": "0.2.1@5708dbea520a5d9532d9ac8824509daef9aa810d",
       "r": [],
       "d": "Lightweight Self-Documenting Design by Contract Programming and Security Hardened mode and Immutable Programming, NimScript, JavaScript, compile-time.",
-      "m": "0.20.2"
+      "m": "0.20.2",
+      "s": ""
     },
     {
       "v": "0.2.2@a9c99b4a36740864959ee4cacacb73856649894e",
       "r": [],
       "d": "Lightweight Self-Documenting Design by Contract Programming and Security Hardened mode and Immutable Programming, NimScript, JavaScript, compile-time.",
-      "m": "0.20.2"
+      "m": "0.20.2",
+      "s": ""
     },
     {
       "v": "0.2.5@b48cd6cf8394fa24b36a4d85119b7849034a27bf",
       "r": [],
       "d": "Lightweight Self-Documenting Design by Contract Programming and Security Hardened mode and Immutable Programming, NimScript, JavaScript, compile-time.",
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "s": ""
     },
     {
       "v": "#head@21a9794324e82047928282a73bb19683437b72f4",
       "r": [],
-      "a": "Juan Carlos",
       "d": "Lightweight Self-Documenting Design by Contract Programming and Security Hardened mode and Immutable Programming, NimScript, JavaScript, compile-time.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:35Z",
+  "generatedAt": "2026-05-26T00:46:29Z",
   "allDeps": {
     "packages": [],
     "urls": [],

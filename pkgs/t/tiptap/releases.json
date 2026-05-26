@@ -13,22 +13,21 @@
       "v": "0.1.0@063a8ddd3514acd2de2590b3b7d962c1fae309b3",
       "r": [
         "jsony #head"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@0dc629531c0e2449f3649f92ae377c0ae5b6004b",
       "r": [
         "jsony #head"
       ],
-      "a": "George Lemon",
-      "d": "TipTap content validator for Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:58Z",
+  "generatedAt": "2026-05-26T00:55:56Z",
   "allDeps": {
     "packages": [
       "jsony"

@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@8c143f62344f31e7835b35961aa5b8c2bf20ab50",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@a3baf39063a80d997cbb68c393ae443ffa35d96f",
       "r": [],
-      "a": "Mhedhebi issam",
-      "d": "convert json to xml  : JsonNode( comapatible with  module json ) To  XmlNode (comapatible with  module  xmltree)",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.10.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:22Z",
+  "generatedAt": "2026-05-26T00:49:25Z",
   "allDeps": {
     "packages": [],
     "urls": [],

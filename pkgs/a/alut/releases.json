@@ -13,23 +13,29 @@
       "v": "1.1.0.1@6ca17b8e642e6286b7a4ae4070f0b00346695703",
       "r": [
         "openal >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.1.0.2@d03e506af02e2bb85cde9e65bcca13495b7e8629^",
       "r": [
         "openal >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@d03e506af02e2bb85cde9e65bcca13495b7e8629",
       "r": [
         "openal >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:50Z",
+  "generatedAt": "2026-05-26T00:44:42Z",
   "allDeps": {
     "packages": [
       "openal"

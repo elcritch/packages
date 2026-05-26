@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@283e55f660910cacdaff7414fe6a7d83244d80b8",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@76021234c2f0678c093a83f777c4936072444e70",
       "r": [],
-      "a": "Matceporial",
-      "d": "Nanosecond-percision time using timespec_get of C11",
-      "l": "0BSD",
-      "s": "src",
-      "m": "0.18.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:54Z",
+  "generatedAt": "2026-05-26T00:55:52Z",
   "allDeps": {
     "packages": [],
     "urls": [],

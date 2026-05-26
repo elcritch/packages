@@ -13,17 +13,21 @@
       "v": "0.1.1@c732bb0e6f8d2390ea2c2280ecd680185610ecda^",
       "r": [
         "ic >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@c732bb0e6f8d2390ea2c2280ecd680185610ecda",
       "r": [
         "ic >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:22Z",
+  "generatedAt": "2026-05-26T00:54:24Z",
   "allDeps": {
     "packages": [
       "ic"

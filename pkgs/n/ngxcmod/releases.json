@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.2@df9823355b2450d160d5858fa2d06b24826b3ea0",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@94ca18156802798aa70f8f463f3c71271df4652f",
       "r": [],
-      "a": "Huy Doan",
-      "d": "High level wrapper for build nginx module w/ nginx-c-function",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.20.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:06Z",
+  "generatedAt": "2026-05-26T00:51:08Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

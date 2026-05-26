@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.2@c58e5a0882d7056b983aeec640062c3b43d22395",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@31dfea23d2903f0961ade537350460f9363ae657",
       "r": [],
-      "a": "James Parkinson",
-      "d": "math for sequences and nested sequences",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.18.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:34Z",
+  "generatedAt": "2026-05-26T00:54:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

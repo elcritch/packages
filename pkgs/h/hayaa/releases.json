@@ -16,13 +16,19 @@
       "v": "0.3.0@bf412040251d30804315d1b08c4393128f1fec48",
       "r": [
         "illwill >= 0.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.2.1@469026fa186758400d1e68e019e7e566389e6b8c",
       "r": [
         "illwill >= 0.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.2.0@834cd1da1b4f27ed77289285a721e260b85a9b94",
@@ -31,25 +37,22 @@
       ],
       "p": [
         "main"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@878240588e1655d462431f1c053710fe5c95be85",
       "r": [
         "illwill >= 0.2.0"
       ],
-      "a": "Angus L'Herrou",
-      "d": "Conway's Game of Life implemented in Nim",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "hayaa"
-      ],
-      "m": "1.2.4"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:39Z",
+  "generatedAt": "2026-05-26T00:48:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

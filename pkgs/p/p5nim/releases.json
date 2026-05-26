@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@a02d481ccc111925ff4799468b64aa93c4fa0f68",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@cee7207ba09dc5c090af18b8cc9e1e070fbc4aa6",
       "r": [],
-      "a": "Jacob Romano, Pietro Peterlongo",
-      "d": "Nim bindings for p5.js",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:11Z",
+  "generatedAt": "2026-05-26T00:53:15Z",
   "allDeps": {
     "packages": [],
     "urls": [],

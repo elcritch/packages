@@ -14,14 +14,18 @@
       "r": [
         "multicast >= 0.1.1",
         "nimcrypto >= 0.3.2"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.3@aef0e9f63041dacc2784012401d41b2939f78060",
       "r": [
         "multicast >= 0.1.1",
         "nimcrypto >= 0.3.2"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.2@9a970f3fecac9da184b2dacaf0e64a51ec418e25",
@@ -29,7 +33,8 @@
         "multicast >= 0.1.1",
         "nimcrypto >= 0.3.2"
       ],
-      "m": "0.19.9"
+      "m": "0.19.9",
+      "s": ""
     },
     {
       "v": "0.1.1@d6d389f8b54f070f67b36dd0dd45c85390904d54",
@@ -37,18 +42,21 @@
         "multicast >= 0.1.1",
         "nimcrypto >= 0.3.2"
       ],
-      "m": "0.19.9"
+      "m": "0.19.9",
+      "s": ""
     },
     {
       "v": "#head@1e3b701ccbc830d8a27573685fad888450e675bd",
       "r": [
         "multicast >= 0.1.1",
         "nimcrypto >= 0.3.2"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:54:11Z",
+  "generatedAt": "2026-05-26T00:57:08Z",
   "allDeps": {
     "packages": [
       "multicast",

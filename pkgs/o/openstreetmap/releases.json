@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.2.0@68c5e42c6003d3b9bfa19aa4183992f38817b62c",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@6979215809e0959e02c2e4311cd1616cc6974190",
       "r": [],
-      "a": "juancarlospaco",
-      "d": "OpenStreetMap API Lib for Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.20.0"
+      "m": "0.20.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:02Z",
+  "generatedAt": "2026-05-26T00:53:07Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

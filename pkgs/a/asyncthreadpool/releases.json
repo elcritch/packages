@@ -10,19 +10,17 @@
   "releases": [
     {
       "v": "0.1.0@c5191e9643bd8708115d14eb0c1d23881ead1074",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "#head@a215c48fa516593ede9a706c60a31b39435587a3",
       "r": [],
-      "a": "Yuriy Glukhov",
-      "d": "Awaitable threadpool",
-      "l": "MIT",
-      "m": "1.4.2"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:11Z",
+  "generatedAt": "2026-05-26T00:45:04Z",
   "allDeps": {
     "packages": [],
     "urls": [],

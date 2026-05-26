@@ -14,7 +14,9 @@
       "r": [
         "isocodes",
         "oauth2"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@2f525a735dc5e7d2b2b1857574e4e91eb30d77d3",
@@ -22,15 +24,12 @@
         "oauth2",
         "openparser"
       ],
-      "a": "George Lemon",
-      "d": "API client for Gumroad.com",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:31Z",
+  "generatedAt": "2026-05-26T00:48:34Z",
   "allDeps": {
     "packages": [
       "bump",

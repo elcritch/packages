@@ -19,32 +19,47 @@
         "progress",
         "notify"
       ],
-      "b": ""
+      "b": "",
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "1.0@d5b79aeebba105b4f5ef0a9a9bce5dd70f639339",
       "r": [
         "progress",
         "notify"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "1.1@2d3c09fe66bf9636287f04cfe5089255f82580f9^",
       "r": [
         "progress",
         "notify"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "#head@2d3c09fe66bf9636287f04cfe5089255f82580f9",
       "r": [
         "progress",
         "notify"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:38Z",
+  "generatedAt": "2026-05-26T00:53:43Z",
   "allDeps": {
     "packages": [
       "notify",

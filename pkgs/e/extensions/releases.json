@@ -11,20 +11,20 @@
   "releases": [
     {
       "v": "0.2.0@eb185fa34f3369552a3071bd8ed5af8219581934",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@45a9fad9616a342f3a67f2fa7b581c899dcab7c7",
       "r": [],
-      "a": "Joey Yakimowich-Payne",
       "d": "Nim extensions. Includes an object oriented programming (oop, class) macro",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.18.1"
+      "m": "0.18.1",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:34Z",
+  "generatedAt": "2026-05-26T00:47:26Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

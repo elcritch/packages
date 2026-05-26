@@ -17,7 +17,10 @@
         "gh:crashappsec/con4m #33743aada3a2db054804d92992d7df2536840012",
         "gh:viega/zippy 0.10.7",
         "parsetoml 0.7.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "1.0.1@f259228debfb76355bb784e4916fbf33d9ff985b",
@@ -25,7 +28,10 @@
         "gh:crashappsec/con4m #836f45b616ebaa3a67c8a9be71c7d12c1d56428d",
         "gh:viega/zippy 0.10.7",
         "parsetoml 0.7.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "1.0.0@998b76467014a37fd2cfd8f0c4e75a7180b1b9b5",
@@ -33,7 +39,10 @@
         "gh:crashappsec/con4m #68ab3d95d51036c847d4ad7fb1329e929703d51c",
         "gh:viega/zippy 0.10.7",
         "parsetoml 0.7.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.6.8@1089cb5133ebe756d25ab3cd311f95e99bfe866d",
@@ -41,7 +50,10 @@
         "gh:crashappsec/con4m #35b0dc53863a24a4f2ef17e72b3b29cb8782c8eb",
         "gh:viega/zippy 0.10.7",
         "parsetoml 0.7.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.6.7@e0e08bcb32c3344b93ec54c6a58e238344db1c7d",
@@ -49,7 +61,10 @@
         "gh:crashappsec/con4m #35b0dc53863a24a4f2ef17e72b3b29cb8782c8eb",
         "gh:viega/zippy 0.10.7",
         "parsetoml 0.7.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.6.6@535ba18ea127df93cd56233c5722690b50fa06a5",
@@ -57,7 +72,10 @@
         "gh:crashappsec/con4m #35b0dc53863a24a4f2ef17e72b3b29cb8782c8eb",
         "gh:viega/zippy 0.10.7",
         "parsetoml 0.7.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.6.5@f5937f7215c38047f895c09a9525ac345fbda849",
@@ -65,7 +83,10 @@
         "gh:crashappsec/con4m #35b0dc53863a24a4f2ef17e72b3b29cb8782c8eb",
         "gh:viega/zippy 0.10.7",
         "parsetoml 0.7.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.6.4@478d4ae6c35a43a5cfb327bd992029d33c0f2b28",
@@ -73,7 +94,10 @@
         "gh:crashappsec/con4m #35b0dc53863a24a4f2ef17e72b3b29cb8782c8eb",
         "gh:viega/zippy 0.10.7",
         "parsetoml 0.7.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.6.3@13238556198e17a614659f845be901dabc9a6261",
@@ -81,7 +105,10 @@
         "gh:crashappsec/con4m #2a76ca94b687b038a95e5924ed22bdb9fd5d577f",
         "gh:viega/zippy 0.10.7",
         "parsetoml 0.7.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.6.2@da77d1bdaccc195836152fed74be1738f6346702",
@@ -89,7 +116,10 @@
         "gh:crashappsec/con4m #2a76ca94b687b038a95e5924ed22bdb9fd5d577f",
         "gh:viega/zippy 0.10.7",
         "parsetoml 0.7.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.6.1@0a2db5680b178e95ca5fb4dd4fb785ca97fe619d",
@@ -97,7 +127,10 @@
         "gh:crashappsec/con4m #2a76ca94b687b038a95e5924ed22bdb9fd5d577f",
         "gh:viega/zippy 0.10.7",
         "parsetoml 0.7.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.6.0@199578c3d409a7feba119b9d772273865b449b12",
@@ -105,7 +138,10 @@
         "gh:crashappsec/con4m #2a76ca94b687b038a95e5924ed22bdb9fd5d577f",
         "gh:viega/zippy 0.10.7",
         "parsetoml 0.7.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.5.9@72fd1ff520a4de17d539de54f659fdec738edec0",
@@ -113,7 +149,10 @@
         "gh:crashappsec/con4m #7329856cf1f0a37abc3592e75d6d86bcb38643f3",
         "gh:viega/zippy 0.10.7",
         "parsetoml 0.7.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.5.8@e01f4c240cf2dc8617d978f8c7ef15c6d64d37b5",
@@ -121,7 +160,10 @@
         "gh:crashappsec/con4m #7329856cf1f0a37abc3592e75d6d86bcb38643f3",
         "gh:viega/zippy 0.10.7",
         "parsetoml 0.7.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.5.7@bca24d1c518c9fe0d5c6abafbb92c35f81c03be7",
@@ -129,7 +171,10 @@
         "gh:crashappsec/con4m #7329856cf1f0a37abc3592e75d6d86bcb38643f3",
         "gh:viega/zippy 0.10.7",
         "parsetoml 0.7.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.5.6@7cbc9efeb9a9c5d308b762d7bed61dcabcc3b9d2",
@@ -137,7 +182,10 @@
         "gh:crashappsec/con4m #0487d36db4432a800138d4f69ee94bc98d881493",
         "gh:viega/zippy 0.10.7",
         "parsetoml 0.7.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.5.5@91e514cb1e327828c1e22b5855008b7a45da4677",
@@ -145,7 +193,10 @@
         "gh:crashappsec/con4m #0487d36db4432a800138d4f69ee94bc98d881493",
         "gh:viega/zippy 0.10.7",
         "parsetoml 0.7.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.5.4@dcbd280e734422046b045199178ba113d30a07b7",
@@ -153,7 +204,10 @@
         "gh:crashappsec/con4m #0487d36db4432a800138d4f69ee94bc98d881493",
         "gh:viega/zippy 0.10.7",
         "parsetoml 0.7.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.5.3@4866b549ea8001ddc26d4c79bb6529126ef11b82",
@@ -161,7 +215,10 @@
         "gh:crashappsec/con4m #0487d36db4432a800138d4f69ee94bc98d881493",
         "gh:viega/zippy 0.10.7",
         "parsetoml 0.7.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.5.2@50ffd4a7b1568da852c9356faf9177b7ed58dcdb",
@@ -169,7 +226,10 @@
         "gh:crashappsec/con4m #0487d36db4432a800138d4f69ee94bc98d881493",
         "gh:viega/zippy 0.10.7",
         "parsetoml 0.7.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.5.1@849b7e0685d7f2245e2313986523338b516cc873",
@@ -177,7 +237,10 @@
         "gh:crashappsec/con4m #40da38c73f11c79d56da17a05d094da5293b02d3",
         "gh:viega/zippy 0.10.7",
         "parsetoml 0.7.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.5.0@b23dd92f7fa736992171eeb0f4ef6b75a840500e",
@@ -185,28 +248,40 @@
         "gh:crashappsec/con4m #40da38c73f11c79d56da17a05d094da5293b02d3",
         "gh:viega/zippy 0.10.7",
         "parsetoml 0.7.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.4.14@6213ba85bc1734ab1b6da7888f59bdab2a4f103e",
       "r": [
         "gh:crashappsec/con4m #14a351602fb09f867dde12a3f7c4c998047ecfd9",
         "gh:viega/zippy 0.10.7"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.4.13@bca8983eded5be451e9384a9089b305ac484b50a",
       "r": [
         "gh:crashappsec/con4m #57c908650544ab045a3a9aa6f26d274b1859d238",
         "gh:viega/zippy 0.10.7"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.4.12@d21730fb85b1ce50b14db5745d95e9b979a39bcb",
       "r": [
         "gh:crashappsec/con4m #ee26bd28d99cd0aa2dc3c9b2cd83bb0d145ec167",
         "gh:viega/zippy 0.10.7"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.4.8@1821c5c73b4db944c8ff2b89db795f0f06354e1f",
@@ -214,7 +289,9 @@
         "gh:crashappsec/con4m #dc5e76564d7abb962dc6519fd81f34760091b34d",
         "gh:viega/zippy 0.10.7"
       ],
-      "m": "2.0.0"
+      "m": "2.0.0",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.4.7@70b88d108c48f8a8ab840e7ad5758d51a530c338",
@@ -222,7 +299,9 @@
         "gh:crashappsec/con4m #dc5e76564d7abb962dc6519fd81f34760091b34d",
         "gh:viega/zippy 0.10.7"
       ],
-      "m": "2.0.0"
+      "m": "2.0.0",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.4.6@f04f49e54be167ae422add866e21cb334928b8f5",
@@ -230,7 +309,9 @@
         "gh:crashappsec/con4m #dc5e76564d7abb962dc6519fd81f34760091b34d",
         "gh:viega/zippy 0.10.7"
       ],
-      "m": "2.0.0"
+      "m": "2.0.0",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.4.5@1cc9b24127c46dedc4c5d64fca9a74014f199ed7",
@@ -239,7 +320,9 @@
         "gh:viega/zippy 0.10.7"
       ],
       "h": true,
-      "m": "2.0.0"
+      "m": "2.0.0",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.4.4@cfae6b065caa3500a2d3156e2695e077e0a683d1",
@@ -248,7 +331,9 @@
         "gh:viega/zippy 0.10.7"
       ],
       "h": true,
-      "m": "2.0.0"
+      "m": "2.0.0",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.4.3@5f27d421420c165685907045fc9ff3a944fa435c",
@@ -257,7 +342,9 @@
         "gh:viega/zippy 0.10.7"
       ],
       "h": true,
-      "m": "2.0.0"
+      "m": "2.0.0",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.4.2@084f6b751aa13d30173f54fff60b2a52de801764",
@@ -266,7 +353,9 @@
         "gh:viega/zippy 0.10.7"
       ],
       "h": true,
-      "m": "2.0.0"
+      "m": "2.0.0",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.4.1@ec3b001eb2e24b81edb2b933612565ac1a437737",
@@ -275,7 +364,9 @@
         "gh:viega/zippy 0.10.7"
       ],
       "h": true,
-      "m": "2.0.0"
+      "m": "2.0.0",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.4.0@7d1b71e116e7d0d1822a8fd3afce50e4b108e5ae",
@@ -284,7 +375,9 @@
         "gh:viega/zippy 0.10.7"
       ],
       "h": true,
-      "m": "2.0.0"
+      "m": "2.0.0",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.3.5@14ea0d53be41dc18d5a887675e2621f13973b70d",
@@ -293,7 +386,9 @@
         "gh:viega/zippy 0.10.7"
       ],
       "h": true,
-      "m": "2.0.0"
+      "m": "2.0.0",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.3.4@4470fe181eb3040b65a11c3b3d67ecdf0a264b74",
@@ -302,7 +397,9 @@
         "gh:viega/zippy 0.10.7"
       ],
       "h": true,
-      "m": "2.0.0"
+      "m": "2.0.0",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.3.3@fe750922dda1d33c407b41a7aeae7b17acdae78c",
@@ -311,7 +408,9 @@
         "gh:viega/zippy 0.10.7"
       ],
       "h": true,
-      "m": "2.0.0"
+      "m": "2.0.0",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.3.2@8f983628a6e343b4c320035fc03be957637f1368",
@@ -320,7 +419,9 @@
         "gh:viega/zippy 0.10.7"
       ],
       "h": true,
-      "m": "2.0.0"
+      "m": "2.0.0",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.3.1@867fd3db5619abeb7e557ea123570351f0bdde39",
@@ -329,7 +430,9 @@
         "gh:viega/zippy 0.10.7"
       ],
       "h": true,
-      "m": "2.0.0"
+      "m": "2.0.0",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.3.0@bbe9915be48016f6b9362ada796fbc71efcc4103",
@@ -338,7 +441,9 @@
         "gh:viega/zippy 0.10.7"
       ],
       "h": true,
-      "m": "2.0.0"
+      "m": "2.0.0",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.2.2@781dd00f0062e1d3a39d831c8db39d2967f84074",
@@ -348,7 +453,9 @@
         "QRgen 3.0.0"
       ],
       "h": true,
-      "m": "2.0.0"
+      "m": "2.0.0",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.2.1@045c6e2d6f357040991d2dd165e92dabafc0b6b0",
@@ -358,7 +465,9 @@
         "QRgen 3.0.0"
       ],
       "h": true,
-      "m": "2.0.0"
+      "m": "2.0.0",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.2.0@403ff162b0da40a36b828d39b096599fe1c16d4d",
@@ -368,7 +477,9 @@
         "QRgen 3.0.0"
       ],
       "h": true,
-      "m": "2.0.0"
+      "m": "2.0.0",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.1.3@f9b8e22d63018f2197b46af018f4eb141a3f8577",
@@ -378,7 +489,9 @@
         "QRgen 3.0.0"
       ],
       "h": true,
-      "m": "2.0.0"
+      "m": "2.0.0",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.1.2@ab8ab0ea27305525483bc073b5775a151c7bc39a",
@@ -388,7 +501,9 @@
         "QRgen 3.0.0"
       ],
       "h": true,
-      "m": "2.0.0"
+      "m": "2.0.0",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@75b926da6b3e89f2c0c5c6cac7bb3a0b309409d1",
@@ -397,17 +512,13 @@
         "gh:viega/zippy 0.10.7",
         "parsetoml 0.7.1"
       ],
-      "a": "John Viega",
-      "l": "GPLv3",
-      "s": "src",
-      "p": [
-        "chalk"
-      ],
-      "m": "2.0.8"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:13Z",
+  "generatedAt": "2026-05-26T00:46:08Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

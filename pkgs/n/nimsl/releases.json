@@ -41,14 +41,11 @@
     },
     {
       "v": "#head@040e27000b18fc8cfde29c8a6ea241d1a0a08341",
-      "r": [],
-      "a": "Yuriy Glukhov",
-      "d": "Shaders in Nim",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:13Z",
+  "generatedAt": "2026-05-26T00:52:16Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

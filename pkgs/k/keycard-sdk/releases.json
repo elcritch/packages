@@ -15,7 +15,9 @@
         "pcsc",
         "nimcrypto",
         "secp256k1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@31519609819dd93cb8628e23e7a40d4db0546c1c",
@@ -23,7 +25,9 @@
         "pcsc",
         "nimcrypto",
         "secp256k1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@7f3d352f2fc0cb29564224239720fa1f28929b19",
@@ -32,15 +36,12 @@
         "nimcrypto",
         "secp256k1"
       ],
-      "a": "mmlado",
-      "d": "nim SDK to interact with the Status Keycard",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.14"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:30Z",
+  "generatedAt": "2026-05-26T00:49:35Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -16,23 +16,24 @@
   "releases": [
     {
       "v": "0.0.1@ffcdb54c0a114f1a0eecb8fc38e1d1f2d4c3d856",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@ad9db52c1912c7de1ccfd8cf90fd7db10bf10e0c",
       "r": [],
-      "a": "BinHong Lee",
-      "d": "A library of useful functions and tools for nim.",
-      "l": "MIT",
       "s": "src",
       "x": [
         "test"
       ],
-      "m": "1.0.0"
+      "p": [],
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:20Z",
+  "generatedAt": "2026-05-26T00:55:20Z",
   "allDeps": {
     "packages": [],
     "urls": [],

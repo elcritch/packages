@@ -11,44 +11,51 @@
   "releases": [
     {
       "v": "0.4.0@4dff68a6fa561e6a742c58b7d726a16734abc8fc",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.0@2951ef4f90aad8a5a002e9a31c09fb39e636a888",
       "r": [],
       "a": "hlaaftana",
-      "d": "instantiated \"pointers\" to cached AST"
+      "d": "instantiated \"pointers\" to cached AST",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@002dd9cfbffe1e797f05387563fd4bd9af55067d",
       "r": [],
       "a": "hlaaftana",
-      "d": "instantiated \"pointers\" to cached AST"
+      "d": "instantiated \"pointers\" to cached AST",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@1b414db0784dd4077c8933326f718cb4f6ade312",
       "r": [],
       "a": "hlaaftana",
-      "d": "\"pointers\" to cached AST that instantiate routines when called"
+      "d": "\"pointers\" to cached AST that instantiate routines when called",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@40186b2e9a540b7273b1922c667739fd9a234641",
       "r": [],
       "a": "hlaaftana",
-      "d": "\"pointers\" to cached AST that instantiate routines when called"
+      "d": "\"pointers\" to cached AST that instantiate routines when called",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@4e410abb6f9ae8292a06fded8b33fd967ca17df9",
       "r": [],
-      "a": "metagn",
-      "d": "generalized routine and symbol pointers",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.20.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:58Z",
+  "generatedAt": "2026-05-26T00:44:49Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

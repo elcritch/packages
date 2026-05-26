@@ -13,22 +13,19 @@
   "releases": [
     {
       "v": "0.1.0@8c7678df7ced0a6ba9b17c85a6284cf4e13c477a",
-      "r": []
+      "r": [],
+      "m": "~",
+      "p": []
     },
     {
       "v": "#head@53769e0b85b8b782df5cb54c51b5487e293e9906",
       "r": [],
-      "a": "Laszlo Szathmary (Jabba Laci)",
-      "d": "A URL shortener cli app. using bit.ly",
-      "l": "MIT",
-      "p": [
-        "urlshortener"
-      ],
-      "m": "0.19.0"
+      "m": "~",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:25Z",
+  "generatedAt": "2026-05-26T00:56:22Z",
   "allDeps": {
     "packages": [],
     "urls": [],

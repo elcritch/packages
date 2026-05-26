@@ -16,26 +16,21 @@
   "releases": [
     {
       "v": "0.0.1@595c35d11534dd7ad3631f9edb24350899363445",
-      "r": []
+      "r": [],
+      "m": "~",
+      "i": [],
+      "j": []
     },
     {
       "v": "#head@eabe9edea292f3db27797631fb8ca69ec29b6d19",
-      "n": "sha256_64B",
       "r": [],
-      "a": "Status Research & Development GmbH",
-      "d": "sha256 hash of batches of 64B blocks in parallel via pure asm lib hashtree",
-      "l": "MIT or Apache License 2.0",
-      "i": [
-        "install"
-      ],
-      "j": [
-        "sha256_64B.nim"
-      ],
-      "m": "1.0"
+      "m": "~",
+      "i": [],
+      "j": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:39Z",
+  "generatedAt": "2026-05-26T00:54:42Z",
   "allDeps": {
     "packages": [],
     "urls": [],

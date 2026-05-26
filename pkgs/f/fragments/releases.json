@@ -10,64 +10,77 @@
   "releases": [
     {
       "v": "0.1.39@b150ba9622ab3a3925ffc837e5760c552be655f1",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "0.1.38@8ecac2fa6e34dd54dbfab6a874081ea5eac70d50",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "0.1.37@b013d97294d975109466d4993e3ec30571b95320",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "0.1.36@ea39ef27976bed421784897c3966a67c9b42e817",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "0.1.35@249ddc355e859ae54dd37529263742f93325a458",
       "r": [],
-      "a": "fragcolor-xyz"
+      "a": "fragcolor-xyz",
+      "m": "~"
     },
     {
       "v": "0.1.34@a10d870d1900a4afb43f75dd117c9e5737f0c845",
       "r": [],
-      "a": "fragcolor-xyz"
+      "a": "fragcolor-xyz",
+      "m": "~"
     },
     {
       "v": "0.1.33@c4446af1ee812b05304c03153e413d7f46ed132c",
       "r": [],
-      "a": "fragcolor-xyz"
+      "a": "fragcolor-xyz",
+      "m": "~"
     },
     {
       "v": "0.1.32@0c2373ff060faab53a3c3d2b8197d5aa9274f997",
       "r": [],
-      "a": "fragcolor-xyz"
+      "a": "fragcolor-xyz",
+      "m": "~"
     },
     {
       "v": "0.1.31@0285f93a0b9f9363a7912add72b95eb7e11a7313",
       "r": [],
-      "a": "fragcolor-xyz"
+      "a": "fragcolor-xyz",
+      "m": "~"
     },
     {
       "v": "0.1.30@76983625a9ac3b8cb59233548c30f791021d29e8",
       "r": [],
-      "a": "fragcolor-xyz"
+      "a": "fragcolor-xyz",
+      "m": "~"
     },
     {
       "v": "0.1.29@70caac9464f8fe25ff83acd722b860810248ca9f",
       "r": [],
-      "a": "fragcolor-xyz"
+      "a": "fragcolor-xyz",
+      "m": "~"
     },
     {
       "v": "0.1.28@e713b1a625a73f43dd76a8e8d4b8c7ac185cde72",
       "r": [],
-      "a": "fragcolor-xyz"
+      "a": "fragcolor-xyz",
+      "m": "~"
     },
     {
       "v": "0.1.27@193f18cfa6b4177a2d0062e58f3906194c09f618",
       "r": [],
-      "a": "fragcolor-xyz"
+      "a": "fragcolor-xyz",
+      "m": "~"
     },
     {
       "v": "0.1.25@bfb91ae93b0f918d66aabe22730f183a5a8db617",
@@ -204,14 +217,11 @@
     {
       "v": "#head@0f4df0e41dec441bdd39c33767af3e26560d5d72",
       "r": [],
-      "a": "Fragcolor Inc.",
-      "d": "Our very personal collection of utilities",
-      "l": "MIT",
-      "m": "0.19.2"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:57Z",
+  "generatedAt": "2026-05-26T00:47:56Z",
   "allDeps": {
     "packages": [],
     "urls": [],

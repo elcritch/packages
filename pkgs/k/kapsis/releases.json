@@ -19,7 +19,9 @@
         "termstyle",
         "nancy",
         "noise"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.3@ba5284cb04c61ad8f8314929f27651ccdaf914ec",
@@ -33,7 +35,9 @@
         "termstyle",
         "noise"
       ],
-      "d": "Build delightful command line interfaces in seconds"
+      "d": "Build delightful command line interfaces in seconds",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.2@b734c6d03dd6f7ff5e8115d2c08b8f6492a030f7",
@@ -47,7 +51,9 @@
         "termstyle",
         "noise"
       ],
-      "d": "Build delightful command line interfaces in seconds"
+      "d": "Build delightful command line interfaces in seconds",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@b154bf5fcd7a94591a46a4bd3ad99e3c06652c9d",
@@ -57,7 +63,8 @@
         "msgpack4nim #head"
       ],
       "d": "Build delightful command line interfaces in seconds",
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "s": ""
     },
     {
       "v": "0.1.0@84a8a2c11024ffaf335f05222b71cd53b015a6da",
@@ -67,7 +74,8 @@
         "msgpack4nim #head"
       ],
       "d": "Build delightful command line interfaces in seconds",
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "s": ""
     },
     {
       "v": "#head@8ce3694f6f77fb812f7c84fc549afb69db2f4895",
@@ -81,15 +89,12 @@
         "noise",
         "floof"
       ],
-      "a": "George Lemon",
-      "d": "Your type of CLI framework",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:28Z",
+  "generatedAt": "2026-05-26T00:49:32Z",
   "allDeps": {
     "packages": [
       "ansiparse > 0.1.1",

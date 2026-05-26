@@ -13,31 +13,31 @@
   "releases": [
     {
       "v": "0.1.0@dd2ec919b9633df6754723de924574c59bde85e2",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.2.0@92fb544b1a6553faafc4078fb39acff73949ce53",
       "r": [
         "ranges >= 0.0.1"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "#head@8e563f3171d30d5b3a8897a71f5e2f8f91fe9c65",
-      "n": "keccak_tiny",
       "r": [
         "ranges"
       ],
       "a": "Status Research & Development GmbH",
-      "d": "A wrapper for the keccak-tiny C library",
       "l": "Apache License 2.0",
-      "x": [
-        "tests"
-      ],
-      "m": "0.17.0"
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:30Z",
+  "generatedAt": "2026-05-26T00:49:34Z",
   "allDeps": {
     "packages": [
       "ranges > 0.1.0"

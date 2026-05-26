@@ -13,22 +13,21 @@
       "v": "1.0@32e988444b6c14ce255a74a6953ed34132bf3545",
       "r": [
         "nre >= 1.0.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@b35f9fd9b441b952b19b1dc74f0962547cee1663",
       "r": [
         "nre >= 1.0.0"
       ],
-      "a": "Green Cardamom",
-      "d": "A library of awk functions in nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.13.1"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:18Z",
+  "generatedAt": "2026-05-26T00:45:10Z",
   "allDeps": {
     "packages": [
       "nre"

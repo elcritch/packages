@@ -25,22 +25,19 @@
     },
     {
       "v": "0.1.2@511488ccf59f722520660962d104db5e7f9cf7b5",
-      "r": []
+      "r": [],
+      "m": "~",
+      "i": []
     },
     {
       "v": "#head@22b81d059d17ebb393469a3ee11e6f443e18ad5e",
       "r": [],
-      "a": "Andri Lim",
-      "d": "FreeType2 library wrapper",
-      "l": "MIT",
-      "i": [
-        "freetype"
-      ],
-      "m": "1.2.0"
+      "m": "1.2.0",
+      "i": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:58Z",
+  "generatedAt": "2026-05-26T00:47:56Z",
   "allDeps": {
     "packages": [],
     "urls": [],

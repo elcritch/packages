@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "1.0@aee075ad5c9d6a629f841bf7c071343f8b5149ae",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@3517517c9fa400b4cf4e3c9962197daae57be11d",
       "r": [],
-      "a": "Keith Austin",
-      "d": "Small, lightweight ECS framework for Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "2.0.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:54:04Z",
+  "generatedAt": "2026-05-26T00:57:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

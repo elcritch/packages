@@ -17,28 +17,40 @@
       "r": [
         "cligen",
         "dotenv"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.1.2@d3f4dae925f314918f37eeabdb59b8cf09cd12f2",
       "r": [
         "cligen",
         "dotenv"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.1.1@275aa7c7ed3795b8474797fe4937ab4e3b863ba2",
       "r": [
         "cligen",
         "dotenv"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.1.0@c5b52c836e4ab25555519d95683f65bd342deb92",
       "r": [
         "cligen",
         "dotenv"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@37a5368bbba047f2da93549d9467485d9b9024f3",
@@ -46,18 +58,13 @@
         "cligen",
         "dotenv"
       ],
-      "a": "capocasa",
-      "d": "Paperless-ngx CLI for listing, inspecting and downloading documents",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "papr"
-      ],
-      "m": "2.0.0"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:14Z",
+  "generatedAt": "2026-05-26T00:53:18Z",
   "allDeps": {
     "packages": [
       "cligen",

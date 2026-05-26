@@ -11,28 +11,31 @@
   "releases": [
     {
       "v": "20230619@7d44986e89e46eb5e0874ccbfcab63868cca4bf2",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "20230610@b9d627fe7154a29083c5002edc47fa609a6f09aa",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "20230606@52afcff6a13217457c259b3a9cf22d2376b9d7ce",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@539f0765bbcbae8de69c27fc9f28d895dcf0e8c5",
       "r": [],
-      "a": "patternspandemic",
-      "d": "Fast 2D Delaunay Triangulation",
-      "l": "Unlicense",
-      "s": "src",
-      "m": "1.6.12"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:57Z",
+  "generatedAt": "2026-05-26T00:46:51Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -12,14 +12,16 @@
       "v": "0.3.1@307eb4804588dd2e9016eccbd7b06f8acdf99904",
       "r": [
         "polymorph #head"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "0.3.0@47ce07461f7666fb9edbba50eb593e72edf59ea9",
       "r": [
         "polymorph #head"
       ],
-      "d": "A library of components for the Polymorph ECS"
+      "d": "A library of components for the Polymorph ECS",
+      "m": "~"
     },
     {
       "v": "0.2.0@6adb996fb76b09dadb7620c471bd2be73e002df5",
@@ -46,18 +48,14 @@
     },
     {
       "v": "#head@508bc229a6d366da3ea90ca010917444b85d22e6",
-      "n": "polymers",
       "r": [
         "polymorph #head"
       ],
-      "a": "Ryan Lipscombe",
-      "d": "A library of components and systems for the Polymorph ECS",
-      "l": "Apache License 2.0",
-      "m": "1.4.0"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:36Z",
+  "generatedAt": "2026-05-26T00:53:41Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -17,7 +17,10 @@
       "r": [
         "gemini >= 0.2.0",
         "parsetoml"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.2.1@8a847901015facb4f020a93836ccfb61d550a1ed",
@@ -25,7 +28,9 @@
         "gemini >= 0.2.0",
         "parsetoml >= 0.6.0"
       ],
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.2.2@f0faae7836e0932b6773f61519ebcd1895483882",
@@ -34,7 +39,9 @@
         "parsetoml >= 0.6.0",
         "simpleargs >= 0.1.0"
       ],
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.2.3@ce154b8b787319a1bd6cbf76f960a7634196f733",
@@ -43,7 +50,9 @@
         "parsetoml >= 0.6.0",
         "simpleargs >= 0.1.0"
       ],
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.2.4@2de6b84ac6b22ae8599cc15eee996b0fe9c4475a",
@@ -52,7 +61,9 @@
         "parsetoml >= 0.6.0",
         "simpleargs >= 0.1.0"
       ],
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.2.5@99e4478a46355b254742a2db20d7f13050610dab",
@@ -61,7 +72,9 @@
         "parsetoml >= 0.6.0",
         "simpleargs >= 0.1.0"
       ],
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.2.6@14733daf908cc9177e518d18c4942e15bf67d99a",
@@ -70,7 +83,9 @@
         "parsetoml >= 0.6.0",
         "simpleargs >= 0.1.0"
       ],
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.2.7@64a8adcf80ee21d4ee69b9b7f974fdfeabda620d",
@@ -79,7 +94,9 @@
         "parsetoml >= 0.6.0",
         "simpleargs >= 0.1.0"
       ],
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.3.0@ee6e0d036e30713b6325cc4377550ee3f9ed9aed",
@@ -89,7 +106,9 @@
         "argparse",
         "threadlogging"
       ],
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@0f5e6f5dc1fb5e82b321368ce9baae42fe9edd97",
@@ -99,18 +118,11 @@
         "argparse",
         "threadlogging"
       ],
-      "a": "Paul Wilde",
-      "d": "A basic Gemini server",
-      "l": "AGPL-3.0-or-later",
-      "s": "src",
-      "p": [
-        "nemini"
-      ],
       "m": "1.6.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:01Z",
+  "generatedAt": "2026-05-26T00:51:02Z",
   "allDeps": {
     "packages": [
       "argparse > 0.2.7",

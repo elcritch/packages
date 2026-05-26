@@ -31,7 +31,11 @@
         "libffi"
       ],
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/booyaka.openpeeps.github.com-7bf1bcae-booyaka.nimble\ncannot resolve package name: enimsql"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/booyaka.openpeeps.github.com-7bf1bcae-booyaka.nimble\ncannot resolve package name: enimsql",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "#head@b60e12b1897b581eb2a8565795378d4df3650c5b",
@@ -49,19 +53,14 @@
         "pluginkit",
         "supra #head"
       ],
-      "a": "George Lemon",
-      "d": "A fast documentation generator for cool kids!",
-      "l": "AGPL-3.0-or-later",
-      "s": "src",
-      "b": "build",
-      "p": [
-        "booyaka"
-      ],
-      "m": "2.0.0"
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:50Z",
+  "generatedAt": "2026-05-26T00:45:44Z",
   "allDeps": {
     "packages": [
       "ansiparse",

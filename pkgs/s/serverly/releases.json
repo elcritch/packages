@@ -11,32 +11,37 @@
   "releases": [
     {
       "v": "1.0.0@dc08833953c63aa0b67ad26ecd6cd6c5a53bfda6",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.3@ea53da85fdaa50164c15061a7144b9aa364c9d90",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.2@205ce1370520a9ecea05b067604cb5c25d223a9f",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@6544b9cebcc8b9c957442442032f5c73936d2eba",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@78ed063650e20502eaeae9e4264e0ab34208f5c7",
       "r": [],
-      "a": "Roger Padrell",
-      "d": "HTTP serving made eazy",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.2.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:38Z",
+  "generatedAt": "2026-05-26T00:54:41Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -13,22 +13,21 @@
       "v": "0.1@a388d319b64d572e2bedf3e7b1def0013135f2e8",
       "r": [
         "results >= 0.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@d098696de6ed98ad906229ec7f88584a96589819",
       "r": [
         "results >= 0.2.0"
       ],
-      "a": "Felipe S. S. Schneider",
-      "d": "A performant Nim parsing library built for humans.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.2.6"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:28Z",
+  "generatedAt": "2026-05-26T00:50:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -10,7 +10,8 @@
   "releases": [
     {
       "v": "0.0.1@2d7e8a6e2541badd540cde8f9fa871b3f9fcbb5f",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "#head@e4e998c03f57686249425e45cacb06d5360fbbed",
@@ -18,15 +19,12 @@
         "cppstl",
         "jsony"
       ],
-      "a": "Christopher Taylor",
-      "d": "nim-hpx a STE||AR HPX wrapper",
-      "l": "boost",
       "e": "cpp",
-      "m": "0.18.0"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:48Z",
+  "generatedAt": "2026-05-26T00:48:52Z",
   "allDeps": {
     "packages": [
       "cppstl",

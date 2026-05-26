@@ -13,7 +13,9 @@
   "releases": [
     {
       "v": "0.1.7@26e0239441755e5edcfd170e9aa566bb9c9eb6f3",
-      "r": []
+      "r": [],
+      "m": "~",
+      "p": []
     },
     {
       "v": "0.1.6@2668c148e9b9946aeb262715ad10c7c50abb5448",
@@ -54,17 +56,12 @@
     {
       "v": "#head@96fe74e69838c99641e4f7138c987d5f346c26f1",
       "r": [],
-      "a": "Huy Doan",
-      "d": "Temporary files and folders",
-      "l": "MIT",
-      "p": [
-        "tempfile_seeder"
-      ],
-      "m": "0.19.0"
+      "m": "~",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:42Z",
+  "generatedAt": "2026-05-26T00:55:41Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "1.0.0@7d355c76b5b1f39ae64428fadd9484b3a1bb9e01",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@eb8b99d595517fd5d41ccc954edb896267f2db78",
       "r": [],
-      "a": "Arne Döring",
-      "d": "a general ast pattern matching library with a focus on correctness and good error messages",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.18.1"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:05Z",
+  "generatedAt": "2026-05-26T00:44:59Z",
   "allDeps": {
     "packages": [],
     "urls": [],

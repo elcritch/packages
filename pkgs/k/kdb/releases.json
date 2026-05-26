@@ -17,7 +17,10 @@
       "r": [
         "terminaltables >= 0.1.1",
         "uuids >= 0.1.10"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.7.0@9b6e65994a5c93d3ec9fef56e6763c2d20cd9317",
@@ -27,7 +30,9 @@
       ],
       "a": "inv2004",
       "d": "Nim structs to work with Kdb in type-safe manner and low-level Nim to Kdb bindings",
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@2fbc9da70a508c27ca6da81d28c6e5ea79a4f030",
@@ -37,13 +42,13 @@
       ],
       "a": "inv2004",
       "d": "Nim structs to work with Kdb in type-safe manner and low-level Nim to Kdb bindings",
-      "l": "Apache-2.0",
-      "s": "src",
-      "m": "1.2.0"
+      "p": [],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:29Z",
+  "generatedAt": "2026-05-26T00:49:33Z",
   "allDeps": {
     "packages": [
       "isaac",

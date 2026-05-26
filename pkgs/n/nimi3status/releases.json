@@ -13,15 +13,11 @@
     },
     {
       "v": "#head@8f070be9c8dee0388feaebc2c9af7af0bf3a0e4d",
-      "n": "nimi3status",
-      "r": [],
-      "a": "Federico Ceratto",
-      "d": "Lightweight i3 status bar.",
-      "l": "GPLv3"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:49Z",
+  "generatedAt": "2026-05-26T00:51:51Z",
   "allDeps": {
     "packages": [],
     "urls": [],

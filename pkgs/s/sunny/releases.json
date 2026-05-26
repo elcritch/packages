@@ -14,88 +14,112 @@
       "r": [
         "nimsimd >= 1.2.9",
         "unicody >= 0.1.4"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.9@4289ed03e01e52542df922dffa7d4233a11b73ea",
       "r": [
         "nimsimd >= 1.2.9",
         "unicody >= 0.1.4"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.8@42f01824cbc70b22537e33fdf1b5ca2a687316c6",
       "r": [
         "nimsimd >= 1.2.9",
         "unicody >= 0.1.4"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.7@35ee3cbfb7d3c2ad94a55c1458843d449b154203",
       "r": [
         "nimsimd >= 1.2.9",
         "unicody >= 0.1.4"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.6@6460e4d4397b91db32b4596a1b7e13f5274c5da5",
       "r": [
         "nimsimd >= 1.2.9",
         "unicody >= 0.1.4"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.5@831d525dc06addb26d14ad08b7c05518f89e0153",
       "r": [
         "nimsimd >= 1.2.9",
         "unicody >= 0.1.4"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.4@02ef430c5b57968adbc87b313f33c4fb7e9a50f6",
       "r": [
         "nimsimd >= 1.2.9",
         "unicody >= 0.1.4"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.3@24bd3aff9ca9d2c4bcaecfc5a3982b0d25b347ce",
       "r": [
         "nimsimd >= 1.2.9",
         "unicody >= 0.1.4"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.2@20562ba0087eaed642d00e74e71fab688a8b39e3",
       "r": [
         "nimsimd >= 1.2.9",
         "unicody >= 0.1.4"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@89e9c070a07a09bf7ef2db4a07ba24bbadc4e887",
       "r": [
         "nimsimd >= 1.2.9",
         "unicody >= 0.1.4"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@70db7680b9489266c6cf05603925abf98354b1ea",
       "r": [
         "nimsimd >= 1.2.9",
         "unicody >= 0.1.4"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@c2aa1e6809c09011d33bf75e54ac8499d23bac0d",
       "r": [
         "nimsimd >= 1.2.9",
         "unicody >= 0.1.4"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:27Z",
+  "generatedAt": "2026-05-26T00:55:27Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -11,30 +11,34 @@
   "releases": [
     {
       "v": "0.1.0@9a688ad8ca6d0f35613bf921a2350317fa34518e",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@83eb228ba451b2dd1f614a5c8a83a8a629f98f47",
       "r": [],
-      "d": "runtime array types with destructors"
+      "d": "runtime array types with destructors",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.2@6924dc998ab8167965e535b853a0d0c375802128",
       "r": [],
-      "d": "runtime array types with destructors"
+      "d": "runtime array types with destructors",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@e4f63635f67aad97cb86b8c961b17c81a16f771d",
       "r": [],
-      "a": "metagn",
       "d": "runtime array types with destructors",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:16Z",
+  "generatedAt": "2026-05-26T00:50:19Z",
   "allDeps": {
     "packages": [],
     "urls": [],

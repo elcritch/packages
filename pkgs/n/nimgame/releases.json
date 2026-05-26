@@ -24,7 +24,6 @@
     },
     {
       "v": "#head@a8d2709873936d0eadf16d93c06777de48b601fe",
-      "n": "nimgame",
       "r": [],
       "a": "Vladar",
       "d": "Simple 2D game engine for Nim language.",
@@ -32,7 +31,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:44Z",
+  "generatedAt": "2026-05-26T00:51:46Z",
   "allDeps": {
     "packages": [],
     "urls": [],

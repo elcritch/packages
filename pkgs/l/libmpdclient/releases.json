@@ -14,9 +14,6 @@
     {
       "v": "#head@b5189300878620ecb5acd4caf9761f4bc2b86fca",
       "r": [],
-      "a": "Lompik",
-      "d": "Bindings to Music Player Daemon client library",
-      "l": "BSD",
       "y": [
         "example.nim",
         "libmpdclient.pre"
@@ -25,7 +22,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:46Z",
+  "generatedAt": "2026-05-26T00:49:49Z",
   "allDeps": {
     "packages": [],
     "urls": [],

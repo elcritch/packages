@@ -15,7 +15,9 @@
       "v": "0.0.5@15fe01ec6c7aefa76f79729e7c3e3f514da97e44",
       "r": [
         "nake"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.0.3@dcc034f0fd5d2fcaefca2766a8dc9b636b80c5ad",
@@ -28,17 +30,12 @@
       "r": [
         "nake"
       ],
-      "a": "Federico Ceratto",
-      "d": "Minimal syslog support.",
-      "l": "LGPLv3",
-      "x": [
-        "tests"
-      ],
-      "m": "0.10.2"
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:33Z",
+  "generatedAt": "2026-05-26T00:55:33Z",
   "allDeps": {
     "packages": [
       "nake > 0.0.3"

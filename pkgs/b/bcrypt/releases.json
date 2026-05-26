@@ -13,15 +13,11 @@
     },
     {
       "v": "#head@9747d7f6ad3277c169444b5dedb5b99075cd140c",
-      "n": "bcrypt",
-      "r": [],
-      "a": "Jason Livesay",
-      "d": "Wraps the bcrypt (blowfish) library for creating encrypted hashes (useful for passwords)",
-      "l": "BSD"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:31Z",
+  "generatedAt": "2026-05-26T00:45:23Z",
   "allDeps": {
     "packages": [],
     "urls": [],

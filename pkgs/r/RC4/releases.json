@@ -11,23 +11,22 @@
   "releases": [
     {
       "v": "0.1.0@da09c8ac15734d51649c323ebc2c72676b31917c",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@694fdb854fba8a255db51550b2e8575fe08207c6",
       "r": [],
-      "a": "OHermesJunior",
-      "d": "RC4 library implementation",
-      "l": "MIT",
-      "s": "src",
       "x": [
         "tests"
       ],
-      "m": "0.20.0"
+      "m": "0.20.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:40Z",
+  "generatedAt": "2026-05-26T00:44:31Z",
   "allDeps": {
     "packages": [],
     "urls": [],

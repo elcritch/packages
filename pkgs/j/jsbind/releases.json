@@ -19,14 +19,11 @@
       "v": "#head@d9c2ded6b81a69cbf8636eb3402c077c524c56a9",
       "r": [
         "wasmrt"
-      ],
-      "a": "Yuriy Glukhov",
-      "d": "Bind to JavaScript and Emscripten environments",
-      "l": "MIT"
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:21Z",
+  "generatedAt": "2026-05-26T00:49:24Z",
   "allDeps": {
     "packages": [
       "wasmrt",

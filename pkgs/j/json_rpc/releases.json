@@ -24,7 +24,9 @@
         "serialization >= 0.4.4",
         "json_serialization >= 0.4.2",
         "unittest2"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.5.4@b6e40a776fa2d00b97a9366761fb7da18f31ae5c",
@@ -39,7 +41,9 @@
         "serialization >= 0.4.4",
         "json_serialization >= 0.4.2",
         "unittest2"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.5.2@9665c265035f49f5ff94bbffdeadde68e19d6221",
@@ -54,7 +58,9 @@
         "serialization >= 0.4.4",
         "json_serialization >= 0.4.2",
         "unittest2"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.5.0@b28270bd44df571c2b1a7b14eb19f7589c145f3e",
@@ -68,11 +74,12 @@
         "websock >= 0.2.0 & < 0.3.0",
         "json_serialization",
         "unittest2"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "#head@331fbabdb018cf858ff944cd79c4b1737dd3a937",
-      "n": "json_rpc",
       "r": [
         "stew",
         "nimcrypto",
@@ -85,17 +92,12 @@
         "json_serialization >= 0.4.2",
         "unittest2"
       ],
-      "a": "Status Research & Development GmbH",
-      "d": "Ethereum remote procedure calls",
-      "l": "Apache License 2.0",
-      "x": [
-        "tests"
-      ],
-      "m": "1.6.0"
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:23Z",
+  "generatedAt": "2026-05-26T00:49:26Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

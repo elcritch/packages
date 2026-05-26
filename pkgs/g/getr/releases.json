@@ -14,23 +14,21 @@
   "releases": [
     {
       "v": "0.1.1@e72ba01950d222b9e83e6967031a0866c3a1a4eb",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@bcfb2786d0ec3b21e9dff570460d439aa7de8050",
       "r": [],
-      "a": "Julian Fondren",
-      "d": "Benchmarking wrapper around getrusage()",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "getr"
-      ],
-      "m": "0.19.4"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:13Z",
+  "generatedAt": "2026-05-26T00:48:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

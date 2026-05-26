@@ -18,7 +18,10 @@
     {
       "v": "0.5.4@06812b4d50a02fd35cafa744b9443e6d125ecf85",
       "r": [],
-      "j": []
+      "j": [],
+      "m": "~",
+      "s": "",
+      "i": []
     },
     {
       "v": "0.5.0@27642fdc794fc0cb3983b5627fd1eca8dcee12cd",
@@ -28,7 +31,10 @@
       "i": [
         "cinclude",
         "ffmpeg"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "j": []
     },
     {
       "v": "0.4.2@253322c70332e0188c237dcdba062ee0c19e54b2",
@@ -38,7 +44,10 @@
       "i": [
         "cinclude",
         "ffmpeg"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "j": []
     },
     {
       "v": "0.3.11@ad416e6d000d6d1c68fdf159974e7c515caeb3f8",
@@ -48,20 +57,22 @@
       "i": [
         "cinclude",
         "ffmpeg"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "j": []
     },
     {
       "v": "#head@1b66579f96025c88b34c73191c2e161d5f74145b",
       "r": [],
-      "a": "momeemt",
-      "d": "ffmpeg.nim is the Nim binding for FFmpeg 5.0.",
-      "l": "LGPL-2.1-or-later",
-      "s": "src",
-      "m": "1.4.4"
+      "i": [],
+      "j": [],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:40Z",
+  "generatedAt": "2026-05-26T00:47:35Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

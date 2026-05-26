@@ -29,7 +29,9 @@
       ],
       "s": "",
       "k": [],
-      "p": []
+      "p": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.7.1@e7015aa986bb4829d9543e46478f150cdd2ae35a",
@@ -40,7 +42,9 @@
       ],
       "s": "",
       "k": [],
-      "p": []
+      "p": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.7.1.@2362296dac5a4f74c489995b12a437006c536de6",
@@ -48,7 +52,12 @@
         "nimcuda >= 0.1.4 & <= 0.1.9",
         "arraymancer >= 0.7.3 & <= 0.7.32",
         "nimpy"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "x": [],
+      "k": [],
+      "p": []
     },
     {
       "v": "0.7.0@8ece85fbfefb997e331a4cf6801dbb017df77f43",
@@ -58,7 +67,9 @@
       ],
       "s": "",
       "k": [],
-      "p": []
+      "p": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.7.0.@986c8567a707844fe825966a457bd2c9a7e4e751",
@@ -67,7 +78,10 @@
         "nimpy"
       ],
       "k": [],
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.6.0@8860088b1770d11a2be49712beb8fcd49c3ef952",
@@ -78,7 +92,9 @@
       "d": "NIM simPLEX: A concise scientific Nim library (with CLI and Python binding) providing samplings, uniform grids, and traversal graphs in compositional (simplex) spaces.",
       "s": "",
       "k": [],
-      "p": []
+      "p": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.6.0.@f12b567e96299f726f7c51bb4afa75bbc043b191",
@@ -88,7 +104,10 @@
       ],
       "d": "NIM simPLEX: A concise scientific Nim library (with CLI and Python binding) providing samplings, uniform grids, and traversal graphs in compositional (simplex) spaces.",
       "k": [],
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.5.1@3982ad98c03db23b65425f6de24e85e7ab9cfe58",
@@ -99,7 +118,9 @@
       "d": "NIM simPLEX: A concise scientific Nim library (with CLI and Python binding) providing samplings, uniform grids, and traversal graphs in compositional (simplex) spaces.",
       "s": "",
       "k": [],
-      "p": []
+      "p": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.5.0@3807bb3b0dd4cf7f1605b2c02a1296a8241d93db",
@@ -110,7 +131,9 @@
       "d": "NIM simPLEX: A concise scientific Nim library (with CLI and Python binding) providing samplings, uniform grids, and traversal graphs in compositional (simplex) spaces.",
       "s": "",
       "k": [],
-      "p": []
+      "p": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.4.4@b9ec45e31031ddab66690d60b0c9b3a3421e4fbe",
@@ -122,7 +145,8 @@
       "s": "",
       "x": [],
       "k": [],
-      "p": []
+      "p": [],
+      "m": "~"
     },
     {
       "v": "0.4.3@38966240ca57623d5736abbb9ebfc19e4a56985a",
@@ -134,7 +158,8 @@
       "s": "",
       "x": [],
       "k": [],
-      "p": []
+      "p": [],
+      "m": "~"
     },
     {
       "v": "0.4.2@dbee2c1bababea2c2ababa1ec21b50d95e66a62a",
@@ -146,7 +171,8 @@
       "s": "",
       "x": [],
       "k": [],
-      "p": []
+      "p": [],
+      "m": "~"
     },
     {
       "v": "0.4.1@69fd1274248425ce949db1fb7cab6f52f792259d",
@@ -158,7 +184,8 @@
       "s": "",
       "x": [],
       "k": [],
-      "p": []
+      "p": [],
+      "m": "~"
     },
     {
       "v": "0.4.0@469b4413c23034b1647748de771c8488ab08791e",
@@ -170,7 +197,8 @@
       "s": "",
       "x": [],
       "k": [],
-      "p": []
+      "p": [],
+      "m": "~"
     },
     {
       "v": "0.3.0@9917d9aa910ee53bad43f4bdbb14afd60a573cb9",
@@ -182,7 +210,8 @@
       "s": "",
       "x": [],
       "k": [],
-      "p": []
+      "p": [],
+      "m": "~"
     },
     {
       "v": "0.2.1@c5d2f7221224084441a0dc504ef0866cf41a22e5",
@@ -193,7 +222,8 @@
       "s": "",
       "x": [],
       "k": [],
-      "p": []
+      "p": [],
+      "m": "~"
     },
     {
       "v": "0.2.0@846d080ab814be1a39eeb27b1850d903ba0fc9fb",
@@ -204,7 +234,8 @@
       "s": "",
       "x": [],
       "k": [],
-      "p": []
+      "p": [],
+      "m": "~"
     },
     {
       "v": "0.1.0@fd0b6b1acb46af6c2dcd21c497331aa0656f1ce4",
@@ -215,7 +246,8 @@
       "s": "",
       "x": [],
       "k": [],
-      "p": []
+      "p": [],
+      "m": "~"
     },
     {
       "v": "0.0.5@c3be6f5024ad2089f7161e9af715026b9fc8050c",
@@ -226,7 +258,8 @@
       "s": "",
       "x": [],
       "k": [],
-      "p": []
+      "p": [],
+      "m": "~"
     },
     {
       "v": "0.0.4@81f14ae173f184cdd4b59dc386a888932941c308",
@@ -282,20 +315,15 @@
         "arraymancer >= 0.7.33",
         "nimpy"
       ],
-      "a": "Adam M. Krajewski",
-      "d": "NIM simPLEX: A concise scientific Nim library (with CLI and Python binding) providing samplings, uniform grids, traversal graphs, and their complexes in compositional (simplex) spaces.",
-      "l": "MIT",
-      "x": [
-        "tests",
-        "assets",
-        "docs",
-        "examples"
-      ],
-      "m": "2.0.0"
+      "s": "",
+      "k": [],
+      "p": [],
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:07Z",
+  "generatedAt": "2026-05-26T00:52:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

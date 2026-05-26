@@ -11,28 +11,38 @@
   "releases": [
     {
       "v": "0.1.1@362d39ac496754489e93dd441e3e7810a2ff91fa^",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@ead1092dc22a02f2b3989ef0c832cb86e5c27cc0",
       "r": [],
-      "l": "GPL-2.0 license"
+      "l": "GPL-2.0 license",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@8ed2b13e9fb80733d23d0440663a1a2ac44d01af",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@2a893078f8de43334752ada6f3df214cdcc9a10d",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@362d39ac496754489e93dd441e3e7810a2ff91fa",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:45Z",
+  "generatedAt": "2026-05-26T00:49:48Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

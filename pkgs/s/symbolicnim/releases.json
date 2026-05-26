@@ -14,31 +14,39 @@
       "r": [
         "arraymancer >= 0.5",
         "terminaltables"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.2@f1b26717e74ed588bde346f059a6bf6c5117e665",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.1@421fc62bf7655971f38fe8d6ecf25bb8204c0adf",
       "r": [],
-      "m": "1.3.5"
+      "m": "1.3.5",
+      "s": ""
     },
     {
       "v": "0.2.0@5d36b0e037abd878567a218836b41d9e9d8b6402",
       "r": [],
-      "m": "1.3.5"
+      "m": "1.3.5",
+      "s": ""
     },
     {
       "v": "0.1.1@0800891d877288dd0f59ae09c5897342bbff08fc",
       "r": [],
-      "m": "1.3.5"
+      "m": "1.3.5",
+      "s": ""
     },
     {
       "v": "0.1@c310b97cd00353b4ec40f990faad609c084c3e1f",
       "r": [],
-      "m": "1.3.5"
+      "m": "1.3.5",
+      "s": ""
     },
     {
       "v": "#head@f763ce704afe31fa42f3db67f5cbbf6d3f28f346",
@@ -46,15 +54,12 @@
         "arraymancer >= 0.5",
         "terminaltables"
       ],
-      "a": "HugoGranstrom",
-      "d": "A symbolic algebra library written in Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.2.6"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:31Z",
+  "generatedAt": "2026-05-26T00:55:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -14,25 +14,31 @@
       "r": [
         "nimquery",
         "unifetch"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@5b23a11c4ce1bc9eec59434b74913ec00befb76f^",
       "r": [
         "nimquery",
         "unifetch"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@5b23a11c4ce1bc9eec59434b74913ec00befb76f",
       "r": [
         "nimquery",
         "unifetch"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:45Z",
+  "generatedAt": "2026-05-26T00:54:47Z",
   "allDeps": {
     "packages": [
       "nimquery",

@@ -11,32 +11,37 @@
   "releases": [
     {
       "v": "0.0.4@a3a7c84cbdcfacde716e359c0c52b6c5e134a526",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.0.3@e0473ceefb1fe939306cffad306a6e068f1aff5f",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.0.2@58b2e0ac3bd214fa0a114c4d6031dde531ce1c48",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.0.1@ac52c3f804d43bd1297f301fcebc5b4b911eda3c",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@64f392fc6af423d949d3c99ee0343b8b7fdba59e",
       "r": [],
-      "a": "ajusa",
-      "d": "HTML templating language",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.2.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:57Z",
+  "generatedAt": "2026-05-26T00:46:50Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

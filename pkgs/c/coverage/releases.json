@@ -16,9 +16,6 @@
       "r": [
         "nake"
       ],
-      "a": "Yuriy Glukhov",
-      "d": "Code coverage library for Nim",
-      "l": "MIT",
       "j": [
         "coverageTemplate.html",
         "coverage.nim"
@@ -30,7 +27,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:37Z",
+  "generatedAt": "2026-05-26T00:46:31Z",
   "allDeps": {
     "packages": [
       "nake"

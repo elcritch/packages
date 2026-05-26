@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@ff4719f156900a5785fda32b729b6fa87522f911",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@d087ea8a83e5ec62f1388df0945f123eb8081bdb",
       "r": [],
-      "a": "Jack Tang",
-      "d": "A new awesome nimble package",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:54:07Z",
+  "generatedAt": "2026-05-26T00:57:04Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

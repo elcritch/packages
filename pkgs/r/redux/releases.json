@@ -10,19 +10,17 @@
   "releases": [
     {
       "v": "0.1.0@e7d7057cdc9e91f82b704c759f103918583c4f91",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "#head@57fab940eae546ba6c4bb059c98fca17bb8691fd",
       "r": [],
-      "a": "Pragmagic, Inc.",
-      "d": "Predictable state container.",
-      "l": "MIT",
-      "m": "0.17"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:09Z",
+  "generatedAt": "2026-05-26T00:54:12Z",
   "allDeps": {
     "packages": [],
     "urls": [],

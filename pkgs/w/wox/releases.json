@@ -14,17 +14,24 @@
   "releases": [
     {
       "v": "0.4.0@e8b9dc91c3b6df9f668c99112adc898de9bd1bf4",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.5.0@1bdfb28685fed2226bd8401290157af668e24eb0",
       "r": [],
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.5.1@bc7f65618e13d44af811a91faa0a103c75c93ce5",
       "r": [],
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.0@b671b5bdab044dd8e57a594245d78cd823dcdb8a",
@@ -32,7 +39,8 @@
         "unicodeplus >= 0.8.0"
       ],
       "m": "0.19.0",
-      "p": []
+      "p": [],
+      "s": ""
     },
     {
       "v": "1.1.0@3b59a9d0b8330098818c4ffc435bd44539a8d663",
@@ -40,7 +48,8 @@
         "unicodeplus >= 0.8.0"
       ],
       "m": "0.19.0",
-      "p": []
+      "p": [],
+      "s": ""
     },
     {
       "v": "1.2.0@632365b8e957d4eb04962b46ccbd9f9dce50f12a",
@@ -48,7 +57,8 @@
         "unicodeplus >= 0.8.0"
       ],
       "m": "0.19.0",
-      "p": []
+      "p": [],
+      "s": ""
     },
     {
       "v": "1.2.1@3b731b3bea7b36c7dcfa6bb480b920b96ac9d940",
@@ -56,22 +66,21 @@
         "unicodeplus >= 0.8.0"
       ],
       "m": "0.19.0",
-      "p": []
+      "p": [],
+      "s": ""
     },
     {
       "v": "#head@192439d1a6ecc152c828a8f96bae798f023747d0",
       "r": [
         "unicodeplus >= 0.8.0"
       ],
-      "a": "roose",
-      "d": "Helper library for writing Wox plugins in Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.19.0"
+      "m": "0.19.0",
+      "p": [],
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:54:04Z",
+  "generatedAt": "2026-05-26T00:57:01Z",
   "allDeps": {
     "packages": [
       "graphemes > 0.5.1",

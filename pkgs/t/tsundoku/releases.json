@@ -15,17 +15,21 @@
       "v": "0.1.0@78c9d4a56a0ef6726cda212e197b53835f108322^",
       "r": [
         "jester"
-      ]
+      ],
+      "m": "~",
+      "p": []
     },
     {
       "v": "#head@78c9d4a56a0ef6726cda212e197b53835f108322",
       "r": [
         "jester"
-      ]
+      ],
+      "m": "~",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:09Z",
+  "generatedAt": "2026-05-26T00:56:06Z",
   "allDeps": {
     "packages": [
       "asynctools",

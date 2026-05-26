@@ -24,7 +24,9 @@
       ],
       "b": "",
       "k": [],
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@bc433561030529b0338060249de11d305bfc3dd3",
@@ -34,7 +36,9 @@
       ],
       "b": "",
       "k": [],
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.3.0@562b978c123a9577bea3c5561eb30c4442cd5b14",
@@ -44,7 +48,9 @@
       ],
       "b": "",
       "k": [],
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.0@4306fdef2fa5587dffafba4583ee0b92fc1ed30d",
@@ -53,7 +59,11 @@
         "gl:lurlo/useragent",
         "cligen"
       ],
-      "k": []
+      "k": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "1.0.1@ae8139d756a803bd5b469bb34dc4e3249ff25c55",
@@ -63,7 +73,11 @@
         "cligen"
       ],
       "l": "proprietary",
-      "k": []
+      "k": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "1.0.2@8b50f401b33fb9dd701a93508aa75028b614ac88",
@@ -72,7 +86,12 @@
         "gl:lurlo/useragent",
         "cligen"
       ],
-      "l": "proprietary"
+      "l": "proprietary",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "1.0.3@08758d94f4fca5e08b4e87f6e649980b312dcce3",
@@ -83,7 +102,12 @@
       ],
       "a": "Thiago Navarro",
       "d": "NBC News scraper",
-      "l": "gpl-3-only"
+      "l": "gpl-3-only",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "1.0.4@fc4a0e2e64c73c8620485cf498a6a32ae396db5a",
@@ -94,7 +118,12 @@
       ],
       "a": "Thiago Navarro",
       "d": "NBC News scraper",
-      "l": "gpl-3-only"
+      "l": "gpl-3-only",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "1.0.5@110c06873520076ce8dc8755a653a0c4d831377e",
@@ -105,7 +134,12 @@
       ],
       "a": "Thiago Navarro",
       "d": "NBC News scraper",
-      "l": "gpl-3.0-only"
+      "l": "gpl-3.0-only",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "1.0.6@8cd6dfba067425973502cf6281c4b46c5a6c56d8^",
@@ -116,7 +150,12 @@
       ],
       "a": "Thiago Navarro",
       "d": "NBC News scraper",
-      "l": "gpl-3.0-only"
+      "l": "gpl-3.0-only",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@8cd6dfba067425973502cf6281c4b46c5a6c56d8",
@@ -127,11 +166,16 @@
       ],
       "a": "Thiago Navarro",
       "d": "NBC News scraper",
-      "l": "gpl-3.0-only"
+      "l": "gpl-3.0-only",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:54Z",
+  "generatedAt": "2026-05-26T00:50:56Z",
   "allDeps": {
     "packages": [
       "cligen > 0.3.0",

@@ -15,24 +15,19 @@
   "releases": [
     {
       "v": "1.0@a442228f7a6f918277b0373611388942c6e23fcc",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": [],
+      "e": ""
     },
     {
       "v": "#head@90aece0274f3919fbaa39c4e3cd744edd902f146",
-      "r": [],
-      "a": "Pierre Métras <pierre@alterna.tv>",
-      "d": "Nim0 is a toy one-pass compiler for a limited subset of the Nim language, targetting a 32-bit RISC CPU. Compiled Nim0 programs can be executed in the RISC emulator. All this in 5 heavily documented sources, totalling less than 4k LOC. It is a port of Niklaus Wirth's Oberon-0 compiler as described in his book Compiler construction (included in the package), cross-referenced in the sources, that you can follow while reading the book.",
-      "l": "MIT",
-      "s": "src",
-      "p": [
-        "nim0"
-      ],
-      "e": "c",
-      "m": "1.0.0"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:12Z",
+  "generatedAt": "2026-05-26T00:51:14Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -13,22 +13,19 @@
   "releases": [
     {
       "v": "0.1.0@88f4ea70b6b67d81c9a38e41502c6ce97885db24",
-      "r": []
+      "r": [],
+      "m": "~",
+      "i": []
     },
     {
       "v": "#head@98b1cdb6db3cf83f32d8fe64d0e987a454570735",
       "r": [],
-      "a": "fox0430",
-      "d": "Nim bindings for Ghostscript",
-      "l": "MIT",
-      "i": [
-        "lowlevel"
-      ],
-      "m": "2.0.6"
+      "m": "~",
+      "i": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:14Z",
+  "generatedAt": "2026-05-26T00:48:14Z",
   "allDeps": {
     "packages": [],
     "urls": [],

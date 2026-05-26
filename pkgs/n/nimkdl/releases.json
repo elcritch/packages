@@ -23,7 +23,10 @@
         "graphemes 0.12.0",
         "unicodedb 0.13.0"
       ],
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": "",
+      "y": []
     },
     {
       "v": "2.0.7@9dfeb00767ff6a223a4f52ece419f4f462f68282",
@@ -32,7 +35,10 @@
         "graphemes 0.12.0",
         "unicodedb 0.13.0"
       ],
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": "",
+      "y": []
     },
     {
       "v": "2.0.6@600f86cfa4e28083ddf6b3e261332530bf587455",
@@ -40,7 +46,11 @@
         "bigints",
         "graphemes 0.12.0",
         "unicodedb 0.13.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "y": [],
+      "p": []
     },
     {
       "v": "2.0.5@283b99a95d51c7f1dec89644a1e0d8bdda09453c",
@@ -48,7 +58,11 @@
         "bigints",
         "graphemes 0.12.0",
         "unicodedb 0.13.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "y": [],
+      "p": []
     },
     {
       "v": "2.0.4@ebb634f43b6f1fd99b2894f88492c866defcc05b",
@@ -56,7 +70,11 @@
         "bigints",
         "graphemes 0.12.0",
         "unicodedb 0.13.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "y": [],
+      "p": []
     },
     {
       "v": "2.0.3@121ec32231fb61c9a996117d5a78ad4256caae86",
@@ -64,7 +82,11 @@
         "bigints",
         "graphemes 0.12.0",
         "unicodedb 0.13.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "y": [],
+      "p": []
     },
     {
       "v": "2.0.2@93275d78a69e8454cbd1578b295cb26285ef45d5",
@@ -72,7 +94,11 @@
         "bigints",
         "graphemes 0.12.0",
         "unicodedb 0.13.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "y": [],
+      "p": []
     },
     {
       "v": "2.0.1@30c8aee23135771e36f5485283fbe8007861aa5e",
@@ -80,7 +106,11 @@
         "bigints",
         "graphemes 0.12.0",
         "unicodedb 0.13.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "y": [],
+      "p": []
     },
     {
       "v": "2.0.0@b458649179ad7686a7ac5f66ebb8e2277f91bdaf",
@@ -93,29 +123,25 @@
         "src/kdl/query.nim",
         "src/kdl/schema.nim"
       ],
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@4755e537a848e5f91465ccb314013fc0a7ce7c2f",
-      "n": "nimkdl",
       "r": [
         "bigints",
         "graphemes 0.12.0",
         "unicodedb 0.13.0"
       ],
-      "a": "niltempus",
-      "d": "KDL 2.0 document parser for Nim",
-      "l": "MIT",
-      "s": "src",
-      "y": [
-        "src/nimkdl/query.nim",
-        "src/nimkdl/schema.nim"
-      ],
-      "m": "2.0.0"
+      "p": [],
+      "m": "~",
+      "s": "",
+      "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:54Z",
+  "generatedAt": "2026-05-26T00:51:56Z",
   "allDeps": {
     "packages": [
       "bigints > 2.0.0",

@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "1.0.0@32604f9c769fcc132e78da4bec530637ac6b550d",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@9f3e7979499529ad5d1023e2559c6c98a119ccc8",
       "r": [],
-      "a": "Araq",
-      "d": "Errorcodes maps Nim error states and POSIX and HTTP error codes to a single common enum. It can be used as an alternative to exceptions.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:26Z",
+  "generatedAt": "2026-05-26T00:47:18Z",
   "allDeps": {
     "packages": [],
     "urls": [],

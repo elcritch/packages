@@ -13,7 +13,8 @@
       "r": [
         "stringinterpolation",
         "sph"
-      ]
+      ],
+      "m": "~"
     },
     {
       "v": "#head@1570861e5769daaa89aadd6f45e88bd8acddb6c5",
@@ -21,14 +22,11 @@
         "stringinterpolation",
         "sph"
       ],
-      "a": "Aidan Steele",
-      "d": "AWS SDK for Nim",
-      "l": "MIT",
-      "m": "0.13.1"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:20Z",
+  "generatedAt": "2026-05-26T00:45:12Z",
   "allDeps": {
     "packages": [
       "sph",

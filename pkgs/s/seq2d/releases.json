@@ -13,21 +13,27 @@
       "v": "0.1.1@4140d178bc583f3a46c347fce385d56549e8fbd8^",
       "r": [
         "nimtest >= 0.1.2"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@c998c1f7654d858583b251ae4d12c2fe487bd262",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@4140d178bc583f3a46c347fce385d56549e8fbd8",
       "r": [
         "nimtest >= 0.1.2"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:34Z",
+  "generatedAt": "2026-05-26T00:54:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

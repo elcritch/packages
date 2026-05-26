@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@b73d00fe69a45e337d74e9f804467efd4875c374",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@e0b9f6de3a09cf73af8cb20af8d005763d729a61",
       "r": [],
-      "a": "Wolfgang Schuster",
-      "d": "An entity component system package",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.19.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:01Z",
+  "generatedAt": "2026-05-26T00:44:53Z",
   "allDeps": {
     "packages": [],
     "urls": [],

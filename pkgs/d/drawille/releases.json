@@ -13,22 +13,19 @@
   "releases": [
     {
       "v": "0.1.0@28c45ddc8af4690c822a5814f5c2102d039b9df1",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "#head@1b2daec77e6bbb78bc5a330b92796386e172bd57",
       "r": [],
-      "a": "Peter Munch-Ellingsen",
-      "d": "Allows drawing in the terminal by using UTF Braille characters. Idea from https://github.com/asciimoo/drawille",
-      "l": "MIT",
-      "x": [
-        "examples"
-      ],
-      "m": "0.17.0"
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:11Z",
+  "generatedAt": "2026-05-26T00:47:04Z",
   "allDeps": {
     "packages": [],
     "urls": [],

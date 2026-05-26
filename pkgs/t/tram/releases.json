@@ -11,28 +11,31 @@
   "releases": [
     {
       "v": "0.2.1@192f8fb5f0645bc3c2f4e93b41c79ba6332b2cf4",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@ada96a054845a8451b3e148adc9ee2ecf791d83b",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@79f4abbae77928277876ee18d35dc01f74100737",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@a85ed168025a12b253993006cf35d27a9f1da3cc",
       "r": [],
-      "a": "Federico A. Corazza",
-      "d": "Traffic Analysis in Nim",
-      "l": "GPL-3.0",
-      "s": "src",
-      "m": "1.4.8"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:03Z",
+  "generatedAt": "2026-05-26T00:56:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

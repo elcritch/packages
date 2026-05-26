@@ -17,7 +17,9 @@
         "nre >= 1.0.0",
         "commandeer >= 0.10.5",
         "tempfile >= 0.1.4"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "0.0.10@5cceeb04b1741b220d45984c8f3facad159fb4cd",
@@ -25,7 +27,8 @@
         "nre >= 1.0.0",
         "commandeer >= 0.9.1 & < 0.10.2"
       ],
-      "m": "0.13.0"
+      "m": "0.13.0",
+      "x": []
     },
     {
       "v": "0.0.9@54f36a1ed5da8987486fbda40a7c0d404f2227f3",
@@ -100,11 +103,13 @@
         "nre >= 1.0.0",
         "commandeer >= 0.10.5",
         "tempfile >= 0.1.4"
-      ]
+      ],
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:47Z",
+  "generatedAt": "2026-05-26T00:46:40Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

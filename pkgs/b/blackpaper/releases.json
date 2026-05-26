@@ -13,22 +13,21 @@
       "v": "0.1.0@bffb234e80c72501685d87bbbb3d344263475155",
       "r": [
         "floof"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@64b2a875ec926da42dbfd2be4b98006d92df1bca",
       "r": [
         "floof"
       ],
-      "a": "George Lemon",
-      "d": "A simple Password Strength Estimator",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:45Z",
+  "generatedAt": "2026-05-26T00:45:37Z",
   "allDeps": {
     "packages": [
       "floof",

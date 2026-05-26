@@ -14,14 +14,18 @@
       "r": [
         "silky >= 0.0.1",
         "jsony >= 1.1.6"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.0@64ddcbdd9e78f5f1c0fe498ae528717afb8ea947",
       "r": [
         "silky >= 0.0.1",
         "jsony >= 1.1.6"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@2012906732cc104dc08fb80a3cec976ddfd9a98a",
@@ -29,15 +33,12 @@
         "silky >= 0.0.1",
         "jsony >= 1.1.6"
       ],
-      "a": "Andre von Houck",
-      "d": "A Nim profile viewer for Chrome JSON trace files.",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.2.4"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:52Z",
+  "generatedAt": "2026-05-26T00:47:52Z",
   "allDeps": {
     "packages": [
       "bumpy",

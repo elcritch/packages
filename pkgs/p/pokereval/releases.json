@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@76b73ce2e2c276deab5b14fe12a09a67cdc1073f",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@2964a9d6a7574766c2c89c4740f319d61545e88c",
       "r": [],
-      "a": "jasonlu7",
-      "d": "A poker hand evaluator",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:36Z",
+  "generatedAt": "2026-05-26T00:53:40Z",
   "allDeps": {
     "packages": [],
     "urls": [],

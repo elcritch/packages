@@ -13,48 +13,53 @@
       "v": "0.5.4@fb8ec957d6f64a213bf5ff45d0f7930702f428bd",
       "r": [
         "combparser"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.5.3@ef2f132f9747f924dcbfba7ab49d505fdbab78ae",
       "r": [
         "combparser"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.5.2@cdc01b5d88c709402119791ea43deb9fc42af6e4",
       "r": [
         "combparser"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.5.1@f2977516e404be6b7fd572f9775e3c55a5e332cb",
       "r": [
         "combparser"
       ],
-      "m": "0.19.0"
+      "m": "0.19.0",
+      "s": ""
     },
     {
       "v": "0.4.0@cc2ea830082c6adc98042ca72c0a0344cc8354f1",
       "r": [
         "combparser"
       ],
-      "m": "0.19.0"
+      "m": "0.19.0",
+      "s": ""
     },
     {
       "v": "#head@b09f1c9503b4ccfb39079504ea0eac5eb2a4e209",
       "r": [
         "combparser"
       ],
-      "a": "Peter Munch-Ellingsen",
-      "d": "Pure Nim library for using protobuf in Nim. It is implemented through a string parsing macro that generate code based on the official protobuf specification.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:47Z",
+  "generatedAt": "2026-05-26T00:53:51Z",
   "allDeps": {
     "packages": [
       "combparser"

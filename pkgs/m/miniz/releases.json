@@ -11,25 +11,25 @@
   "releases": [
     {
       "v": "0.2.0@e99dc20c36a86576d983dfa14cf1db2439193861",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@c424ca808e2eb91382921b4a070862cd9e16d822",
       "r": [],
-      "m": "0.18.1"
+      "m": "0.18.1",
+      "s": ""
     },
     {
       "v": "#head@78852d53fb408432383c2e9bb625224f156c7b96",
       "r": [],
-      "a": "treeform",
-      "d": "Wrapper for Miniz lib.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:33Z",
+  "generatedAt": "2026-05-26T00:50:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

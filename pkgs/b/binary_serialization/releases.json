@@ -16,26 +16,22 @@
       "r": [
         "serialization",
         "stew"
-      ]
+      ],
+      "m": "~",
+      "x": []
     },
     {
       "v": "#head@38a73a70fd43f3835ca01a877353858b19e39d70",
-      "n": "binary_serialization",
       "r": [
         "serialization",
         "stew"
       ],
-      "a": "Status Research & Development GmbH",
-      "d": "Flexible binary serialization not relying on run-time type information",
-      "l": "Apache License 2.0",
-      "x": [
-        "tests"
-      ],
-      "m": "1.2.16"
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:40Z",
+  "generatedAt": "2026-05-26T00:45:31Z",
   "allDeps": {
     "packages": [
       "faststreams",

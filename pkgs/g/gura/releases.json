@@ -17,17 +17,21 @@
       "v": "0.1.1@3372c3e8976c87066d2ee97fcd66e35609af66a1^",
       "r": [
         "npeg >= 1.2.2"
-      ]
+      ],
+      "x": [],
+      "y": []
     },
     {
       "v": "#head@3372c3e8976c87066d2ee97fcd66e35609af66a1",
       "r": [
         "npeg >= 1.2.2"
-      ]
+      ],
+      "x": [],
+      "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:31Z",
+  "generatedAt": "2026-05-26T00:48:34Z",
   "allDeps": {
     "packages": [
       "npeg"

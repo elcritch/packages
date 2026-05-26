@@ -10,7 +10,8 @@
   "releases": [
     {
       "v": "0.2.0@8d6a6a38b90fb8ee3ec2230839773e69aab36d80",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "0.1.0@1b4d969fca86a8756cf35ec8a116f4d6a9285464",
@@ -19,16 +20,12 @@
     },
     {
       "v": "#head@e6bee85e8c7a89af279460e4ca03283d817d1ce9",
-      "n": "constantine",
       "r": [],
-      "a": "Mamy Ratsimbazafy",
-      "d": "This library provides thoroughly tested and highly-optimized implementations of cryptography protocols.",
-      "l": "MIT or Apache License 2.0",
-      "m": "2.2.0"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:36Z",
+  "generatedAt": "2026-05-26T00:46:30Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

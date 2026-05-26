@@ -14,42 +14,54 @@
       "r": [
         "fusion",
         "yaml 2.0.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.2.2@b139d72a4bfb62e5c6d877ef1323d3bcb9ec697c",
       "r": [
         "fusion",
         "yaml 2.0.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.2.1@caca68fbd7035cc33c1f472ab897760a7caa3eaa",
       "r": [
         "fusion",
         "yaml 2.0.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.2.0@7d520a4f9b0d9fdfe5497027e592eed893fd0c92",
       "r": [
         "fusion",
         "yaml 2.0.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.1.0@c1faecd05ad3fd97380f075b0f91dad1dd47c9ee",
       "r": [
         "fusion",
         "yaml 2.0.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.6@6767bc4e0c6729cd73fa02977c1b645c1e7c71b7",
       "r": [
         "fusion",
         "yaml 2.0.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.5@b64bd99332afaea29c4089f17f4af8cbddcaa9a5",
@@ -57,7 +69,8 @@
         "fusion",
         "yaml 1.1.0"
       ],
-      "m": "1.6.8"
+      "m": "1.6.8",
+      "s": ""
     },
     {
       "v": "1.0.4@1307fbe063d936c5d8f98392330852257802a805",
@@ -65,7 +78,8 @@
         "fusion",
         "yaml 1.1.0"
       ],
-      "m": "1.6.8"
+      "m": "1.6.8",
+      "s": ""
     },
     {
       "v": "1.0.3@db3eb6bb012007e6cce42dc888a339c207b325a6",
@@ -73,7 +87,8 @@
         "fusion",
         "yaml 1.1.0"
       ],
-      "m": "1.6.8"
+      "m": "1.6.8",
+      "s": ""
     },
     {
       "v": "1.0.2@a435d7275b99e4ecb679658c4f3fb247b1885740",
@@ -81,7 +96,8 @@
         "fusion",
         "yaml 1.1.0"
       ],
-      "m": "1.6.8"
+      "m": "1.6.8",
+      "s": ""
     },
     {
       "v": "1.0.1@ef06420b514776ae6834aa4b6af47c563e80fd82",
@@ -89,7 +105,8 @@
         "fusion",
         "yaml >= 1.1.0"
       ],
-      "m": "1.6.8"
+      "m": "1.6.8",
+      "s": ""
     },
     {
       "v": "1.0.0@9ec2e1cbf23d18b8b61f1ef2d9278b31c360e0c2",
@@ -98,7 +115,8 @@
         "yaml >= 1.1.0",
         "gh:tanelso2/nim_utils >= 0.4.0"
       ],
-      "m": "1.6.8"
+      "m": "1.6.8",
+      "s": ""
     },
     {
       "v": "#head@4304089cabbc61bac64192874faf34250a56a6e2",
@@ -106,15 +124,12 @@
         "fusion",
         "yaml 2.0.0"
       ],
-      "a": "Thomas Nelson",
-      "d": "A library for working with YAML in Nim",
-      "l": "Unlicense",
-      "s": "src",
-      "m": "2.0.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:54:21Z",
+  "generatedAt": "2026-05-26T00:57:18Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -17,17 +17,23 @@
       "v": "0.1.1@39379574b8faa1a18706275d337ef914cb42dbb0^",
       "r": [
         "hyperx >= 0.1.53"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "#head@39379574b8faa1a18706275d337ef914cb42dbb0",
       "r": [
         "hyperx >= 0.1.53"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:58Z",
+  "generatedAt": "2026-05-26T00:49:02Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

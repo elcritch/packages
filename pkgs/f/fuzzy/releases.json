@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@6e62092598689dfdc982e15a337f0a069c69be3b",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@8257562c080e398438576d78ef2ba66d344d86cf",
       "r": [],
-      "a": "Jedrzej Nowak",
-      "d": "Pure nim fuzzy search implementation. Supports substrings etc",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.2.8"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:02Z",
+  "generatedAt": "2026-05-26T00:48:00Z",
   "allDeps": {
     "packages": [],
     "urls": [],

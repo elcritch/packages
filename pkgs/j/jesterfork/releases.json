@@ -36,14 +36,20 @@
       "v": "0.6.0@2dfac077170c62cd6ffc73e3dcfa29d29c641dcf",
       "r": [
         "httpbeast >= 0.4.0"
-      ]
+      ],
+      "m": "~",
+      "x": [],
+      "y": []
     },
     {
       "v": "0.5.0@0cd2a3421ae09eabcd0acd400362bb7266a8310d",
       "r": [
         "httpbeast >= 0.2.2",
         "gh:timotheecour/asynctools #pr_fix_compilation"
-      ]
+      ],
+      "m": "~",
+      "x": [],
+      "y": []
     },
     {
       "v": "0.4.3@6f3b10fb7cb5381f13bd24554849f0c3831e2008",
@@ -51,7 +57,9 @@
         "httpbeast >= 0.2.2",
         "gh:timotheecour/asynctools #pr_fix_compilation"
       ],
-      "m": "0.18.1"
+      "m": "0.18.1",
+      "x": [],
+      "y": []
     },
     {
       "v": "0.4.2@9ffb309bd4dceb348efe854ae49eb3c883ac52fd",
@@ -59,7 +67,9 @@
         "httpbeast >= 0.2.2",
         "gh:timotheecour/asynctools #pr_fix_compilation"
       ],
-      "m": "0.18.1"
+      "m": "0.18.1",
+      "x": [],
+      "y": []
     },
     {
       "v": "0.4.1@542603c2b0bd13846478d630138ce0a627d8a30a",
@@ -67,7 +77,9 @@
         "httpbeast >= 0.2.0",
         "asynctools"
       ],
-      "m": "0.18.1"
+      "m": "0.18.1",
+      "x": [],
+      "y": []
     },
     {
       "v": "0.4.0@aa4b17be412df716be637a039d2ef578d0605abf",
@@ -75,7 +87,9 @@
         "httpbeast >= 0.2.0",
         "asynctools"
       ],
-      "m": "0.18.1"
+      "m": "0.18.1",
+      "x": [],
+      "y": []
     },
     {
       "v": "0.3.0@f957ad4042ec196f5bfb467e5293c2cfcd1f77f4",
@@ -83,17 +97,23 @@
         "httpbeast",
         "asynctools"
       ],
-      "m": "0.18.0"
+      "m": "0.18.0",
+      "x": [],
+      "y": []
     },
     {
       "v": "0.2.1@c5d58e9557cdb0c77639387844d3b0e637b6624e",
       "r": [],
-      "m": "0.16.0"
+      "m": "0.16.0",
+      "x": [],
+      "y": []
     },
     {
       "v": "0.2.0@11d50760df71b389563e1ddad2675c6fbfbab0b0",
       "r": [],
-      "m": "0.16.0"
+      "m": "0.16.0",
+      "x": [],
+      "y": []
     },
     {
       "v": "0.1.1@6c9bfa3607fd982958c09c92ed57913371d551a4",
@@ -120,7 +140,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:18Z",
+  "generatedAt": "2026-05-26T00:49:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

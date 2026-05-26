@@ -14,9 +14,6 @@
     {
       "v": "#head@78fc72882ee7aaf5e25dcf66f4429ebba1e8cc07",
       "r": [],
-      "a": "Nycto",
-      "d": "Delaunay triangulator",
-      "l": "MIT",
       "s": "src",
       "x": [
         "bin"
@@ -25,7 +22,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:58Z",
+  "generatedAt": "2026-05-26T00:46:51Z",
   "allDeps": {
     "packages": [],
     "urls": [],

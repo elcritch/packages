@@ -15,32 +15,36 @@
       "r": [
         "nimgen >= 0.4.0"
       ],
-      "h": true
+      "h": true,
+      "x": []
     },
     {
       "v": "0.1.2@3c46b6c493bd1ea9c6066eaafbbe1b6af83994af",
       "r": [
         "nimgen >= 0.1.4"
       ],
-      "h": true
+      "h": true,
+      "x": []
     },
     {
       "v": "0.1.1@8a18b4a35ad238f14228e12152b6eba2343e8cde",
       "r": [
         "nimgen >= 0.1.4"
       ],
-      "h": true
+      "h": true,
+      "x": []
     },
     {
       "v": "#head@dae9d23d742354350cd221b28c3605c87fee737b",
       "r": [
         "nimgen >= 0.4.0"
       ],
-      "h": true
+      "h": true,
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:14Z",
+  "generatedAt": "2026-05-26T00:52:17Z",
   "allDeps": {
     "packages": [
       "c2nim",

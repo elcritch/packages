@@ -14,29 +14,32 @@
       "v": "6.5.1@f461f1a02a7fffbda5367e426d783108eb536c3a",
       "r": [
         "results >= 0.5.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "e": ""
     },
     {
       "v": "6.5.0@6509fa765e0607c6ef0e10d52b3d46a5ba5973ef",
       "r": [
         "results >= 0.5.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "e": ""
     },
     {
       "v": "#head@c9ce60944110b10406ec8a6ad312efb31722fd69",
       "r": [
         "results >= 0.5.0"
       ],
-      "a": "xTrayambak",
-      "d": "Nim bindings to simdutf",
-      "l": "Apache-2.0",
-      "s": "src",
-      "e": "cpp",
-      "m": "2.0.0"
+      "m": "~",
+      "s": "",
+      "e": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:48Z",
+  "generatedAt": "2026-05-26T00:54:50Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

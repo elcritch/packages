@@ -15,7 +15,9 @@
         "json_serialization",
         "chronos",
         "stew"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@4d7b0fecc88693254ffe86f515d262797a778d60",
@@ -23,7 +25,8 @@
         "json_serialization",
         "mummy"
       ],
-      "m": "2.2.4"
+      "m": "2.2.4",
+      "s": ""
     },
     {
       "v": "0.3.0@0fec27588664ea5e1bc9ac1e07e643d5c09f2baa",
@@ -32,7 +35,8 @@
         "mummy",
         "taskpools"
       ],
-      "m": "2.2.4"
+      "m": "2.2.4",
+      "s": ""
     },
     {
       "v": "0.8.0@dda8eb43152ea795d0315cfa02f5b53e3672653d",
@@ -40,7 +44,8 @@
         "gh:gokr/mummy",
         "taskpools"
       ],
-      "m": "2.2.4"
+      "m": "2.2.4",
+      "s": ""
     },
     {
       "v": "0.9.0@3d2b334b0da8496b52bf5bc859f1f234c0a63cf0",
@@ -49,7 +54,8 @@
         "taskpools"
       ],
       "d": "Easy-to-use Model Context Protocol (MCP) server library for Nim",
-      "m": "2.2.4"
+      "m": "2.2.4",
+      "s": ""
     },
     {
       "v": "0.9.1@4eae6a857cc3152b7388c74421d9a7425327ee04",
@@ -58,7 +64,8 @@
         "taskpools"
       ],
       "d": "Easy-to-use Model Context Protocol (MCP) server library for Nim",
-      "m": "2.2.4"
+      "m": "2.2.4",
+      "s": ""
     },
     {
       "v": "#head@fa6c1e09f3c368b4195aeff37569b1cfbc84597e",
@@ -66,15 +73,13 @@
         "gh:gokr/mummyx",
         "taskpools"
       ],
-      "a": "Göran Krampe",
       "d": "Easy-to-use Model Context Protocol (MCP) server library for Nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.2.4"
+      "m": "2.2.4",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:37Z",
+  "generatedAt": "2026-05-26T00:51:38Z",
   "allDeps": {
     "packages": [
       "bearssl <= 0.1.0",

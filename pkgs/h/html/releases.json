@@ -11,24 +11,25 @@
   "releases": [
     {
       "v": "0.1.1@91bdfcda28fdb9768861f41ae62cc385762a8343",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.6@c0a4198ecd589420850140a44c6e0e1b2d055344",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@5d1de6b6f988d0c4cdcd0b965edcb03015cbe13d",
       "r": [],
-      "a": "savannt",
-      "d": "Typed HTML5 element data and builder for structured HTML",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:48Z",
+  "generatedAt": "2026-05-26T00:48:53Z",
   "allDeps": {
     "packages": [],
     "urls": [],

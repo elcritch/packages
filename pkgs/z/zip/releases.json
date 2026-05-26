@@ -13,22 +13,19 @@
   "releases": [
     {
       "v": "0.3.1@b59d3917a569abf384531f985b5c0d02852976f3",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "#head@1bc02a1d888cedb53075ca81d9fe3553c16ef10a",
       "r": [],
-      "a": "Anonymous",
-      "d": "Wrapper for the zip library",
-      "l": "MIT",
-      "x": [
-        "tests"
-      ],
-      "m": "0.10.0"
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:54:27Z",
+  "generatedAt": "2026-05-26T00:57:25Z",
   "allDeps": {
     "packages": [],
     "urls": [],

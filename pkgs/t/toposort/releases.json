@@ -11,20 +11,20 @@
   "releases": [
     {
       "v": "0.1.0@dcd45f71df79e6e551afb056abcd7cc9bec02dbc",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@58f656c425ff1762c59e1bc471fd9435d8d13138",
       "r": [],
-      "a": "Evan Perry Grove",
       "d": "Efficient, dependency-free topological sort",
-      "l": "BSD-3-Clause",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:01Z",
+  "generatedAt": "2026-05-26T00:55:59Z",
   "allDeps": {
     "packages": [],
     "urls": [],

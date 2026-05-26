@@ -11,20 +11,17 @@
   "releases": [
     {
       "v": "0.1.1@7aef1672178db78d26c5a872ba025f03b2c8a9c6",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@7f35f755dab02ca9830b067913bba74512f50925",
-      "r": [],
-      "a": "MistressRemilia",
-      "d": "Bindings for ZStandard",
-      "l": "GPL-3.0-or-later",
-      "s": "src",
-      "m": "1.6.0"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:10Z",
+  "generatedAt": "2026-05-26T00:54:14Z",
   "allDeps": {
     "packages": [],
     "urls": [],

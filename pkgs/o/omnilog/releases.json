@@ -10,20 +10,17 @@
   "releases": [
     {
       "v": "0.1.0@e0257baecbf80e0dbd9ca0255b980ae90dc1b833",
-      "r": []
+      "r": [],
+      "s": ""
     },
     {
       "v": "#head@b9da151316c3e651e846e018e0bca418faa8132c",
-      "n": "omnilog",
       "r": [],
-      "a": "Christoph Herzog",
-      "d": "Advanced logging library for Nim with structured logging, formatters, filters and writers.",
-      "l": "LGPL",
-      "s": "src"
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:56Z",
+  "generatedAt": "2026-05-26T00:53:00Z",
   "allDeps": {
     "packages": [],
     "urls": [],

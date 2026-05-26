@@ -13,15 +13,11 @@
     },
     {
       "v": "#head@e7c019ef02cbedadf61186ee3f1e93c9d18776cd",
-      "n": "ctrulib",
-      "r": [],
-      "a": "Skyforce77",
-      "d": "Nintendo 3ds ctrulib wrapper",
-      "l": "GPLv2"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:46Z",
+  "generatedAt": "2026-05-26T00:46:40Z",
   "allDeps": {
     "packages": [],
     "urls": [],

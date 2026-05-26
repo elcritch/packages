@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@94b0471dda21a02c82020ecc9f7b96f18f379b0e",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@61cac5911110f647dd8950c5efdfb1dfba07c455",
       "r": [],
-      "a": "LemonBoy",
-      "d": "JS {de,}serialization as it says on the tin",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.19.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:25Z",
+  "generatedAt": "2026-05-26T00:49:28Z",
   "allDeps": {
     "packages": [],
     "urls": [],

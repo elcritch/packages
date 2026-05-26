@@ -10,21 +10,20 @@
   "releases": [
     {
       "v": "0.1.0@32e9a650d648853bf50a87462c53e80c72161237",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "#head@fd27778418523e634f0b9cab393d70564938c259",
       "r": [],
-      "a": "Yuriy Glukhov",
-      "d": "Pack rects into bigger rect",
-      "l": "MIT",
       "x": [
         "tests"
-      ]
+      ],
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:07Z",
+  "generatedAt": "2026-05-26T00:54:10Z",
   "allDeps": {
     "packages": [],
     "urls": [],

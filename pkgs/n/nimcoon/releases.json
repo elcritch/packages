@@ -14,108 +14,154 @@
   "releases": [
     {
       "v": "0.9.0@fc5bf33f392a1d189695ca7624e5320ec5c79ff0",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.8.3@ff0a15bf2f06bd2380dce5c5584c5d871346a3c9",
       "r": [],
-      "d": "A command-line YouTube player and more"
+      "d": "A command-line YouTube player and more",
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.8.2@f1ba7a622ea9f05f87292c24e9dfc7acc67ed06d",
       "r": [],
-      "d": "A command-line YouTube player and more"
+      "d": "A command-line YouTube player and more",
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.8.1@bf46415bcf5fa20ba6ffa0940af2fae9488874a3",
       "r": [],
-      "d": "A command-line YouTube player and more"
+      "d": "A command-line YouTube player and more",
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.8.0@d09270c390b7c8d2c6cc25f3f1a416b43c8c3387",
       "r": [],
-      "d": "A command-line YouTube player and more"
+      "d": "A command-line YouTube player and more",
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.7.0@c4b35c271e5a018450a1f599c70969aa6d8a0061",
       "r": [],
-      "d": "A command-line YouTube player and more"
+      "d": "A command-line YouTube player and more",
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.6.1@fabf02942a6fbc3004f6fe5894a489cbbe84fe42",
       "r": [],
-      "d": "A command-line YouTube player and more"
+      "d": "A command-line YouTube player and more",
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.6.0@16d771c40ce86b6fc551407d6dbb087a20bb7c78",
       "r": [],
-      "d": "A command-line YouTube player and more"
+      "d": "A command-line YouTube player and more",
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.5.1@22fff4dd672a532beb555bad7b57aecdd104af2e",
       "r": [],
-      "d": "A command-line YouTube player and more"
+      "d": "A command-line YouTube player and more",
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.5.0@76965ae0688a23c9456039d9474d6ae867dbe71b",
       "r": [],
-      "d": "A command-line YouTube player and more"
+      "d": "A command-line YouTube player and more",
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.4.0@c9e986cae6624ca4300bddcd8fd73b6074145da7",
       "r": [],
-      "d": "A command-line YouTube player and more"
+      "d": "A command-line YouTube player and more",
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.3.2@59e0f961b4181f52ef8648b16d425518640bdd27",
       "r": [],
-      "d": "A command-line YouTube player and more"
+      "d": "A command-line YouTube player and more",
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.3.1@ede339f5fd328fd22e320a087f5b594b2c7b2038",
       "r": [],
-      "d": "A command-line YouTube player and more"
+      "d": "A command-line YouTube player and more",
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.3.0@e4f082d920c20319371df852923d488a2f3b701f",
       "r": [],
-      "d": "A command-line YouTube player and more"
+      "d": "A command-line YouTube player and more",
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.2.2@56a1028f9e75fd0bb4ef2182b1e59ac9cffc38d9",
       "r": [],
-      "d": "A command-line YouTube player and more"
+      "d": "A command-line YouTube player and more",
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.2.1@8261789f3741cf2ac744295852f3c56de9a48621",
       "r": [],
-      "d": "A command-line YouTube player and more"
+      "d": "A command-line YouTube player and more",
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.2.0@703dad0edb1a7d13a5607c59dc3ee68e4f786822",
       "r": [],
-      "d": "A command-line YouTube player and more"
+      "d": "A command-line YouTube player and more",
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.1.0@8c631115d89f23b36469d80032893d935b3b54f9",
       "r": [],
-      "d": "A command-line YouTube player and more"
+      "d": "A command-line YouTube player and more",
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@7247fec67473ab4c98bedf683fbcbfb07f61e693",
-      "r": [],
-      "a": "Joseph Nuthalapati",
-      "d": "A command-line player for YouTube, PeerTube and more.",
-      "l": "GPL-3.0",
-      "s": "src",
-      "p": [
-        "nimcoon"
-      ],
-      "m": "1.0.2"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:38Z",
+  "generatedAt": "2026-05-26T00:51:39Z",
   "allDeps": {
     "packages": [],
     "urls": [],

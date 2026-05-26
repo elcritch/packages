@@ -21,14 +21,11 @@
       "v": "#head@783f661aa38e8c93d88388d16b90ec35d38099c1",
       "r": [
         "darwin"
-      ],
-      "a": "Yuriy Glukhov",
-      "d": "Generate and parse Mac OS X .plist files",
-      "l": "MIT"
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:31Z",
+  "generatedAt": "2026-05-26T00:53:35Z",
   "allDeps": {
     "packages": [
       "darwin > 0.1.0"

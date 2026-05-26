@@ -16,25 +16,22 @@
     {
       "v": "0.1.0@cf3176b8ddc7892f9d709c4aed847ae9961c13ce",
       "r": [],
-      "h": true
+      "h": true,
+      "m": "~",
+      "s": "",
+      "k": []
     },
     {
       "v": "#head@2949266fc7e12153a7daee8658e452e37499e97e",
       "r": [],
       "h": true,
-      "a": "zengxs",
-      "d": "libcmark wrapper for Nim",
-      "l": "Apache-2.0",
-      "s": "src",
-      "k": [
-        "a",
-        "nim"
-      ],
-      "m": "1.0.0"
+      "m": "~",
+      "s": "",
+      "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:26Z",
+  "generatedAt": "2026-05-26T00:46:21Z",
   "allDeps": {
     "packages": [],
     "urls": [],

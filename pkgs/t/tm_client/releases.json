@@ -18,14 +18,19 @@
     {
       "v": "0.1.0@b5ae7cc5f70482c44104feda9a8e35a14b54ffa5",
       "r": [],
-      "j": []
+      "j": [],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.1.1@c1542f8d7c4c484bfe880f5ab077a1d327d9078c",
       "r": [],
       "a": "Termer",
       "j": [],
-      "p": []
+      "p": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.2@83f0bd0e59c7d4beca0be94d4654592c9b8159e0",
@@ -33,7 +38,9 @@
       "a": "Termer",
       "d": "Asychronous TwineMedia API client library for Nim",
       "s": "",
-      "p": []
+      "p": [],
+      "m": "~",
+      "j": []
     },
     {
       "v": "0.1.3@64d70cbd9245b8b47b4add3be0838ad10fc39847",
@@ -41,7 +48,9 @@
       "a": "Termer",
       "d": "Asychronous TwineMedia API client library for Nim",
       "s": "",
-      "p": []
+      "p": [],
+      "m": "~",
+      "j": []
     },
     {
       "v": "0.1.4@62f1bc6bb702254eba405573c647015456e9dc87",
@@ -49,7 +58,9 @@
       "a": "Termer",
       "d": "Asychronous TwineMedia API client library for Nim",
       "s": "",
-      "p": []
+      "p": [],
+      "m": "~",
+      "j": []
     },
     {
       "v": "0.1.5@c917d64096ede76bedf0a828de70aadadeea71e5",
@@ -57,7 +68,9 @@
       "a": "Termer",
       "d": "Asychronous TwineMedia API client library for Nim",
       "s": "",
-      "p": []
+      "p": [],
+      "m": "~",
+      "j": []
     },
     {
       "v": "0.1.6@5e8c8cf1f8b9f51e8f78002bcecbd303c36afdb8",
@@ -65,7 +78,9 @@
       "a": "Termer",
       "d": "Asychronous TwineMedia API client library for Nim",
       "s": "",
-      "p": []
+      "p": [],
+      "m": "~",
+      "j": []
     },
     {
       "v": "0.1.7@cc8d6304b5add888eb2d95ad8924952f5a0f6b4c^",
@@ -73,7 +88,9 @@
       "a": "Termer",
       "d": "Asychronous TwineMedia API client library for Nim",
       "s": "",
-      "p": []
+      "p": [],
+      "m": "~",
+      "j": []
     },
     {
       "v": "#head@cc8d6304b5add888eb2d95ad8924952f5a0f6b4c",
@@ -81,11 +98,13 @@
       "a": "Termer",
       "d": "Asychronous TwineMedia API client library for Nim",
       "s": "",
-      "p": []
+      "p": [],
+      "m": "~",
+      "j": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:58Z",
+  "generatedAt": "2026-05-26T00:55:57Z",
   "allDeps": {
     "packages": [],
     "urls": [],

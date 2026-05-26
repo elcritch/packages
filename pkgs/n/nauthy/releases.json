@@ -13,13 +13,17 @@
       "v": "0.1.0@2965f1655459b416b2df9f7e11728d051eeb00d7",
       "r": [
         "nimSHA2 >= 0.1.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@1a9f62b4f48604f5e82914a4c38ea047463ab8e0",
       "r": [
         "nimSHA2 >= 0.1.1"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@c699f3225269fab54f589ab4fdc8acf1c13c917b",
@@ -27,14 +31,12 @@
         "nimSHA2 >= 0.1.1"
       ],
       "a": "cteea",
-      "d": "Nim library for One Time Password verification and generation.",
-      "l": "MIT",
       "s": "src",
-      "m": "1.4.2"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:53Z",
+  "generatedAt": "2026-05-26T00:50:55Z",
   "allDeps": {
     "packages": [
       "nimSHA2"

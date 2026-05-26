@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@843aac6919c18ea7c3ebbcdf01192a5136f01399",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@5bd624a8c1ab9e3d7da55a661a72a9f4a9d10db9",
       "r": [],
-      "a": "George Lemon",
-      "d": "A simple to use HTTP rate limiting library to limit any action during a specific period of time.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:56Z",
+  "generatedAt": "2026-05-26T00:49:58Z",
   "allDeps": {
     "packages": [],
     "urls": [],

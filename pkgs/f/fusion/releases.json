@@ -11,28 +11,31 @@
   "releases": [
     {
       "v": "1.2@0b0a0273b8df860cd54e3fcca7bb4c617244ac77",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.1@f35943a4da3f694bcd83c64cc133ce8db9aa708c",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0@db4683f91bfbedbbc48ced086db774ca7dc43e9b",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@562467452b32cb7a97410ea177f083e6d8405734",
       "r": [],
-      "a": "Araq",
-      "d": "Extensions for Nim's stdlib",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:01Z",
+  "generatedAt": "2026-05-26T00:48:00Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

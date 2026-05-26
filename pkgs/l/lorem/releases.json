@@ -11,20 +11,20 @@
   "releases": [
     {
       "v": "0.1.0@44289813c7725c2363ed1ffc9fd64e1aaf2bcdaf",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@8d7284313556406fe48f7d3c917f48432a6a65f0",
       "r": [],
       "a": "Jasmine",
-      "d": "Lorem Ipsum text generator",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:08Z",
+  "generatedAt": "2026-05-26T00:50:11Z",
   "allDeps": {
     "packages": [],
     "urls": [],

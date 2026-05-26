@@ -17,15 +17,11 @@
     },
     {
       "v": "#head@2d689ee288be6a5b95d072d2e3857fc6ba73cd03",
-      "n": "libipset",
-      "r": [],
-      "a": "Huy Doan",
-      "d": "libipset wrapper for Nim",
-      "l": "MIT"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:45Z",
+  "generatedAt": "2026-05-26T00:49:49Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

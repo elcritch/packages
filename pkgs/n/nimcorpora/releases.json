@@ -19,7 +19,10 @@
         "zippy",
         "fab"
       ],
-      "h": true
+      "h": true,
+      "m": "~",
+      "s": "",
+      "x": []
     },
     {
       "v": "0.1.0@1a23ebfa9b2e580638d8fa2b96db6a92111a04f3",
@@ -28,7 +31,9 @@
         "fab"
       ],
       "h": true,
-      "m": "1.6.10"
+      "m": "1.6.10",
+      "s": "",
+      "x": []
     },
     {
       "v": "#head@43f0edf3637ab6817a2f9621fcb5ec7523d46769",
@@ -37,19 +42,13 @@
         "fab"
       ],
       "h": true,
-      "a": "Jasmine",
-      "d": "A Nim interface for Darius Kazemi's Corpora Project.",
-      "l": "GPL-3.0-only",
-      "s": "src",
-      "x": [
-        "examples",
-        "docs"
-      ],
-      "m": "1.4.0"
+      "m": "~",
+      "s": "",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:36Z",
+  "generatedAt": "2026-05-26T00:51:38Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

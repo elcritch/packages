@@ -13,22 +13,19 @@
   "releases": [
     {
       "v": "0.1.0@c072176a262cc2c637a0412f9d0188526d420e4d",
-      "r": []
+      "r": [],
+      "m": "~",
+      "x": []
     },
     {
       "v": "#head@ca3e25ee93a63c3a819a1bfa17386dad6ad41b1a",
       "r": [],
-      "a": "oskca",
-      "d": "Nim bindings for zserge's webview",
-      "l": "MIT",
-      "x": [
-        "tests"
-      ],
-      "m": "0.17.2"
+      "m": "~",
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:52Z",
+  "generatedAt": "2026-05-26T00:56:49Z",
   "allDeps": {
     "packages": [],
     "urls": [],

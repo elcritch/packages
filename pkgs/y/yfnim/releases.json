@@ -20,37 +20,45 @@
       "v": "0.3.0@c1890425fb748da7828f39eb19b3dd73b7c68312",
       "r": [
         "cligen >= 1.9.6"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.2.0@fddd9ecdb430b0091cf48679a3c07af9acfbc9d9",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.1.0@c40cd66dfb481c8baadd7c89eba3ed1d6becb701",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@a8fc077eaff1e2fefa6075bef4be5e866a680369",
       "r": [
         "cligen >= 1.9.6"
       ],
-      "a": "Jaime Lopez",
-      "d": "A Yahoo Finance historical data retriever with support for multiple intervals",
-      "l": "MIT",
-      "s": "src",
-      "b": "bin",
-      "k": [
-        "nim"
-      ],
-      "p": [
-        "yf"
-      ],
-      "m": "2.2.6"
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:54:22Z",
+  "generatedAt": "2026-05-26T00:57:19Z",
   "allDeps": {
     "packages": [
       "cligen > 0.2.0"

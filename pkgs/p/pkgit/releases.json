@@ -16,43 +16,64 @@
       "v": "0.0.11@dee238af2e1d834e6afb2afb0267154752b0cc7e",
       "r": [
         "parsetoml >= 0.7.2"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.0.10@f92c61d25c7c2b9fffa75773cb4d286a73e4eb9c",
       "r": [
         "parsetoml >= 0.7.2"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.0.9@a5c2a65d97f5f1f745d9d0c3fa6c8bdbcc63bb83",
       "r": [
         "parsetoml >= 0.7.2"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.0.8@8708e0f46b79dca74a0a9452d1b19a6b6115dccd",
       "r": [
         "parsetoml >= 0.7.2"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.0.7@5204de3827e333a2a74524caa57b22ec4d237b9b",
       "r": [
         "parsetoml >= 0.7.2"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.0.6@c3fb7586f4558f5faf404099e1c3492b6f31c0c2",
       "r": [
         "parsetoml >= 0.7.2"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.0.5@ce87b117f22ca079bf983b00251599573c7d5d8c",
       "r": [
         "parsetoml >= 0.7.2"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "0.0.4@c8f8bd9775dba886ee3b2f96f2436f5fac7a7ba1",
@@ -95,18 +116,13 @@
       "r": [
         "parsetoml >= 0.7.2"
       ],
-      "a": "dacctal",
-      "d": "unconventional package manager",
-      "l": "GPL-3.0-or-later",
-      "s": "src",
-      "p": [
-        "pkgit"
-      ],
-      "m": "2.2.4"
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:29Z",
+  "generatedAt": "2026-05-26T00:53:33Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

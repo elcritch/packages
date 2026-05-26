@@ -40,19 +40,30 @@
     },
     {
       "v": "0.0.6@5cf812fd0155c82e1a8575cf895ed6bbc68c8a69",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.0.5@1c10b26502e86a5e33e821987c033ad52887240c",
       "r": [],
       "m": "0.20.0",
-      "b": ""
+      "b": "",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.0.4@cd722c7f5fbfb54ec1a2bf6f96c2a7202d3e0edf",
       "r": [],
       "m": "0.19.0",
-      "b": ""
+      "b": "",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.0.2@e43cae8861b3914257fbf9495ab14187ebddae84",
@@ -69,11 +80,16 @@
       "v": "#head@5e17c8cab22e6302e330194a16564e4d69afff73",
       "r": [],
       "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
+      "E": "missing nimble file",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:09Z",
+  "generatedAt": "2026-05-26T00:55:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

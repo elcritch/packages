@@ -11,22 +11,21 @@
   "releases": [
     {
       "v": "0.1.0@11129fc5c67657033038df8e6284b2f640f956a8",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@39b9f1a2cd47da8e456644d3eb3dbb6ed68907af",
       "r": [
         "nimterop"
       ],
-      "a": "Jason Koch",
-      "d": "libbpf for nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:32Z",
+  "generatedAt": "2026-05-26T00:51:34Z",
   "allDeps": {
     "packages": [
       "cligen",

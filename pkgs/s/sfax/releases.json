@@ -16,17 +16,23 @@
       "v": "0.1.0@56a5c08d70751fd019df19ad29cf6ddf663009fd^",
       "r": [
         "zippy >= 0.10.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@56a5c08d70751fd019df19ad29cf6ddf663009fd",
       "r": [
         "zippy >= 0.10.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:38Z",
+  "generatedAt": "2026-05-26T00:54:41Z",
   "allDeps": {
     "packages": [
       "zippy"

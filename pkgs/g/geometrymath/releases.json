@@ -10,19 +10,17 @@
   "releases": [
     {
       "v": "1.0.0@58e94d9d086eb117f29b8b35a6f858545df611f8",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "#head@e07b2336a497ce8ba7b5ad6f957e8abc2cf1d82e",
       "r": [],
-      "a": "Can Joshua Lehmann",
-      "d": "Linear algebra library for computer graphics applications",
-      "l": "MIT",
-      "m": "1.6.0"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T13:07:30Z",
+  "generatedAt": "2026-05-26T00:48:10Z",
   "allDeps": {
     "packages": [],
     "urls": [],

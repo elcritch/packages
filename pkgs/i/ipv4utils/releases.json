@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@8d73609a850ee1773d60f1a4659a087d6b5481c1",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@dc6883cf43a88d367dd07ca8e061ecf4328eb068",
       "r": [],
-      "a": "EnteryName",
-      "d": "Simple library to work with IPv4 addresses. Made for fun for everyone.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:13Z",
+  "generatedAt": "2026-05-26T00:49:16Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

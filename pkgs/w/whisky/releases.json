@@ -11,33 +11,37 @@
   "releases": [
     {
       "v": "0.1.3@774f3274f5dc2c738f36e19d22291eca344b9f8e",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.2@11c3b73c6232928afd50ad9492f17ae238467c7c",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@1f0037e314211361df6a1ca5afad4b14714f3aea",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@a3c92f6a2e3589454bcb5507539aacb06524e9d5",
       "r": [],
-      "m": "1.6.10"
+      "m": "1.6.10",
+      "s": ""
     },
     {
       "v": "#head@494fb1046f5a563defc87ac36b8c62846ee7ea2c",
       "r": [],
-      "a": "Ryan Oldenburg",
-      "d": "Blocking WebSocket client",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.8"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:55Z",
+  "generatedAt": "2026-05-26T00:56:52Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

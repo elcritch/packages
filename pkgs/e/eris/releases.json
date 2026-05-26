@@ -270,7 +270,11 @@
       "r": [
         "eris >= 0.4.0",
         "tkrzw >= 0.1.2"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": [],
+      "e": ""
     },
     {
       "v": "0.1.3@cc782d2735ed455265b82e238d15b7aa2e801bc2",
@@ -283,7 +287,9 @@
         "erisserver",
         "erisget"
       ],
-      "e": ""
+      "e": "",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.2@37f1503a4a75286e3799a48ccffaf43362cbca8b",
@@ -294,7 +300,9 @@
       "p": [
         "erissum"
       ],
-      "e": ""
+      "e": "",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@dc42e1e22b46c8196132d04a7ff2239c63f6193b",
@@ -305,7 +313,9 @@
       "p": [
         "erissum"
       ],
-      "e": ""
+      "e": "",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@175997896a5e83e0433d65dd8a255f64e92552eb",
@@ -316,7 +326,9 @@
       "p": [
         "erissum"
       ],
-      "e": ""
+      "e": "",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@f2d2944cb48c6c85b336a989a1919b64434c4d7f",
@@ -331,18 +343,15 @@
       ],
       "a": "Endo Renberg",
       "d": "Encoding for Robust Immutable Storage",
-      "l": "Unlicense",
-      "s": "src",
       "p": [
         "eris/eriscmd",
         "eris/helpers/rclerislink"
       ],
-      "e": "cpp",
       "m": "2.0.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:31Z",
+  "generatedAt": "2026-05-26T00:47:22Z",
   "allDeps": {
     "packages": [
       "base32",

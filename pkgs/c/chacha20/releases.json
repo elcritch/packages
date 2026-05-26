@@ -11,20 +11,18 @@
   "releases": [
     {
       "v": "0.1.0@830e9045894135fbcdf9df41e06962f5a61b589b",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@daab0e469df94c1d62ebad07989b9562f7d5bf80",
       "r": [],
-      "a": "Emery Hemingway",
-      "d": "ChaCha20 stream cipher",
-      "l": "Unlicense",
-      "s": "src",
-      "m": "1.4.0"
+      "l": "Unlicense"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:08Z",
+  "generatedAt": "2026-05-26T00:46:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

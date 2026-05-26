@@ -11,43 +11,59 @@
   "releases": [
     {
       "v": "0.2.5@ab49b1b2bfd92fbf69b39ddb3096472d72aaf815^",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.4@cfad1ca74b545b481edf327c796b15fba576f0b9",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.3@fcd0d5ab7c3033840d02518150de6bf0c8544190",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@b28d5c2c1a2e874e26c0cccda539914afa59007a",
       "r": [],
-      "d": "a collection of constants and small procs that focues on readability"
+      "d": "a collection of constants and small procs that focues on readability",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.22@598228408ab9273286e358cdbd1bc436988d8fad",
       "r": [],
-      "d": "a collection of useful macro functionalities & enums"
+      "d": "a collection of useful macro functionalities & enums",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.20@8dc6f921b44becebe7701915703691832e534798",
       "r": [],
-      "d": "a collection of useful macro functionalities & enums"
+      "d": "a collection of useful macro functionalities & enums",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.17@155019ff60e185693f09c8f14a90730a0a51c68c",
       "r": [],
-      "d": "a collection of useful macro functionalities & enums"
+      "d": "a collection of useful macro functionalities & enums",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@ab49b1b2bfd92fbf69b39ddb3096472d72aaf815",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:13Z",
+  "generatedAt": "2026-05-26T00:50:17Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -13,17 +13,21 @@
       "v": "0.1.0@db987825475b99d09c81475644b2ca09447ffdb5^",
       "r": [
         "arraymancer >= 0.7.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@db987825475b99d09c81475644b2ca09447ffdb5",
       "r": [
         "arraymancer >= 0.7.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:57Z",
+  "generatedAt": "2026-05-26T00:54:59Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

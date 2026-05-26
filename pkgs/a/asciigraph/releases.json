@@ -13,25 +13,25 @@
       "v": "0.1.0@16e5dfb6b9739bbf2a55631dfb6e384886b8af46",
       "r": [
         "strfmt"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.2@a7020e55d4318aad5c020dda0e955ba80aadfb21",
       "r": [],
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "s": ""
     },
     {
       "v": "#head@9f51fc4e94d0960ab63fa6ea274518159720aa69",
       "r": [],
-      "a": "KeepCoolWithCoolidge",
-      "d": "Console ascii line charts in pure nim",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:03Z",
+  "generatedAt": "2026-05-26T00:44:55Z",
   "allDeps": {
     "packages": [
       "strfmt <= 0.1.0"

@@ -11,36 +11,43 @@
   "releases": [
     {
       "v": "1.1.1@58d4389748d7dac90b0ddd716a1518da22b5b0c9",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.1.0@e2ef6fdf1f43c502fa44688fc39472a1afa40e33",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.10@66c6474e8ca8d8ffbfcc2a3f186a81e409f9ef16",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.9@d7334846351ddecb40d4a3fed24800413a3eabd3",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.8@5f18824192f344c427b82a80f60ff81d1e4d3295",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@22f883465918bc0180bda61162c755031b0bf980",
       "r": [],
-      "a": "onelivesleft",
-      "d": "Nim module which provides clean, zero-effort command line parsing.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.2"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:50Z",
+  "generatedAt": "2026-05-26T00:54:52Z",
   "allDeps": {
     "packages": [],
     "urls": [],

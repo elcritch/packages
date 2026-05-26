@@ -14,23 +14,21 @@
   "releases": [
     {
       "v": "0.1.0@2df635460f3c0bdbc4143775003a0767d9d311ad",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "y": []
     },
     {
       "v": "#head@aa647004603c669a9fd929e89d5447d57defdcf8",
       "r": [],
-      "a": "Paul Nameless",
-      "d": "A new awesome nimble package",
-      "l": "MIT",
-      "s": "src",
-      "y": [
-        "run.nim"
-      ],
-      "m": "1.0"
+      "m": "~",
+      "s": "",
+      "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:30Z",
+  "generatedAt": "2026-05-26T00:51:32Z",
   "allDeps": {
     "packages": [],
     "urls": [],

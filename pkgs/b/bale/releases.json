@@ -13,28 +13,29 @@
       "v": "1.0.0@510eeeeb6ec0a8c414bc443051acc9845b40b6c0",
       "r": [
         "macroplus >= 0.2.5"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.0.2@6b028588d7501a0e554f1e143e92c4c9a29d029d",
       "r": [
         "macroplus >= 0.2.5"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@a2cb0b5a5f2ee0d313eeea9def1c13f768802ebf",
       "r": [
         "macroplus >= 0.2.5"
       ],
-      "a": "hamidb80",
-      "d": "Bale.ai Bot API client",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.14"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:22Z",
+  "generatedAt": "2026-05-26T00:45:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

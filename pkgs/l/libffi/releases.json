@@ -10,23 +10,22 @@
   "releases": [
     {
       "v": "1.0.4@8857008cb272c17709e7b8b50d12da0c44951b2f",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "1.0.3@2c83576ab41053deccd5875640e9a6ccea01c17f",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "#head@bb2bdaf1a29a4bff6fbd8ae4695877cbb3ec783e",
       "r": [],
-      "a": "Andreas Rumpf",
-      "d": "libffi wrapper for Nim.",
-      "l": "MIT",
-      "m": "0.10.0"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:44Z",
+  "generatedAt": "2026-05-26T00:49:47Z",
   "allDeps": {
     "packages": [],
     "urls": [],

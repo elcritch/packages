@@ -16,17 +16,17 @@
       "v": "0.1.0@75b7393b617df5836c70afed66b363d312b87ca1",
       "r": [
         "bigints >= 1.0.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     },
     {
       "v": "#head@203717790bc076cd8788a00477714f1597e407c5",
       "r": [
         "bigints >= 1.0.0"
       ],
-      "a": "bk20x",
       "d": "Lightweight and easily extendable / embeddable Lisp dialect with deterministic performance",
-      "l": "BSD-3-Clause",
-      "s": "src",
       "i": [
         "src/m",
         "examples"
@@ -40,11 +40,12 @@
       "p": [
         "m/m"
       ],
-      "m": "2.2.2"
+      "m": "2.2.2",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:13Z",
+  "generatedAt": "2026-05-26T00:50:17Z",
   "allDeps": {
     "packages": [
       "bigints"

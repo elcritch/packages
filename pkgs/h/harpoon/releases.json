@@ -11,25 +11,24 @@
   "releases": [
     {
       "v": "0.0.666@7a9f92918eca00f73a2a307669911898a331c089",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@9efebc8d7b67a00cbf88b53ffb60303da8c42d56",
       "r": [],
-      "a": "Juan_Carlos.nim",
-      "d": "HTTP Client",
-      "l": "MIT",
-      "s": "src",
       "x": [
         "docs",
         "bench",
         "mini"
       ],
-      "m": "1.4.0"
+      "m": "1.4.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:35Z",
+  "generatedAt": "2026-05-26T00:48:38Z",
   "allDeps": {
     "packages": [],
     "urls": [],

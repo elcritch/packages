@@ -13,29 +13,29 @@
       "v": "0.3.0@a524c75d6cf7826650f2bba6f307bfa7d5ff4e17",
       "r": [
         "c_alikes >= 0.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.4.0@8141a34c70eda6681e387b855bcac0d617fd0f6d",
       "r": [
         "c_alikes >= 0.2.0"
       ],
-      "m": "0.20.0"
+      "m": "0.20.0",
+      "s": ""
     },
     {
       "v": "#head@21b91e87eec1a29608c22c068cb126712bc2fe0f",
       "r": [
         "c_alikes >= 0.2.0"
       ],
-      "a": "ReneSac",
-      "d": "Unsafe in-place slicing",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.20.0"
+      "m": "0.20.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:24Z",
+  "generatedAt": "2026-05-26T00:50:27Z",
   "allDeps": {
     "packages": [
       "c_alikes"

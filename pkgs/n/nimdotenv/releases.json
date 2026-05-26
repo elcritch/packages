@@ -11,24 +11,25 @@
   "releases": [
     {
       "v": "0.1.0@bd820cdbf4dc6c8ec561862aeb2ad71ae2d306bb",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "1.0.0@f0a70c581caee54de6a656dbf7e495513e79ee7a",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@4760365ccd5bd91bebfe9b541b7c30eeddaf8844",
       "r": [],
-      "a": "wioenena-q",
-      "d": ".env Loader",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0"
+      "m": "1.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:40Z",
+  "generatedAt": "2026-05-26T00:51:41Z",
   "allDeps": {
     "packages": [],
     "urls": [],

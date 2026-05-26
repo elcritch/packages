@@ -79,36 +79,44 @@
     },
     {
       "v": "0.2.0@92e551b68164ad6e1c9155355ba08603a0ed22be",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.3@7118b89d2cac53dff404559ef689f94a0555eef8",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.2@0ce3ef165e2609fc940f1796a7107c6d76472776",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@06eaee1d30f68d3aec6f7ab9e4a9f8f8e5553784",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@5b7572b35b05104bd0242f787c87e7753c9afb7f",
       "r": [],
       "d": "A new awesome nimble package",
-      "m": "0.18.0"
+      "m": "0.18.0",
+      "s": ""
     },
     {
       "v": "#head@9fbf5930a25a56fc248a183f6a9f827cf7a41386",
       "r": [],
-      "a": "LemonBoy",
-      "d": "Statistic-driven microbenchmark framework",
-      "l": "MIT"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:41Z",
+  "generatedAt": "2026-05-26T00:46:35Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

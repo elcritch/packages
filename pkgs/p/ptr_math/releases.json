@@ -11,28 +11,31 @@
   "releases": [
     {
       "v": "0.3.0@fb1b0d5f484b80ec956d40d543ec836da4cfbc3b",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@23de2eef31764e1b4bac13e88c89e744b7ed6462",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.0.1@b66a5a0d15794c4e4a57d82be59311da5434a4b4",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@1ee3b7fe12f394edd5a1e2841491e8c2e9fd193b",
       "r": [],
-      "a": "Kaushal Modi",
-      "d": "Pointer arithmetic library",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.6"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:49Z",
+  "generatedAt": "2026-05-26T00:53:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

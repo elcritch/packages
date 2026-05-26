@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1@e1705de060f8c5f3ccd4d0621192ddda37175913",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@cf567b616d9af81fe712ca408928a2ccf7d9538f",
       "r": [],
-      "a": "Yoshihiro Tanaka",
-      "d": "Implementation of exponential backoff for nim.",
-      "l": "Apache License 2.0",
-      "s": "src",
-      "m": "0.18.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:21Z",
+  "generatedAt": "2026-05-26T00:45:13Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

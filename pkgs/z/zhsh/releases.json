@@ -13,22 +13,19 @@
   "releases": [
     {
       "v": "0.2.0@b8da9f8fb29e176ec69cc19aaeb0b107ae69c57c",
-      "r": []
+      "r": [],
+      "m": "~",
+      "y": []
     },
     {
       "v": "#head@06ff29e1d9a3f7992ccf2c2fbc10cf6824e9c7b0",
       "r": [],
-      "a": "Peter Munch-Ellingsen",
-      "d": "This module is a port of the Java implementation of the Zhang-Shasha algorithm for tree edit distance",
-      "l": "MIT",
-      "y": [
-        "example.nim"
-      ],
-      "m": "0.17.2"
+      "m": "~",
+      "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:54:26Z",
+  "generatedAt": "2026-05-26T00:57:24Z",
   "allDeps": {
     "packages": [],
     "urls": [],

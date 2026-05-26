@@ -11,32 +11,37 @@
   "releases": [
     {
       "v": "0.2.3@7f08c4ce372fd253a5dfbeb5a35c5d08d1079528",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.2@43aa846a32dd3f38d3b3f31b067eed6799e4aa8d",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.1@4165fcbbb8badfaf42c5db46f0666fdc0815df6d",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@60ade9c70ca146375a61ecb621266efbfcf2a6ee",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@de9192e5b5c47a42a54c61fe08aa6790738ecc0e",
       "r": [],
-      "a": "BigBaron",
-      "d": "256 colors for shell",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:00Z",
+  "generatedAt": "2026-05-26T00:54:04Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -10,19 +10,17 @@
   "releases": [
     {
       "v": "0.1.0@0d42c72073281f742b84530d15318fac724ce9d8",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "#head@eefd9f17071df2b8c13e18537cd799acd7f41501",
       "r": [],
-      "a": "Peter Munch-Ellingsen",
-      "d": "Easy to use colours for terminal applications",
-      "l": "MIT",
-      "m": "0.17.2"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:44Z",
+  "generatedAt": "2026-05-26T00:55:43Z",
   "allDeps": {
     "packages": [],
     "urls": [],

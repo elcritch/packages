@@ -17,42 +17,55 @@
   "releases": [
     {
       "v": "0.1.5@da459a8336ea239cd22704626cd56fccdf8f7ba6",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.1.4@6d3cd3783a1113ac4e1d8589921b756e673776ae",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.1.2@17ab6e8aecffd0d7a0932e898252287b3037afd6",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.1.1@c0ea7fa9f51a6e3f40264db8fbe3beb25726cd20",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.1.0@df9c8116f074b99fb4f21fa13b25bf60b8989efd",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@6dcd5d9944ccc13c67911de64a6a78d941fecb9b",
       "r": [],
-      "a": "Xabi Bello",
-      "d": "A wrapper to notification libraries",
-      "l": "MIT",
-      "s": "src",
-      "k": [
-        "nim"
-      ],
-      "p": [
-        "notify"
-      ],
-      "m": "0.19.4"
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:42Z",
+  "generatedAt": "2026-05-26T00:52:47Z",
   "allDeps": {
     "packages": [],
     "urls": [],

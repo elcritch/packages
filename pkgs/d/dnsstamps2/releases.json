@@ -13,22 +13,21 @@
       "v": "0.1.0@22d8ff331949333f7a3d593d16ce13f637984cd0",
       "r": [
         "stew"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@16be2b0701c89f50b31ce39edb9ff61bb5854ff2",
       "r": [
         "stew"
       ],
-      "a": "rockcavera",
-      "d": "DNS Stamps package",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.2.0"
+      "m": "1.2.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:09Z",
+  "generatedAt": "2026-05-26T00:47:02Z",
   "allDeps": {
     "packages": [
       "results",

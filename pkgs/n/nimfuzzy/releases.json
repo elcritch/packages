@@ -15,35 +15,40 @@
       "r": [
         "nimgen >= 0.4.0"
       ],
-      "h": true
+      "h": true,
+      "x": []
     },
     {
       "v": "0.1.4@a16633b2d225dc2d70dd4557c04016fe51e7ca41",
       "r": [
         "nimgen >= 0.4.0"
       ],
-      "h": true
+      "h": true,
+      "x": []
     },
     {
       "v": "0.1.3@12fe19ad5d805374dd0daa86f4c89da2b45b8d1a",
       "r": [
         "nimgen >= 0.1.4"
       ],
-      "h": true
+      "h": true,
+      "x": []
     },
     {
       "v": "0.1.2@b27561fc9a99b0b44862bba8fb201d849f45a8c3",
       "r": [
         "nimgen >= 0.1.4"
       ],
-      "h": true
+      "h": true,
+      "x": []
     },
     {
       "v": "0.1.0@45efe094ece9b4442ef8f5c9e64327c3e940168c",
       "r": [
         "nimgen >= 0.1.0"
       ],
-      "h": true
+      "h": true,
+      "x": []
     },
     {
       "v": "#head@127ed4dceea947e73f4007a4bc2800dc5762357c",
@@ -51,16 +56,11 @@
         "nimgen >= 0.4.0"
       ],
       "h": true,
-      "a": "genotrance",
-      "d": "Fuzzy search wrapper for Nim",
-      "l": "MIT",
-      "x": [
-        "tests"
-      ]
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:43Z",
+  "generatedAt": "2026-05-26T00:51:45Z",
   "allDeps": {
     "packages": [
       "c2nim",

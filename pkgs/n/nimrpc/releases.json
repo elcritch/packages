@@ -13,16 +13,12 @@
     },
     {
       "v": "#head@4dbde25da2a6cdcfd90c75a10d8ead1a9f4dd8db",
-      "n": "nimrpc",
       "r": [],
-      "a": "Roger Shi",
-      "d": "RPC implementation for Nim based on msgpack4nim created by @jangko.",
-      "l": "MIT",
       "s": "src"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:11Z",
+  "generatedAt": "2026-05-26T00:52:14Z",
   "allDeps": {
     "packages": [],
     "urls": [],

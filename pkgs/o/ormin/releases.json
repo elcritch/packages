@@ -10,16 +10,14 @@
   "releases": [
     {
       "v": "0.1.0@92ea1c33b45091b1b14f7a531a9e09277ac23c11",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "#head@c0575260626c32a52c62ab8faf27611275c64b8f",
       "r": [
         "db_connector >= 0.1.0"
       ],
-      "a": "Araq",
-      "d": "Prepared SQL statement generator. A lightweight ORM.",
-      "l": "MIT",
       "x": [
         "examples"
       ],
@@ -40,7 +38,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:06Z",
+  "generatedAt": "2026-05-26T00:53:11Z",
   "allDeps": {
     "packages": [
       "asynctools",

@@ -13,7 +13,9 @@
       "v": "0.1.0@4a01135461569746e802a44db862cb8823df2b46",
       "r": [
         "bigints"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@f8b133341c6cdf1cc7a0b933a0c4d81ec7f8cde3",
@@ -21,14 +23,12 @@
         "bigints"
       ],
       "a": "George Lemon",
-      "d": "Create, calculate and format money in Nim language",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.12"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:38Z",
+  "generatedAt": "2026-05-26T00:50:40Z",
   "allDeps": {
     "packages": [
       "bigints"

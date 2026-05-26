@@ -15,21 +15,24 @@
       "r": [
         "colorize",
         "argparse"
-      ]
+      ],
+      "p": []
     },
     {
       "v": "0.0.2@9b47749252afdbe94a408130af453249d3764f84",
       "r": [
         "colorize",
         "argparse"
-      ]
+      ],
+      "p": []
     },
     {
       "v": "0.0.1@78b24aa0b5aba82df5da778b08b3cbb916d51547",
       "r": [
         "colorize",
         "argparse"
-      ]
+      ],
+      "p": []
     },
     {
       "v": "#head@13a6c862bdd5a2686039a8314f950862f2ccc40e",
@@ -37,16 +40,12 @@
         "colorize",
         "argparse"
       ],
-      "a": "Daniel E. Cook",
       "d": "til-tool: Today I Learned tool",
-      "l": "MIT",
-      "p": [
-        "til"
-      ]
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:52Z",
+  "generatedAt": "2026-05-26T00:55:50Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

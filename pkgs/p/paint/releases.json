@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@639aba9ca409285e22110f59d9a28f99d6b1b805",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@fc99d0400dab09c10536afd2a21468ffaf6f6ceb",
       "r": [],
-      "a": "Tobi",
-      "d": "Basic functionality for colorizing strings",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:13Z",
+  "generatedAt": "2026-05-26T00:53:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

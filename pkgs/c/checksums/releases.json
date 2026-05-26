@@ -11,32 +11,37 @@
   "releases": [
     {
       "v": "0.2.2@0845c735a9746188b2257ee2cff672eb6ec26e8a",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.1@f8f6bd34bfa3fe12c64b919059ad856a96efcba0",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.2.0@86003da1cebaf8904979579e5ebdfbaa1ce507b4",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@7ff0b762332d2591bbeb65df9bb86d52ea44ec01",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@5c132cd332cce5d64a0da9ac3e4c9664313dccb4",
       "r": [],
-      "a": "Nim Contributors",
-      "d": "Hash algorithms in Nim.",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:13Z",
+  "generatedAt": "2026-05-26T00:46:08Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

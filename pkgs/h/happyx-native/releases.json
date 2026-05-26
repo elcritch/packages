@@ -31,7 +31,13 @@
         "happyx #head",
         "jnim #head",
         "rcedit"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "i": [],
+      "j": [],
+      "k": [],
+      "o": {}
     },
     {
       "v": "#head@9a3663d4ea4f5d942761cb3d9e9e494e9693e8aa",
@@ -42,30 +48,16 @@
         "rcedit",
         "gh:neroist/webview"
       ],
-      "a": "HapticX",
-      "d": "Macro-oriented web-framework compiles to native written with ♥",
-      "l": "MIT",
-      "s": "src",
-      "i": [
-        "happyx_native/android/",
-        "happyx_native/assets/"
-      ],
-      "j": [
-        "happyx_native/android/tmpl/gradlew"
-      ],
-      "k": [
-        "nim",
-        "gradle",
-        "properties"
-      ],
-      "o": {
-        "happyx_native/hpxnative": "hpx-native"
-      },
-      "m": "1.6.14"
+      "m": "~",
+      "s": "",
+      "i": [],
+      "j": [],
+      "k": [],
+      "o": {}
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:34Z",
+  "generatedAt": "2026-05-26T00:48:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

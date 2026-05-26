@@ -20,7 +20,11 @@
         "nimja >= 0.8.7",
         "threadlogging >= 0.1.5",
         "argparse >= 4.0.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "#head@779649587276445c43bf6aed07cbbb8c18fdd70b",
@@ -29,20 +33,11 @@
         "nimja >= 0.8.7",
         "threadlogging >= 0.1.5",
         "argparse >= 4.0.1"
-      ],
-      "a": "Paul Wilde",
-      "d": "A simple paste bin",
-      "l": "AGPL-3.0-or-later",
-      "s": "src",
-      "b": "bin",
-      "p": [
-        "note"
-      ],
-      "m": "2.0.0"
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:42Z",
+  "generatedAt": "2026-05-26T00:52:47Z",
   "allDeps": {
     "packages": [
       "argparse",

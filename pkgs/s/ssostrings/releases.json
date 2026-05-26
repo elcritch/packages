@@ -10,7 +10,8 @@
   "releases": [
     {
       "v": "0.7.1@f91ce42bf151f3fcee6a5cb317fd38829f95a515",
-      "r": []
+      "r": [],
+      "m": "~"
     },
     {
       "v": "0.7.0@a06186c60443a0c96d1eb66750a9feebdb86df79",
@@ -55,14 +56,11 @@
     {
       "v": "#head@ecdb593ff3e806c1323c48955b0181f8298d98dc",
       "r": [],
-      "a": "Antonis Geralis",
-      "d": "Small String Optimized string type",
-      "l": "MIT",
-      "m": "2.1.9"
+      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:12Z",
+  "generatedAt": "2026-05-26T00:55:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -13,15 +13,11 @@
     },
     {
       "v": "#head@6a06320cecd19ea413415b9c0fb3340a53673d52",
-      "n": "nimstopwatch",
-      "r": [],
-      "a": "Tom Krauss",
-      "d": "Command line stopwatch written in Nim with split / lap support",
-      "l": "Apache2"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:49:15Z",
+  "generatedAt": "2026-05-26T00:52:17Z",
   "allDeps": {
     "packages": [],
     "urls": [],

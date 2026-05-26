@@ -11,20 +11,19 @@
   "releases": [
     {
       "v": "0.1.0@37d65878276fc6ed14844b042521e5f3c6f2d821",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@0350c36d9545040f1038258d7a815493a6103de0",
       "r": [],
-      "a": "nim-lang",
-      "d": "FTP client implementation (originally in the stdlib).",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.15.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:09Z",
+  "generatedAt": "2026-05-26T00:45:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

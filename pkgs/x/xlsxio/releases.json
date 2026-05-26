@@ -11,24 +11,26 @@
   "releases": [
     {
       "v": "0.1.0@6fb57116fb3ea5f74280b37041c93bc905cfaddb",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.1@8a7ad9bacdefd2dc94a19c3047c151bed2714ee9",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@3791eae61832d8fdae88ea4759cc88d75c0a125c",
       "r": [],
-      "a": "juujaa",
       "d": "This is a xlsxio wrapper done Nim in mind.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.6.0"
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:54:14Z",
+  "generatedAt": "2026-05-26T00:57:11Z",
   "allDeps": {
     "packages": [],
     "urls": [],

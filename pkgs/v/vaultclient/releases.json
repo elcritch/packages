@@ -13,26 +13,31 @@
   "releases": [
     {
       "v": "0.1.1@28ab41959948e92722effa02fe0f91aee846d1d6",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "e": ""
     },
     {
       "v": "0.1.0@b9af83190f9be3e8d1fd62a7113244b6e4de27ab",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "e": ""
     },
     {
       "v": "#head@3003d2c30b7d1e9bae34da37b8b66bd5f93d4f52",
       "r": [],
-      "a": "Jack Tang",
-      "d": "Hashicorp Vault HTTP Client",
-      "l": "MIT",
-      "s": "src",
-      "b": "bin",
-      "e": "c",
-      "m": "1.2.0"
+      "m": "~",
+      "s": "",
+      "b": "",
+      "e": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:31Z",
+  "generatedAt": "2026-05-26T00:56:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -13,28 +13,36 @@
       "v": "0.2.0@c9344036936a49db3ff1bce97e0896d6aabcf22d^",
       "r": [
         "wepoll >= 0.1.2"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.8@6fcdbf3fddeb239885cd8bce15a0ab63c00647c0",
       "r": [
         "wepoll >= 0.1.0"
       ],
-      "a": "flywind"
+      "a": "flywind",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.6@228e80c168847e87b9965ff236a5fafa8a15a02b",
       "r": [
         "timerwheel >= 0.1.2"
       ],
-      "a": "flywind"
+      "a": "flywind",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.4@1df6938c4395b12e742c81a0dd578f94cda065e3",
       "r": [
         "timerwheel >= 0.1.2"
       ],
-      "a": "flywind"
+      "a": "flywind",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.2@9d88fef2451e86e5431d6dbfcc05c7d5914f4f30",
@@ -42,24 +50,30 @@
         "wepoll >= 0.1.0",
         "timerwheel >= 0.1.0"
       ],
-      "a": "flywind"
+      "a": "flywind",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "0.1.0@ef5db4a395ade4f17fcfe328cb8e52c37059fb13",
       "r": [
         "wepoll >= 0.1.0"
       ],
-      "a": "flywind"
+      "a": "flywind",
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@c9344036936a49db3ff1bce97e0896d6aabcf22d",
       "r": [
         "wepoll >= 0.1.2"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:12Z",
+  "generatedAt": "2026-05-26T00:49:15Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

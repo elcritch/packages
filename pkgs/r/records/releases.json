@@ -12,26 +12,28 @@
   "releases": [
     {
       "v": "0.5.2@2bbbd1b8f61d33e7135d02fe8f2bacbea6ec3ab3",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "b": ""
     },
     {
       "v": "0.5.1@399b932040a8fb30fb3a1069ce9e0fe1ededec09",
       "r": [],
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "s": "",
+      "b": ""
     },
     {
       "v": "#head@eea8cf425084d4e8a2fdc85de8e8e8a67be534ec",
       "r": [],
-      "a": "Dan Rose",
-      "d": "Operations on tuples as heterogeneous record types a la Relational Algebra",
-      "l": "MIT",
-      "s": "src",
-      "b": "build",
-      "m": "1.4.8"
+      "m": "~",
+      "s": "",
+      "b": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:07Z",
+  "generatedAt": "2026-05-26T00:54:11Z",
   "allDeps": {
     "packages": [],
     "urls": [],

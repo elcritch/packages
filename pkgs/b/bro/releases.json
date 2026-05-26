@@ -28,7 +28,11 @@
         "jsony"
       ],
       "x": [],
-      "k": []
+      "k": [],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     },
     {
       "v": "0.1.1@e7262385a1e026ea8929481b037905fc114cb27d",
@@ -44,7 +48,13 @@
         "pkginfo",
         "StashTable"
       ],
-      "d": "A super fast statically typed stylesheet language for cool kids"
+      "d": "A super fast statically typed stylesheet language for cool kids",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "x": [],
+      "k": [],
+      "p": []
     },
     {
       "v": "0.1.2@ece2036d9c90927805421e21ff7c62ebe191b1f7",
@@ -63,7 +73,13 @@
         "websocketx"
       ],
       "d": "A super fast stylesheet language for cool kids!",
-      "l": "LGPL"
+      "l": "LGPL",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "x": [],
+      "k": [],
+      "p": []
     },
     {
       "v": "#head@611ee8f8d7b4f27f0acfae2da6c90a22f3701b1e",
@@ -81,22 +97,17 @@
         "chroma",
         "watchout #head"
       ],
-      "a": "George Lemon",
       "d": "A super fast stylesheet language for cool kids!",
-      "l": "MIT",
-      "s": "src",
-      "b": "bin",
-      "k": [
-        "nim"
-      ],
-      "p": [
-        "bro"
-      ],
-      "m": "2.0.0"
+      "m": "2.0.0",
+      "x": [],
+      "s": "",
+      "b": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:53Z",
+  "generatedAt": "2026-05-26T00:45:48Z",
   "allDeps": {
     "packages": [
       "StashTable > 0.1.0",

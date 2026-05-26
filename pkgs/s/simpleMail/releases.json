@@ -13,22 +13,21 @@
       "v": "0.1.0@7f5478d67dcd08da49a60b0d55cb2382584446ae",
       "r": [
         "smtp"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     },
     {
       "v": "#head@f998fe66e4df9391a8be58ec8d84916b20eb1fba",
       "r": [
         "smtp"
       ],
-      "a": "up7down8",
-      "d": "\"Make sending HTML and file emails easier",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "m": "1.0.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:49Z",
+  "generatedAt": "2026-05-26T00:54:52Z",
   "allDeps": {
     "packages": [
       "smtp"

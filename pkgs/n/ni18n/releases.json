@@ -14,23 +14,21 @@
   "releases": [
     {
       "v": "0.1.0@915650d9af24908e2507e3a377a46acc8d4c3105",
-      "r": []
+      "r": [],
+      "m": "~",
+      "s": "",
+      "k": []
     },
     {
       "v": "#head@40e6cd1b4d4f4ede0efaae5d416f8c94b02aadd6",
       "r": [],
-      "a": "Hein Thant Maung Maung",
-      "d": "Super Fast Nim Macros For Internationalization and Localization",
-      "l": "MIT",
-      "s": "src",
-      "k": [
-        "nim"
-      ],
-      "m": "1.0.0"
+      "m": "~",
+      "s": "",
+      "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:07Z",
+  "generatedAt": "2026-05-26T00:51:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
