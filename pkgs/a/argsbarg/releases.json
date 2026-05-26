@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "argsbarg",
   "fqn": "nim-argsbarg.bdombro.github.com",
+  "current": "f35a26a4b7357cedeb702676ce9d24e31d700968",
   "releases": [
     {
       "v": "2.1.2@f591606fda1d842841b7438aaed7bb0f9039c751",
@@ -77,12 +78,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:44:10Z",
-  "allDeps": {
-    "packages": [],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T16:23:03Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -99,5 +95,10 @@
       "v2.1.2": "2.1.2"
     },
     "latest": "v2.1.2"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
   }
 }

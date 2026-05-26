@@ -20,6 +20,10 @@
       "r": []
     },
     {
+      "v": "2.5.0@c6578f86303a9188bec0402b6ebbfa8c4edf7327",
+      "r": []
+    },
+    {
       "v": "2.4.2@5a44c8b28f48304b00963fa56f375240866c6349",
       "r": []
     },
@@ -46,7 +50,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:49:55Z",
+  "generatedAt": "2026-05-26T16:27:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

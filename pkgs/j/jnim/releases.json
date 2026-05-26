@@ -96,6 +96,14 @@
       "m": "0.13.1"
     },
     {
+      "v": "0.2.6@d4fd21eb078a6f0782d4f3aa857be4c056b8fe93",
+      "r": [
+        "nimfp >= 0.1.0"
+      ],
+      "a": "Anatoly Galiulin",
+      "m": "0.13.1"
+    },
+    {
       "v": "0.2.5@44ec29f7976e3077c0822c90651510117e535efb",
       "r": [
         "nimfp >= 0.1.0"
@@ -153,7 +161,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:48:16Z",
+  "generatedAt": "2026-05-26T16:26:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

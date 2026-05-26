@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "aporia",
   "fqn": "Aporia.nim-lang.github.com",
+  "current": "3273cb144172deb2dae615191b30a62093c365ee",
   "author": "Dominik Picheta",
   "description": "A Nim IDE.",
   "license": "GPLv2",
@@ -38,12 +39,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:44:08Z",
-  "allDeps": {
-    "packages": [],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T16:23:02Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -58,5 +54,10 @@
       "v0.4.1": "0.4.1"
     },
     "latest": "v0.4.1"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
   }
 }

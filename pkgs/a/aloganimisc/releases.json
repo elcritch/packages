@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "aloganimisc",
   "fqn": "aloganimisc.Alogani.github.com",
+  "current": "b29ab4f7e8f321090f6638b73cc7906762379498",
   "author": "alogani",
   "description": "Small utilities not worthing a package",
   "license": "MIT",
@@ -18,12 +19,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:44:00Z",
-  "allDeps": {
-    "packages": [],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T16:22:56Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -38,5 +34,10 @@
       "v0.1.1": "0.1.1"
     },
     "latest": "v0.1.1"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
   }
 }

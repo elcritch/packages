@@ -1,0 +1,1 @@
+{"v":"#head@d02192d740655734d02852e981eef26d0a468fe5","r":[],"d":"An INI parser written in Nim. Has more features and datatypes than std/parsecfg while still being just as fast!"}

@@ -1,0 +1,1 @@
+{"v":"#head@2fbc9da70a508c27ca6da81d28c6e5ea79a4f030","r":["terminaltables >= 0.1.1","uuids >= 0.1.10"],"a":"inv2004","d":"Nim structs to work with Kdb in type-safe manner and low-level Nim to Kdb bindings"}

@@ -1,0 +1,1 @@
+{"v":"#head@e9712c8dc35954e950c554e75d1fdd1e7548d664","r":["aglet >= 0.4.2","error://stbimage >= 2.5"],"S":"HasBrokenDep","E":"in file: /home/runner/work/nim-packages/nim-packages/pkgs/r/rapid/.worktree/rapid.nimble\ncannot resolve package name: stbimage"}

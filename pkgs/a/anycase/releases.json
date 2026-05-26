@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "anycase",
   "fqn": "anycase.lamartire.github.com",
+  "current": "c3a8b1b41cb9b6311ab117f80a1c31710540f74d",
   "author": "lamartire",
   "description": "Convert strings to any case",
   "license": "MIT",
@@ -32,18 +33,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:44:07Z",
-  "allDeps": {
-    "packages": [
-      "graphemes > 0.2.1",
-      "regex > 0.2.1",
-      "segmentation > 0.2.1",
-      "unicodedb > 0.2.1",
-      "unicodeplus > 0.2.1"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T16:23:00Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -59,5 +49,16 @@
       "v0.1.1": "0.1.1"
     },
     "latest": "0.3.0"
+  },
+  "allDeps": {
+    "packages": [
+      "graphemes > 0.2.1",
+      "regex > 0.2.1",
+      "segmentation > 0.2.1",
+      "unicodedb > 0.2.1",
+      "unicodeplus > 0.2.1"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

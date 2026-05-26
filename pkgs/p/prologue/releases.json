@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "prologue",
   "fqn": "Prologue.planety.github.com",
+  "current": "99c799ce6879cc744fff44f8f0a77d8abecdf3d1",
   "author": "ringabout",
   "description": "Prologue is an elegant and high performance web framework",
   "license": "Apache-2.0",
@@ -341,38 +342,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:52:20Z",
-  "allDeps": {
-    "packages": [
-      "asynctools <= 0.2.8",
-      "cligen > 0.3.6",
-      "cookiejar > 0.3.2",
-      "dotenv > 0.1.6 & <= 0.3.6",
-      "graphemes",
-      "httpbeast <= 0.2.8",
-      "httpx > 0.3.2",
-      "ioselectors > 0.3.2",
-      "karax > 0.1.6 & <= 0.3.6",
-      "logue > 0.3.6",
-      "nimcrypto",
-      "regex",
-      "segmentation",
-      "timerwheel > 0.3.2",
-      "unicodedb",
-      "unicodeplus",
-      "wepoll > 0.3.2",
-      "ws > 0.1.6 & <= 0.3.6"
-    ],
-    "urls": [
-      "error://cookies > 0.1.8 & <= 0.3.2"
-    ],
-    "unresolved": [
-      "gh:iffy/asynctools",
-      "gh:planety/cookies",
-      "gh:timotheecour/asynctools",
-      "gh:xflywind/httpx"
-    ]
-  },
+  "generatedAt": "2026-05-26T16:29:08Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -444,6 +414,37 @@
       "v0.3.0",
       "v0.3.2",
       "v0.3.4"
+    ]
+  },
+  "allDeps": {
+    "packages": [
+      "asynctools <= 0.2.8",
+      "cligen > 0.3.6",
+      "cookiejar > 0.3.2",
+      "dotenv > 0.1.6 & <= 0.3.6",
+      "graphemes",
+      "httpbeast <= 0.2.8",
+      "httpx > 0.3.2",
+      "ioselectors > 0.3.2",
+      "karax > 0.1.6 & <= 0.3.6",
+      "logue > 0.3.6",
+      "nimcrypto",
+      "regex",
+      "segmentation",
+      "timerwheel > 0.3.2",
+      "unicodedb",
+      "unicodeplus",
+      "wepoll > 0.3.2",
+      "ws > 0.1.6 & <= 0.3.6"
+    ],
+    "urls": [
+      "error://cookies > 0.1.8 & <= 0.3.2"
+    ],
+    "unresolved": [
+      "gh:iffy/asynctools",
+      "gh:planety/cookies",
+      "gh:timotheecour/asynctools",
+      "gh:xflywind/httpx"
     ]
   }
 }

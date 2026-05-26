@@ -1,0 +1,1 @@
+{"v":"#head@2cacf6cc28116e4046e0b67a13545af5c4e756bd","r":["glob >= 0.11.3 & < 0.12.0","toml_serialization >= 0.2.18 & < 0.3.0","regex >= 0.26.3 & < 0.27.0"]}

@@ -1,0 +1,1 @@
+{"v":"#head@f2d2944cb48c6c85b336a989a1919b64434c4d7f","r":["base32 >= 0.1.3","cb:eris/nim-coap >= 20220831","srht:ehmry/nim_cbor","srht:ehmry/nim_taps","srht:ehmry/freedesktop_org >= 20230201","srht:ehmry/nim-tkrzw >= 20220910","illwill"],"g":true,"a":"Endo Renberg","d":"Encoding for Robust Immutable Storage","p":["eris/eriscmd","eris/helpers/rclerislink"],"m":"2.0.0"}

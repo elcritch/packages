@@ -1,0 +1,1 @@
+{"v":"#head@b6d0a02548db94ae472688fc703b317598d15f65","r":["nimsimd","chroma","vmath"],"f":{"msdf":["pixie >= 0.5.0"],"msdf-reference":["gh:Chlumsky/msdfgen","gh:ShoYamanishi/SDFont"],"test":["pixie >= 0.5.0"]}}

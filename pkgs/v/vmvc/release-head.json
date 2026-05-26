@@ -1,0 +1,1 @@
+{"v":"#head@488c7925a8e24f4db466abccb52a11b74c5b4bb6","r":["uuids >= 0.1.10","regex >= 0.10.0"],"d":"a skeleton/structure for a variation on the mvc pattern, similar to dci. For command line and gui programs. it's a middle ground between rapid application development and handling software complexity."}

@@ -1,0 +1,1 @@
+{"v":"#head@a24e394b3b08bef903343ad6aad5274d8cc74543","r":["zippy >= 0.10.0","nimPNG >= 0.3.0"],"d":"Pure Nim PDF generation library — create PDF documents with text, fonts, graphics, and images. Inspired by the PHP FPDF API."}

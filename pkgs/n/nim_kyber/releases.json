@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nim_kyber",
   "fqn": "nim-kyber.roger-padrell.github.com",
+  "current": "db1e62a80bc2ecf228cd72125c7d4ee91b18aa6b",
   "author": "Roger Padrell",
   "description": "Implementation of the Kyber post-quantum encrypting algorithm in NIM",
   "license": "MIT",
@@ -18,12 +19,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:50:07Z",
-  "allDeps": {
-    "packages": [],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T16:27:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -38,5 +34,10 @@
       "v1.1.0": "1.1.0"
     },
     "latest": "v1.1.0"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
   }
 }

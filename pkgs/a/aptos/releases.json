@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "aptos",
   "fqn": "nimAptos.C-NERD.github.com",
+  "current": "962d512d7ca1bf57f5c0ed0b4472d74a9b6bf7c6",
   "author": "C-NERD",
   "description": "aptos library for nim lang",
   "license": "MIT",
@@ -28,18 +29,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:44:09Z",
-  "allDeps": {
-    "packages": [
-      "bcs",
-      "integers",
-      "libsodium",
-      "nimcrypto",
-      "sha3"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T16:23:02Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -54,5 +44,16 @@
       "v0.3.1": "0.3.1"
     },
     "latest": "v0.3.1"
+  },
+  "allDeps": {
+    "packages": [
+      "bcs",
+      "integers",
+      "libsodium",
+      "nimcrypto",
+      "sha3"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

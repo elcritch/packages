@@ -1,0 +1,1 @@
+{"v":"#head@c0575260626c32a52c62ab8faf27611275c64b8f","r":["db_connector >= 0.1.0"],"g":true,"x":["examples"],"k":["nim"],"p":["tools/ormin_importer"],"m":"2.0.0","f":{"examples":["websocket >= 0.2.2","karax","jester"]}}

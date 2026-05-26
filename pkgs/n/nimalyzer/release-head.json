@@ -1,0 +1,1 @@
+{"v":"#head@d15d7602bebadec2028833311f3887baf3ffa436","r":["contracts >= 0.2.2","error://coloredlogger >= 0.1.0","unittest2"],"g":true,"S":"HasBrokenDep","E":"in file: /home/runner/work/nim-packages/nim-packages/pkgs/n/nimalyzer/.worktree/nimalyzer.nimble\ncannot resolve package name: coloredlogger"}

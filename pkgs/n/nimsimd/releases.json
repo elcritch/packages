@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimsimd",
   "fqn": "nimsimd.guzba.github.com",
+  "current": "ee33414d5963406f82f51c654399f22f86bac0bf",
   "author": "Ryan Oldenburg",
   "description": "Pleasant Nim bindings for SIMD instruction sets.",
   "license": "MIT",
@@ -212,12 +213,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:50:54Z",
-  "allDeps": {
-    "packages": [],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T16:28:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -266,5 +262,10 @@
       "1.3.2"
     ],
     "latest": "1.3.2"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
   }
 }

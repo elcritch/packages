@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "ptest",
   "fqn": "ptest.treeform.github.com",
+  "current": "a377f4062d5de8d17d6decafe8c792e758b0ab63",
   "author": "treeform",
   "description": "You debug with print statements? Why don't you also test with them?",
   "license": "MIT",
@@ -14,12 +15,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:52:21Z",
-  "allDeps": {
-    "packages": [],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T16:29:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -32,5 +28,10 @@
       "v0.1.0": "0.1.0"
     },
     "latest": "v0.1.0"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
   }
 }

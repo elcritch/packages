@@ -44,14 +44,10 @@
     {
       "v": "0.2.0@79a09c0452e3797d81fc0ba22d2b16e4711a9019",
       "r": []
-    },
-    {
-      "v": "0.1.0@f557d3d22815eeadc99800e692f3c5143d6ac00b",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:50:27Z",
+  "generatedAt": "2026-05-26T16:27:46Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

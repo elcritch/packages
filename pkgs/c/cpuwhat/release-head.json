@@ -1,0 +1,1 @@
+{"v":"#head@a7db6be3849f5371df370be1062b7553febb20ea","r":["nimterop >= 0.4.4"],"d":"Nim utilities for advanced CPU operations: CPU identification, bindings to assorted intrinsics"}

@@ -1,0 +1,1 @@
+{"v":"#head@331fbabdb018cf858ff944cd79c4b1737dd3a937","r":["stew","nimcrypto","stint","chronos >= 4.0.3 & < 5.0.0","httputils >= 0.3.0","chronicles","websock >= 0.2.1 & < 0.4.0","serialization >= 0.4.4","json_serialization >= 0.4.2","unittest2"]}

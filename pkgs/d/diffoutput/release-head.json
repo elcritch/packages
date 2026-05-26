@@ -1,0 +1,1 @@
+{"v":"#head@45bbd217bf70debe7ef907b0655c6988d4d0a26d","r":["error://diff >= 0.5.0"],"S":"HasBrokenDep","E":"in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/diffoutput.JohnAD.github.com-45bbd217-diffoutput.nimble\ncannot resolve package name: diff"}

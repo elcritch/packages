@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "qr",
   "fqn": "nim_qr.ThomasTJdev.github.com",
+  "current": "ca6d7d09b84656bf451188acbbb663746a18970e",
   "author": "Thomas T. Jarløv",
   "description": "QR-code tools. Generate SVG-files with QR-codes, get QR-code sizes, etc.",
   "license": "MIT",
@@ -36,12 +37,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:52:28Z",
-  "allDeps": {
-    "packages": [],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T16:29:13Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -54,5 +50,10 @@
       "v1.4.0": "1.4.0"
     },
     "latest": "v1.4.0"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
   }
 }

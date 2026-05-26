@@ -1,0 +1,1 @@
+{"v":"#head@cd931cc85593b1cef58e36e306b69c6e0015c433","r":["zmq >= 1.2.1 & < 1.3.0","hmac >= 0.2.0 & < 0.3.0","nimSHA2 #b8f666069dff1ed0c5142dd1ca692f0e71434716","nimPNG #2dccf3e19ceb3fdf3f3f415e717d9d336d473a19"],"h":true,"g":true}

@@ -1,0 +1,1 @@
+{"v":"#head@ae7cacca2aa0d268510f4e16d621ad186f565f18","r":[],"S":"HasBrokenNimbleFile","E":"in file: /home/runner/work/nim-packages/nim-packages/pkgs/a/asyncio/.worktree/asyncio.nimble\ninvalid 'requires' syntax in nimble file: asyncsync ~= 0.5.0"}

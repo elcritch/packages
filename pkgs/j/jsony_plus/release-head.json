@@ -1,0 +1,1 @@
+{"v":"#head@7bfb045a698bd7d29d7863ea1bd917d1bbb9da41","r":["jsony >= 1.1.5","colors >= 0.1.1"],"d":"An extension of `jsony` supporting better hooks, types generated from schemas, and general quality of life tools"}

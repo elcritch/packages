@@ -1,0 +1,1 @@
+{"v":"#head@fe5d5d55648d571206be5b5c00fab6f6a9266b87","r":["db_connector >= 0.1.0","smtp >= 0.1.0","gh:ThomasTJdev/otp.nim 0.3.3","jesterfork >= 1.0.0","bcrypt >= 0.2.1","datetime2human >= 0.2.5","firejail >= 0.5.0","recaptcha >= 1.0.3","webp >= 0.2.5","packedjson >= 0.1.0"],"h":true}

@@ -1,0 +1,1 @@
+{"v":"#head@f68389d369cf5cbd5c2b0f6f7d8fdc679b1dedcd","r":["argparse >= 4.0.1","yaml >= 2.0.0"],"g":true,"d":"A few CLI utilities","p":["cupa","lecho","shellescape","shost","statistik","suc","urldecode","urlencode","yaml2json"]}

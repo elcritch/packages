@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "cookiejar",
   "fqn": "cookiejar.planety.github.com",
+  "current": "372b0ab1a6036a9f48f7540e7f3090e61796d947",
   "author": "ringabout",
   "description": "HTTP Cookies for Nim.",
   "license": "Apache-2.0",
@@ -31,12 +32,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:45:44Z",
-  "allDeps": {
-    "packages": [],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T16:24:17Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -55,5 +51,10 @@
       "v0.3.1": "0.3.1"
     },
     "latest": "v0.3.1"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
   }
 }

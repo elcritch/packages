@@ -1,0 +1,1 @@
+{"v":"#head@99c799ce6879cc744fff44f8f0a77d8abecdf3d1","r":["regex >= 0.20.0","nimcrypto >= 0.6.0","cookiejar >= 0.2.0","logue >= 0.2.0","httpx >= 0.3.7"],"f":{"kairos":["kairos >= 0.1.0"]}}

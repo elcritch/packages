@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "propositionalLogic",
   "fqn": "nim-propositional-logic.Azumabashi.github.com",
+  "current": "73c6cca08098649678c398d72c68691cb42ce0ea",
   "author": "Azumabashi",
   "description": "Library for propositional logic implemented by Nim",
   "license": "MIT",
@@ -89,12 +90,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:52:19Z",
-  "allDeps": {
-    "packages": [],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T16:29:08Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -136,5 +132,10 @@
       "v3.3.0": "3.3.0"
     },
     "latest": "v3.3.0"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
   }
 }

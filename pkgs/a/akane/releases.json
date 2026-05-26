@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "akane",
   "fqn": "akane.ethosa.github.com",
+  "current": "7766be8b1de3fe079c4268da9eb27d74f36c5019",
   "author": "Ethosa",
   "description": "The Nim asynchronous web framework.",
   "license": "MIT",
@@ -45,12 +46,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:43:59Z",
-  "allDeps": {
-    "packages": [],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T16:22:55Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -79,5 +75,10 @@
     "prerelease": [
       "v0.1.0"
     ]
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
   }
 }

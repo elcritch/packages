@@ -1,0 +1,1 @@
+{"v":"#head@73365a4c14eb0db4400c008889560638911d3ac1","r":["stew >= 0.1.0","progress >= 0.1.0","msgpack4nim >= 0.3.1","threading >= 0.1.0","cligen >= 0.1.0"],"m":"2.0.14","f":{"cbor":["cborious"]}}

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimrtlsdr",
   "fqn": "nimrtlsdr.jpoirier.github.com",
+  "current": "404a5e59fd36aa300c490e6d3bb9827f738e3fe7",
   "author": "Joseph Poirier",
   "description": "Nim wrapper around librtlsdr.",
   "license": "BSD",
@@ -28,12 +29,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:50:53Z",
-  "allDeps": {
-    "packages": [],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T16:28:05Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -54,5 +50,10 @@
       "v0.1.4": "0.1.4"
     },
     "latest": "v0.1.4"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
   }
 }

@@ -1,0 +1,1 @@
+{"v":"#head@6d8678a159bfb902f9725f0081d542134cd93916","r":["stew >= 0.4.0","chronos >= 4.0.4","nimcrypto >= 0.6.0","ngtcp2 >= 0.39.0","unittest2","chronicles >= 0.11.0","bearssl >= 0.2.5"]}

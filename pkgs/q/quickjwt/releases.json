@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "quickjwt",
   "fqn": "quickjwt.treeform.github.com",
+  "current": "4021980db44e3ec64eb0e47039cea3dacb6d80df",
   "author": "Andre von Houck",
   "description": "JSON Web Tokens for Nim",
   "license": "MIT",
@@ -20,12 +21,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:52:30Z",
-  "allDeps": {
-    "packages": [],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T16:29:15Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -36,5 +32,10 @@
       "0.2.1"
     ],
     "latest": "0.2.1"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
   }
 }

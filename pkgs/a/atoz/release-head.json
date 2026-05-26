@@ -1,0 +1,1 @@
+{"v":"#head@fd8a4cefee6e7ba65c4fc003a935d0538d7c9a9f","r":["sigv4 >= 1.3.0 & < 2.0.0","gh:disruptek/rest >= 1.0.0","openapi >= 5.0.0 & < 6.0.0","npeg >= 0.22.2 & < 2.0.0"]}

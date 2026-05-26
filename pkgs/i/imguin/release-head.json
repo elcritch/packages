@@ -1,0 +1,1 @@
+{"v":"#head@4e6c4d51f0361c8bfd9a4dc7c7c70368778f2c45","r":["sdl3_nim >= 3.4.2.0","nimgl","sdl2_nim","stb_image","tinydialogs","glfw","gh:DanielBelmes/VulkanNim","gh:Anuken/staticglfw"]}

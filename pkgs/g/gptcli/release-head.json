@@ -1,0 +1,1 @@
+{"v":"#head@0612ccc141f45e70f766dbe92a748542cb7ad6a2","r":[],"g":true,"S":"HasBrokenNimbleFile","E":"in file: /home/runner/work/nim-packages/nim-packages/pkgs/g/gptcli/.worktree/gptcli.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.0\ninvalid 'requires' syntax in nimble file: cligen ^= 1.6.16\ninvalid 'requires' syntax in nimble file: pyopenai ^= 0.2.0"}

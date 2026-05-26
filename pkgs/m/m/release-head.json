@@ -1,0 +1,1 @@
+{"v":"#head@203717790bc076cd8788a00477714f1597e407c5","r":["bigints >= 1.0.0"],"g":true,"d":"Lightweight and easily extendable / embeddable Lisp dialect with deterministic performance","i":["src/m","examples"],"j":["src/m.nim"],"k":["nim"],"p":["m/m"],"m":"2.2.2"}

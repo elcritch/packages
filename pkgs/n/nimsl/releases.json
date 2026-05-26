@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimsl",
   "fqn": "nimsl.yglukhov.github.com",
+  "current": "040e27000b18fc8cfde29c8a6ea241d1a0a08341",
   "author": "Yuriy Glukhov",
   "description": "Shaders in Nim",
   "license": "MIT",
@@ -40,14 +41,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:50:54Z",
-  "allDeps": {
-    "packages": [
-      "variant > 0.2 & <= 0.3.2"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T16:28:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -70,5 +64,12 @@
       "v0.3.3": "0.3.3"
     },
     "latest": "v0.3.3"
+  },
+  "allDeps": {
+    "packages": [
+      "variant > 0.2 & <= 0.3.2"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

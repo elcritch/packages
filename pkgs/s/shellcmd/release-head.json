@@ -1,0 +1,1 @@
+{"v":"#head@b7d8b0da149bbc23f8e7adb8f4a5236dd7ed2ece","r":[],"S":"HasBrokenNimbleFile","E":"in file: /home/runner/work/nim-packages/nim-packages/pkgs/s/shellcmd/.worktree/shellcmd.nimble\ninvalid 'requires' syntax in nimble file: asyncproc ~= 0.3.0\ninvalid 'requires' syntax in nimble file: aloganimisc ~= 0.1.0"}

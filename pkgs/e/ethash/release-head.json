@@ -1,0 +1,1 @@
+{"v":"#head@c2658d579295dff1d4b5f19c287c0cd3224ff701","r":["nimcrypto >= 0.1.0"],"d":"A Nim implementation of Ethash, the Ethereum proof-of-work hashing function","l":"Apache License 2.0","m":"1.6.0"}

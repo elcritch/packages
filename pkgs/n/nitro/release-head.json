@@ -1,0 +1,1 @@
+{"v":"#head@5ccdeb46e06dcf5cef80d0acbb80ee8a17d596e7","r":["nimcrypto >= 0.6.0 & < 0.7.0","questionable >= 0.10.10 & < 0.11.0","contractabi >= 0.7.1 & < 0.8.0","secp256k1 >= 0.6.0 & < 0.7.0","stint >= 0.8.0 & < 0.9.0","stew >= 0.2.0"],"m":"2.0.14"}

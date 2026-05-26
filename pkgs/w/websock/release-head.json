@@ -1,0 +1,1 @@
+{"v":"#head@387a8eb7e961e8fdd3b1a717d36bc53b55e4dc5d","r":["chronos >= 4.2.0 & < 4.4.0","httputils >= 0.2.0","chronicles >= 0.10.2","stew >= 0.4.2","nimcrypto","bearssl","results","zlib"]}

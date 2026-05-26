@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "couchdbapi",
   "fqn": "nim_couchdbapi.zendbit.github.com",
+  "current": "f310e9c75856abbf6cae6418f02ab0b7e4c4cbb0",
   "author": "Amru Rosyada",
   "description": "Apache CouchDb driver (REST API) for nim lang.",
   "license": "BSD",
@@ -79,12 +80,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:45:45Z",
-  "allDeps": {
-    "packages": [],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T16:24:17Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -123,5 +119,10 @@
       "v0.3.1": "0.3.1"
     },
     "latest": "v0.3.1"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
   }
 }

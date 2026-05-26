@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimpari",
   "fqn": "nim-pari.BarrOff.github.com",
+  "current": "7d6417a7d8d4d56e7279db2e4a3f58080e3f2488",
   "author": "BarrOff",
   "description": "Nim wrapper for the PARI library",
   "license": "MIT",
@@ -37,20 +38,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:50:45Z",
-  "allDeps": {
-    "packages": [
-      "cligen",
-      "graphemes",
-      "nimterop",
-      "regex",
-      "segmentation",
-      "unicodedb",
-      "unicodeplus"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T16:27:58Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -69,5 +57,18 @@
       "v0.2.0": "0.2.0"
     },
     "latest": "v0.2.0"
+  },
+  "allDeps": {
+    "packages": [
+      "cligen",
+      "graphemes",
+      "nimterop",
+      "regex",
+      "segmentation",
+      "unicodedb",
+      "unicodeplus"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

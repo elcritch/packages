@@ -1,0 +1,1 @@
+{"v":"#head@eadd2f9e5b5187f88369611047d608d7ebc808df","r":["msgpack4nim >= 0.3.1","stew >= 0.1.0","bytesequtils"],"f":{"examples":["fastrpc >= 0.5.1"]}}

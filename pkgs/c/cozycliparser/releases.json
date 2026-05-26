@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "cozycliparser",
   "fqn": "cozycliparser.indiscipline.github.com",
+  "current": "c009b1569b82e3e7af893b9099711662f34659bf",
   "author": "Kirill I.",
   "description": "CLI parser builder, a convenience wrapper over `std/parseopt`",
   "license": "GPL-2.0-or-later",
@@ -44,12 +45,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:45:45Z",
-  "allDeps": {
-    "packages": [],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T16:24:18Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -70,5 +66,10 @@
       "v0.3.3": "0.3.3"
     },
     "latest": "v0.3.3"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
   }
 }

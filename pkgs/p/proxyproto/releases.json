@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "proxyproto",
   "fqn": "libproxy.nim.ba0f3.github.com",
+  "current": "f28a800c25f4b8470c3b83e39dcb360c4902b3ab",
   "author": "Huy Doan",
   "description": "PROXY Protocol enabler for aged programs",
   "license": "MIT",
@@ -32,12 +33,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:52:20Z",
-  "allDeps": {
-    "packages": [],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T16:29:08Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -55,5 +51,10 @@
       "0.1.0",
       "0.1.1"
     ]
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
   }
 }

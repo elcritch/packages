@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimp",
   "fqn": "nimp.c-blake.github.com",
+  "current": "61a4c6dac73e27866ac696d42fe5d538bdae4860",
   "author": "Charles Blake",
   "description": "A package manager that delegates to package authors",
   "license": "MIT/ISC",
@@ -42,12 +43,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:50:44Z",
-  "allDeps": {
-    "packages": [],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T16:27:58Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -69,5 +65,10 @@
       "v0.2.1": "0.2.1"
     },
     "latest": "0.3.2"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
   }
 }

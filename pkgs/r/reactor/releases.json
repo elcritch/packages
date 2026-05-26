@@ -42,6 +42,11 @@
       "x": []
     },
     {
+      "v": "0.4.2@dfa2f0cba05f2a4d6b2174c04658175bede929e8",
+      "r": [],
+      "x": []
+    },
+    {
       "v": "0.4.1@12186954d649aaa66d5b90017973a6ab3fbe4c61",
       "r": [],
       "x": []
@@ -73,7 +78,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:52:36Z",
+  "generatedAt": "2026-05-26T16:29:19Z",
   "allDeps": {
     "packages": [
       "collections > 0.4.5"

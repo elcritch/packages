@@ -1,0 +1,1 @@
+{"v":"#head@55ceaca43edb7c4066178330f5e8a234f9a6868d","r":["taskpools >= 0.0.5","chronicles >= 0.10.3","chronos >= 4.0.0","threading #head","gh:nim-works/loony >= 0.1.12","owlkettle #head"]}

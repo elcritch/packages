@@ -1,0 +1,1 @@
+{"v":"#head@aa40059eb54f516031025aefccae5c221c0a27a9","r":["chronicles","chronos","bearssl","eth >= 0.9.0","faststreams","json_rpc >= 0.6.0","serialization >= 0.4.4","json_serialization >= 0.4.2","nimcrypto","stew","stint","results"]}

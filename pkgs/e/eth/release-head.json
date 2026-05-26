@@ -1,0 +1,1 @@
+{"v":"#head@9a9b0b2cc998cacbfc9e335e49e56eb4d247bf7f","r":["nimcrypto","stint >= 0.8.0","secp256k1","chronos","chronicles","stew","nat_traversal","metrics","sqlite3_abi","confutils","testutils","unittest2","results","minilru","snappy"]}

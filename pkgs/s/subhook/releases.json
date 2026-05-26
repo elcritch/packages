@@ -18,10 +18,6 @@
       "r": []
     },
     {
-      "v": "0.5.3@0536a4f4d421c879a32463b67984eb5682b63d37",
-      "r": []
-    },
-    {
       "v": "0.5.2@b5608a206f94c9946c56f45b12691ab85849f557",
       "r": [],
       "m": "0.18.1"
@@ -58,7 +54,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:53:45Z",
+  "generatedAt": "2026-05-26T16:30:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

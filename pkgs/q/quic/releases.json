@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "quic",
   "fqn": "nim-quic.vacp2p.github.com",
+  "current": "6d8678a159bfb902f9725f0081d542134cd93916",
   "author": "Status Research & Development GmbH",
   "description": "QUIC protocol implementation",
   "license": "MIT",
@@ -307,27 +308,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:52:31Z",
-  "allDeps": {
-    "packages": [
-      "bearssl",
-      "chronicles",
-      "chronos",
-      "faststreams",
-      "httputils",
-      "json_serialization",
-      "ngtcp2",
-      "nimcrypto",
-      "results",
-      "serialization",
-      "stew",
-      "testutils",
-      "unittest2",
-      "upraises <= 0.1.0"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T16:29:16Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -386,5 +367,25 @@
       "v0.5.2": "0.5.2"
     },
     "latest": "v0.5.2"
+  },
+  "allDeps": {
+    "packages": [
+      "bearssl",
+      "chronicles",
+      "chronos",
+      "faststreams",
+      "httputils",
+      "json_serialization",
+      "ngtcp2",
+      "nimcrypto",
+      "results",
+      "serialization",
+      "stew",
+      "testutils",
+      "unittest2",
+      "upraises <= 0.1.0"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

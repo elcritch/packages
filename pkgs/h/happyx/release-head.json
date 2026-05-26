@@ -1,0 +1,1 @@
+{"v":"#head@8c3fad71810c9240fee527863f42d294a89ce4f4","r":["checksums >= 0.1.0","cligen >= 1.6.14","illwill #2fe96f5c5a6e216e84554d92090ce3d47460667a","regex #head","httpx >= 0.3.7","microasynchttpserver >= 0.11.0","httpbeast >= 0.4.2","nimja 0.8.7","websocket >= 0.5.2","websocketx >= 0.1.2","nimcrypto >= 0.3.9"],"g":true}

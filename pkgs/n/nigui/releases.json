@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nigui",
   "fqn": "NiGui.trustable-code.github.com",
+  "current": "8a1bb04bfbebec5828fc46dd3394abc3c69418ac",
   "author": "Simon Krauter",
   "description": "Cross-platform, desktop GUI toolkit using native widgets.",
   "license": "MIT",
@@ -54,12 +55,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:49:56Z",
-  "allDeps": {
-    "packages": [],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T16:27:23Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -88,5 +84,10 @@
       "v0.2.8": "0.2.8"
     },
     "latest": "v0.2.8"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
   }
 }

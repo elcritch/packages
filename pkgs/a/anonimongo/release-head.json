@@ -1,0 +1,1 @@
+{"v":"#head@c7ad1ff0369e81b0d20090aa1b254ddf62776e24","r":["nimSHA2 >= 0.1.1","scram >= 0.1.9","sha1 >= 1.1","dnsclient >= 0.3.2","supersnappy","zippy","gh:mashingan/multisock >= 1.0.1","checksums >= 0.1.0"]}

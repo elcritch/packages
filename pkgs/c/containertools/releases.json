@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "containertools",
   "fqn": "containertools.ilmanzo.github.com",
+  "current": "103fe782896f615c4de8a8f73deb9f50093b2e4e",
   "author": "Andrea Manzini",
   "description": "A library to handle container file",
   "license": "GPL-3.0",
@@ -22,14 +23,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:45:42Z",
-  "allDeps": {
-    "packages": [
-      "unittest2"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T16:24:15Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -44,5 +38,12 @@
       "v0.2.2": "0.2.2"
     },
     "latest": "v0.2.2"
+  },
+  "allDeps": {
+    "packages": [
+      "unittest2"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

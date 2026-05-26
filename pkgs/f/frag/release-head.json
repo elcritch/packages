@@ -1,0 +1,1 @@
+{"v":"#head@de8f256dde787f2ebe2f97bbc9d11718cf8ae829","r":["sdl2 >= 1.1","stb_image >= 1.2","gh:yglukhov/android","x11 >= 1.0","gh:fragworks/nim-chipmunk","bgfxdotnim","gh:zacharycarter/bgfx.extras.nim","sound >= 0.1.0","gh:zacharycarter/nuklear-nim","gh:zacharycarter/nanovg.nim","strfmt >= 0.8.4","gh:zacharycarter/nimassimp"],"x":["examples","samples"],"m":"0.16.0"}

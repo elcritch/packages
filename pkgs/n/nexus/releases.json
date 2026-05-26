@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nexus",
   "fqn": "nexus.jfilby.github.com",
+  "current": "7eb83be37a9f3995070daef0fb4a7553f382730c",
   "author": "jfilby",
   "description": "Nexus Development Framework",
   "license": "Apache-2.0",
@@ -171,34 +172,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:49:52Z",
-  "allDeps": {
-    "packages": [
-      "argon2 > 0.1.0",
-      "asynctools > 0.1.0",
-      "chronicles > 0.1.0",
-      "db_connector > 0.1.4.8",
-      "dotenv > 0.1.0",
-      "faststreams > 0.1.0",
-      "httpbeast > 0.1.0",
-      "jester > 0.1.0",
-      "json_serialization > 0.1.0",
-      "karax > 0.1.0",
-      "quickjwt > 0.1.0",
-      "results > 0.1.0",
-      "serialization > 0.1.0",
-      "stew > 0.1.0",
-      "testutils > 0.1.0",
-      "unittest2 > 0.1.0",
-      "ws > 0.1.0",
-      "yaml > 0.1.0"
-    ],
-    "urls": [],
-    "unresolved": [
-      "gh:iffy/asynctools",
-      "gh:timotheecour/asynctools"
-    ]
-  },
+  "generatedAt": "2026-05-26T16:27:21Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -245,6 +219,33 @@
       "v0.1.4",
       "v0.1.4.2",
       "v0.1.4.3"
+    ]
+  },
+  "allDeps": {
+    "packages": [
+      "argon2 > 0.1.0",
+      "asynctools > 0.1.0",
+      "chronicles > 0.1.0",
+      "db_connector > 0.1.4.8",
+      "dotenv > 0.1.0",
+      "faststreams > 0.1.0",
+      "httpbeast > 0.1.0",
+      "jester > 0.1.0",
+      "json_serialization > 0.1.0",
+      "karax > 0.1.0",
+      "quickjwt > 0.1.0",
+      "results > 0.1.0",
+      "serialization > 0.1.0",
+      "stew > 0.1.0",
+      "testutils > 0.1.0",
+      "unittest2 > 0.1.0",
+      "ws > 0.1.0",
+      "yaml > 0.1.0"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:iffy/asynctools",
+      "gh:timotheecour/asynctools"
     ]
   }
 }

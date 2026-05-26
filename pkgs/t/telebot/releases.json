@@ -241,16 +241,6 @@
       "m": "1.0.4"
     },
     {
-      "v": "1.0.8@c69202539e2dbe3e86a3f4bb6d0076d6c86aac49",
-      "r": [
-        "sam >= 0.1.15"
-      ],
-      "x": [
-        "examples"
-      ],
-      "m": "1.0.4"
-    },
-    {
       "v": "1.0.7@3ee731167d21683744be0802c3a3f151fc773b78",
       "r": [
         "sam >= 0.1.15"
@@ -699,7 +689,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:54:01Z",
+  "generatedAt": "2026-05-26T16:30:25Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

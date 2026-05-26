@@ -1,0 +1,1 @@
+{"v":"#head@a255b23f234d5a763b67aab9d84239b1e1c7cdbf","r":["mummy","jwt >= 0.3","bearssl >= 0.2.8","gh:yglukhov/bearssl_pkey_decoder #546f8d9b","chroniclers"],"f":{"jsony":["jsony"],"msgpack":["msgpack4nim"],"chronicles":["chroniclers >= 0.2.1"],"cbor":["cborious"],"dev":["karax"]}}

@@ -1,0 +1,1 @@
+{"v":"#head@409eec1eeab05f5eb07d17343992638ce37f25ed","r":["sdl2_nim >= 2.0.14.2","gifenc >= 0.1.0","nimPNG >= 0.3.1","zippy >= 0.5.9"],"g":true,"a":"Jez 'Impbox' Kabanov","x":["examples","tests","android","tools"],"p":["nicoboot","nicoandroid","nicosynth"],"m":"1.4.0"}

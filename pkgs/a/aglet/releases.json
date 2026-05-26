@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "aglet",
   "fqn": "aglet.liquid600pgm.github.com",
+  "current": "5c3312982359f53d3ba8aaf05b9a927333289d71",
   "author": "liquid600pgm",
   "description": "A safe, high-level, optimized OpenGL wrapper",
   "license": "MIT",
@@ -101,24 +102,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:43:58Z",
-  "allDeps": {
-    "packages": [
-      "cligen <= 0.1.0",
-      "glm <= 0.4.1",
-      "graphemes <= 0.1.0",
-      "nimterop <= 0.1.0",
-      "regex <= 0.1.0",
-      "segmentation <= 0.1.0",
-      "unicodedb <= 0.1.0",
-      "unicodeplus <= 0.1.0"
-    ],
-    "urls": [],
-    "unresolved": [
-      "gh:liquid600pgm/nim-glm",
-      "gh:nimgl/glfw"
-    ]
-  },
+  "generatedAt": "2026-05-26T16:22:54Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -139,5 +123,22 @@
       "0.4.4"
     ],
     "latest": "0.4.4"
+  },
+  "allDeps": {
+    "packages": [
+      "cligen <= 0.1.0",
+      "glm <= 0.4.1",
+      "graphemes <= 0.1.0",
+      "nimterop <= 0.1.0",
+      "regex <= 0.1.0",
+      "segmentation <= 0.1.0",
+      "unicodedb <= 0.1.0",
+      "unicodeplus <= 0.1.0"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:liquid600pgm/nim-glm",
+      "gh:nimgl/glfw"
+    ]
   }
 }

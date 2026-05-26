@@ -1,0 +1,1 @@
+{"v":"#head@17a40fbb43378249d53942cabde61836ab196651","r":["foreach >= 1.0.2","bump >= 1.8.15","msgpack4nim 0.2.9","terminaltables #82ee5890c13e381de0f11c8ba6fe484d7c0c2f19","gh:disruptek/gittyup >= 2.4.4 & < 3.0.0","nimterop >= 0.6.2 & < 1.0.0","cligen >= 0.9.40"],"g":true}

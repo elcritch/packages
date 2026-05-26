@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "applicates",
   "fqn": "applicates.metagn.github.com",
+  "current": "4e410abb6f9ae8292a06fded8b33fd967ca17df9",
   "author": "metagn",
   "description": "generalized routine and symbol pointers",
   "license": "MIT",
@@ -38,12 +39,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:44:08Z",
-  "allDeps": {
-    "packages": [],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T16:23:01Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -66,5 +62,10 @@
       "v0.4.0": "0.4.0"
     },
     "latest": "v0.4.0"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
   }
 }

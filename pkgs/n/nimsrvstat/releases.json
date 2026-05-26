@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimsrvstat",
   "fqn": "nimsrvstat.Minejerik.github.com",
+  "current": "57d2f70aff367c0b400a75966871838534e5312e",
   "author": "minejerik",
   "description": "A nim wrapper around mcsrvstat",
   "license": "MIT",
@@ -22,12 +23,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T15:50:55Z",
-  "allDeps": {
-    "packages": [],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T16:28:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -47,5 +43,10 @@
     "prerelease": [
       "v0.1.0"
     ]
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
   }
 }
