@@ -111,11 +111,16 @@
         "parsetoml >= 0.5.0",
         "cligen >= 1.2.2",
         "suru >= 0.3.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": [],
+      "e": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:38Z",
+  "generatedAt": "2026-05-26T07:25:56Z",
   "allDeps": {
     "packages": [
       "cligen",

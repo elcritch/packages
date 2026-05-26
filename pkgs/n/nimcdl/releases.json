@@ -21,11 +21,13 @@
       "v": "#head@23f1f8b83cc2b5cfcba6cd45b986e99d703c87ee",
       "r": [
         "cascade >= 0.2.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:35Z",
+  "generatedAt": "2026-05-26T07:27:57Z",
   "allDeps": {
     "packages": [
       "cascade"

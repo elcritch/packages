@@ -53,11 +53,12 @@
         "gh:tandy-1000/jspf-nim",
         "gh:tandy-1000/asyncutils"
       ],
-      "m": "1.5.0"
+      "m": "1.5.0",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:01Z",
+  "generatedAt": "2026-05-26T07:26:20Z",
   "allDeps": {
     "packages": [
       "dotenv",

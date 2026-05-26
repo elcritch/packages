@@ -42,11 +42,16 @@
       "v": "#head@69e5c20d9ce9b1ed21023b957ed0a1ec4284e572",
       "r": [
         "sndfile"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "k": [],
+      "o": {}
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:07Z",
+  "generatedAt": "2026-05-26T07:21:21Z",
   "allDeps": {
     "packages": [
       "sndfile"

@@ -306,11 +306,15 @@
       "r": [
         "cligen >= 1.5.21",
         "npeg 1.2.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:45Z",
+  "generatedAt": "2026-05-26T07:25:04Z",
   "allDeps": {
     "packages": [
       "cligen",

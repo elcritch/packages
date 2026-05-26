@@ -27,11 +27,14 @@
       "r": [
         "zippy >= 0.10.5",
         "commandant >= 0.15.0"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:18Z",
+  "generatedAt": "2026-05-26T07:23:41Z",
   "allDeps": {
     "packages": [
       "commandant",

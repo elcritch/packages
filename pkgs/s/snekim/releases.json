@@ -45,11 +45,14 @@
       "v": "#head@d4754dadcd3671d220ead3e564998f2400017634",
       "r": [
         "nimraylib_now"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:02Z",
+  "generatedAt": "2026-05-26T07:31:30Z",
   "allDeps": {
     "packages": [
       "c2nim",

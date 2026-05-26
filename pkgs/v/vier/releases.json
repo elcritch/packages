@@ -269,11 +269,14 @@
         "cligen",
         "naylib",
         "spryvm"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:33Z",
+  "generatedAt": "2026-05-26T07:33:09Z",
   "allDeps": {
     "packages": [
       "LimDB > 2023.1212.1",

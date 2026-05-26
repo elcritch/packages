@@ -53,11 +53,15 @@
       "r": [
         "cppstl >= 0.6.2",
         "drawIt >= 0.5.4"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:32Z",
+  "generatedAt": "2026-05-26T07:28:52Z",
   "allDeps": {
     "packages": [
       "cppstl",

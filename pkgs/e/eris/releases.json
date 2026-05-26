@@ -347,11 +347,13 @@
         "eris/eriscmd",
         "eris/helpers/rclerislink"
       ],
-      "m": "2.0.0"
+      "m": "2.0.0",
+      "s": "",
+      "e": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:22Z",
+  "generatedAt": "2026-05-26T07:23:46Z",
   "allDeps": {
     "packages": [
       "base32",

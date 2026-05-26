@@ -56,11 +56,17 @@
         "illwave",
         "argparse",
         "regex"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "y": [],
+      "j": [],
+      "o": {}
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:44Z",
+  "generatedAt": "2026-05-26T07:26:02Z",
   "allDeps": {
     "packages": [
       "ansiutils",

@@ -174,11 +174,15 @@
       "r": [
         "nimpy",
         "nimPNG"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "k": [],
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:06Z",
+  "generatedAt": "2026-05-26T07:23:28Z",
   "allDeps": {
     "packages": [
       "nimPNG > 0.5.0",

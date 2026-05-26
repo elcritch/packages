@@ -24,11 +24,13 @@
       "r": [
         "nimcrypto >= 0.6.3",
         "db_connector >= 0.1.0"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:44Z",
+  "generatedAt": "2026-05-26T07:20:57Z",
   "allDeps": {
     "packages": [
       "db_connector",

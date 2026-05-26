@@ -35,11 +35,13 @@
         "timeit",
         "weave",
         "gnuplot"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:42Z",
+  "generatedAt": "2026-05-26T07:29:02Z",
   "allDeps": {
     "packages": [
       "gnuplot",

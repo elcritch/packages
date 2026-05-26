@@ -85,11 +85,16 @@
         "parsetoml >= 0.5.0",
         "cligen >= 1.2.2",
         "colorizeEcho 1.2"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": [],
+      "e": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:24Z",
+  "generatedAt": "2026-05-26T07:26:42Z",
   "allDeps": {
     "packages": [
       "cligen",

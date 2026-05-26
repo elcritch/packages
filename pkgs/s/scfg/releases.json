@@ -18,11 +18,13 @@
     {
       "v": "#head@f1116d89b46462d7a353c56288f75992523f675c",
       "r": [],
-      "l": "CC-BY-SA 4.0"
+      "l": "CC-BY-SA 4.0",
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:29Z",
+  "generatedAt": "2026-05-26T07:30:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

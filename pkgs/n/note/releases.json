@@ -33,11 +33,15 @@
         "nimja >= 0.8.7",
         "threadlogging >= 0.1.5",
         "argparse >= 4.0.1"
-      ]
+      ],
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:47Z",
+  "generatedAt": "2026-05-26T07:29:08Z",
   "allDeps": {
     "packages": [
       "argparse",

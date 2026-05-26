@@ -18,11 +18,13 @@
     {
       "v": "#head@daab0e469df94c1d62ebad07989b9562f7d5bf80",
       "r": [],
-      "l": "Unlicense"
+      "l": "Unlicense",
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:03Z",
+  "generatedAt": "2026-05-26T07:22:21Z",
   "allDeps": {
     "packages": [],
     "urls": [],

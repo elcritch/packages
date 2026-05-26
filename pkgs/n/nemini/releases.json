@@ -118,11 +118,13 @@
         "argparse",
         "threadlogging"
       ],
-      "m": "1.6.0"
+      "m": "1.6.0",
+      "s": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:02Z",
+  "generatedAt": "2026-05-26T07:27:24Z",
   "allDeps": {
     "packages": [
       "argparse > 0.2.7",

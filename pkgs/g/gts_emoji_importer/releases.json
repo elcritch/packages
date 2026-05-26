@@ -58,11 +58,15 @@
         "fedi_auth >= 0.1.0"
       ],
       "g": true,
-      "l": "GPLv3"
+      "l": "GPLv3",
+      "m": "~",
+      "s": "",
+      "b": "",
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:35Z",
+  "generatedAt": "2026-05-26T07:24:52Z",
   "allDeps": {
     "packages": [
       "fedi_auth > 0.1.0"

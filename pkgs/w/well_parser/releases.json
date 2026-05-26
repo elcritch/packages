@@ -29,11 +29,13 @@
       "v": "#head@098ab580b994b276ee228102092ef38592b7976a",
       "r": [
         "anonimongo >= 0.7.2"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:51Z",
+  "generatedAt": "2026-05-26T07:33:25Z",
   "allDeps": {
     "packages": [
       "anonimongo",

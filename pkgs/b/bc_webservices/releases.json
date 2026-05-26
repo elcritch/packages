@@ -21,11 +21,13 @@
       "v": "#head@54cf07712ff542530c1815a8a93904b59530b9dd",
       "r": [
         "jsony >= 1.1.5"
-      ]
+      ],
+      "m": "~",
+      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:24Z",
+  "generatedAt": "2026-05-26T07:21:40Z",
   "allDeps": {
     "packages": [
       "jsony"

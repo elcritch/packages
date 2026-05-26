@@ -22,11 +22,14 @@
     {
       "v": "#head@e1ba26d407c7daeee0656d4ddb8ed381f685b7f2",
       "r": [],
-      "d": "A library for straightforward diff calculation"
+      "d": "A library for straightforward diff calculation",
+      "m": "~",
+      "s": "",
+      "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:54Z",
+  "generatedAt": "2026-05-26T07:31:21Z",
   "allDeps": {
     "packages": [],
     "urls": [],
