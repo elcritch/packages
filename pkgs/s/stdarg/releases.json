@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "stdarg",
   "fqn": "stdarg.sls1005.github.com",
-  "head": "7d3318a7b3e7577d8800b10da64c5b51fd0b3efe",
   "author": "Hsien-yu Chu",
   "description": "A wrapper for <stdarg.h>",
   "license": "MIT",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "0.3.1@7d3318a7b3e7577d8800b10da64c5b51fd0b3efe^",
-      "r": [],
-      "s": ""
-    },
-    {
-      "v": "#head@7d3318a7b3e7577d8800b10da64c5b51fd0b3efe",
-      "r": [],
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:17Z",
+  "generatedAt": "2026-05-26T13:19:18Z",
   "allDeps": {
     "packages": [],
     "urls": [],

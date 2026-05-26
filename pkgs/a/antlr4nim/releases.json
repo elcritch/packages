@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "antlr4nim",
   "fqn": "antlr4nim.jan0sc.github.com",
-  "head": "2fae39da82e97eec9ac496a3b5227db761bb4c18",
   "author": "jan0sc",
   "description": "Nim interface to ANTLR4 listener/visitor via jsffi",
   "license": "MIT",
@@ -11,32 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@748150a23056a25e57e2faeafe9b18f98375518b",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@2fae39da82e97eec9ac496a3b5227db761bb4c18",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:46Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "v0.1.0"
-    ],
-    "tagVersions": {
-      "v0.1.0": "0.1.0"
-    },
-    "latest": "v0.1.0"
-  },
+  "generatedAt": "2026-05-26T13:11:55Z",
   "allDeps": {
     "packages": [],
     "urls": [],

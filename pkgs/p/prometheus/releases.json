@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "prometheus",
   "fqn": "prometheus.dom96.github.com",
-  "head": "eb4d67c1a84d4bd74cbd7f2a2065b60bcb8bad34",
   "author": "Dominik Picheta",
   "description": "A prometheus instrumentation library for Nim",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@c4779bc4b785296e29561eb97f3d88b263112bad",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@eb4d67c1a84d4bd74cbd7f2a2065b60bcb8bad34",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:49Z",
+  "generatedAt": "2026-05-26T13:18:18Z",
   "allDeps": {
     "packages": [],
     "urls": [],

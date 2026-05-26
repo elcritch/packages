@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "duktape",
   "fqn": "duktape-nim.manguluka.github.com",
-  "head": "78b8f7fcc0c592b6766e9121c22ce1fd2f66c3db",
   "author": "Manguluka Kakia",
   "description": "wrapper for the Duktape embeddable Javascript engine",
   "license": "MIT",
@@ -13,24 +12,10 @@
         "nimgen >= 0.1.4"
       ],
       "h": true
-    },
-    {
-      "v": "#head@78b8f7fcc0c592b6766e9121c22ce1fd2f66c3db",
-      "r": [
-        "nimgen >= 0.1.4"
-      ],
-      "h": true,
-      "x": [
-        "tests",
-        "src"
-      ],
-      "i": [
-        "duktape"
-      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:08Z",
+  "generatedAt": "2026-05-26T13:13:40Z",
   "allDeps": {
     "packages": [
       "c2nim",

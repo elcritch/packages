@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nbaser",
   "fqn": "nbaser.D-Nice.github.com",
-  "head": "0c989e0d9580b4a6c14e11976dba3a0d503ecfcd",
   "author": "D-Nice",
   "description": "Encoder/decoder for any base alphabet up to 256 with leading zero compression",
   "license": "Apache-2.0",
@@ -11,25 +10,15 @@
   "releases": [
     {
       "v": "1.0.1@d845edd02b2e26f95ee5ece952e5d00388029a41",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "1.0.0@ff71592a9f4539bab031f843df4e183e630e09ab",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@0c989e0d9580b4a6c14e11976dba3a0d503ecfcd",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:56Z",
+  "generatedAt": "2026-05-26T13:16:17Z",
   "allDeps": {
     "packages": [],
     "urls": [],

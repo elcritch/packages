@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "interfaced",
   "fqn": "interfaced.andreaferretti.github.com",
-  "head": "c5284cb3242cf893fe33156b80ec528acccb8faf",
   "author": "Andrea Ferretti",
   "description": "Go-like interfaces",
   "license": "Apache2",
@@ -16,24 +15,16 @@
     {
       "v": "0.2.0@c5284cb3242cf893fe33156b80ec528acccb8faf^",
       "r": [],
-      "m": "~",
       "y": []
     },
     {
       "v": "0.1.0@08459efa442d1bc69c2f6a3b1f6d65e3ea113e9c",
       "r": [],
-      "m": "~",
-      "y": []
-    },
-    {
-      "v": "#head@c5284cb3242cf893fe33156b80ec528acccb8faf",
-      "r": [],
-      "m": "~",
       "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:12Z",
+  "generatedAt": "2026-05-26T13:15:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

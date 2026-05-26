@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "fswatch",
   "fqn": "nim-fswatch.FedericoCeratto.github.com",
-  "head": "60d5190328d019cd53bc7ea58c3252db5036b4c7",
   "author": "Federico Ceratto",
   "description": "fswatch library wrapper",
   "license": "GPL-3.0",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "0.1.0@60d5190328d019cd53bc7ea58c3252db5036b4c7^",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@60d5190328d019cd53bc7ea58c3252db5036b4c7",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:58Z",
+  "generatedAt": "2026-05-26T13:14:12Z",
   "allDeps": {
     "packages": [],
     "urls": [],

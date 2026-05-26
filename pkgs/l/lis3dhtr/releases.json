@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "lis3dhtr",
   "fqn": "ratel-LIS3DHTR.garrettkinman.github.com",
-  "head": "58cc305c27065e9802f9eba526144e1c94e75b94",
   "author": "Garrett Kinman",
   "description": "Ratel library for the LIS3DHTR 3-axis accelerometer",
   "license": "MIT",
@@ -13,21 +12,11 @@
       "v": "0.1.0@d97fce0620db1a49152a19ad18c7ab61397a6ceb",
       "r": [
         "ratel"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@58cc305c27065e9802f9eba526144e1c94e75b94",
-      "r": [
-        "ratel"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:00Z",
+  "generatedAt": "2026-05-26T13:15:35Z",
   "allDeps": {
     "packages": [
       "Nimscripter",

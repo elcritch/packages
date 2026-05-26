@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "syphus",
   "fqn": "syphus.makingspace.github.com",
-  "head": "2b2f221688cea52b99b8f9e43103071e8d65ff2e",
   "author": "Zach Smith",
   "description": "An implementation of the tabu search heuristic in Nim.",
   "license": "BSD-3",
@@ -15,20 +14,11 @@
     {
       "v": "0.4@4955582a642da02b2f163aa0c137b6b8428b50f2",
       "r": [],
-      "m": "~",
-      "s": "",
-      "x": []
-    },
-    {
-      "v": "#head@2b2f221688cea52b99b8f9e43103071e8d65ff2e",
-      "r": [],
-      "m": "~",
-      "s": "",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:32Z",
+  "generatedAt": "2026-05-26T13:19:29Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

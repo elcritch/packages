@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "kiwifyDownload",
   "fqn": "kiwifyDownload.thisago.github.com",
-  "head": "13da9d5ffdf5f97d6acdc94b33450965e78ea7a3",
   "author": "Thiago Navarro",
   "description": "Downloads the kiwify videos from course JSON",
   "license": "MIT",
@@ -18,8 +17,6 @@
       "r": [
         "cligen"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -28,8 +25,6 @@
       "r": [
         "cligen"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -40,8 +35,6 @@
         "vimeo",
         "util"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -52,8 +45,6 @@
         "vimeo",
         "util"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -64,8 +55,6 @@
         "vimeo",
         "util"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -75,8 +64,6 @@
         "cligen",
         "util"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -86,8 +73,6 @@
         "cligen",
         "util"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -98,26 +83,12 @@
         "util"
       ],
       "a": "thisago",
-      "m": "~",
-      "s": "",
-      "b": "",
-      "p": []
-    },
-    {
-      "v": "#head@13da9d5ffdf5f97d6acdc94b33450965e78ea7a3",
-      "r": [
-        "cligen",
-        "util"
-      ],
-      "a": "thisago",
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:36Z",
+  "generatedAt": "2026-05-26T13:15:19Z",
   "allDeps": {
     "packages": [
       "cligen",

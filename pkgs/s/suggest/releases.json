@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "suggest",
   "fqn": "suggest.c-blake.github.com",
-  "head": "09b799f3bb852018adcdd63a6de9d6965838edf2",
   "author": "Charles Blake",
   "description": "mmap-persistent SymSpell spell checking algorithm",
   "license": "MIT/ISC",
@@ -16,7 +15,6 @@
       "r": [
         "cligen >= 1.5.37"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -24,7 +22,6 @@
       "r": [
         "cligen >= 1.7.9"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -32,7 +29,6 @@
       "r": [
         "cligen >= 1.7.8"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -40,7 +36,6 @@
       "r": [
         "cligen >= 1.7.4"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -48,7 +43,6 @@
       "r": [
         "cligen >= 1.6.8"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -56,7 +50,6 @@
       "r": [
         "cligen >= 1.5.41"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -64,7 +57,6 @@
       "r": [
         "cligen >= 1.5.41"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -90,18 +82,10 @@
       ],
       "m": "0.19.2",
       "x": []
-    },
-    {
-      "v": "#head@09b799f3bb852018adcdd63a6de9d6965838edf2",
-      "r": [
-        "cligen >= 1.7.9"
-      ],
-      "m": "~",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:26Z",
+  "generatedAt": "2026-05-26T13:19:24Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

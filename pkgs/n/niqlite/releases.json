@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "niqlite",
   "fqn": "niqlite.mentalonigiri.github.com",
-  "head": "2c82a5b5cae62748c27c261bac4211093ce1a5ea",
   "author": "Yasushi",
   "description": "A new awesome nimble package",
   "license": "MIT",
@@ -11,25 +10,15 @@
   "releases": [
     {
       "v": "0.1.0@d5da14dc19c72b5fe0a04871837be53a91421338",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.9.8@cd8a8f610336f1329d230dfc9f8ec1e00ee6c3e2",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@2c82a5b5cae62748c27c261bac4211093ce1a5ea",
-      "r": [],
-      "m": "2.0.8",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:31Z",
+  "generatedAt": "2026-05-26T13:17:22Z",
   "allDeps": {
     "packages": [],
     "urls": [],

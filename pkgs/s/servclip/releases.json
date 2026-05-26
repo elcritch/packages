@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "servclip",
   "fqn": "servclip.thisago.github.com",
-  "head": "2bf2c138f7e12c87555a85dfa2dc834abe8a8d13",
   "author": "Thiago Navarro",
   "description": "Manage your clipboard remotely",
   "license": "MIT",
@@ -20,27 +19,12 @@
         "nimclipboard",
         "bluesoftcosmos"
       ],
-      "m": "~",
-      "s": "",
-      "b": "",
-      "p": []
-    },
-    {
-      "v": "#head@2bf2c138f7e12c87555a85dfa2dc834abe8a8d13",
-      "r": [
-        "jester",
-        "cliptomania",
-        "nimclipboard",
-        "bluesoftcosmos"
-      ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:40Z",
+  "generatedAt": "2026-05-26T13:18:53Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -56,7 +40,6 @@
       "asynctools",
       "bluesoftcosmos",
       "c2nim",
-      "cliptomania",
       "docopt",
       "graphemes",
       "httpbeast",
@@ -74,7 +57,6 @@
     ],
     "unresolved": [
       "gh:iffy/asynctools",
-      "gh:thisago/findxml",
       "gh:timotheecour/asynctools",
       "gl:lurlo/useragent"
     ]

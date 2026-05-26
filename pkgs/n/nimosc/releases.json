@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimosc",
   "fqn": "NimOSC.Psirus.github.com",
-  "head": "ccb70fd05b5632df81bf323f252d6c719f8d60cf",
   "author": "Christoph Pohl",
   "description": "A wrapper around liblo for the Open Sound Control (OSC) protocol",
   "license": "MIT",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "0.1.0@af5c405606b09baf01d303324499a2dbfafbacca",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@ccb70fd05b5632df81bf323f252d6c719f8d60cf",
-      "r": [],
-      "m": "1.0"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:05Z",
+  "generatedAt": "2026-05-26T13:17:04Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "layonara_nwn",
   "fqn": "layonara_nwn.plenarius.github.com",
-  "head": "6cd82186287ec4a964f931b952138e708ab937bc",
   "author": "James Greenhalgh",
   "description": "Various Layonara related functions for NWN Development",
   "license": "MIT",
@@ -19,24 +18,11 @@
         "glob >= 0.9.0",
         "docopt >= 0.1.0"
       ],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@6cd82186287ec4a964f931b952138e708ab937bc",
-      "r": [
-        "neverwinter >= 1.3.1",
-        "glob >= 0.9.0",
-        "docopt >= 0.1.0"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:42Z",
+  "generatedAt": "2026-05-26T13:15:23Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

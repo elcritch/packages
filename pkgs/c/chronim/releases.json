@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "chronim",
   "fqn": "chronim.aad1995.github.com",
-  "head": "1e40fa6856e54fc259a22ad77a5b3fe2513618ef",
   "author": "aad1995",
   "description": "Chronim is Chrome DevTools Protocol (CDP) for Nim lang",
   "license": "MIT",
@@ -11,25 +10,13 @@
   "releases": [
     {
       "v": "0.0.1@2b577be1cccbc016114fea3f7f1a04a3c4dc5272",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@1e40fa6856e54fc259a22ad77a5b3fe2513618ef",
-      "r": [
-        "ws >= 0.5.0"
-      ],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:10Z",
+  "generatedAt": "2026-05-26T13:12:59Z",
   "allDeps": {
-    "packages": [
-      "ws"
-    ],
+    "packages": [],
     "urls": [],
     "unresolved": []
   }

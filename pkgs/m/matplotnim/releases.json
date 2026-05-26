@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "matplotnim",
   "fqn": "matplotnim.ruivieira.github.com",
-  "head": "33ae2a0c0154b5b018072c4b186857a5a09798bb",
   "author": "Rui Vieira",
   "description": "Nim wrapper for matplotlib",
   "license": "Apache-2.0",
@@ -14,30 +13,17 @@
       "r": [
         "tempfile",
         "nimpy"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.0@3c097c57182f8a3166766b76f93388750a4a127b",
       "r": [
         "tempfile"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@33ae2a0c0154b5b018072c4b186857a5a09798bb",
-      "r": [
-        "tempfile",
-        "nimpy"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:22Z",
+  "generatedAt": "2026-05-26T13:15:52Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

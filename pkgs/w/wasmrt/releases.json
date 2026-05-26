@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "wasmrt",
   "fqn": "wasmrt.yglukhov.github.com",
-  "head": "59b4e5ad1f3799c2127e0b29169af2bfeab21c5a",
   "author": "Yuriy Glukhov",
   "description": "Nim wasm runtime",
   "license": "MIT",
@@ -23,17 +22,10 @@
         "zippy"
       ],
       "p": []
-    },
-    {
-      "v": "#head@59b4e5ad1f3799c2127e0b29169af2bfeab21c5a",
-      "r": [
-        "zippy"
-      ],
-      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:38Z",
+  "generatedAt": "2026-05-26T13:20:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

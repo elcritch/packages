@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "gltf",
   "fqn": "gltf.treeform.github.com",
-  "head": "2918dc26f12ab2e77951f485b126d38813aa2616",
   "author": "Your name",
   "description": "glTF library and viewer for Nim.",
   "license": "MIT",
@@ -20,9 +19,7 @@
         "webby >= 0.2.1",
         "windy >= 0.4.4",
         "silky >= 0.0.2"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.1@8b0deffd93ce61f02f195dae98005ce57d9e1281",
@@ -35,9 +32,7 @@
         "webby >= 0.2.1",
         "windy >= 0.4.4",
         "silky >= 0.0.2"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.0@1c830200b0ae67dac0a9e985505523a6a787b0c6",
@@ -49,28 +44,23 @@
         "opengl >= 1.2.3",
         "webby >= 0.2.1",
         "windy >= 0.4.4"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@2918dc26f12ab2e77951f485b126d38813aa2616",
-      "r": [
-        "vmath >= 3.0.0",
-        "chroma >= 0.3.0",
-        "pixie >= 5.0.0",
-        "flatty >= 0.3.0",
-        "opengl >= 1.2.3",
-        "webby >= 0.2.1",
-        "windy >= 0.4.4",
-        "silky >= 0.0.2"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:25Z",
+  "generatedAt": "2026-05-26T13:14:28Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.1.0",
+      "0.1.1",
+      "0.2.0"
+    ],
+    "latest": "0.2.0"
+  },
   "allDeps": {
     "packages": [
       "bumpy",
@@ -98,17 +88,5 @@
     ],
     "urls": [],
     "unresolved": []
-  },
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "0.1.0",
-      "0.1.1",
-      "0.2.0"
-    ],
-    "latest": "0.2.0"
   }
 }

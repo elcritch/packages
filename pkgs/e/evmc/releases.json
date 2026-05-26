@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "evmc",
   "fqn": "nim-evmc.status-im.github.com",
-  "head": "a800f7f1b0f442fb026b10ffa6393a371fdc8519",
   "author": "Status Research & Development GmbH",
   "description": "A wrapper for the The Ethereum EVMC library",
   "license": "Apache License 2.0",
@@ -16,7 +15,6 @@
       "r": [
         "stew"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -26,18 +24,10 @@
       ],
       "m": "1.6.0",
       "x": []
-    },
-    {
-      "v": "#head@a800f7f1b0f442fb026b10ffa6393a371fdc8519",
-      "r": [
-        "stew"
-      ],
-      "m": "1.6.0",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:24Z",
+  "generatedAt": "2026-05-26T13:13:50Z",
   "allDeps": {
     "packages": [
       "results",

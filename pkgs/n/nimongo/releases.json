@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimongo",
   "fqn": "nimongo.SSPkrolik.github.com",
-  "head": "c07fafba7a20c61cba07f126548923a898880151",
   "author": "Rostyslav Dzinko <rostislav.dzinko@gmail.com>",
   "description": "Pure Nim driver for MongoDB with support of synchronous and asynchronous I/O modes",
   "license": "MIT",
@@ -18,29 +17,10 @@
       "r": [
         "scram >= 0.1.2"
       ]
-    },
-    {
-      "v": "#head@c07fafba7a20c61cba07f126548923a898880151",
-      "r": [
-        "scram >= 0.1.13"
-      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:05Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "v0.2.0"
-    ],
-    "tagVersions": {
-      "v0.2.0": "0.2.0"
-    },
-    "latest": "v0.2.0"
-  },
+  "generatedAt": "2026-05-26T13:17:04Z",
   "allDeps": {
     "packages": [
       "checksums",

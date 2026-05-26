@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "minicoro",
   "fqn": "minicoro-nim.iacore.git.envs.net",
-  "head": "a2ef4bd4e93da5ff35ee75ef0b1f5891a5312962",
   "author": "Locria Cyber",
   "description": "Nim wrapper for minicoro - a tiny Lua-like asymmetric coroutine library",
   "license": "Unlicense",
@@ -11,31 +10,19 @@
   "releases": [
     {
       "v": "0.1.3@bdf05890bd4add08713971d2abf901bed606b8b3",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.2@7bfaed8e96584d7b9eac1cc539e8e4add63e81ca",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.1@91460789b744872b042fa603d3d2b237cebacc0b",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@a2ef4bd4e93da5ff35ee75ef0b1f5891a5312962",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T07:26:56Z",
+  "generatedAt": "2026-05-26T13:16:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

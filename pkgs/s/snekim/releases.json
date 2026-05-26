@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "snekim",
   "fqn": "snekim.annaaurora.codeberg.org",
-  "head": "d4754dadcd3671d220ead3e564998f2400017634",
   "author": "Anna Aurora",
   "description": "A simple implementation of the classic snake game",
   "license": "LGPL-3.0-only",
@@ -17,8 +16,6 @@
       "r": [
         "nimraylib_now"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -27,8 +24,6 @@
         "nimraylib_now"
       ],
       "l": "LGPL-3.0",
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -37,22 +32,11 @@
         "nimraylib_now"
       ],
       "l": "LGPL-3.0",
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@d4754dadcd3671d220ead3e564998f2400017634",
-      "r": [
-        "nimraylib_now"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T07:31:30Z",
+  "generatedAt": "2026-05-26T13:19:09Z",
   "allDeps": {
     "packages": [
       "c2nim",

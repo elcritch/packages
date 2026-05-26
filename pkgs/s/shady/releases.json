@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "shady",
   "fqn": "shady.treeform.github.com",
-  "head": "c89db58632c5442df16251b3e15cb43c5d52e2a6",
   "author": "Andre von Houck",
   "description": "Nim to GPU shader language compiler and supporting utilities.",
   "license": "MIT",
@@ -14,36 +13,28 @@
       "r": [
         "vmath >= 2.0.1",
         "pixie >= 5.1.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.4@fa75f793cd4e5da288d4c133bb09b62c032fecc2",
       "r": [
         "vmath >= 2.0.1",
         "pixie >= 5.1.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.3@51c59c5764b30a2c404c162caa5a7c72d50f97d6",
       "r": [
         "vmath >= 1.2.0",
         "pixie >= 4.3.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.1@473f806751a2bd5f270b61b0f25c8280f0192164",
       "r": [
         "vmath >= 1.1.4",
         "pixie >= 4.3.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.0@df2c4226c1b63d819da761614754323eadd214cd",
@@ -51,9 +42,7 @@
         "vmath >= 1.1.4",
         "pixie >= 4.1.0"
       ],
-      "a": "treeform",
-      "m": "~",
-      "s": ""
+      "a": "treeform"
     },
     {
       "v": "0.0.1@860989decff3ea99e5f280ddd4e8f930bf9a7f05",
@@ -62,21 +51,11 @@
         "pixie #head"
       ],
       "a": "treeform",
-      "m": "1.2.2",
-      "s": ""
-    },
-    {
-      "v": "#head@c89db58632c5442df16251b3e15cb43c5d52e2a6",
-      "r": [
-        "vmath >= 2.0.1",
-        "pixie >= 5.1.0"
-      ],
-      "m": "~",
-      "s": ""
+      "m": "1.2.2"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:43Z",
+  "generatedAt": "2026-05-26T13:18:55Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

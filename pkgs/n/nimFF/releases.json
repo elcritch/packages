@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimFF",
   "fqn": "nimFF.egeoz.github.com",
-  "head": "88cbe17fec34305c8506fb970d367847e361a85b",
   "author": "Ege Öz",
   "description": "Farbfeld encoder and decoder",
   "license": "MIT",
@@ -13,26 +12,15 @@
       "r": [
         "binarylang",
         "nimPNG"
-      ],
-      "m": "~"
-    },
-    {
-      "v": "#head@88cbe17fec34305c8506fb970d367847e361a85b",
-      "r": [
-        "binarylang",
-        "nimPNG",
-        "cligen"
-      ],
-      "m": "~"
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:17Z",
+  "generatedAt": "2026-05-26T13:16:31Z",
   "allDeps": {
     "packages": [
       "binarylang",
       "bitstreams",
-      "cligen",
       "nimPNG"
     ],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "db_presto",
   "fqn": "nimPresto.Bennyelg.github.com",
-  "head": "d7b58ef825778499790b58924e1e1a78ab417175",
   "author": "Bennyelg",
   "description": "prestodb connector",
   "license": "MIT",
@@ -14,7 +13,6 @@
     {
       "v": "1.1.0@d7b58ef825778499790b58924e1e1a78ab417175^",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
@@ -70,16 +68,10 @@
       "d": "prestodb simple connector",
       "m": "0.17.2",
       "x": []
-    },
-    {
-      "v": "#head@d7b58ef825778499790b58924e1e1a78ab417175",
-      "r": [],
-      "m": "~",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:46Z",
+  "generatedAt": "2026-05-26T13:13:26Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

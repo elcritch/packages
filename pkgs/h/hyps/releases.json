@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "hyps",
   "fqn": "nim-hyps.nitely.github.com",
-  "head": "39379574b8faa1a18706275d337ef914cb42dbb0",
   "author": "Esteban Castro Borsani (@nitely)",
   "description": "An async pub/sub client and server",
   "license": "MIT",
@@ -18,22 +17,11 @@
       "r": [
         "hyperx >= 0.1.53"
       ],
-      "m": "~",
-      "s": "",
-      "x": []
-    },
-    {
-      "v": "#head@39379574b8faa1a18706275d337ef914cb42dbb0",
-      "r": [
-        "hyperx >= 0.1.53"
-      ],
-      "m": "~",
-      "s": "",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:02Z",
+  "generatedAt": "2026-05-26T13:14:55Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

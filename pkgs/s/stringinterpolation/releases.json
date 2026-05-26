@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "stringinterpolation",
   "fqn": "nim-stringinterpolation.bluenote10.github.com",
-  "head": "4e07f8052f83cce9056a3a3e8b9fcb4640c0dd29",
   "author": "Fabian Keller",
   "description": "String interpolation with printf syntax",
   "license": "MIT",
@@ -10,14 +9,10 @@
     {
       "v": "0.1.0@b98720903187178eaac6ce655c451fb063cec76a",
       "r": []
-    },
-    {
-      "v": "#head@4e07f8052f83cce9056a3a3e8b9fcb4640c0dd29",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:22Z",
+  "generatedAt": "2026-05-26T13:19:21Z",
   "allDeps": {
     "packages": [],
     "urls": [],

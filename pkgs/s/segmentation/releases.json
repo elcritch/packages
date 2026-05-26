@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "segmentation",
   "fqn": "nim-segmentation.nitely.github.com",
-  "head": "8ac8570ea17bbbf1f737b2372a6b7e172a5afa6f",
   "author": "Esteban Castro Borsani (@nitely)",
   "description": "Unicode text segmentation tr29",
   "license": "MIT",
@@ -18,8 +17,6 @@
       "r": [
         "unicodedb >= 0.8.0"
       ],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
@@ -28,21 +25,11 @@
         "unicodedb >= 0.8.0"
       ],
       "m": "1.0.4",
-      "s": "",
-      "x": []
-    },
-    {
-      "v": "#head@8ac8570ea17bbbf1f737b2372a6b7e172a5afa6f",
-      "r": [
-        "unicodedb >= 0.8.0"
-      ],
-      "m": "~",
-      "s": "",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:35Z",
+  "generatedAt": "2026-05-26T13:18:50Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

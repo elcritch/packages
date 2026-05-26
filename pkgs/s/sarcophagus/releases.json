@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "sarcophagus",
   "fqn": "sarcophagus.elcritch.github.com",
-  "head": "a255b23f234d5a763b67aab9d84239b1e1c7cdbf",
   "author": "Jaremy Creechley",
   "description": "mummy higher level api wrapper",
   "license": "Apache-2.0",
@@ -34,9 +33,7 @@
         "dev": [
           "karax"
         ]
-      },
-      "m": "~",
-      "s": ""
+      }
     },
     {
       "v": "0.10.3@e947318dd81ce9c62a97cac89e06db38b1152320",
@@ -63,9 +60,7 @@
         "dev": [
           "karax"
         ]
-      },
-      "m": "~",
-      "s": ""
+      }
     },
     {
       "v": "0.10.2@217fb6d08203bb041f85fabdef3c037914bd2779",
@@ -92,9 +87,7 @@
         "dev": [
           "karax"
         ]
-      },
-      "m": "~",
-      "s": ""
+      }
     },
     {
       "v": "0.10.1@cebfae1014d16aa0ce3f1d508c26694d2344c549",
@@ -121,9 +114,7 @@
         "dev": [
           "karax"
         ]
-      },
-      "m": "~",
-      "s": ""
+      }
     },
     {
       "v": "0.10.0@a1fc4806f2b66a4ff845d1b926f73a1f80a3a4dd",
@@ -150,9 +141,7 @@
         "dev": [
           "karax"
         ]
-      },
-      "m": "~",
-      "s": ""
+      }
     },
     {
       "v": "0.9.1@cfb449d7e74d30f4eba76dc0ceb3897a8ee6c4ca",
@@ -176,9 +165,7 @@
         "dev": [
           "karax"
         ]
-      },
-      "m": "~",
-      "s": ""
+      }
     },
     {
       "v": "0.9.0@69a2faa6d7623e2a6659450459ed750fd04a332e",
@@ -202,9 +189,7 @@
         "dev": [
           "karax"
         ]
-      },
-      "m": "~",
-      "s": ""
+      }
     },
     {
       "v": "0.8.1@dd3beaa22705a7dec109ec976761b3a017acb770",
@@ -228,9 +213,7 @@
         "dev": [
           "karax"
         ]
-      },
-      "m": "~",
-      "s": ""
+      }
     },
     {
       "v": "0.8.0@3736b719a9d73064f05028bae0a36799c5bf1f40",
@@ -254,9 +237,7 @@
         "dev": [
           "karax"
         ]
-      },
-      "m": "~",
-      "s": ""
+      }
     },
     {
       "v": "0.7.0@ca4f19efd649d86abd43b16efa321567276ebc8a",
@@ -280,9 +261,7 @@
         "dev": [
           "karax"
         ]
-      },
-      "m": "~",
-      "s": ""
+      }
     },
     {
       "v": "0.6.4@919d2ea6ff582a9be71b6253c8a42c2bf1c5c4a3",
@@ -303,9 +282,7 @@
         "cbor": [
           "cborious"
         ]
-      },
-      "m": "~",
-      "s": ""
+      }
     },
     {
       "v": "0.6.3@58da4d6eb739e7937bdc35fe9791f62e384af818",
@@ -326,9 +303,7 @@
         "cbor": [
           "cborious"
         ]
-      },
-      "m": "~",
-      "s": ""
+      }
     },
     {
       "v": "0.6.2@835a6964f67792a8654d8986a095ab80adc2df3d",
@@ -349,9 +324,7 @@
         "cbor": [
           "cborious"
         ]
-      },
-      "m": "~",
-      "s": ""
+      }
     },
     {
       "v": "0.6.1@d08f95e55e6ffe721f896c12599edb393ba491a6",
@@ -372,9 +345,7 @@
         "cbor": [
           "cborious"
         ]
-      },
-      "m": "~",
-      "s": ""
+      }
     },
     {
       "v": "0.6.0@7d5c7c32063278a0ffbbd30202292731db4fe41e",
@@ -395,9 +366,7 @@
         "cbor": [
           "cborious"
         ]
-      },
-      "m": "~",
-      "s": ""
+      }
     },
     {
       "v": "0.5.0@b631de9865af735fb639c53dc9a3180f2da1277c",
@@ -418,9 +387,7 @@
         "cbor": [
           "cborious"
         ]
-      },
-      "m": "~",
-      "s": ""
+      }
     },
     {
       "v": "0.4.0@48aee9ec4dff35c51dc86ee2ec2a451bc8ebe33b",
@@ -436,9 +403,7 @@
         "cbor": [
           "cborious"
         ]
-      },
-      "m": "~",
-      "s": ""
+      }
     },
     {
       "v": "0.3.0@81a852845498cfbb597f992732b383dfb979e3cc",
@@ -454,9 +419,7 @@
         "cbor": [
           "cborious"
         ]
-      },
-      "m": "~",
-      "s": ""
+      }
     },
     {
       "v": "0.2.0@3210b34b9e85d0a60182fee9acb4406a35ba2900",
@@ -464,42 +427,11 @@
         "mummy",
         "gh:elcritch/nim-jwt #fix-upstream"
       ],
-      "l": "BSD-2-Clause",
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@a255b23f234d5a763b67aab9d84239b1e1c7cdbf",
-      "r": [
-        "mummy",
-        "jwt >= 0.3",
-        "bearssl >= 0.2.8",
-        "gh:yglukhov/bearssl_pkey_decoder #546f8d9b",
-        "chroniclers"
-      ],
-      "f": {
-        "jsony": [
-          "jsony"
-        ],
-        "msgpack": [
-          "msgpack4nim"
-        ],
-        "chronicles": [
-          "chroniclers >= 0.2.1"
-        ],
-        "cbor": [
-          "cborious"
-        ],
-        "dev": [
-          "karax"
-        ]
-      },
-      "m": "~",
-      "s": ""
+      "l": "BSD-2-Clause"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:27Z",
+  "generatedAt": "2026-05-26T13:18:43Z",
   "allDeps": {
     "packages": [
       "bearssl > 0.4.0",

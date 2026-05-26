@@ -1,24 +1,17 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "palladian",
   "fqn": "nim-palladian.itsumura-h.github.com",
-  "head": "6d953b7bf1c340d55d944418f78151dc931f987f",
   "releases": [
     {
       "v": "0.2.0@6d953b7bf1c340d55d944418f78151dc931f987f^",
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file"
-    },
-    {
-      "v": "#head@6d953b7bf1c340d55d944418f78151dc931f987f",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "ambiguous nimble file"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:13Z",
+  "generatedAt": "2026-05-26T13:17:55Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

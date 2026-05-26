@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "srt",
   "fqn": "nim-srt.achesak.github.com",
-  "head": "b067afa091088fb52cc37cb44515f265b1aa0e0e",
   "author": "Adam Chesak",
   "description": "Nim module for parsing SRT (SubRip) subtitle files",
   "license": "MIT",
@@ -18,14 +17,10 @@
     {
       "v": "1.1.0@8e0878fa1f96aedebb496885f992ac3f43d8c17d",
       "r": []
-    },
-    {
-      "v": "#head@b067afa091088fb52cc37cb44515f265b1aa0e0e",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:12Z",
+  "generatedAt": "2026-05-26T13:19:15Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "fletcher",
   "fqn": "nim-fletcher.Akito13.github.com",
-  "head": "fff025a6d4dc674314fd791da11b28d2cf93b909",
   "author": "Akito",
   "description": "Implementation of the Fletcher checksum algorithm.",
   "license": "GPLv3+",
@@ -17,7 +16,6 @@
     {
       "v": "0.3.1@5931cabffa243861ba1efc82db3cb983f1a37e74",
       "r": [],
-      "m": "~",
       "x": [],
       "y": []
     },
@@ -25,33 +23,23 @@
       "v": "0.3.0@99a7360930f88ac80efe63fa7984cf972fde16cc",
       "r": [],
       "y": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.2.2@61810de58fa607d393e23019384df80f3e2899b5",
       "r": [],
       "y": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.1.0@ff72dd877374b1e66358f08b50ac02fb1826d351",
       "r": [],
       "x": [],
-      "y": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@fff025a6d4dc674314fd791da11b28d2cf93b909",
-      "r": [],
-      "m": "~",
-      "x": [],
       "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:50Z",
+  "generatedAt": "2026-05-26T13:14:07Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "robotparser",
   "fqn": "nim-robotparser.achesak.github.com",
-  "head": "d8059c414b9f3e57ad309b0597590f2bff3a90a3",
   "author": "Adam Chesak",
   "description": "Determine if a useragent can access a particular URL using robots.txt",
   "license": "MIT",
@@ -18,14 +17,10 @@
     {
       "v": "1.0@d8059c414b9f3e57ad309b0597590f2bff3a90a3^",
       "r": []
-    },
-    {
-      "v": "#head@d8059c414b9f3e57ad309b0597590f2bff3a90a3",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:15Z",
+  "generatedAt": "2026-05-26T13:18:37Z",
   "allDeps": {
     "packages": [],
     "urls": [],

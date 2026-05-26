@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "fushin",
   "fqn": "fushin.eggplants.github.com",
-  "head": "6e4ae35c8a5f1a50fff473983affd5c51a65836b",
   "author": "eggplants",
   "description": "Create fushin DB",
   "license": "MIT",
@@ -21,8 +20,6 @@
         "nimquery >= 2.0.0",
         "csvtools >= 0.2.1"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -33,26 +30,12 @@
         "cligen >= 1.5.24"
       ],
       "d": "Fetch fushinsha serif data and save as csv files",
-      "m": "~",
-      "s": "",
-      "k": [],
-      "p": []
-    },
-    {
-      "v": "#head@6e4ae35c8a5f1a50fff473983affd5c51a65836b",
-      "r": [
-        "cligen >= 1.5.24",
-        "nimquery >= 2.0.0"
-      ],
-      "d": "Fetch fushinsha serif data and save as csv files",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:00Z",
+  "generatedAt": "2026-05-26T13:14:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -68,7 +51,6 @@
   },
   "allDeps": {
     "packages": [
-      "cligen",
       "csvtools",
       "nimquery"
     ],

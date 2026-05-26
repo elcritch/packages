@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "cppany",
   "fqn": "cppany.sls1005.github.com",
-  "head": "cfd01fbccb5a8ff2bbf11e8fe1e0b5779b967d78",
   "author": "Hsien-yu Chu",
   "description": "A wrapper for C++'s std::any",
   "license": "MIT",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "0.1.1@cfd01fbccb5a8ff2bbf11e8fe1e0b5779b967d78^",
-      "r": [],
-      "s": ""
-    },
-    {
-      "v": "#head@cfd01fbccb5a8ff2bbf11e8fe1e0b5779b967d78",
-      "r": [],
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:32Z",
+  "generatedAt": "2026-05-26T13:13:15Z",
   "allDeps": {
     "packages": [],
     "urls": [],

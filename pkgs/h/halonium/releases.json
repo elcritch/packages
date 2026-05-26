@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "halonium",
   "fqn": "halonium.halonium.github.com",
-  "head": "3293bd67fc363a8b0b159f32acf89b9cf3abaaca",
   "author": "Joey Yakimowich-Payne",
   "description": "A browser automation library written in Nim",
   "license": "MIT",
@@ -23,8 +22,6 @@
         "zip >= 0.3.1",
         "fusion >= 1.0.0"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -36,8 +33,6 @@
         "zip >= 0.3.1",
         "fusion >= 1.0.0"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -49,8 +44,6 @@
         "zip >= 0.3.1",
         "fusion >= 1.0.0"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -62,8 +55,6 @@
         "zip >= 0.3.1",
         "fusion >= 1.0.0"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -75,27 +66,12 @@
         "uuids >= 0.1.10",
         "zip >= 0.3.1"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
-    },
-    {
-      "v": "#head@3293bd67fc363a8b0b159f32acf89b9cf3abaaca",
-      "r": [
-        "tempfile >= 0.1.7",
-        "uuids #head",
-        "zippy",
-        "fusion >= 1.0.0"
-      ],
-      "p": [],
-      "m": "~",
-      "s": "",
-      "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:35Z",
+  "generatedAt": "2026-05-26T13:14:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -121,8 +97,7 @@
       "unicodedb <= 0.2.3",
       "unicodeplus <= 0.2.3",
       "uuids",
-      "zip",
-      "zippy"
+      "zip"
     ],
     "urls": [],
     "unresolved": []

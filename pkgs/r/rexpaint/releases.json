@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "rexpaint",
   "fqn": "rexpaint_nim.irskep.github.com",
-  "head": "b176b54274ac7527adf62ca75f139fa179c44852",
   "author": "Steve Johnson",
   "description": "REXPaint .xp parser",
   "license": "MIT",
@@ -13,22 +12,11 @@
       "v": "1.0.0@081b5d8eb9df3619c87a3974063061ed368edd54",
       "r": [
         "zip >= 0.2.1"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@b176b54274ac7527adf62ca75f139fa179c44852",
-      "r": [
-        "zip >= 0.2.1"
-      ],
-      "a": "Steve Landey (irskep)",
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:16Z",
+  "generatedAt": "2026-05-26T13:18:35Z",
   "allDeps": {
     "packages": [
       "zip"

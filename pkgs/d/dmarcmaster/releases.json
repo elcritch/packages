@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "dmarcmaster",
   "fqn": "dmarcmaster.capocasa.github.com",
-  "head": "6c085eb7197540b0eae3709450906de42a10be8a",
   "author": "Carlo Capocasa",
   "description": "Extract and display DMARC aggregate reports from Maildir",
   "license": "MIT",
@@ -17,22 +16,11 @@
       "r": [
         "zippy >= 0.10.0"
       ],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@6c085eb7197540b0eae3709450906de42a10be8a",
-      "r": [
-        "zippy >= 0.10.0"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:00Z",
+  "generatedAt": "2026-05-26T13:13:35Z",
   "allDeps": {
     "packages": [
       "zippy"

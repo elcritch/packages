@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "frag",
   "fqn": "frag.fragworks.github.com",
-  "head": "de8f256dde787f2ebe2f97bbc9d11718cf8ae829",
   "author": "Zachary Carter",
   "description": "A 2D|3D game engine",
   "license": "MIT",
@@ -19,65 +18,24 @@
         "gh:zacharycarter/nanovg.nim",
         "strfmt >= 0.8.4",
         "gh:zacharycarter/nimassimp"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@de8f256dde787f2ebe2f97bbc9d11718cf8ae829",
-      "r": [
-        "sdl2 >= 1.1",
-        "stb_image >= 1.2",
-        "gh:yglukhov/android",
-        "x11 >= 1.0",
-        "gh:fragworks/nim-chipmunk",
-        "bgfxdotnim",
-        "gh:zacharycarter/bgfx.extras.nim",
-        "sound >= 0.1.0",
-        "gh:zacharycarter/nuklear-nim",
-        "gh:zacharycarter/nanovg.nim",
-        "strfmt >= 0.8.4",
-        "gh:zacharycarter/nimassimp"
-      ],
-      "x": [
-        "examples",
-        "samples"
-      ],
-      "m": "0.16.0",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:57Z",
+  "generatedAt": "2026-05-26T13:14:12Z",
   "allDeps": {
     "packages": [
-      "bgfxdotnim",
-      "classy",
-      "jnim",
-      "jsbind",
-      "nimboost",
-      "nimfp",
       "opengl",
-      "patty",
       "sdl2",
-      "sound",
-      "stb_image",
       "strfmt",
-      "wasmrt",
-      "x11",
-      "zippy"
+      "x11"
     ],
     "urls": [],
     "unresolved": [
-      "gh:fragworks/nim-chipmunk",
       "gh:krux02/nim-glm",
-      "gh:yglukhov/android",
-      "gh:yglukhov/async_http_request",
-      "gh:zacharycarter/bgfx.extras.nim",
       "gh:zacharycarter/freetype",
       "gh:zacharycarter/nanovg.nim",
-      "gh:zacharycarter/nimassimp",
-      "gh:zacharycarter/nuklear-nim"
+      "gh:zacharycarter/nimassimp"
     ]
   }
 }

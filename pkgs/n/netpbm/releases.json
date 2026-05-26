@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "netpbm",
   "fqn": "nim-netpbm.barcharcraz.github.com",
-  "head": "547c0d1ea92e6f8d4307f67d9741883ee9f71834",
   "author": "Charles Barto",
   "description": "Wrapper for libnetpbm",
   "license": "MIT",
@@ -10,18 +9,11 @@
   "releases": [
     {
       "v": "0.1.0@d6aca7c613ff0c0a6576ae0997b93e049da3d61e",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@547c0d1ea92e6f8d4307f67d9741883ee9f71834",
-      "r": [],
-      "s": "src",
-      "m": "0.17.2"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:04Z",
+  "generatedAt": "2026-05-26T13:16:23Z",
   "allDeps": {
     "packages": [],
     "urls": [],

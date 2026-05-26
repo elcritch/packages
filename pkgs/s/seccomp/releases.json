@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "seccomp",
   "fqn": "nim-seccomp.FedericoCeratto.github.com",
-  "head": "5a77686d4eadd40bb120c75a028ee94249256c42",
   "author": "Federico Ceratto",
   "description": "Seccomp (Linux sandboxing) adapter",
   "license": "LGPLv2.1",
@@ -10,22 +9,15 @@
   "releases": [
     {
       "v": "0.2.1@5a77686d4eadd40bb120c75a028ee94249256c42^",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "0.2.0@c676263b5183b8a1805cdf86bdd10d05ad6d65fe",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@5a77686d4eadd40bb120c75a028ee94249256c42",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:34Z",
+  "generatedAt": "2026-05-26T13:18:49Z",
   "allDeps": {
     "packages": [],
     "urls": [],

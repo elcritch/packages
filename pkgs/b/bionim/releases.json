@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "bionim",
   "fqn": "bionim.Unaimend.github.com",
-  "head": "b5fbadf96ed29a32015c4f54ba123422205a5524",
   "author": "Thomas Dost",
   "description": "A collection of useful algorithms and data structures for bioinformatics",
   "license": "MIT",
@@ -23,8 +22,6 @@
         "bio_seq >= 0.0.5"
       ],
       "p": [],
-      "m": "~",
-      "s": "",
       "b": "",
       "k": []
     },
@@ -34,8 +31,6 @@
         "PhylogeNi"
       ],
       "p": [],
-      "m": "~",
-      "s": "",
       "b": "",
       "k": []
     },
@@ -44,8 +39,6 @@
       "r": [
         "PhylogeNi"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
@@ -53,27 +46,13 @@
     {
       "v": "0.0.1@0daf0a1d292aa393d355cd6524572f8aaa64408f",
       "r": [],
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
-    },
-    {
-      "v": "#head@b5fbadf96ed29a32015c4f54ba123422205a5524",
-      "r": [
-        "PhylogeNi >= 0.0.2",
-        "bio_seq >= 0.0.5"
-      ],
-      "p": [],
-      "m": "~",
-      "s": "",
-      "b": "",
-      "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:34Z",
+  "generatedAt": "2026-05-26T13:12:30Z",
   "allDeps": {
     "packages": [
       "PhylogeNi > 0.0.1",

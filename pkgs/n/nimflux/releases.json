@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimflux",
   "fqn": "nimflux.tdely.github.com",
-  "head": "7164f02f72d81bddd3d125b6e5f61d302b080b30",
   "author": "Tobias Dély",
   "description": "InfluxDB client library.",
   "license": "MIT",
@@ -11,63 +10,41 @@
   "releases": [
     {
       "v": "1.0.3@ce40b38447f899b9951ffb1b9fd609fb040c361e",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "1.0.2@76f45c880874dfb5904789fa08a9e4e84a242875",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "1.0.1@f6690b966180be02b30c9b56fd55b276123fc942",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "1.0.0@05ee9dd0e268389e24fcc306d3513c6db35c9092",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.3@2986006b720ce6a3b6714e7ba854fed3f62dfc09",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.2@b0af1da3f0bed5bad20f14d233ff2055e783f910",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.1@559553ba10a6a333683d14b971cede228210b569",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.0@911bcbd8620466ff111092e276d6d8c75220712d",
       "r": [
         "coverage"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@7164f02f72d81bddd3d125b6e5f61d302b080b30",
-      "r": [],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:44Z",
+  "generatedAt": "2026-05-26T13:16:50Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -87,8 +64,7 @@
   },
   "allDeps": {
     "packages": [
-      "coverage <= 0.1.0",
-      "nake <= 0.1.0"
+      "coverage <= 0.1.0"
     ],
     "urls": [],
     "unresolved": []

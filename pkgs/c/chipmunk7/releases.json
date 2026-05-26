@@ -1,27 +1,16 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "chipmunk7",
   "fqn": "nim-chipmunk.avahe-kellenberger.github.com",
-  "head": "d88d08251f9bb68d6c889eb372628b90eb66d602",
   "nim": "0.10.0",
   "releases": [
     {
       "v": "0.3.0@d6609009b0ec673a418df16c4e86bbeda93b19ef",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@d88d08251f9bb68d6c889eb372628b90eb66d602",
-      "r": [],
-      "a": "Avahe Kellenberger",
-      "d": "Bindings for Chipmunk, a fast and lightweight 2D game physics library.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.6"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:08Z",
+  "generatedAt": "2026-05-26T13:12:58Z",
   "allDeps": {
     "packages": [],
     "urls": [],

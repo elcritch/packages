@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "pon2",
   "fqn": "pon2.izumiya-keisuke.github.com",
-  "head": "0216a65095e81511abb028fdd28fb5915f1bd100",
   "author": "Keisuke Izumiya",
   "description": "Application and Library Dedicated to Puyo Puyo and Nazo Puyo",
   "license": "Apache-2.0 OR MIT",
@@ -20,8 +19,6 @@
       "r": [],
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-0216a650-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.6\ninvalid 'requires' syntax in nimble file: chroma ^= 1.0.0\ninvalid 'requires' syntax in nimble file: cligen ^= 1.9.6\ninvalid 'requires' syntax in nimble file: karax ^= 1.5.0\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.3.2\ninvalid 'requires' syntax in nimble file: parsetoml ^= 0.7.2\ninvalid 'requires' syntax in nimble file: regex ^= 0.26.3\ninvalid 'requires' syntax in nimble file: results ^= 0.5.1\ninvalid 'requires' syntax in nimble file: stew ^= 0.4.2\ninvalid 'requires' syntax in nimble file: unittest2 ^= 0.2.5",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -30,8 +27,6 @@
       "r": [],
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-2038b856-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.6\ninvalid 'requires' syntax in nimble file: chroma ^= 1.0.0\ninvalid 'requires' syntax in nimble file: cligen ^= 1.9.5\ninvalid 'requires' syntax in nimble file: karax ^= 1.5.0\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.3.2\ninvalid 'requires' syntax in nimble file: parsetoml ^= 0.7.2\ninvalid 'requires' syntax in nimble file: regex ^= 0.26.3\ninvalid 'requires' syntax in nimble file: results ^= 0.5.1\ninvalid 'requires' syntax in nimble file: stew ^= 0.4.2\ninvalid 'requires' syntax in nimble file: unittest2 ^= 0.2.5",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -40,8 +35,6 @@
       "r": [],
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-01eb56c0-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.6\ninvalid 'requires' syntax in nimble file: chroma ^= 1.0.0\ninvalid 'requires' syntax in nimble file: cligen ^= 1.9.5\ninvalid 'requires' syntax in nimble file: karax ^= 1.5.0\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.3.2\ninvalid 'requires' syntax in nimble file: parsetoml ^= 0.7.2\ninvalid 'requires' syntax in nimble file: regex ^= 0.26.3\ninvalid 'requires' syntax in nimble file: results ^= 0.5.1\ninvalid 'requires' syntax in nimble file: stew ^= 0.4.2\ninvalid 'requires' syntax in nimble file: unittest2 ^= 0.2.5",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -50,8 +43,6 @@
       "r": [],
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-05d4ab05-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.6\ninvalid 'requires' syntax in nimble file: chroma ^= 1.0.0\ninvalid 'requires' syntax in nimble file: cligen ^= 1.9.5\ninvalid 'requires' syntax in nimble file: karax ^= 1.5.0\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.3.2\ninvalid 'requires' syntax in nimble file: parsetoml ^= 0.7.2\ninvalid 'requires' syntax in nimble file: regex ^= 0.26.3\ninvalid 'requires' syntax in nimble file: results ^= 0.5.1\ninvalid 'requires' syntax in nimble file: stew ^= 0.4.2\ninvalid 'requires' syntax in nimble file: unittest2 ^= 0.2.5",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -60,8 +51,6 @@
       "r": [],
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-0de56275-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.6\ninvalid 'requires' syntax in nimble file: chroma ^= 1.0.0\ninvalid 'requires' syntax in nimble file: cligen ^= 1.9.5\ninvalid 'requires' syntax in nimble file: karax ^= 1.5.0\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.3.2\ninvalid 'requires' syntax in nimble file: parsetoml ^= 0.7.2\ninvalid 'requires' syntax in nimble file: regex ^= 0.26.3\ninvalid 'requires' syntax in nimble file: results ^= 0.5.1\ninvalid 'requires' syntax in nimble file: stew ^= 0.4.2\ninvalid 'requires' syntax in nimble file: unittest2 ^= 0.2.5",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -70,8 +59,6 @@
       "r": [],
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-927f1aaf-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.6\ninvalid 'requires' syntax in nimble file: chroma ^= 1.0.0\ninvalid 'requires' syntax in nimble file: cligen ^= 1.9.5\ninvalid 'requires' syntax in nimble file: karax ^= 1.5.0\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.3.2\ninvalid 'requires' syntax in nimble file: parsetoml ^= 0.7.2\ninvalid 'requires' syntax in nimble file: regex ^= 0.26.3\ninvalid 'requires' syntax in nimble file: results ^= 0.5.1\ninvalid 'requires' syntax in nimble file: stew ^= 0.4.2\ninvalid 'requires' syntax in nimble file: unittest2 ^= 0.2.5",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -80,8 +67,6 @@
       "r": [],
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-77ef47ef-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.6\ninvalid 'requires' syntax in nimble file: chroma ^= 1.0.0\ninvalid 'requires' syntax in nimble file: cligen ^= 1.9.5\ninvalid 'requires' syntax in nimble file: karax ^= 1.5.0\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.3.2\ninvalid 'requires' syntax in nimble file: regex ^= 0.26.3\ninvalid 'requires' syntax in nimble file: results ^= 0.5.1\ninvalid 'requires' syntax in nimble file: stew ^= 0.4.2\ninvalid 'requires' syntax in nimble file: unittest2 ^= 0.2.5",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -90,8 +75,6 @@
       "r": [],
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-b9641e46-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.6\ninvalid 'requires' syntax in nimble file: chroma ^= 1.0.0\ninvalid 'requires' syntax in nimble file: cligen ^= 1.9.5\ninvalid 'requires' syntax in nimble file: karax ^= 1.5.0\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.3.2\ninvalid 'requires' syntax in nimble file: regex ^= 0.26.3\ninvalid 'requires' syntax in nimble file: results ^= 0.5.1\ninvalid 'requires' syntax in nimble file: stew ^= 0.4.2\ninvalid 'requires' syntax in nimble file: unittest2 ^= 0.2.5",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -102,8 +85,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-338edb3f-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.6\ninvalid 'requires' syntax in nimble file: chroma ^= 1.0.0\ninvalid 'requires' syntax in nimble file: cligen ^= 1.9.5\ninvalid 'requires' syntax in nimble file: karax ^= 1.5.0\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.3.2\ninvalid 'requires' syntax in nimble file: regex ^= 0.26.3\ninvalid 'requires' syntax in nimble file: results ^= 0.5.1\ninvalid 'requires' syntax in nimble file: stew ^= 0.4.2\ninvalid 'requires' syntax in nimble file: unittest2 ^= 0.2.5",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -114,8 +95,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-72287aaa-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.6\ninvalid 'requires' syntax in nimble file: chroma ^= 1.0.0\ninvalid 'requires' syntax in nimble file: chronos ^= 4.0.4\ninvalid 'requires' syntax in nimble file: cligen ^= 1.9.5\ninvalid 'requires' syntax in nimble file: karax ^= 1.5.0\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.3.2\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: regex ^= 0.26.3\ninvalid 'requires' syntax in nimble file: results ^= 0.5.1\ninvalid 'requires' syntax in nimble file: stew ^= 0.4.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2\ninvalid 'requires' syntax in nimble file: unittest2 ^= 0.2.5",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -126,8 +105,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-0e670c68-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.6\ninvalid 'requires' syntax in nimble file: chroma ^= 1.0.0\ninvalid 'requires' syntax in nimble file: chronos ^= 4.0.4\ninvalid 'requires' syntax in nimble file: cligen ^= 1.9.5\ninvalid 'requires' syntax in nimble file: karax ^= 1.5.0\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.3.2\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: regex ^= 0.26.3\ninvalid 'requires' syntax in nimble file: results ^= 0.5.1\ninvalid 'requires' syntax in nimble file: stew ^= 0.4.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2\ninvalid 'requires' syntax in nimble file: unittest2 ^= 0.2.5",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -138,8 +115,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-7d096faa-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.6\ninvalid 'requires' syntax in nimble file: chroma ^= 1.0.0\ninvalid 'requires' syntax in nimble file: chronos ^= 4.0.4\ninvalid 'requires' syntax in nimble file: cligen ^= 1.9.5\ninvalid 'requires' syntax in nimble file: karax ^= 1.5.0\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.3.2\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: regex ^= 0.26.3\ninvalid 'requires' syntax in nimble file: results ^= 0.5.1\ninvalid 'requires' syntax in nimble file: stew ^= 0.4.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2\ninvalid 'requires' syntax in nimble file: unittest2 ^= 0.2.5",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -150,8 +125,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-21587218-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.6\ninvalid 'requires' syntax in nimble file: chroma ^= 1.0.0\ninvalid 'requires' syntax in nimble file: chronos ^= 4.0.4\ninvalid 'requires' syntax in nimble file: cligen ^= 1.9.5\ninvalid 'requires' syntax in nimble file: karax ^= 1.5.0\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.3.2\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: results ^= 0.5.1\ninvalid 'requires' syntax in nimble file: stew ^= 0.4.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2\ninvalid 'requires' syntax in nimble file: unittest2 ^= 0.2.5",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -162,8 +135,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-b4e1cf67-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.6\ninvalid 'requires' syntax in nimble file: chroma ^= 1.0.0\ninvalid 'requires' syntax in nimble file: chronos ^= 4.0.4\ninvalid 'requires' syntax in nimble file: cligen ^= 1.9.5\ninvalid 'requires' syntax in nimble file: karax ^= 1.5.0\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.3.2\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: results ^= 0.5.1\ninvalid 'requires' syntax in nimble file: stew ^= 0.4.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2\ninvalid 'requires' syntax in nimble file: unittest2 ^= 0.2.5",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -174,8 +145,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-1c43ea5c-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.6\ninvalid 'requires' syntax in nimble file: chroma ^= 1.0.0\ninvalid 'requires' syntax in nimble file: chronos ^= 4.0.4\ninvalid 'requires' syntax in nimble file: cligen ^= 1.9.5\ninvalid 'requires' syntax in nimble file: karax ^= 1.5.0\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.3.2\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: results ^= 0.5.1\ninvalid 'requires' syntax in nimble file: stew ^= 0.4.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2\ninvalid 'requires' syntax in nimble file: unittest2 ^= 0.2.5",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -186,8 +155,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-d74c3e21-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.6\ninvalid 'requires' syntax in nimble file: chroma ^= 1.0.0\ninvalid 'requires' syntax in nimble file: chronos ^= 4.0.4\ninvalid 'requires' syntax in nimble file: cligen ^= 1.9.5\ninvalid 'requires' syntax in nimble file: karax ^= 1.5.0\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.3.2\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: results ^= 0.5.1\ninvalid 'requires' syntax in nimble file: stew ^= 0.4.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2\ninvalid 'requires' syntax in nimble file: unittest2 ^= 0.2.5",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -198,8 +165,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-62fa4a07-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.6\ninvalid 'requires' syntax in nimble file: chroma ^= 1.0.0\ninvalid 'requires' syntax in nimble file: chronos ^= 4.0.4\ninvalid 'requires' syntax in nimble file: cligen ^= 1.9.5\ninvalid 'requires' syntax in nimble file: karax ^= 1.5.0\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.3.2\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: results ^= 0.5.1\ninvalid 'requires' syntax in nimble file: stew ^= 0.4.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2\ninvalid 'requires' syntax in nimble file: unittest2 ^= 0.2.5",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -210,8 +175,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-64cba510-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.6\ninvalid 'requires' syntax in nimble file: chroma ^= 1.0.0\ninvalid 'requires' syntax in nimble file: chronos ^= 4.0.4\ninvalid 'requires' syntax in nimble file: cligen ^= 1.9.5\ninvalid 'requires' syntax in nimble file: karax ^= 1.5.0\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.3.2\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: results ^= 0.5.1\ninvalid 'requires' syntax in nimble file: stew ^= 0.4.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2\ninvalid 'requires' syntax in nimble file: unittest2 ^= 0.2.5",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -222,8 +185,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-acc30b48-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.6\ninvalid 'requires' syntax in nimble file: chroma ^= 1.0.0\ninvalid 'requires' syntax in nimble file: chronos ^= 4.0.4\ninvalid 'requires' syntax in nimble file: cligen ^= 1.9.5\ninvalid 'requires' syntax in nimble file: karax ^= 1.5.0\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.3.2\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: results ^= 0.5.1\ninvalid 'requires' syntax in nimble file: stew ^= 0.4.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2\ninvalid 'requires' syntax in nimble file: unittest2 ^= 0.2.5",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -234,8 +195,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-3fb164be-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.6\ninvalid 'requires' syntax in nimble file: chroma ^= 1.0.0\ninvalid 'requires' syntax in nimble file: chronos ^= 4.0.4\ninvalid 'requires' syntax in nimble file: cligen ^= 1.9.5\ninvalid 'requires' syntax in nimble file: karax ^= 1.5.0\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.3.2\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: results ^= 0.5.1\ninvalid 'requires' syntax in nimble file: stew ^= 0.4.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2\ninvalid 'requires' syntax in nimble file: unittest2 ^= 0.2.5",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -246,8 +205,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-f4db664f-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.6\ninvalid 'requires' syntax in nimble file: chroma ^= 1.0.0\ninvalid 'requires' syntax in nimble file: chronos ^= 4.0.4\ninvalid 'requires' syntax in nimble file: cligen ^= 1.9.5\ninvalid 'requires' syntax in nimble file: karax ^= 1.5.0\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.3.2\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: results ^= 0.5.1\ninvalid 'requires' syntax in nimble file: stew ^= 0.4.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2\ninvalid 'requires' syntax in nimble file: unittest2 ^= 0.2.5",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -258,8 +215,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-465660f5-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.6\ninvalid 'requires' syntax in nimble file: chroma ^= 1.0.0\ninvalid 'requires' syntax in nimble file: chronos ^= 4.0.4\ninvalid 'requires' syntax in nimble file: cligen ^= 1.9.5\ninvalid 'requires' syntax in nimble file: karax ^= 1.5.0\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.3.2\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: results ^= 0.5.1\ninvalid 'requires' syntax in nimble file: stew ^= 0.4.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2\ninvalid 'requires' syntax in nimble file: unittest2 ^= 0.2.5",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -270,8 +225,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-788ebce2-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.6\ninvalid 'requires' syntax in nimble file: chroma ^= 1.0.0\ninvalid 'requires' syntax in nimble file: chronos ^= 4.0.4\ninvalid 'requires' syntax in nimble file: cligen ^= 1.9.3\ninvalid 'requires' syntax in nimble file: karax ^= 1.5.0\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.3.2\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: results ^= 0.5.1\ninvalid 'requires' syntax in nimble file: stew ^= 0.4.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2\ninvalid 'requires' syntax in nimble file: unittest2 ^= 0.2.4",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -282,8 +235,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-d84f0769-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.0\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.3.0\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -294,8 +245,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-fd1a03e8-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.0\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.3.0\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -306,8 +255,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-cee612c2-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.0\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.3.0\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -318,8 +265,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-b1b5e17c-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.0\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.3.0\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -330,8 +275,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-bfa6d8d5-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.0\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.3.0\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -342,8 +285,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-fd5f0a22-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.0\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.3.0\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -354,8 +295,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-6f078d1c-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.0\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.13\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -366,8 +305,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-14469560-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.0\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.13\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -378,8 +315,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-b3ba59cc-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.0\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.13\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -390,8 +325,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-431f0b35-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.0\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.13\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -402,8 +335,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-20597aee-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.0\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.13\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -414,8 +345,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-688ae046-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.0\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.13\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -426,8 +355,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-49de9e10-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.0\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.13\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -438,8 +365,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-8896f471-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.0\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.13\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -450,8 +375,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-e520bd02-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.0\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.13\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -462,8 +385,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-0668c566-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.0\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.13\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -474,8 +395,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-b1a47fac-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.0\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.13\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -486,8 +405,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-3042a70b-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.0\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.13\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -498,8 +415,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-f26dba6d-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.8\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.13\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -510,8 +425,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-67b966fb-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.8\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.13\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -522,8 +435,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-1d6bb249-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.8\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.13\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -534,8 +445,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-4defdf63-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.8\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.13\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -546,8 +455,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-f4374ee4-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.8\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.13\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -558,8 +465,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-d4f31be3-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.8\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.13\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -570,8 +475,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-ca8323c9-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.8\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.13\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -582,8 +485,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-717f11fa-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.8\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.13\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -594,8 +495,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-3c3edf91-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.8\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.13\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -606,8 +505,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-5f39c914-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.8\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.13\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -618,8 +515,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-896751ef-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.8\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.13\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -630,8 +525,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-8d8100bd-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.8\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.13\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -642,8 +535,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-4debe0cc-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.8\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.13\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -654,8 +545,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-40e14fa8-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.8\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.13\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -666,8 +555,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-7f9d0f52-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.8\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.13\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -678,8 +565,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-3424d948-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.8\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.13\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -690,8 +575,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-c2bebda4-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.4\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.10\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -702,8 +585,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-f8dad234-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.4\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.10\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -714,8 +595,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-f5f2596a-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.4\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.10\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -726,8 +605,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-b7c685a7-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.2\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.9\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -738,8 +615,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-5a487158-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.2\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.9\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -750,8 +625,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-559c639e-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.2\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.9\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -762,8 +635,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-ec82e8dc-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.2\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.9\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -776,8 +647,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-5acf37b1-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.2\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.9",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -790,8 +659,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-2a4e9e81-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.2\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.9",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -804,8 +671,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-5fa7fca9-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.2\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.9",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -818,8 +683,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-f54c742c-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.2\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.9",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -832,8 +695,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-fc78db26-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.2\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.9",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -846,8 +707,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-cd08b5f8-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.2\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.9",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -860,8 +719,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-f221130c-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.2\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.9",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -874,8 +731,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-68458254-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.2\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.9",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -888,8 +743,6 @@
       "l": "Apache-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-88a4fa26-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.2\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.9",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -902,8 +755,6 @@
       "l": "Apache-2.0 OR MPL-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-5c6864c5-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.2\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.6",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -916,8 +767,6 @@
       "l": "Apache-2.0 OR MPL-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-9462ebe4-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.2\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.6",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -930,8 +779,6 @@
       "l": "Apache-2.0 OR MPL-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-5eee39b2-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.2\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.6",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -944,8 +791,6 @@
       "l": "Apache-2.0 OR MPL-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-9c9c2950-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.2\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.6",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -958,8 +803,6 @@
       "l": "Apache-2.0 OR MPL-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-20d77b5d-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.2\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.6",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -972,8 +815,6 @@
       "l": "Apache-2.0 OR MPL-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-c50cf6c7-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.2\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.6",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -986,8 +827,6 @@
       "l": "Apache-2.0 OR MPL-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-c111db43-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.2\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.6",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -1000,8 +839,6 @@
       "l": "Apache-2.0 OR MPL-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-4a9f2b50-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.2\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.6",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -1014,8 +851,6 @@
       "l": "Apache-2.0 OR MPL-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-49139bff-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.2\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.6",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -1028,8 +863,6 @@
       "l": "Apache-2.0 OR MPL-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-28052187-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.2\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.6",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -1042,8 +875,6 @@
       "l": "Apache-2.0 OR MPL-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-62ca8273-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.2\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.6",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -1056,8 +887,6 @@
       "l": "Apache-2.0 OR MPL-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-3d7eb9cd-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.2\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.6",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -1070,8 +899,6 @@
       "l": "Apache-2.0 OR MPL-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-69e31a73-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.2\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.6",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -1084,8 +911,6 @@
       "l": "Apache-2.0 OR MPL-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-922d5e3e-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.2\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.6",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -1098,8 +923,6 @@
       "l": "Apache-2.0 OR MPL-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-df595496-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.2\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.6",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -1112,8 +935,6 @@
       "l": "Apache-2.0 OR MPL-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-dc94d032-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.0\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.6",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -1128,8 +949,6 @@
       "l": "Apache-2.0 OR MPL-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-b8524921-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.0\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/nazopuyo-core ^= 0.10.3\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/puyo-core ^= 0.15.5\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/puyo-simulator ^= 0.11.8",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -1144,8 +963,6 @@
       "l": "Apache-2.0 OR MPL-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-4c7bf6fd-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.0\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/nazopuyo-core ^= 0.10.3\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/puyo-core ^= 0.15.5\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/puyo-simulator ^= 0.11.8",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -1159,8 +976,6 @@
       "l": "Apache-2.0 OR MPL-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-4c988b84-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.0\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/nazopuyo-core ^= 0.10.3\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/puyo-core ^= 0.15.5\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/puyo-simulator ^= 0.11.8",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -1174,8 +989,6 @@
       "l": "Apache-2.0 OR MPL-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-a4999ed1-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.0\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/nazopuyo-core ^= 0.10.3\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/puyo-core ^= 0.15.5\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/puyo-simulator ^= 0.11.8",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -1189,8 +1002,6 @@
       "l": "Apache-2.0 OR MPL-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-caba38a0-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.0\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/nazopuyo-core ^= 0.10.3\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/puyo-core ^= 0.15.5\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/puyo-simulator ^= 0.11.8",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -1204,8 +1015,6 @@
       "l": "Apache-2.0 OR MPL-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-ed9f3f73-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.0\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/nazopuyo-core ^= 0.10.0\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/puyo-core ^= 0.15.0\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/puyo-simulator ^= 0.11.5",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -1219,8 +1028,6 @@
       "l": "Apache-2.0 OR MPL-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-2eee7c62-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.0\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/nazopuyo-core ^= 0.10.0\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/puyo-core ^= 0.15.0\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/puyo-simulator ^= 0.11.5",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -1234,8 +1041,6 @@
       "l": "Apache-2.0 OR MPL-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-18c0c050-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.0\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/nazopuyo-core ^= 0.10.0\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/puyo-core ^= 0.15.0\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/puyo-simulator ^= 0.11.5",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -1249,8 +1054,6 @@
       "l": "Apache-2.0 OR MPL-2.0",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-cdc54895-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.0\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/nazopuyo-core ^= 0.10.0\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/puyo-core ^= 0.15.0\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/puyo-simulator ^= 0.11.5",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -1271,8 +1074,6 @@
         "nim",
         "png"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -1292,8 +1093,6 @@
         "nim",
         "png"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -1313,8 +1112,6 @@
         "nim",
         "png"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -1334,8 +1131,6 @@
         "nim",
         "png"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -1355,23 +1150,11 @@
         "nim",
         "png"
       ],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@0216a65095e81511abb028fdd28fb5915f1bd100",
-      "r": [],
-      "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-0216a650-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.6\ninvalid 'requires' syntax in nimble file: chroma ^= 1.0.0\ninvalid 'requires' syntax in nimble file: cligen ^= 1.9.6\ninvalid 'requires' syntax in nimble file: karax ^= 1.5.0\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.3.2\ninvalid 'requires' syntax in nimble file: parsetoml ^= 0.7.2\ninvalid 'requires' syntax in nimble file: regex ^= 0.26.3\ninvalid 'requires' syntax in nimble file: results ^= 0.5.1\ninvalid 'requires' syntax in nimble file: stew ^= 0.4.2\ninvalid 'requires' syntax in nimble file: unittest2 ^= 0.2.5",
-      "m": "~",
-      "s": "",
-      "k": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:47Z",
+  "generatedAt": "2026-05-26T13:18:17Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

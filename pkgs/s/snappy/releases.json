@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "snappy",
   "fqn": "nim-snappy.status-im.github.com",
-  "head": "00bfcef94f8ef6981df5d5b994897f6695badfb2",
   "author": "Andri Lim",
   "description": "Nim implementation of snappy compression algorithm",
   "license": "MIT",
@@ -14,30 +13,13 @@
     {
       "v": "0.1.0@6fcbbfbab28cd6d24297a27de49c55f8eb9b916c",
       "r": [],
-      "m": "~",
-      "x": []
-    },
-    {
-      "v": "#head@00bfcef94f8ef6981df5d5b994897f6695badfb2",
-      "r": [
-        "faststreams",
-        "unittest2",
-        "results",
-        "stew"
-      ],
-      "m": "1.6.0",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:00Z",
+  "generatedAt": "2026-05-26T13:19:07Z",
   "allDeps": {
-    "packages": [
-      "faststreams",
-      "results",
-      "stew",
-      "unittest2"
-    ],
+    "packages": [],
     "urls": [],
     "unresolved": []
   }

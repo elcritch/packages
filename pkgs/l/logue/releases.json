@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "logue",
   "fqn": "logue.planety.github.com",
-  "head": "abdc645a410a9fed0f4125023e3f57d9957fb376",
   "author": "flywind",
   "description": "Command line tools for Prologue.",
   "license": "Apache-2.0",
@@ -20,8 +19,6 @@
       "r": [
         "cligen >= 1.2.2"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -30,8 +27,6 @@
       "r": [
         "cligen >= 1.1.0"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -40,8 +35,6 @@
       "r": [
         "cligen >= 1.1.0"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -50,8 +43,6 @@
       "r": [
         "cligen >= 1.1.0"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -60,8 +51,6 @@
       "r": [
         "cligen >= 1.1.0"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -71,7 +60,6 @@
         "cligen >= 1.1.0"
       ],
       "m": "1.2.0",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -82,22 +70,11 @@
       ],
       "m": "1.2.0",
       "k": [],
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@abdc645a410a9fed0f4125023e3f57d9957fb376",
-      "r": [
-        "cligen >= 1.2.2"
-      ],
-      "m": "~",
-      "s": "",
-      "k": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:08Z",
+  "generatedAt": "2026-05-26T13:15:41Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

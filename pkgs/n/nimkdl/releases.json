@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimkdl",
   "fqn": "nimkdl.greenm01.github.com",
-  "head": "4755e537a848e5f91465ccb314013fc0a7ce7c2f",
   "author": "niltempus",
   "description": "KDL 2.0 document parser for Nim",
   "license": "MIT",
@@ -24,8 +23,6 @@
         "unicodedb 0.13.0"
       ],
       "p": [],
-      "m": "~",
-      "s": "",
       "y": []
     },
     {
@@ -36,8 +33,6 @@
         "unicodedb 0.13.0"
       ],
       "p": [],
-      "m": "~",
-      "s": "",
       "y": []
     },
     {
@@ -47,8 +42,6 @@
         "graphemes 0.12.0",
         "unicodedb 0.13.0"
       ],
-      "m": "~",
-      "s": "",
       "y": [],
       "p": []
     },
@@ -59,8 +52,6 @@
         "graphemes 0.12.0",
         "unicodedb 0.13.0"
       ],
-      "m": "~",
-      "s": "",
       "y": [],
       "p": []
     },
@@ -71,8 +62,6 @@
         "graphemes 0.12.0",
         "unicodedb 0.13.0"
       ],
-      "m": "~",
-      "s": "",
       "y": [],
       "p": []
     },
@@ -83,8 +72,6 @@
         "graphemes 0.12.0",
         "unicodedb 0.13.0"
       ],
-      "m": "~",
-      "s": "",
       "y": [],
       "p": []
     },
@@ -95,8 +82,6 @@
         "graphemes 0.12.0",
         "unicodedb 0.13.0"
       ],
-      "m": "~",
-      "s": "",
       "y": [],
       "p": []
     },
@@ -107,8 +92,6 @@
         "graphemes 0.12.0",
         "unicodedb 0.13.0"
       ],
-      "m": "~",
-      "s": "",
       "y": [],
       "p": []
     },
@@ -123,25 +106,11 @@
         "src/kdl/query.nim",
         "src/kdl/schema.nim"
       ],
-      "p": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@4755e537a848e5f91465ccb314013fc0a7ce7c2f",
-      "r": [
-        "bigints",
-        "graphemes 0.12.0",
-        "unicodedb 0.13.0"
-      ],
-      "p": [],
-      "m": "~",
-      "s": "",
-      "y": []
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:56Z",
+  "generatedAt": "2026-05-26T13:16:58Z",
   "allDeps": {
     "packages": [
       "bigints > 2.0.0",

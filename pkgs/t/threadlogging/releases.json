@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "threadlogging",
   "fqn": "threadlogging.pswilde.codeberg.org",
-  "head": "45747f810f3e83905b06032146be20b9529ffe10",
   "author": "Paul Wilde",
   "description": "A thread safe logging library using Nim's own logging module",
   "license": "AGPL-3.0-or-later",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.5@b66d224ef23bcdd7f15f412593aa1978de9e9931",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@45747f810f3e83905b06032146be20b9529ffe10",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T07:32:21Z",
+  "generatedAt": "2026-05-26T13:19:42Z",
   "allDeps": {
     "packages": [],
     "urls": [],

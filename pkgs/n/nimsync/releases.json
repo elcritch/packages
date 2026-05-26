@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimsync",
   "fqn": "nimsync.codenimja.github.com",
-  "head": "ee993279967dd06eaee89085724ebac04cd628e9",
   "author": "boonzy",
   "description": "Production-ready async runtime with lock-free SPSC channels (615M ops/sec, 31ns P99)",
   "license": "MIT",
@@ -13,30 +12,18 @@
       "v": "1.1.0@f644cf7b7eb4b35ec5e552b86b95cea36a22ffb5",
       "r": [
         "chronos >= 4.0.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.2.1@c62cd71c395f6331b2b828599655f9ff6949dd54",
       "r": [
         "chronos >= 4.0.0"
       ],
-      "d": "Lock-free SPSC channels for Nim (212M+ ops/sec verified)",
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@ee993279967dd06eaee89085724ebac04cd628e9",
-      "r": [
-        "chronos >= 4.0.0"
-      ],
-      "m": "~",
-      "s": ""
+      "d": "Lock-free SPSC channels for Nim (212M+ ops/sec verified)"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:19Z",
+  "generatedAt": "2026-05-26T13:17:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

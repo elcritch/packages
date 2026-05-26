@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "slim",
   "fqn": "slim.bung87.github.com",
-  "head": "c49ab66b5c3e10c8a5e028f6a472c5082534a1ab",
   "author": "bung87",
   "description": "nim package manager support requires in nimble task",
   "license": "MIT",
@@ -20,8 +19,6 @@
       "r": [
         "fusion"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "o": {}
     },
@@ -30,8 +27,6 @@
       "r": [
         "fusion"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "o": {}
     },
@@ -40,8 +35,6 @@
       "r": [
         "fusion"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "o": {}
     },
@@ -50,8 +43,6 @@
       "r": [
         "fusion"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "o": {}
     },
@@ -60,8 +51,6 @@
       "r": [
         "fusion"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "o": {}
     },
@@ -71,8 +60,6 @@
         "hmisc 0.11.14"
       ],
       "d": "nim package manager",
-      "m": "~",
-      "s": "",
       "k": [],
       "o": {}
     },
@@ -82,8 +69,6 @@
         "hmisc 0.12.4"
       ],
       "d": "nim package manager",
-      "m": "~",
-      "s": "",
       "k": [],
       "o": {}
     },
@@ -93,8 +78,6 @@
         "hmisc"
       ],
       "d": "nim package manager",
-      "m": "~",
-      "s": "",
       "k": [],
       "o": {}
     },
@@ -105,23 +88,12 @@
       ],
       "d": "nim package manager",
       "m": "1.4.8",
-      "s": "",
-      "k": [],
-      "o": {}
-    },
-    {
-      "v": "#head@c49ab66b5c3e10c8a5e028f6a472c5082534a1ab",
-      "r": [
-        "fusion"
-      ],
-      "m": "~",
-      "s": "",
       "k": [],
       "o": {}
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:58Z",
+  "generatedAt": "2026-05-26T13:19:05Z",
   "allDeps": {
     "packages": [
       "benchy <= 0.1.7",

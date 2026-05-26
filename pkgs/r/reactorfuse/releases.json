@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "reactorfuse",
   "fqn": "reactorfuse.zielmicha.github.com",
-  "head": "5da2c220339a1aedbf56b48c3f26c0c1adcb943e",
   "author": "Michał Zieliński <michal@zielinscy.org.pl>",
   "description": "Filesystem in userspace (FUSE) support for reactor.nim",
   "license": "MIT",
@@ -10,14 +9,10 @@
     {
       "v": "0.0.1@8799f2254815eb13fdf1fcc32926cc5e2cd0e04e",
       "r": []
-    },
-    {
-      "v": "#head@5da2c220339a1aedbf56b48c3f26c0c1adcb943e",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:09Z",
+  "generatedAt": "2026-05-26T13:18:31Z",
   "allDeps": {
     "packages": [],
     "urls": [],

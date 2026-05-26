@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "procs",
   "fqn": "procs.c-blake.github.com",
-  "head": "36b7a5dccd5b1dbb548b8a748c12ab075f163a1b",
   "author": "Charles Blake",
   "description": "Unix process&system query&format lib&multi-command CLI in Nim",
   "license": "MIT/ISC",
@@ -23,7 +22,6 @@
         "cligen >= 1.9.6"
       ],
       "h": true,
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -34,7 +32,6 @@
         "cligen >= 1.9.4"
       ],
       "h": true,
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -45,7 +42,6 @@
         "cligen >= 1.9.1"
       ],
       "h": true,
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -56,7 +52,6 @@
         "cligen >= 1.8.7"
       ],
       "h": true,
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -67,7 +62,6 @@
         "cligen >= 1.8.6"
       ],
       "h": true,
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -78,7 +72,6 @@
         "cligen >= 1.8.5"
       ],
       "h": true,
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -89,7 +82,6 @@
         "cligen >= 1.8.5"
       ],
       "h": true,
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -100,7 +92,6 @@
         "cligen >= 1.8.4"
       ],
       "h": true,
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -111,7 +102,6 @@
         "cligen >= 1.8.3"
       ],
       "h": true,
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -122,7 +112,6 @@
         "cligen >= 1.8.3"
       ],
       "h": true,
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -133,7 +122,6 @@
         "cligen >= 1.8.3"
       ],
       "h": true,
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -144,7 +132,6 @@
         "cligen >= 1.8.0"
       ],
       "h": true,
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -155,7 +142,6 @@
         "cligen >= 1.8.0"
       ],
       "h": true,
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -166,7 +152,6 @@
         "cligen >= 1.8.0"
       ],
       "h": true,
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -177,7 +162,6 @@
         "cligen >= 1.7.9"
       ],
       "h": true,
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -188,7 +172,6 @@
         "cligen >= 1.7.8"
       ],
       "h": true,
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -199,7 +182,6 @@
         "cligen >= 1.7.4"
       ],
       "h": true,
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -210,7 +192,6 @@
         "cligen >= 1.7.1"
       ],
       "h": true,
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -221,7 +202,6 @@
         "cligen >= 1.7.1"
       ],
       "h": true,
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -232,7 +212,6 @@
         "cligen >= 1.6.17"
       ],
       "h": true,
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -243,7 +222,6 @@
         "cligen >= 1.6.15"
       ],
       "h": true,
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -254,7 +232,6 @@
         "cligen >= 1.6.15"
       ],
       "h": true,
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -265,7 +242,6 @@
         "cligen >= 1.6.15"
       ],
       "h": true,
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -276,7 +252,6 @@
         "cligen >= 1.6.14"
       ],
       "h": true,
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -287,7 +262,6 @@
         "cligen >= 1.6.13"
       ],
       "h": true,
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -299,7 +273,6 @@
       ],
       "d": "Unix process&system query&formatting library&multi-command CLI in Nim",
       "i": [],
-      "m": "~",
       "x": [],
       "p": []
     },
@@ -310,7 +283,6 @@
       ],
       "d": "Unix process&system query&formatting library&multi-command CLI in Nim",
       "i": [],
-      "m": "~",
       "x": [],
       "p": []
     },
@@ -321,7 +293,6 @@
       ],
       "d": "Unix process&system query&formatting library&multi-command CLI in Nim",
       "i": [],
-      "m": "~",
       "x": [],
       "p": []
     },
@@ -332,7 +303,6 @@
       ],
       "d": "Unix process&system query&formatting library&multi-command CLI in Nim",
       "i": [],
-      "m": "~",
       "x": [],
       "p": []
     },
@@ -343,7 +313,6 @@
       ],
       "d": "Unix process&system query&formatting library&multi-command CLI in Nim",
       "i": [],
-      "m": "~",
       "x": [],
       "p": []
     },
@@ -423,21 +392,10 @@
       "i": [],
       "x": [],
       "p": []
-    },
-    {
-      "v": "#head@36b7a5dccd5b1dbb548b8a748c12ab075f163a1b",
-      "r": [
-        "cligen >= 1.9.6"
-      ],
-      "h": true,
-      "m": "~",
-      "x": [],
-      "i": [],
-      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:49Z",
+  "generatedAt": "2026-05-26T13:18:19Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

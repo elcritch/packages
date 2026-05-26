@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "x11",
   "fqn": "x11.nim-lang.github.com",
-  "head": "29aca5e519ebf5d833f63a6a2769e62ec7bfb83a",
   "author": "Andreas Rumpf",
   "description": "Wrapper for X11",
   "license": "MIT",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "1.2@29aca5e519ebf5d833f63a6a2769e62ec7bfb83a^",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@29aca5e519ebf5d833f63a6a2769e62ec7bfb83a",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:57:05Z",
+  "generatedAt": "2026-05-26T13:20:33Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

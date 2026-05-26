@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "promexplorer",
   "fqn": "promexplorer.marcusramberg.github.com",
-  "head": "9119787f6833b924b9734a2fcdbb404e720a11e8",
   "author": "Marcus Ramberg",
   "description": "Simple prometheus metrics explorer",
   "license": "MIT",
@@ -17,8 +16,6 @@
       "r": [
         "illwill >= 0.3.0"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -27,8 +24,6 @@
         "illwill >= 0.3.0",
         "gh:enthus1ast/illwillWidgets"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -36,8 +31,6 @@
       "r": [
         "illwill >= 0.3.0"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -45,8 +38,6 @@
       "r": [
         "illwill >= 0.3.0"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -54,43 +45,11 @@
       "r": [
         "illwill >= 0.3.0"
       ],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@9119787f6833b924b9734a2fcdbb404e720a11e8",
-      "r": [
-        "illwill >= 0.3.0"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:50Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "v0.0.1",
-      "v0.0.2",
-      "v0.0.3",
-      "v0.0.4",
-      "v0.0.5"
-    ],
-    "tagVersions": {
-      "v0.0.1": "0.0.1",
-      "v0.0.2": "0.0.2",
-      "v0.0.3": "0.0.3",
-      "v0.0.4": "0.0.4",
-      "v0.0.5": "0.0.5"
-    },
-    "latest": "v0.0.5"
-  },
+  "generatedAt": "2026-05-26T13:18:18Z",
   "allDeps": {
     "packages": [
       "illwill"

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "packedArgs",
   "fqn": "packedArgs.hamidb80.github.com",
-  "head": "ec10c257925f80e6dd9be98e32ce2a2bb35118e3",
   "author": "hamidb80",
   "description": "a convenstion mainly created for createThread proc",
   "license": "MIT",
@@ -13,31 +12,18 @@
       "v": "0.0.1@ec9742db305369e33f4e287886501a3dbe50d77e",
       "r": [
         "macroplus >= 0.1.19"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.0.2@f2f5b7c18dc6bbe7884b796f235b12896314726f",
       "r": [
         "macroplus >= 0.1.20"
       ],
-      "d": "a convention mainly created for `createThread` proc",
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@ec10c257925f80e6dd9be98e32ce2a2bb35118e3",
-      "r": [
-        "macroplus >= 0.1.20"
-      ],
-      "d": "a convention mainly created for `createThread` proc",
-      "m": "~",
-      "s": ""
+      "d": "a convention mainly created for `createThread` proc"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:15Z",
+  "generatedAt": "2026-05-26T13:17:53Z",
   "allDeps": {
     "packages": [
       "macroplus"

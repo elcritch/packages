@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "NimDBX",
   "fqn": "nimdbx.snej.github.com",
-  "head": "3a0cabd39297b8d21b225cd0a76a3cac19beac2e",
   "author": "Jens Alfke",
   "description": "Unofficial Nim bindings for libmdbx key-value database",
   "license": "Apache-2.0",
@@ -16,9 +15,7 @@
     {
       "v": "0.1.0@940d589a72c17bb7b189c599aebb9e867009e60c",
       "r": [],
-      "i": [],
-      "m": "~",
-      "s": ""
+      "i": []
     },
     {
       "v": "0.2.0@7a1f7619a93d6897a912286508a807cd69995684",
@@ -26,9 +23,7 @@
         "nimterop >= 0.6.13"
       ],
       "l": "Apache-2.0, OpenLDAP",
-      "i": [],
-      "m": "~",
-      "s": ""
+      "i": []
     },
     {
       "v": "0.3.0@f226611413e75de65c568d1096359235adbccc65",
@@ -36,9 +31,7 @@
         "nimterop >= 0.6.13"
       ],
       "l": "Apache-2.0, OpenLDAP",
-      "i": [],
-      "m": "~",
-      "s": ""
+      "i": []
     },
     {
       "v": "0.4.0@91c6492601766b17da2bbd94ead923bc12b68de8",
@@ -46,9 +39,7 @@
         "nimterop >= 0.6.13"
       ],
       "l": "Apache-2.0, OpenLDAP",
-      "i": [],
-      "m": "~",
-      "s": ""
+      "i": []
     },
     {
       "v": "0.4.1@557b76d60de7847dce5d9e145bf9202a0130a6de",
@@ -57,22 +48,11 @@
       ],
       "l": "Apache-2.0, OpenLDAP",
       "m": "1.4.2",
-      "s": "",
-      "i": []
-    },
-    {
-      "v": "#head@3a0cabd39297b8d21b225cd0a76a3cac19beac2e",
-      "r": [
-        "nimterop >= 0.6.13"
-      ],
-      "l": "Apache-2.0, OpenLDAP",
-      "m": "1.4.2",
-      "s": "",
       "i": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:27Z",
+  "generatedAt": "2026-05-26T13:11:42Z",
   "allDeps": {
     "packages": [
       "cligen > 0.1.0",

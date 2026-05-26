@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "gnuplotlib",
   "fqn": "gnuplotlib.planetis-m.github.com",
-  "head": "60bbcbd293dc12d287311d2fcfbb8a23c74894c7",
   "author": "Antonis Geralis",
   "description": "Nim gnuplot interface",
   "license": "MIT",
@@ -15,7 +14,6 @@
     {
       "v": "2.7.1@60bbcbd293dc12d287311d2fcfbb8a23c74894c7^",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
@@ -29,7 +27,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "x": []
     },
     {
@@ -37,7 +34,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "x": []
     },
     {
@@ -45,7 +41,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "x": []
     },
     {
@@ -53,18 +48,11 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "x": []
-    },
-    {
-      "v": "#head@60bbcbd293dc12d287311d2fcfbb8a23c74894c7",
-      "r": [],
-      "m": "~",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:25Z",
+  "generatedAt": "2026-05-26T13:14:28Z",
   "allDeps": {
     "packages": [],
     "urls": [],

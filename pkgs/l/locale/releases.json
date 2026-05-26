@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "locale",
   "fqn": "nim-locale.nim-community.github.com",
-  "head": "02f112a98deb04e31b1da5b0947349b123e2c818",
   "author": "Amrykid",
   "description": "A simple library for localizing Nimrod applications.",
   "license": "MIT",
@@ -19,16 +18,10 @@
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nim-locale.nim-community.github.com-f86d8ef5-locale.nimble\ncannot resolve package name: nimrod",
       "y": []
-    },
-    {
-      "v": "#head@02f112a98deb04e31b1da5b0947349b123e2c818",
-      "r": [],
-      "m": "1.6.0",
-      "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:03Z",
+  "generatedAt": "2026-05-26T13:15:37Z",
   "allDeps": {
     "packages": [],
     "urls": [

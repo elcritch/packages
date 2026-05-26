@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "kapsis",
   "fqn": "kapsis.openpeeps.github.com",
-  "head": "8ce3694f6f77fb812f7c84fc549afb69db2f4895",
   "author": "George Lemon",
   "description": "Your type of CLI framework",
   "license": "MIT",
@@ -19,9 +18,7 @@
         "termstyle",
         "nancy",
         "noise"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.2.3@ba5284cb04c61ad8f8314929f27651ccdaf914ec",
@@ -35,9 +32,7 @@
         "termstyle",
         "noise"
       ],
-      "d": "Build delightful command line interfaces in seconds",
-      "m": "~",
-      "s": ""
+      "d": "Build delightful command line interfaces in seconds"
     },
     {
       "v": "0.2.2@b734c6d03dd6f7ff5e8115d2c08b8f6492a030f7",
@@ -51,9 +46,7 @@
         "termstyle",
         "noise"
       ],
-      "d": "Build delightful command line interfaces in seconds",
-      "m": "~",
-      "s": ""
+      "d": "Build delightful command line interfaces in seconds"
     },
     {
       "v": "0.1.1@b154bf5fcd7a94591a46a4bd3ad99e3c06652c9d",
@@ -63,8 +56,7 @@
         "msgpack4nim #head"
       ],
       "d": "Build delightful command line interfaces in seconds",
-      "m": "1.6.0",
-      "s": ""
+      "m": "1.6.0"
     },
     {
       "v": "0.1.0@84a8a2c11024ffaf335f05222b71cd53b015a6da",
@@ -74,34 +66,16 @@
         "msgpack4nim #head"
       ],
       "d": "Build delightful command line interfaces in seconds",
-      "m": "1.6.0",
-      "s": ""
-    },
-    {
-      "v": "#head@8ce3694f6f77fb812f7c84fc549afb69db2f4895",
-      "r": [
-        "pluginkit",
-        "voodoo",
-        "jsony",
-        "valido",
-        "termstyle",
-        "nancy",
-        "noise",
-        "floof"
-      ],
-      "m": "~",
-      "s": ""
+      "m": "1.6.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:32Z",
+  "generatedAt": "2026-05-26T13:15:16Z",
   "allDeps": {
     "packages": [
       "ansiparse > 0.1.1",
       "bigints > 0.1.1",
-      "blackpaper > 0.1.1",
-      "checksums > 0.1.1",
-      "floof > 0.1.1",
+      "checksums > 0.1.1 & <= 0.2.3",
       "htmlparser > 0.1.1",
       "illwill <= 0.2.3",
       "jsony > 0.1.1",
@@ -113,7 +87,7 @@
       "openparser > 0.1.1",
       "pkginfo <= 0.1.1",
       "pluginkit > 0.2.3",
-      "semver",
+      "semver <= 0.1.1",
       "termstyle > 0.1.1",
       "valido > 0.1.1",
       "voodoo > 0.1.1"

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "aqcalc",
   "fqn": "aqcalc.VitorGoatman.github.com",
-  "head": "e346af53bca95be4996d537dc8b6795c03b4ff56",
   "author": "VitorGoatman",
   "description": "Calculate gematria values for Alphanumeric Qabbala",
   "license": "Unlicense",
@@ -20,8 +19,6 @@
       "r": [
         "docopt >= 0.6.7"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -30,8 +27,6 @@
       "r": [
         "docopt >= 0.6.7"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -40,8 +35,6 @@
       "r": [
         "docopt >= 0.6.7"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -50,37 +43,12 @@
       "r": [
         "docopt >= 0.6.7"
       ],
-      "m": "~",
-      "s": "",
-      "k": [],
-      "p": []
-    },
-    {
-      "v": "#head@e346af53bca95be4996d537dc8b6795c03b4ff56",
-      "r": [
-        "docopt >= 0.6.7"
-      ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:50Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "0.1",
-      "0.2",
-      "0.3",
-      "0.3.1"
-    ],
-    "latest": "0.3.1"
-  },
+  "generatedAt": "2026-05-26T13:11:58Z",
   "allDeps": {
     "packages": [
       "docopt",

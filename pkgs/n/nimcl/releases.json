@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimcl",
   "fqn": "nimcl.andreaferretti.github.com",
-  "head": "3bf5ebc7290425a5634854cc8e8b30a9a3408d82",
   "author": "Andrea Ferretti",
   "description": "OpenCL utilities",
   "license": "Apache2",
@@ -19,7 +18,6 @@
       "r": [
         "opencl >= 1.0"
       ],
-      "m": "~",
       "x": [],
       "y": []
     },
@@ -40,19 +38,10 @@
       "m": "0.13.0",
       "x": [],
       "y": []
-    },
-    {
-      "v": "#head@3bf5ebc7290425a5634854cc8e8b30a9a3408d82",
-      "r": [
-        "opencl >= 1.0"
-      ],
-      "m": "~",
-      "x": [],
-      "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:36Z",
+  "generatedAt": "2026-05-26T13:16:45Z",
   "allDeps": {
     "packages": [
       "opencl"

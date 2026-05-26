@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "arduino",
   "fqn": "nim-arduino.markspanbroek.github.com",
-  "head": "ea798d16d07cd64dce3cdddd6f8aa4d3c6be0173",
   "author": "nim-arduino authors",
   "description": "Arduino bindings for Nim",
   "license": "MIT",
@@ -10,24 +9,17 @@
   "releases": [
     {
       "v": "0.3.0@ea798d16d07cd64dce3cdddd6f8aa4d3c6be0173^",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "0.2.0@4fff29d36e880d67fcbc3edb62061e941d0cfb70",
       "r": [],
       "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file",
-      "m": "~"
-    },
-    {
-      "v": "#head@ea798d16d07cd64dce3cdddd6f8aa4d3c6be0173",
-      "r": [],
-      "m": "~"
+      "E": "missing nimble file"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:51Z",
+  "generatedAt": "2026-05-26T13:11:58Z",
   "allDeps": {
     "packages": [],
     "urls": [],

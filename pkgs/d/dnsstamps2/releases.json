@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "dnsstamps2",
   "fqn": "nim-dnsstamps2.rockcavera.github.com",
-  "head": "16be2b0701c89f50b31ce39edb9ff61bb5854ff2",
   "author": "rockcavera",
   "description": "DNS Stamps package",
   "license": "MIT",
@@ -13,21 +12,11 @@
       "v": "0.1.0@22d8ff331949333f7a3d593d16ce13f637984cd0",
       "r": [
         "stew"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@16be2b0701c89f50b31ce39edb9ff61bb5854ff2",
-      "r": [
-        "stew"
-      ],
-      "m": "1.2.0",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:02Z",
+  "generatedAt": "2026-05-26T13:13:36Z",
   "allDeps": {
     "packages": [
       "results",

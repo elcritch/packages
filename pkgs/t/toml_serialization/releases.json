@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "toml_serialization",
   "fqn": "nim-toml-serialization.status-im.github.com",
-  "head": "b5b387e6fb2a7cc75d54a269b07cc6218361bd46",
   "author": "Status Research & Development GmbH",
   "description": "Flexible TOML serialization [not] relying on run-time type information",
   "license": "Apache License 2.0",
@@ -19,7 +18,6 @@
         "serialization",
         "stew"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -28,7 +26,6 @@
         "serialization",
         "stew"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -37,22 +34,11 @@
         "serialization",
         "stew"
       ],
-      "m": "~",
-      "x": []
-    },
-    {
-      "v": "#head@b5b387e6fb2a7cc75d54a269b07cc6218361bd46",
-      "r": [
-        "faststreams >= 0.5.0",
-        "serialization",
-        "stew"
-      ],
-      "m": "~",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:58Z",
+  "generatedAt": "2026-05-26T13:19:47Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

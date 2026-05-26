@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "csv",
   "fqn": "nim-csv.achesak.github.com",
-  "head": "8b4d78e80142abb161cb81330c46127d8293e377",
   "author": "Adam Chesak",
   "description": "procedures for reading, writing, parsing, and stringifying CSV (comma separated value) files",
   "license": "MIT",
@@ -10,27 +9,19 @@
   "releases": [
     {
       "v": "0.1.0@2d78be04bbe3f883ebf10476e6c95a03ad513adf",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "0.2@be47e254138c5cb97d38536777fc7b40c0ab8ad5",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "0.3@98576522b340ebf7ae706bb190eb41918a902841",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@8b4d78e80142abb161cb81330c46127d8293e377",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:38Z",
+  "generatedAt": "2026-05-26T13:13:20Z",
   "allDeps": {
     "packages": [],
     "urls": [],

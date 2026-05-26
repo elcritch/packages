@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "jsmn",
   "fqn": "jsmn.nim.OpenSystemsLab.github.com",
-  "head": "b7d2aa54501a587b94769fd2e32df6f673836ff1",
   "author": "Huy Doan",
   "description": "Jsmn - a world fastest JSON parser - in pure Nim",
   "license": "MIT",
@@ -14,7 +13,6 @@
     {
       "v": "0.2@1c66d68bced268dfabe33062a84bfce04cb36769",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
@@ -58,16 +56,10 @@
       "r": [],
       "m": "0.13.1",
       "x": []
-    },
-    {
-      "v": "#head@b7d2aa54501a587b94769fd2e32df6f673836ff1",
-      "r": [],
-      "m": "~",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:25Z",
+  "generatedAt": "2026-05-26T13:15:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

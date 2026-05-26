@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "tsundoku",
   "fqn": "tsundoku.FedericoCeratto.github.com",
-  "head": "78c9d4a56a0ef6726cda212e197b53835f108322",
   "author": "Federico Ceratto",
   "description": "OPDS ebook server",
   "license": "GPLv3",
@@ -16,20 +15,11 @@
       "r": [
         "jester"
       ],
-      "m": "~",
-      "p": []
-    },
-    {
-      "v": "#head@78c9d4a56a0ef6726cda212e197b53835f108322",
-      "r": [
-        "jester"
-      ],
-      "m": "~",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:06Z",
+  "generatedAt": "2026-05-26T13:19:52Z",
   "allDeps": {
     "packages": [
       "asynctools",

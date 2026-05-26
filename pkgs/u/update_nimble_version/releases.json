@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "update_nimble_version",
   "fqn": "update_nimble_version.philolo1.github.com",
-  "head": "ad261211b3ba0e3c39bd6815ef1a0f67ace9f83e",
   "author": "Patrick Klitzke",
   "description": "A simple tool to update nimble version",
   "license": "MIT",
@@ -15,20 +14,11 @@
     {
       "v": "0.0.1@4074249aa9419c755336774f4196dbd72ada7f5e",
       "r": [],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@ad261211b3ba0e3c39bd6815ef1a0f67ace9f83e",
-      "r": [],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:20Z",
+  "generatedAt": "2026-05-26T13:20:02Z",
   "allDeps": {
     "packages": [],
     "urls": [],

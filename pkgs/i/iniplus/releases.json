@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "iniplus",
   "fqn": "iniplus.onbox.codeberg.org",
-  "head": "d02192d740655734d02852e981eef26d0a468fe5",
   "author": "penguinite",
   "description": "An INI parser written in Nim. It's main goal is to support more datatypes than std/parsecfg whilst still being just as performant as it.",
   "license": "BSD-3-Clause",
@@ -11,59 +10,38 @@
   "releases": [
     {
       "v": "0.3.3@1456af378565c2840ec5e448a2575137596d1179",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.3.2@a1431a2dca4e64f6effc78b590823e6ceb353970",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.3.1@cf992472fd1b6ccb5b179970b7cae7e8d5216fba",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.3.0@3ed13169911b9a7ad78585bad7fd6e2c4d7d318d",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.2@4936b317414f0f36b6ec2ecbcdc3b0532097301e",
       "r": [],
-      "d": "An INI parser written in Nim with support for arrays. It's intended to be as performant as std/parsecfg but with a couple of nice-to-have features.",
-      "m": "~",
-      "s": ""
+      "d": "An INI parser written in Nim with support for arrays. It's intended to be as performant as std/parsecfg but with a couple of nice-to-have features."
     },
     {
       "v": "0.2.1@c2ba258a0606fcdfd8efe849defc317fee59e3db",
       "r": [],
-      "d": "An extended INI parser for Nim.",
-      "m": "~",
-      "s": ""
+      "d": "An extended INI parser for Nim."
     },
     {
       "v": "0.2.0@1c9ddaefd3986987c1869409ad62cf2cf990f084",
       "r": [],
-      "d": "An extended INI parser for Nim.",
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@d02192d740655734d02852e981eef26d0a468fe5",
-      "r": [],
-      "d": "An INI parser written in Nim. Has more features and datatypes than std/parsecfg while still being just as fast!",
-      "m": "~",
-      "s": ""
+      "d": "An extended INI parser for Nim."
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T07:25:29Z",
+  "generatedAt": "2026-05-26T13:15:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

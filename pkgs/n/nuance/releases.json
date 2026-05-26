@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nuance",
   "fqn": "nuance.metagn.github.com",
-  "head": "1dcf8e05afaaf22b81e3ec75209ef15ce1b80427",
   "author": "metagn",
   "description": "nim untyped AST node generation with custom line info at runtime",
   "license": "MIT",
@@ -11,20 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@a935845fb91b03c0f95c9ae0974fb9c8e9f4a456",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@1dcf8e05afaaf22b81e3ec75209ef15ce1b80427",
-      "r": [],
-      "d": "nim untyped AST node generation at runtime with custom line info",
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:52Z",
+  "generatedAt": "2026-05-26T13:17:38Z",
   "allDeps": {
     "packages": [],
     "urls": [],

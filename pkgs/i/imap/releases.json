@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "imap",
   "fqn": "nim_imap.~ehmry.git.sr.ht",
-  "head": "dfd95505661052a86c9acf728669395846ce8cdf",
   "author": "Emery Hemingway",
   "description": "IMAP client library",
   "license": "GPLv3",
@@ -11,39 +10,27 @@
   "releases": [
     {
       "v": "0.3.0@c6880957365f495d21877c5bfdcf6b3053b6172f",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.2@d7d691538032b90f13a933fb512c487d57d790ee",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.0@5c70028b70dc4f1581c47579f748f7fc8617b5dd",
       "r": [],
       "l": "GPL2",
-      "m": "0.15.0",
-      "s": ""
+      "m": "0.15.0"
     },
     {
       "v": "0.1.0@58a317da1b2c4c8e00ae51a7f26b899dc6064d81",
       "r": [],
       "l": "GPL2",
-      "m": "0.15.0",
-      "s": ""
-    },
-    {
-      "v": "#head@dfd95505661052a86c9acf728669395846ce8cdf",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "m": "0.15.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T07:25:23Z",
+  "generatedAt": "2026-05-26T13:14:58Z",
   "allDeps": {
     "packages": [],
     "urls": [],

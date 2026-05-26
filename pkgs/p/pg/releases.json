@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "pg",
   "fqn": "pg.treeform.github.com",
-  "head": "77aa815c66fbded8bcebb5aaa11e1ed55ea6e927",
   "author": "Andre von Houck",
   "description": "Very simple PostgreSQL async api for nim.",
   "license": "MIT",
@@ -11,21 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@5739d1a3f74a6e620cde4212f7faaae153803edc",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@77aa815c66fbded8bcebb5aaa11e1ed55ea6e927",
-      "r": [
-        "db_connector >= 0.1.0"
-      ],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:28Z",
+  "generatedAt": "2026-05-26T13:18:02Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -37,9 +26,7 @@
     "latest": "0.1.0"
   },
   "allDeps": {
-    "packages": [
-      "db_connector"
-    ],
+    "packages": [],
     "urls": [],
     "unresolved": []
   }

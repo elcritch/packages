@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "bz",
   "fqn": "bz.pcarrier.github.com",
-  "head": "f68389d369cf5cbd5c2b0f6f7d8fdc679b1dedcd",
   "author": "Pierre Carrier",
   "description": "Nim port of baze utilities",
   "license": "0BSD",
@@ -17,38 +16,14 @@
       "r": [
         "argparse >= 4.0.1"
       ],
-      "m": "~",
-      "s": "",
       "p": []
-    },
-    {
-      "v": "#head@f68389d369cf5cbd5c2b0f6f7d8fdc679b1dedcd",
-      "r": [
-        "argparse >= 4.0.1",
-        "yaml >= 2.0.0"
-      ],
-      "d": "A few CLI utilities",
-      "p": [
-        "cupa",
-        "lecho",
-        "shellescape",
-        "shost",
-        "statistik",
-        "suc",
-        "urldecode",
-        "urlencode",
-        "yaml2json"
-      ],
-      "m": "~",
-      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:54Z",
+  "generatedAt": "2026-05-26T13:12:44Z",
   "allDeps": {
     "packages": [
-      "argparse",
-      "yaml"
+      "argparse"
     ],
     "urls": [],
     "unresolved": []

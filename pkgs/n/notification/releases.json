@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "notification",
   "fqn": "notification.SolitudeSF.github.com",
-  "head": "4cc31eb77ff086d815bac399953f1bb498af7c5c",
   "author": "SolitudeSF",
   "description": "Desktop notifications",
   "license": "MIT",
@@ -14,40 +13,25 @@
       "r": [
         "dbus",
         "imageman >= 0.8.1"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.1@34dc77cb629911df0ac26d19415d73f8a551154a",
       "r": [
         "dbus",
         "imageman >= 0.7.4"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.0@f6d608b6ee4073446704faca25b528dcf499ffc9",
       "r": [
         "gh:SolitudeSF/nim-dbus #537dee6dd70bbe5a85014b9293e3c0389e35f150",
         "imageman >= 0.7.4"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@4cc31eb77ff086d815bac399953f1bb498af7c5c",
-      "r": [
-        "dbus",
-        "imageman >= 0.8.1"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:46Z",
+  "generatedAt": "2026-05-26T13:17:34Z",
   "allDeps": {
     "packages": [
       "dbus > 0.1.0",

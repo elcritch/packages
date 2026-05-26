@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "ndarray",
   "fqn": "ndarray-c.jailop.github.com",
-  "head": "9309a80d7e4a16173c47e7e4ddb26e5c43d0bca2",
   "author": "Jaime Lopez",
   "description": "Nim bindings for ndarray-c library",
   "license": "BSD-3-Clause",
@@ -11,67 +10,47 @@
   "releases": [
     {
       "v": "0.5.0@42f4a2e720274c755b74ac48d8bdee404558ccc9",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.4.0@b6ca571606c268885570efc6fb93f84e4ed5725a",
       "r": [],
       "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file",
-      "m": "~",
-      "s": ""
+      "E": "missing nimble file"
     },
     {
       "v": "0.3.0@556641eea25b40a4fbd90ff9537a453a2fd64224",
       "r": [],
       "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file",
-      "m": "~",
-      "s": ""
+      "E": "missing nimble file"
     },
     {
       "v": "0.2.3@bac327843b89701b3a0467406f36f1f93e2b3c8e",
       "r": [],
       "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file",
-      "m": "~",
-      "s": ""
+      "E": "missing nimble file"
     },
     {
       "v": "0.2.2@263a3db29ec785db759fd9dcf79036451892de26",
       "r": [],
       "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file",
-      "m": "~",
-      "s": ""
+      "E": "missing nimble file"
     },
     {
       "v": "0.2.1@4366740786841fdb498d1e03afe354da164e2ba0",
       "r": [],
       "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file",
-      "m": "~",
-      "s": ""
+      "E": "missing nimble file"
     },
     {
       "v": "0.2.0@33bdf920d66fe462c3662ca51938b206f32c6741",
       "r": [],
       "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file",
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@9309a80d7e4a16173c47e7e4ddb26e5c43d0bca2",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "E": "missing nimble file"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:58Z",
+  "generatedAt": "2026-05-26T13:16:18Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "plotly",
   "fqn": "nim-plotly.SciNim.github.com",
-  "head": "b9705980965f65e4174ef68c4f93cd082375b623",
   "author": "Brent Pedersen",
   "description": "plotting library for nim",
   "license": "MIT",
@@ -20,8 +19,6 @@
         "webview",
         "ws"
       ],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
@@ -32,8 +29,6 @@
         "webview",
         "ws"
       ],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
@@ -44,8 +39,6 @@
         "webview",
         "ws"
       ],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
@@ -56,8 +49,6 @@
         "webview",
         "ws"
       ],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
@@ -68,34 +59,18 @@
         "webview",
         "websocket >= 0.4.1"
       ],
-      "m": "~",
-      "s": "",
-      "x": []
-    },
-    {
-      "v": "#head@b9705980965f65e4174ef68c4f93cd082375b623",
-      "r": [
-        "chroma",
-        "jsbind",
-        "webview",
-        "ws"
-      ],
-      "m": "~",
-      "s": "",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:36Z",
+  "generatedAt": "2026-05-26T13:18:08Z",
   "allDeps": {
     "packages": [
       "chroma",
       "jsbind",
-      "wasmrt",
       "websocket <= 0.2.0",
       "webview",
-      "ws > 0.2.0",
-      "zippy"
+      "ws > 0.2.0"
     ],
     "urls": [],
     "unresolved": []

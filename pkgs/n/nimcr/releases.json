@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimcr",
   "fqn": "nimcr.PMunch.github.com",
-  "head": "bb825f18239dcee6720bb679e2518f7f1a8059c9",
   "author": "Peter Munch-Ellingsen",
   "description": "Simple program that allows you to use the shebang #!nimcr in your Nim files. It will automatically compile the file to a hidden executable in the same directory as the nim file as long as the file doesn't already exist and is younger than (ie. created after the last modification of) the script file. If it is younger it will simply run the executable saving you from compiling the script each time it is run. The output of the compiler is also ignored if the compilation is succesfull and only the output of the program is used. If the compilation fails the output will be written to stderr and the return code will match that of the compiler.",
   "license": "MIT",
@@ -20,7 +19,6 @@
     {
       "v": "0.1.0@5421466f1109eaa367cbfe3ea1ef90c04f4398ba",
       "r": [],
-      "m": "~",
       "x": [],
       "z": [],
       "p": []
@@ -28,7 +26,6 @@
     {
       "v": "0.1.1@5771b76bf3e562e500441de4517ded7b09a9aa48",
       "r": [],
-      "m": "~",
       "x": [],
       "z": [],
       "p": []
@@ -36,7 +33,6 @@
     {
       "v": "0.2.0@6ce6989e0e501a98785f9ff15c2810ac37095a46",
       "r": [],
-      "m": "~",
       "x": [],
       "z": [],
       "p": []
@@ -44,7 +40,6 @@
     {
       "v": "0.3.0@d2cb0405ba3211461f7dc6f53d766ab3be2fff2b",
       "r": [],
-      "m": "~",
       "x": [],
       "z": [],
       "p": []
@@ -52,22 +47,13 @@
     {
       "v": "0.3.1@bb825f18239dcee6720bb679e2518f7f1a8059c9^",
       "r": [],
-      "m": "~",
-      "x": [],
-      "z": [],
-      "p": []
-    },
-    {
-      "v": "#head@bb825f18239dcee6720bb679e2518f7f1a8059c9",
-      "r": [],
-      "m": "~",
       "x": [],
       "z": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:38Z",
+  "generatedAt": "2026-05-26T13:16:46Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nake",
   "fqn": "nake.fowlmouth.github.com",
-  "head": "63e87e1713459588f33844280de9821ba04e34c6",
   "author": "fowl",
   "description": "make-like for Nim. Describe your builds as tasks!",
   "license": "MIT",
@@ -21,7 +20,6 @@
     {
       "v": "1.9.5@63e87e1713459588f33844280de9821ba04e34c6^",
       "r": [],
-      "m": "~",
       "j": [],
       "p": []
     },
@@ -35,7 +33,6 @@
         "nakefile.nim",
         "nakelib.nim"
       ],
-      "m": "~",
       "p": []
     },
     {
@@ -48,7 +45,6 @@
         "nakefile.nim",
         "nakelib.nim"
       ],
-      "m": "~",
       "p": []
     },
     {
@@ -61,7 +57,6 @@
         "nakefile.nim",
         "nakelib.nim"
       ],
-      "m": "~",
       "p": []
     },
     {
@@ -74,7 +69,6 @@
         "nakefile.nim",
         "nakelib.nim"
       ],
-      "m": "~",
       "p": []
     },
     {
@@ -87,20 +81,17 @@
         "nakefile.nim",
         "nakelib.nim"
       ],
-      "m": "~",
       "p": []
     },
     {
       "v": "1.8@b6e82f4aeaca88494cfe34fd4f2e726cc33fd86b",
       "r": [],
-      "m": "~",
       "j": [],
       "p": []
     },
     {
       "v": "1.6@112f48c2b6a3a3af429938299ed3923e1d23f59f",
       "r": [],
-      "m": "~",
       "j": [],
       "p": []
     },
@@ -108,7 +99,6 @@
       "v": "1.4@0b23e746658e0711584f5c3ba782cba614ebd188",
       "r": [],
       "l": "DATWPL",
-      "m": "~",
       "j": [],
       "p": []
     },
@@ -117,7 +107,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "j": [],
       "p": []
     },
@@ -126,7 +115,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "j": [],
       "p": []
     },
@@ -135,20 +123,12 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "j": [],
-      "p": []
-    },
-    {
-      "v": "#head@63e87e1713459588f33844280de9821ba04e34c6",
-      "r": [],
-      "m": "~",
       "j": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:51Z",
+  "generatedAt": "2026-05-26T13:16:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

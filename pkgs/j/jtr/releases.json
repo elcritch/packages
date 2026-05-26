@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "jtr",
   "fqn": "jtr.u1and0.github.com",
-  "head": "62934239e6bbbcef8a89dc94b83145c64f1e68e5",
   "author": "u1and0",
   "description": "jtr is a commmand of JSON tree viewer with type",
   "license": "MIT",
@@ -18,24 +17,18 @@
     {
       "v": "0.2.8@59dc60fd544805809a91b437b8e8ac21bbf30980",
       "r": [],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
     {
       "v": "0.2.7@1c3d860e5e5210e8171560ef277f2bf5c58adf71",
       "r": [],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
     {
       "v": "0.2.6@764a4270cdc3278afe580c2899e60122eb409bbc",
       "r": [],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -44,8 +37,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -54,8 +45,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -64,8 +53,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -74,8 +61,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -84,8 +69,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -94,8 +77,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -104,8 +85,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -114,22 +93,12 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "s": "",
-      "k": [],
-      "p": []
-    },
-    {
-      "v": "#head@62934239e6bbbcef8a89dc94b83145c64f1e68e5",
-      "r": [],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:29Z",
+  "generatedAt": "2026-05-26T13:15:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

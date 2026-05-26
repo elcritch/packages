@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "spectra",
   "fqn": "spectra.ph4mished.github.com",
-  "head": "313a5ee74e599d20046defb95b30377eba331a99",
   "author": "Jonathan Botchway Owusu",
   "description": "Spectra is a simple text coloring, styling and formatting library",
   "license": "MIT",
@@ -18,40 +17,30 @@
     {
       "v": "0.4.0@5d7ff723e62aeff42d62ff6242875126869b0f63",
       "r": [],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
     {
       "v": "0.3.0@fcde2b5ed758f582169a5e3e66c99c39394b2747",
       "r": [],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
     {
       "v": "0.2.3@f6b5980cc41c147285ff0e9098cbe1398b02283d",
       "r": [],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
     {
       "v": "0.2.2@e6505dcf106994c3f8d21c2cd73f06ab4c2f58d1",
       "r": [],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
     {
       "v": "0.2.1@0ba7cfd950192b6af3f05da5058be5f6ae940058",
       "r": [],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -60,21 +49,11 @@
       "r": [],
       "d": "Huewheel is a simple text coloring, styling and formatting library",
       "k": [],
-      "p": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@313a5ee74e599d20046defb95b30377eba331a99",
-      "r": [],
-      "m": "~",
-      "s": "",
-      "k": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:07Z",
+  "generatedAt": "2026-05-26T13:19:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

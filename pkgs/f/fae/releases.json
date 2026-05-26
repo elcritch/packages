@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "fae",
   "fqn": "fae.h3rald.github.com",
-  "head": "19479c7091968a79b96bd250a9dd89e579437c39",
   "nim": "1.4.0",
   "srcDir": "src",
   "installExt": [
@@ -14,8 +13,6 @@
     {
       "v": "1.1.0@9682afb0008d0ef053c89ca17b19e92216631f4f",
       "r": [],
-      "m": "~",
-      "s": "",
       "k": []
     },
     {
@@ -24,20 +21,11 @@
         "nifty"
       ],
       "h": true,
-      "m": "~",
-      "s": "",
-      "k": []
-    },
-    {
-      "v": "#head@19479c7091968a79b96bd250a9dd89e579437c39",
-      "r": [],
-      "m": "~",
-      "s": "",
       "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:28Z",
+  "generatedAt": "2026-05-26T13:13:52Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

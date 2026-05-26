@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimpmda",
   "fqn": "nimpmda.jasonk000.github.com",
-  "head": "4cee6d75c11cdd747c1ca78c2003a10f75931573",
   "author": "Jason Koch",
   "description": "PCP PMDA module bindings",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@0037375668674ae4b24ea4db9afcef3bc9479039",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@4cee6d75c11cdd747c1ca78c2003a10f75931573",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:08Z",
+  "generatedAt": "2026-05-26T13:17:07Z",
   "allDeps": {
     "packages": [],
     "urls": [],

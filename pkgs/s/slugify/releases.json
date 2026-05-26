@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "slugify",
   "fqn": "slugify.lenniezelk.github.com",
-  "head": "41deb11da228a41a33ae46cf07d5b94f50893ebe",
   "author": "Leonard Kioi Kinyanjui",
   "description": "Convert strings to a slug. Can be used for URLs, file names, IDs etc.",
   "license": "MIT",
@@ -11,25 +10,15 @@
   "releases": [
     {
       "v": "0.2.0@41deb11da228a41a33ae46cf07d5b94f50893ebe^",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.0@d4337a87b4d9bf80ef2689016b7a29d57ee6a9db",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@41deb11da228a41a33ae46cf07d5b94f50893ebe",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:58Z",
+  "generatedAt": "2026-05-26T13:19:06Z",
   "allDeps": {
     "packages": [],
     "urls": [],

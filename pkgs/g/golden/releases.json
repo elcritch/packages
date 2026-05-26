@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "golden",
   "fqn": "golden.disruptek.github.com",
-  "head": "17a40fbb43378249d53942cabde61836ab196651",
   "author": "disruptek",
   "description": "a benchmark tool",
   "license": "MIT",
@@ -23,8 +22,6 @@
         "nimterop >= 0.6.2 & < 1.0.0",
         "cligen >= 0.9.40"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -37,8 +34,6 @@
         "gh:disruptek/gittyup >= 2.4.4 & < 3.0.0",
         "cligen >= 0.9.40"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -51,8 +46,6 @@
         "gh:disruptek/gittyup >= 2.1.13",
         "cligen >= 0.9.40"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -68,7 +61,6 @@
         "cligen >= 0.9.40"
       ],
       "m": "0.20.0",
-      "s": "",
       "p": []
     },
     {
@@ -84,7 +76,6 @@
         "cligen >= 0.9.40"
       ],
       "m": "0.20.0",
-      "s": "",
       "p": []
     },
     {
@@ -100,7 +91,6 @@
         "cligen >= 0.9.40"
       ],
       "m": "0.20.0",
-      "s": "",
       "p": []
     },
     {
@@ -116,7 +106,6 @@
         "cligen >= 0.9.40"
       ],
       "m": "0.20.0",
-      "s": "",
       "p": []
     },
     {
@@ -132,7 +121,6 @@
         "cligen >= 0.9.40"
       ],
       "m": "0.20.0",
-      "s": "",
       "p": []
     },
     {
@@ -148,7 +136,6 @@
         "cligen >= 0.9.40"
       ],
       "m": "0.20.0",
-      "s": "",
       "p": []
     },
     {
@@ -164,7 +151,6 @@
         "cligen >= 0.9.40"
       ],
       "m": "0.20.0",
-      "s": "",
       "p": []
     },
     {
@@ -180,7 +166,6 @@
         "cligen >= 0.9.40"
       ],
       "m": "0.20.0",
-      "s": "",
       "p": []
     },
     {
@@ -196,7 +181,6 @@
         "cligen >= 0.9.40"
       ],
       "m": "0.20.0",
-      "s": "",
       "p": []
     },
     {
@@ -212,7 +196,6 @@
         "cligen >= 0.9.40"
       ],
       "m": "0.20.0",
-      "s": "",
       "p": []
     },
     {
@@ -227,7 +210,6 @@
         "cligen >= 0.9.40"
       ],
       "m": "0.20.0",
-      "s": "",
       "p": []
     },
     {
@@ -242,7 +224,6 @@
         "cligen >= 0.9.39"
       ],
       "m": "0.20.0",
-      "s": "",
       "p": []
     },
     {
@@ -257,7 +238,6 @@
         "nimgit2 0.1.0"
       ],
       "m": "0.20.0",
-      "s": "",
       "p": []
     },
     {
@@ -272,7 +252,6 @@
         "nimgit2 0.1.0"
       ],
       "m": "0.20.0",
-      "s": "",
       "p": []
     },
     {
@@ -287,7 +266,6 @@
         "nimgit2 0.1.0"
       ],
       "m": "0.20.0",
-      "s": "",
       "p": []
     },
     {
@@ -302,7 +280,6 @@
         "nimgit2 0.1.0"
       ],
       "m": "0.20.0",
-      "s": "",
       "p": []
     },
     {
@@ -317,7 +294,6 @@
         "nimgit2 0.1.0"
       ],
       "m": "0.20.0",
-      "s": "",
       "p": []
     },
     {
@@ -332,7 +308,6 @@
         "gh:genotrance/nimgit2"
       ],
       "m": "0.20.0",
-      "s": "",
       "p": []
     },
     {
@@ -347,7 +322,6 @@
         "gh:genotrance/nimgit2"
       ],
       "m": "0.20.0",
-      "s": "",
       "p": []
     },
     {
@@ -362,7 +336,6 @@
         "gh:genotrance/nimgit2"
       ],
       "m": "0.20.0",
-      "s": "",
       "p": []
     },
     {
@@ -377,7 +350,6 @@
       ],
       "d": "a nim benchmark",
       "m": "0.20.0",
-      "s": "",
       "p": []
     },
     {
@@ -392,7 +364,6 @@
       ],
       "d": "a nim benchmark",
       "m": "0.20.0",
-      "s": "",
       "p": []
     },
     {
@@ -404,7 +375,6 @@
       ],
       "d": "a nim benchmark",
       "m": "0.20.0",
-      "s": "",
       "p": []
     },
     {
@@ -416,7 +386,6 @@
       ],
       "d": "a nim benchmark",
       "m": "0.20.0",
-      "s": "",
       "p": []
     },
     {
@@ -427,7 +396,6 @@
       ],
       "d": "a nim benchmark",
       "m": "0.20.0",
-      "s": "",
       "p": []
     },
     {
@@ -438,7 +406,6 @@
       ],
       "d": "a nim benchmark",
       "m": "0.20.0",
-      "s": "",
       "p": []
     },
     {
@@ -448,75 +415,11 @@
       ],
       "d": "a nim benchmark",
       "m": "0.20.0",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@17a40fbb43378249d53942cabde61836ab196651",
-      "r": [
-        "foreach >= 1.0.2",
-        "bump >= 1.8.15",
-        "msgpack4nim 0.2.9",
-        "terminaltables #82ee5890c13e381de0f11c8ba6fe484d7c0c2f19",
-        "gh:disruptek/gittyup >= 2.4.4 & < 3.0.0",
-        "nimterop >= 0.6.2 & < 1.0.0",
-        "cligen >= 0.9.40"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:27Z",
-  "allDeps": {
-    "packages": [
-      "bump > 3.0.1",
-      "bumpy > 1.1.3 & <= 3.0.12",
-      "chroma > 1.1.3 & <= 3.0.12",
-      "cligen",
-      "crunchy > 1.1.3 & <= 3.0.12",
-      "faststreams > 1.1.3 & <= 3.0.12",
-      "flatty > 1.1.3 & <= 3.0.12",
-      "flippy > 1.1.3 & <= 3.0.12",
-      "foreach > 0.0.1",
-      "graphemes > 2.3.1",
-      "lmdb > 1.1.3 & <= 3.0.12",
-      "mddoc > 1.1.3 & <= 3.0.12",
-      "msgpack4nim > 1.1.3",
-      "nimPNG > 1.1.3 & <= 3.0.12",
-      "nimetry > 1.1.3 & <= 3.0.12",
-      "nimgit2 > 2.3.1 & <= 3.0.12",
-      "nimsimd > 1.1.3 & <= 3.0.12",
-      "nimterop > 2.3.1",
-      "pixie > 1.1.3 & <= 3.0.12",
-      "print > 1.1.3 & <= 3.0.12",
-      "regex > 2.3.1",
-      "results > 1.1.3 & <= 3.0.12",
-      "segmentation > 2.3.1",
-      "snappy > 1.1.3 & <= 3.0.12",
-      "stb_image > 1.1.3 & <= 3.0.12",
-      "stew > 1.1.3 & <= 3.0.12",
-      "supersnappy > 1.1.3 & <= 3.0.12",
-      "terminaltables > 2.1.0",
-      "typography > 1.1.3 & <= 3.0.12",
-      "unicodedb > 2.3.1",
-      "unicodeplus > 2.3.1",
-      "unittest2 > 1.1.3 & <= 3.0.12",
-      "vmath > 1.1.3 & <= 3.0.12",
-      "zippy > 1.1.3 & <= 3.0.12"
-    ],
-    "urls": [],
-    "unresolved": [
-      "gh:disruptek/cligen",
-      "gh:disruptek/cutelog",
-      "gh:disruptek/gittyup",
-      "gh:disruptek/msgpack4nim",
-      "gh:disruptek/nim-terminaltables",
-      "gh:disruptek/testes",
-      "gh:genotrance/nimgit2"
-    ]
-  },
+  "generatedAt": "2026-05-26T13:14:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -544,5 +447,49 @@
       "3.0.9"
     ],
     "latest": "3.0.15"
+  },
+  "allDeps": {
+    "packages": [
+      "bump > 3.0.1",
+      "bumpy > 1.1.3 & <= 3.0.12",
+      "chroma > 1.1.3 & <= 3.0.12",
+      "cligen",
+      "crunchy > 1.1.3 & <= 3.0.12",
+      "flatty > 1.1.3 & <= 3.0.12",
+      "flippy > 1.1.3 & <= 3.0.12",
+      "foreach > 0.0.1",
+      "graphemes > 2.3.1",
+      "lmdb > 1.1.3 & <= 3.0.12",
+      "mddoc > 1.1.3 & <= 3.0.12",
+      "msgpack4nim > 1.1.3",
+      "nimPNG > 1.1.3 & <= 3.0.12",
+      "nimetry > 1.1.3 & <= 3.0.12",
+      "nimgit2 > 2.3.1 & <= 3.0.12",
+      "nimsimd > 1.1.3 & <= 3.0.12",
+      "nimterop > 2.3.1",
+      "pixie > 1.1.3 & <= 3.0.12",
+      "print > 1.1.3 & <= 3.0.12",
+      "regex > 2.3.1",
+      "segmentation > 2.3.1",
+      "snappy > 1.1.3 & <= 3.0.12",
+      "stb_image > 1.1.3 & <= 3.0.12",
+      "supersnappy > 1.1.3 & <= 3.0.12",
+      "terminaltables > 2.1.0",
+      "typography > 1.1.3 & <= 3.0.12",
+      "unicodedb > 2.3.1",
+      "unicodeplus > 2.3.1",
+      "vmath > 1.1.3 & <= 3.0.12",
+      "zippy > 1.1.3 & <= 3.0.12"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:disruptek/cligen",
+      "gh:disruptek/cutelog",
+      "gh:disruptek/gittyup",
+      "gh:disruptek/msgpack4nim",
+      "gh:disruptek/nim-terminaltables",
+      "gh:disruptek/testes",
+      "gh:genotrance/nimgit2"
+    ]
   }
 }

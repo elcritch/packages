@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "rosencrantz",
   "fqn": "rosencrantz.andreaferretti.github.com",
-  "head": "464ae0a64e6691005676c743902738fd4979ba22",
   "author": "Andrea Ferretti",
   "description": "Web server DSL",
   "license": "Apache2",
@@ -18,56 +17,48 @@
     {
       "v": "0.4.3@464ae0a64e6691005676c743902738fd4979ba22^",
       "r": [],
-      "m": "~",
       "x": [],
       "y": []
     },
     {
       "v": "0.4.2@d68a4c08ab1aadee315f1b3a6e99316eab354f9e",
       "r": [],
-      "m": "~",
       "x": [],
       "y": []
     },
     {
       "v": "0.4.1@cfcbcc08636a6a7166c9f2f6f40fe352fa0ec1dd",
       "r": [],
-      "m": "~",
       "x": [],
       "y": []
     },
     {
       "v": "0.4.0@cbdebace042fba7a1002831fabb8b7c9df21a5d0",
       "r": [],
-      "m": "~",
       "x": [],
       "y": []
     },
     {
       "v": "0.3.9@b101e770da99188f2af2a2b8c862a00fee46a8cc",
       "r": [],
-      "m": "~",
       "x": [],
       "y": []
     },
     {
       "v": "0.3.8@d7d4efe0883f72fb2649d4c5b1a2da73831e5860",
       "r": [],
-      "m": "~",
       "x": [],
       "y": []
     },
     {
       "v": "0.3.7@151f913a8ef5bc9c90aba994450424f625bbcac4",
       "r": [],
-      "m": "~",
       "x": [],
       "y": []
     },
     {
       "v": "0.3.6@4bdb26208b55270c709b87ce937e56beda72a055",
       "r": [],
-      "m": "~",
       "x": [],
       "y": []
     },
@@ -305,17 +296,10 @@
       ],
       "m": "0.13.0",
       "y": []
-    },
-    {
-      "v": "#head@464ae0a64e6691005676c743902738fd4979ba22",
-      "r": [],
-      "m": "~",
-      "x": [],
-      "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:21Z",
+  "generatedAt": "2026-05-26T13:18:39Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "winregistry",
   "fqn": "nim-registry.miere43.github.com",
-  "head": "5b9dc4dcf2254f7b1d0d32a57931d95ecddd0f97",
   "author": "Vladislav <miere> Vorobiev",
   "description": "Deal with Windows Registry from Nim",
   "license": "MIT",
@@ -10,18 +9,15 @@
   "releases": [
     {
       "v": "2.1.0@31c37dd48f6c9eb657f68c0f7b6f44f7adba5b3d",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "2.0.0@d5d157b1263de2c558da06ed84c8ac9d70b85da6",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "1.0.0@ce65d6412539296cce544ae3cded90040fbb290b",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "0.2.1@43da083bbc19099bcfa95d024d5cc9e64109c4ba",
@@ -42,15 +38,10 @@
       "v": "0.1.7@2ebfc65aa7f3c0c91c7a48bc40cdbdcebf8c2038",
       "r": [],
       "m": "0.14.0"
-    },
-    {
-      "v": "#head@31c37dd48f6c9eb657f68c0f7b6f44f7adba5b3d",
-      "r": [],
-      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:58Z",
+  "generatedAt": "2026-05-26T13:20:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

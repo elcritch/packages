@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "libcurl",
   "fqn": "libcurl.Araq.github.com",
-  "head": "eecbfc31e17ae2f09f0b6d2aaefcfb970c7d2be4",
   "author": "Andreas Rumpf, Dominik Picheta",
   "description": "Nim wrapper for libcurl.",
   "license": "MIT",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "1.0.0@45b2b0bb753fe2376a205a183b2b3f291e19ba14",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@eecbfc31e17ae2f09f0b6d2aaefcfb970c7d2be4",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:46Z",
+  "generatedAt": "2026-05-26T13:15:25Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimics",
   "fqn": "nimics.ThomasTJdev.github.com",
-  "head": "4a384ac9483e848de40ddac791295b6fd5af55cf",
   "author": "ThomasTJdev",
   "description": "Create ICS files for email invites, eg. invite.ics",
   "license": "MIT",
@@ -11,25 +10,15 @@
   "releases": [
     {
       "v": "0.2.0@4a384ac9483e848de40ddac791295b6fd5af55cf^",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.0@9ca08ee5e0829dca58e303604b04824bdc079e64",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@4a384ac9483e848de40ddac791295b6fd5af55cf",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:51Z",
+  "generatedAt": "2026-05-26T13:16:56Z",
   "allDeps": {
     "packages": [],
     "urls": [],

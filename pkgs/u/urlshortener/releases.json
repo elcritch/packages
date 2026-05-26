@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "urlshortener",
   "fqn": "UrlShortener.jabbalaci.github.com",
-  "head": "53769e0b85b8b782df5cb54c51b5487e293e9906",
   "author": "Laszlo Szathmary (Jabba Laci)",
   "description": "A URL shortener cli app. using bit.ly",
   "license": "MIT",
@@ -14,18 +13,11 @@
     {
       "v": "0.1.0@8c7678df7ced0a6ba9b17c85a6284cf4e13c477a",
       "r": [],
-      "m": "~",
-      "p": []
-    },
-    {
-      "v": "#head@53769e0b85b8b782df5cb54c51b5487e293e9906",
-      "r": [],
-      "m": "~",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:22Z",
+  "generatedAt": "2026-05-26T13:20:04Z",
   "allDeps": {
     "packages": [],
     "urls": [],

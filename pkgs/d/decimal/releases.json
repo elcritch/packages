@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "decimal",
   "fqn": "nim-decimal.inv2004.github.com",
-  "head": "94043c19f9a4e9ece322d24d8a4564ed090eab00",
   "author": "Status Research & Development GmbH",
   "description": "A correctly-rounded arbitrary precision decimal floating point arithmetic library",
   "license": "(MIT or Apache License 2.0) and Simplified BSD",
@@ -11,31 +10,20 @@
   "releases": [
     {
       "v": "0.0.1@50b197b09a6e7c73d02899cb36cdb5d629d819f6",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.0.2@d29d8425392167307231f6e0f7834703e0ecaf3b",
-      "r": [],
-      "s": "",
-      "m": "~"
+      "r": []
     },
     {
       "v": "0.0.4@bca7cc0f4f92b43f16b875b5a13ead1d8b1b4a88",
       "r": [],
-      "m": "2.0.0",
-      "s": ""
-    },
-    {
-      "v": "#head@94043c19f9a4e9ece322d24d8a4564ed090eab00",
-      "r": [],
-      "m": "2.0.0",
-      "s": ""
+      "m": "2.0.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:49Z",
+  "generatedAt": "2026-05-26T13:13:27Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "base62",
   "fqn": "base62-encode.singularperturbation.github.com",
-  "head": "40a55eb886822ff1d27bfc4471f4e0c22d70eaec",
   "author": "Anonymous",
   "description": "New Nimble project for Nim",
   "license": "MIT",
@@ -10,16 +9,10 @@
     {
       "v": "0.1.0@d5f452e88e2e47a1d8598aff2885c6d6db971b16",
       "r": []
-    },
-    {
-      "v": "#head@40a55eb886822ff1d27bfc4471f4e0c22d70eaec",
-      "r": [],
-      "a": "perturbation",
-      "d": "Encoder/Decoder.  Defaults to Base-62, but allows for an arbitrary alphabet."
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:19Z",
+  "generatedAt": "2026-05-26T13:12:19Z",
   "allDeps": {
     "packages": [],
     "urls": [],

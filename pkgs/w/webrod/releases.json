@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "webrod",
   "fqn": "webrod.j-a-s-d.github.com",
-  "head": "99523ad58e2c7f185cc2c0864133073a021da926",
   "author": "Javier Santo Domingo",
   "description": "webrod",
   "license": "MIT",
@@ -13,49 +12,31 @@
       "v": "0.5.0@1171e92a862f7388f9a67a5b6e1e6bc6195d332b",
       "r": [
         "xam >= 1.0.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.4.0@6fff6cf660f47c243872bd48ef9b993c20697672",
       "r": [
         "xam >= 0.3.2"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.3.0@e6060c5518cf915a45f6866656cdbc8151b6cdf1",
       "r": [
         "xam >= 0.1.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.2.0@8a8541b14becc3dc34da70f514189af96aff98d9",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.0@1e5a68f4510e073c50e439880a5b7f83440483c3",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@99523ad58e2c7f185cc2c0864133073a021da926",
-      "r": [
-        "xam >= 1.9.0"
-      ],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:45Z",
+  "generatedAt": "2026-05-26T13:20:20Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

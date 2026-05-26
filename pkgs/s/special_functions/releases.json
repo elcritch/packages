@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "special_functions",
   "fqn": "special-functions.ayman-albaz.github.com",
-  "head": "c3cd100b0d656aaf55d611b131f7650f50994277",
   "author": "ayman albaz",
   "description": "Special mathematical functions in Nim",
   "license": "Apache-2.0",
@@ -11,31 +10,19 @@
   "releases": [
     {
       "v": "0.2.0@2bfe5dc8fe6c5706e3ac3d4ae407932cb2f7fa54",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.1@3ae28de56ad31d397dcff65308ae5e779b7954e4",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.0@6ef0038537ac964ef910f5ee4b0d3b28bca0c8be",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@c3cd100b0d656aaf55d611b131f7650f50994277",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:06Z",
+  "generatedAt": "2026-05-26T13:19:11Z",
   "allDeps": {
     "packages": [],
     "urls": [],

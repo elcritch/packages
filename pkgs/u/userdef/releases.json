@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "userdef",
   "fqn": "userdef.theAkito.github.com",
-  "head": "d4f2371a4f1b4123a2085020660848d4922f28f3",
   "author": "Akito <the@akito.ooo>",
   "description": "A more advanced adduser for your Alpine based Docker images.",
   "license": "GPL-3.0-or-later",
@@ -26,8 +25,6 @@
       "r": [
         "useradd >= 0.3.0"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "y": [],
       "z": [],
@@ -38,8 +35,6 @@
       "r": [
         "useradd >= 0.3.0"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "y": [],
       "z": [],
@@ -50,8 +45,6 @@
       "r": [
         "useradd >= 0.1.0"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "y": [],
       "z": [],
@@ -60,8 +53,6 @@
     {
       "v": "0.2.0@53f745b0545232f8a6b404d31b12c20b7ff35f34",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": [],
       "y": [],
       "z": [],
@@ -70,20 +61,6 @@
     {
       "v": "0.1.0@41e208b43161f6f1c900e2631a40460a1985f19c",
       "r": [],
-      "m": "~",
-      "s": "",
-      "x": [],
-      "y": [],
-      "z": [],
-      "p": []
-    },
-    {
-      "v": "#head@d4f2371a4f1b4123a2085020660848d4922f28f3",
-      "r": [
-        "useradd >= 0.3.0"
-      ],
-      "m": "~",
-      "s": "",
       "x": [],
       "y": [],
       "z": [],
@@ -91,7 +68,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:23Z",
+  "generatedAt": "2026-05-26T13:20:05Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

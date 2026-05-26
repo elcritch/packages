@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "optionsutils",
   "fqn": "nim-optionsutils.PMunch.github.com",
-  "head": "afd76544ea3996b221d8a159f5413cdb91f7f7f6",
   "author": "PMunch",
   "description": "Utility macros for easier handling of options in Nim",
   "license": "MIT",
@@ -11,37 +10,23 @@
   "releases": [
     {
       "v": "1.2.0@972ac3e7498de13f78c3dbbcad76c62b54112e2e",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "1.1.2@ebd628f1f1b19f6b7288d9dea8267db7f0fb3dd3",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "1.1.1@bf7fbf03838c6ccef207a4d8abd1e72e2289fd1b",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "1.1.0@291d4b56dc0319652bd563890e061a17160d3cfd",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@afd76544ea3996b221d8a159f5413cdb91f7f7f6",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:08Z",
+  "generatedAt": "2026-05-26T13:17:49Z",
   "allDeps": {
     "packages": [],
     "urls": [],

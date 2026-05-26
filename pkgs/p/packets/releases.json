@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "packets",
   "fqn": "packets.nim.Q-Master.github.com",
-  "head": "e2a6f387a3b6e57c9eb71ef147fb2d8ef38415c6",
   "author": "Vladimir Berezenko <qmaster2000@gmail.com>",
   "description": "Pure Nim declarative packets system for serializing/deserializing",
   "license": "MIT",
@@ -10,63 +9,51 @@
   "releases": [
     {
       "v": "2.3.3@e2a6f387a3b6e57c9eb71ef147fb2d8ef38415c6^",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "2.3.0@748cea8d4a50bf4327f727710e8fd377b1de501f",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "2.2.2@2b62bdf7164dd0ea321a339a7abe9e722c0f693e",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "2.2.1@1e8e88e473e0f9e67ec22e584fb63f6ad3dd18db",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "2.2.0@6be15af698fe1e4170b9ddba6fcbea4c12038840",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "2.1.0@4d517c7ceabf99b3a28342b53a58bd47ba8303de",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "2.0.0@2d83ac3b27362c60a952ff5d8f6137df5fa28828",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "1.0.4@2de49171741fdc2ca74a7dcfde3be7e27240d55f",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "1.0.3@888b37bea2379e333cbbfbdc0774b6ebb0837f24",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "1.0.2@613b802492f1f4c2faca5aa705473d17929321aa",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "1.0.1@a331830fd108ad40507783fa5a29c495617215ff",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "1.0.0@c8cb353f741f6e35f300d5c7750b5dec67ab94b6",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "0.9.0@162c03854bf746ce7d1107911eb6f8efd662a463",
@@ -128,15 +115,10 @@
         "packedjson"
       ],
       "m": "1.4.00"
-    },
-    {
-      "v": "#head@e2a6f387a3b6e57c9eb71ef147fb2d8ef38415c6",
-      "r": [],
-      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:16Z",
+  "generatedAt": "2026-05-26T13:17:54Z",
   "allDeps": {
     "packages": [
       "packedjson <= 0.5.1"

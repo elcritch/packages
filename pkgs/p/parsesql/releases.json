@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "parsesql",
   "fqn": "parsesql.nim-lang.github.com",
-  "head": "7045360405a3593a396e53b0cea076b903c2e1b1",
   "author": "ringabout",
   "description": "a high performance SQL file parser",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@6462828bc2df864de6b421366d27b9eebca131f6",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@7045360405a3593a396e53b0cea076b903c2e1b1",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:23Z",
+  "generatedAt": "2026-05-26T13:17:59Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

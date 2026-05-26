@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "businessdays",
   "fqn": "businessdays.GeK2K.github.com",
-  "head": "66a42ef020ef7459d08c8e8addcdd882e903fd80",
   "author": "Georges Kayo de Kayo",
   "description": "Business Days (or Working Days) calculator.",
   "license": "MIT",
@@ -15,31 +14,18 @@
         "questionable >= 0.10.10",
         "easter >= 0.1.0",
         "nudates >= 0.3.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.2@66a42ef020ef7459d08c8e8addcdd882e903fd80^",
       "r": [
         "questionable >= 0.10.10",
         "nimutils >= 0.2.0"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@66a42ef020ef7459d08c8e8addcdd882e903fd80",
-      "r": [
-        "questionable >= 0.10.10",
-        "nimutils >= 0.2.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:53Z",
+  "generatedAt": "2026-05-26T13:12:43Z",
   "allDeps": {
     "packages": [
       "easter <= 0.1.0",

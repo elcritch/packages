@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "fixmath",
   "fqn": "fixmath.Jeff-Ciesielski.github.com",
-  "head": "e51e50a4baa63617e8308aed3491986e13672234",
   "author": "Jeff Ciesielski",
   "description": "LibFixMath 16:16 fixed point support for nim",
   "license": "MIT",
@@ -10,22 +9,15 @@
   "releases": [
     {
       "v": "0.1.0@aa50db634dadcff592be64332c4be4e5964ed407",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "0.2.0@e51e50a4baa63617e8308aed3491986e13672234^",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@e51e50a4baa63617e8308aed3491986e13672234",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:48Z",
+  "generatedAt": "2026-05-26T13:14:05Z",
   "allDeps": {
     "packages": [],
     "urls": [],

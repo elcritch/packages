@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "groovebox",
   "fqn": "groovebox.openpeeps.github.com",
-  "head": "c75131f936349c544b66f26ec02a9e63dfd86ad6",
   "author": "George Lemon",
   "description": "Live stream pre-recorded media to Twitch, Yotube and Icecast servers",
   "license": "AGPL-3.0-or-later",
@@ -22,8 +21,6 @@
         "malebolgia #head",
         "nyml #head"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -36,8 +33,6 @@
         "malebolgia #head",
         "nyml #head"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -50,36 +45,28 @@
         "malebolgia #head",
         "nyml #head"
       ],
-      "m": "~",
-      "s": "",
-      "b": "",
-      "p": []
-    },
-    {
-      "v": "#head@c75131f936349c544b66f26ec02a9e63dfd86ad6",
-      "r": [
-        "kapsis #head",
-        "libevent #head",
-        "rtmp #head",
-        "malebolgia #head",
-        "nyml #head",
-        "openparser #head"
-      ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:31Z",
+  "generatedAt": "2026-05-26T13:14:33Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.1.1",
+      "0.1.2"
+    ],
+    "latest": "0.1.2"
+  },
   "allDeps": {
     "packages": [
       "ansiparse",
       "bigints",
-      "blackpaper",
       "checksums",
-      "floof",
       "htmlparser",
       "illwill",
       "jsony",
@@ -104,16 +91,5 @@
     ],
     "urls": [],
     "unresolved": []
-  },
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "0.1.1",
-      "0.1.2"
-    ],
-    "latest": "0.1.2"
   }
 }

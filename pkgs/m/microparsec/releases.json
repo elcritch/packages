@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "microparsec",
   "fqn": "microparsec.schneiderfelipe.github.com",
-  "head": "d098696de6ed98ad906229ec7f88584a96589819",
   "author": "Felipe S. S. Schneider",
   "description": "A performant Nim parsing library built for humans.",
   "license": "MIT",
@@ -13,21 +12,11 @@
       "v": "0.1@a388d319b64d572e2bedf3e7b1def0013135f2e8",
       "r": [
         "results >= 0.2.0"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@d098696de6ed98ad906229ec7f88584a96589819",
-      "r": [
-        "results >= 0.2.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:31Z",
+  "generatedAt": "2026-05-26T13:15:58Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

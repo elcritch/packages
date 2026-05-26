@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "configparser",
   "fqn": "nim-configparser.xmonader.github.com",
-  "head": "7e805b43d76e4943bac26288f6f7d85bfc19eb02",
   "author": "xmonader",
   "description": "pure INI configurations parser",
   "license": "MIT",
@@ -11,20 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@fae4cc1b3bd20d5f5a7c3cf7316f9cdff602276e",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@7e805b43d76e4943bac26288f6f7d85bfc19eb02",
-      "r": [],
-      "d": "pure Ini configurations parser",
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:27Z",
+  "generatedAt": "2026-05-26T13:13:11Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "hyprland_ipc",
   "fqn": "hyprland_ipc.xTrayambak.github.com",
-  "head": "006140898a2aaf6705e57427fcc1480bc639c696",
   "author": "xTrayambak",
   "description": "A Nim interface for the Hyprland IPC",
   "license": "MIT",
@@ -13,21 +12,11 @@
       "v": "0.1.0@9477605f24ddf5e9d553a1c7386214210e3c77ed",
       "r": [
         "jsony"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@006140898a2aaf6705e57427fcc1480bc639c696",
-      "r": [
-        "jsony >= 1.1.5"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:02Z",
+  "generatedAt": "2026-05-26T13:14:55Z",
   "allDeps": {
     "packages": [
       "jsony"

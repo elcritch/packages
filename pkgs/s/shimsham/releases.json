@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "shimsham",
   "fqn": "shimsham.apense.github.com",
-  "head": "a025c782b8e07827840d8e15501a8e38b3dc4ce4",
   "author": "Jonathan Edwards",
   "description": "Hash/Digest library with various functions",
   "license": "MIT unless otherwise specified",
@@ -36,14 +35,10 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file"
-    },
-    {
-      "v": "#head@a025c782b8e07827840d8e15501a8e38b3dc4ce4",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:43Z",
+  "generatedAt": "2026-05-26T13:18:56Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

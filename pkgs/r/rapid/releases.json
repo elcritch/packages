@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "rapid",
   "fqn": "rapid.liquid600pgm.github.com",
-  "head": "e9712c8dc35954e950c554e75d1fdd1e7548d664",
   "author": "iLiquid",
   "description": "A game engine for rapid development and easy prototyping",
   "license": "MIT",
@@ -15,24 +14,11 @@
         "glm >= 1.1.1",
         "nimterop",
         "nimPNG"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@e9712c8dc35954e950c554e75d1fdd1e7548d664",
-      "r": [
-        "aglet >= 0.4.2",
-        "error://stbimage >= 2.5"
-      ],
-      "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/r/rapid/.worktree/rapid.nimble\ncannot resolve package name: stbimage",
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:07Z",
+  "generatedAt": "2026-05-26T13:18:29Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -45,7 +31,6 @@
   },
   "allDeps": {
     "packages": [
-      "aglet",
       "cligen",
       "glm",
       "graphemes",
@@ -56,12 +41,7 @@
       "unicodedb",
       "unicodeplus"
     ],
-    "urls": [
-      "error://stbimage"
-    ],
-    "unresolved": [
-      "gh:liquid600pgm/nim-glm",
-      "gh:nimgl/glfw"
-    ]
+    "urls": [],
+    "unresolved": []
   }
 }

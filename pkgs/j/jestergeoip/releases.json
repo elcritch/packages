@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "jestergeoip",
   "fqn": "jestergeoip.JohnAD.github.com",
-  "head": "5fa8e4680f3cd975b45dbbd2406421ccefebf6c9",
   "author": "John Dupuy",
   "description": "A plugin for Jester that gets location data from an IP address using a GeoIP library service (currently GeoJS).",
   "license": "MIT",
@@ -17,22 +16,11 @@
       "r": [
         "jesterwithplugins >= 0.5.0"
       ],
-      "m": "~",
-      "s": "",
-      "z": []
-    },
-    {
-      "v": "#head@5fa8e4680f3cd975b45dbbd2406421ccefebf6c9",
-      "r": [
-        "jesterwithplugins >= 0.5.0"
-      ],
-      "m": "~",
-      "s": "",
       "z": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:21Z",
+  "generatedAt": "2026-05-26T13:15:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

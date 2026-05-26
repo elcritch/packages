@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nesm",
   "fqn": "NESM.xomachine.gitlab.com",
-  "head": "2a12410dc021d11405acfd2bf5b35e0d27884327",
   "author": "xomachine (Dmitry Fomichev)",
   "description": "NESM stands for Nim's Easy Serialization Macro. The macro allowing generation of serialization functions by one line of code!",
   "license": "MIT",
@@ -15,7 +14,6 @@
     {
       "v": "0.4.12@2a12410dc021d11405acfd2bf5b35e0d27884327^",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
@@ -144,16 +142,10 @@
       "a": "xomachine (Fomichev Dmitriy)",
       "m": "0.14.2",
       "x": []
-    },
-    {
-      "v": "#head@2a12410dc021d11405acfd2bf5b35e0d27884327",
-      "r": [],
-      "m": "~",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:03Z",
+  "generatedAt": "2026-05-26T13:16:23Z",
   "allDeps": {
     "packages": [],
     "urls": [],

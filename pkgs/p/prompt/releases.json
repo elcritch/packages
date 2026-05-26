@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "prompt",
   "fqn": "nim-prompt.surf1nb1rd.github.com",
-  "head": "b0ea27c34ca7aaee42333541f37b182fa239c844",
   "author": "Surf1nb1rd",
   "description": "Feature-rich readline replacement",
   "license": "BSD2",
@@ -12,19 +11,11 @@
       "v": "0.0.1@b0ea27c34ca7aaee42333541f37b182fa239c844^",
       "r": [
         "unicodedb >= 0.3.2"
-      ],
-      "m": "~"
-    },
-    {
-      "v": "#head@b0ea27c34ca7aaee42333541f37b182fa239c844",
-      "r": [
-        "unicodedb >= 0.3.2"
-      ],
-      "m": "~"
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:50Z",
+  "generatedAt": "2026-05-26T13:18:18Z",
   "allDeps": {
     "packages": [
       "unicodedb"

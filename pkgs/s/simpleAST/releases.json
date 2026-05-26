@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "simpleAST",
   "fqn": "simpleAST.lguzzon-NIM.github.com",
-  "head": "c336503839101e37d050f74c73a89c4060c74a7b",
   "author": "Luca Guzzon",
   "description": "Simple AST in NIM",
   "license": "MIT",
@@ -19,28 +18,24 @@
     {
       "v": "1.2.0@bbdc1915dfee3d5c84ddcb8fffb3b6c523af5f79",
       "r": [],
-      "m": "~",
       "i": [],
       "j": []
     },
     {
       "v": "1.1.6@f4b79c58f99403305533fb9dc41d90e878978ba7",
       "r": [],
-      "m": "~",
       "i": [],
       "j": []
     },
     {
       "v": "1.1.5@d5792768ac6ef3a7180502d44fa3d0be4fcd66ff",
       "r": [],
-      "m": "~",
       "i": [],
       "j": []
     },
     {
       "v": "1.1.4@458a51e44efbaed98b15439e23aebe6887c39264",
       "r": [],
-      "m": "~",
       "i": [],
       "j": []
     },
@@ -78,17 +73,10 @@
       "m": "0.17.0",
       "i": [],
       "j": []
-    },
-    {
-      "v": "#head@c336503839101e37d050f74c73a89c4060c74a7b",
-      "r": [],
-      "m": "~",
-      "i": [],
-      "j": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:51Z",
+  "generatedAt": "2026-05-26T13:19:00Z",
   "allDeps": {
     "packages": [],
     "urls": [],

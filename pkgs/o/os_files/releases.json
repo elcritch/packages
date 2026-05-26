@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "os_files",
   "fqn": "os_files.tormund.github.com",
-  "head": "3f0b72ed24d06d2f1eda59942fef94908c3173e1",
   "author": "Tormund",
   "description": "Native file dialogs (x11, windows, osx) with extension filters and predefined path.\n    System file icons in any resolution (x11 with theme support, windows, osx).\n    Open file in default application (x11, windows, osx)",
   "license": "MIT",
@@ -29,27 +28,15 @@
         "gtk2",
         "jsbind"
       ]
-    },
-    {
-      "v": "#head@3f0b72ed24d06d2f1eda59942fef94908c3173e1",
-      "r": [
-        "oldgtk3",
-        "jsbind",
-        "darwin"
-      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:11Z",
+  "generatedAt": "2026-05-26T13:17:51Z",
   "allDeps": {
     "packages": [
-      "darwin",
       "gtk2",
       "jsbind > 0.1",
-      "oldgtk3",
-      "wasmrt > 0.1",
-      "winim > 0.1.1",
-      "zippy > 0.1"
+      "winim > 0.1.1"
     ],
     "urls": [],
     "unresolved": [

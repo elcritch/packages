@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "fox",
   "fqn": "fox.navid-m.github.com",
-  "head": "ddd533414f1d315907ac15e3762792ea2b3f1b66",
   "author": "Navid M",
   "description": "Hot-reloading for development of applications in Nim ",
   "license": "MIT",
@@ -15,20 +14,11 @@
     {
       "v": "1.0.0@ddd533414f1d315907ac15e3762792ea2b3f1b66^",
       "r": [],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@ddd533414f1d315907ac15e3762792ea2b3f1b66",
-      "r": [],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:54Z",
+  "generatedAt": "2026-05-26T13:14:10Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "torch",
   "fqn": "nimtorch.fragcolor-xyz.github.com",
-  "head": "0ce05bb6040987d9d526890862794b73121cb207",
   "author": "Giovanni Petrantoni",
   "description": "A nim flavor of pytorch",
   "license": "MIT",
@@ -24,7 +23,6 @@
       "r": [
         "fragments >= 0.1.25"
       ],
-      "m": "~",
       "x": [],
       "y": []
     },
@@ -283,19 +281,10 @@
       "m": "0.18.0",
       "x": [],
       "y": []
-    },
-    {
-      "v": "#head@0ce05bb6040987d9d526890862794b73121cb207",
-      "r": [
-        "fragments >= 0.1.27"
-      ],
-      "m": "~",
-      "x": [],
-      "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:00Z",
+  "generatedAt": "2026-05-26T13:19:48Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nmqtt",
   "fqn": "nmqtt.zevv.github.com",
-  "head": "3406d20382123d23fbb198c54728dadfa9155145",
   "author": "zevv & ThomasTJdev & python36",
   "description": "Native MQTT library and binaries for publishing, subscribing and broker",
   "license": "MIT",
@@ -31,8 +30,6 @@
       "r": [
         "cligen >= 0.9.45"
       ],
-      "s": "",
-      "m": "~",
       "b": "",
       "x": [],
       "i": [],
@@ -45,8 +42,6 @@
         "cligen >= 0.9.45"
       ],
       "a": "zevv & ThomasTJdev",
-      "s": "",
-      "m": "~",
       "b": "",
       "x": [],
       "i": [],
@@ -59,8 +54,6 @@
         "cligen >= 0.9.45"
       ],
       "a": "zevv & ThomasTJdev",
-      "s": "",
-      "m": "~",
       "b": "",
       "x": [],
       "i": [],
@@ -73,8 +66,6 @@
         "cligen >= 0.9.45"
       ],
       "a": "zevv & ThomasTJdev",
-      "s": "",
-      "m": "~",
       "b": "",
       "x": [],
       "i": [],
@@ -87,8 +78,6 @@
         "cligen >= 0.9.45"
       ],
       "a": "zevv & ThomasTJdev",
-      "s": "",
-      "m": "~",
       "b": "",
       "x": [],
       "i": [],
@@ -101,8 +90,6 @@
         "cligen >= 0.9.45"
       ],
       "a": "zevv & ThomasTJdev",
-      "s": "",
-      "m": "~",
       "b": "",
       "x": [],
       "i": [],
@@ -116,8 +103,6 @@
         "cligen >= 0.9.45"
       ],
       "a": "zevv & ThomasTJdev",
-      "s": "",
-      "m": "~",
       "b": "",
       "x": [],
       "i": [],
@@ -139,8 +124,6 @@
         "nmqtt_sub"
       ],
       "x": [],
-      "m": "~",
-      "s": "",
       "b": "",
       "i": [],
       "j": []
@@ -154,26 +137,11 @@
       "x": [],
       "i": [],
       "j": [],
-      "p": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@3406d20382123d23fbb198c54728dadfa9155145",
-      "r": [
-        "cligen >= 0.9.45"
-      ],
-      "s": "",
-      "m": "~",
-      "b": "",
-      "x": [],
-      "i": [],
-      "j": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:35Z",
+  "generatedAt": "2026-05-26T13:17:25Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

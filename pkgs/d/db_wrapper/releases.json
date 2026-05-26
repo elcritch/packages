@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "db_wrapper",
   "fqn": "db_wrapper.sivchari.github.com",
-  "head": "6700bf4c9980689e37021cff0b223af4155529fa",
   "author": "sivchari",
   "description": "this libraly able to use database/sql of Go",
   "license": "MIT",
@@ -25,22 +24,12 @@
     {
       "v": "0.1.0@257053d5a1d94de404e82624e9dbcb10ceeea422",
       "r": [],
-      "m": "~",
-      "s": "",
-      "x": [],
-      "y": []
-    },
-    {
-      "v": "#head@6700bf4c9980689e37021cff0b223af4155529fa",
-      "r": [],
-      "m": "~",
-      "s": "",
       "x": [],
       "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:50Z",
+  "generatedAt": "2026-05-26T13:13:29Z",
   "allDeps": {
     "packages": [],
     "urls": [],

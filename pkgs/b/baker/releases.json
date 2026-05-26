@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "baker",
   "fqn": "baker.jasonrbriggs.github.com",
-  "head": "1d45935b6da43fb60f5f6511edfb04090cc9e6b3",
   "author": "Jason R Briggs",
   "description": "Static website generation",
   "license": "Apache-2.0",
@@ -22,8 +21,6 @@
         "timezones >= 0.5.3",
         "ndb >= 0.19.4"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -36,8 +33,6 @@
         "timezones >= 0.5.0",
         "ndb >= 0.19.4"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -51,7 +46,6 @@
         "ndb >= 0.19.4"
       ],
       "m": "0.20.0",
-      "s": "",
       "p": []
     },
     {
@@ -65,7 +59,6 @@
         "ndb >= 0.19.4"
       ],
       "m": "0.20.0",
-      "s": "",
       "p": []
     },
     {
@@ -79,7 +72,6 @@
         "ndb >= 0.19.4"
       ],
       "m": "0.20.0",
-      "s": "",
       "p": []
     },
     {
@@ -93,7 +85,6 @@
         "ndb >= 0.19.4"
       ],
       "m": "0.20.0",
-      "s": "",
       "p": []
     },
     {
@@ -106,7 +97,6 @@
         "timezones >= 0.5.0"
       ],
       "m": "0.20.0",
-      "s": "",
       "p": []
     },
     {
@@ -119,7 +109,6 @@
         "timezones >= 0.5.0"
       ],
       "m": "0.20.0",
-      "s": "",
       "p": []
     },
     {
@@ -127,8 +116,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -136,8 +123,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -145,8 +130,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -154,27 +137,11 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@683d6c9239b6abf7e85bed0b852ad6b4c635b7d2",
-      "r": [
-        "proton >= 0.2.4",
-        "docopt >= 0.6.8",
-        "markdown #v0.8.1",
-        "zip >= 0.2.1",
-        "timezones >= 0.5.3",
-        "ndb >= 0.19.4"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:15Z",
+  "generatedAt": "2026-05-26T13:12:15Z",
   "allDeps": {
     "packages": [
       "docopt > 1.8.3",

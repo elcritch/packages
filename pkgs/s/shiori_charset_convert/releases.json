@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "shiori_charset_convert",
   "fqn": "shiori_charset_convert-nim.Narazaka.github.com",
-  "head": "1f5206548e0c69a48e649837a6a9994ba89482cf",
   "author": "Narazaka",
   "description": "The SHIORI Message charset convert utility",
   "license": "MIT",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "1.0.0@1f5206548e0c69a48e649837a6a9994ba89482cf^",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@1f5206548e0c69a48e649837a6a9994ba89482cf",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:46Z",
+  "generatedAt": "2026-05-26T13:18:56Z",
   "allDeps": {
     "packages": [],
     "urls": [],

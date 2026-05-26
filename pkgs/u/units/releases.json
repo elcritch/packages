@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "units",
   "fqn": "NimUnits.Udiknedormin.github.com",
-  "head": "08ae9675da38530237a3b8e1b5615732f421a8b8",
   "author": "M. Kotwica",
   "description": "Units of measure.",
   "license": "MIT",
@@ -14,18 +13,11 @@
     {
       "v": "0.1.0@977be16818368507d6e958f18ff4a3cdad66dc5c",
       "r": [],
-      "m": "~",
-      "x": []
-    },
-    {
-      "v": "#head@08ae9675da38530237a3b8e1b5615732f421a8b8",
-      "r": [],
-      "m": "~",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:18Z",
+  "generatedAt": "2026-05-26T13:20:00Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "alea",
   "fqn": "alea.andreaferretti.github.com",
-  "head": "2297aac71294b3a5abbe463a39b737de513d883e",
   "author": "Andrea Ferretti",
   "description": "A library to work with random variables",
   "license": "Apache2",
@@ -16,7 +15,6 @@
       "r": [
         "random >= 0.5.6"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -24,7 +22,6 @@
       "r": [
         "random >= 0.5.6"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -32,7 +29,6 @@
       "r": [
         "random >= 0.5.6"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -40,7 +36,6 @@
       "r": [
         "random >= 0.5.4"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -48,7 +43,6 @@
       "r": [
         "random >= 0.5.4"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -74,18 +68,10 @@
       ],
       "m": "0.15.0",
       "x": []
-    },
-    {
-      "v": "#head@2297aac71294b3a5abbe463a39b737de513d883e",
-      "r": [
-        "random >= 0.5.6"
-      ],
-      "m": "~",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:40Z",
+  "generatedAt": "2026-05-26T13:11:50Z",
   "allDeps": {
     "packages": [
       "random"

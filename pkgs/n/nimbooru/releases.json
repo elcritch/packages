@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimbooru",
   "fqn": "nimbooru.filvyb.github.com",
-  "head": "aa81f224fdffdadd1365d6b8d78510c760660ab0",
   "author": "Filip Vybihal",
   "description": "Basic wrapper for APIs of various Booru",
   "license": "LGPL-3.0-or-later",
@@ -11,37 +10,23 @@
   "releases": [
     {
       "v": "0.2.0@aa81f224fdffdadd1365d6b8d78510c760660ab0^",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.2@17cd0bc3ce2b0402a3027f43abb03f229cf0a264",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.1@16d03d226886f62e9b9cf16c4d1400b4f4a687e2",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.0@9da6a599c2a5c770784a0e9cb2ea10bacf17b261",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@aa81f224fdffdadd1365d6b8d78510c760660ab0",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:33Z",
+  "generatedAt": "2026-05-26T13:16:43Z",
   "allDeps": {
     "packages": [],
     "urls": [],

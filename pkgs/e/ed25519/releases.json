@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "ed25519",
   "fqn": "ed25519.nim.niv.github.com",
-  "head": "176aff141a27ec94f954e961be21671b64531b39",
   "author": "niv",
   "description": "ed25519 key crypto",
   "license": "MIT",
@@ -14,26 +13,17 @@
     {
       "v": "0.1.0@a38e7d2f4205d6d73319009a9d85104cfa684d86",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.1.1@176aff141a27ec94f954e961be21671b64531b39^",
       "r": [],
       "d": "ed25519 key crypto bindings",
-      "m": "~",
-      "x": []
-    },
-    {
-      "v": "#head@176aff141a27ec94f954e961be21671b64531b39",
-      "r": [],
-      "d": "ed25519 key crypto bindings",
-      "m": "~",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:12Z",
+  "generatedAt": "2026-05-26T13:13:42Z",
   "allDeps": {
     "packages": [],
     "urls": [],

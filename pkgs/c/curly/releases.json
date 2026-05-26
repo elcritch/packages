@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "curly",
   "fqn": "curly.guzba.github.com",
-  "head": "a0f42baacbc48f4e5924b18854c0df9dcc251466",
   "author": "Ryan Oldenburg",
   "description": "An easy to use and efficient thread-ready HTTP client",
   "license": "MIT",
@@ -15,9 +14,7 @@
         "libcurl >= 1.0.0",
         "zippy >= 0.10.6",
         "webby >= 0.1.7"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "1.1.0@64f884484d560ece48d421c2984512445f655fb8",
@@ -25,9 +22,7 @@
         "libcurl >= 1.0.0",
         "zippy >= 0.10.6",
         "webby >= 0.1.7"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "1.0.1@5da7fc415de782eaaa273f0caa7aa571401ad1c6",
@@ -35,9 +30,7 @@
         "libcurl >= 1.0.0",
         "zippy >= 0.10.6",
         "webby >= 0.1.7"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "1.0.0@0fbe9b2f6cb39551f9ddefdb99c91414193c01c3",
@@ -45,9 +38,7 @@
         "libcurl >= 1.0.0",
         "zippy >= 0.10.6",
         "webby >= 0.1.7"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.13@a6b9e15e12b12ad1395b321eea5e476d9b6d3a14",
@@ -56,9 +47,7 @@
         "zippy >= 0.10.6",
         "webby >= 0.1.7"
       ],
-      "d": "Makes using libcurl efficiently easy",
-      "m": "~",
-      "s": ""
+      "d": "Makes using libcurl efficiently easy"
     },
     {
       "v": "0.1.12@8598ad5c3b0c1eb65b5e3017688a2fa31a34225f",
@@ -67,9 +56,7 @@
         "zippy >= 0.10.6",
         "webby >= 0.1.7"
       ],
-      "d": "Makes using libcurl efficiently easy",
-      "m": "~",
-      "s": ""
+      "d": "Makes using libcurl efficiently easy"
     },
     {
       "v": "0.1.11@ecffdf5c09929a044c49c1e52624d130c8f4825c",
@@ -79,9 +66,7 @@
         "waterpark >= 0.1.4",
         "webby >= 0.1.7"
       ],
-      "d": "Makes using libcurl efficiently easy",
-      "m": "~",
-      "s": ""
+      "d": "Makes using libcurl efficiently easy"
     },
     {
       "v": "0.1.10@a3fd81e3a79e51906a740b06306ebd55027fc943",
@@ -91,9 +76,7 @@
         "waterpark >= 0.1.3",
         "webby >= 0.1.7"
       ],
-      "d": "Makes using libcurl efficiently easy",
-      "m": "~",
-      "s": ""
+      "d": "Makes using libcurl efficiently easy"
     },
     {
       "v": "0.1.9@79e84143492ebc7fc47affc3e9766237c410202b",
@@ -103,9 +86,7 @@
         "waterpark >= 0.1.3",
         "webby >= 0.1.7"
       ],
-      "d": "Makes using libcurl efficiently easy",
-      "m": "~",
-      "s": ""
+      "d": "Makes using libcurl efficiently easy"
     },
     {
       "v": "0.1.8@9f65e36e7dc47724db57851f9574fa2d4cc98ea6",
@@ -115,9 +96,7 @@
         "waterpark >= 0.1.3",
         "webby >= 0.1.7"
       ],
-      "d": "Makes using libcurl efficiently easy",
-      "m": "~",
-      "s": ""
+      "d": "Makes using libcurl efficiently easy"
     },
     {
       "v": "0.1.7@c1bfcd9ea94ee653874ba297b9c659122999b79c",
@@ -127,9 +106,7 @@
         "waterpark >= 0.1.3",
         "webby >= 0.1.7"
       ],
-      "d": "Makes using libcurl efficiently easy",
-      "m": "~",
-      "s": ""
+      "d": "Makes using libcurl efficiently easy"
     },
     {
       "v": "0.1.6@351925e978c2e00c087368495b2649372b43cd15",
@@ -139,9 +116,7 @@
         "waterpark >= 0.1.3",
         "webby >= 0.1.7"
       ],
-      "d": "Makes using libcurl efficiently easy",
-      "m": "~",
-      "s": ""
+      "d": "Makes using libcurl efficiently easy"
     },
     {
       "v": "0.1.5@a582222a1c7489921de08a673a9e4135c1293d5b",
@@ -151,9 +126,7 @@
         "waterpark >= 0.1.3",
         "webby >= 0.1.7"
       ],
-      "d": "Makes using libcurl efficiently easy",
-      "m": "~",
-      "s": ""
+      "d": "Makes using libcurl efficiently easy"
     },
     {
       "v": "0.1.4@4a742754e04485e95c01d0588adc8a7abb9d252d",
@@ -163,9 +136,7 @@
         "waterpark >= 0.1.3",
         "webby >= 0.1.7"
       ],
-      "d": "Makes using libcurl efficiently easy",
-      "m": "~",
-      "s": ""
+      "d": "Makes using libcurl efficiently easy"
     },
     {
       "v": "0.1.3@e7a4c2c2482d22192c4f503f463e151ba8ce2706",
@@ -175,9 +146,7 @@
         "waterpark >= 0.1.3",
         "webby >= 0.1.7"
       ],
-      "d": "Makes using libcurl efficiently easy",
-      "m": "~",
-      "s": ""
+      "d": "Makes using libcurl efficiently easy"
     },
     {
       "v": "0.1.2@af9c96c83184f5a79ca91578546eedb8af81707f",
@@ -187,9 +156,7 @@
         "waterpark >= 0.1.1",
         "webby >= 0.1.3"
       ],
-      "d": "Makes using libcurl efficiently easy",
-      "m": "~",
-      "s": ""
+      "d": "Makes using libcurl efficiently easy"
     },
     {
       "v": "0.1.1@d0e09a7628fd1cf2e6ad041e3a49735ec52cdef6",
@@ -199,9 +166,7 @@
         "waterpark >= 0.1.1",
         "webby >= 0.1.3"
       ],
-      "d": "Makes using libcurl efficiently easy",
-      "m": "~",
-      "s": ""
+      "d": "Makes using libcurl efficiently easy"
     },
     {
       "v": "0.1.0@be1bb5f7fee3ad91f105071521b9058b996177cd",
@@ -211,23 +176,11 @@
         "waterpark >= 0.1.1",
         "webby >= 0.1.3"
       ],
-      "d": "Makes using libcurl efficiently easy",
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@a0f42baacbc48f4e5924b18854c0df9dcc251466",
-      "r": [
-        "libcurl >= 1.0.0",
-        "zippy >= 0.10.6",
-        "webby >= 0.1.7"
-      ],
-      "m": "~",
-      "s": ""
+      "d": "Makes using libcurl efficiently easy"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:42Z",
+  "generatedAt": "2026-05-26T13:13:23Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

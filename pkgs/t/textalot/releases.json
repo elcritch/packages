@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "textalot",
   "fqn": "textalot.erayzesen.github.com",
-  "head": "fe5e6643634a306baf3ae04198e3903c93378293",
   "author": "Eray Zesen <erayzesen@gmail.com>",
   "description": "A High-Performance Terminal I/O & TUI Engine written in Nim",
   "license": "MIT",
@@ -14,15 +13,10 @@
       "v": "0.1.0@fe5e6643634a306baf3ae04198e3903c93378293^",
       "r": [],
       "p": []
-    },
-    {
-      "v": "#head@fe5e6643634a306baf3ae04198e3903c93378293",
-      "r": [],
-      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:45Z",
+  "generatedAt": "2026-05-26T13:19:38Z",
   "allDeps": {
     "packages": [],
     "urls": [],

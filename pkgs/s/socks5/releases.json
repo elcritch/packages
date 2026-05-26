@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "socks5",
   "fqn": "nim-socks5.FedericoCeratto.github.com",
-  "head": "239f16aca7afc2238d23f441b496b44fea59a580",
   "author": "Federico Ceratto",
   "description": "SOCKS 5 library",
   "license": "MPLv2",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "0.1.0@a4b73a81feacd76b4054ebda3fed05bfe0ae049a",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@239f16aca7afc2238d23f441b496b44fea59a580",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:01Z",
+  "generatedAt": "2026-05-26T13:19:07Z",
   "allDeps": {
     "packages": [],
     "urls": [],

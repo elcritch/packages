@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "stalinsort",
   "fqn": "stalinsort.tonogram.github.com",
-  "head": "f6f749214f9b833d0266c0a9766fdd48dfba6f8a",
   "author": "Knaque",
   "description": "A Nim implementation of the Stalin Sort algorithm.",
   "license": "CC0-1.0",
@@ -11,43 +10,27 @@
   "releases": [
     {
       "v": "0.3.2@f6f749214f9b833d0266c0a9766fdd48dfba6f8a^",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.3.1@75e24538e82cab40581cd6528b2d0461d206348c",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.3.0@eecb0f6d62c676104cedafc8c0c159e4f618b32b",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.2@5b002c0885fdc4bce67b3dd58c71314f155b8f63",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.1@76774c07c9a9afe05bd020fea0a5274defabacd1",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@f6f749214f9b833d0266c0a9766fdd48dfba6f8a",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:15Z",
+  "generatedAt": "2026-05-26T13:19:17Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "catnip",
   "fqn": "catnip.RSDuck.github.com",
-  "head": "e0401dcfa78e3e18cf65a951fbb30359b5d07f21",
   "author": "RSDuck",
   "description": "Assembler for runtime code generation",
   "license": "MIT",
@@ -10,27 +9,19 @@
   "releases": [
     {
       "v": "0.3.0@d0bc265ab4b228363b1611b5a52e42058a28b287",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "0.2.0@8e2d740cc9c42ec7cff78d1be3f9b2cf739cfeff",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "0.1.0@d0af09e151563deaa2e141199254ed22fdfe9392",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@e0401dcfa78e3e18cf65a951fbb30359b5d07f21",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:59Z",
+  "generatedAt": "2026-05-26T13:12:50Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

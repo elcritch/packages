@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "omnilog",
   "fqn": "omnilog.nim-appkit.github.com",
-  "head": "b9da151316c3e651e846e018e0bca418faa8132c",
   "author": "Christoph Herzog",
   "description": "Advanced logging library for Nim with structured logging, formatters, filters and writers.",
   "license": "LGPL",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "0.1.0@e0257baecbf80e0dbd9ca0255b980ae90dc1b833",
-      "r": [],
-      "s": ""
-    },
-    {
-      "v": "#head@b9da151316c3e651e846e018e0bca418faa8132c",
-      "r": [],
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:00Z",
+  "generatedAt": "2026-05-26T13:17:44Z",
   "allDeps": {
     "packages": [],
     "urls": [],

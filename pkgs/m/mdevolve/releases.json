@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "mdevolve",
   "fqn": "MDevolve.jxy.github.com",
-  "head": "e6e1b4f5543e50e5738c5453ad01eb0ea7ca2cee",
   "author": "Xiao-Yong Jin",
   "description": "Integrator framework for Molecular Dynamic evolutions",
   "license": "MIT",
@@ -11,25 +10,16 @@
   "releases": [
     {
       "v": "1.0.0@2d2f4d586419049d2fdb1fbb762afc1c55d02fa1",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.1@548b703afc747eb0b256b4a018b0c20b9a93917b",
       "r": [],
-      "m": "0.18.1",
-      "s": ""
-    },
-    {
-      "v": "#head@e6e1b4f5543e50e5738c5453ad01eb0ea7ca2cee",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "m": "0.18.1"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:26Z",
+  "generatedAt": "2026-05-26T13:15:55Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "iputils",
   "fqn": "nim-iputils.rockcavera.github.com",
-  "head": "110cd297ed135ac2bc34492a002a9e484b745908",
   "author": "rockcavera",
   "description": "Utilities for use with IP. It has functions for IPv4, IPv6 and CIDR.",
   "license": "MIT",
@@ -13,43 +12,30 @@
       "v": "0.2.2@110cd297ed135ac2bc34492a002a9e484b745908^",
       "r": [
         "stew"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.2.1@0b9ddc9378e5b54ef6cca6679b2a231580b35795",
       "r": [
         "stew"
       ],
-      "m": "1.2.0",
-      "s": ""
+      "m": "1.2.0"
     },
     {
       "v": "0.2.0@0908952f4616118b90e9dceb1c317d8caccdcb7c",
       "r": [
         "stew"
       ],
-      "m": "1.2.0",
-      "s": ""
+      "m": "1.2.0"
     },
     {
       "v": "0.1.0@5f93da63cb60e6efb8cf538b523bc9d8bd86e40d",
       "r": [],
-      "m": "1.0.0",
-      "s": ""
-    },
-    {
-      "v": "#head@110cd297ed135ac2bc34492a002a9e484b745908",
-      "r": [
-        "stew"
-      ],
-      "m": "~",
-      "s": ""
+      "m": "1.0.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:16Z",
+  "generatedAt": "2026-05-26T13:15:05Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

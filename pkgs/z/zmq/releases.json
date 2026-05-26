@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "zmq",
   "fqn": "nim-zmq.nim-lang.github.com",
-  "head": "a87c4a06e42fc071ce5836713f2b5a3b8ba77b81",
   "author": "Andreas Rumpf",
   "description": "ZeroMQ wrapper",
   "license": "MIT",
@@ -10,18 +9,15 @@
   "releases": [
     {
       "v": "1.5.3@4cc1ca3fda59c3a95e8e572317e553306ef5ed98",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "1.5.2@6eb2f6e4c7b83fd40991a169408bccadf3af4cfc",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "1.5.1@d9483701f34697281cfc13a7c6bbe06bb90cb5da",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "1.5.0@2c5e7a52dfabad5de64b121f47a28bb6eed74b5c",
@@ -70,17 +66,11 @@
     },
     {
       "v": "0.2.2@3544aa0c8f759b5b1a9a4db43b5d69e207b179b0",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@a87c4a06e42fc071ce5836713f2b5a3b8ba77b81",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T07:34:00Z",
+  "generatedAt": "2026-05-26T13:20:50Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

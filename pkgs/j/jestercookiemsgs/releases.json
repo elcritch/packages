@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "jestercookiemsgs",
   "fqn": "jestercookiemsgs.JohnAD.github.com",
-  "head": "27a6b7c5bc5dfe4520183bfa31a627070dd8d3af",
   "author": "John Dupuy",
   "description": "A plugin for Jester that enables easy message passing between web pages using browser cookies.",
   "license": "MIT",
@@ -17,22 +16,11 @@
       "r": [
         "jesterwithplugins >= 0.5.0"
       ],
-      "m": "~",
-      "s": "",
-      "z": []
-    },
-    {
-      "v": "#head@27a6b7c5bc5dfe4520183bfa31a627070dd8d3af",
-      "r": [
-        "jesterwithplugins >= 0.5.0"
-      ],
-      "m": "~",
-      "s": "",
       "z": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:21Z",
+  "generatedAt": "2026-05-26T13:15:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

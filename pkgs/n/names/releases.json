@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "names",
   "fqn": "names.pragmagic.github.com",
-  "head": "6bda10ed5a9b3d880536a3dccf18ab9904b83f0d",
   "author": "Ruslan Mustakov",
   "description": "String interning library",
   "license": "MIT",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "0.1.0@6bda10ed5a9b3d880536a3dccf18ab9904b83f0d^",
-      "r": [],
-      "s": ""
-    },
-    {
-      "v": "#head@6bda10ed5a9b3d880536a3dccf18ab9904b83f0d",
-      "r": [],
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:51Z",
+  "generatedAt": "2026-05-26T13:16:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "uctl",
   "fqn": "uctl.litlighilit.github.com",
-  "head": "3cc655fae8a59503afed512b169df90bcc54e886",
   "author": "litlighilit",
   "description": "System control & stat query for battery, backlight brightness, etc.",
   "license": "MIT",
@@ -15,20 +14,11 @@
     {
       "v": "0.1.1@c0a239e47a426d080021485809e6b379dbd17b43",
       "r": [],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@3cc655fae8a59503afed512b169df90bcc54e886",
-      "r": [],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:11Z",
+  "generatedAt": "2026-05-26T13:19:55Z",
   "allDeps": {
     "packages": [],
     "urls": [],

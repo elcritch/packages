@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "mcresponse",
   "fqn": "mcresponse-nim.abbeymart.github.com",
-  "head": "1f188b49a2cb4e02b91196f045d1d7d301e60d3e",
   "author": "Abi Akindele [abbeymart]",
   "description": "mConnect Standard HTTP network-status codes/texts & Transaction-Response Package",
   "license": "MIT",
@@ -15,15 +14,12 @@
     {
       "v": "0.4.0@d2cbaf749929627b71d7bb910fa01b5db8b038ca",
       "r": [],
-      "m": "~",
-      "s": "",
       "y": []
     },
     {
       "v": "0.3.0@5fb6c3e257365483ebda19a0dc775b7146b48dbb",
       "r": [],
       "m": "1.6.2",
-      "s": "",
       "y": []
     },
     {
@@ -31,7 +27,6 @@
       "r": [],
       "d": "mConnect Standardised Response Package",
       "m": "1.2.0",
-      "s": "",
       "y": []
     },
     {
@@ -39,19 +34,11 @@
       "r": [],
       "d": "mConnect Standardised Response Package",
       "m": "1.2.0",
-      "s": "",
-      "y": []
-    },
-    {
-      "v": "#head@1f188b49a2cb4e02b91196f045d1d7d301e60d3e",
-      "r": [],
-      "m": "~",
-      "s": "",
       "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:24Z",
+  "generatedAt": "2026-05-26T13:15:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

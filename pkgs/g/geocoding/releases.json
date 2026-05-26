@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "geocoding",
   "fqn": "nim-geocoding.saratchandra92.github.com",
-  "head": "f889f7116afc59d3c3a821d05d07dfe129c7a94d",
   "author": "Sarat Chandra <saratchandra.outlook.com>",
   "description": "Library for Google Maps geocoding API.",
   "license": "MIT",
@@ -18,14 +17,10 @@
     {
       "v": "0.1.0@370da97eb4b268c6a95c475f7985b5697255a8b3",
       "r": []
-    },
-    {
-      "v": "#head@f889f7116afc59d3c3a821d05d07dfe129c7a94d",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:10Z",
+  "generatedAt": "2026-05-26T13:14:19Z",
   "allDeps": {
     "packages": [],
     "urls": [],

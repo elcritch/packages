@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "libssh",
   "fqn": "libssh-nim.dariolah.github.com",
-  "head": "19977eb8a23b4ffa6f726f067e26ffd97d50d69c",
   "author": "Dario Lah",
   "description": "libssh FFI bindings",
   "license": "MIT",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "0.90.0@19977eb8a23b4ffa6f726f067e26ffd97d50d69c^",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@19977eb8a23b4ffa6f726f067e26ffd97d50d69c",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:53Z",
+  "generatedAt": "2026-05-26T13:15:30Z",
   "allDeps": {
     "packages": [],
     "urls": [],

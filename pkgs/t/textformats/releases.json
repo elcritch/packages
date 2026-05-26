@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "textformats",
   "fqn": "textformats.ggonnella.github.com",
-  "head": "ce5fb38f0ee5c2b645b0befe9874e94a53121d26",
   "author": "Giorgio Gonnella",
   "description": "Easy specification of text formats for structured data",
   "license": "ISC",
@@ -23,8 +22,6 @@
         "nimpy 0.2.0",
         "msgpack4nim 0.3.1"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "e": ""
@@ -38,8 +35,6 @@
         "nimpy 0.2.0",
         "msgpack4nim 0.3.1"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "e": ""
@@ -53,8 +48,6 @@
         "nimpy 0.2.0",
         "msgpack4nim 0.3.1"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "e": ""
@@ -68,7 +61,6 @@
         "nimpy 0.2.0"
       ],
       "m": "1.6.2",
-      "s": "",
       "b": "",
       "k": [],
       "e": ""
@@ -83,7 +75,6 @@
       ],
       "m": "1.0.2",
       "e": "",
-      "s": "",
       "b": "",
       "k": []
     },
@@ -97,28 +88,12 @@
       ],
       "m": "1.0.2",
       "e": "",
-      "s": "",
       "b": "",
       "k": []
-    },
-    {
-      "v": "#head@ce5fb38f0ee5c2b645b0befe9874e94a53121d26",
-      "r": [
-        "cligen 1.5.19",
-        "yaml 0.16.0",
-        "regex 0.19.0",
-        "nimpy 0.2.0",
-        "msgpack4nim 0.3.1"
-      ],
-      "m": "~",
-      "s": "",
-      "b": "",
-      "k": [],
-      "e": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:46Z",
+  "generatedAt": "2026-05-26T13:19:39Z",
   "allDeps": {
     "packages": [
       "cligen",

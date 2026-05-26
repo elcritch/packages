@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "autome",
   "fqn": "autome.miere43.github.com",
-  "head": "c2a3925f55417df09bb74f80b445fc34e7c80c51",
   "author": "Vladislav Vorobiev",
   "description": "Write GUI automation scripts with Nim",
   "license": "MIT",
@@ -14,30 +13,21 @@
     {
       "v": "0.1.0@3fcd3e181728076cf74a6256caa353904b99c122",
       "r": [],
-      "m": "~",
       "y": []
     },
     {
       "v": "0.1.1@5ddb75361ea7d519f9b9f08618863693d5a97b3e",
       "r": [],
-      "m": "~",
       "y": []
     },
     {
       "v": "0.1.2@7cfd5cb44eeec09ea294149c6d0c03cbad599e18",
       "r": [],
-      "m": "~",
-      "y": []
-    },
-    {
-      "v": "#head@c2a3925f55417df09bb74f80b445fc34e7c80c51",
-      "r": [],
-      "m": "~",
       "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:07Z",
+  "generatedAt": "2026-05-26T13:12:10Z",
   "allDeps": {
     "packages": [],
     "urls": [],

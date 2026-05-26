@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "dialogs",
   "fqn": "dialogs.nim-lang.github.com",
-  "head": "177b776f60255c3be8c38586be5f89c53d867e1a",
   "author": "Anonymous",
   "description": "portable dialogs for Nim/Aporia",
   "license": "MIT",
@@ -20,14 +19,10 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file"
-    },
-    {
-      "v": "#head@177b776f60255c3be8c38586be5f89c53d867e1a",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:01Z",
+  "generatedAt": "2026-05-26T13:13:31Z",
   "allDeps": {
     "packages": [],
     "urls": [],

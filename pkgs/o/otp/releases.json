@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "otp",
   "fqn": "otp.nim.OpenSystemsLab.github.com",
-  "head": "8dc44b06f89b0006811d376a85013dc615f690af",
   "author": "Huy Doan",
   "description": "One Time Password library for Nim",
   "license": "MIT",
@@ -44,15 +43,10 @@
       "v": "0.2.0@7479a86a37c644788995c352beca2fcb1dd6c417",
       "r": [],
       "x": []
-    },
-    {
-      "v": "#head@8dc44b06f89b0006811d376a85013dc615f690af",
-      "r": [],
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:12Z",
+  "generatedAt": "2026-05-26T13:17:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

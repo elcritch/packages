@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "gifwriter",
   "fqn": "gifwriter.rxi.github.com",
-  "head": "d92796c0040ecea2e826cedbdced9b5e01ed22a7",
   "author": "rxi",
   "description": "GIF writing library based on jo_gif",
   "license": "MIT",
@@ -11,24 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@d92796c0040ecea2e826cedbdced9b5e01ed22a7^",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@d92796c0040ecea2e826cedbdced9b5e01ed22a7",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:15Z",
-  "allDeps": {
-    "packages": [],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T13:14:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -41,5 +27,10 @@
       "v0.1.0": "0.1.0"
     },
     "latest": "v0.1.0"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
   }
 }

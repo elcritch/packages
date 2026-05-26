@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "geecode",
   "fqn": "geecode.elcritch.github.com",
-  "head": "77110cfdc7f72e07f780b7aa367384a9d1f34a3f",
   "author": "geecode",
   "description": "Nim agent CLI with atlas-managed dependencies",
   "license": "MIT",
@@ -17,29 +16,17 @@
       "r": [
         "cligen >= 1.5.20"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
       "v": "0.2.0@c622db89fe70101e25a6e605247ca26154ac7c9f",
       "r": [],
       "d": "G-Code parser",
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@77110cfdc7f72e07f780b7aa367384a9d1f34a3f",
-      "r": [],
-      "d": "G-Code parser",
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:05Z",
+  "generatedAt": "2026-05-26T13:14:17Z",
   "allDeps": {
     "packages": [
       "cligen <= 0.1.0"

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "dirtygpt",
   "fqn": "dirtygpt.thisago.github.com",
-  "head": "e1051a3455e973abc12061d827c135ffdf37436f",
   "author": "Thiago Navarro",
   "description": "A dirty and free way to use ChatGPT in Nim",
   "license": "MIT",
@@ -15,9 +14,7 @@
         "gm_api",
         "jswebsockets",
         "ws"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.2.3@756bee59946d4cb791d0d2f670f8b7dd7caf0e34",
@@ -25,9 +22,7 @@
         "gm_api",
         "jswebsockets",
         "ws"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.2.2@813854c2d18cb99906eefa55673833397766a95f",
@@ -35,23 +30,11 @@
         "gm_api",
         "jswebsockets",
         "ws"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@e1051a3455e973abc12061d827c135ffdf37436f",
-      "r": [
-        "gm_api",
-        "jswebsockets",
-        "ws"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:58Z",
+  "generatedAt": "2026-05-26T13:13:33Z",
   "allDeps": {
     "packages": [
       "gm_api",

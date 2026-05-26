@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimkalc",
   "fqn": "nimkalc.nocturn9x.github.com",
-  "head": "81e95feea4519fbaf382d749d60c2946fb9685bb",
   "author": "Mattia Giambirtone",
   "description": "An advanced parsing library for mathematical expressions and equations",
   "license": "Apache 2.0",
@@ -11,73 +10,47 @@
   "releases": [
     {
       "v": "0.1@f0394545eb681cd64f1cd9f741bfa3a362282eca",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2@d0bd2004287edb7ed6fb06dd79ee35c74c4ac221",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.1@43304118436604640182fcc6712a267599a25e57",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.2@cc09ddf3c579e4e02ac99c922f98f56d56b304c1",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.3@af83d8c0b5c842b2ce2f2f57b1808740f89d1087",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.4@c39495309e49b43a347552fa112a64f1b55c3363",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.5@d1f96da9d101a867f75c852c7577b7e9433235c4",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.6@6dfaf18120d3cdbbbb022b0c4610032e101d1e32",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.7@e225d77e0dd2677647d9a98b421199724e55883f",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.8@372927d7ea08eedd7d84ae2098da8256d0b5c8ff",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@372927d7ea08eedd7d84ae2098da8256d0b5c8ff",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:55Z",
+  "generatedAt": "2026-05-26T13:16:58Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "threadButler",
   "fqn": "Appster.PhilippMDoerner.github.com",
-  "head": "55ceaca43edb7c4066178330f5e8a234f9a6868d",
   "author": "Philipp Doerner",
   "description": "Use threads as if they were servers/microservices to enable multi-threading with a simple mental model.",
   "license": "MIT",
@@ -15,46 +14,18 @@
         "threading >= 0.2.0",
         "taskpools >= 0.0.5",
         "owlkettle #head"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@55ceaca43edb7c4066178330f5e8a234f9a6868d",
-      "r": [
-        "taskpools >= 0.0.5",
-        "chronicles >= 0.10.3",
-        "chronos >= 4.0.0",
-        "threading #head",
-        "gh:nim-works/loony >= 0.1.12",
-        "owlkettle #head"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:48Z",
+  "generatedAt": "2026-05-26T13:19:41Z",
   "allDeps": {
     "packages": [
-      "bearssl",
-      "chronicles",
-      "chronos",
-      "faststreams",
-      "httputils",
-      "json_serialization",
       "owlkettle",
-      "results",
-      "serialization",
-      "stew",
       "taskpools",
-      "testutils",
-      "threading",
-      "unittest2"
+      "threading"
     ],
     "urls": [],
-    "unresolved": [
-      "gh:nim-works/loony"
-    ]
+    "unresolved": []
   }
 }

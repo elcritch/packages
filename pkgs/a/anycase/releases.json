@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "anycase",
   "fqn": "anycase.lamartire.github.com",
-  "head": "c3a8b1b41cb9b6311ab117f80a1c31710540f74d",
   "author": "lamartire",
   "description": "Convert strings to any case",
   "license": "MIT",
@@ -10,63 +9,37 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.1.0@9fce349430d032d65218d86ee59cc88b29dc93a8",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "0.1.1@e54f9bcedcd0df6433622702a38b5dea9edfa7e5",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "0.2.0@177a1e6d138f4c16dd639d815db655df32ff3564",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "0.2.1@2f7befa045c90be75c8023476efe1ed9ad7eebad",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@c3a8b1b41cb9b6311ab117f80a1c31710540f74d",
+      "v": "0.3.0@c3a8b1b41cb9b6311ab117f80a1c31710540f74d^",
       "r": [
         "regex >= 0.23.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
+    },
+    {
+      "v": "0.2.1@efa44b58fb1d9fbfffde42b07b4e32b0940bfe32",
+      "r": []
+    },
+    {
+      "v": "0.2.0@b03cd5718c5ccee86c1714ca61ce8e06585897b9",
+      "r": []
+    },
+    {
+      "v": "0.1.1@7f987b756d000fadba30c89e0c639427de7e0056",
+      "r": []
+    },
+    {
+      "v": "0.1.0@b9cb42fc9fe3fd48c78e02546ac7744a614e7c3b",
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:48Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "0.2.0",
-      "0.2.1",
-      "0.3.0",
-      "v0.1.1"
-    ],
-    "tagVersions": {
-      "v0.1.1": "0.1.1"
-    },
-    "latest": "0.3.0"
-  },
+  "generatedAt": "2026-05-26T13:11:56Z",
   "allDeps": {
     "packages": [
-      "graphemes",
-      "regex",
-      "segmentation",
-      "unicodedb",
-      "unicodeplus"
+      "graphemes > 0.2.1",
+      "regex > 0.2.1",
+      "segmentation > 0.2.1",
+      "unicodedb > 0.2.1",
+      "unicodeplus > 0.2.1"
     ],
     "urls": [],
     "unresolved": []

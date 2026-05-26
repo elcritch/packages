@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimgit2",
   "fqn": "nimgit2.genotrance.github.com",
-  "head": "f217acf5dbecb887205f57b7c20e228009ac18f4",
   "author": "genotrance",
   "description": "libgit2 wrapper for Nim",
   "license": "MIT",
@@ -65,17 +64,10 @@
         "nimterop #head"
       ],
       "x": []
-    },
-    {
-      "v": "#head@f217acf5dbecb887205f57b7c20e228009ac18f4",
-      "r": [
-        "nimterop >= 0.6.3"
-      ],
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:47Z",
+  "generatedAt": "2026-05-26T13:16:53Z",
   "allDeps": {
     "packages": [
       "cligen",

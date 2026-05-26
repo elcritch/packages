@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "bcryptrocks",
   "fqn": "bcryptrocks.penguinite.codeberg.org",
-  "head": "d7c2bd9d39ca438285cf2720c779ef9400948ed1",
   "author": "penguinite",
   "description": "bcrypt library using Solar Designer's crypt_blowfish (Windows-compatible)",
   "license": "crypt_blowfish",
@@ -11,26 +10,16 @@
   "releases": [
     {
       "v": "0.1.1@d7c2bd9d39ca438285cf2720c779ef9400948ed1^",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.0@78a72235da3938e20a94a80815a53a71625f8642",
       "r": [],
-      "l": "CC0",
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@d7c2bd9d39ca438285cf2720c779ef9400948ed1",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "l": "CC0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:25Z",
+  "generatedAt": "2026-05-26T13:12:24Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimline",
   "fqn": "nimline.sinkingsugar.github.com",
-  "head": "703d6aec1f466a3ccbc757243185ea7349f7345c",
   "author": "sinkingsugar",
   "description": "Wrapper-less C/C++ interop for Nim",
   "license": "MIT",
@@ -16,7 +15,6 @@
     {
       "v": "0.1.7@703d6aec1f466a3ccbc757243185ea7349f7345c^",
       "r": [],
-      "m": "~",
       "y": []
     },
     {
@@ -67,16 +65,10 @@
       "a": "fragcolor-xyz",
       "m": "0.19.2",
       "y": []
-    },
-    {
-      "v": "#head@703d6aec1f466a3ccbc757243185ea7349f7345c",
-      "r": [],
-      "m": "~",
-      "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:59Z",
+  "generatedAt": "2026-05-26T13:17:00Z",
   "allDeps": {
     "packages": [],
     "urls": [],

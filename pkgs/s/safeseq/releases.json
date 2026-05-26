@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "safeseq",
   "fqn": "safeseq.avahe-kellenberger.github.com",
-  "head": "c8fd9795b31ea9b905742a48b002e9f81dabd0f6",
   "author": "Avahe Kellenberger",
   "description": "Seq that can safely add and remove elements while iterating.",
   "license": "GPL-2.0-only",
@@ -13,21 +12,11 @@
       "v": "1.0.0@ee71e961a66db64387e1437ca550d0c8218b099c",
       "r": [
         "nimtest >= 0.1.2"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@c8fd9795b31ea9b905742a48b002e9f81dabd0f6",
-      "r": [
-        "nimtest >= 0.1.2"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:24Z",
+  "generatedAt": "2026-05-26T13:18:41Z",
   "allDeps": {
     "packages": [
       "nimtest"

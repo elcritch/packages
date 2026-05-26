@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "syscall",
   "fqn": "nim-syscall.def-.github.com",
-  "head": "5bec5bc6fd4016fdea7d1ada0f19f4fb0db6cb79",
   "author": "Dennis Felsing",
   "description": "Raw system calls for Nim",
   "license": "MIT",
@@ -10,18 +9,11 @@
   "releases": [
     {
       "v": "0.1@8e585b94eaea0c4b061c9f5840fdd573f85719b6",
-      "r": [],
-      "s": ""
-    },
-    {
-      "v": "#head@5bec5bc6fd4016fdea7d1ada0f19f4fb0db6cb79",
-      "r": [],
-      "m": "0.10.3",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:32Z",
+  "generatedAt": "2026-05-26T13:19:29Z",
   "allDeps": {
     "packages": [],
     "urls": [],

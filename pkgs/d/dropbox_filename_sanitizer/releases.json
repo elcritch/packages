@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "dropbox_filename_sanitizer",
   "fqn": "dropbox_filename_sanitizer.Araq.github.com",
-  "head": "5234c578564beb217000cd7ee7d805635ef5ae3b",
   "releases": [
     {
       "v": "0.4.0@ca325d1225c2507189869b0263613077d34f086b",
@@ -15,17 +14,10 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file"
-    },
-    {
-      "v": "#head@5234c578564beb217000cd7ee7d805635ef5ae3b",
-      "r": [],
-      "a": "Grzegorz Adam Hankiewicz",
-      "d": "Mangles filename for dropbox compatibility.",
-      "l": "MIT"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:06Z",
+  "generatedAt": "2026-05-26T13:13:38Z",
   "allDeps": {
     "packages": [],
     "urls": [],

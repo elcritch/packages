@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "fpn",
   "fqn": "fpn.lbartoletti.gitlab.com",
-  "head": "bd1e1da0e6efdc8a7307128c8e737fb00b9425c6",
   "author": "Loïc Bartoletti",
   "description": "A fixed point library",
   "license": "MIT",
@@ -11,34 +10,22 @@
   "releases": [
     {
       "v": "0.0.1@089e2600dcbd31ff262e401aaed7165577184ca0",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.0@873e43132e98480fd5bc097e0ee4ab340781aeb9",
       "r": [],
-      "d": "A fixed point number library in pure Nim.",
-      "m": "~",
-      "s": ""
+      "d": "A fixed point number library in pure Nim."
     },
     {
       "v": "0.2.0@63cb2985c7ba009b657b87d26ef5bfd71e080e8b",
       "r": [],
       "d": "A fixed point number library in pure Nim.",
-      "m": "2.0.0",
-      "s": ""
-    },
-    {
-      "v": "#head@bd1e1da0e6efdc8a7307128c8e737fb00b9425c6",
-      "r": [],
-      "d": "A fixed point number library in pure Nim.",
-      "m": "2.0.0",
-      "s": ""
+      "m": "2.0.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T07:24:13Z",
+  "generatedAt": "2026-05-26T13:14:11Z",
   "allDeps": {
     "packages": [],
     "urls": [],

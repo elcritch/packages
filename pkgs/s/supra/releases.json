@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "supra",
   "fqn": "supra.supranim.github.com",
-  "head": "297ed0fac714c7cebc4e6b09e867f68d9cee2fa1",
   "author": "Supranim",
   "description": "CLI tool for bootstrapping Supranim applications",
   "license": "MIT",
@@ -29,41 +28,20 @@
       ],
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/supra.supranim.github.com-ef6bc37c-supra.nimble\ncannot resolve package name: enimsql",
-      "m": "~",
-      "s": "",
-      "b": "",
-      "p": []
-    },
-    {
-      "v": "#head@297ed0fac714c7cebc4e6b09e867f68d9cee2fa1",
-      "r": [
-        "db_connector",
-        "openparser",
-        "supranim",
-        "kapsis",
-        "flatty",
-        "valido",
-        "ozark"
-      ],
-      "d": "CLI tool for managing Supranim projects",
-      "m": "2.0.0",
-      "s": "",
       "b": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:27Z",
+  "generatedAt": "2026-05-26T13:19:25Z",
   "allDeps": {
     "packages": [
       "ansiparse",
       "bigints",
-      "blackpaper",
       "checksums",
       "db_connector",
       "emitter",
       "flatty",
-      "floof",
       "greskewel",
       "htmlparser",
       "illwill",

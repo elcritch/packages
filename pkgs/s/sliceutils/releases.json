@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "sliceutils",
   "fqn": "sliceutils.metagn.github.com",
-  "head": "f5729ca144ca37241ba70542049437f9938317b4",
   "author": "metagn",
   "description": "utils for Slice/HSlice",
   "license": "MIT",
@@ -11,61 +10,41 @@
   "releases": [
     {
       "v": "0.2.2@99f343b126bd0add62545f0bebc348388fcbffba",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.1@ab488576514edfbb5840f3926e64c54da9b87280",
       "r": [],
-      "a": "hlaaftana",
-      "m": "~",
-      "s": ""
+      "a": "hlaaftana"
     },
     {
       "v": "0.2.0@2bad393faf8004482f11a782c84275391ce13301",
       "r": [],
-      "a": "hlaaftana",
-      "m": "~",
-      "s": ""
+      "a": "hlaaftana"
     },
     {
       "v": "0.1.12@cfe754ecca910747d2b2fd7e39e295e41efa9d58",
       "r": [],
-      "a": "hlaaftana",
-      "m": "~",
-      "s": ""
+      "a": "hlaaftana"
     },
     {
       "v": "0.1.2@fe6e82cb3246dde52f10ecaae76517915dd55fc5",
       "r": [],
-      "a": "hlaaftana",
-      "m": "~",
-      "s": ""
+      "a": "hlaaftana"
     },
     {
       "v": "0.1.1@b31ded9fa69c05deaf8deaf12a3d680213706e15",
       "r": [],
-      "a": "hlaaftana",
-      "m": "~",
-      "s": ""
+      "a": "hlaaftana"
     },
     {
       "v": "0.1.0@a82dc95b6dd04c396287e232ba258fa730b32ac2",
       "r": [],
-      "a": "hlaaftana",
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@f5729ca144ca37241ba70542049437f9938317b4",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "a": "hlaaftana"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:57Z",
+  "generatedAt": "2026-05-26T13:19:05Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

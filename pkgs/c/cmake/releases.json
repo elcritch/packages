@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "cmake",
   "fqn": "cmake.genotrance.github.com",
-  "head": "6524d14a508df4414d7377ae530d6e236b850213",
   "author": "genotrance",
   "description": "CMake for Nimble",
   "license": "MIT",
@@ -19,22 +18,12 @@
       "r": [
         "nimterop >= 0.5.0"
       ],
-      "m": "~",
-      "i": [],
-      "p": []
-    },
-    {
-      "v": "#head@6524d14a508df4414d7377ae530d6e236b850213",
-      "r": [
-        "nimterop >= 0.5.0"
-      ],
-      "m": "~",
       "i": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:21Z",
+  "generatedAt": "2026-05-26T13:13:07Z",
   "allDeps": {
     "packages": [
       "cligen",

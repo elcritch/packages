@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "hpack",
   "fqn": "nim-hpack.nitely.github.com",
-  "head": "75e7548f000bd4b64f8544cee27e089fa0d4fcb6",
   "author": "Esteban C Borsani (@nitely)",
   "description": "HPACK (Header Compression for HTTP/2)",
   "license": "MIT",
@@ -16,29 +15,23 @@
     {
       "v": "0.4.1@75e7548f000bd4b64f8544cee27e089fa0d4fcb6^",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
       "v": "0.4.0@2ba2e206c636d917ba1066ec4124db867329ff23",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
       "v": "0.3.3@b87257aeadceff19fc7bfc1238020113f429a399",
       "r": [],
       "m": "0.19.0",
-      "s": "",
       "x": []
     },
     {
       "v": "0.3.2@b81ce1cff34c4d76c02eff6c5decd23037dcb0fe",
       "r": [],
       "m": "0.19.0",
-      "s": "",
       "x": []
     },
     {
@@ -47,8 +40,7 @@
       "x": [
         "tests"
       ],
-      "m": "0.19.0",
-      "s": ""
+      "m": "0.19.0"
     },
     {
       "v": "0.3.0@b4d534db0ca34e45c85e3e955762a7e9c38ce926",
@@ -56,8 +48,7 @@
       "x": [
         "tests"
       ],
-      "m": "0.19.0",
-      "s": ""
+      "m": "0.19.0"
     },
     {
       "v": "0.2.0@afd0f2911e1d268c3f45bf24f024dd1c2ff765e0",
@@ -66,8 +57,7 @@
       "x": [
         "tests"
       ],
-      "m": "0.19.0",
-      "s": ""
+      "m": "0.19.0"
     },
     {
       "v": "0.1.1@d7c25ae5e049b3619659996b96da0476c11ee23a",
@@ -76,8 +66,7 @@
       "x": [
         "tests"
       ],
-      "m": "0.18.1",
-      "s": ""
+      "m": "0.18.1"
     },
     {
       "v": "0.1@d436f9225ec1752235cd7975d4fc761dacdd475b",
@@ -86,19 +75,11 @@
       "x": [
         "tests"
       ],
-      "m": "0.18.1",
-      "s": ""
-    },
-    {
-      "v": "#head@75e7548f000bd4b64f8544cee27e089fa0d4fcb6",
-      "r": [],
-      "m": "~",
-      "s": "",
-      "x": []
+      "m": "0.18.1"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:52Z",
+  "generatedAt": "2026-05-26T13:14:49Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

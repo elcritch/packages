@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "toposort",
   "fqn": "toposort.ryukoposting.github.com",
-  "head": "58f656c425ff1762c59e1bc471fd9435d8d13138",
   "author": "Evan Perry Grove",
   "description": "Topological sort",
   "license": "BSD-3-Clause",
@@ -11,20 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@dcd45f71df79e6e551afb056abcd7cc9bec02dbc",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@58f656c425ff1762c59e1bc471fd9435d8d13138",
-      "r": [],
-      "d": "Efficient, dependency-free topological sort",
-      "m": "1.6.0",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:59Z",
+  "generatedAt": "2026-05-26T13:19:47Z",
   "allDeps": {
     "packages": [],
     "urls": [],

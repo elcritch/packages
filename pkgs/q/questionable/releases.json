@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "questionable",
   "fqn": "questionable.codex-storage.github.com",
-  "head": "2906828765d4f253b59e351219ce7bf9e3a3e699",
   "author": "Questionable Authors",
   "description": "Elegant optional types",
   "license": "MIT",
@@ -130,14 +129,10 @@
     {
       "v": "0.1.0@c7fabfc23b5acf66023a7624a2bd1335c22d83dc",
       "r": []
-    },
-    {
-      "v": "#head@2906828765d4f253b59e351219ce7bf9e3a3e699",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:01Z",
+  "generatedAt": "2026-05-26T13:18:26Z",
   "allDeps": {
     "packages": [],
     "urls": [],

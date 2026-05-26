@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "encode",
   "fqn": "encode.treeform.github.com",
-  "head": "4e0dbbb13f4fc7feee9b9ff35c1ca3c2d1894fa9",
   "author": "Andre von Houck",
   "description": "Encode/decode utf16 LE/BE with BOM and utf32.",
   "license": "MIT",
@@ -13,29 +12,16 @@
       "v": "0.1.0@8b588acd6257e56aee3b217f8903794377d270ae",
       "r": [
         "netty"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@4e0dbbb13f4fc7feee9b9ff35c1ca3c2d1894fa9",
-      "r": [],
-      "d": "Encode/decode utf8 utf16 and utf32.",
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:15Z",
+  "generatedAt": "2026-05-26T13:13:45Z",
   "allDeps": {
     "packages": [
-      "faststreams",
       "flatty",
       "netty",
-      "results",
-      "snappy",
-      "stew",
-      "unittest2"
+      "snappy"
     ],
     "urls": [],
     "unresolved": []

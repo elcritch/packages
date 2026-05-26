@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "zigcc",
   "fqn": "zigcc.enthus1ast.github.com",
-  "head": "85b4c8baf0ace7b5172352d4b6152522244ea474",
   "author": "David Krause",
   "description": "wraps `zig cc` to be able to be called by the nim compiler",
   "license": "MIT",
@@ -15,8 +14,6 @@
     {
       "v": "0.1.0@abf1857bf49322ae8869cf62736a1fbad165e267",
       "r": [],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -25,9 +22,7 @@
       "p": [
         "zigcc",
         "zigcpp"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "2.0.0@249c0aead3ae42e2302fb8c94632306c3933b917",
@@ -35,9 +30,7 @@
       "p": [
         "zigcc",
         "zigcpp"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "2.0.1@c33d88645a4636dc65a626049bfd2863fd2d62d9",
@@ -45,9 +38,7 @@
       "p": [
         "zigcc",
         "zigcpp"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "3.0.0@a78d1c215dbbf3c71398f5fa5be4162d3924b6e9",
@@ -55,23 +46,11 @@
       "p": [
         "zigcc",
         "zigcpp"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@85b4c8baf0ace7b5172352d4b6152522244ea474",
-      "r": [],
-      "p": [
-        "zigcc",
-        "zigcpp"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:57:25Z",
+  "generatedAt": "2026-05-26T13:20:48Z",
   "allDeps": {
     "packages": [],
     "urls": [],

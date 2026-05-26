@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "tinyfiledialogs",
   "fqn": "nim-tinyfiledialogs.juancarlospaco.github.com",
-  "head": "8f4e445463050fb120514228cea0e9cbd9172c11",
   "author": "Juan Carlos",
   "description": "TinyFileDialogs for Nim.",
   "license": "MIT",
@@ -11,37 +10,26 @@
   "releases": [
     {
       "v": "0.1.0@5a144d148dc043ea3611ff8d423414bb3e177970",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.0@bdb7b5688f6f5aa87e5521a8f53acef1b5b5b985",
       "r": [],
-      "m": "0.19.0",
-      "s": ""
+      "m": "0.19.0"
     },
     {
       "v": "3.8.8@3d0db15d7d9bf3c3ec68f732cf8b1ca049f7bc41",
       "r": [],
-      "m": "1.6.0",
-      "s": ""
+      "m": "1.6.0"
     },
     {
       "v": "3.21.3@cd37ee23f410e42d13211c3cf08344f33c492f02",
       "r": [],
-      "m": "1.6.0",
-      "s": ""
-    },
-    {
-      "v": "#head@8f4e445463050fb120514228cea0e9cbd9172c11",
-      "r": [],
-      "m": "1.6.0",
-      "s": ""
+      "m": "1.6.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:55Z",
+  "generatedAt": "2026-05-26T13:19:45Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "ssostrings",
   "fqn": "ssostrings.planetis-m.github.com",
-  "head": "ecdb593ff3e806c1323c48955b0181f8298d98dc",
   "author": "Antonis Geralis",
   "description": "Small String Optimized string type",
   "license": "MIT",
@@ -10,8 +9,7 @@
   "releases": [
     {
       "v": "0.7.1@f91ce42bf151f3fcee6a5cb317fd38829f95a515",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "0.7.0@a06186c60443a0c96d1eb66750a9feebdb86df79",
@@ -52,15 +50,10 @@
       "v": "0.1.0@8f4ce1157199e18ad4befda90fdbf873a423d393",
       "r": [],
       "m": "1.0.0"
-    },
-    {
-      "v": "#head@ecdb593ff3e806c1323c48955b0181f8298d98dc",
-      "r": [],
-      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:13Z",
+  "generatedAt": "2026-05-26T13:19:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "commodore",
   "fqn": "commodore.ph4mished.github.com",
-  "head": "3b38428e131588fb48aed6f959ed79efe4a16859",
   "author": "Jonathan Botchway Owusu",
   "description": "Commodore is a simple CLI parsing library.",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.16.0@3b38428e131588fb48aed6f959ed79efe4a16859^",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@3b38428e131588fb48aed6f959ed79efe4a16859",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:26Z",
+  "generatedAt": "2026-05-26T13:13:10Z",
   "allDeps": {
     "packages": [],
     "urls": [],

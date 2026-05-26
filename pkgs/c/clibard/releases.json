@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "clibard",
   "fqn": "clibard.thisago.github.com",
-  "head": "8b52e626b033848fbe7fecb554f22e5e366a780e",
   "author": "Thiago Navarro",
   "description": "Command line interface for Google Bard",
   "license": "GPL-3.0-or-later",
@@ -22,8 +21,6 @@
       ],
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-3f213d46-clibard.nimble\ncannot resolve package name: gookie",
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -36,8 +33,6 @@
       ],
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-eac98092-clibard.nimble\ncannot resolve package name: gookie",
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -50,8 +45,6 @@
       ],
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-6f5cbdf9-clibard.nimble\ncannot resolve package name: gookie",
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -64,8 +57,6 @@
       ],
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-f5cd0617-clibard.nimble\ncannot resolve package name: gookie",
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -78,8 +69,6 @@
       ],
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-deb7bc47-clibard.nimble\ncannot resolve package name: gookie",
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -92,8 +81,6 @@
       ],
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-44ab28ef-clibard.nimble\ncannot resolve package name: gookie",
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -106,8 +93,6 @@
       ],
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-fbfadf0f-clibard.nimble\ncannot resolve package name: gookie",
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -121,8 +106,6 @@
       "l": "GPL-3.0",
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-25f0853d-clibard.nimble\ncannot resolve package name: gookie",
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -136,8 +119,6 @@
       "l": "GPL-3.0",
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-33d60f45-clibard.nimble\ncannot resolve package name: gookie",
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -151,8 +132,6 @@
       "l": "GPL-3.0",
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-edb28a04-clibard.nimble\ncannot resolve package name: gookie",
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -166,8 +145,6 @@
       "l": "GPL-3.0",
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-239b6de9-clibard.nimble\ncannot resolve package name: gookie",
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -179,27 +156,12 @@
         "iecook >= 0.6.0"
       ],
       "l": "GPL-3.0",
-      "m": "~",
-      "s": "",
-      "b": "",
-      "p": []
-    },
-    {
-      "v": "#head@8b52e626b033848fbe7fecb554f22e5e366a780e",
-      "r": [
-        "cligen",
-        "bard >= 0.7.0",
-        "iecook >= 0.6.0"
-      ],
-      "l": "GPL-3.0",
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:16Z",
+  "generatedAt": "2026-05-26T13:13:03Z",
   "allDeps": {
     "packages": [
       "bard",

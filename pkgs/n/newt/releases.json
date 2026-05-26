@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "newt",
   "fqn": "newt.navid-m.github.com",
-  "head": "7e515a832f6d803f20f041b722adb5dc0dd022ee",
   "author": "Navid M",
   "description": "Youtube downloader library and CLI",
   "license": "GPLv3",
@@ -17,8 +16,6 @@
       "r": [
         "nancy >= 0.1.1"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -26,8 +23,6 @@
       "r": [
         "nancy >= 0.1.1"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -36,8 +31,6 @@
         "nancy >= 0.1.1"
       ],
       "l": "MIT",
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -46,8 +39,6 @@
         "nancy >= 0.1.1"
       ],
       "l": "MIT",
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -56,42 +47,14 @@
         "nancy >= 0.1.1"
       ],
       "l": "MIT",
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@7e515a832f6d803f20f041b722adb5dc0dd022ee",
-      "r": [
-        "nancy >= 0.1.1",
-        "htmlparser >= 0.1.0"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:07Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "v1.0.2",
-      "v1.0.4"
-    ],
-    "tagVersions": {
-      "v1.0.2": "1.0.2",
-      "v1.0.4": "1.0.4"
-    },
-    "latest": "v1.0.4"
-  },
+  "generatedAt": "2026-05-26T13:16:24Z",
   "allDeps": {
     "packages": [
       "ansiparse",
-      "htmlparser",
       "nancy"
     ],
     "urls": [],

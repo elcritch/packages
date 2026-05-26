@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "pinggraph",
   "fqn": "pinggraph.SolitudeSF.github.com",
-  "head": "2fdf2397a699e76480fbaf46099153c4e5e635c1",
   "author": "SolitudeSF",
   "description": "Simple terminal ping graph",
   "license": "MIT",
@@ -17,8 +16,6 @@
       "r": [
         "cligen >= 1.0.0"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -26,8 +23,6 @@
       "r": [
         "cligen >= 1.0.0"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -36,7 +31,6 @@
         "cligen >= 0.9.21"
       ],
       "m": "0.19.4",
-      "s": "",
       "p": []
     },
     {
@@ -45,7 +39,6 @@
         "cligen"
       ],
       "m": "0.19.4",
-      "s": "",
       "p": []
     },
     {
@@ -54,7 +47,6 @@
         "cligen"
       ],
       "m": "0.19.4",
-      "s": "",
       "p": []
     },
     {
@@ -63,7 +55,6 @@
         "cligen"
       ],
       "m": "0.19.4",
-      "s": "",
       "p": []
     },
     {
@@ -72,21 +63,11 @@
         "cligen"
       ],
       "m": "0.19.4",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@2fdf2397a699e76480fbaf46099153c4e5e635c1",
-      "r": [
-        "cligen >= 1.0.0"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:31Z",
+  "generatedAt": "2026-05-26T13:18:04Z",
   "allDeps": {
     "packages": [
       "cligen"

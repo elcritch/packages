@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "drawille",
   "fqn": "drawille-nim.PMunch.github.com",
-  "head": "1b2daec77e6bbb78bc5a330b92796386e172bd57",
   "author": "Peter Munch-Ellingsen",
   "description": "Allows drawing in the terminal by using UTF Braille characters. Idea from https://github.com/asciimoo/drawille",
   "license": "MIT",
@@ -14,18 +13,11 @@
     {
       "v": "0.1.0@28c45ddc8af4690c822a5814f5c2102d039b9df1",
       "r": [],
-      "m": "~",
-      "x": []
-    },
-    {
-      "v": "#head@1b2daec77e6bbb78bc5a330b92796386e172bd57",
-      "r": [],
-      "m": "~",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:04Z",
+  "generatedAt": "2026-05-26T13:13:37Z",
   "allDeps": {
     "packages": [],
     "urls": [],

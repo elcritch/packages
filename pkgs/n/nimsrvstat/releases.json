@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimsrvstat",
   "fqn": "nimsrvstat.Minejerik.github.com",
-  "head": "57d2f70aff367c0b400a75966871838534e5312e",
   "author": "minejerik",
   "description": "A nim wrapper around mcsrvstat",
   "license": "MIT",
@@ -11,51 +10,19 @@
   "releases": [
     {
       "v": "0.1.2@235ba0460d2f04f181939a007840a842e67aab64",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.1@c52ae9e60cfb97583a14165dee78ce250d6778c5",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.0@69b1cc31ff9dbab428cc7d07387054e9f9162df3",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@57d2f70aff367c0b400a75966871838534e5312e",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:17Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "v0.1.0",
-      "v0.1.1",
-      "v0.1.2"
-    ],
-    "tagVersions": {
-      "v0.1.0": "0.1.0",
-      "v0.1.1": "0.1.1",
-      "v0.1.2": "0.1.2"
-    },
-    "latest": "v0.1.2",
-    "prerelease": [
-      "v0.1.0"
-    ]
-  },
+  "generatedAt": "2026-05-26T13:17:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

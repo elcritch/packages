@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "libipset",
   "fqn": "libipset.nim.ba0f3.github.com",
-  "head": "2d689ee288be6a5b95d072d2e3857fc6ba73cd03",
   "author": "Huy Doan",
   "description": "libipset wrapper for Nim",
   "license": "MIT",
@@ -14,14 +13,10 @@
     {
       "v": "0.0.1@a4a773eab057af8a0c6db75e1dfacaee3e18b31a",
       "r": []
-    },
-    {
-      "v": "#head@2d689ee288be6a5b95d072d2e3857fc6ba73cd03",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:49Z",
+  "generatedAt": "2026-05-26T13:15:27Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimrun",
   "fqn": "nimrun.lee-b.github.com",
-  "head": "4e8f613b15aa1450f2f30f2836cae50bbf74667e",
   "author": "Lee Braiden <leebraid@gmail.com>",
   "description": "Runs nim code as scripts, regardless of file extension",
   "license": "MIT",
@@ -20,24 +19,13 @@
       "r": [
         "tempfile"
       ],
-      "s": "",
-      "b": "",
-      "z": [],
-      "p": []
-    },
-    {
-      "v": "#head@4e8f613b15aa1450f2f30f2836cae50bbf74667e",
-      "r": [
-        "tempfile"
-      ],
-      "s": "",
       "b": "",
       "z": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:15Z",
+  "generatedAt": "2026-05-26T13:17:12Z",
   "allDeps": {
     "packages": [
       "tempfile"

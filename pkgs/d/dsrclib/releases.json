@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "dsrclib",
   "fqn": "dsrclib.quadram-institute-bioscience.github.com",
-  "head": "e7cd93f4729931002bbf60a7b983bd27dcf19abe",
   "author": "Andrea Telatin",
   "description": "Read DSRC2 compressed FASTQ files",
   "license": "GPL-2.0",
@@ -23,8 +22,6 @@
       "r": [
         "readfx >= 0.2.0"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "x": [],
       "p": [],
@@ -35,28 +32,14 @@
       "r": [
         "readfx >= 0.2.0"
       ],
-      "s": "",
       "b": "",
       "p": [],
-      "m": "~",
       "x": [],
-      "e": ""
-    },
-    {
-      "v": "#head@e7cd93f4729931002bbf60a7b983bd27dcf19abe",
-      "r": [
-        "readfx >= 0.2.0"
-      ],
-      "m": "~",
-      "s": "",
-      "b": "",
-      "x": [],
-      "p": [],
       "e": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:07Z",
+  "generatedAt": "2026-05-26T13:13:40Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

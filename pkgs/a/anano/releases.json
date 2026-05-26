@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "anano",
   "fqn": "anano.ire4ever1190.github.com",
-  "head": "da28ecd12d25198e8094b05da23c1579a8168b2a",
   "author": "Jake Leahy",
   "description": "Another nanoID implementation for nim",
   "license": "MIT",
@@ -11,31 +10,19 @@
   "releases": [
     {
       "v": "0.2.1@838f6b16a2b06e5e616b3a310c750db4e44bc784",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.0@edaf6929e1b7bdbb9ac04f7f0b6f200d523d8325",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.0@5388e7ccb0853d84ce5f4dc0d50eda29d406a70a",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@da28ecd12d25198e8094b05da23c1579a8168b2a",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:44Z",
+  "generatedAt": "2026-05-26T13:11:53Z",
   "allDeps": {
     "packages": [],
     "urls": [],

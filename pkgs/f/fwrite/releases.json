@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "fwrite",
   "fqn": "nim-fwrite.pdrb.github.com",
-  "head": "7f4094130169232160720ac30c0d2d79ac3f4a14",
   "author": "Pedro Buteri Gonring",
   "description": "Create files of the desired size",
   "license": "MIT",
@@ -15,20 +14,11 @@
     {
       "v": "1.0.0@ebf46cf5547fddde021334a5cc837a0ab801ad1f",
       "r": [],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@7f4094130169232160720ac30c0d2d79ac3f4a14",
-      "r": [],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:01Z",
+  "generatedAt": "2026-05-26T13:14:14Z",
   "allDeps": {
     "packages": [],
     "urls": [],

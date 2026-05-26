@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "jesterfork",
   "fqn": "jester_fork.ThomasTJdev.github.com",
-  "head": "ef5cb5e22be99140824b06cf01baeb0c82dc8851",
   "author": "Dominik Picheta",
   "description": "A sinatra-like web framework for Nim.",
   "license": "MIT",
@@ -19,7 +18,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
       "x": [],
       "y": []
     },
@@ -28,7 +26,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
       "x": [],
       "y": []
     },
@@ -37,7 +34,6 @@
       "r": [
         "httpbeast >= 0.4.0"
       ],
-      "m": "~",
       "x": [],
       "y": []
     },
@@ -47,7 +43,6 @@
         "httpbeast >= 0.2.2",
         "gh:timotheecour/asynctools #pr_fix_compilation"
       ],
-      "m": "~",
       "x": [],
       "y": []
     },
@@ -118,29 +113,18 @@
     {
       "v": "0.1.1@6c9bfa3607fd982958c09c92ed57913371d551a4",
       "r": [],
-      "m": "~",
       "x": [],
       "y": []
     },
     {
       "v": "0.1.0@b73f4e656509bef826c8df01aafcaa251ab0e038",
       "r": [],
-      "m": "~",
-      "x": [],
-      "y": []
-    },
-    {
-      "v": "#head@ef5cb5e22be99140824b06cf01baeb0c82dc8851",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "ambiguous nimble file",
-      "m": "~",
       "x": [],
       "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:22Z",
+  "generatedAt": "2026-05-26T13:15:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

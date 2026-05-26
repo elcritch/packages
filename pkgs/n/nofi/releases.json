@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nofi",
   "fqn": "nofi.ct-clmsn.github.com",
-  "head": "28fc1d6cf95e807f5745ea5340ad5ae40c27e7a6",
   "author": "Christopher Taylor",
   "description": "nim rofi (rust openfabrics interface) wrapper",
   "license": "Boost",
@@ -10,18 +9,11 @@
   "releases": [
     {
       "v": "0.0.1@1c37461962a41d92f6eca51cdfcaf68c9aa2e6de",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@28fc1d6cf95e807f5745ea5340ad5ae40c27e7a6",
-      "r": [],
-      "l": "boost",
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:37Z",
+  "generatedAt": "2026-05-26T13:17:27Z",
   "allDeps": {
     "packages": [],
     "urls": [],

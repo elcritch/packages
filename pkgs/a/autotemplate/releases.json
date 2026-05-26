@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "autotemplate",
   "fqn": "autotemplate.PMunch.github.com",
-  "head": "253c9fe83d27cce2e88e86a4f52009a358973fd8",
   "author": "PMunch",
   "description": "Simple auto-templates library",
   "license": "MIT",
@@ -14,22 +13,11 @@
       "r": [
         "with >= 0.5.0",
         "templates"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@253c9fe83d27cce2e88e86a4f52009a358973fd8",
-      "r": [
-        "with >= 0.5.0",
-        "templates"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:08Z",
+  "generatedAt": "2026-05-26T13:12:11Z",
   "allDeps": {
     "packages": [
       "templates",

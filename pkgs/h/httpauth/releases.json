@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "httpauth",
   "fqn": "nim-httpauth.FedericoCeratto.github.com",
-  "head": "46e89aeb779ee256aba478c94908229a3ee1824e",
   "author": "Federico Ceratto",
   "description": "HTTP Authentication and Authorization",
   "license": "LGPLv3",
@@ -16,7 +15,6 @@
       "r": [
         "libsodium"
       ],
-      "m": "~",
       "p": []
     },
     {
@@ -24,7 +22,6 @@
       "r": [
         "libsodium"
       ],
-      "m": "~",
       "p": []
     },
     {
@@ -32,7 +29,6 @@
       "r": [
         "libsodium"
       ],
-      "m": "~",
       "p": []
     },
     {
@@ -40,7 +36,6 @@
       "r": [
         "libsodium"
       ],
-      "m": "~",
       "p": []
     },
     {
@@ -50,18 +45,10 @@
       ],
       "m": "0.15.2",
       "p": []
-    },
-    {
-      "v": "#head@46e89aeb779ee256aba478c94908229a3ee1824e",
-      "r": [
-        "libsodium"
-      ],
-      "m": "~",
-      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:56Z",
+  "generatedAt": "2026-05-26T13:14:51Z",
   "allDeps": {
     "packages": [
       "libsodium"

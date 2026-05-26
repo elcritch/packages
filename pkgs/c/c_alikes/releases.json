@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "c_alikes",
   "fqn": "c_alikes.ReneSac.github.com",
-  "head": "dddc8141ca15ad5128d88cafd2f9bf2029b2644b",
   "author": "ReneSac",
   "description": "Operators, commands and functions more c-like, plus a few other utilities",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.2.0@dddc8141ca15ad5128d88cafd2f9bf2029b2644b^",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@dddc8141ca15ad5128d88cafd2f9bf2029b2644b",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:55Z",
+  "generatedAt": "2026-05-26T13:12:46Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

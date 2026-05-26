@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimPNG",
   "fqn": "nimPNG.jangko.github.com",
-  "head": "8f8e774be15218919235a044cd2ece13728e637d",
   "author": "Andri Lim",
   "description": "PNG encoder and decoder",
   "license": "MIT",
@@ -15,7 +14,6 @@
     {
       "v": "0.3.7@7230cdf19f8acfe3c310e1b5bd29787685173bf5",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
@@ -70,43 +68,10 @@
         "docs"
       ],
       "m": "0.19.0"
-    },
-    {
-      "v": "#head@8f8e774be15218919235a044cd2ece13728e637d",
-      "r": [],
-      "m": "~",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:20Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "0.2.7",
-      "0.3.0",
-      "v0.2.5",
-      "v0.2.6",
-      "v0.3.1",
-      "v0.3.2",
-      "v0.3.4",
-      "v0.3.6",
-      "v0.3.7"
-    ],
-    "tagVersions": {
-      "v0.2.5": "0.2.5",
-      "v0.2.6": "0.2.6",
-      "v0.3.1": "0.3.1",
-      "v0.3.2": "0.3.2",
-      "v0.3.4": "0.3.4",
-      "v0.3.6": "0.3.6",
-      "v0.3.7": "0.3.7"
-    },
-    "latest": "v0.3.7"
-  },
+  "generatedAt": "2026-05-26T13:16:33Z",
   "allDeps": {
     "packages": [],
     "urls": [],

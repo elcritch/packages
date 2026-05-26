@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "jill",
   "fqn": "jill.capocasa.github.com",
-  "head": "103a24f340d17b4ceacb26a7681b19696956391c",
   "author": "Carlo Capocasa",
   "description": "Jill is a Nimish Nim interface to the Jack Audio Connection Kit.",
   "license": "MIT",
@@ -12,33 +11,23 @@
       "v": "0.2.1@f442d1cee9abeea6ded2e61078229461b87e85a0",
       "r": [
         "jacket"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.2.0@50f38081a7cb60b67e7565f40f3e953654d9737a",
       "r": [
         "jacket"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.1.0@1f3a3d10bb186a1401fd007a04f96c07ee0cd47c",
       "r": [
         "jacket"
-      ],
-      "m": "~"
-    },
-    {
-      "v": "#head@103a24f340d17b4ceacb26a7681b19696956391c",
-      "r": [
-        "jacket"
-      ],
-      "m": "~"
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:22Z",
+  "generatedAt": "2026-05-26T13:15:10Z",
   "allDeps": {
     "packages": [
       "jacket"

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "geometrymath",
   "fqn": "geometrymath.can-lehmann.github.com",
-  "head": "e07b2336a497ce8ba7b5ad6f957e8abc2cf1d82e",
   "author": "Can Joshua Lehmann",
   "description": "Linear algebra library for computer graphics applications",
   "license": "MIT",
@@ -10,22 +9,11 @@
   "releases": [
     {
       "v": "1.0.0@58e94d9d086eb117f29b8b35a6f858545df611f8",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@e07b2336a497ce8ba7b5ad6f957e8abc2cf1d82e",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:10Z",
-  "allDeps": {
-    "packages": [],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T13:14:20Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -38,5 +26,10 @@
       "v1.0.0": "1.0.0"
     },
     "latest": "v1.0.0"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
   }
 }

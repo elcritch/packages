@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "intervalsets",
   "fqn": "intervalsets.autumngray.github.com",
-  "head": "06f5fa29bd07c8748c403b810091309305c294c4",
   "author": "Simon Werbeck",
   "description": "A set implementation operating over ranges (Slices)",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@06f5fa29bd07c8748c403b810091309305c294c4^",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@06f5fa29bd07c8748c403b810091309305c294c4",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:12Z",
+  "generatedAt": "2026-05-26T13:15:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

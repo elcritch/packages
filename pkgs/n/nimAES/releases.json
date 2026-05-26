@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimAES",
   "fqn": "nimAES.jangko.github.com",
-  "head": "b9d6d29cb44d4b6965ad4db04770bef2a35dd4b7",
   "author": "Andri Lim",
   "description": "AES encryption algorithm",
   "license": "MIT",
@@ -24,20 +23,10 @@
       "v": "0.1.2@44486beafa100f44ee0f0ec9bd8fb547168ba358",
       "r": [],
       "y": []
-    },
-    {
-      "v": "#head@b9d6d29cb44d4b6965ad4db04770bef2a35dd4b7",
-      "r": [],
-      "x": [
-        "tests",
-        "docs"
-      ],
-      "m": "1.0.6",
-      "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:14Z",
+  "generatedAt": "2026-05-26T13:16:30Z",
   "allDeps": {
     "packages": [],
     "urls": [],

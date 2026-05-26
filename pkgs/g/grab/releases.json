@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "grab",
   "fqn": "grab.metagn.github.com",
-  "head": "41ff40f74326d964612064b86ce8d1c657f67bbe",
   "author": "metagn",
   "description": "grab statement for importing Nimble packages, similar to Groovy's Grape",
   "license": "MIT",
@@ -11,37 +10,21 @@
   "releases": [
     {
       "v": "0.1.2@41ff40f74326d964612064b86ce8d1c657f67bbe^",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.1@a9d81cf4f265d3990cbd79b61bfaaf2c97851151",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.0@70f2563db11bdcc364f37abfbb707b098d5efea7",
       "r": [],
       "a": "hlaaftana",
-      "m": "1.4.0",
-      "s": ""
-    },
-    {
-      "v": "#head@41ff40f74326d964612064b86ce8d1c657f67bbe",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "m": "1.4.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:29Z",
-  "allDeps": {
-    "packages": [],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T13:14:32Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -58,5 +41,10 @@
       "v0.1.2": "0.1.2"
     },
     "latest": "v0.1.2"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
   }
 }

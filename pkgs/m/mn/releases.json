@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "mn",
   "fqn": "mn.h3rald.github.com",
-  "head": "d64ab3e089d58726eaf89b3e38e5ad8d932ee3d3",
   "license": "MIT",
   "nim": "1.6.12",
   "installDirs": [
@@ -16,7 +15,6 @@
     {
       "v": "0.4.0@d64ab3e089d58726eaf89b3e38e5ad8d932ee3d3^",
       "r": [],
-      "m": "~",
       "i": [],
       "j": []
     },
@@ -40,17 +38,10 @@
       "m": "1.4.4",
       "i": [],
       "j": []
-    },
-    {
-      "v": "#head@d64ab3e089d58726eaf89b3e38e5ad8d932ee3d3",
-      "r": [],
-      "m": "~",
-      "i": [],
-      "j": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:38Z",
+  "generatedAt": "2026-05-26T13:16:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "minhook",
   "fqn": "minhook.khchen.github.com",
-  "head": "7c0cfdac09e6b02114741318fe3e3284fc1ac334",
   "author": "Ward",
   "description": "MinHook wrapper for Nim",
   "license": "MIT",
@@ -14,18 +13,11 @@
     {
       "v": "1.0.0@7c0cfdac09e6b02114741318fe3e3284fc1ac334^",
       "r": [],
-      "m": "~",
-      "x": []
-    },
-    {
-      "v": "#head@7c0cfdac09e6b02114741318fe3e3284fc1ac334",
-      "r": [],
-      "m": "~",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:34Z",
+  "generatedAt": "2026-05-26T13:16:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

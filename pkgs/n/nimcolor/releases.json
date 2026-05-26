@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimcolor",
   "fqn": "NimColor.JessaTehCrow.github.com",
-  "head": "59e88627bfd8628d39f9087bb72c761546c032dd",
   "author": "JessaTehCrow",
   "description": "Color printing interface for nim",
   "license": "MIT",
@@ -11,49 +10,31 @@
   "releases": [
     {
       "v": "0.1.0@acd3ec06562523e132ba90e18478fb5563b6b1fe",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.1@23a31ad6c96dfa3c39189939419167079111891d",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.2@ed097b5fe291f739565389cc5e4f004bb6cb5cf1",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.4@6f4ef433cbdda0fa0f961e1a43df200296170a20",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.5@a819516ca7afa8b4054fa79c35f157673ebcc10d",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.6@01b7f5c14dd563c3ac15eb938643d7c1d1776d7a",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@59e88627bfd8628d39f9087bb72c761546c032dd",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:37Z",
+  "generatedAt": "2026-05-26T13:16:46Z",
   "allDeps": {
     "packages": [],
     "urls": [],

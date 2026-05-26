@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "github_release",
   "fqn": "github-release.kdheepak.github.com",
-  "head": "88ba12a63b6a8b2d8a9ecae25a815e6abf66af6b",
   "author": "Dheepak Krishnamurthy",
   "description": "github-release package",
   "license": "MIT",
@@ -21,8 +20,6 @@
       "r": [
         "cligen #head"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "z": [],
       "p": []
@@ -32,8 +29,6 @@
       "r": [
         "cligen #head"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "z": [],
       "p": []
@@ -43,8 +38,6 @@
       "r": [
         "cligen #head"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "z": [],
       "p": []
@@ -54,8 +47,6 @@
       "r": [
         "cligen #head"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "z": [],
       "p": []
@@ -65,8 +56,6 @@
       "r": [
         "cligen #head"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "z": [],
       "p": []
@@ -76,33 +65,13 @@
       "r": [
         "cligen #head"
       ],
-      "m": "~",
-      "s": "",
-      "b": "",
-      "z": [],
-      "p": []
-    },
-    {
-      "v": "#head@88ba12a63b6a8b2d8a9ecae25a815e6abf66af6b",
-      "r": [
-        "cligen #head"
-      ],
-      "m": "~",
-      "s": "",
       "b": "",
       "z": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:20Z",
-  "allDeps": {
-    "packages": [
-      "cligen"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T13:14:24Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -126,5 +95,12 @@
       "v0.1.4": "0.1.4"
     },
     "latest": "v0.1.4"
+  },
+  "allDeps": {
+    "packages": [
+      "cligen"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

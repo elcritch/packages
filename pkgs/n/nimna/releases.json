@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimna",
   "fqn": "nimna.mjendrusch.github.com",
-  "head": "be3fce2e9a9c06b7ca2f11912201daf11cd607a8",
   "author": "Michael Jendrusch",
   "description": "Nucleic acid folding in Nim",
   "license": "MIT",
@@ -21,36 +20,12 @@
       "v": "0.1.0@be3fce2e9a9c06b7ca2f11912201daf11cd607a8^",
       "r": [],
       "h": true,
-      "m": "~",
-      "x": [],
-      "y": []
-    },
-    {
-      "v": "#head@be3fce2e9a9c06b7ca2f11912201daf11cd607a8",
-      "r": [],
-      "h": true,
-      "m": "~",
       "x": [],
       "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:02Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "v0.1.0"
-    ],
-    "tagVersions": {
-      "v0.1.0": "0.1.0"
-    },
-    "prerelease": [
-      "v0.1.0"
-    ]
-  },
+  "generatedAt": "2026-05-26T13:17:02Z",
   "allDeps": {
     "packages": [],
     "urls": [],

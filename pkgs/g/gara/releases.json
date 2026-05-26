@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "gara",
   "fqn": "gara.alehander42.github.com",
-  "head": "2e3e8e95d104eb4cde2b65e6e8483dd02ea99fc0",
   "author": "Alexander Ivanov",
   "description": "A new awesome nimble package",
   "license": "MIT",
@@ -11,26 +10,15 @@
   "releases": [
     {
       "v": "0.1.0@51622e0e469c080ff19b3c619401651fb2e40c0f",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.0@3f4a3fc02b2c1d2b26bfb67cdb6f27435cc8d2e8",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@2e3e8e95d104eb4cde2b65e6e8483dd02ea99fc0",
-      "r": [],
-      "d": "Macro-based pattern matching library.",
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:02Z",
+  "generatedAt": "2026-05-26T13:14:15Z",
   "allDeps": {
     "packages": [],
     "urls": [],

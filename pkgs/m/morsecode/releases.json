@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "morsecode",
   "fqn": "morsecode.nemuelw.github.com",
-  "head": "fe3efc18ad05d11f7bae93252e33cc7486c6113b",
   "author": "Nemuel Wainaina",
   "description": "Nim package for encoding & decoding to & from Morse code",
   "license": "GPL-3.0-or-later",
@@ -11,20 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@4959831622920463f68a0199fd7004b00487fdf1",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@fe3efc18ad05d11f7bae93252e33cc7486c6113b",
-      "r": [],
-      "d": "Encode and decode text using standard international Morse code",
-      "m": "1.6.12",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:43Z",
+  "generatedAt": "2026-05-26T13:16:08Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimcorpora",
   "fqn": "nimcorpora.neroist.github.com",
-  "head": "43f0edf3637ab6817a2f9621fcb5ec7523d46769",
   "author": "Jasmine",
   "description": "A Nim interface for Darius Kazemi's Corpora Project.",
   "license": "GPL-3.0-only",
@@ -20,8 +19,6 @@
         "fab"
       ],
       "h": true,
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
@@ -32,23 +29,11 @@
       ],
       "h": true,
       "m": "1.6.10",
-      "s": "",
-      "x": []
-    },
-    {
-      "v": "#head@43f0edf3637ab6817a2f9621fcb5ec7523d46769",
-      "r": [
-        "zippy",
-        "fab"
-      ],
-      "h": true,
-      "m": "~",
-      "s": "",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:38Z",
+  "generatedAt": "2026-05-26T13:16:46Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

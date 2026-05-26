@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "urlon",
   "fqn": "urlon-nim.Double-oxygeN.github.com",
-  "head": "2ebbae97299749aac6bc8ffd4573ec5bb333fead",
   "author": "Double-oxygeN",
   "description": "URL Object Notation implemented in Nim",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1@2ebbae97299749aac6bc8ffd4573ec5bb333fead^",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@2ebbae97299749aac6bc8ffd4573ec5bb333fead",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:22Z",
+  "generatedAt": "2026-05-26T13:20:04Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "note",
   "fqn": "note.pswilde.codeberg.org",
-  "head": "779649587276445c43bf6aed07cbbb8c18fdd70b",
   "author": "Paul Wilde",
   "description": "A simple paste bin",
   "license": "AGPL-3.0-or-later",
@@ -21,27 +20,12 @@
         "threadlogging >= 0.1.5",
         "argparse >= 4.0.1"
       ],
-      "m": "~",
-      "s": "",
-      "b": "",
-      "p": []
-    },
-    {
-      "v": "#head@779649587276445c43bf6aed07cbbb8c18fdd70b",
-      "r": [
-        "mummy >= 0.3.5",
-        "nimja >= 0.8.7",
-        "threadlogging >= 0.1.5",
-        "argparse >= 4.0.1"
-      ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T07:29:08Z",
+  "generatedAt": "2026-05-26T13:17:35Z",
   "allDeps": {
     "packages": [
       "argparse",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "daemonize",
   "fqn": "daemonize.nim.OpenSystemsLab.github.com",
-  "head": "61dc74960cf5b3f2e34fad85a0e5e0076a1c61e9",
   "author": "Huy Doan",
   "description": "This library makes your code run as a daemon process on Unix-like systems",
   "license": "MIT",
@@ -22,14 +21,10 @@
     {
       "v": "0.0.1@b4be443e98f7fd6db881634c0fcd7e2e0cc5d264",
       "r": []
-    },
-    {
-      "v": "#head@61dc74960cf5b3f2e34fad85a0e5e0076a1c61e9",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:43Z",
+  "generatedAt": "2026-05-26T13:13:23Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

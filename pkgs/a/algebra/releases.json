@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "algebra",
   "fqn": "nim-algebra.refaqtor.github.com",
-  "head": "99909d037177d5e6e8ae22dfe5be2547557eea32",
   "author": "ijneb",
   "description": "Algebraic Expression Parser and Evaluator",
   "license": "CC0",
@@ -14,14 +13,10 @@
     {
       "v": "0.1.1@99909d037177d5e6e8ae22dfe5be2547557eea32^",
       "r": []
-    },
-    {
-      "v": "#head@99909d037177d5e6e8ae22dfe5be2547557eea32",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:49Z",
+  "generatedAt": "2026-05-26T13:11:50Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "xkcdgeohash",
   "fqn": "xkcdgeohashing.nim.Naitsabot.github.com",
-  "head": "5c08b65ee8bf6b2a38de5569e3eaa644b801e057",
   "author": "Naitsabot",
   "description": "Implementation for the geohashing algorithm described in xkcd #426",
   "license": "MIT",
@@ -18,8 +17,6 @@
         "checksums >= 0.2.1",
         "docopt >= 0.7.1"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -28,8 +25,6 @@
         "checksums >= 0.2.1",
         "docopt >= 0.7.1"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -38,8 +33,6 @@
         "checksums >= 0.2.1",
         "docopt >= 0.7.1"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -48,8 +41,6 @@
         "checksums >= 0.2.1",
         "docopt >= 0.7.1"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -59,7 +50,6 @@
         "docopt >= 0.7.1"
       ],
       "m": "2.0.1",
-      "s": "",
       "p": []
     },
     {
@@ -67,8 +57,6 @@
       "r": [
         "checksums >= 0.2.1"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -76,23 +64,11 @@
       "r": [
         "checksums >= 0.2.1"
       ],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@5c08b65ee8bf6b2a38de5569e3eaa644b801e057",
-      "r": [
-        "checksums >= 0.2.1",
-        "docopt >= 0.7.1"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:57:09Z",
+  "generatedAt": "2026-05-26T13:20:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "chronos",
   "fqn": "nim-chronos.status-im.github.com",
-  "head": "31ddf9be6560072f83aeb25933c3132d4ecd638e",
   "author": "Status Research & Development GmbH",
   "description": "Networking framework with async/await support",
   "license": "MIT or Apache License 2.0",
@@ -20,7 +19,6 @@
         "httputils",
         "unittest2"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -32,7 +30,6 @@
         "httputils",
         "unittest2"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -44,7 +41,6 @@
         "httputils",
         "unittest2"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -56,7 +52,6 @@
         "httputils",
         "unittest2"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -68,7 +63,6 @@
         "httputils",
         "unittest2"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -80,7 +74,6 @@
         "httputils",
         "unittest2"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -92,7 +85,6 @@
         "httputils",
         "unittest2"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -104,7 +96,6 @@
         "httputils",
         "unittest2"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -128,22 +119,10 @@
       ],
       "m": "1.2.0",
       "x": []
-    },
-    {
-      "v": "#head@31ddf9be6560072f83aeb25933c3132d4ecd638e",
-      "r": [
-        "results",
-        "stew >= 0.5.0",
-        "bearssl >= 0.2.8",
-        "httputils",
-        "unittest2"
-      ],
-      "m": "~",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:13Z",
+  "generatedAt": "2026-05-26T13:13:01Z",
   "allDeps": {
     "packages": [
       "bearssl",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "des",
   "fqn": "des.nim.LucaWolf.github.com",
-  "head": "1fe5f4f88d3e5fda44ed0093024a5a162626656b",
   "author": "LucaWolf <LucaWolf@users.noreply.github.com>",
   "description": "3DES native library for Nim",
   "license": "MIT",
@@ -17,21 +16,18 @@
     {
       "v": "0.0.1@6d2eabbf33541edc6847cdc5c292d9dec62becfc",
       "r": [],
-      "m": "~",
       "x": [],
       "p": []
     },
     {
       "v": "0.0.2@04a8d72f3048a80b0d5d61e3e2412a2144a4b74c",
       "r": [],
-      "m": "~",
       "x": [],
       "p": []
     },
     {
       "v": "0.0.3@bba7cc3d79619c1dd08dfa6aa20b28c8e21d311b",
       "r": [],
-      "m": "~",
       "x": [],
       "p": []
     },
@@ -99,17 +95,10 @@
       "m": "1.0.0",
       "p": [],
       "x": []
-    },
-    {
-      "v": "#head@1fe5f4f88d3e5fda44ed0093024a5a162626656b",
-      "r": [],
-      "m": "1.0.0",
-      "p": [],
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:53Z",
+  "generatedAt": "2026-05-26T13:13:30Z",
   "allDeps": {
     "packages": [],
     "urls": [],

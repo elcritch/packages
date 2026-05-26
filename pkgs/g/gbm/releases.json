@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "gbm",
   "fqn": "gbm-nim.xTrayambak.github.com",
-  "head": "8f6177cafff70a233dcca27c2def101cd045a81e",
   "author": "xTrayambak",
   "description": "Nim bindings to Mesa's Generic Buffer Management API",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@8b6a6634d6afb060fd1107ead336202ee1d737e2",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@8f6177cafff70a233dcca27c2def101cd045a81e",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:03Z",
+  "generatedAt": "2026-05-26T13:14:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

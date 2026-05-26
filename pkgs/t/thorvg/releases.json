@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "thorvg",
   "fqn": "thorvg-nim.elcritch.github.com",
-  "head": "24729ee8bd2a598404abc1610a4f7cae236bf873",
   "author": "ElCritch",
   "description": "ThorVG Nim Wrapper",
   "license": "Unlicense",
@@ -24,8 +23,7 @@
         "test": [
           "gh:elcritch/windex"
         ]
-      },
-      "s": ""
+      }
     },
     {
       "v": "0.2.0@3c5d691d39da63053a2ce9cc5d4a1a2afd80710c",
@@ -41,38 +39,17 @@
         "test": [
           "gh:elcritch/windex"
         ]
-      },
-      "s": ""
+      }
     },
     {
       "v": "0.1.0@5c18b4423e9bbe0c59553f67538561b30082b19f",
       "r": [
         "chroma"
-      ],
-      "s": ""
-    },
-    {
-      "v": "#head@24729ee8bd2a598404abc1610a4f7cae236bf873",
-      "r": [
-        "chroma",
-        "sdl2",
-        "opengl",
-        "vmath",
-        "bumpy"
-      ],
-      "f": {
-        "wgpu_native": [
-          "gh:gfx-rs/wgpu-native #fad19f59"
-        ],
-        "test": [
-          "gh:elcritch/windex"
-        ]
-      },
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:47Z",
+  "generatedAt": "2026-05-26T13:19:40Z",
   "allDeps": {
     "packages": [
       "bumpy > 0.2.0",

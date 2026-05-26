@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "hashlib",
   "fqn": "hashlib.khchen.github.com",
-  "head": "84e0247555e4488594975900401baaf5bbbfb531",
   "author": "Ward",
   "description": "Hash Library for Nim",
   "license": "MIT",
@@ -17,7 +16,6 @@
       "r": [
         "nimcrypto >= 0.4.11"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -25,20 +23,11 @@
       "r": [
         "nimcrypto >= 0.4.11"
       ],
-      "m": "~",
-      "x": []
-    },
-    {
-      "v": "#head@84e0247555e4488594975900401baaf5bbbfb531",
-      "r": [
-        "nimcrypto >= 0.4.11"
-      ],
-      "m": "~",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:40Z",
+  "generatedAt": "2026-05-26T13:14:38Z",
   "allDeps": {
     "packages": [
       "nimcrypto"

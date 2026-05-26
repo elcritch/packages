@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "config",
   "fqn": "nim-cfg-lib.vsajip.github.com",
-  "head": "8d9c3af61030c72be5cbac7135991ec118ed03ed",
   "author": "Vinay Sajip",
   "description": "A configuration system",
   "license": "BSD-3-Clause",
@@ -14,9 +13,7 @@
       "r": [
         "nre >= 2.0.0",
         "timezones >= 0.5"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.0@0ceaf586bbf4ecaae0e145989c251120f6bf1899",
@@ -24,21 +21,11 @@
         "nre >= 2.0.0",
         "timezones >= 0.5"
       ],
-      "m": "1.0.0",
-      "s": ""
-    },
-    {
-      "v": "#head@8d9c3af61030c72be5cbac7135991ec118ed03ed",
-      "r": [
-        "nre >= 2.0.0",
-        "timezones >= 0.5"
-      ],
-      "m": "~",
-      "s": ""
+      "m": "1.0.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:27Z",
+  "generatedAt": "2026-05-26T13:13:11Z",
   "allDeps": {
     "packages": [
       "nre",

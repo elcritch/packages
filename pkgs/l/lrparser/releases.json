@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "lrparser",
   "fqn": "lrparser.vanyle.github.com",
-  "head": "3287bfdaca7beaff8f9009a2e6c3b660694cc2d7",
   "author": "Antoine Delègue",
   "description": "An SLR Parser and Tokenizer",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@55554749afa858fc847789fa7a804af8e70fdab1",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@3287bfdaca7beaff8f9009a2e6c3b660694cc2d7",
-      "r": [],
-      "m": "1.4.0",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:12Z",
+  "generatedAt": "2026-05-26T13:15:44Z",
   "allDeps": {
     "packages": [],
     "urls": [],

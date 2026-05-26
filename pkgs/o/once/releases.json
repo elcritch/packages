@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "once",
   "fqn": "once.nim.~euantorano.git.sr.ht",
-  "head": "4d52f9034e94c81740e1ef98c8d1d9d4c851a2fc",
   "author": "Euan Torano",
   "description": "Once provides a type that will enforce that a callback is invoked only once.",
   "license": "BSD-3-Clause",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "1.0.0@6e3c9db8e15e91053b296ab6981cf079a8acfd8b",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@4d52f9034e94c81740e1ef98c8d1d9d4c851a2fc",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T07:29:24Z",
+  "generatedAt": "2026-05-26T13:17:45Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "css_html_minify",
   "fqn": "nim-css-html-minify.juancarlospaco.github.com",
-  "head": "b168974d7ebadecce22771980a9f26653284398c",
   "author": "Juan Carlos",
   "description": "HTML & CSS Minify Lib & App based on Regexes & parallel MultiReplaces",
   "license": "MIT",
@@ -11,20 +10,11 @@
   "releases": [
     {
       "v": "0.1.5@eb3735c4f5de10e341ba8389b575684ca38673ff",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@b168974d7ebadecce22771980a9f26653284398c",
-      "r": [],
-      "d": "HTML & CSS & JS Minify Lib & App based on Regexes & parallel MultiReplaces",
-      "m": "0.19.4",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:38Z",
+  "generatedAt": "2026-05-26T13:13:19Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

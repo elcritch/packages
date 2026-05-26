@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "icon",
   "fqn": "icon.bung87.github.com",
-  "head": "29b37b76704a14fe68a7e3523dc06d5c2ebf31f5",
   "author": "bung87",
   "description": "Generate icon files from PNG files.",
   "license": "MIT",
@@ -21,8 +20,6 @@
         "imageman",
         "arraymancer"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -32,8 +29,6 @@
         "nimPNG",
         "struct"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -44,8 +39,6 @@
         "struct"
       ],
       "p": [],
-      "m": "~",
-      "s": "",
       "k": []
     },
     {
@@ -55,8 +48,6 @@
         "struct"
       ],
       "p": [],
-      "m": "~",
-      "s": "",
       "k": []
     },
     {
@@ -66,24 +57,11 @@
         "struct"
       ],
       "p": [],
-      "m": "~",
-      "s": "",
-      "k": []
-    },
-    {
-      "v": "#head@29b37b76704a14fe68a7e3523dc06d5c2ebf31f5",
-      "r": [
-        "nimPNG",
-        "struct"
-      ],
-      "p": [],
-      "m": "~",
-      "s": "",
       "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:03Z",
+  "generatedAt": "2026-05-26T13:14:57Z",
   "allDeps": {
     "packages": [
       "arraymancer <= 0.1.0",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "hackpad",
   "fqn": "nim-hackpad.juancarlospaco.github.com",
-  "head": "ef1539f057813d9fd045231e5eb01adfc34984ea",
   "author": "Juan Carlos",
   "description": "Hackathon Web Scratchpad for teaching Nim on events using Wifi with limited or no Internet",
   "license": "MIT",
@@ -15,34 +14,14 @@
     {
       "v": "0.1.0@bb2360aade8b35e2926114a0fa218030c496de21",
       "r": [],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@ef1539f057813d9fd045231e5eb01adfc34984ea",
-      "r": [
-        "jester",
-        "zip"
-      ],
-      "m": "1.0.4",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:35Z",
+  "generatedAt": "2026-05-26T13:14:36Z",
   "allDeps": {
-    "packages": [
-      "asynctools",
-      "httpbeast",
-      "jester",
-      "zip"
-    ],
+    "packages": [],
     "urls": [],
-    "unresolved": [
-      "gh:iffy/asynctools",
-      "gh:timotheecour/asynctools"
-    ]
+    "unresolved": []
   }
 }

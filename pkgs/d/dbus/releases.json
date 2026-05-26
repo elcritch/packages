@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "dbus",
   "fqn": "nim-dbus.zielmicha.github.com",
-  "head": "9aedf3c455554ccef2c7741d2379f5af0ac85e55",
   "author": "Michał Zieliński <michal@zielinscy.org.pl>",
   "description": "dbus bindings for Nim",
   "license": "MIT",
@@ -10,15 +9,10 @@
     {
       "v": "0.0.1@a97d67db90d3c6b90018e886d0931d2c2b8a7ec6",
       "r": []
-    },
-    {
-      "v": "#head@9aedf3c455554ccef2c7741d2379f5af0ac85e55",
-      "r": [],
-      "m": "0.19.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:47Z",
+  "generatedAt": "2026-05-26T13:13:26Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "selfpipe",
   "fqn": "selfpipe.tdely.github.com",
-  "head": "782b12a7239588c5ea39d7b3b20e20aee1fb20a5",
   "author": "Tobias Dély",
   "description": "Easy safe signal handling",
   "license": "MIT",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "0.2.0@ba61de643b66930375154a057ded74bc155d8d48",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@782b12a7239588c5ea39d7b3b20e20aee1fb20a5",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:36Z",
+  "generatedAt": "2026-05-26T13:18:50Z",
   "allDeps": {
     "packages": [],
     "urls": [],

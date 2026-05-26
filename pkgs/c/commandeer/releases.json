@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "commandeer",
   "fqn": "commandeer.fenekku.github.com",
-  "head": "d8f246703de3c17763a492c8f8ab53ffd8542a28",
   "author": "Guillaume Viger",
   "description": "A small command line parsing DSL",
   "license": "MIT",
@@ -14,25 +13,21 @@
     {
       "v": "0.12.3@47ed703cbf261ce86c3814bda753467d4c1c7bf6",
       "r": [],
-      "m": "~",
       "j": []
     },
     {
       "v": "0.12.1@a0baa24c0b66a72c77895a2167b05c6713a32265",
       "r": [],
-      "m": "~",
       "j": []
     },
     {
       "v": "0.12.0@b415b7524f9e1964fab431372c3690b370c3e950",
       "r": [],
-      "m": "~",
       "j": []
     },
     {
       "v": "0.11.0@6b4ea600559785b99b2d69b29ad9f14f6363957c",
       "r": [],
-      "m": "~",
       "j": []
     },
     {
@@ -50,43 +45,36 @@
     {
       "v": "0.10.3@4e07d005d32fc4c604a8b3469515c3ea6e56dbdb",
       "r": [],
-      "m": "~",
       "j": []
     },
     {
       "v": "0.9.1@ae8b17c4f142f7b101b47d43c202aeaa0085a6d9",
       "r": [],
-      "m": "~",
       "j": []
     },
     {
       "v": "0.9.0@1e8e75a9adaa77955ceea859e1f42eca4fb6fb0c",
       "r": [],
-      "m": "~",
       "j": []
     },
     {
       "v": "0.8.0@f4becba1f495d9485511050e83979b4ab70af106",
       "r": [],
-      "m": "~",
       "j": []
     },
     {
       "v": "0.7.0@01ce91d9a0fc47c93d8c49f06d17222b7aac8d80",
       "r": [],
-      "m": "~",
       "j": []
     },
     {
       "v": "0.6.0@bb22728f58a6be22ae2f2b86dca1a99e1fa6fa20",
       "r": [],
-      "m": "~",
       "j": []
     },
     {
       "v": "0.5.0@3e129760a07535bc553ec418f25762e79422997a",
       "r": [],
-      "m": "~",
       "j": []
     },
     {
@@ -94,7 +82,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "j": []
     },
     {
@@ -102,7 +89,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "j": []
     },
     {
@@ -110,7 +96,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "j": []
     },
     {
@@ -118,7 +103,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "j": []
     },
     {
@@ -126,7 +110,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "j": []
     },
     {
@@ -134,30 +117,11 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "j": []
-    },
-    {
-      "v": "#head@d8f246703de3c17763a492c8f8ab53ffd8542a28",
-      "r": [],
-      "m": "~",
       "j": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:25Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "0.11.0",
-      "0.2.0",
-      "0.3.0"
-    ],
-    "latest": "0.11.0"
-  },
+  "generatedAt": "2026-05-26T13:13:10Z",
   "allDeps": {
     "packages": [],
     "urls": [],

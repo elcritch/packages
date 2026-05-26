@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "avrman",
   "fqn": "avrman.Abathargh.github.com",
-  "head": "7917e72b5e904609267fd16fc74323330d24fccc",
   "author": "Gianmarco Marcello",
   "description": "An AVR project manager.",
   "license": "BSD-3-Clause",
@@ -14,39 +13,29 @@
     {
       "v": "0.4.0@7917e72b5e904609267fd16fc74323330d24fccc^",
       "r": [],
-      "m": "~",
       "p": []
     },
     {
       "v": "0.3.0@66990a9a874d28b12459a89c04f843b3bad8b75b",
       "r": [],
       "a": "mar",
-      "m": "~",
       "p": []
     },
     {
       "v": "0.2.0@1106b9a77e6728d075e20944b75c26cde5bb2732",
       "r": [],
       "a": "mar",
-      "m": "~",
       "p": []
     },
     {
       "v": "0.1.0@93b9bc1e479228883a28bb396cccb063b18639b0",
       "r": [],
       "a": "mar",
-      "m": "~",
-      "p": []
-    },
-    {
-      "v": "#head@7917e72b5e904609267fd16fc74323330d24fccc",
-      "r": [],
-      "m": "~",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:09Z",
+  "generatedAt": "2026-05-26T13:12:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

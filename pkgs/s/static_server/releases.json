@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "static_server",
   "fqn": "nimhttpd.bung87.github.com",
-  "head": "b74ccd7c72ce6226cd12a63801e726048447015c",
   "author": "bung",
   "description": "A tiny static file web server.",
   "license": "MIT",
@@ -25,8 +24,6 @@
         "finder >= 0.2.0"
       ],
       "y": [],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -36,8 +33,6 @@
         "finder >= 0.2.0"
       ],
       "y": [],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -47,8 +42,6 @@
         "finder >= 0.2.0"
       ],
       "y": [],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -58,8 +51,6 @@
         "finder >= 0.1.1"
       ],
       "y": [],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -69,8 +60,6 @@
         "finder"
       ],
       "y": [],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -80,8 +69,6 @@
         "finder"
       ],
       "y": [],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -91,8 +78,6 @@
         "finder"
       ],
       "y": [],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -106,8 +91,7 @@
         "nimhttpd"
       ],
       "m": "0.20.0",
-      "y": [],
-      "s": ""
+      "y": []
     },
     {
       "v": "1.0.7@549f4f45584f7a5c6b29dd8115702f6a15af9da4",
@@ -119,8 +103,7 @@
         "nimhttpd"
       ],
       "m": "0.20.0",
-      "y": [],
-      "s": ""
+      "y": []
     },
     {
       "v": "1.0.6@91ac711138d852c71ab2dbc0f6bd72dc87e6fc36",
@@ -132,8 +115,7 @@
         "nimhttpd"
       ],
       "m": "0.19.0",
-      "y": [],
-      "s": ""
+      "y": []
     },
     {
       "v": "1.0.5@d3faad88718122ee7ce93b524f5ef0e3a0515e87",
@@ -143,15 +125,13 @@
       ],
       "m": "0.18.0",
       "y": [],
-      "k": [],
-      "s": ""
+      "k": []
     },
     {
       "v": "1.0.4@301242ed8bf652f4fbf6487cbfdb7b259b77a5c7",
       "r": [],
       "a": "Fabio Cevasco",
       "m": "0.18.0",
-      "s": "",
       "k": [],
       "p": [],
       "y": []
@@ -161,8 +141,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "s": "",
       "y": [],
       "k": [],
       "p": []
@@ -172,8 +150,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "s": "",
       "y": [],
       "k": [],
       "p": []
@@ -183,8 +159,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "s": "",
       "y": [],
       "k": [],
       "p": []
@@ -194,26 +168,13 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "s": "",
       "y": [],
-      "k": [],
-      "p": []
-    },
-    {
-      "v": "#head@b74ccd7c72ce6226cd12a63801e726048447015c",
-      "r": [
-        "finder >= 0.2.0"
-      ],
-      "y": [],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:15Z",
+  "generatedAt": "2026-05-26T13:19:17Z",
   "allDeps": {
     "packages": [
       "finder > 1.0.8",

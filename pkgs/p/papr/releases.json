@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "papr",
   "fqn": "papr.capocasa.github.com",
-  "head": "37a5368bbba047f2da93549d9467485d9b9024f3",
   "author": "capocasa",
   "description": "Paperless-ngx CLI for listing, inspecting and downloading documents",
   "license": "MIT",
@@ -18,8 +17,6 @@
         "cligen",
         "dotenv"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -28,8 +25,6 @@
         "cligen",
         "dotenv"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -38,8 +33,6 @@
         "cligen",
         "dotenv"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -48,23 +41,11 @@
         "cligen",
         "dotenv"
       ],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@37a5368bbba047f2da93549d9467485d9b9024f3",
-      "r": [
-        "cligen",
-        "dotenv"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:18Z",
+  "generatedAt": "2026-05-26T13:17:55Z",
   "allDeps": {
     "packages": [
       "cligen",

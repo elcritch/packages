@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "denim",
   "fqn": "denim.openpeeps.github.com",
-  "head": "eeb06ca5fc03c438cf332bcad5e07874aa05c9ff",
   "author": "George Lemon",
   "description": "DENIM - Nim code to Bun.js/Node.js in seconds via NAPI",
   "license": "MIT",
@@ -21,8 +20,6 @@
       "r": [
         "kapsis #head"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
@@ -32,8 +29,6 @@
       "r": [
         "kapsis #head"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
@@ -43,8 +38,6 @@
       "r": [
         "kapsis #head"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
@@ -54,8 +47,6 @@
       "r": [
         "kapsis #head"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
@@ -65,8 +56,6 @@
       "r": [
         "kapsis #head"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
@@ -76,8 +65,6 @@
       "r": [
         "kapsis"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
@@ -87,8 +74,6 @@
       "r": [
         "kapsis"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
@@ -98,8 +83,6 @@
       "r": [
         "kapsis"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
@@ -109,8 +92,6 @@
       "r": [
         "kapsis"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
@@ -121,32 +102,17 @@
         "kapsis"
       ],
       "b": "",
-      "m": "~",
-      "s": "",
-      "k": [],
-      "p": []
-    },
-    {
-      "v": "#head@eeb06ca5fc03c438cf332bcad5e07874aa05c9ff",
-      "r": [
-        "kapsis #head"
-      ],
-      "m": "~",
-      "s": "",
-      "b": "",
       "k": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:52Z",
+  "generatedAt": "2026-05-26T13:13:29Z",
   "allDeps": {
     "packages": [
       "ansiparse",
       "bigints",
-      "blackpaper",
       "checksums",
-      "floof",
       "htmlparser",
       "illwill",
       "jsony",

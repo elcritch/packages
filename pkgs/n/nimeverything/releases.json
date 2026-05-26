@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimeverything",
   "fqn": "nimeverything.xland.github.com",
-  "head": "f61fb11de69906c46869564b1bd301eb1cc237de",
   "author": "liulun",
   "description": "everything wrapper (everything:http://www.voidtools.com/)",
   "license": "MIT",
@@ -10,14 +9,10 @@
     {
       "v": "0.1.0@073879b9cbb064e6027f726f5cbdd255ace57552",
       "r": []
-    },
-    {
-      "v": "#head@f61fb11de69906c46869564b1bd301eb1cc237de",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:42Z",
+  "generatedAt": "2026-05-26T13:16:49Z",
   "allDeps": {
     "packages": [],
     "urls": [],

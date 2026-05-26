@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "splitmix64",
   "fqn": "splitmix64.IcedQuinn.github.com",
-  "head": "63d49f1792f075a41b935d5669660809eb6f5012",
   "author": "Iced Quinn",
   "description": "A very small random number generator.",
   "license": "CC-PDDC",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@d57f3b43df4d0772087896fb6f3698dd0a5f2bc3",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@63d49f1792f075a41b935d5669660809eb6f5012",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:09Z",
+  "generatedAt": "2026-05-26T13:19:12Z",
   "allDeps": {
     "packages": [],
     "urls": [],

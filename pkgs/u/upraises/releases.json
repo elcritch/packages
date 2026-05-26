@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "upraises",
   "fqn": "upraises.markspanbroek.github.com",
-  "head": "bc2628989b63854d980e92dadbd58f83e34b6f25",
   "author": "upraises authors",
   "description": "exception tracking for older versions of nim",
   "license": "MIT",
@@ -10,14 +9,10 @@
     {
       "v": "0.1.0@d9f268db1021959fe0f2c7a5e49fba741f9932a0",
       "r": []
-    },
-    {
-      "v": "#head@bc2628989b63854d980e92dadbd58f83e34b6f25",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:20Z",
+  "generatedAt": "2026-05-26T13:20:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

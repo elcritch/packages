@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "libgcrypt",
   "fqn": "nim-libgcrypt.FedericoCeratto.github.com",
-  "head": "8f9662a004c3078b1d3eff4e7bd2597f0bae7955",
   "author": "Federico Ceratto",
   "description": "Libgcrypt wrapper",
   "license": "LGPL-2.1",
@@ -10,22 +9,15 @@
   "releases": [
     {
       "v": "0.1.1@8f9662a004c3078b1d3eff4e7bd2597f0bae7955^",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "0.0.1@b33f8afa3a43b87e38084edd39116cbb2844f39e",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@8f9662a004c3078b1d3eff4e7bd2597f0bae7955",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:48Z",
+  "generatedAt": "2026-05-26T13:15:27Z",
   "allDeps": {
     "packages": [],
     "urls": [],

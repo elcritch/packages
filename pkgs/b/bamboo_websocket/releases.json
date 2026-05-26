@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "bamboo_websocket",
   "fqn": "bamboo_websocket.obemaru4012.github.com",
-  "head": "92539ce8b53f6abf422393fb8dfa7495043f213c",
   "author": "obemaru4012",
   "description": "This is a simple implementation of a WebSocket server with 100% Nim.",
   "license": "MIT",
@@ -15,37 +14,31 @@
     {
       "v": "0.3.3@8bf5e4c3ae1b9514a3d1810202271a14da525094",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.3.2@365f32fe229103dfb437b4772fd46d6b05cb21e6",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.3.1@06a5ee5d83284215176905b1881be0a680283d4f",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.3.0@57d70d3af9e1c7535a7b69ffe111e7d02cfbf8d8",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.2.4@89726d16298e191660c6fd2e01ff8c6905d9581f",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.2.3@8c02d19429193252a6fd38b5689526d048775a6a",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
@@ -56,8 +49,7 @@
         "example",
         "images",
         "tests"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.2.1@5c180f0c4b2e347d2fb05fdd5b2b7639d9f998f0",
@@ -65,8 +57,7 @@
       "x": [
         "tests",
         "example"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.2.0@a3d09b3523272fc6eb31328cb740dd0d6e5c6644",
@@ -74,8 +65,7 @@
       "x": [
         "tests",
         "example"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.1.0@4ca10a8c0f5c220c4f6fcb405e3923b7ee54e271",
@@ -83,18 +73,11 @@
       "x": [
         "tests",
         "example"
-      ],
-      "m": "~"
-    },
-    {
-      "v": "#head@92539ce8b53f6abf422393fb8dfa7495043f213c",
-      "r": [],
-      "m": "~",
-      "x": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:16Z",
+  "generatedAt": "2026-05-26T13:12:16Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

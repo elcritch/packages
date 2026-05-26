@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "zopflipng",
   "fqn": "zopflipng.bung87.github.com",
-  "head": "366d0b4979f1833df9816ac3dcdaa838bfa2f2f0",
   "author": "bung87",
   "description": "zopflipng-like png optimization",
   "license": "MIT",
@@ -17,22 +16,11 @@
       "r": [
         "nimPNG"
       ],
-      "m": "~",
-      "s": "",
-      "x": []
-    },
-    {
-      "v": "#head@366d0b4979f1833df9816ac3dcdaa838bfa2f2f0",
-      "r": [
-        "nimPNG >= 0.3.6"
-      ],
-      "m": "~",
-      "s": "",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:57:27Z",
+  "generatedAt": "2026-05-26T13:20:50Z",
   "allDeps": {
     "packages": [
       "nimPNG"

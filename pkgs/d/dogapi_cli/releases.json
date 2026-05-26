@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "dogapi_cli",
   "fqn": "dogapi-cli.thechampagne.github.com",
-  "head": "cc8ef60ec48ee206f1f9e063ed099e487058a165",
   "author": "XXIV",
   "description": "Dog API CLI app",
   "license": "Apache-2.0",
@@ -20,24 +19,12 @@
       "r": [
         "dogapi >= 1.0.0"
       ],
-      "m": "~",
-      "s": "",
-      "p": [],
-      "o": {}
-    },
-    {
-      "v": "#head@cc8ef60ec48ee206f1f9e063ed099e487058a165",
-      "r": [
-        "dogapi >= 1.0.0"
-      ],
-      "m": "~",
-      "s": "",
       "p": [],
       "o": {}
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:03Z",
+  "generatedAt": "2026-05-26T13:13:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

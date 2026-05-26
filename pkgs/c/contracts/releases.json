@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "contracts",
   "fqn": "NimContracts.Udiknedormin.github.com",
-  "head": "8b44799eb10874863333c886f06efae30c73ac50",
   "author": "M. Kotwica",
   "description": "Design by contract (DbC) library.",
   "license": "MIT",
@@ -14,8 +13,7 @@
     {
       "v": "0.1.0@0db53509d033e6589c8d2c84a387f74d520efbff",
       "r": [],
-      "x": [],
-      "m": "~"
+      "x": []
     },
     {
       "v": "0.2.0@0309f205379f2b3a6a4dae9d52fe062becf9f4c9",
@@ -34,16 +32,10 @@
       "r": [],
       "m": "1.4.0",
       "x": []
-    },
-    {
-      "v": "#head@8b44799eb10874863333c886f06efae30c73ac50",
-      "r": [],
-      "m": "1.4.0",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:29Z",
+  "generatedAt": "2026-05-26T13:13:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

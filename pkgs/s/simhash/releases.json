@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "simhash",
   "fqn": "simhash-nim.bung87.github.com",
-  "head": "45cb37cb09867ea83ae083296342b55103185021",
   "author": "zhoupeng",
   "description": "Nim implementation of simhash algoritim",
   "license": "MIT",
@@ -11,29 +10,18 @@
   "releases": [
     {
       "v": "0.1.0@d9c47187939bbf5127bc5493555e9b79483aff11",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.1@45cb37cb09867ea83ae083296342b55103185021^",
       "r": [
         "lc"
       ],
-      "m": "0.19.0",
-      "s": ""
-    },
-    {
-      "v": "#head@45cb37cb09867ea83ae083296342b55103185021",
-      "r": [
-        "lc"
-      ],
-      "m": "0.19.0",
-      "s": ""
+      "m": "0.19.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:51Z",
+  "generatedAt": "2026-05-26T13:19:00Z",
   "allDeps": {
     "packages": [
       "cligen > 0.1.0",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "github_api",
   "fqn": "github-api-nim.watzon.github.com",
-  "head": "56cb4de7706a5322c72ff64fb4fda2604f4fff84",
   "author": "Chris Watson",
   "description": "Connector for the GitHub API v3",
   "license": "MIT",
@@ -18,23 +17,12 @@
     {
       "v": "0.1.0@0d0dec6e0c344ad99bddcb1e60ed66eb9488c3d8",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": [],
       "p": []
-    },
-    {
-      "v": "#head@56cb4de7706a5322c72ff64fb4fda2604f4fff84",
-      "r": [],
-      "l": "WTFPL",
-      "s": "",
-      "p": [],
-      "m": "~",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:19Z",
+  "generatedAt": "2026-05-26T13:14:24Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "ttop",
   "fqn": "ttop.inv2004.github.com",
-  "head": "de83047aec8c8ceedc03b9c0aafc8bc551a56015",
   "author": "inv2004",
   "description": "Monitoring tool with historical snapshots and alerts",
   "license": "MIT",
@@ -21,8 +20,6 @@
         "parsetoml",
         "gh:inv2004/jsony #non_quoted_key"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -34,8 +31,6 @@
         "parsetoml",
         "gh:inv2004/jsony #non_quoted_key"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -47,8 +42,6 @@
         "parsetoml",
         "gh:inv2004/jsony #non_quoted_key"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -60,8 +53,6 @@
         "parsetoml",
         "gh:inv2004/jsony #non_quoted_key"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -73,8 +64,6 @@
         "parsetoml",
         "gh:inv2004/jsony #non_quoted_key"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -86,8 +75,6 @@
         "parsetoml",
         "gh:inv2004/jsony #non_quoted_key"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -100,7 +87,6 @@
         "gh:inv2004/jsony #non_quoted_key"
       ],
       "m": "1.6.10",
-      "s": "",
       "p": []
     },
     {
@@ -113,7 +99,6 @@
         "gh:inv2004/jsony #non_quoted_key"
       ],
       "m": "1.6.10",
-      "s": "",
       "p": []
     },
     {
@@ -126,7 +111,6 @@
         "gh:inv2004/jsony #non_quoted_key"
       ],
       "m": "1.6.10",
-      "s": "",
       "p": []
     },
     {
@@ -139,7 +123,6 @@
         "gh:inv2004/jsony #non_quoted_key"
       ],
       "m": "1.6.10",
-      "s": "",
       "p": []
     },
     {
@@ -152,7 +135,6 @@
         "gh:inv2004/jsony #non_quoted_key"
       ],
       "m": "1.6.10",
-      "s": "",
       "p": []
     },
     {
@@ -165,7 +147,6 @@
         "gh:inv2004/jsony #non_quoted_key"
       ],
       "m": "1.6.10",
-      "s": "",
       "p": []
     },
     {
@@ -178,7 +159,6 @@
         "gh:inv2004/jsony #non_quoted_key"
       ],
       "m": "1.6.10",
-      "s": "",
       "p": []
     },
     {
@@ -191,7 +171,6 @@
         "gh:inv2004/jsony #non_quoted_key"
       ],
       "m": "1.6.10",
-      "s": "",
       "p": []
     },
     {
@@ -204,7 +183,6 @@
         "gh:inv2004/jsony #non_quoted_key"
       ],
       "m": "1.6.10",
-      "s": "",
       "p": []
     },
     {
@@ -217,7 +195,6 @@
         "gh:inv2004/jsony #non_quoted_key"
       ],
       "m": "1.6.10",
-      "s": "",
       "p": []
     },
     {
@@ -230,7 +207,6 @@
         "gh:inv2004/jsony #non_quoted_key"
       ],
       "m": "1.6.10",
-      "s": "",
       "p": []
     },
     {
@@ -243,7 +219,6 @@
         "gh:inv2004/jsony #non_quoted_key"
       ],
       "m": "1.6.10",
-      "s": "",
       "p": []
     },
     {
@@ -256,7 +231,6 @@
         "gh:inv2004/jsony #non_quoted_key"
       ],
       "m": "1.6.10",
-      "s": "",
       "p": []
     },
     {
@@ -269,7 +243,6 @@
         "gh:inv2004/jsony #non_quoted_key"
       ],
       "m": "1.6.10",
-      "s": "",
       "p": []
     },
     {
@@ -282,7 +255,6 @@
         "gh:inv2004/jsony #non_quoted_key"
       ],
       "m": "1.6.12",
-      "s": "",
       "p": []
     },
     {
@@ -295,7 +267,6 @@
         "gh:inv2004/jsony #non_quoted_key"
       ],
       "m": "1.6.12",
-      "s": "",
       "p": []
     },
     {
@@ -308,7 +279,6 @@
         "gh:inv2004/jsony #non_quoted_key"
       ],
       "m": "1.6.12",
-      "s": "",
       "p": []
     },
     {
@@ -321,7 +291,6 @@
         "gh:inv2004/jsony #non_quoted_key"
       ],
       "m": "1.6.12",
-      "s": "",
       "p": []
     },
     {
@@ -333,7 +302,6 @@
         "parsetoml"
       ],
       "m": "1.6.12",
-      "s": "",
       "p": []
     },
     {
@@ -345,7 +313,6 @@
         "parsetoml"
       ],
       "m": "1.6.4",
-      "s": "",
       "p": []
     },
     {
@@ -357,7 +324,6 @@
         "parsetoml"
       ],
       "m": "1.6.4",
-      "s": "",
       "p": []
     },
     {
@@ -369,7 +335,6 @@
         "parsetoml"
       ],
       "m": "1.6.4",
-      "s": "",
       "p": []
     },
     {
@@ -381,7 +346,6 @@
         "parsetoml"
       ],
       "m": "1.6.4",
-      "s": "",
       "p": []
     },
     {
@@ -393,7 +357,6 @@
         "parsetoml"
       ],
       "m": "1.6.4",
-      "s": "",
       "p": []
     },
     {
@@ -405,7 +368,6 @@
         "parsetoml"
       ],
       "m": "1.6.4",
-      "s": "",
       "p": []
     },
     {
@@ -417,7 +379,6 @@
         "parsetoml"
       ],
       "m": "1.6.4",
-      "s": "",
       "p": []
     },
     {
@@ -430,7 +391,6 @@
         "parsetoml"
       ],
       "m": "1.6.4",
-      "s": "",
       "p": []
     },
     {
@@ -443,7 +403,6 @@
         "parsetoml"
       ],
       "m": "1.6.4",
-      "s": "",
       "p": []
     },
     {
@@ -455,7 +414,6 @@
         "sensors >= 0.2.3"
       ],
       "m": "1.6.4",
-      "s": "",
       "p": []
     },
     {
@@ -468,7 +426,6 @@
       ],
       "d": "Monitoring tool with historical snapshots",
       "m": "1.6.4",
-      "s": "",
       "p": []
     },
     {
@@ -481,7 +438,6 @@
       ],
       "d": "Monitoring tool with historical snapshots",
       "m": "1.6.4",
-      "s": "",
       "p": []
     },
     {
@@ -494,7 +450,6 @@
       ],
       "d": "Monitoring tool with historical snapshots",
       "m": "1.6.4",
-      "s": "",
       "p": []
     },
     {
@@ -507,7 +462,6 @@
       ],
       "d": "Monitoring tool with historical snapshots",
       "m": "1.6.4",
-      "s": "",
       "p": []
     },
     {
@@ -520,7 +474,6 @@
       ],
       "d": "Monitoring tool with historical snapshots",
       "m": "1.6.4",
-      "s": "",
       "p": []
     },
     {
@@ -533,7 +486,6 @@
       ],
       "d": "Monitoring tool with historical snapshots",
       "m": "1.6.4",
-      "s": "",
       "p": []
     },
     {
@@ -546,7 +498,6 @@
       ],
       "d": "Monitoring tool with historical snapshots",
       "m": "1.6.4",
-      "s": "",
       "p": []
     },
     {
@@ -558,7 +509,6 @@
       ],
       "d": "Monitoring tool with historical snapshots",
       "m": "1.6.4",
-      "s": "",
       "p": []
     },
     {
@@ -570,7 +520,6 @@
       ],
       "d": "Monitoring tool with historical snapshots",
       "m": "1.6.4",
-      "s": "",
       "p": []
     },
     {
@@ -582,7 +531,6 @@
       ],
       "d": "Monitoring tool with historical snapshots",
       "m": "1.6.4",
-      "s": "",
       "p": []
     },
     {
@@ -594,7 +542,6 @@
       ],
       "d": "Monitoring tool with historical snapshots",
       "m": "1.6.4",
-      "s": "",
       "p": []
     },
     {
@@ -606,7 +553,6 @@
       ],
       "d": "Monitoring tool with historical snapshots",
       "m": "1.6.4",
-      "s": "",
       "p": []
     },
     {
@@ -618,7 +564,6 @@
       ],
       "d": "Monitoring tool with historical snapshots",
       "m": "1.6.4",
-      "s": "",
       "p": []
     },
     {
@@ -630,7 +575,6 @@
       ],
       "d": "Monitoring tool with historical snapshots",
       "m": "1.6.4",
-      "s": "",
       "p": []
     },
     {
@@ -642,7 +586,6 @@
       ],
       "d": "Monitoring tool with historical snapshots",
       "m": "1.6.4",
-      "s": "",
       "p": []
     },
     {
@@ -654,7 +597,6 @@
       ],
       "d": "Monitoring tool with historical snapshots",
       "m": "1.6.4",
-      "s": "",
       "p": []
     },
     {
@@ -666,7 +608,6 @@
       ],
       "d": "Monitoring tool with historical snapshots",
       "m": "1.6.4",
-      "s": "",
       "p": []
     },
     {
@@ -678,7 +619,6 @@
       ],
       "d": "Monitoring tool with historical snapshots",
       "m": "1.6.4",
-      "s": "",
       "p": []
     },
     {
@@ -690,7 +630,6 @@
       ],
       "d": "Monitoring tool with historical snapshots",
       "m": "1.6.4",
-      "s": "",
       "p": []
     },
     {
@@ -702,25 +641,11 @@
       ],
       "d": "Monitoring tool with historical snapshots",
       "m": "1.6.4",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@de83047aec8c8ceedc03b9c0aafc8bc551a56015",
-      "r": [
-        "gh:inv2004/illwill",
-        "zippy",
-        "asciigraph",
-        "parsetoml",
-        "gh:inv2004/jsony #non_quoted_key"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:08Z",
+  "generatedAt": "2026-05-26T13:19:54Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

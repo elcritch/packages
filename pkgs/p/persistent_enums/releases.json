@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "persistent_enums",
   "fqn": "persistent_enums.yglukhov.github.com",
-  "head": "04eb935d339c90b4be264c1de67b9c27b06f5dad",
   "author": "Yuriy Glukhov",
   "description": "Define enums which values preserve their binary representation upon inserting or reordering",
   "license": "MIT",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "0.1.0@2e77a290ca57b9e580bc3fb212897a4e967a9fd6",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@04eb935d339c90b4be264c1de67b9c27b06f5dad",
-      "r": [],
-      "m": "1.6"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:27Z",
+  "generatedAt": "2026-05-26T13:18:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

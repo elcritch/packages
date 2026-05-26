@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "timezones",
   "fqn": "timezones.GULPF.github.com",
-  "head": "69fe1a22fad95446ae4c262ad88b2035cfc367a0",
   "author": "Oscar Nihlgård",
   "description": "Timezone library compatible with the standard library",
   "license": "MIT",
@@ -21,7 +20,6 @@
       "v": "0.5.4@dc6f615c372fc1c7294748b4e4bfa608cefac760",
       "r": [],
       "x": [],
-      "m": "~",
       "i": [],
       "p": []
     },
@@ -29,7 +27,6 @@
       "v": "0.5.3@66901db958200fb0e016ca0c65f5666a118fe8e5",
       "r": [],
       "x": [],
-      "m": "~",
       "i": [],
       "p": []
     },
@@ -37,7 +34,6 @@
       "v": "0.5.2@9ba9c41a71aabd5814d0924198c6c9ad936a935d",
       "r": [],
       "x": [],
-      "m": "~",
       "i": [],
       "p": []
     },
@@ -45,7 +41,6 @@
       "v": "0.5.1@1d2d9a252d0a5ca808083fb293e2f19487e28a0b",
       "r": [],
       "x": [],
-      "m": "~",
       "i": [],
       "p": []
     },
@@ -53,7 +48,6 @@
       "v": "0.5.0@0c5f270c81b798d16b4dc690bbfc0c22fcfa37ea",
       "r": [],
       "x": [],
-      "m": "~",
       "i": [],
       "p": []
     },
@@ -112,18 +106,10 @@
       "i": [],
       "x": [],
       "p": []
-    },
-    {
-      "v": "#head@69fe1a22fad95446ae4c262ad88b2035cfc367a0",
-      "r": [],
-      "x": [],
-      "m": "~",
-      "i": [],
-      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:54Z",
+  "generatedAt": "2026-05-26T13:19:44Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

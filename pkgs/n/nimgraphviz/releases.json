@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimgraphviz",
   "fqn": "nimgraphviz.Aveheuzed.github.com",
-  "head": "e4f50e76daafd88e44d5de51edbcf0bdafe49c34",
   "author": "Quinn Freedman, then Alexis Masson",
   "description": "Nim bindings for the GraphViz tool and the DOT graph language",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "3.0@de13bc4714e8ea79de443677c00a02c3e37be87b",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@e4f50e76daafd88e44d5de51edbcf0bdafe49c34",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:49Z",
+  "generatedAt": "2026-05-26T13:16:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

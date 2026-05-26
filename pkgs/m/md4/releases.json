@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "md4",
   "fqn": "md4.nim.infinoid.github.com",
-  "head": "328090bf22850011c438742c4dca0b2c35d3a2c6",
   "author": "Mark Glines",
   "description": "dumb MD4 digest calculation",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "1.0.0@328090bf22850011c438742c4dca0b2c35d3a2c6^",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@328090bf22850011c438742c4dca0b2c35d3a2c6",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:25Z",
+  "generatedAt": "2026-05-26T13:15:54Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

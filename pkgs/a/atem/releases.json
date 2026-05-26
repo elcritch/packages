@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "atem",
   "fqn": "atem.capocasa.github.com",
-  "head": "c07888a5ad5dd1bf47c7c42cbb2e0c3a8ef4f158",
   "author": "Carlo Capocasa",
   "description": "Facebook Page management CLI",
   "license": "MIT",
@@ -18,23 +17,11 @@
         "cligen",
         "dotenv"
       ],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@c07888a5ad5dd1bf47c7c42cbb2e0c3a8ef4f158",
-      "r": [
-        "cligen",
-        "dotenv"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:04Z",
+  "generatedAt": "2026-05-26T13:12:08Z",
   "allDeps": {
     "packages": [
       "cligen",

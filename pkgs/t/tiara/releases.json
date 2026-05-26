@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "tiara",
   "fqn": "tiara.nimmer-jp.github.com",
-  "head": "b6763419a5be7974343a5378602ccaf0cecb77bc",
   "author": "Tiara Contributors",
   "description": "Pure Nim UI component library for SSR-first applications",
   "license": "MIT",
@@ -21,24 +20,18 @@
     {
       "v": "0.2.1@b6763419a5be7974343a5378602ccaf0cecb77bc^",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": [],
       "k": []
     },
     {
       "v": "0.2.0@eb1aa127559046cb731df70899369936384be1bd",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": [],
       "k": []
     },
     {
       "v": "0.1.5@cbbabb539c8041de3a853c66060117c2ed27b87b",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": [],
       "k": []
     },
@@ -51,8 +44,6 @@
         "docs",
         "examples"
       ],
-      "m": "~",
-      "s": "",
       "k": []
     },
     {
@@ -64,8 +55,6 @@
         "docs",
         "examples"
       ],
-      "m": "~",
-      "s": "",
       "k": []
     },
     {
@@ -77,8 +66,6 @@
         "docs",
         "examples"
       ],
-      "m": "~",
-      "s": "",
       "k": []
     },
     {
@@ -90,8 +77,6 @@
         "docs",
         "examples"
       ],
-      "m": "~",
-      "s": "",
       "k": []
     },
     {
@@ -103,21 +88,11 @@
         "docs",
         "examples"
       ],
-      "m": "~",
-      "s": "",
-      "k": []
-    },
-    {
-      "v": "#head@b6763419a5be7974343a5378602ccaf0cecb77bc",
-      "r": [],
-      "m": "~",
-      "s": "",
-      "x": [],
       "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:49Z",
+  "generatedAt": "2026-05-26T13:19:41Z",
   "allDeps": {
     "packages": [],
     "urls": [],

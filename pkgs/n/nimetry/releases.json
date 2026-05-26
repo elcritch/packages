@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimetry",
   "fqn": "nimetry.refaqtor.github.com",
-  "head": "5d61b46684c8caea1ad03dc29ebfee9d30c8453b",
   "author": "ijneb",
   "description": "Plotting library in Nim",
   "license": "CC0",
@@ -13,42 +12,30 @@
       "r": [
         "typography >= 0.2.0",
         "print >= 0.1.0"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.1.1@054baad79a7c0b0a59c26008aa2c63d571f86553",
       "r": [
         "typography >= 0.2.0",
         "vmath >= 0.2.1"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.1.2@1db37f9508bfbd9ee2bde2e1485c5d0026fea5b4",
       "r": [
         "typography >= 0.2.0",
         "vmath >= 0.2.1"
-      ],
-      "m": "~"
-    },
-    {
-      "v": "#head@5d61b46684c8caea1ad03dc29ebfee9d30c8453b",
-      "r": [
-        "typography >= 0.2.0",
-        "vmath >= 0.2.1"
-      ],
-      "m": "~"
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:42Z",
+  "generatedAt": "2026-05-26T13:16:49Z",
   "allDeps": {
     "packages": [
       "bumpy",
       "chroma",
       "crunchy",
-      "faststreams",
       "flatty",
       "flippy",
       "mddoc",
@@ -56,13 +43,10 @@
       "nimsimd",
       "pixie",
       "print",
-      "results",
       "snappy",
       "stb_image",
-      "stew",
       "supersnappy",
       "typography",
-      "unittest2",
       "vmath",
       "zippy"
     ],

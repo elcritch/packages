@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "mcd",
   "fqn": "mcd.malicious-commit-detector.gitlab.com",
-  "head": "46ebb49878fcd37153833cda887ec8ceb5dcddcd",
   "author": "Arnaud Moura",
   "description": "Application to detect which commit generates malicious code detection by antivirus software.",
   "license": "MIT",
@@ -21,8 +20,6 @@
         "cligen >= 1.2.2",
         "colorizeEcho"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": [],
       "e": ""
@@ -34,8 +31,6 @@
         "cligen >= 1.2.2",
         "colorizeEcho"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": [],
       "e": ""
@@ -47,8 +42,6 @@
         "cligen >= 1.2.2",
         "colorizeEcho"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": [],
       "e": ""
@@ -60,8 +53,6 @@
         "cligen >= 1.2.2",
         "colorizeEcho"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": [],
       "e": ""
@@ -73,28 +64,13 @@
         "cligen >= 1.2.2",
         "colorizeEcho"
       ],
-      "m": "~",
-      "s": "",
-      "b": "",
-      "p": [],
-      "e": ""
-    },
-    {
-      "v": "#head@46ebb49878fcd37153833cda887ec8ceb5dcddcd",
-      "r": [
-        "parsetoml >= 0.5.0",
-        "cligen >= 1.2.2",
-        "colorizeEcho 1.2"
-      ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": [],
       "e": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T07:26:42Z",
+  "generatedAt": "2026-05-26T13:15:54Z",
   "allDeps": {
     "packages": [
       "cligen",

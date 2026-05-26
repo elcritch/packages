@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "zip",
   "fqn": "zip.nim-lang.github.com",
-  "head": "1bc02a1d888cedb53075ca81d9fe3553c16ef10a",
   "author": "Anonymous",
   "description": "Wrapper for the zip library",
   "license": "MIT",
@@ -14,18 +13,11 @@
     {
       "v": "0.3.1@b59d3917a569abf384531f985b5c0d02852976f3",
       "r": [],
-      "m": "~",
-      "x": []
-    },
-    {
-      "v": "#head@1bc02a1d888cedb53075ca81d9fe3553c16ef10a",
-      "r": [],
-      "m": "~",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:57:25Z",
+  "generatedAt": "2026-05-26T13:20:48Z",
   "allDeps": {
     "packages": [],
     "urls": [],

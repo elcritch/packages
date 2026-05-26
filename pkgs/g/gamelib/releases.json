@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "gamelib",
   "fqn": "SDLGamelib.PMunch.github.com",
-  "head": "1b4baefbe9f80b4cf865487a4e44d20226381958",
   "author": "Peter Munch-Ellingsen",
   "description": "A library of functions to make creating games using Nim and SDL2 easier.\nThis does not intend to be a full blown engine and tries to keep all the components loosly coupled so that individual parts can be used separately.",
   "license": "MIT",
@@ -14,14 +13,10 @@
     {
       "v": "0.0.2@1b4baefbe9f80b4cf865487a4e44d20226381958^",
       "r": []
-    },
-    {
-      "v": "#head@1b4baefbe9f80b4cf865487a4e44d20226381958",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:02Z",
+  "generatedAt": "2026-05-26T13:14:14Z",
   "allDeps": {
     "packages": [],
     "urls": [],

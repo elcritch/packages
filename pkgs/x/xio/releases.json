@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "xio",
   "fqn": "xio.ringabout.github.com",
-  "head": "73321c2c163e7eebbee1b5774ccde8a74ef6fdbf",
   "author": "flywind",
   "description": "Async for Nim.",
   "license": "Apache-2.0",
@@ -11,21 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@90972d5ac8c95e0f81a71536d89c8ff626827073",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@73321c2c163e7eebbee1b5774ccde8a74ef6fdbf",
-      "r": [],
-      "a": "Zeshen Xing",
-      "d": "Cross platform system API for os and net.",
-      "m": "1.2.6",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:57:08Z",
+  "generatedAt": "2026-05-26T13:20:35Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "sha256_64B",
   "fqn": "sha256_64B.status-im.github.com",
-  "head": "eabe9edea292f3db27797631fb8ca69ec29b6d19",
   "author": "Status Research & Development GmbH",
   "description": "sha256 hash of batches of 64B blocks in parallel via pure asm lib hashtree",
   "license": "MIT or Apache License 2.0",
@@ -17,20 +16,12 @@
     {
       "v": "0.0.1@595c35d11534dd7ad3631f9edb24350899363445",
       "r": [],
-      "m": "~",
-      "i": [],
-      "j": []
-    },
-    {
-      "v": "#head@eabe9edea292f3db27797631fb8ca69ec29b6d19",
-      "r": [],
-      "m": "~",
       "i": [],
       "j": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:42Z",
+  "generatedAt": "2026-05-26T13:18:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

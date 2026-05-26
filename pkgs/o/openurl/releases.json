@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "openurl",
   "fqn": "openurl.foxoman.github.com",
-  "head": "14825fb9a36543ea8519c6ab322c6eb430e21abf",
   "author": "Sultan Al Isaiee",
   "description": "Open Any Url/File in the default desktop App / WebBrowser!",
   "license": "MIT",
@@ -18,16 +17,12 @@
     {
       "v": "2.0.4@54e750c89dec3201565ea5fe88022aab55bc1500",
       "r": [],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
     {
       "v": "2.0.4@1a3dfb89fc09049b29f2c89d48eb447dd78360f9",
       "r": [],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -37,7 +32,6 @@
         "figures"
       ],
       "m": "1.4.6",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -47,7 +41,6 @@
         "figures"
       ],
       "m": "1.4.6",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -57,7 +50,6 @@
         "figures"
       ],
       "m": "1.4.6",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -67,21 +59,12 @@
         "figures"
       ],
       "m": "1.4.6",
-      "s": "",
-      "k": [],
-      "p": []
-    },
-    {
-      "v": "#head@14825fb9a36543ea8519c6ab322c6eb430e21abf",
-      "r": [],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:08Z",
+  "generatedAt": "2026-05-26T13:17:49Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "foreach",
   "fqn": "foreach.disruptek.github.com",
-  "head": "edae1f2c5b98a00a574b4b24e7b79b42cc8cdc66",
   "author": "disruptek",
   "description": "A sugary for loop with syntax for typechecking loop variables",
   "license": "MIT",
@@ -10,27 +9,19 @@
   "releases": [
     {
       "v": "1.0.2@bacb1bd04920e2cc0fe01a8893465a4459efa111",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "1.0.1@ee6e11bf6d05fff63d3b1c178029673a3162a65e",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "1.0.0@685dbe6c2b8469ef985168a69c266650583aaac9",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@edae1f2c5b98a00a574b4b24e7b79b42cc8cdc66",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:52Z",
+  "generatedAt": "2026-05-26T13:14:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

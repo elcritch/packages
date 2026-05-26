@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimctx",
   "fqn": "nimctx.nim-community.github.com",
-  "head": "cd68d5add19cb674bfd111164ba5ee97ac06a5ee",
   "author": "bung87",
   "description": "Nim Context MCP Server - Provides Nim stdlib and project dependencies context for AI assistants",
   "license": "MIT",
@@ -22,32 +21,15 @@
         "mummy >= 0.4.0",
         "taskpools >= 0.0.1"
       ],
-      "m": "~",
-      "s": "",
-      "k": [],
-      "p": []
-    },
-    {
-      "v": "#head@cd68d5add19cb674bfd111164ba5ee97ac06a5ee",
-      "r": [
-        "nimcp",
-        "mummy >= 0.4.0",
-        "taskpools >= 0.0.1",
-        "tiny_sqlite >= 0.2.0",
-        "chronicles >= 0.10.0"
-      ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:39Z",
+  "generatedAt": "2026-05-26T13:16:48Z",
   "allDeps": {
     "packages": [
       "bearssl",
-      "chronicles",
       "chronos",
       "crunchy",
       "faststreams",
@@ -60,8 +42,6 @@
       "serialization",
       "stew",
       "taskpools",
-      "testutils",
-      "tiny_sqlite",
       "unittest2",
       "webby",
       "zippy"

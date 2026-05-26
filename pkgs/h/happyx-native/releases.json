@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "happyx-native",
   "fqn": "happyx-native.HapticX.github.com",
-  "head": "9a3663d4ea4f5d942761cb3d9e9e494e9693e8aa",
   "author": "HapticX",
   "description": "Macro-oriented web-framework compiles to native written with ♥",
   "license": "MIT",
@@ -32,24 +31,6 @@
         "jnim #head",
         "rcedit"
       ],
-      "m": "~",
-      "s": "",
-      "i": [],
-      "j": [],
-      "k": [],
-      "o": {}
-    },
-    {
-      "v": "#head@9a3663d4ea4f5d942761cb3d9e9e494e9693e8aa",
-      "r": [
-        "cligen >= 1.6.14",
-        "happyx #head",
-        "jnim #head",
-        "rcedit",
-        "gh:neroist/webview"
-      ],
-      "m": "~",
-      "s": "",
       "i": [],
       "j": [],
       "k": [],
@@ -57,7 +38,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:37Z",
+  "generatedAt": "2026-05-26T13:14:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -108,7 +89,6 @@
     "urls": [],
     "unresolved": [
       "gh:iffy/asynctools",
-      "gh:neroist/webview",
       "gh:timotheecour/asynctools"
     ]
   }

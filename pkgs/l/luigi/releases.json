@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "luigi",
   "fqn": "luigi.neroist.github.com",
-  "head": "92af8103ac9a4faa47af23a8e8cb15e73ada3ae2",
   "author": "Jasmine",
   "description": "Nim wrapper of Luigi UI library",
   "license": "MIT",
@@ -13,26 +12,13 @@
       "v": "0.1.0@2a84164216f330cd578d4f1a888c0e1c84a0366c",
       "r": [
         "gh:neroist/freetype"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@92af8103ac9a4faa47af23a8e8cb15e73ada3ae2",
-      "r": [
-        "freetype >= 0.1.2"
-      ],
-      "h": true,
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:15Z",
+  "generatedAt": "2026-05-26T13:15:47Z",
   "allDeps": {
-    "packages": [
-      "freetype"
-    ],
+    "packages": [],
     "urls": [],
     "unresolved": [
       "gh:neroist/freetype"

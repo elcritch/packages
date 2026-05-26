@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "rclnim",
   "fqn": "rclnim.Pylgos.github.com",
-  "head": "46d09a4eada14aca53209fb8637fbef83c535f42",
   "author": "Pylgos",
   "description": "Nim bindings for ROS2",
   "license": "MIT",
@@ -22,8 +21,6 @@
         "gh:Pylgos/nim-concurrent #head",
         "chronos #head"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "o": {}
     },
@@ -34,8 +31,6 @@
         "gh:Pylgos/nim-concurrent #head",
         "chronos #head"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "o": {}
     },
@@ -47,7 +42,6 @@
         "chronos #head"
       ],
       "m": "1.9.5",
-      "s": "",
       "k": [],
       "o": {}
     },
@@ -58,7 +52,6 @@
         "gh:Pylgos/nim-concurrent"
       ],
       "m": "1.9.5",
-      "s": "",
       "k": [],
       "o": {}
     },
@@ -69,7 +62,6 @@
         "gh:Pylgos/nim-concurrent"
       ],
       "m": "1.9.5",
-      "s": "",
       "k": [],
       "o": {}
     },
@@ -79,7 +71,6 @@
         "gh:Pylgos/nim-concurrent"
       ],
       "m": "1.9",
-      "s": "",
       "k": [],
       "o": {}
     },
@@ -89,7 +80,6 @@
         "gh:Pylgos/nim-concurrent"
       ],
       "m": "1.9",
-      "s": "",
       "k": [],
       "o": {}
     },
@@ -99,25 +89,12 @@
         "gh:Pylgos/nim-concurrent"
       ],
       "m": "1.9",
-      "s": "",
-      "k": [],
-      "o": {}
-    },
-    {
-      "v": "#head@46d09a4eada14aca53209fb8637fbef83c535f42",
-      "r": [
-        "tinyre",
-        "gh:Pylgos/nim-concurrent #head",
-        "chronos #head"
-      ],
-      "m": "~",
-      "s": "",
       "k": [],
       "o": {}
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:08Z",
+  "generatedAt": "2026-05-26T13:18:30Z",
   "allDeps": {
     "packages": [
       "bearssl > 0.4.1",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "emerald",
   "fqn": "emerald.flyx.github.com",
-  "head": "b4ff282d860e94c21d4f1e9b5dd9b2b5bbfd2365",
   "author": "Felix Krause",
   "description": "macro-based HTML templating engine",
   "license": "WTFPL",
@@ -11,45 +10,29 @@
   "releases": [
     {
       "v": "0.2.3@1f88004f7ee5ee7d6af727dd16d2bc23f39a7803",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.2@bdb60c144435dd58bf9c10a1d45bbddcaaac051f",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.1@4993acd341ea8af5949c2e7e3bbc67284a0e2633",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.0@c8612d7785a6def19eb7f40a6506bded1439e8af",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.0@e331225a4931edbd5b882544defcba53ba7240f6",
       "r": [],
       "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file",
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@a625ef8f7ae571535f6a1e3ba9cd1b1647e41339",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "E": "missing nimble file"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:15Z",
+  "generatedAt": "2026-05-26T13:13:45Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

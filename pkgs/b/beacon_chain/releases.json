@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "beacon_chain",
   "fqn": "nimbus-eth2.status-im.github.com",
-  "head": "6fb05f36804d53c2e8e014cfeeea8ad7996a5efe",
   "author": "Status Research & Development GmbH",
   "description": "Eth2.0 research implementation of the beacon chain",
   "license": "MIT or Apache License 2.0",
@@ -58,7 +57,6 @@
       "b": "",
       "x": [],
       "o": {},
-      "m": "~",
       "i": [],
       "p": []
     },
@@ -3633,7 +3631,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "b": "",
       "x": [],
       "i": [],
@@ -3645,7 +3642,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "b": "",
       "x": [],
       "i": [],
@@ -3657,7 +3653,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "b": "",
       "x": [],
       "i": [],
@@ -3669,7 +3664,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "b": "",
       "x": [],
       "i": [],
@@ -3681,7 +3675,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "b": "",
       "x": [],
       "i": [],
@@ -3693,7 +3686,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "b": "",
       "x": [],
       "i": [],
@@ -3705,7 +3697,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "b": "",
       "x": [],
       "i": [],
@@ -3717,7 +3708,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "b": "",
       "x": [],
       "i": [],
@@ -3729,7 +3719,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "b": "",
       "x": [],
       "i": [],
@@ -3741,7 +3730,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "b": "",
       "x": [],
       "i": [],
@@ -3753,7 +3741,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "b": "",
       "x": [],
       "i": [],
@@ -3765,7 +3752,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "b": "",
       "x": [],
       "i": [],
@@ -3777,7 +3763,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "b": "",
       "x": [],
       "i": [],
@@ -3789,7 +3774,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "b": "",
       "x": [],
       "i": [],
@@ -3801,7 +3785,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "b": "",
       "x": [],
       "i": [],
@@ -3813,7 +3796,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "b": "",
       "x": [],
       "i": [],
@@ -3825,7 +3807,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "b": "",
       "x": [],
       "i": [],
@@ -3837,7 +3818,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "b": "",
       "x": [],
       "i": [],
@@ -3849,7 +3829,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "b": "",
       "x": [],
       "i": [],
@@ -3861,7 +3840,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "b": "",
       "x": [],
       "i": [],
@@ -3873,7 +3851,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "b": "",
       "x": [],
       "i": [],
@@ -3885,7 +3862,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "b": "",
       "x": [],
       "i": [],
@@ -3926,7 +3902,6 @@
       ],
       "b": "",
       "o": {},
-      "m": "~",
       "i": []
     },
     {
@@ -3963,7 +3938,6 @@
       ],
       "b": "",
       "o": {},
-      "m": "~",
       "i": []
     },
     {
@@ -4000,7 +3974,6 @@
       ],
       "b": "",
       "o": {},
-      "m": "~",
       "i": []
     },
     {
@@ -4037,7 +4010,6 @@
       ],
       "b": "",
       "o": {},
-      "m": "~",
       "i": []
     },
     {
@@ -4074,7 +4046,6 @@
       ],
       "b": "",
       "o": {},
-      "m": "~",
       "i": []
     },
     {
@@ -4111,7 +4082,6 @@
       ],
       "b": "",
       "o": {},
-      "m": "~",
       "i": []
     },
     {
@@ -4148,7 +4118,6 @@
       ],
       "b": "",
       "o": {},
-      "m": "~",
       "i": []
     },
     {
@@ -4182,7 +4151,6 @@
       ],
       "b": "",
       "o": {},
-      "m": "~",
       "i": []
     },
     {
@@ -4219,7 +4187,6 @@
       ],
       "b": "",
       "o": {},
-      "m": "~",
       "i": []
     },
     {
@@ -4256,7 +4223,6 @@
       ],
       "b": "",
       "o": {},
-      "m": "~",
       "i": []
     },
     {
@@ -4293,7 +4259,6 @@
       ],
       "b": "",
       "o": {},
-      "m": "~",
       "i": []
     },
     {
@@ -4330,7 +4295,6 @@
       ],
       "b": "",
       "o": {},
-      "m": "~",
       "i": []
     },
     {
@@ -4367,7 +4331,6 @@
       ],
       "b": "",
       "o": {},
-      "m": "~",
       "i": []
     },
     {
@@ -4404,7 +4367,6 @@
       ],
       "b": "",
       "o": {},
-      "m": "~",
       "i": []
     },
     {
@@ -4441,61 +4403,11 @@
       ],
       "b": "",
       "o": {},
-      "m": "~",
       "i": []
-    },
-    {
-      "v": "#head@6fb05f36804d53c2e8e014cfeeea8ad7996a5efe",
-      "r": [
-        "bearssl",
-        "blscurve",
-        "chronicles",
-        "chronos",
-        "confutils",
-        "eth",
-        "faststreams",
-        "httputils",
-        "json_rpc",
-        "json_serialization",
-        "libbacktrace",
-        "libp2p",
-        "metrics",
-        "minilru",
-        "nat_traversal",
-        "nimcrypto",
-        "normalize",
-        "presto",
-        "secp256k1",
-        "serialization",
-        "snappy",
-        "sqlite3_abi",
-        "ssz_serialization",
-        "stew",
-        "stint",
-        "taskpools",
-        "testutils",
-        "toml_serialization",
-        "unicodedb >= 0.10",
-        "unittest2",
-        "yaml",
-        "web3",
-        "zlib",
-        "gh:status-im/nim-kzg4844",
-        "zxcvbn",
-        "intops",
-        "gh:status-im/nimbus-security-resources"
-      ],
-      "d": "The Nimbus beacon chain node is a highly efficient Ethereum 2.0 client",
-      "m": "2.2.4",
-      "i": [],
-      "p": [],
-      "b": "",
-      "x": [],
-      "o": {}
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:52Z",
+  "generatedAt": "2026-05-26T13:12:56Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -4639,24 +4551,20 @@
       "dnsclient",
       "eth",
       "faststreams",
-      "hashtree_abi > 22.3.0 & <= 26.5.0",
       "httputils",
-      "intops",
+      "intops > 26.1.0 & <= 26.5.0",
       "json_rpc",
       "json_serialization",
       "libbacktrace <= 26.5.0",
       "libp2p",
-      "lsquic",
       "metrics",
       "minilru",
       "nat_traversal",
       "ngtcp2",
       "nimcrypto",
       "normalize <= 26.5.0",
-      "npeg",
       "presto > 22.3.0 & <= 26.5.0",
       "prompt <= 1.0.7",
-      "protobuf_serialization",
       "quic",
       "ranges > 26.5.0",
       "results",
@@ -4667,7 +4575,7 @@
       "ssz_serialization > 22.3.0 & <= 26.5.0",
       "stew",
       "stint",
-      "taskpools",
+      "taskpools > 22.3.0 & <= 26.5.0",
       "testutils",
       "toml_serialization > 24.12.0 & <= 26.5.0",
       "unicodedb <= 26.5.0",
@@ -4686,7 +4594,6 @@
       "gh:status-im/nim-quic",
       "gh:status-im/nimbus-security-resources",
       "gh:status-im/NimYAML",
-      "gh:vacp2p/nim-boringssl",
       "gh:vacp2p/nim-jwt",
       "gl:status-im/nimbus-security-resources"
     ]

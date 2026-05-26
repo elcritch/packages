@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimodbclite",
   "fqn": "nimodbclite.YesDrX.github.com",
-  "head": "e4c95ac4514c802528e8c4d6dc8d75a58c6e4354",
   "author": "Yes DrX",
   "description": "A new awesome nimble package",
   "license": "MIT",
@@ -11,25 +10,15 @@
   "releases": [
     {
       "v": "0.3.0@e4c95ac4514c802528e8c4d6dc8d75a58c6e4354^",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.0@b2fe4d908a5a8a0496fbaf99c8051996112d221c",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@e4c95ac4514c802528e8c4d6dc8d75a58c6e4354",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:04Z",
+  "generatedAt": "2026-05-26T13:17:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "libplist",
   "fqn": "libplist.nim.samdmarshall.github.com",
-  "head": "d60a96be1a9366d7dbb0b65223f153ff2743d184",
   "author": "Samantha Marshall",
   "description": "wrapper around libplist https://github.com/libimobiledevice/libplist",
   "license": "MIT",
@@ -10,18 +9,11 @@
   "releases": [
     {
       "v": "0.1.0@ecf06062a77b901d50ae5d3784b2c068d65690b1",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@d60a96be1a9366d7dbb0b65223f153ff2743d184",
-      "r": [],
-      "s": "src/",
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:52Z",
+  "generatedAt": "2026-05-26T13:15:29Z",
   "allDeps": {
     "packages": [],
     "urls": [],

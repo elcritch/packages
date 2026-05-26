@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "ptrace",
   "fqn": "ptrace.nim.ba0f3.github.com",
-  "head": "3e9a6fb3c5872d5371df48a7128db7019492ae18",
   "author": "Huy Doan",
   "description": "ptrace wrapper and helpers for Nim",
   "license": "MIT",
@@ -15,58 +14,27 @@
     {
       "v": "0.0.5@3e9a6fb3c5872d5371df48a7128db7019492ae18^",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
       "v": "0.0.4@1e5950063abff869fd042d73734c55c3a51f172f",
       "r": [],
-      "s": "",
-      "m": "~",
       "x": []
     },
     {
       "v": "0.0.3@2bffdd4eca4ef6ad28b02704374b470f42c1bacd",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
       "v": "0.0.2@5d30184d263223667aa849c2f4ca10ef0ea674e6",
       "r": [],
       "d": "ptrace wrapper for Nim",
-      "m": "~",
-      "s": "",
-      "x": []
-    },
-    {
-      "v": "#head@3e9a6fb3c5872d5371df48a7128db7019492ae18",
-      "r": [],
-      "m": "~",
-      "s": "",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:54Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "0.0.2",
-      "0.0.3",
-      "0.0.4",
-      "0.0.5"
-    ],
-    "latest": "0.0.5",
-    "prerelease": [
-      "0.0.2"
-    ]
-  },
+  "generatedAt": "2026-05-26T13:18:21Z",
   "allDeps": {
     "packages": [],
     "urls": [],

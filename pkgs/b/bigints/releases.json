@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "bigints",
   "fqn": "bigints.nim-lang.github.com",
-  "head": "115ae9cc49390ac0647c7b4cbf07d8cf6deceb5d",
   "author": "Dennis Felsing; narimiran",
   "description": "Arbitrary-precision integers implemented in pure Nim",
   "license": "MIT",
@@ -11,39 +10,27 @@
   "releases": [
     {
       "v": "1.1.0@e45b513b7ade83c34f633266b9916c417c339bdc",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "1.0.0@59028a5905946765b2ea40466fdee814e53a08a5",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.5.0@c5ea3d5c95b7b3c95d980ca8ea608c06ae537762",
       "r": [],
       "a": "Dennis Felsing",
-      "m": "0.10",
-      "s": ""
+      "m": "0.10"
     },
     {
       "v": "0.4.4@d48cec75e9b639d3ed3c43e1a4dacd6ab2f2f8d0",
       "r": [],
       "a": "Dennis Felsing",
-      "m": "0.10",
-      "s": ""
-    },
-    {
-      "v": "#head@115ae9cc49390ac0647c7b4cbf07d8cf6deceb5d",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "m": "0.10"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:31Z",
+  "generatedAt": "2026-05-26T13:12:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "osureplay",
   "fqn": "nim-osureplay.nimbackup.github.com",
-  "head": "437a396fafd77da355d39f7015ba0d454b90a06d",
   "author": "Daniil Yarancev",
   "description": "Osu replay parser.",
   "license": "MIT",
@@ -15,8 +14,6 @@
     {
       "v": "0.0.1@50108cc3fc1999d6eb0d5d36f4f3691953307156",
       "r": [],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -26,8 +23,7 @@
       "p": [
         "osureader.exe"
       ],
-      "m": "0.16.0",
-      "s": ""
+      "m": "0.16.0"
     },
     {
       "v": "0.0.3@583aa2e114be48805838dc36b402588dfef80e03",
@@ -36,22 +32,11 @@
       "p": [
         "osureader"
       ],
-      "m": "0.16.0",
-      "s": ""
-    },
-    {
-      "v": "#head@437a396fafd77da355d39f7015ba0d454b90a06d",
-      "r": [],
-      "d": "Osu replay parser library and command-line utility.",
-      "p": [
-        "osureader"
-      ],
-      "m": "0.16.0",
-      "s": ""
+      "m": "0.16.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:12Z",
+  "generatedAt": "2026-05-26T13:17:51Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "cpuwhat",
   "fqn": "cpuwhat.awr1.github.com",
-  "head": "a7db6be3849f5371df370be1062b7553febb20ea",
   "author": "A. W. Rohan",
   "description": "Utilities for Advanced CPU Operations",
   "license": "ISC",
@@ -11,31 +10,18 @@
   "releases": [
     {
       "v": "0.1.0@ba0da88fe43a66357ba22b1f673c7486a94d476d",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.1@c39a806064ae5d67480ef3e94ae5fa06c70076d4",
       "r": [
         "nimterop >= 0.4.4"
       ],
-      "d": "Nim utilities for advanced CPU operations: CPU identification, bindings to assorted intrinsics",
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@a7db6be3849f5371df370be1062b7553febb20ea",
-      "r": [
-        "nimterop >= 0.4.4"
-      ],
-      "d": "Nim utilities for advanced CPU operations: CPU identification, bindings to assorted intrinsics",
-      "m": "~",
-      "s": ""
+      "d": "Nim utilities for advanced CPU operations: CPU identification, bindings to assorted intrinsics"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:33Z",
+  "generatedAt": "2026-05-26T13:13:16Z",
   "allDeps": {
     "packages": [
       "cligen > 0.1.0",

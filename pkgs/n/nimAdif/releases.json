@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimAdif",
   "fqn": "nimAdif.clzls.github.com",
-  "head": "f523f2d9796875811c6e6b34af16f03af14d6b0d",
   "author": "clzls",
   "description": "An Amateur Data Interchange Format (ADIF) formatter and parser library written purely in Nim.",
   "license": "MIT",
@@ -11,45 +10,19 @@
   "releases": [
     {
       "v": "0.1.2@c4e8fd521f4fc4610e0fbd7b6cd6c854ef7d0bfe",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.1@e2d1e26b99d88780bbe7397db11608e3ba0b1392",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.0@2b9eaa10b8be5632e5ed6ca28bc501059e10f3d0",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@f523f2d9796875811c6e6b34af16f03af14d6b0d",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:15Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "0.1.0",
-      "0.1.2"
-    ],
-    "latest": "0.1.2",
-    "prerelease": [
-      "0.1.0"
-    ]
-  },
+  "generatedAt": "2026-05-26T13:16:30Z",
   "allDeps": {
     "packages": [],
     "urls": [],

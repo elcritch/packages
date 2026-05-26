@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "hotdoc",
   "fqn": "hotdoc.willyboar.github.com",
-  "head": "2dd8d962eaf48d95477aa3d6d1f81d63eddd392c",
   "author": "Willyboar",
   "description": "Single page documentation generator",
   "license": "MIT",
@@ -17,23 +16,11 @@
       "r": [
         "docopt >= 0.6.8"
       ],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@2dd8d962eaf48d95477aa3d6d1f81d63eddd392c",
-      "r": [
-        "docopt >= 0.6.8",
-        "karax >= 1.2.1"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:50Z",
+  "generatedAt": "2026-05-26T13:14:48Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -47,14 +34,11 @@
   "allDeps": {
     "packages": [
       "docopt",
-      "dotenv",
       "graphemes",
-      "karax",
       "regex",
       "segmentation",
       "unicodedb",
-      "unicodeplus",
-      "ws"
+      "unicodeplus"
     ],
     "urls": [],
     "unresolved": []

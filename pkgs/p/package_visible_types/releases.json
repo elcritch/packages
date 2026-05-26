@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "package_visible_types",
   "fqn": "nim-package-visible-types.zah.github.com",
-  "head": "cbdee48feb05045c673e7d2cab16ae0f5c957157",
   "author": "Zahary Karadjov",
   "description": "A cure for the lack of package-level visibility in Nim",
   "license": "MIT",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "1.0.0@9df22b93dbbbc7bbc274aa3b107fd767fa68ebbc",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@cbdee48feb05045c673e7d2cab16ae0f5c957157",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:15Z",
+  "generatedAt": "2026-05-26T13:17:53Z",
   "allDeps": {
     "packages": [],
     "urls": [],

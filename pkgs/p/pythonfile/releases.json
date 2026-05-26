@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "pythonfile",
   "fqn": "nim-pythonfile.achesak.github.com",
-  "head": "417bdf54d4da8fc79577018f1eef6e8a2f39a008",
   "author": "Adam Chesak",
   "description": "Wrapper of the file functions to provide an interface as similar as possible to that of Python",
   "license": "MIT",
@@ -18,14 +17,10 @@
     {
       "v": "1.1@d450daa7120800158381f0d46f7966edfe6de87a",
       "r": []
-    },
-    {
-      "v": "#head@417bdf54d4da8fc79577018f1eef6e8a2f39a008",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:58Z",
+  "generatedAt": "2026-05-26T13:18:24Z",
   "allDeps": {
     "packages": [],
     "urls": [],

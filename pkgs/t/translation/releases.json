@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "translation",
   "fqn": "nim-tinyslation.juancarlospaco.github.com",
-  "head": "a04c02b923e0191f116515cf1c12c600735bae74",
   "author": "Juan Carlos <juancarlospaco@gmail.com>",
   "description": "Text string translation from free online crowdsourced API. Tinyslation a tiny translation. Sync and Async support (MultiSync). No API Key required.",
   "license": "LGPLv3",
@@ -15,8 +14,6 @@
     {
       "v": "0.3.1@ba5c97703865bf506106450f28d853a67bfbe7ad",
       "r": [],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -25,8 +22,7 @@
       "p": [
         "translation.nim"
       ],
-      "m": "0.18.0",
-      "s": ""
+      "m": "0.18.0"
     },
     {
       "v": "0.1.0@09c18c6c1b3d552236dba78a2dbd0b22bc25efc9",
@@ -37,20 +33,11 @@
       "p": [
         "translation.nim"
       ],
-      "m": "0.18.1",
-      "s": ""
-    },
-    {
-      "v": "#head@a04c02b923e0191f116515cf1c12c600735bae74",
-      "r": [],
-      "l": "MIT",
-      "m": "0.20.0",
-      "s": "",
-      "p": []
+      "m": "0.18.1"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:01Z",
+  "generatedAt": "2026-05-26T13:19:49Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

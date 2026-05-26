@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "metar",
   "fqn": "metar.flenniken.github.com",
-  "head": "549ff5ef7461ccd8dfbeeb0841578745cd71532c",
   "author": "Steve Flenniken",
   "description": "Metadata Reader for Images",
   "license": "MIT",
@@ -15,7 +14,6 @@
     {
       "v": "0.1.26@ad69ae69c4e9f377713cc2a483d63328f1c7f184",
       "r": [],
-      "m": "~",
       "b": "",
       "p": []
     },
@@ -36,17 +34,10 @@
       "m": "1.0.4",
       "b": "",
       "p": []
-    },
-    {
-      "v": "#head@549ff5ef7461ccd8dfbeeb0841578745cd71532c",
-      "r": [],
-      "m": "~",
-      "b": "",
-      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:30Z",
+  "generatedAt": "2026-05-26T13:15:57Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

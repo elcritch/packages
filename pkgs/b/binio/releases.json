@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "binio",
   "fqn": "binio.Riderfighter.github.com",
-  "head": "030715d7bfbb57cc794be2053686b74478d549e3",
   "author": "Riderfighter",
   "description": "Package for packing and unpacking byte data",
   "license": "MIT",
@@ -13,29 +12,17 @@
       "v": "0.1.0@4967e4627b1c77d6588d9933e5f85d155a874d79",
       "r": [
         "struct >= 0.1.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.1@51e3221b37897fd6d71ccd97b67094f0e3cc46c1",
       "r": [
         "struct >= 0.1.0"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@030715d7bfbb57cc794be2053686b74478d549e3",
-      "r": [
-        "struct >= 0.1.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:32Z",
+  "generatedAt": "2026-05-26T13:12:29Z",
   "allDeps": {
     "packages": [
       "struct"

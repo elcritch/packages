@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "RingBuffer",
   "fqn": "RingBuffer.nim.megawac.github.com",
-  "head": "0505f70b48ad912161a7feb35efd71ebead2e97d",
   "author": "Graeme Yeates",
   "description": "Circular buffer implementation",
   "license": "MIT",
@@ -20,14 +19,10 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file"
-    },
-    {
-      "v": "#head@0505f70b48ad912161a7feb35efd71ebead2e97d",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:41Z",
+  "generatedAt": "2026-05-26T13:11:45Z",
   "allDeps": {
     "packages": [],
     "urls": [],

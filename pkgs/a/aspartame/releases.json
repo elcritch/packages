@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "aspartame",
   "fqn": "aspartame.~xigoi.git.sr.ht",
-  "head": "46b2f4eeaa72be7e058a1777673f3a7c420e85ee",
   "author": "Adam Blažek",
   "description": "More syntactic sugar for Nim",
   "license": "GPL-3.0-or-later",
@@ -10,27 +9,19 @@
   "releases": [
     {
       "v": "2023.324.0@651b50d15353602ff70258e88fe935f973978709",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "2023.1.19@8a30f8543191cb39fdf7db8289c65c53e97d9231",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "2022.11.23@26ea6640e62b23b531e63c25cf8ca744a4269dbb",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@46b2f4eeaa72be7e058a1777673f3a7c420e85ee",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T07:21:13Z",
+  "generatedAt": "2026-05-26T13:12:04Z",
   "allDeps": {
     "packages": [],
     "urls": [],

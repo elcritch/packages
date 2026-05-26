@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "utf8tests",
   "fqn": "utf8tests.flenniken.github.com",
-  "head": "52cbdf830f3603047036070b086a1e5196df94d1",
   "author": "Steve Flenniken",
   "description": "UTF-8 test cases and UTF-8 decoder.",
   "license": "MIT",
@@ -15,20 +14,11 @@
     {
       "v": "0.1.2@b32a9af12f34368ecffe0896804039a1d66b70b9",
       "r": [],
-      "m": "~",
-      "s": "",
       "p": []
-    },
-    {
-      "v": "#head@52cbdf830f3603047036070b086a1e5196df94d1",
-      "r": [],
-      "m": "2.0.2",
-      "p": [],
-      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:24Z",
+  "generatedAt": "2026-05-26T13:20:05Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

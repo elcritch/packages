@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "wiki2text",
   "fqn": "wiki2text.rspeer.github.com",
-  "head": "1859b9e336c8cdbb698b6b1a24cb077e18c094e5",
   "author": "Rob Speer",
   "description": "Quickly extracts natural-language text from a MediaWiki XML file.",
   "license": "MIT",
@@ -18,14 +17,10 @@
     {
       "v": "0.1@631ec0afee73c62e896b94a79e628688f941409e",
       "r": []
-    },
-    {
-      "v": "#head@1859b9e336c8cdbb698b6b1a24cb077e18c094e5",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:53Z",
+  "generatedAt": "2026-05-26T13:20:25Z",
   "allDeps": {
     "packages": [],
     "urls": [],

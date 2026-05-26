@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "googlesearch",
   "fqn": "googlesearch.nim.xyb.github.com",
-  "head": "222b7b9aaf48b13c491d65f6d0eb1948cf35947b",
   "author": "Xie Yanbo",
   "description": "Nim library for scraping google search results",
   "license": "MIT",
@@ -21,8 +20,6 @@
       "r": [
         "nimquery >= 1.2.2"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -31,8 +28,6 @@
       "r": [
         "nimquery >= 1.2.2"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -41,8 +36,6 @@
       "r": [
         "nimquery >= 1.2.2"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -51,8 +44,6 @@
       "r": [
         "nimquery >= 1.2.2"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -64,8 +55,6 @@
       "p": [
         "googlesearch"
       ],
-      "m": "~",
-      "s": "",
       "k": []
     },
     {
@@ -76,8 +65,6 @@
       "p": [
         "googlesearch"
       ],
-      "m": "~",
-      "s": "",
       "k": []
     },
     {
@@ -88,8 +75,6 @@
       "p": [
         "googlesearch"
       ],
-      "m": "~",
-      "s": "",
       "k": []
     },
     {
@@ -100,23 +85,11 @@
       "p": [
         "googlesearch"
       ],
-      "m": "~",
-      "s": "",
       "k": []
-    },
-    {
-      "v": "#head@222b7b9aaf48b13c491d65f6d0eb1948cf35947b",
-      "r": [
-        "nimquery >= 1.2.2"
-      ],
-      "m": "~",
-      "s": "",
-      "k": [],
-      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:27Z",
+  "generatedAt": "2026-05-26T13:14:31Z",
   "allDeps": {
     "packages": [
       "nimquery"

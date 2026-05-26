@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "mcsrvstat.nim",
   "fqn": "mcsrvstat.nim.hitblast.github.com",
-  "head": "36f75794da101ab3a66be9d0ba189dfa90194cb4",
   "author": "HitBlast",
   "description": "A hybrid and asynchronous Nim wrapper for the Minecraft Server Status API.",
   "license": "MIT",
@@ -21,8 +20,6 @@
         "argparse >= 4.0",
         "illwill >= 0.4.0"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -33,7 +30,6 @@
         "illwill >= 0.4.0"
       ],
       "m": "1.6.10",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -44,7 +40,6 @@
         "illwill 0.3.2"
       ],
       "m": "1.6.10",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -55,7 +50,6 @@
         "illwill 0.3.2"
       ],
       "m": "1.6.10",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -66,7 +60,6 @@
         "illwill >= 0.3"
       ],
       "m": "1.6",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -77,7 +70,6 @@
         "illwill >= 0.3"
       ],
       "m": "1.6",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -88,7 +80,6 @@
         "illwill >= 0.3"
       ],
       "m": "1.6",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -99,7 +90,6 @@
         "illwill >= 0.3"
       ],
       "m": "1.6",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -110,7 +100,6 @@
         "illwill >= 0.3"
       ],
       "m": "1.6",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -121,24 +110,12 @@
         "illwill >= 0.3"
       ],
       "m": "1.6",
-      "s": "",
-      "k": [],
-      "p": []
-    },
-    {
-      "v": "#head@36f75794da101ab3a66be9d0ba189dfa90194cb4",
-      "r": [
-        "argparse >= 4.0",
-        "illwill >= 0.4.0"
-      ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:25Z",
+  "generatedAt": "2026-05-26T13:15:54Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "winres",
   "fqn": "nim-winres.codehz.github.com",
-  "head": "6507007a2bb26004ae9f15bec53b64d4a98b161f",
   "author": "CodeHz",
   "description": "Windows resource generator",
   "license": "MIT",
@@ -14,18 +13,11 @@
     {
       "v": "0.1.0@1bc15087d1eaa83484657ae221ec844ed4eeace9",
       "r": [],
-      "m": "~",
-      "k": []
-    },
-    {
-      "v": "#head@6507007a2bb26004ae9f15bec53b64d4a98b161f",
-      "r": [],
-      "m": "~",
       "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:58Z",
+  "generatedAt": "2026-05-26T13:20:29Z",
   "allDeps": {
     "packages": [],
     "urls": [],

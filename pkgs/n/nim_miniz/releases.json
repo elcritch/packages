@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nim_miniz",
   "fqn": "nim-miniz.h3rald.github.com",
-  "head": "b47edf871f2c780b72dcce7da232ef5afee57d56",
   "author": "Fabio Cevasco",
   "description": "Nim wrapper for miniz",
   "license": "MIT",
@@ -19,48 +18,24 @@
     {
       "v": "1.1.0@b47edf871f2c780b72dcce7da232ef5afee57d56^",
       "r": [],
-      "s": "",
       "x": [],
       "k": []
     },
     {
       "v": "1.0.1@a6dad3750ba2c70500ee36161a0258ca9c2f22fe",
       "r": [],
-      "s": "",
       "x": [],
       "k": []
     },
     {
       "v": "1.0.0@4ef614363a7303aa2887b3c73f8bdeb7cadaf18e",
       "r": [],
-      "s": "",
-      "x": [],
-      "k": []
-    },
-    {
-      "v": "#head@b47edf871f2c780b72dcce7da232ef5afee57d56",
-      "r": [],
-      "s": "",
       "x": [],
       "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:24Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "1.1.0",
-      "v1.0.0"
-    ],
-    "tagVersions": {
-      "v1.0.0": "1.0.0"
-    },
-    "latest": "1.1.0"
-  },
+  "generatedAt": "2026-05-26T13:16:37Z",
   "allDeps": {
     "packages": [],
     "urls": [],

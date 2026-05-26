@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nim_chacha20_poly1305",
   "fqn": "nim_chacha20_poly1305.lantos-lgtm.github.com",
-  "head": "9a29aa3808fbb1daee15e6c78c63c4a160672a3c",
   "author": "Lantos",
   "description": "xchacha20_poly1305, chacha20, poly1305",
   "license": "MIT",
@@ -13,22 +12,13 @@
       "v": "0.1.0@fb79cbf30bc372a9e68ce8dfca4ab60d0aa1a455",
       "r": [
         "stint"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@9a29aa3808fbb1daee15e6c78c63c4a160672a3c",
-      "r": [],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:22Z",
+  "generatedAt": "2026-05-26T13:16:35Z",
   "allDeps": {
     "packages": [
-      "intops",
       "results",
       "stew",
       "stint",

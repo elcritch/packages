@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "ista",
   "fqn": "ista.arashi-software.github.com",
-  "head": "67fd7bda15f90bc312222a608760426da6f2229a",
   "author": "M",
   "description": "Ista - A versatile command line speed reader to enhance your reading efficiency",
   "license": "GPL-2.0",
@@ -18,24 +17,12 @@
       "r": [
         "therapist #HEAD"
       ],
-      "m": "~",
-      "s": "",
-      "b": "",
-      "p": []
-    },
-    {
-      "v": "#head@67fd7bda15f90bc312222a608760426da6f2229a",
-      "r": [
-        "therapist #HEAD"
-      ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:17Z",
+  "generatedAt": "2026-05-26T13:15:06Z",
   "allDeps": {
     "packages": [
       "therapist"

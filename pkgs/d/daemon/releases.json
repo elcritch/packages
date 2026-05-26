@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "daemon",
   "fqn": "nim-daemon.status-im.github.com",
-  "head": "6d097c04ac81dfa43dfd9e4c20d6bd359f030153",
   "author": "Status Research & Development GmbH",
   "description": "Cross-platform process daemonization",
   "license": "Apache License 2.0 or MIT",
@@ -16,18 +15,11 @@
     {
       "v": "0.1.0@2f388e670d8076d808a0051671e9dc0d77b88221",
       "r": [],
-      "m": "~",
-      "x": []
-    },
-    {
-      "v": "#head@6d097c04ac81dfa43dfd9e4c20d6bd359f030153",
-      "r": [],
-      "m": "~",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:42Z",
+  "generatedAt": "2026-05-26T13:13:23Z",
   "allDeps": {
     "packages": [],
     "urls": [],

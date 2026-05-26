@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "keccak_tiny",
   "fqn": "nim-keccak-tiny.status-im.github.com",
-  "head": "8e563f3171d30d5b3a8897a71f5e2f8f91fe9c65",
   "author": "Zahary Karadjov",
   "description": "A wrapper for the keccak-tiny C library",
   "license": "Apache2",
@@ -14,7 +13,6 @@
     {
       "v": "0.1.0@dd2ec919b9633df6754723de924574c59bde85e2",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
@@ -22,22 +20,11 @@
       "r": [
         "ranges >= 0.0.1"
       ],
-      "m": "~",
-      "x": []
-    },
-    {
-      "v": "#head@8e563f3171d30d5b3a8897a71f5e2f8f91fe9c65",
-      "r": [
-        "ranges"
-      ],
-      "a": "Status Research & Development GmbH",
-      "l": "Apache License 2.0",
-      "m": "~",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:34Z",
+  "generatedAt": "2026-05-26T13:15:17Z",
   "allDeps": {
     "packages": [
       "ranges > 0.1.0"

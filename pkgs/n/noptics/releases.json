@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "noptics",
   "fqn": "noptics.OFThomas.gitlab.com",
-  "head": "0b29ce9bd3e1f755b54ea459387ecac119527c00",
   "author": "Oliver Thomas",
   "description": "Nim Linear algebra, classical and quantum optics simulation package",
   "license": "Apache-2.0",
@@ -15,9 +14,7 @@
         "timeit",
         "weave",
         "gnuplot"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.2.2@6bf54de9a1fd9c074628b8336f42d43da5763d51",
@@ -25,23 +22,11 @@
         "timeit",
         "weave",
         "gnuplot"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@0b29ce9bd3e1f755b54ea459387ecac119527c00",
-      "r": [
-        "timeit",
-        "weave",
-        "gnuplot"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T07:29:02Z",
+  "generatedAt": "2026-05-26T13:17:30Z",
   "allDeps": {
     "packages": [
       "gnuplot",

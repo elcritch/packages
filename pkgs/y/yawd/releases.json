@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "yawd",
   "fqn": "nim_yawd.zendbit.github.com",
-  "head": "56b24e8ee039188d9aa7c9612ed848c14a3355a3",
   "author": "Amru Rosyada",
   "description": "YAWD (Yet Another WebDriver) for nim lang.",
   "license": "BSD",
@@ -11,25 +10,15 @@
   "releases": [
     {
       "v": "0.1.0@56b24e8ee039188d9aa7c9612ed848c14a3355a3^",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.0.1@dafe0428d3de39000e181c48c3ec8e7f0f0b17a8",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@56b24e8ee039188d9aa7c9612ed848c14a3355a3",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:57:18Z",
+  "generatedAt": "2026-05-26T13:20:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

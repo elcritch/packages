@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "libnetfilter_queue",
   "fqn": "libnetfilter_queue.nim.ba0f3.github.com",
-  "head": "71a7099f3b9729a880783f1bbe1228a6f76e46d1",
   "author": "Huy Doan",
   "description": "libnetfilter_queue wrapper for Nim",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@ee0e49f69f39d9add5bf1a38796880812d0759af",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@71a7099f3b9729a880783f1bbe1228a6f76e46d1",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:49Z",
+  "generatedAt": "2026-05-26T13:15:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "persvector",
   "fqn": "nim-persistent-vector.PMunch.github.com",
-  "head": "3f92a26aced63c4d443f62a31402329a1c18d22e",
   "author": "Peter Munch-Ellingsen",
   "description": "Implementation of Clojures persistent vector in Nim for easy immutable lists.",
   "license": "MIT",
@@ -14,18 +13,11 @@
     {
       "v": "1.0.0@b691dfa0533c4de6b2dcac208efa87ec59c61b89",
       "r": [],
-      "m": "~",
-      "y": []
-    },
-    {
-      "v": "#head@3f92a26aced63c4d443f62a31402329a1c18d22e",
-      "r": [],
-      "m": "~",
       "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:27Z",
+  "generatedAt": "2026-05-26T13:18:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

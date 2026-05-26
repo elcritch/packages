@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "tigr",
   "fqn": "tigr-nim.angluca.github.com",
-  "head": "a393af23c9ba52bfc53941a08bafbb0189d5e2ff",
   "author": "Angluca",
   "description": "TIGR is a tiny cross-platform graphics library, providing a unified API for Windows, macOS, Linux, iOS and Android.",
   "license": "MIT",
@@ -17,27 +16,13 @@
     {
       "v": "1.0@6ad41924267b7271d65b2b06a7f2593b9418ba98",
       "r": [],
-      "m": "~",
-      "s": "",
-      "k": []
-    },
-    {
-      "v": "#head@a393af23c9ba52bfc53941a08bafbb0189d5e2ff",
-      "r": [
-        "opengl"
-      ],
-      "m": "1.6.6",
-      "s": "",
       "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:50Z",
+  "generatedAt": "2026-05-26T13:19:42Z",
   "allDeps": {
-    "packages": [
-      "opengl",
-      "x11"
-    ],
+    "packages": [],
     "urls": [],
     "unresolved": []
   }

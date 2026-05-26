@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "openparser",
   "fqn": "openparser.openpeeps.github.com",
-  "head": "2813021e39925d3b97c999bc31e8974ab70f092c",
   "author": "George Lemon",
   "description": "A new awesome nimble package",
   "license": "MIT",
@@ -11,31 +10,18 @@
   "releases": [
     {
       "v": "0.1.0@cabe575a175a4bd17dd771e80c1d1f6227da075a",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.1@b1dc9f3b42db8417f9c25f187e2d96b0af640f75",
       "r": [
         "nimsimd"
       ],
-      "d": "Tiny parsers and serializers for JSON, CSV, RSS, Atom feeds and more",
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@2813021e39925d3b97c999bc31e8974ab70f092c",
-      "r": [
-        "nimsimd"
-      ],
-      "d": "Tiny parsers and serializers for JSON, CSV, RSS, Atom feeds and more",
-      "m": "~",
-      "s": ""
+      "d": "Tiny parsers and serializers for JSON, CSV, RSS, Atom feeds and more"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:07Z",
+  "generatedAt": "2026-05-26T13:17:48Z",
   "allDeps": {
     "packages": [
       "nimsimd > 0.1.0"

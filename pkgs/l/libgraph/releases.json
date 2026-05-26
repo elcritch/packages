@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "libgraph",
   "fqn": "libgraphnim.Mnenmenth.github.com",
-  "head": "b17c4c31734455bf9a094c2b0376adb060cec51b",
   "author": "Earl Kennedy",
   "description": "Converts 2D linear graph coordinates to pixels on screen",
   "license": "MIT",
@@ -15,34 +14,21 @@
     {
       "v": "1.0@2d8e5db4ae4830b54b1a74beb47898cd628deb95",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
       "v": "1.1@7ab7988c457255981759e66da17b058f81472f9c",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
       "v": "1.2@7c3696b4683c70686abaa36b8671c9034c2b3c7f",
       "r": [],
-      "m": "~",
-      "s": "",
-      "x": []
-    },
-    {
-      "v": "#head@b17c4c31734455bf9a094c2b0376adb060cec51b",
-      "r": [],
-      "m": "~",
-      "s": "",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:48Z",
+  "generatedAt": "2026-05-26T13:15:27Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "tableview",
   "fqn": "tabview.telatin.www.github.com",
-  "head": "9cea249ac8c0f32abd4860441ea426c5acded14c",
   "author": "Andrea Telatin",
   "description": "TUI table viewer library with interactive sort, search, filter and graph",
   "license": "MIT",
@@ -29,8 +28,6 @@
         "argparse"
       ],
       "p": [],
-      "m": "~",
-      "s": "",
       "b": "",
       "j": [],
       "o": {}
@@ -43,8 +40,6 @@
         "argparse"
       ],
       "p": [],
-      "m": "~",
-      "s": "",
       "b": "",
       "j": [],
       "o": {}
@@ -57,8 +52,6 @@
         "argparse"
       ],
       "p": [],
-      "m": "~",
-      "s": "",
       "b": "",
       "j": [],
       "o": {}
@@ -71,8 +64,6 @@
         "argparse"
       ],
       "p": [],
-      "m": "~",
-      "s": "",
       "b": "",
       "j": [],
       "o": {}
@@ -88,10 +79,8 @@
         "src/wordcount_demo": "wordcount",
         "src/tableview_app": "tableview"
       },
-      "s": "",
       "j": [],
       "p": [],
-      "m": "~",
       "b": ""
     },
     {
@@ -105,10 +94,8 @@
         "src/wordcount_demo": "wordcount",
         "src/tableview_app": "tableview"
       },
-      "s": "",
       "j": [],
       "p": [],
-      "m": "~",
       "b": ""
     },
     {
@@ -122,10 +109,8 @@
         "src/wordcount_demo": "wordcount",
         "src/tableview_app": "tableview"
       },
-      "s": "",
       "j": [],
       "p": [],
-      "m": "~",
       "b": ""
     },
     {
@@ -137,8 +122,6 @@
       ],
       "j": [],
       "p": [],
-      "m": "~",
-      "s": "",
       "b": "",
       "o": {}
     },
@@ -151,8 +134,6 @@
       ],
       "j": [],
       "p": [],
-      "m": "~",
-      "s": "",
       "b": "",
       "o": {}
     },
@@ -166,28 +147,12 @@
       "d": "TUI application for viewing TSV/CSV files",
       "j": [],
       "o": {},
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
-    },
-    {
-      "v": "#head@9cea249ac8c0f32abd4860441ea426c5acded14c",
-      "r": [
-        "nimwave",
-        "illwave",
-        "argparse"
-      ],
-      "p": [],
-      "m": "~",
-      "s": "",
-      "b": "",
-      "j": [],
-      "o": {}
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:36Z",
+  "generatedAt": "2026-05-26T13:19:31Z",
   "allDeps": {
     "packages": [
       "ansiutils",

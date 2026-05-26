@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "wxpay",
   "fqn": "wxpay.lihf8515.github.com",
-  "head": "caea4db4c833953196fb726dbed0fe5e6109a342",
   "author": "LiHaiFeng",
   "description": "wechat pay sdk",
   "license": "MIT",
@@ -13,23 +12,11 @@
       "v": "0.1.0@40d06d5568f6738e32c350a059bcd8a01d69c142",
       "r": [
         "hmac >= 0.2.0"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@caea4db4c833953196fb726dbed0fe5e6109a342",
-      "r": [
-        "hmac >= 0.2.0"
-      ],
-      "a": "Li Haifeng",
-      "d": "WeChat payment SDK for Nim.",
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:57:04Z",
+  "generatedAt": "2026-05-26T13:20:32Z",
   "allDeps": {
     "packages": [
       "checksums",

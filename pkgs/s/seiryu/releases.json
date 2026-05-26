@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "seiryu",
   "fqn": "seiryu.glassesneo.github.com",
-  "head": "fa729831dedbe96b15c9d80a9debe0f375609d70",
   "author": "glassesneo",
   "description": "Streamline your Nim code",
   "license": "MIT",
@@ -11,49 +10,31 @@
   "releases": [
     {
       "v": "0.2.4@af8c0c9cf18c9c7dadcc1cd5a6a1941950ec9790",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.3@bce7fcbcfbce20c9f9fccd69b9e1ab40d86119dd",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.2@e2a1af1ef7caf33ac847a894125f335dd0324c96",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.1@204a01f48f60d3685d23d88b48118d89947bc7eb",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.0@37ee3f3b0f813c0a9388f14f2140eaea2a909d17",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.0@1aeda3031dd99c37e1968d61154b2221afc920a4",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@06bf3068aaa3d6fbd0cbe9cd091f94e60d7526b3",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:35Z",
+  "generatedAt": "2026-05-26T13:18:50Z",
   "allDeps": {
     "packages": [],
     "urls": [],

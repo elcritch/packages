@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "spellua",
   "fqn": "spellua.glassesneo.github.com",
-  "head": "2310d4b3ee39d24986ca9c79b35709d45f1d3285",
   "author": "glassesneo",
   "description": "A high level LuaJIT bindings",
   "license": "WTFPL",
@@ -13,22 +12,11 @@
       "v": "0.1.0@de3f408d642087bc1c6b80ec519f412d827d8c4d",
       "r": [
         "seiryu"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@85a4e432ad1ea05c053d510431f8b45663010668",
-      "r": [
-        "seiryu"
-      ],
-      "d": "A high level LuaJIT binding",
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:07Z",
+  "generatedAt": "2026-05-26T13:19:11Z",
   "allDeps": {
     "packages": [
       "seiryu"

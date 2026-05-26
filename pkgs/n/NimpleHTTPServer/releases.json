@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "NimpleHTTPServer",
   "fqn": "NimpleHTTPServer.Hydra820.github.com",
-  "head": "f4c860c24edb3ea2062eb392a36b568bd1e53efb",
   "author": "Eldar David",
   "description": "SimpleHTTPServer module based on net sockets",
   "license": "HYDRA",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "1.0.0@55d63946d6c2af6fecd354eed9c2f8150764b273",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@f4c860c24edb3ea2062eb392a36b568bd1e53efb",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:28Z",
+  "generatedAt": "2026-05-26T13:11:43Z",
   "allDeps": {
     "packages": [],
     "urls": [],

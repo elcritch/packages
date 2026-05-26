@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "timecop",
   "fqn": "timecop.nim.ba0f3.github.com",
-  "head": "f4496338a7688b50d000f81cec880c17e94fb4d8",
   "author": "Huy Doan",
   "description": "Time travelling for Nim",
   "license": "MIT",
@@ -13,21 +12,11 @@
       "v": "0.1.0@42f3d08822e350a41e2c1619a21ae4f63554913d",
       "r": [
         "subhook >= 0.1.1"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@f4496338a7688b50d000f81cec880c17e94fb4d8",
-      "r": [
-        "subhook >= 0.1.1"
-      ],
-      "m": "1.2.0",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:51Z",
+  "generatedAt": "2026-05-26T13:19:42Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

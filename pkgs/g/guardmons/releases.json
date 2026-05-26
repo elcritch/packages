@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "guardmons",
   "fqn": "guardmons.treeform.github.com",
-  "head": "1a50392e5c353488112dd0451fea49a2cc5f0e34",
   "author": "Andre von Houck",
   "description": "A set of linux utilities written in Nim.",
   "license": "MIT",
@@ -11,20 +10,11 @@
   "releases": [
     {
       "v": "1.0.0@248c8680d6be2566a20488c2a9903972e65853ed",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@1a50392e5c353488112dd0451fea49a2cc5f0e34",
-      "r": [],
-      "d": "Cross-platform collection of OS Utilities",
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:33Z",
+  "generatedAt": "2026-05-26T13:14:35Z",
   "allDeps": {
     "packages": [],
     "urls": [],

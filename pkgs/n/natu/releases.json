@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "natu",
   "fqn": "natu.exelotl.github.com",
-  "head": "de2dc9fe15bfb7b76c893b070b03626cadd3a96b",
   "author": "exelotl",
   "description": "Game Boy Advance development library",
   "license": "zlib",
@@ -27,7 +26,6 @@
         "trick >= 0.1.6",
         "riff"
       ],
-      "m": "~",
       "x": [],
       "i": [],
       "k": [],
@@ -38,7 +36,6 @@
       "r": [
         "trick >= 0.1.6"
       ],
-      "m": "~",
       "x": [],
       "i": [],
       "k": [],
@@ -49,7 +46,6 @@
       "r": [
         "trick >= 0.1.6"
       ],
-      "m": "~",
       "x": [],
       "i": [],
       "k": [],
@@ -72,22 +68,10 @@
       "i": [],
       "k": [],
       "p": []
-    },
-    {
-      "v": "#head@de2dc9fe15bfb7b76c893b070b03626cadd3a96b",
-      "r": [
-        "trick >= 0.1.6",
-        "riff"
-      ],
-      "m": "~",
-      "x": [],
-      "i": [],
-      "k": [],
-      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:55Z",
+  "generatedAt": "2026-05-26T13:16:16Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

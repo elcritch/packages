@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "rainbow",
   "fqn": "rainbow.Willyboar.github.com",
-  "head": "de9192e5b5c47a42a54c61fe08aa6790738ecc0e",
   "author": "BigBaron",
   "description": "256 colors for shell",
   "license": "MIT",
@@ -11,56 +10,23 @@
   "releases": [
     {
       "v": "0.2.3@7f08c4ce372fd253a5dfbeb5a35c5d08d1079528",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.2@43aa846a32dd3f38d3b3f31b067eed6799e4aa8d",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.1@4165fcbbb8badfaf42c5db46f0666fdc0815df6d",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.0@60ade9c70ca146375a61ecb621266efbfcf2a6ee",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@de9192e5b5c47a42a54c61fe08aa6790738ecc0e",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:04Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "v0.2.0",
-      "v0.2.1",
-      "v0.2.2",
-      "v0.2.3"
-    ],
-    "tagVersions": {
-      "v0.2.0": "0.2.0",
-      "v0.2.1": "0.2.1",
-      "v0.2.2": "0.2.2",
-      "v0.2.3": "0.2.3"
-    },
-    "latest": "v0.2.3"
-  },
+  "generatedAt": "2026-05-26T13:18:28Z",
   "allDeps": {
     "packages": [],
     "urls": [],

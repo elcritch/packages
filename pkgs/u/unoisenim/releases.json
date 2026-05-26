@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "unoisenim",
   "fqn": "unoisenim.telatin.github.com",
-  "head": "11b8daa6d4daf7bfb0424172b0f9079fe5c16745",
   "author": "Andrea Telatin",
   "description": "Nim library for USEARCH algorithms unoise and sintax.",
   "license": "MIT",
@@ -21,8 +20,6 @@
         "argparse >= 4.0.0",
         "malebolgia >= 1.3.0"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -41,32 +38,11 @@
         "uchime",
         "remove_phix"
       ],
-      "m": "~",
-      "s": "",
-      "b": ""
-    },
-    {
-      "v": "#head@11b8daa6d4daf7bfb0424172b0f9079fe5c16745",
-      "r": [
-        "readfx >= 0.3.1",
-        "argparse >= 4.0.0",
-        "malebolgia >= 1.3.0"
-      ],
-      "l": "GPL-3.0",
-      "p": [
-        "unoise",
-        "sintax",
-        "nbc",
-        "uchime",
-        "remove_phix"
-      ],
-      "m": "~",
-      "s": "",
       "b": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:19Z",
+  "generatedAt": "2026-05-26T13:20:01Z",
   "allDeps": {
     "packages": [
       "argparse",

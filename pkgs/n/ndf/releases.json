@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "ndf",
   "fqn": "ndf.rustomax.github.com",
-  "head": "2b22b453d1cff1193a01a06e577220c6b164c245",
   "author": "Max Skybin",
   "description": "Duplicate files finder",
   "license": "MIT",
@@ -17,8 +16,6 @@
       "r": [
         "docopt >= 0.6.5"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -27,21 +24,11 @@
         "docopt >= 0.6.5"
       ],
       "m": "1.0.4",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@2b22b453d1cff1193a01a06e577220c6b164c245",
-      "r": [
-        "docopt >= 0.6.5"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:58Z",
+  "generatedAt": "2026-05-26T13:16:19Z",
   "allDeps": {
     "packages": [
       "docopt",

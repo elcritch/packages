@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "shorteststring",
   "fqn": "shorteststring.metagn.github.com",
-  "head": "8e74088d20b53c3e5a944d8d293a7606e85634e7",
   "author": "metagn",
   "description": "word size strings",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@2c1b43977d68d9a881b4e414f219e87b341ad5fa",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@8e74088d20b53c3e5a944d8d293a7606e85634e7",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:48Z",
+  "generatedAt": "2026-05-26T13:18:57Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

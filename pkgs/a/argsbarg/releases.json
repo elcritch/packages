@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "argsbarg",
   "fqn": "nim-argsbarg.bdombro.github.com",
-  "head": "f35a26a4b7357cedeb702676ce9d24e31d700968",
   "releases": [
     {
       "v": "2.1.2@f591606fda1d842841b7438aaed7bb0f9039c751",
@@ -75,36 +74,10 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file"
-    },
-    {
-      "v": "#head@f35a26a4b7357cedeb702676ce9d24e31d700968",
-      "r": [],
-      "a": "Brian Dombroski",
-      "d": "argsbarg: schema based cli framework with zsh completions",
-      "l": "MIT",
-      "s": "src",
-      "m": "2.0.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:00Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "v2.0.1",
-      "v2.1.0",
-      "v2.1.2"
-    ],
-    "tagVersions": {
-      "v2.0.1": "2.0.1",
-      "v2.1.0": "2.1.0",
-      "v2.1.2": "2.1.2"
-    },
-    "latest": "v2.1.2"
-  },
+  "generatedAt": "2026-05-26T13:11:59Z",
   "allDeps": {
     "packages": [],
     "urls": [],

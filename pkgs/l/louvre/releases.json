@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "louvre",
   "fqn": "nim-louvre.xTrayambak.github.com",
-  "head": "efd78956ff1ea7bd77c718f28cf898dac0054144",
   "author": "xTrayambak",
   "description": "Nim bindings for Louvre",
   "license": "LGPL-2.1-or-later",
@@ -14,48 +13,32 @@
       "r": [
         "cppstl >= 0.7.0",
         "colored_logger >= 0.1.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.2@61a207ef4ed5ccba0c24d769e670ba47502c3f76",
       "r": [
         "cppstl >= 0.7.0",
         "colored_logger >= 0.1.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.1@6ab9205d4bbee02abf9d0804dc2564de1aa6529c",
       "r": [
         "cppstl >= 0.7.0",
         "colored_logger >= 0.1.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.0@ea396198c60ec2325655ece835f755fb51335a1f",
       "r": [
         "cppstl >= 0.7.0",
         "colored_logger >= 0.1.0"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@efd78956ff1ea7bd77c718f28cf898dac0054144",
-      "r": [
-        "cppstl >= 0.7.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:11Z",
+  "generatedAt": "2026-05-26T13:15:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

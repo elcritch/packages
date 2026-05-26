@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "ntangle",
   "fqn": "ntangle.OrgTangle.github.com",
-  "head": "de3ec97c4650cc7b5875ee2614e4c1df5ccb5388",
   "author": "Kaushal Modi",
   "description": "Command-line utility for Tangling of Org mode documents",
   "license": "MIT",
@@ -21,8 +20,6 @@
         "cligen >= 0.9.31"
       ],
       "y": [],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -31,8 +28,6 @@
         "cligen >= 0.9.31"
       ],
       "y": [],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -41,8 +36,6 @@
         "cligen >= 0.9.28"
       ],
       "y": [],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -52,7 +45,6 @@
       ],
       "m": "0.19.0",
       "y": [],
-      "s": "",
       "p": []
     },
     {
@@ -62,7 +54,6 @@
       ],
       "m": "0.19.0",
       "y": [],
-      "s": "",
       "p": []
     },
     {
@@ -72,7 +63,6 @@
       ],
       "m": "0.19.0",
       "y": [],
-      "s": "",
       "p": []
     },
     {
@@ -81,7 +71,6 @@
         "cligen >= 0.9.16"
       ],
       "m": "0.19.0",
-      "s": "",
       "y": [],
       "p": []
     },
@@ -91,7 +80,6 @@
         "cligen >= 0.9.16"
       ],
       "m": "0.19.0",
-      "s": "",
       "y": [],
       "p": []
     },
@@ -101,7 +89,6 @@
         "cligen >= 0.9.16"
       ],
       "m": "0.19.0",
-      "s": "",
       "y": [],
       "p": []
     },
@@ -111,7 +98,6 @@
         "cligen >= 0.9.16"
       ],
       "m": "0.19.0",
-      "s": "",
       "y": [],
       "p": []
     },
@@ -121,7 +107,6 @@
         "cligen >= 0.9.16"
       ],
       "m": "0.19.0",
-      "s": "",
       "y": [],
       "p": []
     },
@@ -132,7 +117,6 @@
       ],
       "d": "Basic tangling of Org documents using Nim",
       "m": "0.19.0",
-      "s": "",
       "y": [],
       "p": []
     },
@@ -143,7 +127,6 @@
       ],
       "d": "Basic tangling of Org documents using Nim",
       "m": "0.19.0",
-      "s": "",
       "y": [],
       "p": []
     },
@@ -154,7 +137,6 @@
       ],
       "d": "Basic tangling of Org documents using Nim",
       "m": "0.19.0",
-      "s": "",
       "y": [],
       "p": []
     },
@@ -165,7 +147,6 @@
       ],
       "d": "Basic tangling of Org documents using Nim",
       "m": "0.19.0",
-      "s": "",
       "y": [],
       "p": []
     },
@@ -176,7 +157,6 @@
       ],
       "d": "Basic tangling of Org documents using Nim",
       "m": "0.19.0",
-      "s": "",
       "y": [],
       "p": []
     },
@@ -187,7 +167,6 @@
       ],
       "d": "Basic tangling of Org documents using Nim",
       "m": "0.19.0",
-      "s": "",
       "y": [],
       "p": []
     },
@@ -198,7 +177,6 @@
       ],
       "d": "Basic tangling of Org documents using Nim",
       "m": "0.19.0",
-      "s": "",
       "y": [],
       "p": []
     },
@@ -207,7 +185,6 @@
       "r": [],
       "d": "Basic tangling of Org documents using Nim",
       "m": "0.19.0",
-      "s": "",
       "y": [],
       "p": []
     },
@@ -216,23 +193,12 @@
       "r": [],
       "d": "Basic tangling of Org documents using Nim",
       "m": "0.19.0",
-      "s": "",
       "y": [],
-      "p": []
-    },
-    {
-      "v": "#head@de3ec97c4650cc7b5875ee2614e4c1df5ccb5388",
-      "r": [
-        "cligen >= 0.9.31"
-      ],
-      "y": [],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:52Z",
+  "generatedAt": "2026-05-26T13:17:38Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "ensem",
   "fqn": "ensem.JeffersonLab.github.com",
-  "head": "88c0fbaa4cc7f6e7bb5c8b8aad0406f3a8c24bfa",
   "author": "Robert Edwards",
   "description": "Support for ensemble file format and arithmetic using jackknife/bootstrap propagation of errors",
   "license": "BSD3",
@@ -11,66 +10,51 @@
   "releases": [
     {
       "v": "1.4.0@88c0fbaa4cc7f6e7bb5c8b8aad0406f3a8c24bfa^",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "1.3.2@f8f7c742619eecc68fc5b3582cb43c312b5953d5",
       "r": [],
-      "m": "0.19.0",
-      "s": ""
+      "m": "0.19.0"
     },
     {
       "v": "1.3.1@f5eea8d7b4042ccc154acae98c5789739ff8253d",
       "r": [],
-      "m": "0.19.0",
-      "s": ""
+      "m": "0.19.0"
     },
     {
       "v": "1.3.0@c593e382f1885497055c7e7193afb75a19cca2be",
       "r": [],
-      "m": "0.19.0",
-      "s": ""
+      "m": "0.19.0"
     },
     {
       "v": "1.2.2@88f15a3f88a0b2a0f87b03a90e070c34c82231cb",
       "r": [],
-      "m": "0.17.0",
-      "s": ""
+      "m": "0.17.0"
     },
     {
       "v": "1.2.1@2ba33ce50820ddde72f11110fbb3e350915473a4",
       "r": [],
       "l": "MIT",
-      "m": "0.17.0",
-      "s": ""
+      "m": "0.17.0"
     },
     {
       "v": "1.1.0@8b2cc69a769254cfddc7d460fe5c11d156b26215",
       "r": [],
       "d": "Support for ensemble file format and arithmetic",
       "l": "MIT",
-      "m": "0.17.0",
-      "s": ""
+      "m": "0.17.0"
     },
     {
       "v": "1.0.0@4b5c8a14a0db3ec053433d80c593c8ab8c452b6e",
       "r": [],
       "d": "Support for ensemble file format and arithmetic",
       "l": "MIT",
-      "m": "0.17.0",
-      "s": ""
-    },
-    {
-      "v": "#head@88c0fbaa4cc7f6e7bb5c8b8aad0406f3a8c24bfa",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "m": "0.17.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:16Z",
+  "generatedAt": "2026-05-26T13:13:45Z",
   "allDeps": {
     "packages": [],
     "urls": [],

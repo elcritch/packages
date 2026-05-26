@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "uncomment",
   "fqn": "uncomment.hamidb80.github.com",
-  "head": "baf9e5e11c5fd52d8348b4e3effab72f31481144",
   "author": "hamidb80",
   "description": "uncomment the codes at the compile time",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.0.3@6a40b1fd4ad5f8eadd2c6ab5b194e46c3e9e1f98",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@baf9e5e11c5fd52d8348b4e3effab72f31481144",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:14Z",
+  "generatedAt": "2026-05-26T13:19:58Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

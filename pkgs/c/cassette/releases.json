@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "cassette",
   "fqn": "cassette.LemonBoy.github.com",
-  "head": "8cf4ffc56648e5f0b07130a9f43942cf2bb6f268",
   "author": "LemonBoy",
   "description": "Record and replay your HTTP sessions!",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@0d727bae8a387629e4fe0f4b8632db1b179740fc",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@8cf4ffc56648e5f0b07130a9f43942cf2bb6f268",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:58Z",
+  "generatedAt": "2026-05-26T13:12:49Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "cli_menu",
   "fqn": "cli_menu.MnlPhlp.github.com",
-  "head": "4ef855e5c24aabeb90bc837f8e87d96a24897691",
   "author": "MnlPhlp",
   "description": "A library to create interactive commandline menus without writing boilerplate code.",
   "license": "MIT",
@@ -11,37 +10,23 @@
   "releases": [
     {
       "v": "0.1.0@f5faf77c9e72745bf2fabcaf691579f205d94716",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.5@de197ff4b2ea23dcab162afc0fe49ec0f54ac3ba",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.0@c11e2aaa85679f748c7026283b0dafe213de2744",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.5@4ef855e5c24aabeb90bc837f8e87d96a24897691^",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@4ef855e5c24aabeb90bc837f8e87d96a24897691",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:16Z",
+  "generatedAt": "2026-05-26T13:13:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

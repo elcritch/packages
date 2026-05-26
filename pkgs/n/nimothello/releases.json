@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimothello",
   "fqn": "nimothello.jiro4989.github.com",
-  "head": "7a20dd323bd44cd349251da0c8bfbd83638d488c",
   "author": "jiro4989",
   "description": "A teminal othello (reversi) in Nim.",
   "license": "MIT",
@@ -18,37 +17,12 @@
       "r": [
         "illwill >= 0.2.0"
       ],
-      "m": "~",
-      "s": "",
-      "b": "",
-      "p": []
-    },
-    {
-      "v": "#head@7a20dd323bd44cd349251da0c8bfbd83638d488c",
-      "r": [
-        "illwill >= 0.2.0"
-      ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:05Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "v1.0.0"
-    ],
-    "tagVersions": {
-      "v1.0.0": "1.0.0"
-    },
-    "latest": "v1.0.0"
-  },
+  "generatedAt": "2026-05-26T13:17:04Z",
   "allDeps": {
     "packages": [
       "illwill"

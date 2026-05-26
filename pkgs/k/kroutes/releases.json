@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "kroutes",
   "fqn": "kroutes.ryukoposting.github.com",
-  "head": "af76e4e9b8bcbcf74d2b76e2aedf2386218cee5a",
   "author": "Evan Perry Grove",
   "description": "Karax router with CSR and SSR support",
   "license": "MIT",
@@ -13,37 +12,23 @@
       "v": "0.2.0@f850ea59d5a5f6c0147172f7da725c7ca79c8bb1",
       "r": [
         "karax >= 1.2.2"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.2@6a8812dddca65cfe46a15b911b96a8061b004502",
       "r": [
         "karax >= 1.2.2"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.1@e2d6e68d0ac192cc88486801d06f1f6e9a8a98a3",
       "r": [
         "karax >= 1.2.2"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@af76e4e9b8bcbcf74d2b76e2aedf2386218cee5a",
-      "r": [
-        "karax >= 1.2.2"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:38Z",
+  "generatedAt": "2026-05-26T13:15:20Z",
   "allDeps": {
     "packages": [
       "dotenv",

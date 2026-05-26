@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "syllables",
   "fqn": "nim-syllables.tonogram.github.com",
-  "head": "d8092f13def46862a1ab2746cf64ba3f9d876281",
   "author": "Reilly Moore",
   "description": "Syllable estimation for Nim.",
   "license": "MIT",
@@ -14,22 +13,11 @@
       "r": [
         "regex >= 0.19.0",
         "gh:disruptek/testes >= 1.1.1"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@d8092f13def46862a1ab2746cf64ba3f9d876281",
-      "r": [
-        "regex >= 0.19.0",
-        "gh:disruptek/testes >= 1.1.1"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:31Z",
+  "generatedAt": "2026-05-26T13:19:30Z",
   "allDeps": {
     "packages": [
       "graphemes",

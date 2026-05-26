@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nordnet",
   "fqn": "nim_nordnet_api.ThomasTJdev.github.com",
-  "head": "3c08ae09939082b2a00c31ca8b4f1d8de544338a",
   "author": "Thomas T. Jarløv (https://github.com/ThomasTJdev)",
   "description": "Scraping API for www.nordnet.dk",
   "license": "MIT",
@@ -17,7 +16,6 @@
         "nmqtt >= 1.0.0",
         "q >= 0.0.7"
       ],
-      "m": "~",
       "i": []
     },
     {
@@ -26,7 +24,6 @@
         "nmqtt >= 1.0.0",
         "q >= 0.0.7"
       ],
-      "m": "~",
       "i": []
     },
     {
@@ -35,7 +32,6 @@
         "nmqtt >= 0.1.0",
         "q >= 0.0.7"
       ],
-      "m": "~",
       "i": []
     },
     {
@@ -44,7 +40,6 @@
         "nmqtt >= 0.1.0",
         "q >= 0.0.7"
       ],
-      "m": "~",
       "i": []
     },
     {
@@ -53,7 +48,6 @@
         "nmqtt >= 0.1.0",
         "q >= 0.0.7"
       ],
-      "m": "~",
       "i": []
     },
     {
@@ -73,19 +67,10 @@
       ],
       "m": "1.0.6",
       "i": []
-    },
-    {
-      "v": "#head@3c08ae09939082b2a00c31ca8b4f1d8de544338a",
-      "r": [
-        "nmqtt >= 1.0.0",
-        "q >= 0.0.7"
-      ],
-      "m": "~",
-      "i": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:41Z",
+  "generatedAt": "2026-05-26T13:17:30Z",
   "allDeps": {
     "packages": [
       "bcrypt",

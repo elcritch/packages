@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "binaryheap",
   "fqn": "nim-heap.bluenote10.github.com",
-  "head": "b53c8312917acc2881d001b731dc4e2fa0c4b348",
   "author": "Fabian Keller",
   "description": "Simple binary heap implementation",
   "license": "MIT",
@@ -14,14 +13,10 @@
     {
       "v": "0.1.1@8499f8e1beb622478e65eaa212f72209457c6d46",
       "r": []
-    },
-    {
-      "v": "#head@b53c8312917acc2881d001b731dc4e2fa0c4b348",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:31Z",
+  "generatedAt": "2026-05-26T13:12:28Z",
   "allDeps": {
     "packages": [],
     "urls": [],

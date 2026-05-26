@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimtrs",
   "fqn": "nimtrs.haxscramper.github.com",
-  "head": "1f09c81ada6ecdabcbf06b6fb9d8dfa17e66640c",
   "author": "haxscramper",
   "description": "Nim term rewriting system",
   "license": "Apache-2.0",
@@ -11,9 +10,7 @@
   "releases": [
     {
       "v": "0.1.0@36d46f1c094b51a73496085b39408f98ccc566b6",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.12@d6709edfafe11239c0b17ff783bd77141841be7c",
@@ -21,9 +18,7 @@
         "hmisc",
         "hdrawing",
         "hpprint"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.2.13@81c4f56830c8132d8c81e0c186d0a1b8bbd7f1aa",
@@ -32,24 +27,11 @@
         "hdrawing",
         "hpprint",
         "hnimast"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@1f09c81ada6ecdabcbf06b6fb9d8dfa17e66640c",
-      "r": [
-        "hmisc",
-        "hdrawing",
-        "hpprint",
-        "hnimast"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:22Z",
+  "generatedAt": "2026-05-26T13:17:16Z",
   "allDeps": {
     "packages": [
       "benchy > 0.1.0",

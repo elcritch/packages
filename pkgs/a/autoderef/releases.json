@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "autoderef",
   "fqn": "autoderef.sls1005.github.com",
-  "head": "3d9448c9adb3dd0ebb089a37edff10e8ecda0b34",
   "author": "Hsien-yu Chu",
   "description": "Syntax sugar which supports auto-dereferencing",
   "license": "MIT",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "0.1.0@3d9448c9adb3dd0ebb089a37edff10e8ecda0b34^",
-      "r": [],
-      "s": ""
-    },
-    {
-      "v": "#head@3d9448c9adb3dd0ebb089a37edff10e8ecda0b34",
-      "r": [],
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:07Z",
+  "generatedAt": "2026-05-26T13:12:10Z",
   "allDeps": {
     "packages": [],
     "urls": [],

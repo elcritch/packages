@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "chebyshev",
   "fqn": "chebyshev.jxy.github.com",
-  "head": "b66b85b89478b629a1a6d3d0bf27865a6e20ed41",
   "author": "Xiao-Yong Jin",
   "description": "Chebyshev approximation.",
   "license": "MIT",
@@ -10,32 +9,23 @@
   "releases": [
     {
       "v": "0.2.2@b66b85b89478b629a1a6d3d0bf27865a6e20ed41^",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "0.2.1@0cb35daa725d738475c25766e2b68033b57e7bf8",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "0.2.0@b7ce304037047fd1eb2fe04ab0e937987f4f73f8",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "0.1.0@94fa37aa7b858902b8d52590a454ef1e98389e4a",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@b66b85b89478b629a1a6d3d0bf27865a6e20ed41",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:06Z",
+  "generatedAt": "2026-05-26T13:12:57Z",
   "allDeps": {
     "packages": [],
     "urls": [],

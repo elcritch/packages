@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "json_schema_import",
   "fqn": "NimJsonSchemaImporter.Nycto.github.com",
-  "head": "21932322f882a5b35215a1d73bec37b411f16db3",
   "author": "Nycto",
   "description": "Converts JSON schema definitions to nim types",
   "license": "MIT",
@@ -13,45 +12,29 @@
       "v": "0.4.0@21932322f882a5b35215a1d73bec37b411f16db3^",
       "r": [
         "regex >= 0.26.1"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.3.0@53cc98938ecb1b0d504cd9fee3f2b39a162c94de",
       "r": [
         "regex >= 0.26.1"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.2.0@c72f199a1b613539677765b283022528c4a08f28",
       "r": [
         "regex >= 0.26.1"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.0@472743b3843368a858f78bf50aa34f4800949b7b",
       "r": [
         "regex >= 0.26.1"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@21932322f882a5b35215a1d73bec37b411f16db3",
-      "r": [
-        "regex >= 0.26.1"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:27Z",
+  "generatedAt": "2026-05-26T13:15:12Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

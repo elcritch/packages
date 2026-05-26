@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "discordnim",
   "fqn": "discordnim.Krognol.github.com",
-  "head": "dab2e9fe6a0fd190d17e1d96f92168aa78398c7f",
   "author": "Krognol",
   "description": "Discord library for nim",
   "license": "MIT",
@@ -10,8 +9,7 @@
   "releases": [
     {
       "v": "0.1.0@5cdadc0929a8795f812dfc376ad4726561d69345",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "1.2.3@42adde2070e59dff157788e32c22ca5e3dfe4a66",
@@ -96,18 +94,10 @@
         "websocket >= 0.3.4"
       ],
       "m": "0.19.0"
-    },
-    {
-      "v": "#head@dab2e9fe6a0fd190d17e1d96f92168aa78398c7f",
-      "r": [
-        "zip >= 0.2.1",
-        "websocket >= 0.4.1"
-      ],
-      "m": "1.0.4"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:59Z",
+  "generatedAt": "2026-05-26T13:13:34Z",
   "allDeps": {
     "packages": [
       "websocket > 2.0.0",

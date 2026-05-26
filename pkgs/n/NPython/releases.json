@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "NPython",
   "fqn": "NPython.nimpylib.github.com",
-  "head": "dbdb6c65cd2c53db4dce16a216b182ccf977d4a4",
   "author": "Weitang Li (liwt),  lit (litlighilit)",
   "description": "Python interpreter implemented in Nim, supporting JS backends",
   "license": "MIT",
@@ -29,8 +28,6 @@
       "r": [],
       "h": true,
       "p": [],
-      "m": "~",
-      "s": "",
       "b": "",
       "x": [],
       "j": [],
@@ -62,32 +59,15 @@
       "a": "Weitang Li",
       "d": "(Subset of) Python programming language implemented in Nim",
       "l": "CPython license",
-      "m": "~",
-      "s": "",
       "b": "",
       "x": [],
       "j": [],
       "k": [],
       "p": []
-    },
-    {
-      "v": "#head@dbdb6c65cd2c53db4dce16a216b182ccf977d4a4",
-      "r": [],
-      "h": true,
-      "j": [
-        "LICENSE",
-        "npython/Parser/Grammar"
-      ],
-      "p": [],
-      "m": "~",
-      "s": "",
-      "b": "",
-      "x": [],
-      "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:27Z",
+  "generatedAt": "2026-05-26T13:11:42Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

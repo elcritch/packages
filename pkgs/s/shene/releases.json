@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "shene",
   "fqn": "shene.ringabout.github.com",
-  "head": "451dcac2a01000b09759a79dfdc07ad225579a5a",
   "author": "flywind",
   "description": "Interface for Nim.",
   "license": "Apache-2.0",
@@ -11,20 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@d62defddc0239b0f9d3fce41520a7bd12283cce8",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@451dcac2a01000b09759a79dfdc07ad225579a5a",
-      "r": [],
-      "d": "Zero-cost interface for Nim.",
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:44Z",
+  "generatedAt": "2026-05-26T13:18:55Z",
   "allDeps": {
     "packages": [],
     "urls": [],

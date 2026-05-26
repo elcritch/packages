@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "scraper",
   "fqn": "scraper.thisago.github.com",
-  "head": "45955ca9c2bbbe4539574e4fe820268eb790791f",
   "author": "Luciano Lorenzo",
   "description": "Scraping tools",
   "license": "MIT",
@@ -15,29 +14,16 @@
         "error://findxml"
       ],
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/scraper.thisago.github.com-2d9de467-scraper.nimble\ncannot resolve package name: findxml",
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@45955ca9c2bbbe4539574e4fe820268eb790791f",
-      "r": [
-        "gh:thisago/findxml"
-      ],
-      "a": "Thiago Navarro",
-      "m": "~",
-      "s": ""
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/scraper.thisago.github.com-2d9de467-scraper.nimble\ncannot resolve package name: findxml"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:30Z",
+  "generatedAt": "2026-05-26T13:18:45Z",
   "allDeps": {
     "packages": [],
     "urls": [
       "error://findxml"
     ],
-    "unresolved": [
-      "gh:thisago/findxml"
-    ]
+    "unresolved": []
   }
 }

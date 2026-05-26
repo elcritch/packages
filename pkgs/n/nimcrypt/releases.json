@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimcrypt",
   "fqn": "nimcrypt.napalu.github.com",
-  "head": "e92a62f67ee13e2484e18117924395c9c347e88d",
   "author": "Florent Heyworth",
   "description": "Nim implementation of MD5, SHA-256 and SHA-512 Unix crypt",
   "license": "MIT",
@@ -18,7 +17,6 @@
         "nimcrypto >= 0.5.4",
         "checksums"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -26,7 +24,6 @@
       "r": [
         "nimcrypto >= 0.5.4"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -34,7 +31,6 @@
       "r": [
         "nimcrypto >= 0.5.4"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -52,19 +48,10 @@
       ],
       "m": "1.4.8",
       "x": []
-    },
-    {
-      "v": "#head@e92a62f67ee13e2484e18117924395c9c347e88d",
-      "r": [
-        "nimcrypto >= 0.5.4",
-        "checksums"
-      ],
-      "m": "~",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:38Z",
+  "generatedAt": "2026-05-26T13:16:47Z",
   "allDeps": {
     "packages": [
       "checksums > 1.0.0",

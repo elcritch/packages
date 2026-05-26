@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "syslog",
   "fqn": "nim-syslog.FedericoCeratto.github.com",
-  "head": "728ce9521f1d1df06d8a902649f9c5a7154ac98c",
   "author": "Federico Ceratto",
   "description": "Minimal syslog support.",
   "license": "LGPLv3",
@@ -16,26 +15,16 @@
       "r": [
         "nake"
       ],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.0.3@dcc034f0fd5d2fcaefca2766a8dc9b636b80c5ad",
       "r": [],
-      "m": "~",
-      "x": []
-    },
-    {
-      "v": "#head@728ce9521f1d1df06d8a902649f9c5a7154ac98c",
-      "r": [
-        "nake"
-      ],
-      "m": "~",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:33Z",
+  "generatedAt": "2026-05-26T13:19:29Z",
   "allDeps": {
     "packages": [
       "nake > 0.0.3"

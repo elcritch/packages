@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "jobscheduler",
   "fqn": "nim-jobscheduler.YesDrX.github.com",
-  "head": "84df905dfa106192d36eb4d00e268c45c3f273c4",
   "author": "User",
   "description": "A full-featured job scheduler in Nim",
   "license": "MIT",
@@ -24,8 +23,6 @@
         "cligen",
         "nimcrypto"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -40,8 +37,6 @@
         "cligen",
         "nimcrypto"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -56,8 +51,6 @@
         "cligen",
         "nimcrypto"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -72,8 +65,6 @@
         "cligen",
         "nimcrypto"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -88,8 +79,6 @@
         "cligen",
         "nimcrypto"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -104,8 +93,6 @@
         "cligen",
         "nimcrypto"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -120,8 +107,6 @@
         "cligen",
         "nimcrypto"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -136,8 +121,6 @@
         "cligen",
         "nimcrypto"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -152,8 +135,6 @@
         "cligen",
         "nimcrypto"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -168,8 +149,6 @@
         "cligen",
         "nimcrypto"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -184,8 +163,6 @@
         "cligen",
         "nimcrypto"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -200,8 +177,6 @@
         "cligen",
         "nimcrypto"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -216,8 +191,6 @@
         "cligen",
         "nimcrypto"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -232,29 +205,11 @@
         "cligen",
         "nimcrypto"
       ],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@84df905dfa106192d36eb4d00e268c45c3f273c4",
-      "r": [
-        "yaml",
-        "db_connector",
-        "checksums",
-        "smtp",
-        "timezones",
-        "nimja",
-        "cligen",
-        "nimcrypto"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:24Z",
+  "generatedAt": "2026-05-26T13:15:11Z",
   "allDeps": {
     "packages": [
       "checksums",

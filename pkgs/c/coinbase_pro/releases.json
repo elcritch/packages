@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "coinbase_pro",
   "fqn": "coinbase-pro-nim.inv2004.github.com",
-  "head": "c91664ff454238a134d690ab841e0e1f476da6b5",
   "author": "inv2004",
   "description": "Coinbase pro client for Nim",
   "license": "MIT",
@@ -13,9 +12,7 @@
       "v": "0.1.0@cce7c0665d62fa8e88544852f91ec04950fbcbf2",
       "r": [
         "ws"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.1@446a5ef7b13456c8e6b040377c4aef10f6bb891e",
@@ -23,9 +20,7 @@
         "ws",
         "decimal",
         "uuids"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.3@ce1f397afd4111f2e62500b0bb1dc65923da6a57",
@@ -33,23 +28,11 @@
         "ws",
         "decimal",
         "uuids"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@c91664ff454238a134d690ab841e0e1f476da6b5",
-      "r": [
-        "ws",
-        "decimal",
-        "uuids"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:23Z",
+  "generatedAt": "2026-05-26T13:13:09Z",
   "allDeps": {
     "packages": [
       "decimal > 0.1.0",

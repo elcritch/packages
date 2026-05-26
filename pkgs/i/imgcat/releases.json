@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "imgcat",
   "fqn": "imgcat.not-lum.github.com",
-  "head": "37b1e7d2688a75a589671f1f5b5c9a992b908db5",
   "author": "not-lum",
   "description": "See pictures in your console",
   "license": "MIT",
@@ -21,8 +20,6 @@
         "flippy 0.4.5",
         "cligen 1.2.2"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -32,8 +29,6 @@
         "imageman 0.8.2",
         "argparse 2.0.0"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -44,8 +39,6 @@
         "argparse 3.0.0"
       ],
       "d": "This utility prints pictures in your console",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -56,8 +49,6 @@
         "argparse 3.0.0"
       ],
       "d": "This utility prints pictures in your console",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -68,8 +59,6 @@
         "argparse 3.0.0"
       ],
       "d": "This utility prints pictures in your console",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -80,8 +69,6 @@
         "argparse 3.0.0"
       ],
       "d": "This utility prints pictures in your console",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -92,44 +79,25 @@
         "argparse 3.0.0"
       ],
       "d": "This utility prints pictures in your console",
-      "m": "~",
-      "s": "",
-      "k": [],
-      "p": []
-    },
-    {
-      "v": "#head@37b1e7d2688a75a589671f1f5b5c9a992b908db5",
-      "r": [
-        "imageman 0.8.2",
-        "argparse 3.0.0"
-      ],
-      "d": "This utility prints pictures in your console",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:05Z",
+  "generatedAt": "2026-05-26T13:14:58Z",
   "allDeps": {
     "packages": [
       "argparse > 0.1.0",
-      "bumpy <= 0.1.0",
       "chroma <= 0.1.0",
       "cligen <= 0.1.0",
-      "faststreams <= 0.1.0",
       "flippy <= 0.1.0",
       "imageman > 0.1.0",
       "mddoc <= 0.1.0",
       "nimPNG",
       "print <= 0.1.0",
-      "results <= 0.1.0",
       "snappy <= 0.1.0",
       "stb_image",
-      "stew <= 0.1.0",
       "supersnappy <= 0.1.0",
-      "unittest2 <= 0.1.0",
       "vmath <= 0.1.0"
     ],
     "urls": [],

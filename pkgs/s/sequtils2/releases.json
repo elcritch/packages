@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "sequtils2",
   "fqn": "sequtils2.Michedev.github.com",
-  "head": "7efcb0e34c583e73f34f6f407cb173f58ae79846",
   "author": "Michele De Vita",
   "description": "Additional methods for sequences that are not present in sequtils",
   "license": "MIT",
@@ -14,24 +13,16 @@
     {
       "v": "1.1.0@7efcb0e34c583e73f34f6f407cb173f58ae79846^",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "1.0.0@07e33d5ab72ca699427f42b39ae8d4af63fd17f2",
       "r": [],
-      "m": "~",
-      "x": []
-    },
-    {
-      "v": "#head@7efcb0e34c583e73f34f6f407cb173f58ae79846",
-      "r": [],
-      "m": "~",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:38Z",
+  "generatedAt": "2026-05-26T13:18:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

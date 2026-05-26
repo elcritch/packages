@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "fidget2",
   "fqn": "fidget2.treeform.github.com",
-  "head": "b55e5b5731391081c69229809451112f10e39a9e",
   "author": "Andre von Houck",
   "description": "Fidget2 is a cross platform UI library leveraging Figma.",
   "license": "MIT",
@@ -16,9 +15,7 @@
         "jsony >= 1.1.5",
         "puppy >= 2.1.2",
         "boxy >= 0.6.6"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.1@43e0a8c870cf416871e187c94544187279519c35",
@@ -27,9 +24,7 @@
         "jsony >= 1.1.5",
         "puppy >= 2.1.2",
         "boxy >= 0.6.5"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.0@2fe246ecea2895a622d2d2580e81f5da54e1e088",
@@ -38,9 +33,7 @@
         "jsony >= 1.1.5",
         "puppy >= 2.1.2",
         "boxy >= 0.6.4"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.0.12@e76054839b2eb758010fed79fbfc1a80036da58b",
@@ -50,9 +43,7 @@
         "puppy >= 2.1.2",
         "boxy >= 0.6.4"
       ],
-      "d": "Description of your library",
-      "m": "~",
-      "s": ""
+      "d": "Description of your library"
     },
     {
       "v": "0.0.11@a86c683a99a7d66765aeda153454b64ea9a2601f",
@@ -62,9 +53,7 @@
         "puppy >= 2.1.2",
         "boxy >= 0.6.4"
       ],
-      "d": "Description of your library",
-      "m": "~",
-      "s": ""
+      "d": "Description of your library"
     },
     {
       "v": "0.0.10@a52d4b3f80b473bd97b193653262a7b5e20d2f8d",
@@ -74,9 +63,7 @@
         "puppy >= 2.1.2",
         "boxy >= 0.6.3"
       ],
-      "d": "Description of your library",
-      "m": "~",
-      "s": ""
+      "d": "Description of your library"
     },
     {
       "v": "0.0.7@e9ed56559c56d14c871edc4d5b0ca9579dc4d854",
@@ -86,9 +73,7 @@
         "puppy >= 2.1.2",
         "boxy >= 0.6.1"
       ],
-      "d": "Description of your library",
-      "m": "~",
-      "s": ""
+      "d": "Description of your library"
     },
     {
       "v": "0.0.5@942ff265f2b0e49f5546d111bc08426600e1815f",
@@ -102,9 +87,7 @@
         "puppy >= 2.1.2",
         "boxy >= 0.5.1"
       ],
-      "d": "Description of your library",
-      "m": "~",
-      "s": ""
+      "d": "Description of your library"
     },
     {
       "v": "0.0.4@7833e10b66095d3b86d038853ffd23be28d9c859",
@@ -118,9 +101,7 @@
         "puppy >= 2.1.2",
         "boxy >= 0.5.0"
       ],
-      "d": "Description of your library",
-      "m": "~",
-      "s": ""
+      "d": "Description of your library"
     },
     {
       "v": "0.0.3@c6f783fa1ca990bcfb2b81b04a32ffc1995b25cd",
@@ -134,9 +115,7 @@
         "puppy >= 2.1.2",
         "boxy >= 0.5.0"
       ],
-      "d": "Description of your library",
-      "m": "~",
-      "s": ""
+      "d": "Description of your library"
     },
     {
       "v": "0.0.2@5961bf702c163caadd249a6a20010c2117b740f8",
@@ -150,9 +129,7 @@
         "puppy >= 2.1.2",
         "boxy >= 0.5.0"
       ],
-      "d": "Description of your library",
-      "m": "~",
-      "s": ""
+      "d": "Description of your library"
     },
     {
       "v": "0.0.1@0e8ff803eb5f61fac8875288ef5b2bc1ed8be930",
@@ -166,25 +143,11 @@
         "puppy >= 2.1.2",
         "boxy >= 0.5.0"
       ],
-      "d": "Description of your library",
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@b55e5b5731391081c69229809451112f10e39a9e",
-      "r": [
-        "cligen >= 1.0.0",
-        "jsony >= 1.1.5",
-        "puppy >= 2.1.2",
-        "boxy >= 0.6.6",
-        "supersnappy >= 2.1.3"
-      ],
-      "m": "~",
-      "s": ""
+      "d": "Description of your library"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:43Z",
+  "generatedAt": "2026-05-26T13:14:01Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -224,7 +187,6 @@
       "pixie",
       "puppy",
       "shady",
-      "supersnappy",
       "urlly",
       "vmath",
       "webby",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "jsonfmt",
   "fqn": "jsonfmt.fkdosilovic.github.com",
-  "head": "cd4c0b4d28a505d69f86527eed23f32eb31215e4",
   "author": "Filip Karlo Došilović",
   "description": "Ridiculously simple and effective JSON formatter.",
   "license": "MIT",
@@ -17,22 +16,11 @@
       "r": [
         "argparse"
       ],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@cd4c0b4d28a505d69f86527eed23f32eb31215e4",
-      "r": [
-        "argparse"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:26Z",
+  "generatedAt": "2026-05-26T13:15:13Z",
   "allDeps": {
     "packages": [
       "argparse"

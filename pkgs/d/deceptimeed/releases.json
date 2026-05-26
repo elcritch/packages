@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "deceptimeed",
   "fqn": "deceptimeed.cycneuramus.github.com",
-  "head": "147e33bec4c3cda008324269ab0d8a655052f236",
   "author": "cycneuramus",
   "description": "Loads IP blocklists into nftables from plain text or JSON feeds",
   "license": "AGPL-3.0-only",
@@ -17,8 +16,6 @@
       "r": [
         "argparse >= 4.0.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -26,8 +23,6 @@
       "r": [
         "argparse >= 4.0.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -35,8 +30,6 @@
       "r": [
         "argparse >= 4.0.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -44,8 +37,6 @@
       "r": [
         "argparse >= 4.0.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -53,8 +44,6 @@
       "r": [
         "argparse >= 4.0.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -62,8 +51,6 @@
       "r": [
         "argparse >= 4.0.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -71,29 +58,17 @@
       "r": [
         "argparse >= 4.0.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
       "v": "0.1.1@e0ae03ce9d2af8d40cebe56a1b8309521a713a3e",
       "r": [],
       "m": "2.0.0",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@147e33bec4c3cda008324269ab0d8a655052f236",
-      "r": [
-        "argparse >= 4.0.2"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:48Z",
+  "generatedAt": "2026-05-26T13:13:27Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

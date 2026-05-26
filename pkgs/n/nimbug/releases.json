@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimbug",
   "fqn": "nimbug.juancarlospaco.github.com",
-  "head": "ff0ca24468619f5e0b24776265142e31751bc7ff",
   "author": "Juan Carlos",
   "description": "Nim Semi-Auto Bug Report Tool",
   "license": "MIT",
@@ -15,20 +14,11 @@
     {
       "v": "0.1.1@8c0306458f2634b7ecc0fd2f5d82bc852258dc8e",
       "r": [],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@ff0ca24468619f5e0b24776265142e31751bc7ff",
-      "r": [],
-      "m": "1.2.2",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:34Z",
+  "generatedAt": "2026-05-26T13:16:44Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

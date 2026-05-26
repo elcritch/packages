@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "sha1",
   "fqn": "sha1.onionhammer.github.com",
-  "head": "92ccc5800bb0ac4865b275a2ce3c1544e98b48bc",
   "author": "Erik O'Leary",
   "description": "SHA-1 produces a 160-bit (20-byte) hash value from arbitrary input",
   "license": "BSD",
@@ -14,14 +13,10 @@
     {
       "v": "1.1@92ccc5800bb0ac4865b275a2ce3c1544e98b48bc^",
       "r": []
-    },
-    {
-      "v": "#head@92ccc5800bb0ac4865b275a2ce3c1544e98b48bc",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:39Z",
+  "generatedAt": "2026-05-26T13:18:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

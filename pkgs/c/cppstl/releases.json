@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "cppstl",
   "fqn": "nim-cppstl.BigEpsilon.github.com",
-  "head": "45ca8979092e9d93a2cf68484043e64fdd5d5b79",
   "author": "Clonkk",
   "description": "Bindings for the C++ Standard Template Library (STL)",
   "license": "MIT",
@@ -12,7 +11,6 @@
     {
       "v": "0.7.0@45ca8979092e9d93a2cf68484043e64fdd5d5b79^",
       "r": [],
-      "m": "~",
       "e": ""
     },
     {
@@ -68,47 +66,10 @@
       "r": [],
       "m": "1.0.0",
       "e": ""
-    },
-    {
-      "v": "#head@45ca8979092e9d93a2cf68484043e64fdd5d5b79",
-      "r": [],
-      "m": "~",
-      "e": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:33Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "v0.2.2",
-      "v0.3.0",
-      "v0.3.1",
-      "v0.4.0",
-      "v0.4.1",
-      "v0.5.0",
-      "v0.6.0",
-      "v0.6.1",
-      "v0.6.2",
-      "v0.7.0"
-    ],
-    "tagVersions": {
-      "v0.2.2": "0.2.2",
-      "v0.3.0": "0.3.0",
-      "v0.3.1": "0.3.1",
-      "v0.4.0": "0.4.0",
-      "v0.4.1": "0.4.1",
-      "v0.5.0": "0.5.0",
-      "v0.6.0": "0.6.0",
-      "v0.6.1": "0.6.1",
-      "v0.6.2": "0.6.2",
-      "v0.7.0": "0.7.0"
-    },
-    "latest": "v0.7.0"
-  },
+  "generatedAt": "2026-05-26T13:13:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

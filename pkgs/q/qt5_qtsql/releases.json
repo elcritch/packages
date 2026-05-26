@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "qt5_qtsql",
   "fqn": "nim-qt5_qtsql.philip-wernersbach.github.com",
-  "head": "c057ad80971be80c0a2489e0ed6826cbca856aa6",
   "author": "Philip Wernersbach <philip.wernersbach@gmail.com>",
   "description": "Binding for Qt 5's Qt SQL library. Provides a single API for multiple database engines.",
   "license": "MIT",
@@ -34,14 +33,10 @@
     {
       "v": "0.7.0@8a65f5e5c3b83e3c7f4cc74e19039d2c1274277d",
       "r": []
-    },
-    {
-      "v": "#head@c057ad80971be80c0a2489e0ed6826cbca856aa6",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:56Z",
+  "generatedAt": "2026-05-26T13:18:25Z",
   "allDeps": {
     "packages": [],
     "urls": [],

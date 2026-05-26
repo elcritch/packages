@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "staticglfw",
   "fqn": "staticglfw.treeform.github.com",
-  "head": "f6a40acf98466c3a11ab3f074a70d570c297f82b",
   "author": "Andre von Houck",
   "description": "Static GLFW 3 wrapper for Nim",
   "license": "MIT",
@@ -17,51 +16,39 @@
       "r": [
         "opengl >= 1.2.3"
       ],
-      "x": [],
-      "m": "~",
-      "s": ""
+      "x": []
     },
     {
       "v": "4.1.2@6b745968ee37f32caa7f350ce868f33620645b41",
       "r": [
         "opengl >= 1.2.3"
       ],
-      "x": [],
-      "m": "~",
-      "s": ""
+      "x": []
     },
     {
       "v": "4.1.1@38609e1c3e1a1ba8337e0483facf72563831d9f8",
       "r": [
         "opengl >= 1.2.3"
       ],
-      "x": [],
-      "m": "~",
-      "s": ""
+      "x": []
     },
     {
       "v": "4.1.0@f70e2e412774f704bf0ec5dfaeee661adbd2835f",
       "r": [
         "opengl >= 1.2.3"
       ],
-      "x": [],
-      "m": "~",
-      "s": ""
+      "x": []
     },
     {
       "v": "4.0.1@11a18733d5a104d8dc0bba3a02d1583d9454b14a",
       "r": [],
-      "x": [],
-      "m": "~",
-      "s": ""
+      "x": []
     },
     {
       "v": "3.3.0.2@347ffb4326ef577eea46363b1d1b5ca688cb2bab",
       "r": [],
       "a": "Erik Johansson Andersson",
       "d": "GLFW 3 wrapper for Nim",
-      "s": "",
-      "m": "~",
       "x": []
     },
     {
@@ -69,8 +56,6 @@
       "r": [],
       "a": "Erik Johansson Andersson",
       "d": "GLFW 3 wrapper for Nim",
-      "s": "",
-      "m": "~",
       "x": []
     },
     {
@@ -78,8 +63,6 @@
       "r": [],
       "a": "Erik Johansson Andersson",
       "d": "GLFW 3 wrapper for Nim",
-      "s": "",
-      "m": "~",
       "x": []
     },
     {
@@ -89,7 +72,6 @@
       "d": "A GLFW 3 wrapper",
       "l": "BSD",
       "m": "0.18.0",
-      "s": "",
       "x": []
     },
     {
@@ -99,14 +81,11 @@
       "d": "A GLFW 3 wrapper",
       "l": "BSD",
       "m": "0.11.2",
-      "x": [],
-      "s": ""
+      "x": []
     },
     {
       "v": "0.2.1@934e2fc81f0603fa12fce7769d06673bb81b7b97",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
@@ -116,21 +95,11 @@
       "d": "A GLFW 3 wrapper",
       "l": "BSD",
       "s": "lib",
-      "m": "~",
       "x": []
-    },
-    {
-      "v": "#head@f6a40acf98466c3a11ab3f074a70d570c297f82b",
-      "r": [
-        "opengl >= 1.2.3"
-      ],
-      "x": [],
-      "m": "~",
-      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:16Z",
+  "generatedAt": "2026-05-26T13:19:18Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

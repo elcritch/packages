@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "NimbleImGui",
   "fqn": "NimbleImGui.qb-0.github.com",
-  "head": "fce46b5489e6eaaaec432a9a8eeaaab5dd93549f",
   "author": "Meow",
   "description": "ImGui Frontend for Nimble",
   "license": "MIT",
@@ -19,8 +18,6 @@
         "nimgl"
       ],
       "e": "",
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -29,25 +26,12 @@
         "nimgl"
       ],
       "a": "qb",
-      "m": "~",
-      "s": "",
-      "p": [],
-      "e": ""
-    },
-    {
-      "v": "#head@fce46b5489e6eaaaec432a9a8eeaaab5dd93549f",
-      "r": [
-        "nimgl"
-      ],
-      "a": "qb",
-      "m": "~",
-      "s": "",
       "p": [],
       "e": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:28Z",
+  "generatedAt": "2026-05-26T13:11:43Z",
   "allDeps": {
     "packages": [
       "nimgl"

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nico",
   "fqn": "nico.ftsf.github.com",
-  "head": "409eec1eeab05f5eb07d17343992638ce37f25ed",
   "author": "Jez Kabanov",
   "description": "Nico Game Engine",
   "license": "MIT",
@@ -32,8 +31,7 @@
       "x": [],
       "i": [],
       "k": [],
-      "p": [],
-      "m": "~"
+      "p": []
     },
     {
       "v": "0.2.0@815bd7a589bb7a66dcf677bb7c5c42739163180a",
@@ -526,34 +524,10 @@
       "m": "1.4.0",
       "i": [],
       "k": []
-    },
-    {
-      "v": "#head@409eec1eeab05f5eb07d17343992638ce37f25ed",
-      "r": [
-        "sdl2_nim >= 2.0.14.2",
-        "gifenc >= 0.1.0",
-        "nimPNG >= 0.3.1",
-        "zippy >= 0.5.9"
-      ],
-      "a": "Jez 'Impbox' Kabanov",
-      "x": [
-        "examples",
-        "tests",
-        "android",
-        "tools"
-      ],
-      "p": [
-        "nicoboot",
-        "nicoandroid",
-        "nicosynth"
-      ],
-      "m": "1.4.0",
-      "i": [],
-      "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:12Z",
+  "generatedAt": "2026-05-26T13:16:28Z",
   "allDeps": {
     "packages": [
       "ajax > 0.1.0 & <= 0.3.2",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "blarg",
   "fqn": "blarg.squattingmonk.github.com",
-  "head": "dbc661f9bd1391013fb2de5d3309ea87d6d6375d",
   "author": "Michael A. Sinclair",
   "description": "A basic little argument parser",
   "license": "MIT",
@@ -11,25 +10,15 @@
   "releases": [
     {
       "v": "0.1.1@1ef340a141c57c3ff7368507599c09c05cbf7fcf",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.0@59ebae2ed50a177c0047359f9d49054a26992910",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@dbc661f9bd1391013fb2de5d3309ea87d6d6375d",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:38Z",
+  "generatedAt": "2026-05-26T13:12:32Z",
   "allDeps": {
     "packages": [],
     "urls": [],

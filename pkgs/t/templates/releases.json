@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "templates",
   "fqn": "nim-templates.onionhammer.github.com",
-  "head": "9c18d46fc1ba70e86eed2515502da34377bee088",
   "author": "Erik O'Leary",
   "description": "TODO",
   "license": "BSD",
@@ -32,16 +31,10 @@
       "r": [],
       "d": "a compile-time templating engine for nim",
       "x": []
-    },
-    {
-      "v": "#head@9c18d46fc1ba70e86eed2515502da34377bee088",
-      "r": [],
-      "d": "a compile-time templating engine for nim",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:41Z",
+  "generatedAt": "2026-05-26T13:19:35Z",
   "allDeps": {
     "packages": [],
     "urls": [],

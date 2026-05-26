@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "closure_compiler",
   "fqn": "closure_compiler.yglukhov.github.com",
-  "head": "27cf49a17da22ab0082562da45456047079fa8dd",
   "author": "Yuriy Glukhov",
   "description": "Bindings to closure compiler web API",
   "license": "MIT",
@@ -60,16 +59,10 @@
       "r": [],
       "i": [],
       "p": []
-    },
-    {
-      "v": "#head@27cf49a17da22ab0082562da45456047079fa8dd",
-      "r": [],
-      "i": [],
-      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:20Z",
+  "generatedAt": "2026-05-26T13:13:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

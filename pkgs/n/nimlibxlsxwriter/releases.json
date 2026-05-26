@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimlibxlsxwriter",
   "fqn": "nimlibxlsxwriter.ThomasTJdev.github.com",
-  "head": "44f357bf39a478b907ad3b2722725665b4afe249",
   "author": "Original: KeepCoolWithCoolidge / Fork: ThomasTJdev",
   "description": "libxslxwriter wrapper for Nim",
   "license": "MIT",
@@ -15,7 +14,6 @@
       "v": "0.3.0@a36864cb2ec35b7f36381043edcdfdf4b18fbf0e",
       "r": [],
       "h": true,
-      "m": "~",
       "x": []
     },
     {
@@ -26,8 +24,7 @@
       ],
       "h": true,
       "a": "KeepCoolWithCoolidge",
-      "x": [],
-      "m": "~"
+      "x": []
     },
     {
       "v": "0.1.2@a7faf082c2e97e096f9b891df1aafb8d1c68a260",
@@ -36,7 +33,6 @@
       ],
       "h": true,
       "a": "KeepCoolWithCoolidge",
-      "m": "~",
       "x": []
     },
     {
@@ -46,19 +42,11 @@
       ],
       "h": true,
       "a": "KeepCoolWithCoolidge",
-      "m": "~",
-      "x": []
-    },
-    {
-      "v": "#head@44f357bf39a478b907ad3b2722725665b4afe249",
-      "r": [],
-      "h": true,
-      "m": "~",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:59Z",
+  "generatedAt": "2026-05-26T13:17:00Z",
   "allDeps": {
     "packages": [
       "c2nim <= 0.1.3",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "sayhissatsuwaza",
   "fqn": "sayhissatsuwaza.jiro4989.github.com",
-  "head": "6a8ede292ed448ea2e1284fb06de9d5642285c3f",
   "author": "jiro4989",
   "description": "Say hissatsuwaza (special attack) on your terminal.",
   "license": "MIT",
@@ -18,8 +17,6 @@
       "r": [
         "cligen >= 1.5.4"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -28,8 +25,6 @@
       "r": [
         "cligen >= 1.5.4"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -38,8 +33,6 @@
       "r": [
         "cligen >= 1.5.4"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -48,8 +41,6 @@
       "r": [
         "cligen >= 1.5.4"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -58,8 +49,6 @@
       "r": [
         "cligen >= 1.5.4"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -68,40 +57,24 @@
       "r": [
         "cligen >= 1.5.4"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
     {
       "v": "0.2.0@2ef4fbe61fc2654ab030acc4cd566d893405f14f",
       "r": [],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
     {
       "v": "0.1.0@2bb52abeebe0893802062ab4e3845f667aaf0650",
       "r": [],
-      "m": "~",
-      "s": "",
-      "b": "",
-      "p": []
-    },
-    {
-      "v": "#head@6a8ede292ed448ea2e1284fb06de9d5642285c3f",
-      "r": [
-        "cligen >= 1.5.4"
-      ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:27Z",
+  "generatedAt": "2026-05-26T13:18:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

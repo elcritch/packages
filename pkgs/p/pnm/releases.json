@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "pnm",
   "fqn": "pnm.jiro4989.github.com",
-  "head": "556633d87e65f73f3917321fe1ea59afc2dc9302",
   "author": "jiro4989",
   "description": "pnm is library for PNM (Portable AnyMap).",
   "license": "MIT",
@@ -11,37 +10,23 @@
   "releases": [
     {
       "v": "2.1.1@556633d87e65f73f3917321fe1ea59afc2dc9302^",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "2.1.0@710dbada4c2ca308441392601a666d4a82e851fc",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "2.0.1@21b510fc684765ce15ce475c0a362363b3bf52b4",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "2.0.0@1acbe3f1a0a81c15b4639acca68114ff262b4743",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@556633d87e65f73f3917321fe1ea59afc2dc9302",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:40Z",
+  "generatedAt": "2026-05-26T13:18:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

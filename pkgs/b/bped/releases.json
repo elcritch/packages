@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "bped",
   "fqn": "nim-bped.twist-vector.github.com",
-  "head": "6cf4dd8f4d969a43dfdb4357efe66062f4898d74",
   "author": "Tom Krauss",
   "description": "Nim implementation of the Bittorrent ascii protocol, encodes/decodes data into the Bittorrent ASCII protocol",
   "license": "Apache2",
@@ -10,14 +9,10 @@
     {
       "v": "0.2.0@cc8314aca4bcb5617c5fe429caa66d425a73dcc8",
       "r": []
-    },
-    {
-      "v": "#head@6cf4dd8f4d969a43dfdb4357efe66062f4898d74",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:45Z",
+  "generatedAt": "2026-05-26T13:12:38Z",
   "allDeps": {
     "packages": [],
     "urls": [],

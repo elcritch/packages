@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "reframe",
   "fqn": "reframe.nim.rosado.github.com",
-  "head": "c26fa5f285fc36725ec7817ee15a9e4a77196bba",
   "author": "Roland Sadowski",
   "description": "Tools for working with re-frame ClojureScript projects",
   "license": "EPL-2.0",
@@ -21,8 +20,6 @@
       "r": [
         "edn 0.2.3"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "p": []
     },
@@ -31,8 +28,6 @@
       "r": [
         "edn 0.2.3"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "p": []
     },
@@ -42,7 +37,6 @@
         "edn 0.2.1"
       ],
       "m": "0.20.2",
-      "s": "",
       "x": [],
       "p": []
     },
@@ -52,7 +46,6 @@
         "edn 0.2.1"
       ],
       "m": "0.20.2",
-      "s": "",
       "x": [],
       "p": []
     },
@@ -62,7 +55,6 @@
         "edn 0.2.1"
       ],
       "m": "0.20.2",
-      "s": "",
       "x": [],
       "p": []
     },
@@ -75,22 +67,11 @@
         "reframe"
       ],
       "m": "0.20.2",
-      "s": "",
       "x": []
-    },
-    {
-      "v": "#head@c26fa5f285fc36725ec7817ee15a9e4a77196bba",
-      "r": [
-        "edn 0.2.3"
-      ],
-      "m": "~",
-      "s": "",
-      "x": [],
-      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:13Z",
+  "generatedAt": "2026-05-26T13:18:33Z",
   "allDeps": {
     "packages": [
       "edn"

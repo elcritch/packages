@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "redisclient",
   "fqn": "nim-redisclient.xmonader.github.com",
-  "head": "6a28bb1a82636f16996d8c29db38ec122a0b8197",
   "author": "xmonader",
   "description": "Redis client for Nim",
   "license": "Apache2",
@@ -13,21 +12,11 @@
       "v": "0.1.1@c0911502399d5333d00b3bcc448c987a36f07817",
       "r": [
         "redisparser >= 0.1.1"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@6a28bb1a82636f16996d8c29db38ec122a0b8197",
-      "r": [
-        "redisparser >= 0.2.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:11Z",
+  "generatedAt": "2026-05-26T13:18:32Z",
   "allDeps": {
     "packages": [
       "redisparser"

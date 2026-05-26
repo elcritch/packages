@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "voicepeaky",
   "fqn": "voicepeaky.solaoi.github.com",
-  "head": "b6da2c663bf969b6c118c71a04f008352a2bfe9a",
   "author": "solaoi",
   "description": "Voicepeak Server",
   "license": "MIT",
@@ -17,8 +16,6 @@
       "r": [
         "httpbeast >= 0.4.1"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -26,8 +23,6 @@
       "r": [
         "httpbeast >= 0.4.1"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -35,8 +30,6 @@
       "r": [
         "httpbeast >= 0.4.1"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -44,8 +37,6 @@
       "r": [
         "httpbeast >= 0.4.1"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -53,8 +44,6 @@
       "r": [
         "httpbeast >= 0.4.1"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -62,22 +51,11 @@
       "r": [
         "httpbeast >= 0.4.1"
       ],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@b6da2c663bf969b6c118c71a04f008352a2bfe9a",
-      "r": [
-        "httpbeast >= 0.4.1"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:34Z",
+  "generatedAt": "2026-05-26T13:20:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

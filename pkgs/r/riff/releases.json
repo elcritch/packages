@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "riff",
   "fqn": "nim-riff.johnnovak.github.com",
-  "head": "03f0ca35fca4eeb1f32b5f3fae414dd89f65521b",
   "author": "John Novak <john@johnnovak.net>",
   "description": "RIFF file handling in Nim",
   "license": "WTFPL",
@@ -18,7 +17,6 @@
       "r": [
         "binstreams >= 0.2.0"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -26,7 +24,6 @@
       "r": [
         "binstreams >= 0.2.0"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -36,18 +33,10 @@
       ],
       "m": "1.6.0",
       "x": []
-    },
-    {
-      "v": "#head@03f0ca35fca4eeb1f32b5f3fae414dd89f65521b",
-      "r": [
-        "binstreams >= 0.2.0"
-      ],
-      "m": "~",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:17Z",
+  "generatedAt": "2026-05-26T13:18:36Z",
   "allDeps": {
     "packages": [
       "binstreams"

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "fasttext",
   "fqn": "fastText.bung87.github.com",
-  "head": "99625e9aa47994c89adb64b4c9883297628e6160",
   "author": "bung87",
   "description": "fastText porting in Nim",
   "license": "MIT",
@@ -14,24 +13,16 @@
     {
       "v": "0.1.0@7b038f2ecfa7d4c63a1e7155377c9a448dc1320c",
       "r": [],
-      "s": "",
       "x": []
     },
     {
       "v": "0.2.0@b17932b7f5b0ee12329e3172b3a4c332efdf2b71",
       "r": [],
-      "s": "",
-      "x": []
-    },
-    {
-      "v": "#head@99625e9aa47994c89adb64b4c9883297628e6160",
-      "r": [],
-      "s": "",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:31Z",
+  "generatedAt": "2026-05-26T13:13:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

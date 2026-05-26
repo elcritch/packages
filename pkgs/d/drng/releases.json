@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "drng",
   "fqn": "nim-drng.rockcavera.github.com",
-  "head": "9f2edbab529d1817a87fb3350dde196043e219d0",
   "author": "rockcavera",
   "description": "Provides access to the rdrand and rdseed instructions. Based on Intel's DRNG Library (libdrng)",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@3c6c4cb06b9250377cd1ae61ed0ff698eca3df2a",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@9f2edbab529d1817a87fb3350dde196043e219d0",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:05Z",
+  "generatedAt": "2026-05-26T13:13:38Z",
   "allDeps": {
     "packages": [],
     "urls": [],

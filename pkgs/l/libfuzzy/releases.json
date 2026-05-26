@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "libfuzzy",
   "fqn": "nim-libfuzzy.srozb.github.com",
-  "head": "362d39ac496754489e93dd441e3e7810a2ff91fa",
   "author": "srozb",
   "description": "libfuzzy/ssdeep wrapper",
   "license": "GPL-2.0-only",
@@ -11,38 +10,24 @@
   "releases": [
     {
       "v": "0.1.1@362d39ac496754489e93dd441e3e7810a2ff91fa^",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.0@ead1092dc22a02f2b3989ef0c832cb86e5c27cc0",
       "r": [],
-      "l": "GPL-2.0 license",
-      "m": "~",
-      "s": ""
+      "l": "GPL-2.0 license"
     },
     {
       "v": "0.1.0@8ed2b13e9fb80733d23d0440663a1a2ac44d01af",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.0@2a893078f8de43334752ada6f3df214cdcc9a10d",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@362d39ac496754489e93dd441e3e7810a2ff91fa",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:48Z",
+  "generatedAt": "2026-05-26T13:15:27Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

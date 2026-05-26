@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "weave",
   "fqn": "weave.mratsim.github.com",
-  "head": "b6255afa5816ee431dbf2f59cc6bc605d8d657b8",
   "author": "Mamy André-Ratsimbazafy",
   "description": "a state-of-the-art multithreading runtime",
   "license": "MIT or Apache License 2.0",
@@ -12,16 +11,14 @@
       "v": "0.4.10@b6255afa5816ee431dbf2f59cc6bc605d8d657b8^",
       "r": [
         "synthesis"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.4.0@ce8cac849b1c21b92a8b41cf52dc51c8b959a053",
       "r": [
         "synthesis"
       ],
-      "d": "a state-of-the-art ùultithreading runtime",
-      "m": "~"
+      "d": "a state-of-the-art ùultithreading runtime"
     },
     {
       "v": "0.3.0@bf2ec2ff51725313296e48412ec01d9efbf3b759",
@@ -42,17 +39,10 @@
       "r": [],
       "d": "a state-of-the-art ùultithreading runtime",
       "m": "1.1.1"
-    },
-    {
-      "v": "#head@b6255afa5816ee431dbf2f59cc6bc605d8d657b8",
-      "r": [
-        "synthesis"
-      ],
-      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:42Z",
+  "generatedAt": "2026-05-26T13:20:17Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

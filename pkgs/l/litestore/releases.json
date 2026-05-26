@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "litestore",
   "fqn": "litestore.h3rald.github.com",
-  "head": "d89cc2633622fc3ca8d7595c196e555eb248b2d7",
   "author": "Fabio Cevasco",
   "description": "Self-contained, lightweight, RESTful document store.",
   "license": "MIT",
@@ -30,8 +29,6 @@
         "duktape"
       ],
       "y": [],
-      "m": "~",
-      "s": "",
       "x": [],
       "k": []
     },
@@ -44,8 +41,6 @@
         "duktape"
       ],
       "y": [],
-      "m": "~",
-      "s": "",
       "x": [],
       "k": []
     },
@@ -58,7 +53,6 @@
       ],
       "m": "1.4.4",
       "y": [],
-      "s": "",
       "x": [],
       "k": []
     },
@@ -71,7 +65,6 @@
       ],
       "m": "1.4.4",
       "y": [],
-      "s": "",
       "x": [],
       "k": []
     },
@@ -84,7 +77,6 @@
       ],
       "m": "1.4.4",
       "y": [],
-      "s": "",
       "x": [],
       "k": []
     },
@@ -97,7 +89,6 @@
       ],
       "m": "1.4.4",
       "y": [],
-      "s": "",
       "x": [],
       "k": []
     },
@@ -110,7 +101,6 @@
       ],
       "m": "1.4.0",
       "y": [],
-      "s": "",
       "x": [],
       "k": []
     },
@@ -123,7 +113,6 @@
       ],
       "m": "1.0.0",
       "y": [],
-      "s": "",
       "x": [],
       "k": []
     },
@@ -136,7 +125,6 @@
       ],
       "m": "1.0.0",
       "y": [],
-      "s": "",
       "x": [],
       "k": []
     },
@@ -149,7 +137,6 @@
       ],
       "m": "1.0.0",
       "y": [],
-      "s": "",
       "x": [],
       "k": []
     },
@@ -160,7 +147,6 @@
       ],
       "m": "1.0.0",
       "y": [],
-      "s": "",
       "x": [],
       "k": []
     },
@@ -171,7 +157,6 @@
       ],
       "m": "1.0.0",
       "y": [],
-      "s": "",
       "x": [],
       "k": []
     },
@@ -180,7 +165,6 @@
       "r": [],
       "m": "1.0.0",
       "y": [],
-      "s": "",
       "x": [],
       "k": []
     },
@@ -190,14 +174,12 @@
       "m": "0.18.0",
       "y": [],
       "k": [],
-      "s": "",
       "x": []
     },
     {
       "v": "1.4.1@a65d5503b7a8ea7b605b209aac55b45bfafc3381",
       "r": [],
       "m": "0.18.0",
-      "s": "",
       "x": [],
       "k": [],
       "y": []
@@ -206,7 +188,6 @@
       "v": "1.4.0@6ae6131855fd32d797d8033783ec3df04dbf73c6",
       "r": [],
       "m": "0.18.0",
-      "s": "",
       "x": [],
       "k": [],
       "y": []
@@ -215,7 +196,6 @@
       "v": "1.3.1@88f6a60af85c9cfbcd5f5a4128dcf813703e6f4e",
       "r": [],
       "m": "0.18.0",
-      "s": "",
       "x": [],
       "k": [],
       "y": []
@@ -224,7 +204,6 @@
       "v": "1.3.0@993e0731828efe3a2a4f04d6a2d05641fcad2263",
       "r": [],
       "m": "0.17.2",
-      "s": "",
       "x": [],
       "k": [],
       "y": []
@@ -233,7 +212,6 @@
       "v": "1.2.0@3d7c05929e96de36c2043a2185546a2ff09c8424",
       "r": [],
       "m": "0.17.2",
-      "s": "",
       "x": [],
       "k": [],
       "y": []
@@ -245,8 +223,6 @@
       ],
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/litestore.h3rald.github.com-a44ee66a-litestore.nimble\ncannot resolve package name: nimrod",
-      "m": "~",
-      "s": "",
       "x": [],
       "y": [],
       "k": []
@@ -258,8 +234,6 @@
       ],
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/litestore.h3rald.github.com-d1fb3aba-litestore.nimble\ncannot resolve package name: nimrod",
-      "m": "~",
-      "s": "",
       "x": [],
       "y": [],
       "k": []
@@ -271,8 +245,6 @@
       ],
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/litestore.h3rald.github.com-6cbe13f8-litestore.nimble\ncannot resolve package name: nimrod",
-      "m": "~",
-      "s": "",
       "x": [],
       "y": [],
       "k": []
@@ -284,8 +256,6 @@
       ],
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/litestore.h3rald.github.com-9a3e59b5-litestore.nimble\ncannot resolve package name: nimrod",
-      "m": "~",
-      "s": "",
       "x": [],
       "y": [],
       "k": []
@@ -297,8 +267,6 @@
       ],
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/litestore.h3rald.github.com-c7caf248-litestore.nimble\ncannot resolve package name: nimrod",
-      "m": "~",
-      "s": "",
       "x": [],
       "y": [],
       "k": []
@@ -310,8 +278,6 @@
       ],
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/litestore.h3rald.github.com-8b1355e4-litestore.nimble\ncannot resolve package name: nimrod",
-      "m": "~",
-      "s": "",
       "x": [],
       "y": [],
       "k": []
@@ -323,8 +289,6 @@
       ],
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/litestore.h3rald.github.com-d364b2ae-litestore.nimble\ncannot resolve package name: nimrod",
-      "m": "~",
-      "s": "",
       "x": [],
       "y": [],
       "k": []
@@ -336,28 +300,13 @@
       ],
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/litestore.h3rald.github.com-7295f850-litestore.nimble\ncannot resolve package name: nimrod",
-      "m": "~",
-      "s": "",
       "x": [],
       "y": [],
-      "k": []
-    },
-    {
-      "v": "#head@d89cc2633622fc3ca8d7595c196e555eb248b2d7",
-      "r": [
-        "db_connector",
-        "nimgen",
-        "duktape"
-      ],
-      "y": [],
-      "m": "~",
-      "s": "",
-      "x": [],
       "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:07Z",
+  "generatedAt": "2026-05-26T13:15:41Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

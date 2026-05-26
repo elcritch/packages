@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nextract",
   "fqn": "nextract.nim-community.github.com",
-  "head": "6b3e4a277ebb33b182a5d08e9515d70762c38c3d",
   "author": "bung87",
   "description": "A Mozilla Readability-like content extraction library for Nim",
   "license": "MIT",
@@ -14,22 +13,11 @@
       "r": [
         "chame >= 1.0.0",
         "chagashi >= 0.7.0"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@6b3e4a277ebb33b182a5d08e9515d70762c38c3d",
-      "r": [
-        "chame >= 1.0.0",
-        "chagashi >= 0.7.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:07Z",
+  "generatedAt": "2026-05-26T13:16:24Z",
   "allDeps": {
     "packages": [
       "chagashi",

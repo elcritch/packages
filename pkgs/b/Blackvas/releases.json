@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "Blackvas",
   "fqn": "Blackvas.momeemt.github.com",
-  "head": "79b4bf2ae763d2acd0fb67e73838b858a722e519",
   "author": "Momeemt",
   "description": "declarative UI framework for building Canvas",
   "license": "MIT",
@@ -13,27 +12,16 @@
     {
       "v": "0.2.0@dfbee8587c31962c4ecc65406c743426a4150954",
       "r": [],
-      "m": "~",
-      "s": "",
       "e": ""
     },
     {
       "v": "0.1.0@1b645d61cdfe4a0895b24ab3edc1ecc20a46c21c",
       "r": [],
-      "m": "~",
-      "s": "",
-      "e": ""
-    },
-    {
-      "v": "#head@79b4bf2ae763d2acd0fb67e73838b858a722e519",
-      "r": [],
-      "m": "~",
-      "s": "",
       "e": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:23Z",
+  "generatedAt": "2026-05-26T13:11:39Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

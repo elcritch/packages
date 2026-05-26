@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "lowdb",
   "fqn": "lowdb.PhilippMDoerner.github.com",
-  "head": "b1891f492ac31eeb9b4e7e08761cccd0f01263a8",
   "author": "Philipp Doerner",
   "description": "Low level db_sqlite and db_postgres forks with a proper typing",
   "license": "MIT",
@@ -17,8 +16,6 @@
       "r": [
         "db_connector >= 0.1.0"
       ],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
@@ -27,14 +24,12 @@
         "db_connector >= 0.1.0"
       ],
       "m": "1.4.0",
-      "s": "",
       "x": []
     },
     {
       "v": "0.2.0@435fe9bf604b2ebc252399ce6bc1e0590b9f5fb2",
       "r": [],
       "m": "1.4.0",
-      "s": "",
       "x": []
     },
     {
@@ -42,7 +37,6 @@
       "r": [],
       "a": "Albert Safin <xzfcpw@gmail.com>",
       "m": "0.19.0",
-      "s": "",
       "x": []
     },
     {
@@ -50,21 +44,11 @@
       "r": [],
       "a": "Albert Safin <xzfcpw@gmail.com>",
       "m": "0.19.0",
-      "s": "",
-      "x": []
-    },
-    {
-      "v": "#head@b1891f492ac31eeb9b4e7e08761cccd0f01263a8",
-      "r": [
-        "db_connector >= 0.1.0"
-      ],
-      "m": "~",
-      "s": "",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:11Z",
+  "generatedAt": "2026-05-26T13:15:43Z",
   "allDeps": {
     "packages": [
       "db_connector > 0.2.0"

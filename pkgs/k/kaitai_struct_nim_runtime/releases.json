@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "kaitai_struct_nim_runtime",
   "fqn": "kaitai_struct_nim_runtime.kaitai-io.github.com",
-  "head": "1f1cd4c3145b84b98cd426b6b7ef415d34e64956",
   "author": "Stefanos Mandalas",
   "description": "Kaitai Struct runtime library for Nim",
   "license": "MIT",
@@ -18,14 +17,10 @@
     {
       "v": "0.9@ff151ea22c398d3a1dc1083aac180a5675bada66",
       "r": []
-    },
-    {
-      "v": "#head@1f1cd4c3145b84b98cd426b6b7ef415d34e64956",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:30Z",
+  "generatedAt": "2026-05-26T13:15:15Z",
   "allDeps": {
     "packages": [],
     "urls": [],

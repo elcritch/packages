@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "umriss",
   "fqn": "umriss.tdely.github.com",
-  "head": "d0b4031b8a4c898809fd2ea9f64e08b32ed8de41",
   "author": "Tobias Dély",
   "description": "Extract syscall stats from strace output files",
   "license": "MIT",
@@ -17,7 +16,6 @@
       "r": [
         "cligen >= 1.7.0 & < 2.0.0"
       ],
-      "m": "~",
       "b": "",
       "p": []
     },
@@ -27,7 +25,6 @@
         "cligen >= 1.7.0 & < 2.0.0"
       ],
       "b": "",
-      "m": "~",
       "p": []
     },
     {
@@ -36,7 +33,6 @@
         "cligen >= 1.7.0 & < 2.0.0"
       ],
       "b": "",
-      "m": "~",
       "p": []
     },
     {
@@ -45,7 +41,6 @@
         "cligen >= 1.7.0 & < 2.0.0"
       ],
       "b": "",
-      "m": "~",
       "p": []
     },
     {
@@ -54,7 +49,6 @@
         "cligen >= 1.7.0 & < 2.0.0"
       ],
       "b": "",
-      "m": "~",
       "p": []
     },
     {
@@ -63,7 +57,6 @@
         "cligen >= 1.7.0 & < 2.0.0"
       ],
       "b": "",
-      "m": "~",
       "p": []
     },
     {
@@ -72,21 +65,11 @@
         "cligen >= 1.7.0 & < 2.0.0"
       ],
       "b": "",
-      "m": "~",
-      "p": []
-    },
-    {
-      "v": "#head@d0b4031b8a4c898809fd2ea9f64e08b32ed8de41",
-      "r": [
-        "cligen >= 1.7.0 & < 2.0.0"
-      ],
-      "m": "~",
-      "b": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:14Z",
+  "generatedAt": "2026-05-26T13:19:58Z",
   "allDeps": {
     "packages": [
       "cligen"

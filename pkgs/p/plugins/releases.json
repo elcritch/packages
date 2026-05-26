@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "plugins",
   "fqn": "plugins.genotrance.github.com",
-  "head": "d35f59eb772250d852ed1a786f1c8b97b4143c98",
   "author": "genotrance",
   "description": "Plugin system for Nim",
   "license": "MIT",
@@ -11,31 +10,19 @@
   "releases": [
     {
       "v": "0.1.2@d35f59eb772250d852ed1a786f1c8b97b4143c98^",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.1@33d54d99cf67cc40ba0b18edded0c10e7ccd4759",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.0@f9a1c4d560ed01899297788f7f91392cb9529a0b",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@d35f59eb772250d852ed1a786f1c8b97b4143c98",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:37Z",
+  "generatedAt": "2026-05-26T13:18:08Z",
   "allDeps": {
     "packages": [],
     "urls": [],

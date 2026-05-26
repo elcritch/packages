@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "asciitext",
   "fqn": "asciitextNim.Himujjal.github.com",
-  "head": "2e806ac690e4a746db01de779804521e718642d7",
   "author": "Himujjal",
   "description": "Ascii Text allows you to print large ASCII fonts for the console and for the web",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.0.1@ec076bf5e42c26a0917718cdcd7cadd77b555b62",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@2e806ac690e4a746db01de779804521e718642d7",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:55Z",
+  "generatedAt": "2026-05-26T13:12:02Z",
   "allDeps": {
     "packages": [],
     "urls": [],

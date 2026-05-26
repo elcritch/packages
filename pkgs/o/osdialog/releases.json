@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "osdialog",
   "fqn": "nim-osdialog.johnnovak.github.com",
-  "head": "dd734e0a431d03164c91bc6538209fcb2e0a034e",
   "author": "John Novak <john@johnnovak.net>",
   "description": "Nim wrapper for the osdialog library",
   "license": "WTFPL",
@@ -14,13 +13,11 @@
     {
       "v": "0.2.0@dd734e0a431d03164c91bc6538209fcb2e0a034e^",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.1.2@34353b1c4b5b1fb6d0d2f3e03f9d4b87f7263bf3",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
@@ -34,16 +31,10 @@
       "r": [],
       "m": "1.0.6",
       "x": []
-    },
-    {
-      "v": "#head@dd734e0a431d03164c91bc6538209fcb2e0a034e",
-      "r": [],
-      "m": "~",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:11Z",
+  "generatedAt": "2026-05-26T13:17:51Z",
   "allDeps": {
     "packages": [],
     "urls": [],

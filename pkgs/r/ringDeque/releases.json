@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "ringDeque",
   "fqn": "ringDeque.technicallyagd.github.com",
-  "head": "e045bc520f18ad66b31ec78ea309e15ec9742ac0",
   "author": "T.agd",
   "description": "deque implementatoin using DoublyLinkedRing",
   "license": "MIT",
@@ -11,25 +10,15 @@
   "releases": [
     {
       "v": "0.1.0@5f37679f72af205bd29d0e7ca7fab462ddf153aa",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.0@ccd8a3d2bf8fb81f9acb6dfad9d75d2e5c850375",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@e045bc520f18ad66b31ec78ea309e15ec9742ac0",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:18Z",
+  "generatedAt": "2026-05-26T13:18:36Z",
   "allDeps": {
     "packages": [],
     "urls": [],

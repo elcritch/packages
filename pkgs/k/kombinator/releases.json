@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "kombinator",
   "fqn": "kombinator.EchoPouet.gitlab.com",
-  "head": "aa79300fff797dd85504115f80489fbda4c30346",
   "author": "Arnaud Moura",
   "description": "Kombinator is a tool to generate commands line from parameters combination from a config file.",
   "license": "MIT",
@@ -21,8 +20,6 @@
         "cligen >= 1.2.2",
         "suru >= 0.3.0"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": [],
       "e": ""
@@ -34,8 +31,6 @@
         "cligen >= 1.2.2",
         "suru >= 0.3.0"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": [],
       "e": ""
@@ -47,8 +42,6 @@
         "cligen >= 1.2.2",
         "suru >= 0.3.0"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": [],
       "e": ""
@@ -60,8 +53,6 @@
         "cligen >= 1.2.2",
         "suru >= 0.3.0"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": [],
       "e": ""
@@ -73,8 +64,6 @@
         "cligen >= 1.2.2",
         "suru >= 0.3.0"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": [],
       "e": ""
@@ -86,8 +75,6 @@
         "cligen >= 1.2.2",
         "suru >= 0.3.0"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": [],
       "e": ""
@@ -99,28 +86,13 @@
         "cligen >= 1.2.2",
         "suru >= 0.3.0"
       ],
-      "m": "~",
-      "s": "",
-      "b": "",
-      "p": [],
-      "e": ""
-    },
-    {
-      "v": "#head@aa79300fff797dd85504115f80489fbda4c30346",
-      "r": [
-        "parsetoml >= 0.5.0",
-        "cligen >= 1.2.2",
-        "suru >= 0.3.0"
-      ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": [],
       "e": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T07:25:56Z",
+  "generatedAt": "2026-05-26T13:15:21Z",
   "allDeps": {
     "packages": [
       "cligen",

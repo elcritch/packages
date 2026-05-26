@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "simple_parseopt",
   "fqn": "simple_parseopt.onelivesleft.github.com",
-  "head": "22f883465918bc0180bda61162c755031b0bf980",
   "author": "onelivesleft",
   "description": "Nim module which provides clean, zero-effort command line parsing.",
   "license": "MIT",
@@ -11,43 +10,27 @@
   "releases": [
     {
       "v": "1.1.1@58d4389748d7dac90b0ddd716a1518da22b5b0c9",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "1.1.0@e2ef6fdf1f43c502fa44688fc39472a1afa40e33",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "1.0.10@66c6474e8ca8d8ffbfcc2a3f186a81e409f9ef16",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "1.0.9@d7334846351ddecb40d4a3fed24800413a3eabd3",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "1.0.8@5f18824192f344c427b82a80f60ff81d1e4d3295",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@22f883465918bc0180bda61162c755031b0bf980",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:52Z",
+  "generatedAt": "2026-05-26T13:19:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

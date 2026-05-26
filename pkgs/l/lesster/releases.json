@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "lesster",
   "fqn": "lesster.telatin.www.github.com",
-  "head": "f111a09c36248c867c33c12423ae563f86db9949",
   "author": "Andrea Telatin",
   "description": "A less-like interactive text pager library for Nim",
   "license": "MIT",
@@ -27,8 +26,6 @@
         "argparse",
         "regex"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "y": [],
       "j": [],
@@ -44,29 +41,12 @@
       ],
       "y": [],
       "j": [],
-      "m": "~",
-      "s": "",
       "b": "",
-      "o": {}
-    },
-    {
-      "v": "#head@f111a09c36248c867c33c12423ae563f86db9949",
-      "r": [
-        "nimwave",
-        "illwave",
-        "argparse",
-        "regex"
-      ],
-      "m": "~",
-      "s": "",
-      "b": "",
-      "y": [],
-      "j": [],
       "o": {}
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T07:26:02Z",
+  "generatedAt": "2026-05-26T13:15:24Z",
   "allDeps": {
     "packages": [
       "ansiutils",

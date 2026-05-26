@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "hastysite",
   "fqn": "hastysite.h3rald.github.com",
-  "head": "c14897950084f0792ed36496f7ae3d28dda6a3ee",
   "author": "Fabio Cevasco",
   "description": "A small but powerful static site generator",
   "license": "MIT",
@@ -23,7 +22,6 @@
         "hastyscribe >= 2.1.1",
         "mustache >= 0.4.3"
       ],
-      "m": "~",
       "i": [],
       "p": []
     },
@@ -35,7 +33,6 @@
         "hastyscribe >= 2.1.0",
         "mustache >= 0.4.3"
       ],
-      "m": "~",
       "i": [],
       "p": []
     },
@@ -166,22 +163,10 @@
       "m": "0.17.0",
       "i": [],
       "p": []
-    },
-    {
-      "v": "#head@c14897950084f0792ed36496f7ae3d28dda6a3ee",
-      "r": [
-        "min > 0.46.0",
-        "checksums >= 0.2.1",
-        "hastyscribe >= 2.1.1",
-        "mustache >= 0.4.3"
-      ],
-      "m": "~",
-      "i": [],
-      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:42Z",
+  "generatedAt": "2026-05-26T13:14:41Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

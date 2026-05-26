@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "valido",
   "fqn": "valido.openpeeps.github.com",
-  "head": "ef7f6aebef29dd199daea2af9d17952516e04913",
   "author": "George Lemon",
   "description": "A library of string validators and sanitizers.",
   "license": "MIT",
@@ -13,33 +12,14 @@
       "v": "0.1.0@15962adb38ee7f83ca1a540197c1b311333f61fa",
       "r": [
         "bigints"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@ef7f6aebef29dd199daea2af9d17952516e04913",
-      "r": [
-        "bigints",
-        "blackpaper",
-        "openparser"
-      ],
-      "x": [
-        "data"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:27Z",
+  "generatedAt": "2026-05-26T13:20:07Z",
   "allDeps": {
     "packages": [
-      "bigints",
-      "blackpaper",
-      "floof",
-      "nimsimd",
-      "openparser"
+      "bigints"
     ],
     "urls": [],
     "unresolved": []

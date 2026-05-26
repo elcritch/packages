@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "tcping",
   "fqn": "tcping.pdrb.github.com",
-  "head": "9b3aeeddfb78d1c8e993b891a5aaca56078554b2",
   "author": "Pedro Buteri Gonring",
   "description": "Ping hosts using tcp packets",
   "license": "MIT",
@@ -15,20 +14,11 @@
     {
       "v": "1.0.0@411f7678da744b68b963dea93d8ce7dd8bb7e46d",
       "r": [],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@9b3aeeddfb78d1c8e993b891a5aaca56078554b2",
-      "r": [],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:39Z",
+  "generatedAt": "2026-05-26T13:19:34Z",
   "allDeps": {
     "packages": [],
     "urls": [],

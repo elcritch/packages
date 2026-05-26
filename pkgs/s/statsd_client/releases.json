@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "statsd_client",
   "fqn": "nim-statsd-client.FedericoCeratto.github.com",
-  "head": "af0bccd79e2acc66134594480b9e3855a7be5c23",
   "author": "Federico Ceratto",
   "description": "statsd client",
   "license": "LGPLv3",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.1@c55b76acce3200b039fc6684a6cf7ed53c13d635",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@af0bccd79e2acc66134594480b9e3855a7be5c23",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:16Z",
+  "generatedAt": "2026-05-26T13:19:17Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "zuhyo",
   "fqn": "zuhyo.arashi-software.github.com",
-  "head": "5e61001995c8830694a228ed7df52c5e6f658117",
   "author": "ripples",
   "description": "The easiest way to interact with a graphql api",
   "license": "LGPL-3.0-or-later",
@@ -14,22 +13,11 @@
       "r": [
         "puppy",
         "jsony"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@5e61001995c8830694a228ed7df52c5e6f658117",
-      "r": [
-        "puppy",
-        "jsony"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:57:27Z",
+  "generatedAt": "2026-05-26T13:20:51Z",
   "allDeps": {
     "packages": [
       "jsony",

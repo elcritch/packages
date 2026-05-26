@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "asyncthreadpool",
   "fqn": "asyncthreadpool.yglukhov.github.com",
-  "head": "a215c48fa516593ede9a706c60a31b39435587a3",
   "author": "Yuriy Glukhov",
   "description": "Awaitable threadpool",
   "license": "MIT",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "0.1.0@c5191e9643bd8708115d14eb0c1d23881ead1074",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@a215c48fa516593ede9a706c60a31b39435587a3",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:04Z",
+  "generatedAt": "2026-05-26T13:12:08Z",
   "allDeps": {
     "packages": [],
     "urls": [],

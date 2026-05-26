@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "exprgrad",
   "fqn": "exprgrad.can-lehmann.github.com",
-  "head": "905752c35ee419cc5e94ed1a7e6a92cddc477a6c",
   "author": "Can Joshua Lehmann",
   "description": "An experimental deep learning framework",
   "license": "Apache License 2.0",
@@ -10,27 +9,19 @@
   "releases": [
     {
       "v": "0.1.0@49b03edc32f9909cb49d946d27b2b581dc2063ae",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "0.0.2@fd6dbdaf530d6ac4aaf76a4cb87ef631227621d8",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "0.0.1@4d6c9ea42c95c1c6539160035d0b64f326a6ef41",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@905752c35ee419cc5e94ed1a7e6a92cddc477a6c",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:26Z",
+  "generatedAt": "2026-05-26T13:13:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "tim_sort",
   "fqn": "tim_sort.bung87.github.com",
-  "head": "b0e410f05ea1f600049c15fe67741e0b97a94cf7",
   "author": "bung87",
   "description": "A new awesome nimble package",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@b36445f4a114ac385f03650253871b8fb9164f80",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@b0e410f05ea1f600049c15fe67741e0b97a94cf7",
-      "r": [],
-      "m": "1.1.0",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:51Z",
+  "generatedAt": "2026-05-26T13:19:42Z",
   "allDeps": {
     "packages": [],
     "urls": [],

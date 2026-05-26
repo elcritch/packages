@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "shared",
   "fqn": "shared.genotrance.github.com",
-  "head": "dee3eff487c4af3c8f9e71ca8ddbb90a9e36da14",
   "author": "genotrance",
   "description": "Nim library for shared types",
   "license": "MIT",
@@ -14,15 +13,10 @@
       "v": "0.1.0@70ef0d39c957c93f3300b39ec7d53ab1ca2b1fbf",
       "r": [],
       "x": []
-    },
-    {
-      "v": "#head@dee3eff487c4af3c8f9e71ca8ddbb90a9e36da14",
-      "r": [],
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:44Z",
+  "generatedAt": "2026-05-26T13:18:55Z",
   "allDeps": {
     "packages": [],
     "urls": [],

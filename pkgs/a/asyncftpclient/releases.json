@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "asyncftpclient",
   "fqn": "asyncftpclient.nim-lang.github.com",
-  "head": "0350c36d9545040f1038258d7a815493a6103de0",
   "author": "nim-lang",
   "description": "FTP client implementation (originally in the stdlib).",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@37d65878276fc6ed14844b042521e5f3c6f2d821",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@0350c36d9545040f1038258d7a815493a6103de0",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:01Z",
+  "generatedAt": "2026-05-26T13:12:06Z",
   "allDeps": {
     "packages": [],
     "urls": [],

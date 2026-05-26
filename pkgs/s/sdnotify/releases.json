@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "sdnotify",
   "fqn": "nim-sdnotify.FedericoCeratto.github.com",
-  "head": "e1e6861f88a4546db640f5fc88572ccdb933f794",
   "author": "Federico Ceratto",
   "description": "Systemd service notification helper",
   "license": "LGPLv3",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@e1e6861f88a4546db640f5fc88572ccdb933f794^",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@e1e6861f88a4546db640f5fc88572ccdb933f794",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:33Z",
+  "generatedAt": "2026-05-26T13:18:48Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "hayaa",
   "fqn": "hayaa.angus-lherrou.github.com",
-  "head": "878240588e1655d462431f1c053710fe5c95be85",
   "author": "Angus L'Herrou",
   "description": "Conway's Game of Life implemented in Nim",
   "license": "MIT",
@@ -17,8 +16,6 @@
       "r": [
         "illwill >= 0.2.0"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -26,8 +23,6 @@
       "r": [
         "illwill >= 0.2.0"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -37,22 +32,11 @@
       ],
       "p": [
         "main"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@878240588e1655d462431f1c053710fe5c95be85",
-      "r": [
-        "illwill >= 0.2.0"
-      ],
-      "m": "~",
-      "s": "",
-      "p": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:43Z",
+  "generatedAt": "2026-05-26T13:14:40Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

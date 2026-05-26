@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "hottext",
   "fqn": "hottext.~ehmry.git.sr.ht",
-  "head": "45199169e0f39afbf3f1209a72bde35ebf4c2aba",
   "author": "Emery Hemingway",
   "description": "Rapid serial text presenter",
   "license": "Unlicense",
@@ -18,8 +17,6 @@
         "sdl2",
         "typography >= 0.7.8"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -28,8 +25,6 @@
         "sdl2",
         "typography >= 0.7.8"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -38,8 +33,6 @@
         "sdl2",
         "typography >= 0.7.8"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -48,26 +41,16 @@
         "sdl2",
         "typography >= 0.7.8"
       ],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@45199169e0f39afbf3f1209a72bde35ebf4c2aba",
-      "r": [],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:51Z",
+  "generatedAt": "2026-05-26T13:14:49Z",
   "allDeps": {
     "packages": [
       "bumpy",
       "chroma",
       "crunchy",
-      "faststreams",
       "flatty",
       "flippy",
       "mddoc",
@@ -75,14 +58,11 @@
       "nimsimd",
       "pixie",
       "print",
-      "results",
       "sdl2",
       "snappy",
       "stb_image",
-      "stew",
       "supersnappy",
       "typography",
-      "unittest2",
       "vmath",
       "zippy"
     ],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "resultsutils",
   "fqn": "resultsutils.nonnil.github.com",
-  "head": "35822a2355a6c9821050ade0517312a6f3356fa1",
   "author": "Luca (@nonnil)",
   "description": "Utility macros for easier handling of Result",
   "license": "MIT",
@@ -21,8 +20,6 @@
         "results"
       ],
       "j": [],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
@@ -30,8 +27,6 @@
       "r": [
         "results"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "j": []
     },
@@ -40,9 +35,7 @@
       "r": [
         "results"
       ],
-      "m": "~",
       "x": [],
-      "s": "",
       "j": []
     },
     {
@@ -50,44 +43,28 @@
       "r": [
         "results"
       ],
-      "m": "~",
       "x": [],
-      "j": [],
-      "s": ""
+      "j": []
     },
     {
       "v": "0.1.2@369ea04ab18642d41cb6986bc108557be13cdaed",
       "r": [
         "results >= 0.3.0"
       ],
-      "m": "~",
       "x": [],
-      "j": [],
-      "s": ""
+      "j": []
     },
     {
       "v": "0.1.1@99551d644fab8781d46399bb878b196d7b33e6cb",
       "r": [
         "results >= 0.3.0"
       ],
-      "m": "~",
       "x": [],
-      "j": [],
-      "s": ""
-    },
-    {
-      "v": "#head@35822a2355a6c9821050ade0517312a6f3356fa1",
-      "r": [
-        "results"
-      ],
-      "j": [],
-      "m": "~",
-      "s": "",
-      "x": []
+      "j": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:15Z",
+  "generatedAt": "2026-05-26T13:18:35Z",
   "allDeps": {
     "packages": [
       "results"

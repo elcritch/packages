@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "cpython",
   "fqn": "cpython.juancarlospaco.github.com",
-  "head": "7c9cd23d3357f0761079b68c2423c5daac6b920d",
   "author": "Juan_Carlos.nim",
   "description": "Alternative StdLib for Nim for Python targets",
   "license": "MIT",
@@ -15,8 +14,6 @@
     {
       "v": "3.10.0@cdf8ade0265b5621f41678edc2e544203dbadde1",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
@@ -25,21 +22,11 @@
         "nimpy"
       ],
       "m": "1.0.0",
-      "s": "",
-      "x": []
-    },
-    {
-      "v": "#head@7c9cd23d3357f0761079b68c2423c5daac6b920d",
-      "r": [
-        "nimpy"
-      ],
-      "m": "1.0.0",
-      "s": "",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:35Z",
+  "generatedAt": "2026-05-26T13:13:17Z",
   "allDeps": {
     "packages": [
       "nimpy > 3.10.0"

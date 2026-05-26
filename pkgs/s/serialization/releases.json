@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "serialization",
   "fqn": "nim-serialization.status-im.github.com",
-  "head": "1790d8a931fce125d6722f7ee8432ee8c054d297",
   "author": "Status Research & Development GmbH",
   "description": "A modern and extensible serialization framework for Nim",
   "license": "Apache License 2.0",
@@ -18,7 +17,6 @@
         "unittest2",
         "stew"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -28,7 +26,6 @@
         "unittest2",
         "stew"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -38,7 +35,6 @@
         "unittest2",
         "stew"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -140,20 +136,10 @@
       ],
       "m": "1.6.0",
       "x": []
-    },
-    {
-      "v": "#head@1790d8a931fce125d6722f7ee8432ee8c054d297",
-      "r": [
-        "faststreams",
-        "unittest2",
-        "stew"
-      ],
-      "m": "~",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:39Z",
+  "generatedAt": "2026-05-26T13:18:52Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "jser",
   "fqn": "jser.nim.niv.github.com",
-  "head": "33c2fb579ecd927481466a203baaa4bad37d58e7",
   "author": "niv",
   "description": "json de/serializer for native data types",
   "license": "MIT",
@@ -14,13 +13,11 @@
     {
       "v": "0.2.1@33c2fb579ecd927481466a203baaa4bad37d58e7^",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.2.0@0703bcd2cad3ec69e4f0118c8736024e294a76f3",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
@@ -36,16 +33,10 @@
       "d": "json de/serializer for tuples and more",
       "m": "0.13.0",
       "x": []
-    },
-    {
-      "v": "#head@33c2fb579ecd927481466a203baaa4bad37d58e7",
-      "r": [],
-      "m": "~",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:25Z",
+  "generatedAt": "2026-05-26T13:15:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

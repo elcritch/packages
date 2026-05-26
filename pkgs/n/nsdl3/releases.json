@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nsdl3",
   "fqn": "nsdl3.amnr.github.com",
-  "head": "00a6b4ec067cfce9012fb9c1eea518c4a2537c8f",
   "author": "Amun",
   "description": "High level SDL 3.0 shared library wrapper",
   "license": "NCSA OR MIT OR Zlib",
@@ -12,56 +11,43 @@
       "v": "0.9.12@00a6b4ec067cfce9012fb9c1eea518c4a2537c8f^",
       "r": [
         "dlutils >= 2.0.0"
-      ],
-      "s": ""
+      ]
     },
     {
       "v": "0.9.9@98fdc396c01f4025d6b0f6e2b429205c10af9ec7",
       "r": [
         "dlutils >= 2.0.0"
-      ],
-      "s": ""
+      ]
     },
     {
       "v": "0.9.7@265a72ded4ce6c1724631b3ea390ad88ddba973e",
       "r": [
         "dlutils >= 2.0.0"
-      ],
-      "s": ""
+      ]
     },
     {
       "v": "0.9.6@a6ff57ccd6f4a8f1adbc256be07f3b1d8b36b50f",
       "r": [
         "dlutils >= 2.0.0"
-      ],
-      "s": ""
+      ]
     },
     {
       "v": "0.9.5@342291fe169c7fd92cef3a780464132c005ec16e",
       "r": [
         "dlutils >= 2.0.0"
       ],
-      "a": "Amun-Ra",
-      "s": ""
+      "a": "Amun-Ra"
     },
     {
       "v": "0.9.4@49224647bf2f6db0d74902363fadebba5a22625c",
       "r": [
         "dlutils >= 2.0.0"
       ],
-      "a": "Amun-Ra",
-      "s": ""
-    },
-    {
-      "v": "#head@00a6b4ec067cfce9012fb9c1eea518c4a2537c8f",
-      "r": [
-        "dlutils >= 2.0.0"
-      ],
-      "s": ""
+      "a": "Amun-Ra"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:51Z",
+  "generatedAt": "2026-05-26T13:17:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

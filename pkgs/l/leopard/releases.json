@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "leopard",
   "fqn": "nim-leopard.status-im.github.com",
-  "head": "0478b12df90cbbe531efa69422cff67b5a3a5d93",
   "author": "Status Research & Development GmbH",
   "description": "A wrapper for Leopard-RS",
   "license": "Apache License 2.0 or MIT",
@@ -18,7 +17,6 @@
         "unittest2",
         "upraises >= 0.1.0 & < 0.2.0"
       ],
-      "m": "~",
       "i": []
     },
     {
@@ -28,7 +26,6 @@
         "unittest2",
         "upraises >= 0.1.0 & < 0.2.0"
       ],
-      "m": "~",
       "i": []
     },
     {
@@ -38,21 +35,11 @@
         "unittest2",
         "upraises >= 0.1.0 & < 0.2.0"
       ],
-      "m": "~",
-      "i": []
-    },
-    {
-      "v": "#head@0478b12df90cbbe531efa69422cff67b5a3a5d93",
-      "r": [
-        "unittest2",
-        "results"
-      ],
-      "m": "1.6.0",
       "i": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:43Z",
+  "generatedAt": "2026-05-26T13:15:24Z",
   "allDeps": {
     "packages": [
       "results",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "lscolors",
   "fqn": "nim-lscolors.joachimschmidt557.github.com",
-  "head": "3aaaf0422fcf1e708b135e4118832ee6260277b3",
   "author": "joachimschmidt557",
   "description": "A library for colorizing paths according to LS_COLORS",
   "license": "MIT",
@@ -11,67 +10,43 @@
   "releases": [
     {
       "v": "1.0.0@3aaaf0422fcf1e708b135e4118832ee6260277b3^",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.3.3@668b46c835944254a445b9cc6dfb887e38fa13f1",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.3.2@02cf151caec8b57f8851b49125db27ad0b9daeab",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.3.1@e3a7048f9355f14c96436dd0afe38a2e9fb80037",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.3.0@f0a7ecf5c723c556f3da0bdf216adb5e1f67573d",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.2@e8b83cba590e3dd9c5bd87bde2208b5f2d82168b",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.1@e0c4dda2e4405f013d37fe65ccda7344705fe592",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.0@0857f9f9483445df9d126354e32ea47aeec3d82b",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.0@a429afb56b5a5ef9597e8885c438f55f49e12dc3",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@3aaaf0422fcf1e708b135e4118832ee6260277b3",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:13Z",
+  "generatedAt": "2026-05-26T13:15:45Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

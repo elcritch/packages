@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "xgui",
   "fqn": "xgui-nim.thatrandomperson5.github.com",
-  "head": "f25da858e833a7b6bf3fd1631831ef7330d94d4d",
   "author": "thatrandomperson5",
   "description": "XGui is a tool for nigui that imports xml files and turns them into nim at compile-time.",
   "license": "MIT",
@@ -14,9 +13,7 @@
       "r": [
         "nigui >= 0.2.6",
         "regex >= 0.20.1"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.2@244fe7fd37fb1f36d839aa44915577d2e8f6dda7",
@@ -24,8 +21,7 @@
         "nigui >= 0.2.6",
         "regex >= 0.20.1"
       ],
-      "m": "1.2.2",
-      "s": ""
+      "m": "1.2.2"
     },
     {
       "v": "0.1.1@32598201dccc2a0f13c80a0717f0734cc9ddb6fa",
@@ -33,29 +29,18 @@
         "nigui",
         "regex"
       ],
-      "m": "1.2.2",
-      "s": ""
+      "m": "1.2.2"
     },
     {
       "v": "0.1.0@2bbed873fac7165c1055b0ca3e71e0d64fab559f",
       "r": [
         "nigui"
       ],
-      "m": "1.2.2",
-      "s": ""
-    },
-    {
-      "v": "#head@f25da858e833a7b6bf3fd1631831ef7330d94d4d",
-      "r": [
-        "nigui >= 0.2.6",
-        "regex >= 0.20.1"
-      ],
-      "m": "~",
-      "s": ""
+      "m": "1.2.2"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:57:07Z",
+  "generatedAt": "2026-05-26T13:20:35Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

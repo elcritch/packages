@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "ngspice",
   "fqn": "ngspice.haxscramper.github.com",
-  "head": "34e7c1b7b360cd40a89261122a5b50d7d172e308",
   "author": "haxscramper",
   "description": "Analog electronic circuit simiulator library",
   "license": "Apache-2.0",
@@ -11,35 +10,13 @@
   "releases": [
     {
       "v": "0.1.0@1fed30031d120d2f70263633b219330108fe0b57",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@34e7c1b7b360cd40a89261122a5b50d7d172e308",
-      "r": [
-        "sorta",
-        "hmisc"
-      ],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:08Z",
+  "generatedAt": "2026-05-26T13:16:25Z",
   "allDeps": {
-    "packages": [
-      "benchy",
-      "cligen",
-      "fusion",
-      "hmisc",
-      "jsony",
-      "macroutils",
-      "shell",
-      "sorta",
-      "unicodedb",
-      "with"
-    ],
+    "packages": [],
     "urls": [],
     "unresolved": []
   }

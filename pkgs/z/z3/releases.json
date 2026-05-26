@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "z3",
   "fqn": "nimz3.zevv.github.com",
-  "head": "7d15d71da075512bc159f483a7acbea8ab317fa1",
   "author": "Ico Doornekamp",
   "description": "Nim Z3 theorem prover bindings",
   "license": "MIT",
@@ -15,22 +14,16 @@
     {
       "v": "0.1.3@826125f718ba6d51ac8adfa7927d32b0e9377c0a",
       "r": [],
-      "m": "~",
-      "s": "",
       "k": []
     },
     {
       "v": "0.1.2@0d56c34d9328722b1e60a039b33dfc8c15b2f224",
       "r": [],
-      "m": "~",
-      "s": "",
       "k": []
     },
     {
       "v": "0.1.1@9e288efbd36b26e390915073d11156897426b972",
       "r": [],
-      "m": "~",
-      "s": "",
       "k": []
     },
     {
@@ -38,20 +31,11 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "s": "",
-      "k": []
-    },
-    {
-      "v": "#head@7d15d71da075512bc159f483a7acbea8ab317fa1",
-      "r": [],
-      "m": "~",
-      "s": "",
       "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:57:21Z",
+  "generatedAt": "2026-05-26T13:20:45Z",
   "allDeps": {
     "packages": [],
     "urls": [],

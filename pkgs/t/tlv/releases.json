@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "tlv",
   "fqn": "nim-tlv.d4rckh.github.com",
-  "head": "ec491526ded01f787ab840cf4aa358733c331500",
   "author": "d4rckh",
   "description": "A simple TLV parser and builder for nim",
   "license": "MIT",
@@ -11,25 +10,15 @@
   "releases": [
     {
       "v": "1.0.1@5b736c5111d60a1a2410ac14715a5fb17816b867",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "1.0.0@25b7905b90477bc3a684c82c2739c92bf2a972e5",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@ec491526ded01f787ab840cf4aa358733c331500",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:56Z",
+  "generatedAt": "2026-05-26T13:19:46Z",
   "allDeps": {
     "packages": [],
     "urls": [],

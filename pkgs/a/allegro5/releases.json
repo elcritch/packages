@@ -1,37 +1,17 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "allegro5",
   "fqn": "allegro5.fowlmouth.github.com",
-  "head": "61083998d02abc03e6fc0ac1e08525aa171c8585",
   "releases": [
     {
       "v": "1.0@546f44cebe3b2192ceeb55bb8eb1cb1b44a79c93",
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file"
-    },
-    {
-      "v": "#head@61083998d02abc03e6fc0ac1e08525aa171c8585",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:50Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "v1.0"
-    ],
-    "tagVersions": {
-      "v1.0": "1.0"
-    },
-    "latest": "v1.0"
-  },
+  "generatedAt": "2026-05-26T13:11:51Z",
   "allDeps": {
     "packages": [],
     "urls": [],

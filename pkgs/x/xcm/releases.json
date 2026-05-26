@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "xcm",
   "fqn": "xcm.SolitudeSF.github.com",
-  "head": "00f159ebdc3df93724a1e1e046d502e17196e74f",
   "author": "SolitudeSF",
   "description": "Color management utility for X",
   "license": "MIT",
@@ -18,8 +17,6 @@
         "x11 #74cbb2c73be7f4b079b6f4edbadc1d1f00d9af15",
         "cligen >= 0.9.41"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -28,23 +25,11 @@
         "gh:SolitudeSF/x11 #a33254a5ac0df76786ffdaf9d736add242179964",
         "cligen >= 0.9.38"
       ],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@00f159ebdc3df93724a1e1e046d502e17196e74f",
-      "r": [
-        "x11 #74cbb2c73be7f4b079b6f4edbadc1d1f00d9af15",
-        "cligen >= 0.9.41"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:57:06Z",
+  "generatedAt": "2026-05-26T13:20:34Z",
   "allDeps": {
     "packages": [
       "cligen",

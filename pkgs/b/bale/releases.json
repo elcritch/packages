@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "bale",
   "fqn": "bale.hamidb80.github.com",
-  "head": "a2cb0b5a5f2ee0d313eeea9def1c13f768802ebf",
   "author": "hamidb80",
   "description": "Bale.ai Bot API client",
   "license": "MIT",
@@ -13,29 +12,17 @@
       "v": "1.0.0@510eeeeb6ec0a8c414bc443051acc9845b40b6c0",
       "r": [
         "macroplus >= 0.2.5"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.0.2@6b028588d7501a0e554f1e143e92c4c9a29d029d",
       "r": [
         "macroplus >= 0.2.5"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@a2cb0b5a5f2ee0d313eeea9def1c13f768802ebf",
-      "r": [
-        "macroplus >= 0.2.5"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:14Z",
+  "generatedAt": "2026-05-26T13:12:15Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

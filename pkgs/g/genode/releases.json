@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "genode",
   "fqn": "nim_genode.~ehmry.git.sr.ht",
-  "head": "2bc5075232aeb2f6df44f6960796729fcf4ebbd8",
   "author": "Emery Hemingway",
   "description": "System libraries for the Genode Operating System Framework",
   "license": "AGPLv3",
@@ -11,67 +10,48 @@
   "releases": [
     {
       "v": "20221020@2bc5075232aeb2f6df44f6960796729fcf4ebbd8^",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "20.11.1@db72973355a637d0bf25e95551456a2ec52357b9",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "20.11@334e8311eee99483b1740e4b6a0d36dc91af2a7b",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "19.05@40d9e393bc6ea1ea788d95914ac6d7f93a21441f",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "19.02@d4d2291bdc339304f11454052f452c3e17dac6a4",
       "r": [],
-      "m": "0.18.0",
-      "s": ""
+      "m": "0.18.0"
     },
     {
       "v": "18.11.1@3e24157b3b72376c9c471b263b1f84771c97fb35",
       "r": [],
-      "m": "0.18.0",
-      "s": ""
+      "m": "0.18.0"
     },
     {
       "v": "18.11@2463205882caa6ccec8ead4cdf8306bc0d2a77a4",
       "r": [],
-      "m": "0.18.0",
-      "s": ""
+      "m": "0.18.0"
     },
     {
       "v": "18.08@c49d28772df71289148eb6fd6d8c4727a985b3cf",
       "r": [],
-      "m": "0.18.0",
-      "s": ""
+      "m": "0.18.0"
     },
     {
       "v": "18.07@ba09c44b53847c3b5e3f8048067e4cb0244bda6a",
       "r": [],
-      "m": "0.18.0",
-      "s": ""
-    },
-    {
-      "v": "#head@2bc5075232aeb2f6df44f6960796729fcf4ebbd8",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "m": "0.18.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:12Z",
+  "generatedAt": "2026-05-26T13:14:20Z",
   "allDeps": {
     "packages": [],
     "urls": [],

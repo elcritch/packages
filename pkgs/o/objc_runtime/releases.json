@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "objc_runtime",
   "fqn": "objc_runtime.bung87.github.com",
-  "head": "0e79c147418b9ec6e599524371717dcc4fa5ca98",
   "author": "bung87",
   "description": "objective-c runtime bindings",
   "license": "LGPL-2.1-or-later",
@@ -13,92 +12,66 @@
       "v": "0.1.9@64802c181c19184ca67d015fc0a28fec27426e69",
       "r": [
         "darwin"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.8@62cf4c7b0939cc3d58243f6a8edb9629673308f9",
       "r": [
         "darwin"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.7@90c2bc5c5e756bbdf1a5a52f6b5d8cc36e2f619d",
       "r": [
         "darwin",
         "regex"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.6@f12e25aa69f8f095039d8a09360ac05182d0efaf",
       "r": [
         "darwin",
         "regex"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.5@8d21da6f97de38b6954465ac03385458c4bc6a33",
       "r": [
         "darwin",
         "regex"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.4@548b33470c7c865278ed8d7116fbce4083bbbccf",
       "r": [
         "darwin #master",
         "regex"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.3@0a5054952c4d81186903b7c869c558a190ae6308",
       "r": [
         "darwin #master",
         "regex"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.2@eb9fc0b86bb357c51a8825b556cd459ac34c0e03",
       "r": [
         "darwin #master",
         "regex"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.1@c750dee30eecc15ff09acd0f50c9878217838e23",
       "r": [
         "darwin #master",
         "regex"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@0e79c147418b9ec6e599524371717dcc4fa5ca98",
-      "r": [
-        "darwin"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:57Z",
+  "generatedAt": "2026-05-26T13:17:42Z",
   "allDeps": {
     "packages": [
       "darwin",

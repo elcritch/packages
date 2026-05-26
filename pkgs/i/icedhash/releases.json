@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "icedhash",
   "fqn": "icedhash.IcedQuinn.github.com",
-  "head": "01ebeee88a4ca4f3f16897b5f9975bdd8098053c",
   "author": "Iced Quinn",
   "description": "Computes the hashes of various things.",
   "license": "MPL-2",
@@ -11,20 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@621099d7132eaa57eb3aa6a2577c6b6d6b7bcfa7",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@01ebeee88a4ca4f3f16897b5f9975bdd8098053c",
-      "r": [],
-      "d": "Various hash computing algorithms for Nim.",
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:03Z",
+  "generatedAt": "2026-05-26T13:14:56Z",
   "allDeps": {
     "packages": [],
     "urls": [],

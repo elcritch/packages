@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nationalize",
   "fqn": "nationalize.nemuelw.github.com",
-  "head": "2c70ff6fe38ec422d773b4af95dd04255124db18",
   "author": "Nemuel Wainaina",
   "description": "Nim wrapper for the Nationalize.io API",
   "license": "GPL-3.0-only",
@@ -14,22 +13,11 @@
       "r": [
         "jsony",
         "results"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@2c70ff6fe38ec422d773b4af95dd04255124db18",
-      "r": [
-        "jsony",
-        "results"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:54Z",
+  "generatedAt": "2026-05-26T13:16:15Z",
   "allDeps": {
     "packages": [
       "jsony",

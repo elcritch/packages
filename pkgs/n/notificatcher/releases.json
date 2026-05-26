@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "notificatcher",
   "fqn": "notificatcher.PMunch.github.com",
-  "head": "f43ac3290a1053e47409c4f402744b2ccb8e3a84",
   "author": "PMunch",
   "description": "Small program to read freedesktop notifications and format them as strings",
   "license": "MIT",
@@ -19,8 +18,6 @@
         "docopt",
         "nimPNG"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -30,8 +27,6 @@
         "gh:PMunch/docopt.nim #dispatch",
         "nimPNG"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -41,8 +36,6 @@
         "gh:PMunch/docopt.nim #dispatch",
         "nimPNG"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -51,8 +44,6 @@
         "dbus",
         "gh:PMunch/docopt.nim #dispatch"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -61,24 +52,11 @@
         "dbus",
         "gh:PMunch/docopt.nim #dispatch"
       ],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@f43ac3290a1053e47409c4f402744b2ccb8e3a84",
-      "r": [
-        "dbus",
-        "docopt",
-        "nimPNG"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:46Z",
+  "generatedAt": "2026-05-26T13:17:34Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

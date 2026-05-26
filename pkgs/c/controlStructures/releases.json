@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "controlStructures",
   "fqn": "Additional-Control-Structures-for-Nim.TakeYourFreedom.github.com",
-  "head": "60d80ea2a21dbd536c3443ab9b27340f27b7521c",
   "author": "TakeYourFreedom",
   "description": "Additional Control Structures",
   "license": "MIT",
@@ -10,22 +9,15 @@
   "releases": [
     {
       "v": "0.1.0@222e2a5eaf3533876baa0d529d0c8a8f3e8da40f",
-      "r": [],
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.0@6e1a225c20272c5db856cdfb12cf1537f70195bb",
-      "r": [],
-      "s": ""
-    },
-    {
-      "v": "#head@60d80ea2a21dbd536c3443ab9b27340f27b7521c",
-      "r": [],
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:30Z",
+  "generatedAt": "2026-05-26T13:13:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "typelists",
   "fqn": "typelists.yglukhov.github.com",
-  "head": "681672b25ada596b29412241f0e4288072e7c8e3",
   "author": "Yuriy Glukhov",
   "description": "Type lists",
   "license": "MIT",
@@ -10,20 +9,11 @@
   "releases": [
     {
       "v": "0.1.0@7f83640de14b4ec29ba10a1a22a85240cea48985",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@681672b25ada596b29412241f0e4288072e7c8e3",
-      "r": [],
-      "x": [
-        "tests"
-      ],
-      "m": "0.20"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:10Z",
+  "generatedAt": "2026-05-26T13:19:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

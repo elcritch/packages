@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "kslog",
   "fqn": "kslog.c-blake.github.com",
-  "head": "85f74d6127799b1c50ecc04a89371437b6ba2ffd",
   "author": "Charles Blake",
   "description": "Minimalistic Kernel-Syslogd For Linux in Nim",
   "license": "MIT/ISC",
@@ -18,7 +17,6 @@
       "r": [
         "cligen >= 1.7.9"
       ],
-      "m": "~",
       "p": []
     },
     {
@@ -26,7 +24,6 @@
       "r": [
         "cligen >= 1.7.8"
       ],
-      "m": "~",
       "p": []
     },
     {
@@ -34,7 +31,6 @@
       "r": [
         "cligen >= 0.9.42"
       ],
-      "m": "~",
       "p": []
     },
     {
@@ -42,7 +38,6 @@
       "r": [
         "cligen >= 0.9.42"
       ],
-      "m": "~",
       "p": []
     },
     {
@@ -50,7 +45,6 @@
       "r": [
         "cligen >= 0.9.42"
       ],
-      "m": "~",
       "p": []
     },
     {
@@ -58,20 +52,11 @@
       "r": [
         "cligen >= 0.9.42"
       ],
-      "m": "~",
-      "p": []
-    },
-    {
-      "v": "#head@85f74d6127799b1c50ecc04a89371437b6ba2ffd",
-      "r": [
-        "cligen >= 1.7.9"
-      ],
-      "m": "~",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:38Z",
+  "generatedAt": "2026-05-26T13:15:21Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

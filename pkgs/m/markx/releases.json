@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "markx",
   "fqn": "markx.jiro4989.github.com",
-  "head": "beebd4646ac16dc9d38c108753c467f677dbc1b6",
   "author": "jiro4989",
   "description": "markx selects execution targets with editor and executes commands.",
   "license": "MIT",
@@ -18,8 +17,6 @@
       "r": [
         "cligen >= 0.9.47"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -28,8 +25,6 @@
       "r": [
         "cligen >= 0.9.47"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -38,24 +33,12 @@
       "r": [
         "cligen >= 0.9.47"
       ],
-      "m": "~",
-      "s": "",
-      "b": "",
-      "p": []
-    },
-    {
-      "v": "#head@beebd4646ac16dc9d38c108753c467f677dbc1b6",
-      "r": [
-        "cligen >= 0.9.47"
-      ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:21Z",
+  "generatedAt": "2026-05-26T13:15:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

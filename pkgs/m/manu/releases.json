@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "manu",
   "fqn": "manu.planetis-m.github.com",
-  "head": "7da3cb3354a18d6e57d6ad142c8538b7605986d3",
   "author": "Antonis Geralis",
   "description": "Nim Matrix library",
   "license": "MIT",
@@ -17,19 +16,16 @@
     {
       "v": "2.3.1@1e159abac3d7ce59fb17eb89d6a2a0b2267acc04",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "2.3@101842330593627fa410f4392abffb4c7824537e",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "2.2.1@ff774a2f422742a95f3271818d5b188e2366c2c6",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
@@ -125,16 +121,10 @@
         "experiments"
       ],
       "m": "1.0.0"
-    },
-    {
-      "v": "#head@7da3cb3354a18d6e57d6ad142c8538b7605986d3",
-      "r": [],
-      "m": "~",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:19Z",
+  "generatedAt": "2026-05-26T13:15:50Z",
   "allDeps": {
     "packages": [],
     "urls": [],

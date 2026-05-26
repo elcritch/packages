@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "starlight",
   "fqn": "starlight.akvilary.github.com",
-  "head": "c88886466d72cf32152b804de5e6dc0391ae435f",
   "author": "akvilary",
   "description": "Starlight — super fast SSR framework for Nim with compile-time HTML optimization",
   "license": "MIT",
@@ -13,33 +12,16 @@
       "v": "0.1.0@9c25002d8819777f1ae263668168f6e86d0abb4a",
       "r": [
         "httpx >= 0.3.7"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@c88886466d72cf32152b804de5e6dc0391ae435f",
-      "r": [
-        "chronos >= 4.0.3"
-      ],
-      "d": "Super fast async SSR framework — type-safe layouts, zero-copy rendering, compile-time HTML optimization, uses Chronos",
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:15Z",
+  "generatedAt": "2026-05-26T13:19:17Z",
   "allDeps": {
     "packages": [
-      "bearssl",
-      "chronos",
-      "httputils",
       "httpx",
       "ioselectors",
-      "results",
-      "stew",
       "timerwheel",
-      "unittest2",
       "wepoll"
     ],
     "urls": [],

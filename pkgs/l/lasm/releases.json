@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "lasm",
   "fqn": "lasm.fox0430.github.com",
-  "head": "149b53af231649df5ce149f3da4efc4a40428846",
   "author": "fox0430",
   "description": "LSP server for testing LSP clients",
   "license": "MIT",
@@ -17,23 +16,11 @@
       "r": [
         "chronos >= 4.0.4"
       ],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@149b53af231649df5ce149f3da4efc4a40428846",
-      "r": [
-        "chronos >= 4.0.4"
-      ],
-      "d": "A configurable LSP server for debugging/testing LSP clients",
-      "m": "2.0.2",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:40Z",
+  "generatedAt": "2026-05-26T13:15:22Z",
   "allDeps": {
     "packages": [
       "bearssl",

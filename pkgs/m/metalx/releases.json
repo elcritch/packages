@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "metalx",
   "fqn": "metalx.elcritch.github.com",
-  "head": "b161231d45b9e75a0b4616362d8717f5b8568e0b",
   "author": "Jaremy Creechley",
   "description": "metal bindings",
   "license": "MIT",
@@ -13,9 +12,7 @@
       "v": "0.1.0@c2bf3d40efa70e2dbe62265cbd01261eebdcb841",
       "r": [
         "darwin"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.2.0@bdc47af425f2114e0475be89e9fdf0803cbcb516",
@@ -27,9 +24,7 @@
           "windy",
           "sdl2"
         ]
-      },
-      "m": "~",
-      "s": ""
+      }
     },
     {
       "v": "0.3.0@052d1bd49fc9e96d58bde453382f7a4ea1d9563a",
@@ -41,9 +36,7 @@
           "windy",
           "sdl2"
         ]
-      },
-      "m": "~",
-      "s": ""
+      }
     },
     {
       "v": "0.4.0@37d066a61d08feed96ca6111cc6ffda8fc762938",
@@ -55,9 +48,7 @@
           "windy",
           "sdl2"
         ]
-      },
-      "m": "~",
-      "s": ""
+      }
     },
     {
       "v": "0.4.1@2738a374e7e1ed85c8c785f0c4d2a08f928d3399",
@@ -69,9 +60,7 @@
           "windy",
           "sdl2"
         ]
-      },
-      "m": "~",
-      "s": ""
+      }
     },
     {
       "v": "0.4.2@b161231d45b9e75a0b4616362d8717f5b8568e0b^",
@@ -83,27 +72,11 @@
           "windy",
           "sdl2"
         ]
-      },
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@b161231d45b9e75a0b4616362d8717f5b8568e0b",
-      "r": [
-        "darwin #head"
-      ],
-      "f": {
-        "test": [
-          "windy",
-          "sdl2"
-        ]
-      },
-      "m": "~",
-      "s": ""
+      }
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:29Z",
+  "generatedAt": "2026-05-26T13:15:57Z",
   "allDeps": {
     "packages": [
       "bumpy > 0.1.0",

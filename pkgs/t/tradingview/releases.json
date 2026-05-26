@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "tradingview",
   "fqn": "tradingview.juancarlospaco.github.com",
-  "head": "a921d43dd47a3c54092f380de4776a772f7250cc",
   "author": "Juan Carlos",
   "description": "TradingView client",
   "license": "MIT",
@@ -11,23 +10,11 @@
   "releases": [
     {
       "v": "0.0.1@dc7a8433104a90de3673d5a3a857696c8dc1ed62",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@a921d43dd47a3c54092f380de4776a772f7250cc",
-      "r": [],
-      "x": [
-        "docs",
-        "examples"
-      ],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:00Z",
+  "generatedAt": "2026-05-26T13:19:48Z",
   "allDeps": {
     "packages": [],
     "urls": [],

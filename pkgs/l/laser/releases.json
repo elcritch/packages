@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "laser",
   "fqn": "laser.numforge.github.com",
-  "head": "d310294017c28d290fdff61724b07a210de6705c",
   "author": "Mamy André-Ratsimbazafy",
   "description": "High Performance Computing and Image Toolbox: SIMD, JIT Assembler, OpenMP, runtime CPU feature detection, optimised machine learning primitives",
   "license": "Apache License 2.0",
@@ -10,18 +9,11 @@
   "releases": [
     {
       "v": "0.0.1@654f855f1d84013c6c4ea0fc889e9ae1e795e4d5",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@d310294017c28d290fdff61724b07a210de6705c",
-      "n": "Laser",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:41Z",
+  "generatedAt": "2026-05-26T13:15:22Z",
   "allDeps": {
     "packages": [],
     "urls": [],

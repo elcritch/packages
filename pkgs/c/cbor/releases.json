@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "cbor",
   "fqn": "nim_cbor.~ehmry.git.sr.ht",
-  "head": "cca1d42e5f0cf683248b6d967407956ba165a0f2",
   "author": "Emery Hemingway",
   "description": "Concise Binary Object Representation decoder and encoder (RFC8949).",
   "license": "Unlicense",
@@ -23,8 +22,6 @@
       "r": [
         "gh:ehmry/nim-bigints >= 20231006"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -32,8 +29,6 @@
     {
       "v": "20240823@598716d7b47905311cdb6b0ed1cec863bb2bb497",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -41,8 +36,6 @@
     {
       "v": "20230619@a4a1affd45ba90bea24e08733ae2bd02fe058166",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -52,8 +45,6 @@
       "r": [
         "bigints"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -65,8 +56,6 @@
       ],
       "d": "Concise Binary Object Representation decoder and encoder (RFC7049).",
       "l": "ISC",
-      "m": "~",
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -78,8 +67,6 @@
       ],
       "d": "Concise Binary Object Representation decoder and encoder (RFC7049).",
       "l": "ISC",
-      "m": "~",
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -91,8 +78,6 @@
       ],
       "d": "Concise Binary Object Representation decoder and encoder (RFC7049).",
       "l": "ISC",
-      "m": "~",
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -104,8 +89,6 @@
       ],
       "d": "Concise Binary Object Representation decoder and encoder (RFC7049).",
       "l": "ISC",
-      "m": "~",
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -117,8 +100,6 @@
       ],
       "d": "Concise Binary Object Representation decoder and encoder (RFC7049).",
       "l": "ISC",
-      "m": "~",
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -128,8 +109,6 @@
       "r": [],
       "d": "Concise Binary Object Representation decoder and encoder (RFC7049).",
       "l": "ISC",
-      "m": "~",
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -141,9 +120,7 @@
       "l": "MIT",
       "x": [],
       "k": [],
-      "p": [],
-      "m": "~",
-      "s": ""
+      "p": []
     },
     {
       "v": "0.5.2@544bd47708c1cd18880c4179e5aa48526e77baf4",
@@ -153,8 +130,7 @@
       "m": "0.18.0",
       "x": [],
       "k": [],
-      "p": [],
-      "s": ""
+      "p": []
     },
     {
       "v": "0.5.1@03458b64c05ddbbc0948037439656ab36de6525c",
@@ -164,8 +140,7 @@
       "m": "0.18.0",
       "x": [],
       "k": [],
-      "p": [],
-      "s": ""
+      "p": []
     },
     {
       "v": "0.5.0@5c08f7cb2a35acfd777c25348af651c5181c6371",
@@ -175,8 +150,7 @@
       "m": "0.18.0",
       "x": [],
       "k": [],
-      "p": [],
-      "s": ""
+      "p": []
     },
     {
       "v": "0.4.1@817924bdd7f4816b199ab4008531fa5b9477f902",
@@ -186,8 +160,7 @@
       "m": "0.18.0",
       "x": [],
       "k": [],
-      "p": [],
-      "s": ""
+      "p": []
     },
     {
       "v": "0.4.0@bc7c9a880055a3a2a3ac88878198e601f513da69",
@@ -197,8 +170,7 @@
       "m": "0.17.2",
       "x": [],
       "k": [],
-      "p": [],
-      "s": ""
+      "p": []
     },
     {
       "v": "0.3.0@61e84e06ab098014bbd006075aad97d9768a9804",
@@ -209,7 +181,6 @@
         "test"
       ],
       "m": "0.17.2",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -222,24 +193,12 @@
         "test"
       ],
       "m": "0.17.2",
-      "s": "",
-      "k": [],
-      "p": []
-    },
-    {
-      "v": "#head@cca1d42e5f0cf683248b6d967407956ba165a0f2",
-      "r": [
-        "gh:ehmry/nim-bigints >= 20231006"
-      ],
-      "m": "~",
-      "s": "",
-      "x": [],
       "k": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:01Z",
+  "generatedAt": "2026-05-26T13:12:51Z",
   "allDeps": {
     "packages": [
       "bigints > 0.8.0 & <= 20230310",

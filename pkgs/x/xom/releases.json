@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "xom",
   "fqn": "xom.schneiderfelipe.github.com",
-  "head": "a132f627946ba51d75b80f16ca620bb2ab9023e1",
   "author": "Felipe S. S. Schneider",
   "description": "Transform XML trees into performant JavaScript DOM calls at compile-time.",
   "license": "MIT",
@@ -13,20 +12,11 @@
     {
       "v": "0.1@fda4902a2f48cc7283c0deb61ffc4a201c4da1fe",
       "r": [],
-      "m": "~",
-      "s": "",
-      "e": ""
-    },
-    {
-      "v": "#head@a132f627946ba51d75b80f16ca620bb2ab9023e1",
-      "r": [],
-      "m": "~",
-      "s": "",
       "e": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:57:14Z",
+  "generatedAt": "2026-05-26T13:20:40Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

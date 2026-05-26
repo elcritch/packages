@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "wren",
   "fqn": "wren.geotre.github.com",
-  "head": "42389a0be7ce1aff11a6dbfb2c6be6907ce430c1",
   "author": "geotre",
   "description": "A nim wrapper for Wren, an embedded scripting language",
   "license": "MIT",
@@ -11,18 +10,14 @@
   "releases": [
     {
       "v": "0.1.0@dd032c54ee5561e372e25e0c3c04ebca5524cf75",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.0@05ecba011acd379722da799beec714a5129b4d3f",
       "r": [
         "nimgen >= 0.5.0"
       ],
-      "h": true,
-      "m": "~",
-      "s": ""
+      "h": true
     },
     {
       "v": "0.2.1@42389a0be7ce1aff11a6dbfb2c6be6907ce430c1^",
@@ -30,21 +25,11 @@
         "nimgen >= 0.5.0"
       ],
       "h": true,
-      "m": "0.19.0",
-      "s": ""
-    },
-    {
-      "v": "#head@42389a0be7ce1aff11a6dbfb2c6be6907ce430c1",
-      "r": [
-        "nimgen >= 0.5.0"
-      ],
-      "h": true,
-      "m": "0.19.0",
-      "s": ""
+      "m": "0.19.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:57:02Z",
+  "generatedAt": "2026-05-26T13:20:30Z",
   "allDeps": {
     "packages": [
       "c2nim > 0.1.0",

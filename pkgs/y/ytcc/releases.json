@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "ytcc",
   "fqn": "ytcc.thisago.github.com",
-  "head": "efb05f46230f034dda9387200e63f940420a9e2c",
   "author": "Thiago Navarro",
   "description": "CLI tool and lib to get Youtube video captions (with chapters)",
   "license": "MIT",
@@ -23,28 +22,13 @@
         "cligen",
         "util"
       ],
-      "m": "~",
-      "s": "",
-      "b": "",
-      "k": [],
-      "p": []
-    },
-    {
-      "v": "#head@efb05f46230f034dda9387200e63f940420a9e2c",
-      "r": [
-        "cligen",
-        "ytextractor >= 1.1.1",
-        "util"
-      ],
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:57:20Z",
+  "generatedAt": "2026-05-26T13:20:44Z",
   "allDeps": {
     "packages": [
       "ajax",

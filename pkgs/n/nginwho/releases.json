@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nginwho",
   "fqn": "nginwho.pouriyajamshidi.github.com",
-  "head": "d54f904691801faa6ecb852bb67c639c72b6bc69",
   "author": "pouriya jamshidi",
   "description": "nginwho is a lightweight and extremely fast nginx log parser, Cloudflare origin IP resolver and non-Cloudflare CIDRs blocker",
   "license": "MIT",
@@ -15,22 +14,16 @@
     {
       "v": "2.2.0@08b11f3664ea616477942fa93aef4a8f504a0c38",
       "r": [],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
       "v": "2.1.0@4f929709dbbe74480695a30a1f8e31452a09953f",
       "r": [],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
       "v": "1.2.3@e5d6d16bd9aa0f173a8bb9f11595dd511e358f4a",
       "r": [],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -38,7 +31,6 @@
       "r": [],
       "d": "nginwho is a lightweight and extremely fast nginx log parser that stores the result into a sqlite3 database for further analysis and actions",
       "m": "2.0.2",
-      "s": "",
       "p": []
     },
     {
@@ -46,7 +38,6 @@
       "r": [],
       "d": "nginwho is a lightweight and extremely fast nginx log parser that stores the result into a sqlite3 database for further analysis and actions",
       "m": "2.0.2",
-      "s": "",
       "p": []
     },
     {
@@ -54,7 +45,6 @@
       "r": [],
       "d": "nginwho is a lightweight and extremely fast nginx log parser that stores the result into a sqlite3 database for further analysis and actions",
       "m": "2.0.2",
-      "s": "",
       "p": []
     },
     {
@@ -63,42 +53,11 @@
       "a": "pouriyajamshidi",
       "d": "nginwho is a lightweight and extremely fast nginx log parser that stores the result into a sqlite3 database for further analysis and actions",
       "m": "2.0.2",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@d54f904691801faa6ecb852bb67c639c72b6bc69",
-      "r": [],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:08Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "0.5.0",
-      "beta",
-      "v0.7.0",
-      "v0.7.1",
-      "v1.0.0",
-      "v2.1.0",
-      "v2.2.0"
-    ],
-    "tagVersions": {
-      "v0.7.0": "0.7.0",
-      "v0.7.1": "0.7.1",
-      "v1.0.0": "1.0.0",
-      "v2.1.0": "2.1.0",
-      "v2.2.0": "2.2.0"
-    },
-    "latest": "v2.2.0"
-  },
+  "generatedAt": "2026-05-26T13:16:25Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "gumroad",
   "fqn": "gumroad-nim.openpeeps.github.com",
-  "head": "2f525a735dc5e7d2b2b1857574e4e91eb30d77d3",
   "author": "George Lemon",
   "description": "API client for Gumroad.com",
   "license": "MIT",
@@ -14,22 +13,11 @@
       "r": [
         "isocodes",
         "oauth2"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@2f525a735dc5e7d2b2b1857574e4e91eb30d77d3",
-      "r": [
-        "oauth2",
-        "openparser"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:34Z",
+  "generatedAt": "2026-05-26T13:14:35Z",
   "allDeps": {
     "packages": [
       "bump",
@@ -37,9 +25,7 @@
       "cligen",
       "isocodes",
       "jsony",
-      "nimsimd",
-      "oauth2",
-      "openparser"
+      "oauth2"
     ],
     "urls": [],
     "unresolved": [

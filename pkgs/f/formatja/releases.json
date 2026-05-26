@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "formatja",
   "fqn": "formatja.enthus1ast.github.com",
-  "head": "d1352b45aea89adc836acd37e06ca1b2cf5a8a0b",
   "author": "David Krause",
   "description": "a (runtime) string interpolation library",
   "license": "MIT",
@@ -13,29 +12,17 @@
       "v": "0.1.0@f1f65ebe682eb2c1538370b5fb993dfcba65115a",
       "r": [
         "nimja"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.2.0@d1352b45aea89adc836acd37e06ca1b2cf5a8a0b^",
       "r": [
         "nimja"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@d1352b45aea89adc836acd37e06ca1b2cf5a8a0b",
-      "r": [
-        "nimja"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:53Z",
+  "generatedAt": "2026-05-26T13:14:09Z",
   "allDeps": {
     "packages": [
       "nimja"

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "firejail",
   "fqn": "nim-firejail.juancarlospaco.github.com",
-  "head": "f716b534a55b0fefb7401d0a7a29f4ffebfbdae6",
   "author": "Juan Carlos",
   "description": "Firejail wrapper for Nim, Firejail your Production App before is too late!",
   "license": "MIT",
@@ -11,48 +10,35 @@
   "releases": [
     {
       "v": "0.1.0@a476369fcdbca1039ab7727ec2f5b8cee2d3f621",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.0@707d1f5b93a473ab0d4996fa17cfccaec9db8013",
       "r": [],
       "d": "Firejail wrapper for Nim, Isolate your Production App before its too late!",
-      "m": "0.19.4",
-      "s": ""
+      "m": "0.19.4"
     },
     {
       "v": "0.4.0@1b73a63ccdf270b15d9f28889f97725304b76dcd",
       "r": [],
       "d": "Firejail wrapper for Nim, Isolate your Production App before its too late!",
-      "m": "0.19.4",
-      "s": ""
+      "m": "0.19.4"
     },
     {
       "v": "0.5.0@4302b261679cad5cc8908901e5e3c69a1f1e2bfd",
       "r": [],
       "d": "Firejail wrapper for Nim, Isolate your Production App before its too late!",
-      "m": "0.19.4",
-      "s": ""
+      "m": "0.19.4"
     },
     {
       "v": "0.5.5@7bf6b4793698e29459597417aee9a428f1e87741",
       "r": [],
       "d": "Firejail wrapper for Nim, Isolate your Production App before its too late!",
-      "m": "1.0.0",
-      "s": ""
-    },
-    {
-      "v": "#head@f716b534a55b0fefb7401d0a7a29f4ffebfbdae6",
-      "r": [],
-      "d": "Firejail wrapper for Nim, Isolate your Production App before its too late!",
-      "m": "1.0.0",
-      "s": ""
+      "m": "1.0.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:47Z",
+  "generatedAt": "2026-05-26T13:14:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

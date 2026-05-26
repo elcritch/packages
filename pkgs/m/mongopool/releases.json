@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "mongopool",
   "fqn": "mongopool.JohnAD.github.com",
-  "head": "c8bc6ddd560f962b8ba497ea74bac93906c9d9b9",
   "author": "John Dupuy",
   "description": "MongoDB pooled client for threaded applications such as web servers",
   "license": "MIT",
@@ -18,8 +17,6 @@
         "bson >= 1.1.2",
         "scram >= 0.1.9"
       ],
-      "m": "~",
-      "s": "",
       "z": []
     },
     {
@@ -28,23 +25,11 @@
         "bson >= 1.0.0",
         "scram >= 0.1.9"
       ],
-      "m": "~",
-      "s": "",
-      "z": []
-    },
-    {
-      "v": "#head@c8bc6ddd560f962b8ba497ea74bac93906c9d9b9",
-      "r": [
-        "bson >= 1.1.2",
-        "scram >= 0.1.13"
-      ],
-      "m": "~",
-      "s": "",
       "z": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:41Z",
+  "generatedAt": "2026-05-26T13:16:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "rmq_statsd",
   "fqn": "rmq-statsd.nim.Q-Master.github.com",
-  "head": "99801806ba65a12430262da8d8a26116511e80b2",
   "author": "Vladimir Berezenko",
   "description": "Pure nim rabbitmq to statsd metrics pusher",
   "license": "MIT",
@@ -18,8 +17,6 @@
         "amqpstats >= 0.2.2",
         "simplestatsdclient >= 0.2.0"
       ],
-      "m": "~",
-      "s": "",
       "o": {}
     },
     {
@@ -28,8 +25,6 @@
         "amqpstats >= 0.2.0",
         "simplestatsdclient >= 0.2.0"
       ],
-      "m": "~",
-      "s": "",
       "o": {}
     },
     {
@@ -38,8 +33,6 @@
         "amqpstats >= 0.2.0",
         "simplestatsdclient >= 0.1.0"
       ],
-      "m": "~",
-      "s": "",
       "o": {}
     },
     {
@@ -48,8 +41,6 @@
         "amqpstats >= 0.1.5",
         "simplestatsdclient >= 0.1.0"
       ],
-      "m": "~",
-      "s": "",
       "o": {}
     },
     {
@@ -58,8 +49,6 @@
         "amqpstats >= 0.1.4",
         "simplestatsdclient >= 0.1.0"
       ],
-      "m": "~",
-      "s": "",
       "o": {}
     },
     {
@@ -68,23 +57,11 @@
         "amqpstats >= 0.1.0",
         "simplestatsdclient"
       ],
-      "m": "~",
-      "s": "",
-      "o": {}
-    },
-    {
-      "v": "#head@99801806ba65a12430262da8d8a26116511e80b2",
-      "r": [
-        "amqpstats >= 0.2.2",
-        "simplestatsdclient >= 0.2.0"
-      ],
-      "m": "~",
-      "s": "",
       "o": {}
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:18Z",
+  "generatedAt": "2026-05-26T13:18:37Z",
   "allDeps": {
     "packages": [
       "amqpstats",

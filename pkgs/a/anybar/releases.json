@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "anybar",
   "fqn": "anybar.nim.ba0f3.github.com",
-  "head": "c93f45e01bef2323be134a3a87989963bb9bc683",
   "author": "Huy Doan",
   "description": "Anybar client written in Nim",
   "license": "MIT",
@@ -14,15 +13,10 @@
     {
       "v": "0.0.2@ef9166c0b61446257a23d274c0acfee0c02373f1",
       "r": []
-    },
-    {
-      "v": "#head@c93f45e01bef2323be134a3a87989963bb9bc683",
-      "n": "Anybar",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:47Z",
+  "generatedAt": "2026-05-26T13:11:55Z",
   "allDeps": {
     "packages": [],
     "urls": [],

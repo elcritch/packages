@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimitheme",
   "fqn": "nimitheme.neroist.github.com",
-  "head": "85ad9b80029112e1d2903dbd5b2a418bbcccb467",
   "author": "Jasmine",
   "description": "Make nimib look beautiful with nimitheme",
   "license": "MIT",
@@ -13,46 +12,29 @@
       "v": "0.3.0@8e89329a85ac2f96cf3e1dd1f428a2c910660a1c",
       "r": [
         "nimib"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.2.1@114d22a2b85c6a07f3f6f7e5ad964b56e8fd3684",
       "r": [
         "nimib"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.2.0@ca92ba7437b213134d94d551d6cfbae0a8dbe34f",
       "r": [
         "nimib"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.0@3501e1b5709ff9c3b915e61d888d92200d277b07",
       "r": [
         "nimib"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@85ad9b80029112e1d2903dbd5b2a418bbcccb467",
-      "r": [
-        "nimib"
-      ],
-      "a": "niko",
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:55Z",
+  "generatedAt": "2026-05-26T13:16:58Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

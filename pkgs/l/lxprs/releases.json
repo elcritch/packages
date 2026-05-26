@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "lxprs",
   "fqn": "lxprs.capocasa.github.com",
-  "head": "9b7829e74f337ffece858f0ee151cd3a001e18b4",
   "author": "capocasa",
   "description": "LetterXpress client for sending German postal letters from PDF",
   "license": "MIT",
@@ -18,23 +17,11 @@
         "cligen",
         "dotenv"
       ],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@9b7829e74f337ffece858f0ee151cd3a001e18b4",
-      "r": [
-        "cligen",
-        "dotenv"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:16Z",
+  "generatedAt": "2026-05-26T13:15:48Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

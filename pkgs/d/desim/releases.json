@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "desim",
   "fqn": "desim.jayvanderwall.github.com",
-  "head": "3ba7a85c13b71d23100109c14406fae89fa742c3",
   "author": "Jay Van Der Wall",
   "description": "A discrete event simulator modeled on SST",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@5884c9e5d289c3a55fe7eb0da5f886ee6d48b116",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@3ba7a85c13b71d23100109c14406fae89fa742c3",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:54Z",
+  "generatedAt": "2026-05-26T13:13:31Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "json2xml",
   "fqn": "json2xml.MhedhebiIssam.github.com",
-  "head": "a3baf39063a80d997cbb68c393ae443ffa35d96f",
   "author": "Mhedhebi issam",
   "description": "convert json to xml  : JsonNode( comapatible with  module json ) To  XmlNode (comapatible with  module  xmltree)",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@8c143f62344f31e7835b35961aa5b8c2bf20ab50",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@a3baf39063a80d997cbb68c393ae443ffa35d96f",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:25Z",
+  "generatedAt": "2026-05-26T13:15:11Z",
   "allDeps": {
     "packages": [],
     "urls": [],

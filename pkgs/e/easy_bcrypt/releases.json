@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "easy_bcrypt",
   "fqn": "easy-bcrypt.Akito13.github.com",
-  "head": "c1aa625be542c0488c2ae81d3ab14f6dcbaa2da2",
   "author": "Ricardo Garcia",
   "description": "A simple wrapper providing a convenient reentrant interface for the bcrypt password hashing algorithm.",
   "license": "CC0",
@@ -54,16 +53,10 @@
       "d": "This library is a simple wrapper providing a convenient reentrant interface for\nthe bcrypt password hashing algorithm implementation as provided by Solar\nDesigner at http://www.openwall.com/crypt/.\n",
       "i": [],
       "j": []
-    },
-    {
-      "v": "#head@c1aa625be542c0488c2ae81d3ab14f6dcbaa2da2",
-      "r": [],
-      "i": [],
-      "j": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:10Z",
+  "generatedAt": "2026-05-26T13:13:41Z",
   "allDeps": {
     "packages": [],
     "urls": [],

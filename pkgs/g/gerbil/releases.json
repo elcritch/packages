@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "gerbil",
   "fqn": "gerbil.jasonprogrammer.github.com",
-  "head": "100896e29539c735fcde1e4baebf5dd6c57691a3",
   "author": "Jason Jones",
   "description": "Dynamic site generator",
   "license": "MIT",
@@ -27,8 +26,6 @@
         "regex 0.19.0",
         "uuids 0.1.11"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -44,31 +41,12 @@
         "regex 0.13.0",
         "uuids 0.1.10"
       ],
-      "m": "~",
-      "s": "",
-      "k": [],
-      "p": []
-    },
-    {
-      "v": "#head@100896e29539c735fcde1e4baebf5dd6c57691a3",
-      "r": [
-        "argparse 4.0.1",
-        "cligen 1.5.32",
-        "jester 0.5.0",
-        "markdown 0.8.5",
-        "mustache 0.4.3",
-        "nimcrypto 0.5.4",
-        "regex 0.20.0",
-        "uuids 0.1.11"
-      ],
-      "m": "1.6.10",
-      "s": "",
       "k": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:12Z",
+  "generatedAt": "2026-05-26T13:14:21Z",
   "allDeps": {
     "packages": [
       "argparse",

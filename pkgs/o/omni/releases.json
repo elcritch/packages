@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "omni",
   "fqn": "omni.vitreo12.github.com",
-  "head": "b105a96fedef580094fc1786ff3f201786d52377",
   "author": "Francesco Cameli",
   "description": "omni is a DSL for low-level audio programming.",
   "license": "MIT",
@@ -23,7 +22,6 @@
         "cligen >= 1.5.0"
       ],
       "h": true,
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -34,7 +32,6 @@
         "cligen >= 1.5.0"
       ],
       "h": true,
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -45,7 +42,6 @@
         "cligen >= 1.5.0"
       ],
       "h": true,
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -104,21 +100,10 @@
       "x": [],
       "i": [],
       "p": []
-    },
-    {
-      "v": "#head@b105a96fedef580094fc1786ff3f201786d52377",
-      "r": [
-        "cligen >= 1.5.0"
-      ],
-      "h": true,
-      "m": "~",
-      "x": [],
-      "i": [],
-      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:01Z",
+  "generatedAt": "2026-05-26T13:17:44Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

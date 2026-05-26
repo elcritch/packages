@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "vkapi",
   "fqn": "nimvkapi.nimbackup.github.com",
-  "head": "3af1998f0d9bf07c15bb0f916757e4e7994aee31",
   "author": "cyberlis (Denis Lisovik)",
   "description": "Contains a wrapper for the vk.com API",
   "license": "MIT",
@@ -18,14 +17,12 @@
       "v": "0.1.0@865287ef1240db3c85060603ce5b809f3fce9ad9",
       "r": [],
       "j": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "1.0.0@a010368f9646ac4da543ccc87ebfbece973b2802",
       "r": [],
       "j": [],
-      "m": "~",
       "x": []
     },
     {
@@ -34,7 +31,6 @@
       "a": "TiberiumN (Daniil Yarancev) and cyberlis (Denis Lisovik)",
       "d": "Wrapper for vk.com API",
       "j": [],
-      "m": "~",
       "x": []
     },
     {
@@ -43,7 +39,6 @@
       "a": "TiberiumN (Daniil Yarancev) and cyberlis (Denis Lisovik)",
       "d": "Wrapper for vk.com API",
       "j": [],
-      "m": "~",
       "x": []
     },
     {
@@ -52,7 +47,6 @@
       "a": "TiberiumN (Daniil Yarancev) and cyberlis (Denis Lisovik)",
       "d": "Wrapper for vk.com API",
       "j": [],
-      "m": "~",
       "x": []
     },
     {
@@ -61,7 +55,6 @@
       "a": "TiberiumN (Daniil Yarancev)",
       "d": "Wrapper for vk.com API",
       "j": [],
-      "m": "~",
       "x": []
     },
     {
@@ -72,19 +65,10 @@
       "m": "0.19.0",
       "x": [],
       "j": []
-    },
-    {
-      "v": "#head@3af1998f0d9bf07c15bb0f916757e4e7994aee31",
-      "r": [],
-      "a": "TiberiumN (Daniil Yarancev)",
-      "d": "Wrapper for vk.com API",
-      "m": "0.19.0",
-      "x": [],
-      "j": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:31Z",
+  "generatedAt": "2026-05-26T13:20:09Z",
   "allDeps": {
     "packages": [],
     "urls": [],

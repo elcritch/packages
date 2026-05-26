@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimarchive",
   "fqn": "nimarchive.genotrance.github.com",
-  "head": "efd663396a692057f30b7e0e455be85f5b0e6d50",
   "author": "genotrance",
   "description": "libarchive wrapper for Nim",
   "license": "MIT",
@@ -155,17 +154,10 @@
       ],
       "h": true,
       "x": []
-    },
-    {
-      "v": "#head@efd663396a692057f30b7e0e455be85f5b0e6d50",
-      "r": [
-        "nimterop >= 0.6.6"
-      ],
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:28Z",
+  "generatedAt": "2026-05-26T13:16:40Z",
   "allDeps": {
     "packages": [
       "c2nim <= 0.2.1",

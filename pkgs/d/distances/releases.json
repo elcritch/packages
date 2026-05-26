@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "distances",
   "fqn": "distances.ayman-albaz.github.com",
-  "head": "a638bc3ea007a19987cae3326c0e187e74483a24",
   "author": "ayman albaz",
   "description": "Distances is a high performance Nim library for calculating distances.",
   "license": "Apache-2.0",
@@ -11,9 +10,7 @@
   "releases": [
     {
       "v": "0.2.0@980f8180dd3bc7978c3f6b9af350c5c6333fbff3",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.1@f8d757656d5cb10bd7d2654b00b2dc00b81d296e",
@@ -21,9 +18,7 @@
         "arraymancer >= 0.6.2",
         "neo >= 0.3.1"
       ],
-      "l": "Apache License 2.0",
-      "m": "~",
-      "s": ""
+      "l": "Apache License 2.0"
     },
     {
       "v": "0.1.0@daf36e647c122092d98640f12ff82c07c14b361e",
@@ -31,19 +26,11 @@
         "arraymancer >= 0.6.2",
         "neo >= 0.3.1"
       ],
-      "l": "Apache License 2.0",
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@a638bc3ea007a19987cae3326c0e187e74483a24",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "l": "Apache License 2.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:59Z",
+  "generatedAt": "2026-05-26T13:13:34Z",
   "allDeps": {
     "packages": [
       "arraymancer <= 0.1.1",

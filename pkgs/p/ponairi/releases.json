@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "ponairi",
   "fqn": "ponairi.ire4ever1190.github.com",
-  "head": "af76bd7989acad236f0ff455ebe2d613c87023e4",
   "author": "Jake Leahy",
   "description": "Simple ORM for sqlite",
   "license": "MIT",
@@ -13,85 +12,65 @@
       "v": "0.4.2@af76bd7989acad236f0ff455ebe2d613c87023e4^",
       "r": [
         "lowdb >= 0.3.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.4.1@665c0842d9ad90adc788c0cb97f1942837a3b840",
       "r": [
         "gh:ire4ever1190/lowdb #91541cc915908b2a4d43c77614666b7162f19795"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.4.0@9d204893933da74ac4fe95ca637c59e42ece26fd",
       "r": [
         "gh:ire4ever1190/lowdb #fix/conditional-dependency"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.3.3@e1ed0ee46135ba842da8651ad91017338f1be7af",
       "r": [
         "lowdb >= 0.1.1"
       ],
-      "m": "1.6.0",
-      "s": ""
+      "m": "1.6.0"
     },
     {
       "v": "0.3.2@f86cd0ffdbcaf28831f5a93fd11f9bc88b50dad4",
       "r": [
         "lowdb >= 0.1.1"
       ],
-      "m": "1.6.0",
-      "s": ""
+      "m": "1.6.0"
     },
     {
       "v": "0.3.1@639558c9ce721670c99c3ba2e0f235a709d34007",
       "r": [
         "lowdb >= 0.1.1"
       ],
-      "m": "1.6.0",
-      "s": ""
+      "m": "1.6.0"
     },
     {
       "v": "0.3.0@489ba91f70452d9dc61b663df0a1963391f7e93f",
       "r": [
         "lowdb >= 0.1.1"
       ],
-      "m": "1.6.0",
-      "s": ""
+      "m": "1.6.0"
     },
     {
       "v": "0.2.0@713038b27376e9009a8fcecd57fda44577b9ed71",
       "r": [
         "lowdb >= 0.1.1"
       ],
-      "m": "1.6.0",
-      "s": ""
+      "m": "1.6.0"
     },
     {
       "v": "0.1.0@b0cc969856fc8164ef810aaca84ffca85c6907fa",
       "r": [
         "gh:PhilippMDoerner/ndb.nim #59043f7"
       ],
-      "m": "1.6.0",
-      "s": ""
-    },
-    {
-      "v": "#head@af76bd7989acad236f0ff455ebe2d613c87023e4",
-      "r": [
-        "lowdb >= 0.3.0"
-      ],
-      "m": "~",
-      "s": ""
+      "m": "1.6.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:43Z",
+  "generatedAt": "2026-05-26T13:18:12Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

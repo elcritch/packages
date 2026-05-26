@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "opencl",
   "fqn": "opencl.nim-lang.github.com",
-  "head": "7b138ac19d7f5452a74742392ffadac3d26ee397",
   "author": "Andreas Rumpf",
   "description": "Low-level wrapper for OpenCL.",
   "license": "MIT",
@@ -11,25 +10,15 @@
   "releases": [
     {
       "v": "1.0.1@7b138ac19d7f5452a74742392ffadac3d26ee397^",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "1.0.0@cb1d5092c7a5f6d940713abf423ecec7e583127a",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@7b138ac19d7f5452a74742392ffadac3d26ee397",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:04Z",
+  "generatedAt": "2026-05-26T13:17:46Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

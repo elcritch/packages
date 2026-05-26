@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "debra",
   "fqn": "nim-debra.elijahr.github.com",
-  "head": "123f29c9efbf9b646f80e385cdde95a690200a89",
   "author": "elijahr <elijahr+debra@gmail.com>",
   "description": "DEBRA+ safe memory reclamation for lock-free data structures",
   "license": "MIT",
@@ -18,8 +17,6 @@
         "typestates >= 0.10.0",
         "unittest2 >= 0.2.0"
       ],
-      "m": "~",
-      "s": "",
       "k": []
     },
     {
@@ -28,8 +25,6 @@
         "typestates >= 0.7.1",
         "unittest2 >= 0.2.0"
       ],
-      "m": "~",
-      "s": "",
       "k": []
     },
     {
@@ -38,8 +33,6 @@
         "typestates >= 0.7.1",
         "unittest2 >= 0.2.0"
       ],
-      "m": "~",
-      "s": "",
       "k": []
     },
     {
@@ -49,7 +42,6 @@
         "unittest2 >= 0.2.0"
       ],
       "m": "2.2.0",
-      "s": "",
       "k": []
     },
     {
@@ -59,7 +51,6 @@
         "unittest2 >= 0.2.0"
       ],
       "m": "2.2.0",
-      "s": "",
       "k": []
     },
     {
@@ -69,7 +60,6 @@
         "unittest2 >= 0.2.0"
       ],
       "m": "2.2.0",
-      "s": "",
       "k": []
     },
     {
@@ -79,7 +69,6 @@
         "unittest2 >= 0.2.0"
       ],
       "m": "2.2.0",
-      "s": "",
       "k": []
     },
     {
@@ -89,7 +78,6 @@
         "unittest2 >= 0.2.0"
       ],
       "m": "2.2.0",
-      "s": "",
       "k": []
     },
     {
@@ -99,7 +87,6 @@
         "unittest2 >= 0.2.0"
       ],
       "m": "2.2.0",
-      "s": "",
       "k": []
     },
     {
@@ -109,7 +96,6 @@
         "unittest2 >= 0.2.0"
       ],
       "m": "2.2.0",
-      "s": "",
       "k": []
     },
     {
@@ -119,7 +105,6 @@
         "unittest2 >= 0.2.0"
       ],
       "m": "2.2.0",
-      "s": "",
       "k": []
     },
     {
@@ -129,7 +114,6 @@
         "unittest2 >= 0.2.0"
       ],
       "m": "2.2.0",
-      "s": "",
       "k": []
     },
     {
@@ -139,22 +123,11 @@
         "unittest2 >= 0.2.0"
       ],
       "m": "2.2.0",
-      "s": "",
-      "k": []
-    },
-    {
-      "v": "#head@123f29c9efbf9b646f80e385cdde95a690200a89",
-      "r": [
-        "typestates >= 0.10.0",
-        "unittest2 >= 0.2.0"
-      ],
-      "m": "~",
-      "s": "",
       "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:49Z",
+  "generatedAt": "2026-05-26T13:13:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

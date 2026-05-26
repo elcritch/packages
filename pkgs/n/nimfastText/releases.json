@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimfastText",
   "fqn": "nimfastText.genotrance.github.com",
-  "head": "f77323374339cc90a472e953be1d2e4c1f5f0404",
   "author": "genotrance",
   "description": "fastText wrapper for Nim",
   "license": "MIT",
@@ -17,7 +16,6 @@
         "nimgen >= 0.4.0"
       ],
       "h": true,
-      "m": "~",
       "x": []
     },
     {
@@ -26,21 +24,11 @@
         "nimgen >= 0.4.0"
       ],
       "h": true,
-      "m": "~",
-      "x": []
-    },
-    {
-      "v": "#head@f77323374339cc90a472e953be1d2e4c1f5f0404",
-      "r": [
-        "nimgen >= 0.5.0"
-      ],
-      "h": true,
-      "m": "~",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:43Z",
+  "generatedAt": "2026-05-26T13:16:50Z",
   "allDeps": {
     "packages": [
       "c2nim",

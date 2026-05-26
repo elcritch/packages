@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "pffft",
   "fqn": "pffft.capocasa.github.com",
-  "head": "d473bafc3ea6712707c5b2b0850bf81ed2f2b912",
   "author": "Carlo Capocasa",
   "description": "The fast, small and liberally licensed pffft fast-fourier-transform (FFT) library wrapped for Nim",
   "license": "BSD-3-Clause",
@@ -15,18 +14,11 @@
     {
       "v": "0.1.0@379551eb475300e47c0882c0512cbf1267798516",
       "r": [],
-      "m": "~",
-      "j": []
-    },
-    {
-      "v": "#head@d473bafc3ea6712707c5b2b0850bf81ed2f2b912",
-      "r": [],
-      "m": "~",
       "j": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:28Z",
+  "generatedAt": "2026-05-26T13:18:02Z",
   "allDeps": {
     "packages": [],
     "urls": [],

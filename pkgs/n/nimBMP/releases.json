@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimBMP",
   "fqn": "nimBMP.jangko.github.com",
-  "head": "3be4e68678cd62d0f197911aedfc1dc1778803ec",
   "author": "Andri Lim",
   "description": "BMP encoder and decoder",
   "license": "MIT",
@@ -15,13 +14,11 @@
     {
       "v": "0.1.8@d419da8dbe99c9b92f891b2ba13c767deeb94be6",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.1.7@0f1b7fb3d0ae5c7e92c68e622fd590f7a405f275",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
@@ -33,33 +30,10 @@
         "bmptestsuite-0.9"
       ],
       "m": "0.18.1"
-    },
-    {
-      "v": "#head@3be4e68678cd62d0f197911aedfc1dc1778803ec",
-      "r": [],
-      "m": "~",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:16Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "v0.1.6",
-      "v0.1.7",
-      "v0.1.8"
-    ],
-    "tagVersions": {
-      "v0.1.6": "0.1.6",
-      "v0.1.7": "0.1.7",
-      "v0.1.8": "0.1.8"
-    },
-    "latest": "v0.1.8"
-  },
+  "generatedAt": "2026-05-26T13:16:31Z",
   "allDeps": {
     "packages": [],
     "urls": [],

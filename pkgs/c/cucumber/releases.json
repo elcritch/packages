@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "cucumber",
   "fqn": "cucumber_nim.shaunc.github.com",
-  "head": "ced60f5dceef4c6da7b077997068a8c9bc5ad6db",
   "author": "Shaun Cutts",
   "description": "Implements Cucumber BDD system in nim.",
   "license": "MIT",
@@ -18,7 +17,6 @@
         "commandeer >= 0.10.5",
         "tempfile >= 0.1.4"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -96,20 +94,10 @@
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/cucumber_nim.shaunc.github.com-63fc3fe9-cucumber_nim.nimble\ncannot resolve package name: comandeer",
       "x": []
-    },
-    {
-      "v": "#head@ced60f5dceef4c6da7b077997068a8c9bc5ad6db",
-      "r": [
-        "nre >= 1.0.0",
-        "commandeer >= 0.10.5",
-        "tempfile >= 0.1.4"
-      ],
-      "m": "~",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:40Z",
+  "generatedAt": "2026-05-26T13:13:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

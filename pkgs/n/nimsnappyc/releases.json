@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimsnappyc",
   "fqn": "nimsnappyc.NimCompression.github.com",
-  "head": "0be12a4a36f93b1dfafecb3a9f84714b54089365",
   "author": "Dmitry Atamanov",
   "description": "Snappy-C lib wrapper for Nim",
   "license": "MIT",
@@ -14,7 +13,6 @@
     {
       "v": "0.0.1@030682479cfba5eb328c15ea115d46e1ff7bf944",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
@@ -30,17 +28,10 @@
       "a": "NimCompression's members and conributors",
       "m": "0.18.0",
       "x": []
-    },
-    {
-      "v": "#head@0be12a4a36f93b1dfafecb3a9f84714b54089365",
-      "r": [],
-      "a": "NimCompression's members and conributors",
-      "m": "0.18.0",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:16Z",
+  "generatedAt": "2026-05-26T13:17:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "web3",
   "fqn": "nim-web3.status-im.github.com",
-  "head": "aa40059eb54f516031025aefccae5c221c0a27a9",
   "author": "Status Research & Development GmbH",
   "description": "These are the humble beginnings of library similar to web3.[js|py]",
   "license": "MIT or Apache License 2.0",
@@ -23,8 +22,7 @@
         "stew",
         "stint",
         "results"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.7.0@85af8f228a7032d60572685513607fdb2d587a53",
@@ -40,8 +38,7 @@
         "stew",
         "stint",
         "results"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.6.0@d5f78ee5dffd122cf448c0884ec25da766d2f42b",
@@ -57,8 +54,7 @@
         "stew",
         "stint",
         "results"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.5.0@d8a91d040975cd3dd2a10c26456fab2d7523e8dd",
@@ -74,30 +70,11 @@
         "stew",
         "stint",
         "results"
-      ],
-      "m": "~"
-    },
-    {
-      "v": "#head@aa40059eb54f516031025aefccae5c221c0a27a9",
-      "r": [
-        "chronicles",
-        "chronos",
-        "bearssl",
-        "eth >= 0.9.0",
-        "faststreams",
-        "json_rpc >= 0.6.0",
-        "serialization >= 0.4.4",
-        "json_serialization >= 0.4.2",
-        "nimcrypto",
-        "stew",
-        "stint",
-        "results"
-      ],
-      "m": "~"
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:42Z",
+  "generatedAt": "2026-05-26T13:20:18Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -120,7 +97,6 @@
       "eth",
       "faststreams",
       "httputils",
-      "intops",
       "json_rpc",
       "json_serialization",
       "metrics",

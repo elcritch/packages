@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimegenerator",
   "fqn": "nimegenerator.nirokay.github.com",
-  "head": "502ce0018e971efafee2058b3d6941e2c9541565",
   "author": "nirokay",
   "description": "Random name/word generator.",
   "license": "GPL-3.0-only",
@@ -25,16 +24,6 @@
     {
       "v": "1.0.0@0e58198dae477be10a5eaffb4926fe8ba51af613",
       "r": [],
-      "m": "~",
-      "x": [],
-      "y": [],
-      "k": [],
-      "p": []
-    },
-    {
-      "v": "#head@502ce0018e971efafee2058b3d6941e2c9541565",
-      "r": [],
-      "m": "~",
       "x": [],
       "y": [],
       "k": [],
@@ -42,7 +31,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:41Z",
+  "generatedAt": "2026-05-26T13:16:49Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

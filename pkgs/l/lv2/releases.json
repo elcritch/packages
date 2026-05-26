@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "lv2",
   "fqn": "lv2-nim.lpirl.gitlab.com",
-  "head": "bfbd72608528fd540d4375d1217ac69bc9410867",
   "author": "Lukas Pirl",
   "description": "Nim bindings for the LV2 plugin specification.",
   "license": "GPLv3",
@@ -10,14 +9,10 @@
     {
       "v": "0.1@bfbd72608528fd540d4375d1217ac69bc9410867^",
       "r": []
-    },
-    {
-      "v": "#head@bfbd72608528fd540d4375d1217ac69bc9410867",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:12Z",
+  "generatedAt": "2026-05-26T13:15:48Z",
   "allDeps": {
     "packages": [],
     "urls": [],

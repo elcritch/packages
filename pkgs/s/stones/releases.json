@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "stones",
   "fqn": "stones.binhonglee.github.com",
-  "head": "ad9db52c1912c7de1ccfd8cf90fd7db10bf10e0c",
   "author": "BinHong Lee",
   "description": "A library of useful functions and tools for nim.",
   "license": "MIT",
@@ -17,23 +16,11 @@
     {
       "v": "0.0.1@ffcdb54c0a114f1a0eecb8fc38e1d1f2d4c3d856",
       "r": [],
-      "m": "~",
-      "s": "",
       "p": []
-    },
-    {
-      "v": "#head@ad9db52c1912c7de1ccfd8cf90fd7db10bf10e0c",
-      "r": [],
-      "s": "src",
-      "x": [
-        "test"
-      ],
-      "p": [],
-      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:20Z",
+  "generatedAt": "2026-05-26T13:19:20Z",
   "allDeps": {
     "packages": [],
     "urls": [],

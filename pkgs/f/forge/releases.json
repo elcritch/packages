@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "forge",
   "fqn": "forge.daylinmorgan.github.com",
-  "head": "7519e70e64f336397103b3d967e755d31400848d",
   "author": "Daylin Morgan",
   "description": "build nim binaries for all the platforms",
   "license": "MIT",
@@ -19,8 +18,6 @@
         "hwylterm >= 0.3.1",
         "usu #09b8ba9e"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -30,8 +27,6 @@
         "hwylterm #3f19c64a",
         "usu"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -41,8 +36,6 @@
         "hwylterm #8c3f459",
         "usu"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -52,8 +45,6 @@
         "hwylterm #8c3f459",
         "usu"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -63,8 +54,6 @@
         "hwylterm #8c3f459",
         "usu"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -74,8 +63,6 @@
         "hwylterm #8c3f459",
         "usu"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -85,8 +72,6 @@
         "hwylterm #8c3f459",
         "usu"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -96,8 +81,6 @@
         "hwylterm #07770fbd",
         "usu"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -110,8 +93,6 @@
         "forge",
         "forgecc"
       ],
-      "m": "~",
-      "s": "",
       "b": ""
     },
     {
@@ -124,8 +105,6 @@
         "forge",
         "forgecc"
       ],
-      "m": "~",
-      "s": "",
       "b": ""
     },
     {
@@ -138,8 +117,6 @@
         "forge",
         "forgecc"
       ],
-      "m": "~",
-      "s": "",
       "b": ""
     },
     {
@@ -151,24 +128,11 @@
         "forge",
         "forgecc"
       ],
-      "m": "~",
-      "s": "",
       "b": ""
-    },
-    {
-      "v": "#head@7519e70e64f336397103b3d967e755d31400848d",
-      "r": [
-        "hwylterm >= 0.3.1",
-        "usu #09b8ba9e"
-      ],
-      "m": "~",
-      "s": "",
-      "b": "",
-      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:53Z",
+  "generatedAt": "2026-05-26T13:14:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

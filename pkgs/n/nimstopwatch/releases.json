@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimstopwatch",
   "fqn": "nim-stopwatch.twist-vector.github.com",
-  "head": "6a06320cecd19ea413415b9c0fb3340a53673d52",
   "author": "Tom Krauss",
   "description": "Command line stopwatch written in Nim with split / lap support",
   "license": "Apache2",
@@ -10,14 +9,10 @@
     {
       "v": "0.1.0@4f6805a4ddbac0ea0e59133976c596e3c00c7b23",
       "r": []
-    },
-    {
-      "v": "#head@6a06320cecd19ea413415b9c0fb3340a53673d52",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:17Z",
+  "generatedAt": "2026-05-26T13:17:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

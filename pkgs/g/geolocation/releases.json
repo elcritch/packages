@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "geolocation",
   "fqn": "geolocation.HazeCS.github.com",
-  "head": "f132342badfd77635368cc894e7af86421cccd79",
   "author": "Haze",
   "description": "Retreive geolocation details from an IP",
   "license": "MIT",
@@ -10,15 +9,10 @@
     {
       "v": "1.0@5ee82da3d3a1dc271f18948d58dcf943e16c1f8a",
       "r": []
-    },
-    {
-      "v": "#head@f132342badfd77635368cc894e7af86421cccd79",
-      "r": [],
-      "d": "Retreive geolocation details from an IP address."
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:10Z",
+  "generatedAt": "2026-05-26T13:14:20Z",
   "allDeps": {
     "packages": [],
     "urls": [],

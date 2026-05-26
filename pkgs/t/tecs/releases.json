@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "tecs",
   "fqn": "tecs.nim.Timofffee.github.com",
-  "head": "967becf796fc2638d72486dc709a7af321b8fb23",
   "author": "George Linkovsky (Timofffee)",
   "description": "Simple ECS implementation for Nim",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1@967becf796fc2638d72486dc709a7af321b8fb23^",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@967becf796fc2638d72486dc709a7af321b8fb23",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:40Z",
+  "generatedAt": "2026-05-26T13:19:35Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

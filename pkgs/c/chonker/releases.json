@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "chonker",
   "fqn": "nim-chonker.juancarlospaco.github.com",
-  "head": "82b53baf643daf606c2e6d64ce95c0aa2f5ea536",
   "author": "Juan Carlos",
   "description": "Arch Linux Pacman Optimizer",
   "license": "MIT",
@@ -15,20 +14,11 @@
     {
       "v": "0.0.1@cc0a17a8bd4075042dfd0776db18eb1b4c0c92ed",
       "r": [],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@82b53baf643daf606c2e6d64ce95c0aa2f5ea536",
-      "r": [],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:09Z",
+  "generatedAt": "2026-05-26T13:12:58Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "octolog",
   "fqn": "octolog.jaar23.github.com",
-  "head": "0eeb32007532a8018f4af3b161e4b4880cee5726",
   "author": "jaar23",
   "description": "wrapped std logging library via channel for multi-threaded application",
   "license": "GPL",
@@ -13,22 +12,11 @@
       "v": "0.1.1@db9b14faf8255f52b64e6bf67c63ffb526d4d21a",
       "r": [
         "malebolgia >= 0.1.0"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@0eeb32007532a8018f4af3b161e4b4880cee5726",
-      "r": [
-        "malebolgia >= 0.1.0"
-      ],
-      "l": "GPL-3.0-or-later",
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:58Z",
+  "generatedAt": "2026-05-26T13:17:42Z",
   "allDeps": {
     "packages": [
       "malebolgia"

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimage",
   "fqn": "nimage.ethosa.github.com",
-  "head": "d683a7319c867c6cd1d856b63f407c52ad3e3821",
   "author": "Ethosa",
   "description": "The image management library written in Nim.",
   "license": "MIT",
@@ -10,37 +9,27 @@
   "releases": [
     {
       "v": "0.0.1@776643db14e066b2ef55580540919ddcac234e39",
-      "r": [],
-      "s": ""
+      "r": []
     },
     {
       "v": "0.0.2@3fe48a77f490a1ca2bdf4d7de23bf7e3aa202882",
-      "r": [],
-      "s": ""
+      "r": []
     },
     {
       "v": "0.0.3@09028c1527079202c97237cdcc26e45e4d747161",
-      "r": [],
-      "s": ""
+      "r": []
     },
     {
       "v": "0.0.4@960e8efdd0fa016144a54318eaf88d64cc895ea7",
-      "r": [],
-      "s": ""
+      "r": []
     },
     {
       "v": "0.0.5@d5bd2b4ff3f9cc5451047980f56409348eca1b48",
-      "r": [],
-      "s": ""
-    },
-    {
-      "v": "#head@d683a7319c867c6cd1d856b63f407c52ad3e3821",
-      "r": [],
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:27Z",
+  "generatedAt": "2026-05-26T13:16:38Z",
   "allDeps": {
     "packages": [],
     "urls": [],

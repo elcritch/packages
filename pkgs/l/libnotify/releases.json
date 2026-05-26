@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "libnotify",
   "fqn": "nim-libnotify.FedericoCeratto.github.com",
-  "head": "c715ca5b23377a9bceba93529339526fbca11517",
   "author": "Federico Ceratto",
   "description": "Minimalistic libnotify wrapper.",
   "license": "LGPLv3",
@@ -14,24 +13,12 @@
     {
       "v": "0.0.2@51b782c0d8a89b46b3301ceca122425ee088dcaa",
       "r": []
-    },
-    {
-      "v": "#head@c715ca5b23377a9bceba93529339526fbca11517",
-      "r": [
-        "gtk2 >= 1.3"
-      ],
-      "y": [
-        "test_libnotify.nim"
-      ],
-      "m": "0.12"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:50Z",
+  "generatedAt": "2026-05-26T13:15:28Z",
   "allDeps": {
-    "packages": [
-      "gtk2"
-    ],
+    "packages": [],
     "urls": [],
     "unresolved": []
   }

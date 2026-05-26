@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "contractabi",
   "fqn": "nim-contract-abi.status-im.github.com",
-  "head": "0a7b4cecce725bcb11ad8648035a92704a8854d3",
   "author": "Contract ABI Authors",
   "description": "ABI Encoding for Ethereum contracts",
   "license": "MIT",
@@ -155,22 +154,12 @@
         "stint",
         "upraises >= 0.1.0 & < 0.2.0"
       ]
-    },
-    {
-      "v": "#head@0a7b4cecce725bcb11ad8648035a92704a8854d3",
-      "r": [
-        "stint >= 0.8.1 & < 0.9.0",
-        "stew >= 0.2.0",
-        "nimcrypto >= 0.6.2 & < 0.8.0",
-        "questionable >= 0.10.10 & < 0.11.0"
-      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:35Z",
+  "generatedAt": "2026-05-26T13:13:14Z",
   "allDeps": {
     "packages": [
-      "intops",
       "nimcrypto > 0.4.0",
       "questionable > 0.2.0",
       "results",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "supranim",
   "fqn": "supranim.supranim.github.com",
-  "head": "2c5fde856aa81417d8a3c538f00f517607cc58e8",
   "author": "OpenPeeps",
   "description": "A full-featured web framework for Nim",
   "license": "LGPL-3.0-or-later",
@@ -21,39 +20,19 @@
         "ozark #head",
         "threading",
         "mimedb #head"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@2c5fde856aa81417d8a3c538f00f517607cc58e8",
-      "r": [
-        "semver",
-        "kapsis #head",
-        "libevent #head",
-        "flatty",
-        "openparser",
-        "emitter #head",
-        "ozark #head",
-        "threading",
-        "mimedb #head"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:29Z",
+  "generatedAt": "2026-05-26T13:19:26Z",
   "allDeps": {
     "packages": [
       "ansiparse",
       "bigints",
-      "blackpaper",
       "checksums",
       "db_connector",
       "emitter",
       "flatty",
-      "floof",
       "greskewel",
       "htmlparser",
       "illwill",

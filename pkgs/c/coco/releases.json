@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "coco",
   "fqn": "coco.samuelroy.github.com",
-  "head": "0d7b08c9acfd492db19538aceb71901da9e47def",
   "author": "Samuel Roy",
   "description": "Code coverage with line and branch support for Nim",
   "license": "MIT",
@@ -20,26 +19,12 @@
         "cligen",
         "glob"
       ],
-      "m": "~",
-      "x": [],
-      "p": []
-    },
-    {
-      "v": "#head@0d7b08c9acfd492db19538aceb71901da9e47def",
-      "r": [
-        "cligen",
-        "glob"
-      ],
-      "j": [
-        "coco.nim"
-      ],
-      "m": "0.19.0",
       "x": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:24Z",
+  "generatedAt": "2026-05-26T13:13:09Z",
   "allDeps": {
     "packages": [
       "cligen",

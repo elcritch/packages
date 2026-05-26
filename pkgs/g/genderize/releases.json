@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "genderize",
   "fqn": "genderize.nemuelw.github.com",
-  "head": "736a8d23c60cb6c9018f0fd72f70d97cec06a0e6",
   "author": "Nemuel Wainaina",
   "description": "Nim wrapper for the Genderize.io API",
   "license": "GPL-3.0-only",
@@ -14,22 +13,11 @@
       "r": [
         "jsony",
         "results"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@736a8d23c60cb6c9018f0fd72f70d97cec06a0e6",
-      "r": [
-        "jsony",
-        "results"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:07Z",
+  "generatedAt": "2026-05-26T13:14:18Z",
   "allDeps": {
     "packages": [
       "jsony",

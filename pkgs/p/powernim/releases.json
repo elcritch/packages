@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "powernim",
   "fqn": "powernim.wreed.codeberg.org",
-  "head": "d6dc45cc57a6c6ca72b3ff40371961e4d89e2882",
   "author": "Will Reed",
   "description": "Basic power menu for Linux (with systemd)",
   "license": "BSD-2-Clause",
@@ -18,24 +17,12 @@
       "r": [
         "nigui"
       ],
-      "m": "~",
-      "s": "",
-      "p": [],
-      "e": ""
-    },
-    {
-      "v": "#head@d6dc45cc57a6c6ca72b3ff40371961e4d89e2882",
-      "r": [
-        "nigui"
-      ],
-      "m": "~",
-      "s": "",
       "p": [],
       "e": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T07:30:08Z",
+  "generatedAt": "2026-05-26T13:18:14Z",
   "allDeps": {
     "packages": [
       "nigui"

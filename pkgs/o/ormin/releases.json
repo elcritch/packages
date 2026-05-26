@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "ormin",
   "fqn": "ormin.Araq.github.com",
-  "head": "c0575260626c32a52c62ab8faf27611275c64b8f",
   "author": "Araq",
   "description": "Prepared SQL statement generator. A lightweight ORM.",
   "license": "MIT",
@@ -10,50 +9,14 @@
   "releases": [
     {
       "v": "0.1.0@92ea1c33b45091b1b14f7a531a9e09277ac23c11",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@c0575260626c32a52c62ab8faf27611275c64b8f",
-      "r": [
-        "db_connector >= 0.1.0"
-      ],
-      "x": [
-        "examples"
-      ],
-      "k": [
-        "nim"
-      ],
-      "p": [
-        "tools/ormin_importer"
-      ],
-      "m": "2.0.0",
-      "f": {
-        "examples": [
-          "websocket >= 0.2.2",
-          "karax",
-          "jester"
-        ]
-      }
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:11Z",
+  "generatedAt": "2026-05-26T13:17:50Z",
   "allDeps": {
-    "packages": [
-      "asynctools",
-      "db_connector",
-      "dotenv",
-      "httpbeast",
-      "jester",
-      "karax",
-      "websocket",
-      "ws"
-    ],
+    "packages": [],
     "urls": [],
-    "unresolved": [
-      "gh:iffy/asynctools",
-      "gh:timotheecour/asynctools"
-    ]
+    "unresolved": []
   }
 }

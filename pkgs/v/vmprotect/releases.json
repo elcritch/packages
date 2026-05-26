@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "vmprotect",
   "fqn": "vmprotect.nim.ba0f3.github.com",
-  "head": "621ea653d8ddf9eb81f58069e8ff781f06b2b1ed",
   "author": "Huy Doan",
   "description": "Wrapper for VMProtect SDK",
   "license": "MIT",
@@ -11,25 +10,15 @@
   "releases": [
     {
       "v": "0.1.1@621ea653d8ddf9eb81f58069e8ff781f06b2b1ed^",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.0@1a12ea45bcc7288a8819fc804800ab050fccd3e8",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@621ea653d8ddf9eb81f58069e8ff781f06b2b1ed",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:33Z",
+  "generatedAt": "2026-05-26T13:20:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

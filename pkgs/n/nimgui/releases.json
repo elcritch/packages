@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimgui",
   "fqn": "nimgui.zacharycarter.github.com",
-  "head": "39a967b4fac88de59a5921c8adef99e4d3549cf0",
   "author": "Leonardo Mariscal",
   "description": "A new awesome nimble package",
   "license": "MIT",
@@ -15,8 +14,6 @@
     {
       "v": "0.1.0@60129c332972234a6fee9ac1b44ffbe760bb30d1",
       "r": [],
-      "m": "~",
-      "s": "",
       "k": []
     },
     {
@@ -24,8 +21,6 @@
       "r": [],
       "a": "Leonardo Mariscal & Zachary Carter",
       "d": "bindings to cimgui - https://github.com/cimgui/cimgui",
-      "m": "~",
-      "s": "",
       "k": []
     },
     {
@@ -33,8 +28,6 @@
       "r": [],
       "a": "Leonardo Mariscal & Zachary Carter",
       "d": "bindings to cimgui - https://github.com/cimgui/cimgui",
-      "m": "~",
-      "s": "",
       "k": []
     },
     {
@@ -42,22 +35,11 @@
       "r": [],
       "a": "Leonardo Mariscal & Zachary Carter",
       "d": "bindings to cimgui - https://github.com/cimgui/cimgui",
-      "m": "~",
-      "s": "",
-      "k": []
-    },
-    {
-      "v": "#head@39a967b4fac88de59a5921c8adef99e4d3549cf0",
-      "r": [],
-      "a": "Leonardo Mariscal & Zachary Carter",
-      "d": "bindings to cimgui - https://github.com/cimgui/cimgui",
-      "m": "~",
-      "s": "",
       "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:49Z",
+  "generatedAt": "2026-05-26T13:16:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

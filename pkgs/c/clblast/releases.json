@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "clblast",
   "fqn": "nim-clblast.numforge.github.com",
-  "head": "cdadb10dd85b95c9e7248f0b9661ad1e7616efe6",
   "author": "Mamy André-Ratsimbazafy",
   "description": "A wrapper for CLBlast, an OpenCL BLAS library",
   "license": "Apache License 2.0",
@@ -13,29 +12,17 @@
       "v": "0.0.1@2f1c6040d07ccf3655321f2ef2f1224da99e1069",
       "r": [
         "opencl"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.0.2@cdadb10dd85b95c9e7248f0b9661ad1e7616efe6^",
       "r": [
         "opencl"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@cdadb10dd85b95c9e7248f0b9661ad1e7616efe6",
-      "r": [
-        "opencl"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:15Z",
+  "generatedAt": "2026-05-26T13:13:03Z",
   "allDeps": {
     "packages": [
       "opencl"

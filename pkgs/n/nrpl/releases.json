@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nrpl",
   "fqn": "nrpl.vegansk.github.com",
-  "head": "15e6270295f2d5865fb95e2b47188937a0acccd5",
   "author": "Willy Heineman",
   "description": "A Nim REPL",
   "license": "MIT",
@@ -14,14 +13,10 @@
     {
       "v": "0.1.4@6d6c189ab7d1c905cc29dc678d66e9e132026f69",
       "r": []
-    },
-    {
-      "v": "#head@15e6270295f2d5865fb95e2b47188937a0acccd5",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:50Z",
+  "generatedAt": "2026-05-26T13:17:37Z",
   "allDeps": {
     "packages": [],
     "urls": [],

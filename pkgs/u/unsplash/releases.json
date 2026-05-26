@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "unsplash",
   "fqn": "nim-unsplash.juancarlospaco.github.com",
-  "head": "3ca0a9f6c1c1d7dbae79d617ccdea154204eb856",
   "author": "Juan Carlos",
   "description": "Unsplash API Client for Nim",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@e3e6af3cbb34ecd2476cb9cc886726de914a54a4",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@3ca0a9f6c1c1d7dbae79d617ccdea154204eb856",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:20Z",
+  "generatedAt": "2026-05-26T13:20:02Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

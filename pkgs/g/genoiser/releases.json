@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "genoiser",
   "fqn": "genoiser.brentp.github.com",
-  "head": "20036fa80cbc4a1a65ce125f76c2936571e7f94a",
   "author": "Brent Pedersen",
   "description": "write functions, get summaries of genomic data",
   "license": "MIT",
@@ -24,7 +23,6 @@
         "docopt >= 0.6.8",
         "kexpr"
       ],
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -36,7 +34,6 @@
         "docopt >= 0.6.8",
         "kexpr"
       ],
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -48,7 +45,6 @@
         "docopt >= 0.6.8",
         "kexpr"
       ],
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -60,26 +56,13 @@
         "docopt >= 0.6.8",
         "kexpr"
       ],
-      "s": "",
-      "x": [],
-      "k": [],
-      "p": []
-    },
-    {
-      "v": "#head@20036fa80cbc4a1a65ce125f76c2936571e7f94a",
-      "r": [
-        "hts >= 0.2.3",
-        "docopt >= 0.6.8",
-        "kexpr"
-      ],
-      "s": "",
       "x": [],
       "k": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:09Z",
+  "generatedAt": "2026-05-26T13:14:19Z",
   "allDeps": {
     "packages": [
       "docopt",

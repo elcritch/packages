@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "notifishower",
   "fqn": "notifishower.PMunch.github.com",
-  "head": "3252766e15cf6587969d6b616198298796e7237c",
   "author": "PMunch",
   "description": "Simple program to show notifications with images and actions around the screen",
   "license": "MIT",
@@ -21,8 +20,6 @@
         "kiwi",
         "termstyle"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -34,8 +31,6 @@
         "kiwi",
         "termstyle"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -47,8 +42,6 @@
         "kiwi",
         "termstyle"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -60,26 +53,11 @@
         "npeg",
         "kiwi"
       ],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@3252766e15cf6587969d6b616198298796e7237c",
-      "r": [
-        "imlib2",
-        "gh:PMunch/x11 #monitors",
-        "npeg",
-        "kiwi",
-        "termstyle"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:47Z",
+  "generatedAt": "2026-05-26T13:17:35Z",
   "allDeps": {
     "packages": [
       "docopt <= 0.3.0",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "kissfft",
   "fqn": "nim-kissfft.m13253.github.com",
-  "head": "8ac38ac8e770209e75e68c7014ef3dc6858af8c9",
   "author": "StarBrilliant",
   "description": "Wrapper of KissFFT library",
   "license": "BSD",
@@ -10,15 +9,10 @@
     {
       "v": "0.0.1@55f52c116e7e179a2c6e6379dae438c1c8258e84",
       "r": []
-    },
-    {
-      "v": "#head@8ac38ac8e770209e75e68c7014ef3dc6858af8c9",
-      "r": [],
-      "d": "Nim binding for KissFFT Fast Fourier Transform library"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:36Z",
+  "generatedAt": "2026-05-26T13:15:18Z",
   "allDeps": {
     "packages": [],
     "urls": [],

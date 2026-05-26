@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "shio",
   "fqn": "shio.arashi-software.github.com",
-  "head": "c06f0de7e4757ac21e15bdca601274ad85af3169",
   "author": "Luke",
   "description": "A quick media server in nim",
   "license": "GPL-3.0-only",
@@ -18,24 +17,11 @@
         "jester",
         "jsony"
       ],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@c06f0de7e4757ac21e15bdca601274ad85af3169",
-      "r": [
-        "jester",
-        "jsony"
-      ],
-      "b": "bin",
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:45Z",
+  "generatedAt": "2026-05-26T13:18:56Z",
   "allDeps": {
     "packages": [
       "asynctools",

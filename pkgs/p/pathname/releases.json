@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "pathname",
   "fqn": "nimpathname.RaimundHuebel.github.com",
-  "head": "eab6a63e70b8adf6c3eb14ea02f8475ea557a11f",
   "author": "Raimund Hübel",
   "description": "Library to support work with pathnames in Windows and Posix-based systems. Inspired by Rubies pathname.",
   "license": "MIT",
@@ -11,25 +10,15 @@
   "releases": [
     {
       "v": "0.1.1@9f691263887f79d9e48802f04ea58664bf807f66",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.0@db0dc60e2972c0c5e052f26d8a19a92500c6fcf4",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@eab6a63e70b8adf6c3eb14ea02f8475ea557a11f",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:25Z",
+  "generatedAt": "2026-05-26T13:18:00Z",
   "allDeps": {
     "packages": [],
     "urls": [],

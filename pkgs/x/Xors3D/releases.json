@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "Xors3D",
   "fqn": "Xors3D-for-Nim.Guevara-chan.github.com",
-  "head": "d1a30a5f6d69cc634e466ef22b02e89120ddb919",
   "author": "Guevara-chan",
   "description": "Blitz3D-esque DX9 engine for Nim",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@a41c4a405b372223d477dc269cbbf7eac15b0fe5",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@d1a30a5f6d69cc634e466ef22b02e89120ddb919",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:37Z",
+  "generatedAt": "2026-05-26T13:11:48Z",
   "allDeps": {
     "packages": [],
     "urls": [],

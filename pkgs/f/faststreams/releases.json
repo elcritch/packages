@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "faststreams",
   "fqn": "nim-faststreams.status-im.github.com",
-  "head": "50889cd16ec8771106cdd0eeea460039e8571e06",
   "author": "Status Research & Development GmbH",
   "description": "Nearly zero-overhead input/output streams for Nim",
   "license": "Apache License 2.0",
@@ -17,7 +16,6 @@
         "stew >= 0.2.0",
         "unittest2"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -26,7 +24,6 @@
         "stew >= 0.2.0",
         "unittest2"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -35,7 +32,6 @@
         "stew >= 0.2.0",
         "unittest2"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -44,7 +40,6 @@
         "stew >= 0.2.0",
         "unittest2"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -53,21 +48,11 @@
         "stew >= 0.2.0",
         "unittest2"
       ],
-      "m": "~",
-      "x": []
-    },
-    {
-      "v": "#head@50889cd16ec8771106cdd0eeea460039e8571e06",
-      "r": [
-        "stew >= 0.2.0",
-        "unittest2"
-      ],
-      "m": "~",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:31Z",
+  "generatedAt": "2026-05-26T13:13:54Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

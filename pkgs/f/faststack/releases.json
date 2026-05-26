@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "faststack",
   "fqn": "FastStack.Vladar4.github.com",
-  "head": "8aa7a65277eca78136e055c980126537d8fe2711",
   "author": "Vladar4",
   "description": "Dynamically resizable data structure optimized for fast iteration.",
   "license": "MIT",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "1.0.0@341029efa61650deb07630c5c61b4733e368289f",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@8aa7a65277eca78136e055c980126537d8fe2711",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:30Z",
+  "generatedAt": "2026-05-26T13:13:53Z",
   "allDeps": {
     "packages": [],
     "urls": [],

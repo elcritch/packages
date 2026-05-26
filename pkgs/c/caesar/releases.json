@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "caesar",
   "fqn": "caesar.ph4mished.github.com",
-  "head": "ac187939e0b9e02ce3df0b23d360f2f9d73cc0a7",
   "author": "ph4mished",
   "description": "Caesar cipher encoding and decoding tool",
   "license": "MIT",
@@ -15,27 +14,16 @@
     {
       "v": "0.2.0@94814eb1f0a1ef5de8c68d438181743250f8e552",
       "r": [],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
       "v": "0.1.0@e05936fa6cfc99517b0c6d4cf624eb67057b1e8f",
       "r": [],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@ac187939e0b9e02ce3df0b23d360f2f9d73cc0a7",
-      "r": [],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:56Z",
+  "generatedAt": "2026-05-26T13:12:46Z",
   "allDeps": {
     "packages": [],
     "urls": [],

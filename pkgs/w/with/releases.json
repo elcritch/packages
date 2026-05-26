@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "with",
   "fqn": "with.zevv.github.com",
-  "head": "721ed4622cd12ed5601530532b1255d12b4536a3",
   "author": "zevv",
   "description": "Simple 'with' macro for Nim",
   "license": "MIT",
@@ -14,19 +13,16 @@
     {
       "v": "0.6.0@2454a7744b567390b0d460f2019dbfbc595e1a5f",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.5.0@bd36a44410dd8365649e425ccade817178628e12",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.4.0@2f95909c767605e06670dc70f5cffd6b9284f192",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
@@ -40,16 +36,10 @@
       "r": [],
       "m": "0.17.1",
       "x": []
-    },
-    {
-      "v": "#head@721ed4622cd12ed5601530532b1255d12b4536a3",
-      "r": [],
-      "m": "~",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:57:00Z",
+  "generatedAt": "2026-05-26T13:20:30Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

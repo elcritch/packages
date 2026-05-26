@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "react16",
   "fqn": "react-16.nim.kristianmandrup.github.com",
-  "head": "25e9874a77decf971e7e639e60b31e963f4a8df8",
   "author": "Andrea Ferretti and Kristian Mandrup",
   "description": "Sample React 16.6 SPA with hooks using Nim",
   "license": "Apache2",
@@ -14,54 +13,41 @@
     {
       "v": "0.3.7@25e9874a77decf971e7e639e60b31e963f4a8df8^",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.3.6@07f194ad389b8a1a22364eda545a6f034beef229",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.3.5@ac41377cb11eaca237c2604e5c4f03c12e4a42a3",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.3.4@bffff407d9e3aac051f485b1014589a5aeccba3c",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.3.3@1148942868b0c34e039b08e38e3b70ded0204b34",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.3.2@412b6b452260a94ddd51a94a237db290aeb465aa",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.3.1@84b0d880cc95d0ed5250c379267072bc9620ff17",
       "r": [],
-      "m": "~",
-      "x": []
-    },
-    {
-      "v": "#head@25e9874a77decf971e7e639e60b31e963f4a8df8",
-      "r": [],
-      "m": "~",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:09Z",
+  "generatedAt": "2026-05-26T13:18:30Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nuuid",
   "fqn": "nim-only-uuid.yglukhov.github.com",
-  "head": "078f473fc811793119df55b766a3670a62f988c2",
   "author": "Willy Heineman",
   "description": "A Nim only UUID generator",
   "license": "MIT",
@@ -10,15 +9,10 @@
     {
       "v": "0.1.0@d91d0dc13f2d4def5890fc517b0bca8abe9d4d31",
       "r": []
-    },
-    {
-      "v": "#head@078f473fc811793119df55b766a3670a62f988c2",
-      "r": [],
-      "d": "A Nim source only UUID generator"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:54Z",
+  "generatedAt": "2026-05-26T13:17:39Z",
   "allDeps": {
     "packages": [],
     "urls": [],

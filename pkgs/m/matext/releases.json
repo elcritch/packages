@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "matext",
   "fqn": "matext.~xigoi.git.sr.ht",
-  "head": "f13d8fbb826b639c7f5838a3d78ece6cffe51d11",
   "author": "Adam Blažek",
   "description": "Render LaTeX math as multiline Unicode text",
   "license": "GPL-3.0-or-later",
@@ -21,8 +20,6 @@
         "cligen >= 1.5.21",
         "honeycomb >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -32,8 +29,6 @@
         "cligen >= 1.5.21",
         "honeycomb >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -43,8 +38,6 @@
         "cligen >= 1.5.21",
         "honeycomb >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -54,8 +47,6 @@
         "cligen >= 1.5.21",
         "honeycomb >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -65,8 +56,6 @@
         "cligen >= 1.5.21",
         "honeycomb >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -76,8 +65,6 @@
         "cligen >= 1.5.21",
         "honeycomb >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -87,8 +74,6 @@
         "cligen >= 1.5.21",
         "honeycomb >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -98,8 +83,6 @@
         "cligen >= 1.5.21",
         "honeycomb >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -109,8 +92,6 @@
         "cligen >= 1.5.21",
         "honeycomb >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -120,25 +101,12 @@
         "cligen >= 1.5.21",
         "honeycomb >= 0.1.1"
       ],
-      "m": "~",
-      "s": "",
-      "k": [],
-      "p": []
-    },
-    {
-      "v": "#head@f13d8fbb826b639c7f5838a3d78ece6cffe51d11",
-      "r": [
-        "cligen >= 1.5.21",
-        "honeycomb >= 0.1.2"
-      ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T07:26:42Z",
+  "generatedAt": "2026-05-26T13:15:53Z",
   "allDeps": {
     "packages": [
       "cligen",

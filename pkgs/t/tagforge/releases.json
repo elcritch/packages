@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "tagforge",
   "fqn": "TagForge-Nim.Nimberite-Development.github.com",
-  "head": "19c93cca3eb6dd664952f3cb33bba40dedcbc035",
   "author": "Yu-Vitaqua-fer-Chronos",
   "description": "A library made for the serialisation and deserialisation of MC NBT!",
   "license": "Apache-2.0",
@@ -14,31 +13,18 @@
       "r": [
         "zippy >= 0.10.11",
         "gh:Yu-Vitaqua-fer-Chronos/MUTF-8 >= 0.1.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.0@37351094f01a489908d5d6f415ee116261d068dd",
       "r": [
         "zippy >= 0.10.11",
         "gh:Yu-Vitaqua-fer-Chronos/MUTF-8 >= 0.1.0"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@19c93cca3eb6dd664952f3cb33bba40dedcbc035",
-      "r": [
-        "zippy >= 0.10.11",
-        "gh:Yu-Vitaqua-fer-Chronos/MUTF-8 >= 0.1.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:35Z",
+  "generatedAt": "2026-05-26T13:19:31Z",
   "allDeps": {
     "packages": [
       "zippy"

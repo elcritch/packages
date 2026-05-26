@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "argon2_bind",
   "fqn": "argon2_bind.D-Nice.github.com",
-  "head": "014b22d17a409c0b80753ea709e5cbc395b0e918",
   "author": "D-Nice",
   "description": "Bindings for the reference Argon2 C lib",
   "license": "Apache-2.0",
@@ -18,27 +17,16 @@
     {
       "v": "0.1.1@8e3065d05f040ab4570f78d93a308a6402cd1cb5",
       "r": [],
-      "m": "~",
-      "s": "",
       "k": []
     },
     {
       "v": "0.1.0@c325a8d280313e02de420b9b69434cf6220d36eb",
       "r": [],
-      "m": "~",
-      "s": "",
-      "k": []
-    },
-    {
-      "v": "#head@014b22d17a409c0b80753ea709e5cbc395b0e918",
-      "r": [],
-      "m": "~",
-      "s": "",
       "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:51Z",
+  "generatedAt": "2026-05-26T13:11:58Z",
   "allDeps": {
     "packages": [],
     "urls": [],

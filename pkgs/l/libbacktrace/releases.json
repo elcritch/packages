@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "libbacktrace",
   "fqn": "nim-libbacktrace.status-im.github.com",
-  "head": "af60500cb0383231065f1d6624beeeefa308d085",
   "author": "Status Research & Development GmbH",
   "description": "Nim wrapper for libbacktrace",
   "license": "MIT or Apache License 2.0",
@@ -22,7 +21,6 @@
       "v": "0.1.0@ebc972d99769633b9ef3ee766778ee5aa1996499",
       "r": [],
       "h": true,
-      "m": "~",
       "i": [],
       "j": []
     },
@@ -30,7 +28,6 @@
       "v": "0.0.9@d8bd4ce5c46bb6d2f984f6b3f3d7380897d95ecb",
       "r": [],
       "h": true,
-      "m": "~",
       "i": [],
       "j": []
     },
@@ -124,24 +121,10 @@
       ],
       "m": "1.0",
       "i": []
-    },
-    {
-      "v": "#head@af60500cb0383231065f1d6624beeeefa308d085",
-      "r": [],
-      "k": [
-        "nim",
-        "h",
-        "c",
-        "cpp",
-        "in"
-      ],
-      "m": "2.0",
-      "i": [],
-      "j": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:46Z",
+  "generatedAt": "2026-05-26T13:15:25Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

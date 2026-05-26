@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "sharedmempool",
   "fqn": "sharedmempool.mikra01.github.com",
-  "head": "3529122d5b4787c00bde37e93031284ba93845d2",
   "author": "Michael Krauter",
   "description": "sharedmemorypool implementation in Nim",
   "license": "MIT",
@@ -14,18 +13,11 @@
     {
       "v": "0.1.0@072b9ea7ba2598ad2d5b52213d72bb7aadc9b5a4",
       "r": [],
-      "m": "~",
-      "x": []
-    },
-    {
-      "v": "#head@3529122d5b4787c00bde37e93031284ba93845d2",
-      "r": [],
-      "m": "~",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:44Z",
+  "generatedAt": "2026-05-26T13:18:55Z",
   "allDeps": {
     "packages": [],
     "urls": [],

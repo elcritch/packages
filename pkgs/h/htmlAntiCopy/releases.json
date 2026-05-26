@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "htmlAntiCopy",
   "fqn": "htmlAntiCopy.thisago.github.com",
-  "head": "040e9efb83064eb0415a16e083a83da3a24cb61e",
   "author": "Thiago Navarro",
   "description": "Block copy of any text in HTML",
   "license": "MIT",
@@ -20,32 +19,19 @@
       "v": "0.1.0@9098fa34646622ef9cc0f27e946cfb9480314c16",
       "r": [],
       "k": [],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
     {
       "v": "0.1.1@735f9961cad2e518d4ebfdcc0ec5835f49298b9d",
       "r": [],
-      "m": "~",
-      "s": "",
-      "b": "",
-      "k": [],
-      "p": []
-    },
-    {
-      "v": "#head@040e9efb83064eb0415a16e083a83da3a24cb61e",
-      "r": [],
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:54Z",
+  "generatedAt": "2026-05-26T13:14:50Z",
   "allDeps": {
     "packages": [],
     "urls": [],

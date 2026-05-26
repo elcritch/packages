@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "mmgeoip",
   "fqn": "nim-mmgeoip.FedericoCeratto.github.com",
-  "head": "c7b84ce31a2f5d240f97294459d63ed9849e8447",
   "author": "Federico Ceratto",
   "description": "MaxMind GeoIP library",
   "license": "LGPLv2.1",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "0.1.0@3736b4f6d58404f3013233ceb89ce563feebfa59",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@c7b84ce31a2f5d240f97294459d63ed9849e8447",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:37Z",
+  "generatedAt": "2026-05-26T13:16:04Z",
   "allDeps": {
     "packages": [],
     "urls": [],

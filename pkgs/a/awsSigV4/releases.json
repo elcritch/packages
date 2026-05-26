@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "awsSigV4",
   "fqn": "nim_awsSigV4.ThomasTJdev.github.com",
-  "head": "6e23455792456a22ef72d9d3309b473290325387",
   "author": "ThomasTJdev",
   "description": "Sigv4 for AWS",
   "license": "MIT",
@@ -13,37 +12,23 @@
       "v": "0.0.3@6e23455792456a22ef72d9d3309b473290325387^",
       "r": [
         "crunchy 0.1.11"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.0.2@6be9c1a07057503e849492188b99175280bbcb03",
       "r": [
         "crunchy 0.1.11"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.0.1@4b4f7167ef668e1cd50df7d1fe96ab40805bdc2a",
       "r": [
         "gh:ThomasTJdev/crunchy >= 0.1.11"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@6e23455792456a22ef72d9d3309b473290325387",
-      "r": [
-        "crunchy 0.1.11"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:11Z",
+  "generatedAt": "2026-05-26T13:12:13Z",
   "allDeps": {
     "packages": [
       "crunchy > 0.0.1",

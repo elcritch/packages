@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "finalseg",
   "fqn": "finalseg.bung87.github.com",
-  "head": "5c9911ba07f18d0aa4f5b782c4cf2b9b7baf9a6c",
   "author": "zhoupeng",
   "description": "jieba's finalseg port to nim",
   "license": "MIT",
@@ -11,26 +10,13 @@
   "releases": [
     {
       "v": "0.1.0@6136792a930177176cc186d93c9046299fc1d7fb",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@5c9911ba07f18d0aa4f5b782c4cf2b9b7baf9a6c",
-      "r": [
-        "unicodedb"
-      ],
-      "a": "bung87",
-      "m": "0.19.0",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:45Z",
+  "generatedAt": "2026-05-26T13:14:02Z",
   "allDeps": {
-    "packages": [
-      "unicodedb"
-    ],
+    "packages": [],
     "urls": [],
     "unresolved": []
   }

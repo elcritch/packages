@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "libp2p",
   "fqn": "nim-libp2p.vacp2p.github.com",
-  "head": "cba434c4943fbf87807ad7161424a7e32231d1c5",
   "author": "Status Research & Development GmbH",
   "description": "LibP2P implementation",
   "license": "MIT",
@@ -21,7 +20,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
       "x": []
     },
     {
@@ -29,7 +27,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
       "x": []
     },
     {
@@ -37,7 +34,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
       "x": []
     },
     {
@@ -45,7 +41,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
       "x": []
     },
     {
@@ -53,7 +48,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
       "x": []
     },
     {
@@ -61,7 +55,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
       "x": []
     },
     {
@@ -69,7 +62,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
       "x": []
     },
     {
@@ -77,7 +69,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
       "x": []
     },
     {
@@ -97,7 +88,6 @@
         "quic >= 0.2.16",
         "gh:vacp2p/nim-jwt #18f8378de52b241f321c1f9ea905456e89b95c6f"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -117,7 +107,6 @@
         "quic >= 0.2.10",
         "gh:vacp2p/nim-jwt #18f8378de52b241f321c1f9ea905456e89b95c6f"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -331,41 +320,10 @@
       ],
       "m": "1.2.0",
       "x": []
-    },
-    {
-      "v": "#head@cba434c4943fbf87807ad7161424a7e32231d1c5",
-      "r": [
-        "nimcrypto >= 0.6.0",
-        "dnsclient >= 0.3.0 & < 0.4.0",
-        "bearssl >= 0.2.7",
-        "gh:vacp2p/nim-boringssl >= 0.0.4",
-        "chronicles >= 0.11.0",
-        "chronos >= 4.2.2",
-        "metrics",
-        "secp256k1",
-        "stew >= 0.4.2",
-        "unittest2",
-        "results",
-        "serialization",
-        "lsquic >= 0.4.1",
-        "protobuf_serialization >= 0.4.0",
-        "websock >= 0.4.0",
-        "gh:vacp2p/nim-jwt #057ec95eb5af0eea9c49bfe9025b3312c95dc5f2"
-      ],
-      "x": [
-        "cbind",
-        "examples",
-        "interop",
-        "performance",
-        "simulation",
-        "tests",
-        "tools"
-      ],
-      "m": "2.2.4"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:13Z",
+  "generatedAt": "2026-05-26T13:15:50Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -434,12 +392,9 @@
       "faststreams <= 1.13.0",
       "httputils <= 1.13.0",
       "json_serialization <= 1.13.0",
-      "lsquic",
       "metrics <= 1.13.0",
       "ngtcp2 > 1.10.1 & <= 1.13.0",
       "nimcrypto <= 1.13.0",
-      "npeg",
-      "protobuf_serialization",
       "quic > 1.10.1 & <= 1.13.0",
       "results <= 1.13.0",
       "secp256k1 <= 1.13.0",
@@ -455,7 +410,6 @@
     "unresolved": [
       "gh:status-im/nim-mbedtls",
       "gh:status-im/nim-quic",
-      "gh:vacp2p/nim-boringssl",
       "gh:vacp2p/nim-jwt"
     ]
   }

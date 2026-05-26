@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "getopty",
   "fqn": "getopty.amnr.github.com",
-  "head": "1dbb0809a6b410a3abe2f766fcedefcd9ffc0bb3",
   "author": "Amun",
   "description": "POSIX compliant command line parser",
   "license": "MIT or NCSA",
@@ -10,19 +9,10 @@
     {
       "v": "1.0.0@1dbb0809a6b410a3abe2f766fcedefcd9ffc0bb3^",
       "r": []
-    },
-    {
-      "v": "#head@1dbb0809a6b410a3abe2f766fcedefcd9ffc0bb3",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T13:07:31Z",
-  "allDeps": {
-    "packages": [],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T13:14:21Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -35,5 +25,10 @@
       "v1.0.0": "1.0.0"
     },
     "latest": "v1.0.0"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
   }
 }

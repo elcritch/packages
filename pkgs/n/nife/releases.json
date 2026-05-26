@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nife",
   "fqn": "NiFE.ANSI-D.github.com",
-  "head": "5c2b3bf3cc668e717aa08b297516831c5dfd26a3",
   "author": "ANSI-D",
   "description": "Minimal terminal file manager inspired by Ranger FM",
   "license": "GPL-3.0",
@@ -20,8 +19,6 @@
       "v": "0.1.2@fba0169e22a17259ffee5cf492cdfb2b94574558",
       "r": [],
       "h": true,
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
@@ -29,38 +26,13 @@
     {
       "v": "0.1.1@24167483da7980d00fa98e3ce0206ecf58f9607f",
       "r": [],
-      "m": "~",
-      "s": "",
-      "b": "",
-      "k": [],
-      "p": []
-    },
-    {
-      "v": "#head@5c2b3bf3cc668e717aa08b297516831c5dfd26a3",
-      "r": [],
-      "h": true,
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:11Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "v.0.1.2"
-    ],
-    "tagVersions": {
-      "v.0.1.2": "0.1.2"
-    },
-    "latest": "v.0.1.2"
-  },
+  "generatedAt": "2026-05-26T13:16:27Z",
   "allDeps": {
     "packages": [],
     "urls": [],

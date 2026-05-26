@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "treesitter_ocaml",
   "fqn": "nimtreesitter.genotrance.github.com",
-  "head": "c6975d8c8d288e3499e665f1b3f5cdd299df1e8f",
   "releases": [
     {
       "v": "0.1.1@c6975d8c8d288e3499e665f1b3f5cdd299df1e8f^",
@@ -15,16 +14,10 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file"
-    },
-    {
-      "v": "#head@c6975d8c8d288e3499e665f1b3f5cdd299df1e8f",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "ambiguous nimble file"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:07Z",
+  "generatedAt": "2026-05-26T13:19:51Z",
   "allDeps": {
     "packages": [],
     "urls": [],

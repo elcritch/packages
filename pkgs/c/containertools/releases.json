@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "containertools",
   "fqn": "containertools.ilmanzo.github.com",
-  "head": "103fe782896f615c4de8a8f73deb9f50093b2e4e",
   "author": "Andrea Manzini",
   "description": "A library to handle container file",
   "license": "GPL-3.0",
@@ -13,44 +12,17 @@
       "v": "0.2.2@f2d8db3d1817780ac162d2e6fedf0bbf2bbb51b7",
       "r": [
         "unittest2"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.0@a4b5750cfb674ddc331fec2c92c2e01827884c13",
       "r": [
         "unittest2"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@103fe782896f615c4de8a8f73deb9f50093b2e4e",
-      "r": [
-        "unittest2"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:29Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "v0.1.0",
-      "v0.2.2"
-    ],
-    "tagVersions": {
-      "v0.1.0": "0.1.0",
-      "v0.2.2": "0.2.2"
-    },
-    "latest": "v0.2.2"
-  },
+  "generatedAt": "2026-05-26T13:13:12Z",
   "allDeps": {
     "packages": [
       "unittest2"

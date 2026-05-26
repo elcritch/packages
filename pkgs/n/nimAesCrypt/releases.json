@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimAesCrypt",
   "fqn": "nimAesCrypt.maxDcb.github.com",
-  "head": "fc023fcd7e0c37e39a68118de46b89033047bce4",
   "author": "Maxime de Caumia Baillenx",
   "description": "Nim file-encryption module that uses AES256-CBC to encrypt/decrypt files.",
   "license": "Apache 2.0",
@@ -12,19 +11,11 @@
       "v": "0.1.0@fc023fcd7e0c37e39a68118de46b89033047bce4^",
       "r": [
         "nimcrypto"
-      ],
-      "m": "~"
-    },
-    {
-      "v": "#head@fc023fcd7e0c37e39a68118de46b89033047bce4",
-      "r": [
-        "nimcrypto"
-      ],
-      "m": "~"
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:15Z",
+  "generatedAt": "2026-05-26T13:16:31Z",
   "allDeps": {
     "packages": [
       "nimcrypto"

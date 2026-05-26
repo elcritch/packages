@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "batmon",
   "fqn": "batmon.pswilde.codeberg.org",
-  "head": "1dcfdc43181d1b4638f215985b70832615b528ce",
   "author": "Paul Wilde",
   "description": "BatMon - Monitor your Battery",
   "license": "BSD-3-Clause",
@@ -19,8 +18,6 @@
     {
       "v": "0.2.4@1dcfdc43181d1b4638f215985b70832615b528ce^",
       "r": [],
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
@@ -28,8 +25,6 @@
     {
       "v": "0.2.3@728c7daba525bf7c2015eedefcfb16809cba9a52",
       "r": [],
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
@@ -37,8 +32,6 @@
     {
       "v": "0.2.2@1477e1bd13c83ab10704f56081fd1e627c63f94f",
       "r": [],
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
@@ -46,24 +39,13 @@
     {
       "v": "0.2.1@e31fccd4d4544c3f465560d8d56c96c8b0cbeed2",
       "r": [],
-      "m": "~",
-      "s": "",
-      "b": "",
-      "k": [],
-      "p": []
-    },
-    {
-      "v": "#head@1dcfdc43181d1b4638f215985b70832615b528ce",
-      "r": [],
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:22Z",
+  "generatedAt": "2026-05-26T13:12:21Z",
   "allDeps": {
     "packages": [],
     "urls": [],

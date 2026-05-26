@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nmiline",
   "fqn": "NmiLine.mzteruru52.github.com",
-  "head": "ba6246686f91335897e039d49a8df31f79fce502",
   "author": "Teruki Tada",
   "description": "Plotting tool using NiGui",
   "license": "MIT",
@@ -16,15 +15,11 @@
     {
       "v": "1.1@cbbf08ca0ec648aaf4c068b0a16cf2e0406101f6",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
       "v": "1.0.1@128199c424d5c7b00fb380c55a60c0e62956d383",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
@@ -32,20 +27,11 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "s": "",
-      "x": []
-    },
-    {
-      "v": "#head@ba6246686f91335897e039d49a8df31f79fce502",
-      "r": [],
-      "m": "~",
-      "s": "",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:35Z",
+  "generatedAt": "2026-05-26T13:17:24Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

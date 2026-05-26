@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimterop",
   "fqn": "nimterop.genotrance.github.com",
-  "head": "2532ce0d3c4b7e5a2be94ebde22d63ec9f0eb6d3",
   "author": "genotrance",
   "description": "C/C++ interop for Nim",
   "license": "MIT",
@@ -25,7 +24,6 @@
         "cligen >= 1.0.0"
       ],
       "j": [],
-      "m": "~",
       "i": [],
       "p": []
     },
@@ -36,7 +34,6 @@
         "cligen >= 1.0.0"
       ],
       "j": [],
-      "m": "~",
       "i": [],
       "p": []
     },
@@ -50,7 +47,6 @@
         "nimterop/toast"
       ],
       "j": [],
-      "m": "~",
       "i": []
     },
     {
@@ -63,7 +59,6 @@
         "nimterop/toast"
       ],
       "j": [],
-      "m": "~",
       "i": []
     },
     {
@@ -76,7 +71,6 @@
         "nimterop/toast"
       ],
       "j": [],
-      "m": "~",
       "i": []
     },
     {
@@ -89,7 +83,6 @@
         "nimterop/toast"
       ],
       "j": [],
-      "m": "~",
       "i": []
     },
     {
@@ -102,7 +95,6 @@
         "nimterop/toast"
       ],
       "j": [],
-      "m": "~",
       "i": []
     },
     {
@@ -115,7 +107,6 @@
         "nimterop/toast"
       ],
       "j": [],
-      "m": "~",
       "i": []
     },
     {
@@ -128,7 +119,6 @@
         "nimterop/toast"
       ],
       "j": [],
-      "m": "~",
       "i": []
     },
     {
@@ -141,7 +131,6 @@
         "nimterop/toast"
       ],
       "j": [],
-      "m": "~",
       "i": []
     },
     {
@@ -154,7 +143,6 @@
         "nimterop/toast"
       ],
       "j": [],
-      "m": "~",
       "i": []
     },
     {
@@ -167,7 +155,6 @@
         "nimterop/toast"
       ],
       "j": [],
-      "m": "~",
       "i": []
     },
     {
@@ -180,7 +167,6 @@
         "nimterop/toast"
       ],
       "j": [],
-      "m": "~",
       "i": []
     },
     {
@@ -193,7 +179,6 @@
         "nimterop/toast"
       ],
       "j": [],
-      "m": "~",
       "i": []
     },
     {
@@ -206,7 +191,6 @@
         "nimterop/toast"
       ],
       "j": [],
-      "m": "~",
       "i": []
     },
     {
@@ -219,7 +203,6 @@
         "nimterop/toast"
       ],
       "j": [],
-      "m": "~",
       "i": []
     },
     {
@@ -232,7 +215,6 @@
         "nimterop/toast"
       ],
       "j": [],
-      "m": "~",
       "i": []
     },
     {
@@ -245,7 +227,6 @@
         "nimterop/toast"
       ],
       "j": [],
-      "m": "~",
       "i": []
     },
     {
@@ -258,7 +239,6 @@
         "nimterop/toast"
       ],
       "j": [],
-      "m": "~",
       "i": []
     },
     {
@@ -271,7 +251,6 @@
         "nimterop/toast"
       ],
       "j": [],
-      "m": "~",
       "i": []
     },
     {
@@ -284,7 +263,6 @@
         "nimterop/toast"
       ],
       "j": [],
-      "m": "~",
       "i": []
     },
     {
@@ -297,7 +275,6 @@
         "nimterop/toast"
       ],
       "j": [],
-      "m": "~",
       "i": []
     },
     {
@@ -310,7 +287,6 @@
         "nimterop/toast"
       ],
       "j": [],
-      "m": "~",
       "i": []
     },
     {
@@ -323,7 +299,6 @@
         "nimterop/toast"
       ],
       "j": [],
-      "m": "~",
       "i": []
     },
     {
@@ -520,21 +495,10 @@
       "m": "0.19.2",
       "i": [],
       "j": []
-    },
-    {
-      "v": "#head@2532ce0d3c4b7e5a2be94ebde22d63ec9f0eb6d3",
-      "r": [
-        "regex >= 0.15.0",
-        "cligen >= 1.0.0"
-      ],
-      "j": [],
-      "m": "~",
-      "i": [],
-      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:21Z",
+  "generatedAt": "2026-05-26T13:17:15Z",
   "allDeps": {
     "packages": [
       "cligen",

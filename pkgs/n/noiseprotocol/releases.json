@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "noiseprotocol",
   "fqn": "nim-noise.kaichaosun.github.com",
-  "head": "378ed78c1dfcbf4477cefa6b4489a539c1ebcea2",
   "author": "kaichaosun",
   "description": "A new awesome nimble package",
   "license": "MIT",
@@ -15,8 +14,7 @@
         "nimcrypto",
         "monocypher",
         "stew"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.0.1@cf8b5c1c54049b066a40d4f379906569a172702c",
@@ -25,22 +23,11 @@
         "nimcrypto",
         "monocypher",
         "stew"
-      ],
-      "m": "~"
-    },
-    {
-      "v": "#head@378ed78c1dfcbf4477cefa6b4489a539c1ebcea2",
-      "r": [
-        "bearssl >= 0.2.5",
-        "nimcrypto",
-        "monocypher",
-        "stew"
-      ],
-      "m": "~"
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:39Z",
+  "generatedAt": "2026-05-26T13:17:28Z",
   "allDeps": {
     "packages": [
       "bearssl",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "orgtables",
   "fqn": "orgtables.Vindaar.github.com",
-  "head": "34d97a920c6b43d5dbd32c2e29ad47bf116f8d65",
   "author": "Vindaar",
   "description": "A library to turn Nim data into Org tables",
   "license": "MIT",
@@ -10,22 +9,15 @@
   "releases": [
     {
       "v": "0.1.1@34d97a920c6b43d5dbd32c2e29ad47bf116f8d65^",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "0.1.0@034b0c1dd5b3fd24702083862f698679f65f0699",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@34d97a920c6b43d5dbd32c2e29ad47bf116f8d65",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:10Z",
+  "generatedAt": "2026-05-26T13:17:50Z",
   "allDeps": {
     "packages": [],
     "urls": [],

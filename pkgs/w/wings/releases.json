@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "wings",
   "fqn": "wings.binhonglee.github.com",
-  "head": "bdae4925470c0a88066aefad49a15cbfc63db036",
   "author": "BinHong Lee",
   "description": "A simple cross language struct and enum file generator.",
   "license": "MIT",
@@ -25,8 +24,6 @@
         "stones #devel",
         "checksums"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -36,8 +33,6 @@
       "r": [
         "stones #devel"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -47,8 +42,6 @@
       "r": [
         "stones #devel"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -58,8 +51,6 @@
       "r": [
         "stones #devel"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -73,7 +64,6 @@
         "wings"
       ],
       "m": "1.0.0",
-      "s": "",
       "x": [],
       "k": []
     },
@@ -86,7 +76,6 @@
         "wings"
       ],
       "m": "1.0.0",
-      "s": "",
       "x": [],
       "k": []
     },
@@ -99,7 +88,6 @@
         "wings"
       ],
       "m": "1.0.0",
-      "s": "",
       "x": [],
       "k": []
     },
@@ -110,7 +98,6 @@
         "wings"
       ],
       "m": "1.0.0",
-      "s": "",
       "x": [],
       "k": []
     },
@@ -122,24 +109,11 @@
       ],
       "m": "0.17.2",
       "k": [],
-      "s": "",
       "x": []
-    },
-    {
-      "v": "#head@bdae4925470c0a88066aefad49a15cbfc63db036",
-      "r": [
-        "stones #devel",
-        "checksums"
-      ],
-      "m": "~",
-      "s": "",
-      "x": [],
-      "k": [],
-      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:57Z",
+  "generatedAt": "2026-05-26T13:20:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

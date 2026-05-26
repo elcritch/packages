@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "httpform",
   "fqn": "httpform.tulayang.github.com",
-  "head": "10a25d6967dd3208bf964116add3491e5ac7360d",
   "author": "Wang Tong; Akito",
   "description": "Http request form parser",
   "license": "MIT",
@@ -10,24 +9,16 @@
   "releases": [
     {
       "v": "0.2.0@a30e9c7202093c0ac1704230734d41cbbc05528a",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "0.1.0@7e081037fd96e78b4f8f3a75410cca07f489bdd1",
       "r": [],
-      "a": "Wang Tong",
-      "m": "~"
-    },
-    {
-      "v": "#head@10a25d6967dd3208bf964116add3491e5ac7360d",
-      "r": [],
-      "a": "Wang Tong",
-      "m": "~"
+      "a": "Wang Tong"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:57Z",
+  "generatedAt": "2026-05-26T13:14:52Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

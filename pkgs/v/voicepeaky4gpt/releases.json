@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "voicepeaky4gpt",
   "fqn": "voicepeaky4gpt.solaoi.github.com",
-  "head": "f944031430c2e8216601688440c67a9438fbc4ac",
   "author": "solaoi",
   "description": "Voicepeak Server With GPT",
   "license": "MIT",
@@ -17,22 +16,11 @@
       "r": [
         "httpbeast >= 0.4.1"
       ],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@f944031430c2e8216601688440c67a9438fbc4ac",
-      "r": [
-        "httpbeast >= 0.4.1"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:34Z",
+  "generatedAt": "2026-05-26T13:20:12Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

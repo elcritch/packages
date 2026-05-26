@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "pomTimer",
   "fqn": "pomTimer.MnlPhlp.github.com",
-  "head": "2d3c09fe66bf9636287f04cfe5089255f82580f9",
   "author": "MnlPhlp",
   "description": "A simple pomodoro timer for the comandline with cli-output and notifications.",
   "license": "MIT",
@@ -20,8 +19,6 @@
         "notify"
       ],
       "b": "",
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -30,8 +27,6 @@
         "progress",
         "notify"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -41,25 +36,12 @@
         "progress",
         "notify"
       ],
-      "m": "~",
-      "s": "",
-      "b": "",
-      "p": []
-    },
-    {
-      "v": "#head@2d3c09fe66bf9636287f04cfe5089255f82580f9",
-      "r": [
-        "progress",
-        "notify"
-      ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:43Z",
+  "generatedAt": "2026-05-26T13:18:12Z",
   "allDeps": {
     "packages": [
       "notify",

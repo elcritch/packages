@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "simple_vector",
   "fqn": "simple_vector.Ephiiz.github.com",
-  "head": "cc5f15f00eb6036729bf22aa87bbbf88920499a6",
   "author": "Ephiiz",
   "description": "Simple vector library for nim-lang.",
   "license": "GNU Lesser General Public License v2.1",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@c552c4ca551493b9d8adfc4739aa719780174ca5",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@cc5f15f00eb6036729bf22aa87bbbf88920499a6",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:52Z",
+  "generatedAt": "2026-05-26T13:19:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

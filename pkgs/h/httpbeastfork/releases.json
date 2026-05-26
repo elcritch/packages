@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "httpbeastfork",
   "fqn": "httpbeast_fork.ThomasTJdev.github.com",
-  "head": "c430925dd318994b7118735eb93d27062a752c82",
   "author": "Dominik Picheta",
   "description": "A super-fast epoll-backed and parallel HTTP server [FORK for nim v2.x.x]",
   "license": "MIT",
@@ -13,9 +12,7 @@
       "v": "1.0.0@c430925dd318994b7118735eb93d27062a752c82^",
       "r": [
         "asynctools #0e6bdc3ed5bae8c7cc9"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.4.2@138dbc2880f3edc58fe4efceb6f1bb839f97df2d",
@@ -23,8 +20,7 @@
         "asynctools #0e6bdc3ed5bae8c7cc9"
       ],
       "d": "A super-fast epoll-backed and parallel HTTP server.",
-      "m": "0.18.0",
-      "s": ""
+      "m": "0.18.0"
     },
     {
       "v": "0.4.1@abc13d11c210b614960fe8760e581d44cfb2e3e9",
@@ -32,8 +28,7 @@
         "asynctools #0e6bdc3ed5bae8c7cc9"
       ],
       "d": "A super-fast epoll-backed and parallel HTTP server.",
-      "m": "0.18.0",
-      "s": ""
+      "m": "0.18.0"
     },
     {
       "v": "0.4.0@8b50e378a5b3374ddeeb3ce83bfb733619206edb",
@@ -41,8 +36,7 @@
         "asynctools #0e6bdc3ed5bae8c7cc9"
       ],
       "d": "A super-fast epoll-backed and parallel HTTP server.",
-      "m": "0.18.0",
-      "s": ""
+      "m": "0.18.0"
     },
     {
       "v": "0.3.0@d679e50578969f116cd1bd989e39951535a4d5bf",
@@ -50,8 +44,7 @@
         "gh:iffy/asynctools #pr_fix_for_latest"
       ],
       "d": "A super-fast epoll-backed and parallel HTTP server.",
-      "m": "0.18.0",
-      "s": ""
+      "m": "0.18.0"
     },
     {
       "v": "0.2.2@eda2e809270590c91f59958907c91bb8a1d84a01",
@@ -59,8 +52,7 @@
         "gh:timotheecour/asynctools #pr_fix_compilation"
       ],
       "d": "A super-fast epoll-backed and parallel HTTP server.",
-      "m": "0.18.0",
-      "s": ""
+      "m": "0.18.0"
     },
     {
       "v": "0.2.1@65e4575f3e0326527c61e004bbe100551d13bcd6",
@@ -68,8 +60,7 @@
         "asynctools"
       ],
       "d": "A super-fast epoll-backed and parallel HTTP server.",
-      "m": "0.18.0",
-      "s": ""
+      "m": "0.18.0"
     },
     {
       "v": "0.2.0@2a965433d9efdeb46a4c980cb574dde3ce594655",
@@ -77,8 +68,7 @@
         "asynctools"
       ],
       "d": "A super-fast epoll-backed and parallel HTTP server.",
-      "m": "0.18.0",
-      "s": ""
+      "m": "0.18.0"
     },
     {
       "v": "0.1.0@ff8fe095c459d296d96188e4aa2681f202748c85",
@@ -86,20 +76,11 @@
         "asynctools"
       ],
       "d": "A super-fast epoll-backed and parallel HTTP server.",
-      "m": "0.17.3",
-      "s": ""
-    },
-    {
-      "v": "#head@c430925dd318994b7118735eb93d27062a752c82",
-      "r": [
-        "asynctools #0e6bdc3ed5bae8c7cc9"
-      ],
-      "m": "~",
-      "s": ""
+      "m": "0.17.3"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:56Z",
+  "generatedAt": "2026-05-26T13:14:52Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

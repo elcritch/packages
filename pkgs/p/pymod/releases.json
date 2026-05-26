@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "pymod",
   "fqn": "nim-pymod.jboy.github.com",
-  "head": "3e4c49afdfdab2c3325588b6b823c102f22fc588",
   "author": "SnapDisco Pty Ltd, Australia.",
   "description": "Auto-generate a Python module that wraps a Nim module.",
   "license": "MIT",
@@ -10,14 +9,10 @@
     {
       "v": "0.1.0@58b22dfe3580cc7b6a72f6e5a32565b13cb75110",
       "r": []
-    },
-    {
-      "v": "#head@3e4c49afdfdab2c3325588b6b823c102f22fc588",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:57Z",
+  "generatedAt": "2026-05-26T13:18:23Z",
   "allDeps": {
     "packages": [],
     "urls": [],

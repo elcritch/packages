@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "basic2d",
   "fqn": "basic2d.nim-lang.github.com",
-  "head": "6187392211fc701067e3c206a3024d291b98804c",
   "author": "Dominik Picheta",
   "description": "Deprecated module from stdlib.",
   "license": "MIT",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "0.1.0@6187392211fc701067e3c206a3024d291b98804c^",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@6187392211fc701067e3c206a3024d291b98804c",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:20Z",
+  "generatedAt": "2026-05-26T13:12:19Z",
   "allDeps": {
     "packages": [],
     "urls": [],

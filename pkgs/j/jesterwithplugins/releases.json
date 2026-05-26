@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "jesterwithplugins",
   "fqn": "jesterwithplugins.JohnAD.github.com",
-  "head": "26b4df37c421ec12f994340910dfde75bfbe300c",
   "author": "Dominik Picheta",
   "description": "A sinatra-like web framework (with plugins).",
   "license": "MIT",
@@ -21,8 +20,6 @@
         "httpbeast >= 0.2.2",
         "gh:timotheecour/asynctools #pr_fix_compilation"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "y": []
     },
@@ -32,8 +29,6 @@
         "httpbeast >= 0.2.2",
         "gh:timotheecour/asynctools #pr_fix_compilation"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "y": []
     },
@@ -44,8 +39,6 @@
         "gh:timotheecour/asynctools #pr_fix_compilation"
       ],
       "d": "A sinatra-like web framework for Nim.",
-      "s": "",
-      "m": "~",
       "x": [],
       "y": []
     },
@@ -57,7 +50,6 @@
       ],
       "d": "A sinatra-like web framework for Nim.",
       "m": "0.18.1",
-      "s": "",
       "x": [],
       "y": []
     },
@@ -69,7 +61,6 @@
       ],
       "d": "A sinatra-like web framework for Nim.",
       "m": "0.18.1",
-      "s": "",
       "x": [],
       "y": []
     },
@@ -81,7 +72,6 @@
       ],
       "d": "A sinatra-like web framework for Nim.",
       "m": "0.18.1",
-      "s": "",
       "x": [],
       "y": []
     },
@@ -93,7 +83,6 @@
       ],
       "d": "A sinatra-like web framework for Nim.",
       "m": "0.18.1",
-      "s": "",
       "x": [],
       "y": []
     },
@@ -105,7 +94,6 @@
       ],
       "d": "A sinatra-like web framework for Nim.",
       "m": "0.18.0",
-      "s": "",
       "x": [],
       "y": []
     },
@@ -114,7 +102,6 @@
       "r": [],
       "d": "A sinatra-like web framework for Nim.",
       "m": "0.16.0",
-      "s": "",
       "x": [],
       "y": []
     },
@@ -122,8 +109,6 @@
       "v": "0.1.1@6c9bfa3607fd982958c09c92ed57913371d551a4",
       "r": [],
       "d": "A sinatra-like web framework for Nim.",
-      "m": "~",
-      "s": "",
       "x": [],
       "y": []
     },
@@ -131,25 +116,12 @@
       "v": "0.1.0@b73f4e656509bef826c8df01aafcaa251ab0e038",
       "r": [],
       "d": "A sinatra-like web framework for Nim.",
-      "m": "~",
-      "s": "",
-      "x": [],
-      "y": []
-    },
-    {
-      "v": "#head@26b4df37c421ec12f994340910dfde75bfbe300c",
-      "r": [
-        "httpbeast >= 0.2.2",
-        "gh:timotheecour/asynctools #pr_fix_compilation"
-      ],
-      "m": "~",
-      "s": "",
       "x": [],
       "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:22Z",
+  "generatedAt": "2026-05-26T13:15:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

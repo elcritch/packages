@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "react",
   "fqn": "react.nim.andreaferretti.github.com",
-  "head": "3a32e6b707c80c82d2161b3055aea3b633208a79",
   "author": "Andrea Ferretti",
   "description": "Example React single page application",
   "license": "Apache2",
@@ -14,13 +13,11 @@
     {
       "v": "0.2.0@3b7a1f23eef1c199a2879511059a9694ccd268e8",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.1.2@e8144b2bcd7c62dc48fec5e0d53fe27927ea756d",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
@@ -34,16 +31,10 @@
       "r": [],
       "m": "0.16.0",
       "x": []
-    },
-    {
-      "v": "#head@3a32e6b707c80c82d2161b3055aea3b633208a79",
-      "r": [],
-      "m": "~",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:08Z",
+  "generatedAt": "2026-05-26T13:18:30Z",
   "allDeps": {
     "packages": [],
     "urls": [],

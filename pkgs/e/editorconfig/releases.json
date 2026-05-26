@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "editorconfig",
   "fqn": "editorconfig-nim.fox0430.github.com",
-  "head": "fe01c05688cc896309fe45a1fe2db1d0552630b5",
   "author": "fox0430",
   "description": "A parser for EditorConfig",
   "license": "MIT",
@@ -12,19 +11,11 @@
       "v": "0.1.1@fe01c05688cc896309fe45a1fe2db1d0552630b5^",
       "r": [
         "regex >= 0.26.3"
-      ],
-      "m": "~"
-    },
-    {
-      "v": "#head@fe01c05688cc896309fe45a1fe2db1d0552630b5",
-      "r": [
-        "regex >= 0.26.3"
-      ],
-      "m": "~"
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:12Z",
+  "generatedAt": "2026-05-26T13:13:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

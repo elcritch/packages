@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "boneIO",
   "fqn": "boneIO.xyz32.github.com",
-  "head": "bf62d11ee94085783cf1a899f20fd964686cc951",
   "author": "Radu Oana",
   "description": "Beagle bone black GPIO implementation",
   "license": "MIT",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "0.6.1@bf62d11ee94085783cf1a899f20fd964686cc951^",
-      "r": [],
-      "s": ""
-    },
-    {
-      "v": "#head@bf62d11ee94085783cf1a899f20fd964686cc951",
-      "r": [],
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:41Z",
+  "generatedAt": "2026-05-26T13:12:35Z",
   "allDeps": {
     "packages": [],
     "urls": [],

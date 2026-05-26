@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "sphinx",
   "fqn": "sphinx.Araq.github.com",
-  "head": "629c5e1a4a468c5752e02d94734c05422b8a9c44",
   "author": "Andreas Rumpf",
   "description": "Sphinx wrapper for Nim",
   "license": "LGPL",
@@ -10,14 +9,10 @@
     {
       "v": "1.0.0@629c5e1a4a468c5752e02d94734c05422b8a9c44^",
       "r": []
-    },
-    {
-      "v": "#head@629c5e1a4a468c5752e02d94734c05422b8a9c44",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:06Z",
+  "generatedAt": "2026-05-26T13:19:11Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "SLAP",
   "fqn": "slap.bichanna.github.com",
-  "head": "6fdffa47aa9f7c537767c146d4ff5c3bd0ffd6df",
   "author": "Nobuharu Shimazu",
   "description": "SLAP language",
   "license": "MIT",
@@ -15,41 +14,26 @@
     {
       "v": "0.1.0@0b336b4a493f5fc0577f0070e5ba0d82e134c907",
       "r": [],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
       "v": "0.0.3@ec34b9fb85e8180fbd0b06efeee10be4e9e8c6ee",
       "r": [],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
       "v": "0.0.2@f050e763b31ea56d2c334b0b57866bb0f005e855",
       "r": [],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
       "v": "0.0.1@6ac0d5e935d8b824997739285dd8941da1ad5572",
       "r": [],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@6fdffa47aa9f7c537767c146d4ff5c3bd0ffd6df",
-      "r": [],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:34Z",
+  "generatedAt": "2026-05-26T13:11:46Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

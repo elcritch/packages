@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "simdutf",
   "fqn": "simdutf.ferus-web.github.com",
-  "head": "c9ce60944110b10406ec8a6ad312efb31722fd69",
   "author": "xTrayambak",
   "description": "Nim bindings to simdutf",
   "license": "Apache-2.0",
@@ -15,8 +14,6 @@
       "r": [
         "results >= 0.5.0"
       ],
-      "m": "~",
-      "s": "",
       "e": ""
     },
     {
@@ -24,22 +21,11 @@
       "r": [
         "results >= 0.5.0"
       ],
-      "m": "~",
-      "s": "",
-      "e": ""
-    },
-    {
-      "v": "#head@c9ce60944110b10406ec8a6ad312efb31722fd69",
-      "r": [
-        "results >= 0.5.0"
-      ],
-      "m": "~",
-      "s": "",
       "e": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:50Z",
+  "generatedAt": "2026-05-26T13:19:00Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

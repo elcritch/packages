@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "sfax",
   "fqn": "sfax.capocasa.github.com",
-  "head": "56a5c08d70751fd019df19ad29cf6ddf663009fd",
   "author": "Carlo Capocasa",
   "description": "simple-fax.de CLI client",
   "license": "MIT",
@@ -17,22 +16,11 @@
       "r": [
         "zippy >= 0.10.0"
       ],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@56a5c08d70751fd019df19ad29cf6ddf663009fd",
-      "r": [
-        "zippy >= 0.10.0"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:41Z",
+  "generatedAt": "2026-05-26T13:18:53Z",
   "allDeps": {
     "packages": [
       "zippy"

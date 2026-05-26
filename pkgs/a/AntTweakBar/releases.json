@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "AntTweakBar",
   "fqn": "nimAntTweakBar.krux02.github.com",
-  "head": "5edfe9a0c019674dba3260dc6b112611d6619c5b",
   "author": "Arne Döring",
   "description": "nim wrapper around the AntTweakBar c library",
   "license": "MIT",
@@ -108,18 +107,11 @@
     {
       "v": "1.0.2@9844876394d9bd763bc1c7f78c748ff853cc00fc",
       "r": [],
-      "m": "~",
-      "j": []
-    },
-    {
-      "v": "#head@5edfe9a0c019674dba3260dc6b112611d6619c5b",
-      "r": [],
-      "m": "~",
       "j": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:22Z",
+  "generatedAt": "2026-05-26T13:11:39Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

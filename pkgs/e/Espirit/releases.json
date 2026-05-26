@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "Espirit",
   "fqn": "Espirit.Toma400.github.com",
-  "head": "b845fa359e9c902ace0a8a891001023c68e457a6",
   "author": "Toma400",
   "description": "Nim parser for Morrowind's .esp/.esm files",
   "license": "MIT Non-AI License",
@@ -12,19 +11,11 @@
       "v": "1.0.0@cbc62df527d50a4575cf7e3cdc5263944c832805",
       "r": [
         "flatty >= 0.3.0"
-      ],
-      "m": "~"
-    },
-    {
-      "v": "#head@b845fa359e9c902ace0a8a891001023c68e457a6",
-      "r": [
-        "flatty >= 0.3.0"
-      ],
-      "m": "~"
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:24Z",
+  "generatedAt": "2026-05-26T13:11:40Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

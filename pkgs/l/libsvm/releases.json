@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "libsvm",
   "fqn": "libsvm.genotrance.github.com",
-  "head": "ee8e0cbda75fc5be6a083ebe25dcf075a5a9e8d9",
   "author": "genotrance",
   "description": "libsvm wrapper for Nim",
   "license": "MIT",
@@ -40,17 +39,10 @@
       ],
       "h": true,
       "x": []
-    },
-    {
-      "v": "#head@ee8e0cbda75fc5be6a083ebe25dcf075a5a9e8d9",
-      "r": [
-        "nimterop >= 0.1.0"
-      ],
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:54Z",
+  "generatedAt": "2026-05-26T13:15:31Z",
   "allDeps": {
     "packages": [
       "c2nim <= 0.1.3",

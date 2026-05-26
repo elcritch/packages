@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "wasm_backend",
   "fqn": "wasm_backend.nimpylib.github.com",
-  "head": "13abc6f2a9990df97c915682f66410ebb8143626",
   "author": "litlighilit",
   "description": "To support WASM backend for nim",
   "license": "MIT",
@@ -19,24 +18,13 @@
     {
       "v": "0.1.2@1b15cbedd8b7475b3a646c4d2267af4f013173ad",
       "r": [],
-      "m": "~",
-      "s": "",
-      "b": "",
-      "k": [],
-      "o": {}
-    },
-    {
-      "v": "#head@13abc6f2a9990df97c915682f66410ebb8143626",
-      "r": [],
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "o": {}
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:37Z",
+  "generatedAt": "2026-05-26T13:20:14Z",
   "allDeps": {
     "packages": [],
     "urls": [],

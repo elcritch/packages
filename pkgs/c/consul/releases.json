@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "consul",
   "fqn": "nim_consul.makingspace.github.com",
-  "head": "ecb777955cbef445184dba7fb0eeed0b32bfd268",
   "author": "Zach Smith",
   "description": "A simple interface to a running Consul agent.",
   "license": "BSD2",
@@ -11,31 +10,11 @@
   "releases": [
     {
       "v": "0.0.1@afeea4310cf4875e1982628ee79a85c45d8ed78e",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@ecb777955cbef445184dba7fb0eeed0b32bfd268",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:28Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "0.0.1"
-    ],
-    "prerelease": [
-      "0.0.1"
-    ]
-  },
+  "generatedAt": "2026-05-26T13:13:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

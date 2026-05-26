@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "libsha",
   "fqn": "nim-libsha.forlan-ua.github.com",
-  "head": "fcdc448a63cc70814df5e92de050d8225715fe0a",
   "author": "Ievgen Svietikov",
   "description": "Sha1 and Sha2 implementations",
   "license": "MIT",
@@ -10,17 +9,10 @@
     {
       "v": "1.0@143bdc067f6cf524939e5147e3147b1a6839e8c3",
       "r": []
-    },
-    {
-      "v": "#head@fcdc448a63cc70814df5e92de050d8225715fe0a",
-      "r": [],
-      "x": [
-        "tests"
-      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:53Z",
+  "generatedAt": "2026-05-26T13:15:30Z",
   "allDeps": {
     "packages": [],
     "urls": [],

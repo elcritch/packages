@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "grim",
   "fqn": "grim.ebran.github.com",
-  "head": "3c496c953ea5a749a6ce3545f208a1acce80383d",
   "author": "Erik G. Brandt",
   "description": "Bringer of property graphs to Nim!",
   "license": "MIT",
@@ -14,26 +13,21 @@
       "r": [
         "yaml #head",
         "zero_functional"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.3.0@71ed25b04ec5bad377c6ac3ccfcbff70f0c506a2",
       "r": [
         "yaml #head",
         "zero_functional"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.2.0@47aa4836f576cff13c82e565822a6add8708d1a3",
       "r": [
         "yaml"
       ],
-      "m": "1.0.4",
-      "s": ""
+      "m": "1.0.4"
     },
     {
       "v": "0.1.1@8140c7411d76c51f96f4a902c33e419437c2fea3",
@@ -41,8 +35,7 @@
         "yaml"
       ],
       "d": "Graphs in nim!",
-      "m": "1.0.4",
-      "s": ""
+      "m": "1.0.4"
     },
     {
       "v": "0.1.0@66e73f993829bd73d2a2351aa1e8e1627a5bdd42",
@@ -50,21 +43,11 @@
         "yaml"
       ],
       "d": "Graphs in nim!",
-      "m": "1.0.4",
-      "s": ""
-    },
-    {
-      "v": "#head@3c496c953ea5a749a6ce3545f208a1acce80383d",
-      "r": [
-        "yaml #head",
-        "zero_functional"
-      ],
-      "m": "~",
-      "s": ""
+      "m": "1.0.4"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:31Z",
+  "generatedAt": "2026-05-26T13:14:33Z",
   "allDeps": {
     "packages": [
       "yaml",

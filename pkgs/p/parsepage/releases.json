@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "parsepage",
   "fqn": "parsepage.thisago.github.com",
-  "head": "cfead41fda0f519a2e18875262471b8d31f34bda",
   "author": "Luciano Lorenzo",
   "description": "Automatically extracts the data of sites",
   "license": "GPL-3.0-only",
@@ -21,8 +20,6 @@
         "scraper"
       ],
       "b": "",
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -37,7 +34,6 @@
         "yaml"
       ],
       "m": "1.6.4",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -53,7 +49,6 @@
         "yaml"
       ],
       "m": "1.6.4",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -70,7 +65,6 @@
         "css_html_minify"
       ],
       "m": "1.6.4",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -87,31 +81,12 @@
         "css_html_minify"
       ],
       "m": "1.6.4",
-      "s": "",
-      "b": "",
-      "p": []
-    },
-    {
-      "v": "#head@cfead41fda0f519a2e18875262471b8d31f34bda",
-      "r": [
-        "gh:thisago/fsafename",
-        "gl:lurlo/useragent",
-        "scraper",
-        "cligen",
-        "karax",
-        "nimquery",
-        "yaml",
-        "css_html_minify"
-      ],
-      "a": "Thiago Navarro",
-      "m": "1.6.4",
-      "s": "",
       "b": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:23Z",
+  "generatedAt": "2026-05-26T13:17:59Z",
   "allDeps": {
     "packages": [
       "cligen",
@@ -127,7 +102,6 @@
       "error://findxml"
     ],
     "unresolved": [
-      "gh:thisago/findxml",
       "gh:thisago/fsafename",
       "gl:lurlo/useragent"
     ]

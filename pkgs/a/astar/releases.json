@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "astar",
   "fqn": "AStarNim.Nycto.github.com",
-  "head": "86d8c8f3a137d0e0be9f4ca41ee66d469515a946",
   "author": "Nycto",
   "description": "Basic A-Star path finding",
   "license": "MIT",
@@ -13,39 +12,23 @@
       "v": "0.6.0@377c2d5d46bc98d33deba18a7935198283c4a8b0",
       "r": [
         "binaryheap >= 0.1.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.4.0@ea392266354901144d0076c8aabc647d70b30509",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.3.0@48675e2f00c2f6f153fd71c0019f94fd38733346",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.0@eb560c484b4f494da798788fd42bd7f838482a74",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@86d8c8f3a137d0e0be9f4ca41ee66d469515a946",
-      "r": [
-        "binaryheap >= 0.1.0"
-      ],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:59Z",
+  "generatedAt": "2026-05-26T13:12:05Z",
   "allDeps": {
     "packages": [
       "binaryheap > 0.4.0"

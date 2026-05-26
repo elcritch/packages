@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "QuickJS4nim",
   "fqn": "quickjs4nim.ImVexed.github.com",
-  "head": "b3b40ff15b88d0181121520ce0aa2a0829cd9afe",
   "author": "ImVexed",
   "description": "QuickJS wrapper for Nim",
   "license": "MIT",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "0.0.1@d600815f7d55044e3d7acb9d9d6940e3958fa36c",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@b3b40ff15b88d0181121520ce0aa2a0829cd9afe",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:31Z",
+  "generatedAt": "2026-05-26T13:11:45Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "sshterm",
   "fqn": "sshterm.jthampton.github.com",
-  "head": "dc49902f361cfa45904b547f3710b6054c53969b",
   "author": "jthampton",
   "description": "Interactive SSH terminal library for Nim",
   "license": "MIT",
@@ -13,21 +12,11 @@
       "v": "0.1.0@dc49902f361cfa45904b547f3710b6054c53969b^",
       "r": [
         "ssh2"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@dc49902f361cfa45904b547f3710b6054c53969b",
-      "r": [
-        "ssh2"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:13Z",
+  "generatedAt": "2026-05-26T13:19:15Z",
   "allDeps": {
     "packages": [
       "libssh2",

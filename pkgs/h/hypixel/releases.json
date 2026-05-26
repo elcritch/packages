@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "hypixel",
   "fqn": "hypixel-nim.tonogram.github.com",
-  "head": "6bee38894ea490233d72d99629f4613c81826b7b",
   "author": "Reilly Moore",
   "description": "The Hypixel API, in Nim.",
   "license": "MIT",
@@ -11,55 +10,35 @@
   "releases": [
     {
       "v": "0.3.2@20a5a08ada9496b381483f719a4fb98a9ded34a3",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.3.1@b080fe92cf5191ed7e8c53a37f8d8a8712c6dcdc",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.3.0@ba988a409af03a1722ab37d8938d47e2217edb4d",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.3@8172f0611ce480929aaf98ed79592527b4d60d0a",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.2@0940976b79c8969b1bdca62b654af2505706c264",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.1@e841cdb63c88d01c3b44515e504630deb312688a",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.0@5254b2e52c2351f440910784e1f33d3aa8c2f450",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@6bee38894ea490233d72d99629f4613c81826b7b",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:01Z",
+  "generatedAt": "2026-05-26T13:14:55Z",
   "allDeps": {
     "packages": [],
     "urls": [],

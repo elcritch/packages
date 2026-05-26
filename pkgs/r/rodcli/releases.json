@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "rodcli",
   "fqn": "NimCliHelper.jabbalaci.github.com",
-  "head": "15010eb98292c1847a776bcf52fdcfb3649998b7",
   "author": "Laszlo Szathmary <jabba.laci@gmail.com>",
   "description": "making Nim development easier in the command-line",
   "license": "MIT",
@@ -17,21 +16,18 @@
     {
       "v": "0.2.4@15010eb98292c1847a776bcf52fdcfb3649998b7^",
       "r": [],
-      "m": "~",
       "z": [],
       "p": []
     },
     {
       "v": "0.2.3@b313b6ff24730e779d398175f86172c3cffd360d",
       "r": [],
-      "m": "~",
       "z": [],
       "p": []
     },
     {
       "v": "0.2.2@0106b89f5f142628252d83a523bbcafb5c98fbf6",
       "r": [],
-      "m": "~",
       "z": [],
       "p": []
     },
@@ -90,17 +86,10 @@
       "m": "0.19.0",
       "z": [],
       "p": []
-    },
-    {
-      "v": "#head@15010eb98292c1847a776bcf52fdcfb3649998b7",
-      "r": [],
-      "m": "~",
-      "z": [],
-      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:19Z",
+  "generatedAt": "2026-05-26T13:18:37Z",
   "allDeps": {
     "packages": [],
     "urls": [],

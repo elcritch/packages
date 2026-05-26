@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "websocketx",
   "fqn": "websocketx.ringabout.github.com",
-  "head": "b0ea475e3c50a31cc45cd7031f76707b55d7ebb4",
   "author": "flywind",
   "description": "Websocket for httpx.",
   "license": "MIT",
@@ -14,31 +13,18 @@
       "r": [
         "ws >= 0.4.3",
         "httpx >= 0.1.8"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.0@8c9022d44fc7cc66643f860ad636c5f5ef8ef735",
       "r": [
         "ws >= 0.4.3",
         "httpx >= 0.1.8"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@b0ea475e3c50a31cc45cd7031f76707b55d7ebb4",
-      "r": [
-        "ws >= 0.4.3",
-        "httpx >= 0.1.8"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:47Z",
+  "generatedAt": "2026-05-26T13:20:21Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

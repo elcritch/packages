@@ -1,24 +1,20 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "csfml",
   "fqn": "nim-csfml.oprypin.github.com",
-  "head": "9296116048ac1119e0878ceef980d7db6867ad74",
   "nim": "0.17.0",
   "releases": [
     {
       "v": "2.5.0@6707621ae6a2b36a8c33ebfbd5372a1b1f542d0c",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "2.4.0@84adfe764f1595669517f70d6c8df73bddb67593",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "2.3.1@9c4e727310d3bcfe40b04ceaf79d2d981f30b40b",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "2.3.0@8c817fa383d1a77290e3eba6460518247d8d59a1",
@@ -49,15 +45,10 @@
       "v": "2.1.0@dd63cf7b4d546094f95bef7ad8acdb66b9d6a98f",
       "r": [],
       "m": "0.10.1"
-    },
-    {
-      "v": "#head@9296116048ac1119e0878ceef980d7db6867ad74",
-      "r": [],
-      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:37Z",
+  "generatedAt": "2026-05-26T13:13:19Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

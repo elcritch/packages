@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "fuse",
   "fqn": "nim-fuse.akiradeveloper.github.com",
-  "head": "e2bf395b40c7a00d6130c9eb97d9419ad95c6591",
   "author": "Akira Hayakawa",
   "description": "FUSE-binding for Nim",
   "license": "MIT",
@@ -10,15 +9,10 @@
     {
       "v": "0.1.0@7506cb03e8fcd2f2a7f63fd9e911d35a47244c1e",
       "r": []
-    },
-    {
-      "v": "#head@e2bf395b40c7a00d6130c9eb97d9419ad95c6591",
-      "r": [],
-      "d": "A FUSE binding for Nim"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:00Z",
+  "generatedAt": "2026-05-26T13:14:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

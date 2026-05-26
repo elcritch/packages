@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "ski",
   "fqn": "ski.jiro4989.github.com",
-  "head": "7937592ed8f1439cc3bf0c677112381e9b5b9ba1",
   "author": "jiro4989",
   "description": "SKI combinator library",
   "license": "MIT",
@@ -11,40 +10,25 @@
   "releases": [
     {
       "v": "0.1.0@bc231033083b4ba45588bd0b4335fc09f792fde9",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "1.0.0@c3a8a41e7c85016591abf7cf061befafc9de23f8",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "1.1.0@5da3a76498d7877f1b93bb90f57fe875cd08b2ed",
       "r": [],
-      "d": "ski is library for SKI combinator.",
-      "m": "~",
-      "s": ""
+      "d": "ski is library for SKI combinator."
     },
     {
       "v": "1.2.0@e892100be2f823f34b30723d1c805a659c4ff81d",
       "r": [],
-      "d": "ski is library for SKI combinator.",
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@7937592ed8f1439cc3bf0c677112381e9b5b9ba1",
-      "r": [],
-      "d": "ski is library for SKI combinator.",
-      "m": "~",
-      "s": ""
+      "d": "ski is library for SKI combinator."
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:56Z",
+  "generatedAt": "2026-05-26T13:19:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

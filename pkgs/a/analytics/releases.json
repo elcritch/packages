@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "analytics",
   "fqn": "analytics.dom96.github.com",
-  "head": "7bfefcfc0826c3137561902ae38fee9d48b49402",
   "author": "Dominik Picheta",
   "description": "Allows statistics to be sent to and recorded in Google Analytics.",
   "license": "MIT",
@@ -15,32 +14,18 @@
         "uuids >= 0.1.7",
         "osinfo >= 0.3.0",
         "puppy >= 1.2.1"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.2.0@c0e52d822af512d2c275a2ea1b5d424ba2430f59",
       "r": [
         "uuids >= 0.1.7",
         "osinfo >= 0.3.0"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@7bfefcfc0826c3137561902ae38fee9d48b49402",
-      "r": [
-        "uuids >= 0.1.7",
-        "osinfo >= 0.3.0",
-        "puppy >= 1.2.1"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:43Z",
+  "generatedAt": "2026-05-26T13:11:54Z",
   "allDeps": {
     "packages": [
       "isaac",

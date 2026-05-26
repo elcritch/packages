@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "scinim",
   "fqn": "scinim.SciNim.github.com",
-  "head": "c5250b41ee16d268594a4e899967b703d04b1bd8",
   "author": "SciNim",
   "description": "The core types and functions of the SciNim ecosystem",
   "license": "MIT",
@@ -18,8 +17,6 @@
         "polynumeric >= 0.2.0",
         "nimpy >= 0.2.0"
       ],
-      "s": "",
-      "m": "~",
       "e": ""
     },
     {
@@ -30,8 +27,6 @@
         "polynumeric >= 0.2.0",
         "nimpy >= 0.2.0"
       ],
-      "s": "",
-      "m": "~",
       "e": ""
     },
     {
@@ -42,8 +37,6 @@
         "polynumeric >= 0.2.0",
         "nimpy >= 0.2.0"
       ],
-      "s": "",
-      "m": "~",
       "e": ""
     },
     {
@@ -54,8 +47,6 @@
         "polynumeric >= 0.2.0",
         "nimpy >= 0.2.0"
       ],
-      "s": "",
-      "m": "~",
       "e": ""
     },
     {
@@ -65,25 +56,11 @@
         "polynumeric >= 0.2.0"
       ],
       "m": "1.4.8",
-      "e": "",
-      "s": ""
-    },
-    {
-      "v": "#head@c5250b41ee16d268594a4e899967b703d04b1bd8",
-      "r": [
-        "threading",
-        "arraymancer >= 0.7.32",
-        "polynumeric >= 0.2.0",
-        "nimpy >= 0.2.0",
-        "print"
-      ],
-      "m": "1.6.0",
-      "s": "",
       "e": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:29Z",
+  "generatedAt": "2026-05-26T13:18:44Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -111,7 +88,6 @@
       "nimpy > 0.1.0",
       "opencl",
       "polynumeric",
-      "print",
       "stb_image",
       "threading > 0.2.4",
       "untar",

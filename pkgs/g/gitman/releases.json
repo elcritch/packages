@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "gitman",
   "fqn": "gitman.nirokay.github.com",
-  "head": "430a9f4b33b8ec4650706c46b502a8aa38dda73d",
   "author": "nirokay",
   "description": "A git-repo manager that lets you easily update multiple git repositories in a specified directory.",
   "license": "GPL-3.0-only",
@@ -17,8 +16,6 @@
       "r": [
         "taskpools"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -26,8 +23,6 @@
       "r": [
         "taskpools"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -35,8 +30,6 @@
       "r": [
         "taskpools"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -44,71 +37,45 @@
       "r": [
         "taskpools"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
       "v": "2.1.1@6c2aeb0535772805e43797fdad629f23d67772e8",
       "r": [],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
       "v": "2.1.0@393e2fbde17590470846ad7c7248c199a90a1845",
       "r": [],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
       "v": "2.0.1@db65f8c34a5f1fc36cb49cffaaab16e77f85cf7d",
       "r": [],
       "m": "1.6.6",
-      "s": "",
       "p": []
     },
     {
       "v": "2.0.0@e25324668c2b0aaf5f46c9300187ef91c8a03695",
       "r": [],
       "m": "1.6.6",
-      "s": "",
       "p": []
     },
     {
       "v": "1.0.1@db1a6400655877a874e1a918cca490a3070cf84f",
       "r": [],
       "m": "1.6.6",
-      "s": "",
       "p": []
     },
     {
       "v": "1.0.0@329c201068f454bff40e5ffe409f23c48f5fe962",
       "r": [],
       "m": "1.6.6",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@430a9f4b33b8ec4650706c46b502a8aa38dda73d",
-      "r": [
-        "taskpools"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:20Z",
-  "allDeps": {
-    "packages": [
-      "taskpools > 2.1.1"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T13:14:25Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -127,5 +94,12 @@
       "2.3.1"
     ],
     "latest": "2.3.1"
+  },
+  "allDeps": {
+    "packages": [
+      "taskpools > 2.1.1"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

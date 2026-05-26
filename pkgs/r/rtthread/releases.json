@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "rtthread",
   "fqn": "rtthread.capocasa.github.com",
-  "head": "9ac4cb71028941302a337c7d1c8070764848170a",
   "author": "Carlo Capocasa",
   "description": "Nim threads with realtime scheduling",
   "license": "MIT",
@@ -17,27 +16,18 @@
     {
       "v": "0.2.0@9ac4cb71028941302a337c7d1c8070764848170a^",
       "r": [],
-      "m": "~",
       "x": [],
       "k": []
     },
     {
       "v": "0.1.0@94e2b5a0f331f1723c2257b5df97bf85ac6d06c7",
       "r": [],
-      "m": "~",
-      "x": [],
-      "k": []
-    },
-    {
-      "v": "#head@9ac4cb71028941302a337c7d1c8070764848170a",
-      "r": [],
-      "m": "~",
       "x": [],
       "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:22Z",
+  "generatedAt": "2026-05-26T13:18:40Z",
   "allDeps": {
     "packages": [],
     "urls": [],

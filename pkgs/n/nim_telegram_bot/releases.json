@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nim_telegram_bot",
   "fqn": "nim-telegram-bot.juancarlospaco.github.com",
-  "head": "f1b14d1186afb25bdfe0ed8d37a72afecdfe62f6",
   "author": "Juan Carlos",
   "description": "Generic Configurable Async Telegram Bot for Nim with builtin basic functionality and Plugins.",
   "license": "MIT",
@@ -23,8 +22,6 @@
         "nimpy",
         "zip"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "p": []
     },
@@ -36,8 +33,6 @@
         "nimpy",
         "zip"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "p": []
     },
@@ -48,8 +43,6 @@
         "telebot",
         "nimpy"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "p": []
     },
@@ -60,8 +53,6 @@
         "telebot",
         "nimpy"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "p": []
     },
@@ -71,8 +62,6 @@
         "openexchangerates",
         "telebot"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "p": []
     },
@@ -83,8 +72,6 @@
         "telebot"
       ],
       "p": [],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
@@ -94,8 +81,6 @@
         "telebot"
       ],
       "p": [],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
@@ -103,8 +88,6 @@
       "r": [],
       "d": "Generic Configurable Telegram Bot for Nim, with builtin basic functionality and Plugins",
       "p": [],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
@@ -112,47 +95,11 @@
       "r": [],
       "d": "Telegram Bot for Nim",
       "x": [],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@f1b14d1186afb25bdfe0ed8d37a72afecdfe62f6",
-      "r": [
-        "openexchangerates",
-        "telebot",
-        "nimpy",
-        "zip"
-      ],
-      "m": "~",
-      "s": "",
-      "x": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:26Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "0.0.1",
-      "0.0.2",
-      "0.2.0",
-      "0.2.2",
-      "0.2.3",
-      "0.2.5",
-      "0.3.0",
-      "0.4.0",
-      "0.4.5"
-    ],
-    "latest": "0.4.5",
-    "prerelease": [
-      "0.0.1"
-    ]
-  },
+  "generatedAt": "2026-05-26T13:16:38Z",
   "allDeps": {
     "packages": [
       "asyncevents > 0.0.2",

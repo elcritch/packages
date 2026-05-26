@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "manta",
   "fqn": "manta.metagn.github.com",
-  "head": "e4f63635f67aad97cb86b8c961b17c81a16f771d",
   "author": "metagn",
   "description": "variable-length array types with destructors",
   "license": "MIT",
@@ -11,34 +10,21 @@
   "releases": [
     {
       "v": "0.1.0@9a688ad8ca6d0f35613bf921a2350317fa34518e",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.1@83eb228ba451b2dd1f614a5c8a83a8a629f98f47",
       "r": [],
-      "d": "runtime array types with destructors",
-      "m": "~",
-      "s": ""
+      "d": "runtime array types with destructors"
     },
     {
       "v": "0.1.2@6924dc998ab8167965e535b853a0d0c375802128",
       "r": [],
-      "d": "runtime array types with destructors",
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@e4f63635f67aad97cb86b8c961b17c81a16f771d",
-      "r": [],
-      "d": "runtime array types with destructors",
-      "m": "~",
-      "s": ""
+      "d": "runtime array types with destructors"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:19Z",
+  "generatedAt": "2026-05-26T13:15:51Z",
   "allDeps": {
     "packages": [],
     "urls": [],

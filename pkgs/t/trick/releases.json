@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "trick",
   "fqn": "trick.exelotl.github.com",
-  "head": "cca7139f1424f883d2c4d9fe94ebf838d6cfb735",
   "author": "exelotl",
   "description": "GBA image conversion library and more",
   "license": "zlib",
@@ -13,109 +12,77 @@
       "v": "0.1.12@767307df8844a8829c5b94ba3a101979b82e7f49",
       "r": [
         "nimPNG >= 0.3.6"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.11@72ed72ee3aa9d7d05b37940a1b586437979db0be",
       "r": [
         "nimPNG >= 0.3.6"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.10@d53f9088e09b04a05d66206fcdbb96be71c9160d",
       "r": [
         "nimPNG >= 0.3.6"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.9@0457a9012fb87229eb7b89bb56ea77dba6e3f5f5",
       "r": [
         "nimPNG >= 0.3.6"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.8@67925270c2692eed3339f1cb81429f4cd057fe25",
       "r": [
         "nimPNG >= 0.3.6"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.7@0fee7f577a1918c75ebef2cdc60faf8da05c2a84",
       "r": [
         "nimPNG >= 0.3.1"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.6@23c84c8dfcce36d6c0aa005cd051c6e4d2a78278",
       "r": [
         "nimPNG >= 0.3.1"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.5@2dda0b9ee879333e9d8bbaa5c2360ff3ce60aae6",
       "r": [
         "nimPNG >= 0.3.1"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.4@7cb9b727039a115b7aa6ca511124d673904ed39e",
       "r": [
         "nimPNG >= 0.3.1"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.3@1eb4ae43161f1999136852bff5a87eaa66fcabf0",
       "r": [
         "nimPNG >= 0.3.1"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.2@c53a992fa260660410f6f36426c2d1cc6a28c723",
       "r": [
         "nimPNG >= 0.3.1"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.1@f4ab67a5a4cb267516dea0d06c856c5df9c0122f",
       "r": [
         "nimPNG >= 0.3.1"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@cca7139f1424f883d2c4d9fe94ebf838d6cfb735",
-      "r": [
-        "nimPNG >= 0.3.6"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:06Z",
+  "generatedAt": "2026-05-26T13:19:52Z",
   "allDeps": {
     "packages": [
       "nimPNG"

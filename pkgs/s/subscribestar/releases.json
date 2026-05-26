@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "subscribestar",
   "fqn": "subscribestar.thisago.github.com",
-  "head": "e37f996987464eab95e6a4bbe21535653ab178b0",
   "author": "Thiago Navarro",
   "description": "Subscribestar extractor",
   "license": "MIT",
@@ -12,101 +11,62 @@
     {
       "v": "0.1.0@71c230cfb7d9b985c75e4501f6d310c3095d5cab",
       "r": [
-        "error://useragent",
+        "gl:lurlo/useragent",
         "util"
-      ],
-      "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/subscribestar.thisago.github.com-71c230cf-subscribestar.nimble\ncannot resolve package name: useragent",
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "1.0.0@dfa6021d26847356d51fe7bb3d91bb2dd931e6b8",
       "r": [
-        "error://useragent",
+        "gl:lurlo/useragent",
         "util"
-      ],
-      "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/subscribestar.thisago.github.com-dfa6021d-subscribestar.nimble\ncannot resolve package name: useragent",
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "1.0.1@4be19da3274c90cc5978334907555b9e60c3ba95",
       "r": [
-        "error://useragent",
+        "gl:lurlo/useragent",
         "util"
-      ],
-      "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/subscribestar.thisago.github.com-4be19da3-subscribestar.nimble\ncannot resolve package name: useragent",
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "1.1.0@095506df843f04ed587092e2d899dfd44f703277",
       "r": [
-        "error://useragent",
+        "gl:lurlo/useragent",
         "util"
-      ],
-      "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/subscribestar.thisago.github.com-095506df-subscribestar.nimble\ncannot resolve package name: useragent",
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "1.2.0@207d3c20e4b2f44d6ea384d65fdf9f94cf2d3075",
       "r": [
-        "error://useragent",
+        "gl:lurlo/useragent",
         "util"
-      ],
-      "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/subscribestar.thisago.github.com-207d3c20-subscribestar.nimble\ncannot resolve package name: useragent",
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "1.2.1@4701c205edbbb0c9a8c245c95f48cebe7ed3cc70",
       "r": [
-        "error://useragent",
+        "gl:lurlo/useragent",
         "util"
-      ],
-      "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/subscribestar.thisago.github.com-4701c205-subscribestar.nimble\ncannot resolve package name: useragent",
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "1.2.2@74a3094579eea722204dea7b1dec4c6da5235d8e",
       "r": [
-        "error://useragent",
+        "gl:lurlo/useragent",
         "util"
-      ],
-      "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/subscribestar.thisago.github.com-74a30945-subscribestar.nimble\ncannot resolve package name: useragent",
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@e37f996987464eab95e6a4bbe21535653ab178b0",
-      "r": [
-        "error://useragent",
-        "util"
-      ],
-      "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/s/subscribestar/.worktree/subscribestar.nimble\ncannot resolve package name: useragent",
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:25Z",
+  "generatedAt": "2026-05-26T13:19:23Z",
   "allDeps": {
     "packages": [
       "util"
     ],
-    "urls": [
-      "error://useragent"
-    ],
-    "unresolved": []
+    "urls": [],
+    "unresolved": [
+      "gl:lurlo/useragent"
+    ]
   }
 }

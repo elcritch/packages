@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "ogl46",
   "fqn": "ogl46.treeform.github.com",
-  "head": "cc37e9c68f229a9ef2f5df048f6b5acc414ecdb4",
   "author": "treeform",
   "description": "OpenGL 4.6 DSA wrapper for Nim.",
   "license": "MIT",
@@ -16,24 +15,11 @@
         "windy >= 0.0.1",
         "pixie >= 5.0.0",
         "vmath >= 2.0.0"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@cc37e9c68f229a9ef2f5df048f6b5acc414ecdb4",
-      "r": [
-        "opengl >= 1.2.9",
-        "windy >= 0.0.1",
-        "pixie >= 5.0.0",
-        "vmath >= 2.0.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:00Z",
+  "generatedAt": "2026-05-26T13:17:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

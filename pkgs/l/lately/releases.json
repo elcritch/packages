@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "lately",
   "fqn": "lately.hmbemba.github.com",
-  "head": "f12d6ad54f79663a19fac7cf8895102da5710f54",
   "author": "hmbem",
   "description": "Nim SDK for the Late.dev API",
   "license": "MIT",
@@ -19,9 +18,7 @@
         "debby"
       ],
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/lately.hmbemba.github.com-f12d6ad5-lately.nimble\ncannot resolve package name: llmm",
-      "m": "~",
-      "s": ""
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/lately.hmbemba.github.com-f12d6ad5-lately.nimble\ncannot resolve package name: llmm"
     },
     {
       "v": "0.1.1@ca0d3417ab4cc7cf1f4f7478fd62850e0a6707e5",
@@ -29,27 +26,11 @@
         "rz",
         "ic",
         "jsony"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@f12d6ad54f79663a19fac7cf8895102da5710f54",
-      "r": [
-        "rz",
-        "ic",
-        "jsony",
-        "error://llmm",
-        "debby"
-      ],
-      "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/lately.hmbemba.github.com-f12d6ad5-lately.nimble\ncannot resolve package name: llmm",
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:42Z",
+  "generatedAt": "2026-05-26T13:15:23Z",
   "allDeps": {
     "packages": [
       "debby > 0.1.1",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "synthesis",
   "fqn": "Synthesis.mratsim.github.com",
-  "head": "09bef6df051b13baeb3a83d03f08b8886354839f",
   "author": "Mamy André-Ratsimbazafy",
   "description": "A compile-time, compact, fast, without allocation, state-machine generator.",
   "license": "MIT or Apache License 2.0",
@@ -10,22 +9,15 @@
   "releases": [
     {
       "v": "0.2.0@09bef6df051b13baeb3a83d03f08b8886354839f^",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "0.1.0@26c2d822aff94cd7126ca04e8ee75e1b2158d93b",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@09bef6df051b13baeb3a83d03f08b8886354839f",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:33Z",
+  "generatedAt": "2026-05-26T13:19:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

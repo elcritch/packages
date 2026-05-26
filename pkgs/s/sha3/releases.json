@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "sha3",
   "fqn": "sha3.nim-community.github.com",
-  "head": "ad09971a572498ee6b5496dfea6af82ec7beaaeb",
   "author": "tankfeeder",
   "description": "sha3 library",
   "license": "CC0",
@@ -19,15 +18,10 @@
       "v": "0.7@7e1a5194668371c8fd4024054ac4d8c7431eddba",
       "r": [],
       "z": []
-    },
-    {
-      "v": "#head@ad09971a572498ee6b5496dfea6af82ec7beaaeb",
-      "r": [],
-      "z": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:43Z",
+  "generatedAt": "2026-05-26T13:18:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

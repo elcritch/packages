@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "crowncalc",
   "fqn": "crowncalc.RainbowAsteroids.github.com",
-  "head": "bbc824d36d563c99d80c35b4e9e14a7b32c8cabd",
   "author": "Rainbow Asteroids",
   "description": "Basic calculator in Nim",
   "license": "MIT",
@@ -30,8 +29,6 @@
       ],
       "k": [],
       "o": {},
-      "m": "~",
-      "s": "",
       "j": [],
       "p": []
     },
@@ -45,8 +42,6 @@
         "ccalccli"
       ],
       "j": [],
-      "m": "~",
-      "s": "",
       "k": [],
       "o": {}
     },
@@ -60,8 +55,6 @@
         "ccalccli"
       ],
       "j": [],
-      "m": "~",
-      "s": "",
       "k": [],
       "o": {}
     },
@@ -75,8 +68,6 @@
         "ccalccli"
       ],
       "j": [],
-      "m": "~",
-      "s": "",
       "k": [],
       "o": {}
     },
@@ -90,8 +81,6 @@
         "ccalccli"
       ],
       "j": [],
-      "m": "~",
-      "s": "",
       "k": [],
       "o": {}
     },
@@ -105,8 +94,6 @@
         "ccalccli"
       ],
       "j": [],
-      "m": "~",
-      "s": "",
       "k": [],
       "o": {}
     },
@@ -120,29 +107,12 @@
         "ccalccli"
       ],
       "j": [],
-      "m": "~",
-      "s": "",
-      "k": [],
-      "o": {}
-    },
-    {
-      "v": "#head@bbc824d36d563c99d80c35b4e9e14a7b32c8cabd",
-      "r": [
-        "noise",
-        "sdl2"
-      ],
-      "p": [
-        "ccalccli"
-      ],
-      "j": [],
-      "m": "~",
-      "s": "",
       "k": [],
       "o": {}
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:36Z",
+  "generatedAt": "2026-05-26T13:13:18Z",
   "allDeps": {
     "packages": [
       "noise",

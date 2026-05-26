@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "sokol",
   "fqn": "sokol-nim.floooh.github.com",
-  "head": "8a1fd359af70f56dd578f0847940b2577eae8e9e",
   "author": "Andre Weissflog",
   "description": "nim bindings for sokol C headers",
   "license": "MIT",
@@ -16,9 +15,7 @@
     {
       "v": "0.1.0@a69377b820e0ce3bb3f4236569a0822058fbf097",
       "r": [],
-      "s": "",
       "b": "",
-      "m": "~",
       "x": []
     },
     {
@@ -28,8 +25,7 @@
       "d": "Nim bindings for sokol C headers",
       "m": "1.4.2",
       "b": "",
-      "x": [],
-      "s": ""
+      "x": []
     },
     {
       "v": "0.4.0@9569b0162cdba664840c04d63515b7ce0d5312a4",
@@ -38,7 +34,6 @@
       "d": "Nim bindings for the sokol C headers",
       "m": "1.4.4",
       "b": "",
-      "s": "",
       "x": []
     },
     {
@@ -48,7 +43,6 @@
       "d": "Nim bindings for the sokol C headers",
       "m": "1.4.4",
       "b": "",
-      "s": "",
       "x": []
     },
     {
@@ -57,7 +51,6 @@
       "a": "Andre Weissflog, Garett Bass, Gustav Olsson",
       "d": "Nim bindings for the sokol C headers",
       "m": "1.4.4",
-      "s": "",
       "b": "",
       "x": []
     },
@@ -67,23 +60,12 @@
       "a": "Andre Weissflog, Garett Bass, Gustav Olsson",
       "d": "Nim bindings for the sokol C headers",
       "m": "1.4.4",
-      "s": "",
-      "b": "",
-      "x": []
-    },
-    {
-      "v": "#head@8a1fd359af70f56dd578f0847940b2577eae8e9e",
-      "r": [],
-      "a": "Andre Weissflog, Garett Bass, Gustav Olsson",
-      "d": "Nim bindings for the sokol C headers",
-      "m": "1.4.4",
-      "s": "",
       "b": "",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:03Z",
+  "generatedAt": "2026-05-26T13:19:09Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "asyncmysql",
   "fqn": "asyncmysql.tulayang.github.com",
-  "head": "46578a1787b70c2b55cc7f46ab943775e0f6c2b7",
   "author": "Wang Tong",
   "description": "Asynchronous MySQL connector written in pure Nim.",
   "license": "MIT",
@@ -16,20 +15,11 @@
       "r": [
         "mysqlparser >= 0.1.0"
       ],
-      "m": "~",
-      "y": []
-    },
-    {
-      "v": "#head@46578a1787b70c2b55cc7f46ab943775e0f6c2b7",
-      "r": [
-        "mysqlparser >= 0.1.0"
-      ],
-      "m": "~",
       "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:02Z",
+  "generatedAt": "2026-05-26T13:12:07Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

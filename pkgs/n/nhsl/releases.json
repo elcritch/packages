@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nhsl",
   "fqn": "nhsl.twist-vector.github.com",
-  "head": "1d45cbd2fb6e0587e543e277a9cd3f32811ef2cc",
   "author": "Tom Krauss",
   "description": "Nim Hessian Serialization Library encodes/decodes data into the Hessian binary protocol",
   "license": "Apache2",
@@ -10,14 +9,10 @@
     {
       "v": "0.2.0@1d45cbd2fb6e0587e543e277a9cd3f32811ef2cc^",
       "r": []
-    },
-    {
-      "v": "#head@1d45cbd2fb6e0587e543e277a9cd3f32811ef2cc",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:07Z",
+  "generatedAt": "2026-05-26T13:16:26Z",
   "allDeps": {
     "packages": [],
     "urls": [],

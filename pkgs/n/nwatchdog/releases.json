@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nwatchdog",
   "fqn": "nim_nwatchdog.zendbit.github.com",
-  "head": "1e7be81942c8ada74f2b638b27c2973122c67cb3",
   "author": "Amru Rosyada",
   "description": "Simple watchdog (watch file changes modified, deleted, created) in nim lang.",
   "license": "BSD",
@@ -19,7 +18,6 @@
       "r": [
         "regex >= 0.21.0"
       ],
-      "m": "~",
       "k": [],
       "p": []
     },
@@ -28,7 +26,6 @@
       "r": [
         "regex >= 0.21.0"
       ],
-      "m": "~",
       "k": [],
       "p": []
     },
@@ -37,7 +34,6 @@
       "r": [
         "regex >= 0.21.0"
       ],
-      "m": "~",
       "k": [],
       "p": []
     },
@@ -46,7 +42,6 @@
       "r": [
         "regex >= 0.21.0"
       ],
-      "m": "~",
       "k": [],
       "p": []
     },
@@ -55,7 +50,6 @@
       "r": [
         "regex >= 0.21.0"
       ],
-      "m": "~",
       "k": [],
       "p": []
     },
@@ -64,7 +58,6 @@
       "r": [
         "regex >= 0.21.0"
       ],
-      "m": "~",
       "k": [],
       "p": []
     },
@@ -73,7 +66,6 @@
       "r": [
         "regex >= 0.21.0"
       ],
-      "m": "~",
       "k": [],
       "p": []
     },
@@ -82,7 +74,6 @@
       "r": [
         "regex >= 0.21.0"
       ],
-      "m": "~",
       "k": [],
       "p": []
     },
@@ -91,7 +82,6 @@
       "r": [
         "regex >= 0.21.0"
       ],
-      "m": "~",
       "k": [],
       "p": []
     },
@@ -100,7 +90,6 @@
       "r": [
         "regex >= 0.21.0"
       ],
-      "m": "~",
       "k": [],
       "p": []
     },
@@ -109,7 +98,6 @@
       "r": [
         "regex >= 0.21.0"
       ],
-      "m": "~",
       "k": [],
       "p": []
     },
@@ -183,19 +171,10 @@
       "m": "1.0.0",
       "k": [],
       "p": []
-    },
-    {
-      "v": "#head@1e7be81942c8ada74f2b638b27c2973122c67cb3",
-      "r": [
-        "regex >= 0.21.0"
-      ],
-      "m": "~",
-      "k": [],
-      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:55Z",
+  "generatedAt": "2026-05-26T13:17:40Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

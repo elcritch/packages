@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "entgrep",
   "fqn": "entgrep.srozb.github.com",
-  "head": "8fd1116e3694b82236385105093efe8b2ff61292",
   "author": "srozb",
   "description": "Grep but for secrets",
   "license": "MIT",
@@ -15,20 +14,11 @@
     {
       "v": "0.2.0@8fd1116e3694b82236385105093efe8b2ff61292^",
       "r": [],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@8fd1116e3694b82236385105093efe8b2ff61292",
-      "r": [],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:17Z",
+  "generatedAt": "2026-05-26T13:13:45Z",
   "allDeps": {
     "packages": [],
     "urls": [],

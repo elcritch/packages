@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "ferrite",
   "fqn": "ferrite.ferus-web.github.com",
-  "head": "4c63e9cbfc68687aac42fe19f335084ce9587d96",
   "author": "xTrayambak",
   "description": "A collection of utilities that are useful for implementing web standards",
   "license": "MIT",
@@ -15,9 +14,7 @@
       "r": [
         "results >= 0.5.1"
       ],
-      "e": "",
-      "m": "~",
-      "s": ""
+      "e": ""
     },
     {
       "v": "0.1.1@53a5b3962700a6e9742df527d34e2f9501573f83",
@@ -25,8 +22,6 @@
         "results >= 0.5.1",
         "simdutf >= 5.5.0"
       ],
-      "m": "~",
-      "s": "",
       "e": ""
     },
     {
@@ -35,8 +30,6 @@
         "results >= 0.5.1",
         "simdutf >= 5.5.0"
       ],
-      "m": "~",
-      "s": "",
       "e": ""
     },
     {
@@ -45,23 +38,11 @@
         "results >= 0.5.1",
         "simdutf >= 6.1.1"
       ],
-      "m": "~",
-      "s": "",
-      "e": ""
-    },
-    {
-      "v": "#head@4c63e9cbfc68687aac42fe19f335084ce9587d96",
-      "r": [
-        "results >= 0.5.1",
-        "simdutf >= 6.1.1"
-      ],
-      "m": "~",
-      "s": "",
       "e": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:33Z",
+  "generatedAt": "2026-05-26T13:13:55Z",
   "allDeps": {
     "packages": [
       "results",

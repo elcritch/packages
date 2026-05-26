@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "ferusgfx",
   "fqn": "ferusgfx.ferus-web.github.com",
-  "head": "92d89a7e8e8a9834f0bdd9aabfa4292d4d5a2227",
   "author": "xTrayambak",
   "description": "High performance graphics pipeline for Ferus",
   "license": "MIT",
@@ -20,9 +19,7 @@
         "glfw >= 3.4.0.4",
         "weave >= 0.4.10",
         "iniplus >= 0.2.2"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "1.0.23@ed865ffd2b08688f114900759621316837147237",
@@ -32,9 +29,7 @@
         "pixie >= 5.0.6",
         "boxy >= 0.4.2",
         "opengl >= 1.2.9"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "1.0.22@729e38fcba52d445857e8f57c3702635cee62e65",
@@ -44,9 +39,7 @@
         "pixie >= 5.0.6",
         "boxy >= 0.4.2",
         "opengl >= 1.2.9"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "1.0.21@e7364159b70d2aa96b4fac7895fdc8ee2feaa307",
@@ -56,9 +49,7 @@
         "pixie >= 5.0.6",
         "boxy >= 0.4.2",
         "opengl >= 1.2.9"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "1.0.2@2e1d71ada71ba4bd445d71daa05703bdd2c0372f",
@@ -68,9 +59,7 @@
         "pixie >= 5.0.6",
         "boxy >= 0.4.2",
         "opengl >= 1.2.9"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "1.0.1@4bef5c678bcec59e15c7183221080f9615621855",
@@ -80,9 +69,7 @@
         "pixie >= 5.0.6",
         "boxy >= 0.4.2",
         "opengl >= 1.2.9"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "1.0.0@3a52d7ce49fdb70f627af061c18febd066298de6",
@@ -92,9 +79,7 @@
         "pixie >= 5.0.6",
         "boxy >= 0.4.2",
         "opengl >= 1.2.9"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.2@ae0cf7fa6d0f4c1554cd5ed52ce32b188f9bea35",
@@ -104,9 +89,7 @@
         "pixie >= 5.0.6",
         "boxy >= 0.4.2",
         "opengl >= 1.2.9"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.2@078cac760e450b7567f63c2eec816fb3c51e07a9",
@@ -116,28 +99,11 @@
         "pixie >= 5.0.6",
         "boxy >= 0.4.2",
         "opengl >= 1.2.9"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@92d89a7e8e8a9834f0bdd9aabfa4292d4d5a2227",
-      "r": [
-        "windy >= 0.0.0",
-        "vmath >= 1.1.4",
-        "pixie >= 5.0.6",
-        "gh:xTrayambak/boxy >= 0.4.4",
-        "opengl >= 1.2.9",
-        "glfw >= 3.4.0.4",
-        "weave >= 0.4.10",
-        "iniplus >= 0.2.2"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:35Z",
+  "generatedAt": "2026-05-26T13:13:56Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -177,8 +143,6 @@
       "zippy"
     ],
     "urls": [],
-    "unresolved": [
-      "gh:xTrayambak/boxy"
-    ]
+    "unresolved": []
   }
 }

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "wyhash",
   "fqn": "wyhash.nim.jackhftang.github.com",
-  "head": "d087ea8a83e5ec62f1388df0945f123eb8081bdb",
   "author": "Jack Tang",
   "description": "A new awesome nimble package",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@ff4719f156900a5785fda32b729b6fa87522f911",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@d087ea8a83e5ec62f1388df0945f123eb8081bdb",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:57:04Z",
+  "generatedAt": "2026-05-26T13:20:32Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

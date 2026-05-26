@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "blg",
   "fqn": "blg.capocasa.github.com",
-  "head": "e239495b661b1a4a8ffeade6e3a498829db32e67",
   "author": "Carlo Capocasa",
   "description": "Static blog generator using markdown and symlinks",
   "license": "MIT",
@@ -17,8 +16,6 @@
       "r": [
         "margrave >= 0.3.0"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -26,22 +23,11 @@
       "r": [
         "margrave >= 0.3.0"
       ],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@e239495b661b1a4a8ffeade6e3a498829db32e67",
-      "r": [
-        "margrave >= 0.3.0"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:38Z",
+  "generatedAt": "2026-05-26T13:12:33Z",
   "allDeps": {
     "packages": [
       "margrave"

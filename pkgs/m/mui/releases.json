@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "mui",
   "fqn": "mui.angluca.github.com",
-  "head": "fb996aed79743abb3fbbbd3c9a18aecdcb00cb3e",
   "author": "Angluca",
   "description": "A tiny immediate-mode UI library",
   "license": "MIT",
@@ -18,7 +17,6 @@
     {
       "v": "2.0.1@4bccc0fff6d3db05b05351bce3b87658e9520363",
       "r": [],
-      "m": "~",
       "i": [],
       "j": []
     },
@@ -28,21 +26,11 @@
       "i": [
         "src"
       ],
-      "j": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@fb996aed79743abb3fbbbd3c9a18aecdcb00cb3e",
-      "r": [],
-      "i": [
-        "src"
-      ],
-      "m": "1.6.6",
       "j": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:46Z",
+  "generatedAt": "2026-05-26T13:16:11Z",
   "allDeps": {
     "packages": [],
     "urls": [],

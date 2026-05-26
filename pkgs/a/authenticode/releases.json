@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "authenticode",
   "fqn": "authenticode.srozb.github.com",
-  "head": "6c245c318311f2c51f5502bb8a628c1d3abd45ef",
   "author": "srozb",
   "description": "PE Authenticode parser based on libyara implementation",
   "license": "BSD-3-Clause",
@@ -11,25 +10,16 @@
   "releases": [
     {
       "v": "0.1.1@6c245c318311f2c51f5502bb8a628c1d3abd45ef^",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.0@b30c5fb81b9765378d6d5bda8cb69ca0cc4cd73e",
       "r": [],
-      "m": "1.6.8",
-      "s": ""
-    },
-    {
-      "v": "#head@6c245c318311f2c51f5502bb8a628c1d3abd45ef",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "m": "1.6.8"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:07Z",
+  "generatedAt": "2026-05-26T13:12:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nanovg",
   "fqn": "nim-nanovg.johnnovak.github.com",
-  "head": "a2c3f8b9114b87380a35c83ff84b84c9ddebe744",
   "author": "John Novak <john@johnnovak.net>",
   "description": "Nim wrapper for the NanoVG vector graphics library for OpenGL",
   "license": "MIT",
@@ -15,14 +14,12 @@
     {
       "v": "0.3.4@589ccfab9de33d4c4f00961980c33218c342d812",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.3.3@a8495f053545c8865fc7d486c6a2ce440862bc38",
       "r": [],
       "d": "Nim wrapper for the NanoVG antialiased vector graphics rendering library for OpenGL",
-      "m": "~",
       "x": []
     },
     {
@@ -73,16 +70,10 @@
       "d": "Nim wrapper for the NanoVG antialiased vector graphics rendering library for OpenGL",
       "m": "1.0.2",
       "x": []
-    },
-    {
-      "v": "#head@a2c3f8b9114b87380a35c83ff84b84c9ddebe744",
-      "r": [],
-      "m": "~",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:52Z",
+  "generatedAt": "2026-05-26T13:16:14Z",
   "allDeps": {
     "packages": [],
     "urls": [],

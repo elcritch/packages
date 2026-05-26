@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "atlas",
   "fqn": "atlas.nim-lang.github.com",
-  "head": "ba748be3808f1a63046c9d1f819b5b0990053b36",
   "author": "Araq",
   "description": "Atlas is a simple package cloner tool. It manages an isolated project.",
   "license": "MIT",
@@ -21,8 +20,6 @@
       "r": [
         "sat"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "x": [],
       "p": []
@@ -32,8 +29,6 @@
       "r": [
         "sat"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "x": [],
       "p": []
@@ -43,8 +38,6 @@
       "r": [
         "sat"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "x": [],
       "p": []
@@ -54,8 +47,6 @@
       "r": [
         "sat"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "x": [],
       "p": []
@@ -65,8 +56,6 @@
       "r": [
         "sat"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "x": [],
       "p": []
@@ -76,8 +65,6 @@
       "r": [
         "sat"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "x": [],
       "p": []
@@ -87,8 +74,6 @@
       "r": [
         "sat"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "x": [],
       "p": []
@@ -98,8 +83,6 @@
       "r": [
         "sat"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "x": [],
       "p": []
@@ -109,8 +92,6 @@
       "r": [
         "sat"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "x": [],
       "p": []
@@ -121,8 +102,6 @@
         "sat"
       ],
       "b": "",
-      "m": "~",
-      "s": "",
       "x": [],
       "p": []
     },
@@ -131,8 +110,6 @@
       "r": [],
       "d": "Atlas is a simple package cloner tool. It manages an isolated workspace.",
       "b": "",
-      "m": "~",
-      "s": "",
       "x": [],
       "p": []
     },
@@ -142,7 +119,6 @@
       "d": "Atlas is a simple package cloner tool. It manages an isolated workspace.",
       "m": "1.6.0",
       "b": "",
-      "s": "",
       "x": [],
       "p": []
     },
@@ -152,25 +128,12 @@
       "d": "Atlas is a simple package cloner tool. It manages an isolated workspace.",
       "m": "1.6.0",
       "b": "",
-      "s": "",
-      "x": [],
-      "p": []
-    },
-    {
-      "v": "#head@ba748be3808f1a63046c9d1f819b5b0990053b36",
-      "r": [
-        "sat"
-      ],
-      "g": true,
-      "m": "~",
-      "s": "",
-      "b": "",
       "x": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T07:21:19Z",
+  "generatedAt": "2026-05-26T13:12:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

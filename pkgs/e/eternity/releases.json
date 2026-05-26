@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "eternity",
   "fqn": "nim-eternity.hiteshjasani.github.com",
-  "head": "28a2900e62f829c4dd0aaa8f385c4e6cfc6bca16",
   "author": "Hitesh Jasani",
   "description": "A library to humanize elapsed times",
   "license": "MIT",
@@ -11,27 +10,17 @@
   "releases": [
     {
       "v": "0.3.0@640d62a6010bc9657c7ac055e7e26067d6bca00d",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2@b84ddd5eba7a4209659cc1c795fe41ff2c63bbe1",
       "r": [],
       "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file",
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@28a2900e62f829c4dd0aaa8f385c4e6cfc6bca16",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "E": "missing nimble file"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:19Z",
+  "generatedAt": "2026-05-26T13:13:47Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

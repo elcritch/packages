@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "spryvm",
   "fqn": "spryvm.gokr.github.com",
-  "head": "3df5d147360f3007f69b9ccf86daf99dd77e8b93",
   "author": "Göran Krampe",
   "description": "Homoiconic dynamic language interpreter in Nim",
   "license": "MIT",
@@ -21,25 +20,11 @@
         "db_connector",
         "LimDB"
       ],
-      "m": "~",
-      "x": []
-    },
-    {
-      "v": "#head@3df5d147360f3007f69b9ccf86daf99dd77e8b93",
-      "r": [
-        "python",
-        "ui",
-        "supersnappy",
-        "smtp",
-        "db_connector",
-        "LimDB"
-      ],
-      "m": "~",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:11Z",
+  "generatedAt": "2026-05-26T13:19:13Z",
   "allDeps": {
     "packages": [
       "LimDB",

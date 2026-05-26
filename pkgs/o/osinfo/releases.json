@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "osinfo",
   "fqn": "osinfo.nim-lang.github.com",
-  "head": "437486dff62eb9d91ab1e55c780f84dd0d225e2b",
   "author": "Dominik Picheta",
   "description": "Modules providing information about the OS.",
   "license": "MIT",
@@ -11,43 +10,27 @@
   "releases": [
     {
       "v": "0.1.0@767eb02cac1c6fb03fac1cce24061665fb0b73e2",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.0@97c6b2767182cd801a54501ae6e0772139ac1fef",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.3.0@9870ce49c691f9b00cdc789ad750e3a19d744242",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.3.1@d8c204bd26bbb3a3bdda9cd872914a326c726a32",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.3.2@574835154e48ee12dabc91a8ed052b7882cf9aa2",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@437486dff62eb9d91ab1e55c780f84dd0d225e2b",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:11Z",
+  "generatedAt": "2026-05-26T13:17:51Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "uspokoysa",
   "fqn": "uspokoysa.ioplker.github.com",
-  "head": "57be76666f4e40b98e0d29d6dc3eef9989063d3c",
   "author": "ioplker",
   "description": "Dead simple Nim app for making timebreaks",
   "license": "BSD-3-Clause",
@@ -17,8 +16,6 @@
       "r": [
         "nigui 0.2.5"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -26,22 +23,11 @@
       "r": [
         "nigui 0.2.5"
       ],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@57be76666f4e40b98e0d29d6dc3eef9989063d3c",
-      "r": [
-        "nigui 0.2.5"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:24Z",
+  "generatedAt": "2026-05-26T13:20:05Z",
   "allDeps": {
     "packages": [
       "nigui"

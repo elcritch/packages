@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimfuzzy",
   "fqn": "nimfuzzy.genotrance.github.com",
-  "head": "127ed4dceea947e73f4007a4bc2800dc5762357c",
   "author": "genotrance",
   "description": "Fuzzy search wrapper for Nim",
   "license": "MIT",
@@ -49,18 +48,10 @@
       ],
       "h": true,
       "x": []
-    },
-    {
-      "v": "#head@127ed4dceea947e73f4007a4bc2800dc5762357c",
-      "r": [
-        "nimgen >= 0.4.0"
-      ],
-      "h": true,
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:45Z",
+  "generatedAt": "2026-05-26T13:16:51Z",
   "allDeps": {
     "packages": [
       "c2nim",

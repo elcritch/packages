@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "parseini",
   "fqn": "parseini.lihf8515.github.com",
-  "head": "a7f203db35c56bbd47b2af39355319c5a0aad667",
   "author": "Lihaifeng <lihaifeng@wxm.com>",
   "description": "A high-performance ini parse library.",
   "license": "MIT",
@@ -11,31 +10,19 @@
   "releases": [
     {
       "v": "0.1.0@b81971c51fee001dbc816db94cc9ba5d92062c31",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.0@638448523d56eb9ed93d09d578b132f81524e546",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.3.0@01fce92adb69e4099c563b0d4b888645a1c2e41a",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@a7f203db35c56bbd47b2af39355319c5a0aad667",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:23Z",
+  "generatedAt": "2026-05-26T13:17:58Z",
   "allDeps": {
     "packages": [],
     "urls": [],

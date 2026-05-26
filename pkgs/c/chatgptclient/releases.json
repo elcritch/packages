@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "chatgptclient",
   "fqn": "chatgptclient.jaredmontoya.github.com",
-  "head": "415fa4f4392d7ba841011fa09e1aa9d22b60f51b",
   "author": "jaredmontoya",
   "description": "Native gui client for OpenAI chatgpt",
   "license": "GPL-3.0-or-later",
@@ -18,8 +17,6 @@
         "nigui >= 0.2.6",
         "pyopenai >= 0.1.1"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -28,8 +25,6 @@
         "nigui >= 0.2.6",
         "pyopenai >= 0.1.1"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -38,22 +33,11 @@
         "nigui >= 0.2.6",
         "pyopenai >= 0.1.0"
       ],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@415fa4f4392d7ba841011fa09e1aa9d22b60f51b",
-      "r": [],
-      "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/c/chatgptclient/.worktree/chatgptclient.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.0\ninvalid 'requires' syntax in nimble file: owlkettle ^= 3.0.0\ninvalid 'requires' syntax in nimble file: pyopenai ^= 0.2.0",
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:06Z",
+  "generatedAt": "2026-05-26T13:12:56Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

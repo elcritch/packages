@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nbcnews",
   "fqn": "nbcnews.thisago.github.com",
-  "head": "8cd6dfba067425973502cf6281c4b46c5a6c56d8",
   "author": "Luciano Lorenzo",
   "description": "NBC News scrape",
   "license": "MIT",
@@ -24,9 +23,7 @@
       ],
       "b": "",
       "k": [],
-      "p": [],
-      "m": "~",
-      "s": ""
+      "p": []
     },
     {
       "v": "0.2.0@bc433561030529b0338060249de11d305bfc3dd3",
@@ -36,9 +33,7 @@
       ],
       "b": "",
       "k": [],
-      "p": [],
-      "m": "~",
-      "s": ""
+      "p": []
     },
     {
       "v": "0.3.0@562b978c123a9577bea3c5561eb30c4442cd5b14",
@@ -48,9 +43,7 @@
       ],
       "b": "",
       "k": [],
-      "p": [],
-      "m": "~",
-      "s": ""
+      "p": []
     },
     {
       "v": "1.0.0@4306fdef2fa5587dffafba4583ee0b92fc1ed30d",
@@ -60,8 +53,6 @@
         "cligen"
       ],
       "k": [],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -74,8 +65,6 @@
       ],
       "l": "proprietary",
       "k": [],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -87,8 +76,6 @@
         "cligen"
       ],
       "l": "proprietary",
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
@@ -103,8 +90,6 @@
       "a": "Thiago Navarro",
       "d": "NBC News scraper",
       "l": "gpl-3-only",
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
@@ -119,8 +104,6 @@
       "a": "Thiago Navarro",
       "d": "NBC News scraper",
       "l": "gpl-3-only",
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
@@ -135,8 +118,6 @@
       "a": "Thiago Navarro",
       "d": "NBC News scraper",
       "l": "gpl-3.0-only",
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
@@ -151,31 +132,13 @@
       "a": "Thiago Navarro",
       "d": "NBC News scraper",
       "l": "gpl-3.0-only",
-      "m": "~",
-      "s": "",
-      "b": "",
-      "k": [],
-      "p": []
-    },
-    {
-      "v": "#head@8cd6dfba067425973502cf6281c4b46c5a6c56d8",
-      "r": [
-        "gh:thisago/useragent",
-        "util",
-        "cligen"
-      ],
-      "a": "Thiago Navarro",
-      "d": "NBC News scraper",
-      "l": "gpl-3.0-only",
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:56Z",
+  "generatedAt": "2026-05-26T13:16:17Z",
   "allDeps": {
     "packages": [
       "cligen > 0.3.0",
@@ -186,7 +149,6 @@
       "error://findxml <= 1.0.4"
     ],
     "unresolved": [
-      "gh:thisago/findxml",
       "gh:thisago/useragent",
       "gl:lurlo/useragent"
     ]

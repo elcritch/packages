@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "climinesweeper",
   "fqn": "MineSweeper_on_CLI.KerorinNorthFox.github.com",
-  "head": "1e3248ac4d60b65c17e3e0d58ace9c97c716eeee",
   "author": "kerorinnf",
   "description": "Play MineSweeper on CLI",
   "license": "MIT",
@@ -18,8 +17,6 @@
         "illwill >= 0.3.0",
         "jsony >= 1.1.5"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -27,8 +24,6 @@
       "r": [
         "illwill >= 0.3.0"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -36,8 +31,6 @@
       "r": [
         "illwill >= 0.3.0"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -45,8 +38,6 @@
       "r": [
         "illwill >= 0.3.0"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -54,23 +45,11 @@
       "r": [
         "illwill >= 0.3.0"
       ],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@1e3248ac4d60b65c17e3e0d58ace9c97c716eeee",
-      "r": [
-        "illwill >= 0.3.0",
-        "jsony >= 1.1.5"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:18Z",
+  "generatedAt": "2026-05-26T13:13:05Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

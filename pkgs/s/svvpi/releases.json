@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "svvpi",
   "fqn": "nim-svvpi.kaushalmodi.github.com",
-  "head": "c27f789ef06f477b0cd428f8e70c27782fe07641",
   "author": "Kaushal Modi",
   "description": "Wrapper for SystemVerilog VPI headers vpi_user.h and sv_vpi_user.h",
   "license": "MIT",
@@ -22,8 +21,6 @@
       "r": [
         "nimterop >= 0.6.13"
       ],
-      "s": "",
-      "m": "~",
       "i": [],
       "j": []
     },
@@ -32,8 +29,6 @@
       "r": [
         "nimterop >= 0.6.13"
       ],
-      "s": "",
-      "m": "~",
       "i": [],
       "j": []
     },
@@ -42,8 +37,6 @@
       "r": [
         "nimterop >= 0.6.13"
       ],
-      "s": "",
-      "m": "~",
       "i": [],
       "j": []
     },
@@ -52,8 +45,6 @@
       "r": [
         "nimterop >= 0.6.13"
       ],
-      "s": "",
-      "m": "~",
       "i": [],
       "j": []
     },
@@ -62,8 +53,6 @@
       "r": [
         "nimterop >= 0.6.13"
       ],
-      "s": "",
-      "m": "~",
       "i": [],
       "j": []
     },
@@ -73,23 +62,11 @@
         "nimterop >= 0.6.13"
       ],
       "i": [],
-      "j": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@c27f789ef06f477b0cd428f8e70c27782fe07641",
-      "r": [
-        "nimterop >= 0.6.13"
-      ],
-      "s": "",
-      "m": "~",
-      "i": [],
       "j": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:30Z",
+  "generatedAt": "2026-05-26T13:19:27Z",
   "allDeps": {
     "packages": [
       "cligen",

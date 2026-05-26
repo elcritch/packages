@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "envmw",
   "fqn": "envmw.git/pulux.pf4sh.eu",
-  "head": "26b9294335436be44470b100420808d3bcbafa25",
   "author": "Pulux",
   "description": "Key-Value Service in RAM",
   "license": "MIT",
@@ -21,8 +20,6 @@
         "mike >= 1.3.3",
         "argparse"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -33,8 +30,6 @@
         "mike >= 1.3.3",
         "argparse"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -45,8 +40,6 @@
         "mike >= 1.3.3",
         "argparse"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -57,8 +50,6 @@
         "mike >= 1.3.3",
         "argparse"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -70,8 +61,6 @@
         "octolog",
         "argparse"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -86,52 +75,27 @@
       "p": [
         "envmw"
       ],
-      "b": "",
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@26b9294335436be44470b100420808d3bcbafa25",
-      "r": [
-        "jsony",
-        "mike >= 1.3.3",
-        "argparse"
-      ],
-      "m": "~",
-      "s": "",
-      "b": "",
-      "p": []
+      "b": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T07:23:44Z",
+  "generatedAt": "2026-05-26T13:13:48Z",
   "allDeps": {
     "packages": [
       "argparse",
-      "chronicles",
-      "faststreams",
       "httpx",
       "ioselectors",
-      "json_serialization",
       "jsony",
       "malebolgia <= 0.1.4",
       "mike",
       "octolog <= 0.1.4",
-      "results",
-      "serialization",
-      "stew",
-      "testutils",
       "timerwheel",
-      "unittest2",
       "websocketx",
       "wepoll",
       "ws",
       "zippy"
     ],
     "urls": [],
-    "unresolved": [
-      "gh:ire4ever1190/casserole",
-      "gh:ire4ever1190/nort"
-    ]
+    "unresolved": []
   }
 }

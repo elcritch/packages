@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "ghostscript",
   "fqn": "nim-ghostscript.fox0430.github.com",
-  "head": "98b1cdb6db3cf83f32d8fe64d0e987a454570735",
   "author": "fox0430",
   "description": "Nim bindings for Ghostscript",
   "license": "MIT",
@@ -14,18 +13,11 @@
     {
       "v": "0.1.0@88f4ea70b6b67d81c9a38e41502c6ce97885db24",
       "r": [],
-      "m": "~",
-      "i": []
-    },
-    {
-      "v": "#head@98b1cdb6db3cf83f32d8fe64d0e987a454570735",
-      "r": [],
-      "m": "~",
       "i": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:14Z",
+  "generatedAt": "2026-05-26T13:14:22Z",
   "allDeps": {
     "packages": [],
     "urls": [],

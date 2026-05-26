@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "gdext",
   "fqn": "gdext-nim.godot-nim.github.com",
-  "head": "15b69a92ba2642f2bea117e01e3bbcd112c9f57d",
   "releases": [
     {
       "v": "0.17.1@15b69a92ba2642f2bea117e01e3bbcd112c9f57d^",
@@ -213,16 +212,10 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file"
-    },
-    {
-      "v": "#head@15b69a92ba2642f2bea117e01e3bbcd112c9f57d",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "ambiguous nimble file"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:08Z",
+  "generatedAt": "2026-05-26T13:14:19Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

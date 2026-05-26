@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "awk",
   "fqn": "awk.greencardamom.github.com",
-  "head": "b35f9fd9b441b952b19b1dc74f0962547cee1663",
   "author": "Green Cardamom",
   "description": "A library of awk functions in nim",
   "license": "MIT",
@@ -13,21 +12,11 @@
       "v": "1.0@32e988444b6c14ce255a74a6953ed34132bf3545",
       "r": [
         "nre >= 1.0.0"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@b35f9fd9b441b952b19b1dc74f0962547cee1663",
-      "r": [
-        "nre >= 1.0.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:10Z",
+  "generatedAt": "2026-05-26T13:12:12Z",
   "allDeps": {
     "packages": [
       "nre"

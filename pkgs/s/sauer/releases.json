@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "sauer",
   "fqn": "sauer.moigagoo.github.com",
-  "head": "6a375152b1560b8bd805c36f544e6cbbc5921969",
   "author": "Constantine Molchanov",
   "description": "Scaffolder for Karax, with Karkas in mind.",
   "license": "MIT",
@@ -18,8 +17,6 @@
       "r": [],
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/sauer.moigagoo.github.com-6eea8a81-sauer.nimble\ninvalid 'requires' syntax in nimble file: climate ~= 1.1.1",
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -28,8 +25,6 @@
       "r": [],
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/sauer.moigagoo.github.com-38abcd75-sauer.nimble\ninvalid 'requires' syntax in nimble file: climate ~= 1.1.1",
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -38,8 +33,6 @@
       "r": [],
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/sauer.moigagoo.github.com-707c26b5-sauer.nimble\ninvalid 'requires' syntax in nimble file: climate ~= 1.1.1",
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -50,7 +43,6 @@
       ],
       "d": "Scaffolder for Karax.",
       "m": "1.6.12",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -61,7 +53,6 @@
       ],
       "d": "Scaffolder for Karax.",
       "m": "1.6.12",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -72,7 +63,6 @@
       ],
       "d": "Scaffolder for Karax.",
       "m": "1.6.12",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -83,7 +73,6 @@
       ],
       "d": "Scaffolder for Karax.",
       "m": "1.6.12",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -94,7 +83,6 @@
       ],
       "d": "Scaffolder for Karax.",
       "m": "1.6.12",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -105,7 +93,6 @@
       ],
       "d": "Scaffolder for Karax.",
       "m": "1.6.12",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -116,7 +103,6 @@
       ],
       "d": "Scaffolder for Karax.",
       "m": "1.6.12",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -127,7 +113,6 @@
       ],
       "d": "Scaffolder for Karax.",
       "m": "1.6.12",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -138,23 +123,12 @@
       ],
       "d": "Scaffolder for Karax.",
       "m": "1.9.1",
-      "s": "",
-      "b": "",
-      "p": []
-    },
-    {
-      "v": "#head@f09fb74ce3550d71e5757d03a86a4dbb8fcdd590",
-      "r": [],
-      "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/s/sauer/.worktree/sauer.nimble\ninvalid 'requires' syntax in nimble file: climate ~= 1.1.1",
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:27Z",
+  "generatedAt": "2026-05-26T13:18:42Z",
   "allDeps": {
     "packages": [
       "climate <= 1.0.8"

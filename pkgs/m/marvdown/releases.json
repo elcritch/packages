@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "marvdown",
   "fqn": "marvdown.openpeeps.github.com",
-  "head": "faa5a123c540b1f00cd0861b25b0f1e408ae6c77",
   "author": "George Lemon",
   "description": "A stupid simple Markdown library",
   "license": "MIT",
@@ -23,34 +22,19 @@
         "denim",
         "jsony"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
-    },
-    {
-      "v": "#head@faa5a123c540b1f00cd0861b25b0f1e408ae6c77",
-      "r": [
-        "openparser #head"
-      ],
-      "b": "",
-      "k": [],
-      "p": [],
-      "m": "~",
-      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:21Z",
+  "generatedAt": "2026-05-26T13:15:52Z",
   "allDeps": {
     "packages": [
       "ansiparse",
       "bigints",
-      "blackpaper",
       "checksums",
       "denim",
-      "floof",
       "htmlparser",
       "illwill",
       "jsony",

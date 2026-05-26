@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "primes",
   "fqn": "primes.wokibe.github.com",
-  "head": "790b963d7adee7dc6217ac14a11f6a65bc1960be",
   "author": "wolfkibe@gmail.com",
   "description": "Utilities for prime numbers",
   "license": "MIT",
@@ -13,21 +12,11 @@
       "v": "0.1.10@790b963d7adee7dc6217ac14a11f6a65bc1960be^",
       "r": [
         "bitty >= 0.1.4"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@790b963d7adee7dc6217ac14a11f6a65bc1960be",
-      "r": [
-        "bitty >= 0.1.4"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:48Z",
+  "generatedAt": "2026-05-26T13:18:17Z",
   "allDeps": {
     "packages": [
       "bitty"

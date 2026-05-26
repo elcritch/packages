@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "testify",
   "fqn": "testify.sealmove.github.com",
-  "head": "011de16e92f85e20d4c4704c9c15236c87ec32e2",
   "author": "Stefanos Mandalas",
   "description": "File-based unit testing runner",
   "license": "MIT",
@@ -15,29 +14,17 @@
     {
       "v": "0.1.0@7f5dbe28cc32a6c7fda712134b041b2d9772641e",
       "r": [],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
       "v": "0.2.0@4ec8ac947fcb4790c16eeb44246ae76a57d7426d",
       "r": [],
       "d": "File-based unit testing system",
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@011de16e92f85e20d4c4704c9c15236c87ec32e2",
-      "r": [],
-      "d": "File-based unit testing system",
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:44Z",
+  "generatedAt": "2026-05-26T13:19:37Z",
   "allDeps": {
     "packages": [],
     "urls": [],

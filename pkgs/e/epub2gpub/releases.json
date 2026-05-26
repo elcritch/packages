@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "epub2gpub",
   "fqn": "epub2gpub.mars2klb.gitlab.com",
-  "head": "a3379efc9a291f231164899bc1d84568d43f286f",
   "author": "McKay Marston",
   "description": "Convert epub to gpub (https://codeberg.org/oppenlab/gempub)",
   "license": "MIT",
@@ -18,23 +17,11 @@
         "zippy >= 0.10.5",
         "commandant >= 0.15.0"
       ],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@a3379efc9a291f231164899bc1d84568d43f286f",
-      "r": [
-        "zippy >= 0.10.5",
-        "commandant >= 0.15.0"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T07:23:41Z",
+  "generatedAt": "2026-05-26T13:13:47Z",
   "allDeps": {
     "packages": [
       "commandant",

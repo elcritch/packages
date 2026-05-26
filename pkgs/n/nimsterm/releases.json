@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimsterm",
   "fqn": "nimsterm.hmbemba.github.com",
-  "head": "cf44eee9d4fe212eef76f5ccebc9547e78b28e67",
   "author": "you",
   "description": "Windows-friendly terminal helpers that work in both Nim and NimScript.",
   "license": "MIT",
@@ -11,37 +10,23 @@
   "releases": [
     {
       "v": "0.1.7@cf44eee9d4fe212eef76f5ccebc9547e78b28e67^",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.5@889938e35ed78664914653302c507c27e49665e9",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.4@019be360a80815e72c8331fe0e7edd4400f036c5",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.1@4c40f83511aeb242dd133d318a64b1d09051b7f3",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@cf44eee9d4fe212eef76f5ccebc9547e78b28e67",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:17Z",
+  "generatedAt": "2026-05-26T13:17:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

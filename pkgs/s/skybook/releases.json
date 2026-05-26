@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "skybook",
   "fqn": "skybook.muxueqz.github.com",
-  "head": "b53b514d59340f34536b21a5bb6a4fb8d6e526f9",
   "author": "muxueqz",
   "description": "Light weight bookmark manager(delicious alternative)",
   "license": "GPL-2.0",
@@ -17,8 +16,6 @@
       "r": [
         "jester >= 0.4.1"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -26,8 +23,6 @@
       "r": [
         "jester >= 0.4.1"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -35,8 +30,6 @@
       "r": [
         "jester >= 0.4.1"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -44,22 +37,11 @@
       "r": [
         "jester >= 0.4.1"
       ],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@b53b514d59340f34536b21a5bb6a4fb8d6e526f9",
-      "r": [
-        "karax >= 1.0.0"
-      ],
-      "m": "2.0.0",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:57Z",
+  "generatedAt": "2026-05-26T13:19:04Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -74,11 +56,8 @@
   "allDeps": {
     "packages": [
       "asynctools",
-      "dotenv",
       "httpbeast",
-      "jester",
-      "karax",
-      "ws"
+      "jester"
     ],
     "urls": [],
     "unresolved": [

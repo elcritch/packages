@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "happyx-ui",
   "fqn": "happyx-ui.HapticX.github.com",
-  "head": "0f9831edc98c830a92931f62d4074130e49b6dbc",
   "author": "HapticX",
   "description": "UI library for HappyX web framework",
   "license": "MIT",
@@ -13,21 +12,11 @@
       "v": "1.0.0@a5d3579457ae6f5a5790247601b3210fd3876ce0",
       "r": [
         "happyx >= 3.10.2"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@0f9831edc98c830a92931f62d4074130e49b6dbc",
-      "r": [
-        "happyx >= 3.10.2"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:38Z",
+  "generatedAt": "2026-05-26T13:14:37Z",
   "allDeps": {
     "packages": [
       "asynctools",

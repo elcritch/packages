@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "sequoia",
   "fqn": "sequoia.nim.ba0f3.github.com",
-  "head": "92e5fb8307d7945624099f38a31bdbf9b109442c",
   "author": "Huy Doan",
   "description": "Sequoia PGP wrapper for Nim",
   "license": "GPLv3",
@@ -16,27 +15,16 @@
     {
       "v": "0.1.1@45d839c8f658680a959e762dd36845b2ed81c704",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
       "v": "0.1.0@d21bbbefd14d413fa155dd805fd5a555337fb4d4",
       "r": [],
-      "m": "~",
-      "s": "",
-      "x": []
-    },
-    {
-      "v": "#head@92e5fb8307d7945624099f38a31bdbf9b109442c",
-      "r": [],
-      "m": "~",
-      "s": "",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:40Z",
+  "generatedAt": "2026-05-26T13:18:53Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

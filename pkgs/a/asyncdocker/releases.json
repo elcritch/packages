@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "asyncdocker",
   "fqn": "asyncdocker.tulayang.github.com",
-  "head": "36343818e2103ed3e73b9a872cb831886b269888",
   "author": "Wang Tong",
   "description": "Asynchronous docker client written by Nim-lang",
   "license": "MIT",
@@ -18,14 +17,10 @@
     {
       "v": "0.3.0@124680315e6170e0c47667b75d38bf73f28b4e4f",
       "r": []
-    },
-    {
-      "v": "#head@36343818e2103ed3e73b9a872cb831886b269888",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:01Z",
+  "generatedAt": "2026-05-26T13:12:06Z",
   "allDeps": {
     "packages": [],
     "urls": [],

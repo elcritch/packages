@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "pwned",
   "fqn": "pwned.dom96.github.com",
-  "head": "492c7d6e0bf9761fb2a81fd3b75b2e805757ab4b",
   "author": "Dominik Picheta",
   "description": "A client for the Pwned passwords API.",
   "license": "MIT",
@@ -18,8 +17,6 @@
     {
       "v": "1.0.0@42d3c2c4c0538f0973b8536b148e80435446b6cf",
       "r": [],
-      "m": "~",
-      "s": "",
       "z": [],
       "p": []
     },
@@ -27,21 +24,11 @@
       "v": "0.1.0@9b84731c59272193f187b84b824f78dcf944468d",
       "r": [],
       "z": [],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@492c7d6e0bf9761fb2a81fd3b75b2e805757ab4b",
-      "r": [],
-      "m": "~",
-      "s": "",
-      "z": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:55Z",
+  "generatedAt": "2026-05-26T13:18:22Z",
   "allDeps": {
     "packages": [],
     "urls": [],

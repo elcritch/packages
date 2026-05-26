@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "denim_ui_canvas",
   "fqn": "denim-ui-canvas.nortero-code.github.com",
-  "head": "026fb8721012b24b836de87c546dd06d5c92bf62",
   "author": "Kristian Fjeld Hasselknippe",
   "description": "HTML Canvas backend for the denim ui engine",
   "license": "MIT",
@@ -13,21 +12,11 @@
       "v": "0.1.0@ccdd1c0d102d5f4e645f1076bf72fe74d5a31575",
       "r": [
         "denim_ui"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@026fb8721012b24b836de87c546dd06d5c92bf62",
-      "r": [
-        "denim_ui"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:52Z",
+  "generatedAt": "2026-05-26T13:13:30Z",
   "allDeps": {
     "packages": [
       "denim_ui",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "testrunner",
   "fqn": "nim-testrunner.FedericoCeratto.github.com",
-  "head": "aabb86b6f3268fe03564a393e9e45319cae1101c",
   "author": "Federico Ceratto",
   "description": "Test runner",
   "license": "GPLv3",
@@ -14,18 +13,11 @@
     {
       "v": "0.1.0@a757957b46dc3a0a01a570a2d4eb6a7d55ebb91e",
       "r": [],
-      "m": "~",
-      "p": []
-    },
-    {
-      "v": "#head@aabb86b6f3268fe03564a393e9e45319cae1101c",
-      "r": [],
-      "m": "~",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:44Z",
+  "generatedAt": "2026-05-26T13:19:37Z",
   "allDeps": {
     "packages": [],
     "urls": [],

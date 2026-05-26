@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "mpwc",
   "fqn": "mpwc.SolitudeSF.github.com",
-  "head": "aa1dfcf4f21721f22768bbbfea4c08d54936d523",
   "author": "SolitudeSF",
   "description": "Master Password command line utility",
   "license": "MIT",
@@ -18,8 +17,6 @@
         "masterpassword >= 0.2.0",
         "cligen >= 1.0.0"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -29,7 +26,6 @@
         "cligen >= 0.9.31"
       ],
       "m": "0.19.9",
-      "s": "",
       "p": []
     },
     {
@@ -39,7 +35,6 @@
         "cligen >= 0.9.31"
       ],
       "m": "0.19.9",
-      "s": "",
       "p": []
     },
     {
@@ -49,22 +44,11 @@
         "cligen >= 0.9.31"
       ],
       "m": "0.19.9",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@aa1dfcf4f21721f22768bbbfea4c08d54936d523",
-      "r": [
-        "masterpassword >= 0.2.0",
-        "cligen >= 1.0.0"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:45Z",
+  "generatedAt": "2026-05-26T13:16:10Z",
   "allDeps": {
     "packages": [
       "checksums",

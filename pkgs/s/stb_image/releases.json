@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "stb_image",
   "fqn": "stb_image-Nim.define-private-public.gitlab.com",
-  "head": "ba5f45286bfa9bed93d8d6b941949cd6218ec888",
   "author": "Benjamin N. Summerton <define-private-public>",
   "description": "A wrapper for stb_image (including stb_image_write & zlib client).",
   "license": "Unlicense (Public Domain)",
@@ -17,35 +16,30 @@
     {
       "v": "2.5@43e38206ba49c97e61cd0796f812cd4e6784ed02",
       "r": [],
-      "m": "~",
       "x": [],
       "y": []
     },
     {
       "v": "2.4@4d5a1fee39bb13982e06d99d0fa5d1b338bbb62a",
       "r": [],
-      "m": "~",
       "x": [],
       "y": []
     },
     {
       "v": "2.3@ab673de4fac26c385b14d51f43079d62e2503b7c",
       "r": [],
-      "m": "~",
       "x": [],
       "y": []
     },
     {
       "v": "2.2@b4a05f3f1868e50eb74e8f4aa24c042993fe1df8",
       "r": [],
-      "m": "~",
       "x": [],
       "y": []
     },
     {
       "v": "2.1@25b50a6601cc9739b691522cb1665833e5809ab2",
       "r": [],
-      "m": "~",
       "x": [],
       "y": []
     },
@@ -53,7 +47,6 @@
       "v": "2.0@aafff2be31a596d660e476ef90134f61acf04ccd",
       "r": [],
       "d": "A wrapper for stb_image (including stb_image_write).",
-      "m": "~",
       "x": [],
       "y": []
     },
@@ -65,7 +58,6 @@
         "nakefile.nim",
         "tests.nim"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -76,7 +68,6 @@
         "nakefile.nim",
         "tests.nim"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -87,7 +78,6 @@
         "nakefile.nim",
         "tests.nim"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -98,27 +88,18 @@
         "nakefile.nim",
         "tests.nim"
       ],
-      "m": "~",
       "x": []
     },
     {
       "v": "1.1@637c5804bc1e952a4d88d1cfe56e1ef452e05b6c",
       "r": [],
       "d": "A wrapper for stb_image (including stb_image_write).",
-      "m": "~",
-      "x": [],
-      "y": []
-    },
-    {
-      "v": "#head@ba5f45286bfa9bed93d8d6b941949cd6218ec888",
-      "r": [],
-      "m": "~",
       "x": [],
       "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T07:31:46Z",
+  "generatedAt": "2026-05-26T13:19:19Z",
   "allDeps": {
     "packages": [],
     "urls": [],

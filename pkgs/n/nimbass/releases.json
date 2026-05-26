@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimbass",
   "fqn": "nimbass.genotrance.github.com",
-  "head": "0e0786bb2959a130c2d78fe14c9ae087f36449ea",
   "author": "genotrance",
   "description": "Bass wrapper for Nim",
   "license": "MIT",
@@ -40,17 +39,10 @@
       ],
       "h": true,
       "x": []
-    },
-    {
-      "v": "#head@0e0786bb2959a130c2d78fe14c9ae087f36449ea",
-      "r": [
-        "nimterop >= 0.6.2"
-      ],
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:30Z",
+  "generatedAt": "2026-05-26T13:16:41Z",
   "allDeps": {
     "packages": [
       "c2nim <= 0.1.3",

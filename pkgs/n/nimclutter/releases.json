@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimclutter",
   "fqn": "nimclutter.KeepCoolWithCoolidge.github.com",
-  "head": "87af6423eec1d66f253e62e6bb8d29b45fb5752b",
   "author": "Andrew Burns",
   "description": "Nim bindings for Clutter toolkit.",
   "license": "MIT",
@@ -13,22 +12,11 @@
       "v": "0.1.0@eca3ef1975d156513ce9af678de3c98471feaef4",
       "r": [
         "oldgtk3"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@87af6423eec1d66f253e62e6bb8d29b45fb5752b",
-      "r": [
-        "oldgtk3"
-      ],
-      "l": "LGPLv2.1",
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:36Z",
+  "generatedAt": "2026-05-26T13:16:46Z",
   "allDeps": {
     "packages": [
       "oldgtk3"

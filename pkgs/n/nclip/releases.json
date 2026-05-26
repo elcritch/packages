@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nclip",
   "fqn": "nclip.4zv4l.github.com",
-  "head": "bcf18785dd85131374a3d51db6b98c45ac1aa32d",
   "author": "4zv4l",
   "description": "A simple wrapper around the winapi to control the clipboard",
   "license": "MIT",
@@ -13,21 +12,11 @@
       "v": "1.0.0@7c2bd7d0f98ef83da2fdd9323306bc87eecf87e9",
       "r": [
         "winim 3.9.0"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@bcf18785dd85131374a3d51db6b98c45ac1aa32d",
-      "r": [
-        "winim 3.9.0"
-      ],
-      "m": "1.4.0",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:56Z",
+  "generatedAt": "2026-05-26T13:16:17Z",
   "allDeps": {
     "packages": [
       "winim"

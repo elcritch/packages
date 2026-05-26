@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "pipelines",
   "fqn": "pipelines.calebwin.github.com",
-  "head": "e623d2d03e42467eb50dd1882e3864108fbff0ed",
   "author": "calebwin",
   "description": "A tiny framework & language for crafting massively parallel data pipelines",
   "license": "MIT",
@@ -16,20 +15,11 @@
       "r": [
         "python >= 0.0.0"
       ],
-      "m": "~",
-      "p": []
-    },
-    {
-      "v": "#head@e623d2d03e42467eb50dd1882e3864108fbff0ed",
-      "r": [
-        "python >= 0.0.0"
-      ],
-      "m": "~",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:31Z",
+  "generatedAt": "2026-05-26T13:18:04Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "sudo",
   "fqn": "sudo.nim.FyraLabs.github.com",
-  "head": "36455ab07524ca2a1896ef1bbad493ea9421c84b",
   "author": "madonuko",
   "description": "Detect if you are running as root, restart self with sudo if needed or setup uid zero when running with the SUID flag set.",
   "license": "MIT",
@@ -14,31 +13,18 @@
       "r": [
         "sweet >= 0.1.1",
         "results"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.0@341fb5dbabe7a2fdaf66b3c055de8681f9866af0",
       "r": [
         "sweet >= 0.1.1",
         "results"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@36455ab07524ca2a1896ef1bbad493ea9421c84b",
-      "r": [
-        "sweet >= 0.1.1",
-        "results"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:25Z",
+  "generatedAt": "2026-05-26T13:19:24Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "waku",
   "fqn": "nwaku.waku-org.github.com",
-  "head": "4b80c7762d28d0d2142cff329bc747e56948d44b",
   "author": "Status Research & Development GmbH",
   "description": "Waku, Private P2P Messaging for Resource-Restricted Devices",
   "license": "MIT or Apache License 2.0",
@@ -35,8 +34,7 @@
         "error://ffi"
       ],
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nwaku.waku-org.github.com-f757a8eb-waku.nimble\ncannot resolve package name: ffi",
-      "m": "~"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nwaku.waku-org.github.com-f757a8eb-waku.nimble\ncannot resolve package name: ffi"
     },
     {
       "v": "0.38.0@4d314b376d95e210e938894027bb9267e834e81d",
@@ -65,8 +63,7 @@
         "error://ffi"
       ],
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nwaku.waku-org.github.com-4d314b37-waku.nimble\ncannot resolve package name: ffi",
-      "m": "~"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nwaku.waku-org.github.com-4d314b37-waku.nimble\ncannot resolve package name: ffi"
     },
     {
       "v": "0.37.4@79bc9fd421d0c0de12cf2a9f87a3a77e5b4f5feb",
@@ -90,8 +87,7 @@
         "results",
         "db_connector",
         "minilru"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.37.3@f3852c3a439353d74f3b7175fe3347e4f5aecd32",
@@ -115,8 +111,7 @@
         "results",
         "db_connector",
         "minilru"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.37.2@b8a97fc4e7c528dc30d2505dc420edb0eddba593",
@@ -140,8 +135,7 @@
         "results",
         "db_connector",
         "minilru"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.37.1@d1c830f35d517881e46556c1163b51aa540b8592",
@@ -165,8 +159,7 @@
         "results",
         "db_connector",
         "minilru"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.37.1@e049cb1562b1182b9305890670fd8541827a986e",
@@ -190,8 +183,7 @@
         "results",
         "db_connector",
         "minilru"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.37.0@1dcd12b2518808d036e2858704c2f843cff53b58",
@@ -215,8 +207,7 @@
         "results",
         "db_connector",
         "minilru"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.36.0@ddf454163e9876983662bb0c57df8e4008681a23",
@@ -239,8 +230,7 @@
         "db_connector",
         "minilru",
         "quic"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.35.1@2c37c2dabcac1d61f609dd67f30b65170cfbb740",
@@ -789,54 +779,10 @@
         "presto"
       ],
       "m": "1.2.0"
-    },
-    {
-      "v": "#head@4b80c7762d28d0d2142cff329bc747e56948d44b",
-      "r": [
-        "chronos >= 4.2.0",
-        "taskpools",
-        "chronicles",
-        "confutils",
-        "serialization",
-        "json_serialization",
-        "toml_serialization",
-        "faststreams",
-        "libp2p #ff8d51857b4b79a68468e7bcc27b2026cca02996",
-        "eth",
-        "nat_traversal",
-        "dnsdisc",
-        "dnsclient",
-        "httputils >= 0.4.1",
-        "websock >= 0.3.0",
-        "nimcrypto 0.6.4",
-        "secp256k1",
-        "bearssl",
-        "json_rpc #43bbf499143eb45046c83ac9794c9e3280a2b8e7",
-        "presto",
-        "web3",
-        "db_connector",
-        "sqlite3_abi",
-        "stew",
-        "stint",
-        "metrics",
-        "regex",
-        "unicodedb",
-        "results",
-        "minilru",
-        "zlib",
-        "testutils",
-        "unittest2",
-        "gh:logos-messaging/nim-ffi",
-        "gh:logos-messaging/nim-sds #2e9a7683f0e180bf112135fae3a3803eed8490d4",
-        "brokers #v2.0.1",
-        "lsquic",
-        "gh:vacp2p/nim-jwt #057ec95eb5af0eea9c49bfe9025b3312c95dc5f2"
-      ],
-      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:45Z",
+  "generatedAt": "2026-05-26T13:20:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -960,8 +906,6 @@
   "allDeps": {
     "packages": [
       "bearssl",
-      "brokers",
-      "cbor_serialization",
       "chronicles",
       "chronos",
       "confutils",
@@ -972,21 +916,18 @@
       "faststreams",
       "graphemes > 0.12.0",
       "httputils",
-      "intops",
       "json_rpc",
       "json_serialization",
       "jwt > 0.37.4",
       "libbacktrace",
       "libp2p",
-      "lsquic",
+      "lsquic > 0.37.4",
       "metrics",
       "minilru",
       "nat_traversal",
       "ngtcp2",
       "nimcrypto",
-      "npeg",
       "presto",
-      "protobuf_serialization",
       "quic",
       "regex > 0.12.0",
       "results",
@@ -997,9 +938,7 @@
       "sqlite3_abi",
       "stew",
       "stint",
-      "taskpools",
       "testutils",
-      "toml_serialization",
       "unicodedb > 0.12.0",
       "unicodeplus > 0.12.0",
       "unittest2",
@@ -1012,8 +951,6 @@
       "error://ffi > 0.37.4"
     ],
     "unresolved": [
-      "gh:logos-messaging/nim-ffi",
-      "gh:logos-messaging/nim-sds",
       "gh:status-im/nim-mbedtls",
       "gh:status-im/nim-quic",
       "gh:vacp2p/nim-boringssl",

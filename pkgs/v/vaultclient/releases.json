@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "vaultclient",
   "fqn": "vaultclient.nim.jackhftang.github.com",
-  "head": "3003d2c30b7d1e9bae34da37b8b66bd5f93d4f52",
   "author": "Jack Tang",
   "description": "Hashicorp Vault HTTP Client",
   "license": "MIT",
@@ -14,30 +13,18 @@
     {
       "v": "0.1.1@28ab41959948e92722effa02fe0f91aee846d1d6",
       "r": [],
-      "m": "~",
-      "s": "",
       "b": "",
       "e": ""
     },
     {
       "v": "0.1.0@b9af83190f9be3e8d1fd62a7113244b6e4de27ab",
       "r": [],
-      "m": "~",
-      "s": "",
-      "b": "",
-      "e": ""
-    },
-    {
-      "v": "#head@3003d2c30b7d1e9bae34da37b8b66bd5f93d4f52",
-      "r": [],
-      "m": "~",
-      "s": "",
       "b": "",
       "e": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:28Z",
+  "generatedAt": "2026-05-26T13:20:07Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

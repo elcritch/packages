@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "bau",
   "fqn": "bau.bitstormFA.github.com",
-  "head": "68d1d101f4b99d630c7240138437f66ce0916426",
   "author": "bitstorm <bitstorm@tutanota.com>",
   "description": "A modern build tool for Nim",
   "license": "MIT",
@@ -17,8 +16,6 @@
       "r": [
         "parsetoml >= 0.6.0"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -26,8 +23,6 @@
       "r": [
         "parsetoml >= 0.6.0"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -35,8 +30,6 @@
       "r": [
         "parsetoml >= 0.6.0"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -44,8 +37,6 @@
       "r": [
         "parsetoml >= 0.6.0"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -53,8 +44,6 @@
       "r": [
         "parsetoml >= 0.6.0"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -62,8 +51,6 @@
       "r": [
         "parsetoml >= 0.6.0"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -71,8 +58,6 @@
       "r": [
         "parsetoml >= 0.6.0"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -80,8 +65,6 @@
       "r": [
         "parsetoml >= 0.6.0"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -89,22 +72,11 @@
       "r": [
         "parsetoml >= 0.6.0"
       ],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@68d1d101f4b99d630c7240138437f66ce0916426",
-      "r": [
-        "parsetoml >= 0.6.0"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:22Z",
+  "generatedAt": "2026-05-26T13:12:21Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

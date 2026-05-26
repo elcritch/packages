@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "watchout",
   "fqn": "watchout.openpeeps.github.com",
-  "head": "e2679ff126450019e15d985b92a479baddb180dc",
   "author": "George Lemon",
   "description": "A stupid simple filesystem monitor",
   "license": "MIT",
@@ -14,28 +13,18 @@
       "r": [
         "httpx",
         "websocketx"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.2.0@e04f9a50eaf33bf23eb15d81ca81b30edf0b6ea6",
       "r": [
         "httpx",
         "websocketx"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@e2679ff126450019e15d985b92a479baddb180dc",
-      "r": [],
-      "m": "2.0.0",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:38Z",
+  "generatedAt": "2026-05-26T13:20:14Z",
   "allDeps": {
     "packages": [
       "httpx",

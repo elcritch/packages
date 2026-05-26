@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "diffoutput",
   "fqn": "diffoutput.JohnAD.github.com",
-  "head": "45bbd217bf70debe7ef907b0655c6988d4d0a26d",
   "author": "John Dupuy",
   "description": "Collection of Diff stringifications (and reversals)",
   "license": "MIT",
@@ -15,9 +14,7 @@
         "error://diff >= 0.5.0"
       ],
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/diffoutput.JohnAD.github.com-45bbd217-diffoutput.nimble\ncannot resolve package name: diff",
-      "m": "~",
-      "s": ""
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/diffoutput.JohnAD.github.com-45bbd217-diffoutput.nimble\ncannot resolve package name: diff"
     },
     {
       "v": "0.1.1@3edd9b6294d1fc70d22ca7c09b986198cce62fa3",
@@ -25,23 +22,11 @@
         "error://diff >= 0.5.0"
       ],
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/diffoutput.JohnAD.github.com-3edd9b62-diffoutput.nimble\ncannot resolve package name: diff",
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@45bbd217bf70debe7ef907b0655c6988d4d0a26d",
-      "r": [
-        "error://diff >= 0.5.0"
-      ],
-      "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/diffoutput.JohnAD.github.com-45bbd217-diffoutput.nimble\ncannot resolve package name: diff",
-      "m": "~",
-      "s": ""
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/diffoutput.JohnAD.github.com-3edd9b62-diffoutput.nimble\ncannot resolve package name: diff"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:55Z",
+  "generatedAt": "2026-05-26T13:13:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

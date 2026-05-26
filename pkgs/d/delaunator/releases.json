@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "delaunator",
   "fqn": "delaunator-nim.patternspandemic.github.com",
-  "head": "539f0765bbcbae8de69c27fc9f28d895dcf0e8c5",
   "author": "patternspandemic",
   "description": "Fast 2D Delaunay Triangulation",
   "license": "Unlicense",
@@ -11,31 +10,19 @@
   "releases": [
     {
       "v": "20230619@7d44986e89e46eb5e0874ccbfcab63868cca4bf2",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "20230610@b9d627fe7154a29083c5002edc47fa609a6f09aa",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "20230606@52afcff6a13217457c259b3a9cf22d2376b9d7ce",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@539f0765bbcbae8de69c27fc9f28d895dcf0e8c5",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:51Z",
+  "generatedAt": "2026-05-26T13:13:29Z",
   "allDeps": {
     "packages": [],
     "urls": [],

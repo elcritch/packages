@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "objaccess",
   "fqn": "objaccess.choltreppe.github.com",
-  "head": "6a5d8d2159a77db17df8e27d0152a135e7162acb",
   "author": "Joel Lienhard",
   "description": "generate setters and getters for object types",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@de33cafaa02407d9e75259182af398c98cede63c",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@6a5d8d2159a77db17df8e27d0152a135e7162acb",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:57Z",
+  "generatedAt": "2026-05-26T13:17:42Z",
   "allDeps": {
     "packages": [],
     "urls": [],

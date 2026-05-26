@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimcdl",
   "fqn": "nimcdl.endes123321.gitlab.com",
-  "head": "23f1f8b83cc2b5cfcba6cd45b986e99d703c87ee",
   "author": "endes",
   "description": "Create circuits and printed circuit boards with nim!",
   "license": "GPL",
@@ -13,21 +12,11 @@
       "v": "0.1.0@6613d353b522c88bce581f6f0147db7e30d03536",
       "r": [
         "cascade >= 0.2.0"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@23f1f8b83cc2b5cfcba6cd45b986e99d703c87ee",
-      "r": [
-        "cascade >= 0.2.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T07:27:57Z",
+  "generatedAt": "2026-05-26T13:16:45Z",
   "allDeps": {
     "packages": [
       "cascade"

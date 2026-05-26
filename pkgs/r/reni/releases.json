@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "reni",
   "fqn": "reni.fox0430.github.com",
-  "head": "ae88f24359f7d0742328b7e4f538241d6af00fcc",
   "author": "fox0430",
   "description": "A regular expression engine compatible with Oniguruma",
   "license": "MIT",
@@ -12,19 +11,11 @@
       "v": "0.1.0@e3936079d92d004e21cf632d6c78939307c268af",
       "r": [
         "unicodedb >= 0.13.0"
-      ],
-      "m": "~"
-    },
-    {
-      "v": "#head@ae88f24359f7d0742328b7e4f538241d6af00fcc",
-      "r": [
-        "unicodedb >= 0.13.0"
-      ],
-      "m": "~"
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:14Z",
+  "generatedAt": "2026-05-26T13:18:34Z",
   "allDeps": {
     "packages": [
       "unicodedb"

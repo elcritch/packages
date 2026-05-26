@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "PhylogeNi",
   "fqn": "PhylogeNi.kerrycobb.github.com",
-  "head": "b2f3cee9b036978fa0f5c6c1a33fb3e53c3e501f",
   "author": "Kerry Cobb",
   "description": "A Nim library for working with phylogenetic trees.",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@36327eafcd1946c029a9aaa0ceae467efeeff747",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@b2f3cee9b036978fa0f5c6c1a33fb3e53c3e501f",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:30Z",
+  "generatedAt": "2026-05-26T13:11:44Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

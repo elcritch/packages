@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "claude_code_sdk",
   "fqn": "claude-code-sdk-nim.Apothic-AI.github.com",
-  "head": "ce54ed3b5d2a5c1e9171fbc2409878a963cfd8ef",
   "author": "bitnom",
   "description": "Nim SDK for Claude Code - A port of the Python SDK",
   "license": "Apache-2.0",
@@ -18,23 +17,11 @@
         "jsony >= 1.1.5",
         "chronos >= 4.0.0"
       ],
-      "m": "~",
-      "s": "",
-      "k": []
-    },
-    {
-      "v": "#head@ce54ed3b5d2a5c1e9171fbc2409878a963cfd8ef",
-      "r": [
-        "jsony >= 1.1.5",
-        "chronos >= 4.0.0"
-      ],
-      "m": "~",
-      "s": "",
       "k": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:15Z",
+  "generatedAt": "2026-05-26T13:13:03Z",
   "allDeps": {
     "packages": [
       "bearssl",

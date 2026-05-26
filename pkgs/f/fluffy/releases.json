@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "fluffy",
   "fqn": "fluffy.treeform.github.com",
-  "head": "2012906732cc104dc08fb80a3cec976ddfd9a98a",
   "author": "Andre von Houck",
   "description": "A Nim profile viewer for Chrome JSON trace files.",
   "license": "MIT",
@@ -14,31 +13,18 @@
       "r": [
         "silky >= 0.0.1",
         "jsony >= 1.1.6"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "1.0.0@64ddcbdd9e78f5f1c0fe498ae528717afb8ea947",
       "r": [
         "silky >= 0.0.1",
         "jsony >= 1.1.6"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@2012906732cc104dc08fb80a3cec976ddfd9a98a",
-      "r": [
-        "silky >= 0.0.1",
-        "jsony >= 1.1.6"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:52Z",
+  "generatedAt": "2026-05-26T13:14:08Z",
   "allDeps": {
     "packages": [
       "bumpy",

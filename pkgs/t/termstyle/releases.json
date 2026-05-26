@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "termstyle",
   "fqn": "termstyle.PMunch.github.com",
-  "head": "eefd9f17071df2b8c13e18537cd799acd7f41501",
   "author": "Peter Munch-Ellingsen",
   "description": "Easy to use colours for terminal applications",
   "license": "MIT",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "0.1.0@0d42c72073281f742b84530d15318fac724ce9d8",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@eefd9f17071df2b8c13e18537cd799acd7f41501",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:43Z",
+  "generatedAt": "2026-05-26T13:19:36Z",
   "allDeps": {
     "packages": [],
     "urls": [],

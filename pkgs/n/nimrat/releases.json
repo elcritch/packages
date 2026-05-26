@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimrat",
   "fqn": "nimrat.apense.github.com",
-  "head": "d515d0dec6f9c246b0fa236ad1c21738d80c0ddc",
   "author": "Jonathan Edwards",
   "description": "Rational arithmetic module for Nim",
   "license": "MIT",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "0.1@b2aa0c77f924ccc7bf2023582b6e9f52836e7d1f",
-      "r": [],
-      "s": ""
-    },
-    {
-      "v": "#head@d515d0dec6f9c246b0fa236ad1c21738d80c0ddc",
-      "r": [],
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:12Z",
+  "generatedAt": "2026-05-26T13:17:10Z",
   "allDeps": {
     "packages": [],
     "urls": [],

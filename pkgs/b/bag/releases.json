@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "bag",
   "fqn": "bag.openpeeps.github.com",
-  "head": "00a3eb8864245a7fa11464880b38177353afded2",
   "author": "George Lemon",
   "description": "Validate HTTP input data in a fancy way",
   "license": "MIT",
@@ -13,33 +12,14 @@
       "v": "0.1.0@2603e703b8f8bae4bc112661570856fec8d32c25",
       "r": [
         "valido >= 0.1.0"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@00a3eb8864245a7fa11464880b38177353afded2",
-      "r": [
-        "valido #head",
-        "multipart #head",
-        "filetype"
-      ],
-      "m": "2.0.0",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:13Z",
+  "generatedAt": "2026-05-26T13:12:15Z",
   "allDeps": {
     "packages": [
       "bigints",
-      "blackpaper",
-      "checksums",
-      "filetype",
-      "floof",
-      "multipart",
-      "nimsimd",
-      "openparser",
       "valido"
     ],
     "urls": [],

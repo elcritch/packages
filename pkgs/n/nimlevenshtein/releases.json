@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimlevenshtein",
   "fqn": "nimlevenshtein.oswjk.github.com",
-  "head": "6f062eeca4609039a0bdf0e8d2ebb44280872af3",
   "author": "Oskari Timperi",
   "description": "A wrapper for algorithms from python-Levenshtein package.",
   "license": "GPL-2.0",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@54c45351372ab13e1b5a53b6f144fcc34b0faa3b",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@6f062eeca4609039a0bdf0e8d2ebb44280872af3",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:58Z",
+  "generatedAt": "2026-05-26T13:17:00Z",
   "allDeps": {
     "packages": [],
     "urls": [],

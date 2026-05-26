@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "currying",
   "fqn": "currying.t8m8.github.com",
-  "head": "8317844f0d9d7d1e05e2110a1a61cc27e1632aec",
   "author": "t8m8",
   "description": "Currying Library for Nim",
   "license": "MIT",
@@ -14,24 +13,17 @@
     {
       "v": "0.1.0@f4918876783fdfaa8db07f6f2798251ee2f20a62",
       "r": [],
-      "x": [],
-      "m": "~"
+      "x": []
     },
     {
       "v": "1.0.0@8317844f0d9d7d1e05e2110a1a61cc27e1632aec^",
       "r": [],
       "m": "1.6.0",
       "x": []
-    },
-    {
-      "v": "#head@8317844f0d9d7d1e05e2110a1a61cc27e1632aec",
-      "r": [],
-      "m": "1.6.0",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:41Z",
+  "generatedAt": "2026-05-26T13:13:22Z",
   "allDeps": {
     "packages": [],
     "urls": [],

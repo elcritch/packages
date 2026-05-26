@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "resolver",
   "fqn": "resolver.ryukoposting.github.com",
-  "head": "f007c3b42ae93aa757f55c7575e42d1b58e1109f",
   "author": "Evan Perry Grove",
   "description": "Dependency resolution and semantic versioning utils",
   "license": "BSD-3-Clause",
@@ -11,25 +10,15 @@
   "releases": [
     {
       "v": "0.2.0@fb0088f64f91c4f04860789f3b7a026e4f21818f",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.0@c53bc08766d877400f6625dd231d5572e6c6dd7e",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@f007c3b42ae93aa757f55c7575e42d1b58e1109f",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:15Z",
+  "generatedAt": "2026-05-26T13:18:35Z",
   "allDeps": {
     "packages": [],
     "urls": [],

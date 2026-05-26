@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "edlib",
   "fqn": "nim-edlib.bio-nim.github.com",
-  "head": "6766462c5d6c32739de4f2b8fb6513d7d0dd59a1",
   "author": "Christopher Dunn",
   "description": "Wrapper for edlib (Martin Šošić).",
   "license": "BSD-3",
@@ -15,24 +14,16 @@
     {
       "v": "0.1.0@f997ddee3d7e9ce8a9ba88acd3fdd9aef0654b0e",
       "r": [],
-      "x": [],
-      "m": "~"
+      "x": []
     },
     {
       "v": "1.2.6@0cc5f375a98910fe34eddfb90c237b742bdceaf4",
       "r": [],
-      "m": "~",
-      "x": []
-    },
-    {
-      "v": "#head@6766462c5d6c32739de4f2b8fb6513d7d0dd59a1",
-      "r": [],
-      "m": "~",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:13Z",
+  "generatedAt": "2026-05-26T13:13:43Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "maybe",
   "fqn": "maybe.superfunc.github.com",
-  "head": "f8b80750a6f08cdfcf16cc1e2d79815392244a6a",
   "author": "superfunc",
   "description": "A maybe type for nim.",
   "license": "BSD",
@@ -15,37 +14,21 @@
     {
       "v": "2.2@080eab78e7d4b6ab0330051f78b5fdea5ab1adba",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
       "v": "2.0@07497e483dcb14f5e2dd45c0ac93c31a7083614d",
       "r": [],
-      "s": "",
-      "m": "~",
       "x": []
     },
     {
       "v": "1.0@42f054b9ec7783ed96b479160f37ab6183cda213",
       "r": [],
-      "s": "",
-      "x": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@f8b80750a6f08cdfcf16cc1e2d79815392244a6a",
-      "r": [],
-      "x": [
-        "examples",
-        "tests"
-      ],
-      "m": "~",
-      "s": ""
+      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:23Z",
+  "generatedAt": "2026-05-26T13:15:53Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "memlib",
   "fqn": "memlib.khchen.github.com",
-  "head": "0c46ef5e803160a9eab867d5ba0fcdb307aaa492",
   "author": "Ward",
   "description": "Memlib - Load Windows DLL from memory",
   "license": "MIT",
@@ -18,7 +17,6 @@
       "r": [
         "winim >= 3.6.0"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -26,7 +24,6 @@
       "r": [
         "winim >= 3.6.0"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -34,7 +31,6 @@
       "r": [
         "winim >= 3.6.0"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -42,20 +38,11 @@
       "r": [
         "winim >= 3.6.0"
       ],
-      "m": "~",
-      "x": []
-    },
-    {
-      "v": "#head@0c46ef5e803160a9eab867d5ba0fcdb307aaa492",
-      "r": [
-        "winim >= 3.6.0"
-      ],
-      "m": "~",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:27Z",
+  "generatedAt": "2026-05-26T13:15:56Z",
   "allDeps": {
     "packages": [
       "winim"

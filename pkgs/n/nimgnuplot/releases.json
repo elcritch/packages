@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimgnuplot",
   "fqn": "nimgnuplot.nervecenter.github.com",
-  "head": "8f15a7cd71a93720bc3771f964f6546146d729a9",
   "author": "Chris Collazo",
   "description": "Gnuplot interface for Nim, loosely based on pygnuplot.",
   "license": "MIT",
@@ -13,37 +12,23 @@
       "v": "2025.9.30@d5e2eb211a53efb0641deadc7df2e1e99503f793",
       "r": [
         "datamancer >= 0.4.6"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "2025.9.22@8266f5e96eb36aa629247a8e905be5a379c12ec7",
       "r": [
         "datamancer >= 0.4.6"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "2025.9.21@bc1d61f6dbc87bfe1385b14d2f64e1054167caf1",
       "r": [
         "datamancer >= 0.4.6"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@8f15a7cd71a93720bc3771f964f6546146d729a9",
-      "r": [
-        "datamancer >= 0.4.6"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:47Z",
+  "generatedAt": "2026-05-26T13:16:53Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

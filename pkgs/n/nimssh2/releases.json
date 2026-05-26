@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimssh2",
   "fqn": "nimssh2.genotrance.github.com",
-  "head": "dae9d23d742354350cd221b28c3605c87fee737b",
   "author": "genotrance",
   "description": "libssl2 wrapper for Nim",
   "license": "MIT",
@@ -33,18 +32,10 @@
       ],
       "h": true,
       "x": []
-    },
-    {
-      "v": "#head@dae9d23d742354350cd221b28c3605c87fee737b",
-      "r": [
-        "nimgen >= 0.4.0"
-      ],
-      "h": true,
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:17Z",
+  "generatedAt": "2026-05-26T13:17:13Z",
   "allDeps": {
     "packages": [
       "c2nim",

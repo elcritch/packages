@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "boogie",
   "fqn": "boogie.openpeeps.github.com",
-  "head": "fae7dfac800b0690178d9551d745c1038d35963a",
   "author": "George Lemon",
   "description": "A new awesome nimble package",
   "license": "MIT",
@@ -14,34 +13,15 @@
       "r": [
         "rbtree",
         "flatty"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@fae7dfac800b0690178d9551d745c1038d35963a",
-      "r": [
-        "sorta",
-        "flatty",
-        "threading",
-        "openparser"
-      ],
-      "d": "A suite of WAL-based data stores",
-      "l": "LGPL-3.0-or-later",
-      "m": "2.0.0",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:43Z",
+  "generatedAt": "2026-05-26T13:12:36Z",
   "allDeps": {
     "packages": [
       "flatty",
-      "nimsimd",
-      "openparser",
-      "rbtree",
-      "sorta",
-      "threading"
+      "rbtree"
     ],
     "urls": [],
     "unresolved": []

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "mqtt",
   "fqn": "nim-mqtt.barnybug.github.com",
-  "head": "8eac94d5b624542a29e7d6cdf236aea561bf2a8a",
   "author": "Barnaby Gray",
   "description": "Wrapper for libpaho-mqtt, a C library that communicates with an MQTT pub/sub server.",
   "license": "BSD",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "0.1.0@020d5fe460bc5eb6e9ebb9f2b7024ac37e543edf",
-      "r": [],
-      "s": ""
-    },
-    {
-      "v": "#head@8eac94d5b624542a29e7d6cdf236aea561bf2a8a",
-      "r": [],
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:46Z",
+  "generatedAt": "2026-05-26T13:16:10Z",
   "allDeps": {
     "packages": [],
     "urls": [],

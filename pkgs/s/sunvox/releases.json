@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "sunvox",
   "fqn": "nim-sunvox.exelotl.github.com",
-  "head": "e1c39f8bc0b0615b01357553abaffdaaeae9bf97",
   "author": "exelotl",
   "description": "Nim bindings for SunVox modular synthesizer",
   "license": "0BSD",
@@ -11,25 +10,15 @@
   "releases": [
     {
       "v": "0.1.1@e1c39f8bc0b0615b01357553abaffdaaeae9bf97^",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.0.1@65c2672b223f4a7d00c86d40cdbe622637b6e6c2",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@e1c39f8bc0b0615b01357553abaffdaaeae9bf97",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:27Z",
+  "generatedAt": "2026-05-26T13:19:25Z",
   "allDeps": {
     "packages": [],
     "urls": [],

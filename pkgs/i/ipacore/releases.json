@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "ipacore",
   "fqn": "ipacore.phononim.github.com",
-  "head": "af9568be415c5e1c81e60c0b8e7189110f416a73",
   "author": "systemonia",
   "description": " A base International Phonetic Alphabet type definition. ",
   "license": "BSD-3-Clause",
@@ -11,20 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@45e277626585372ff2f41846082742989b86383e",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@af9568be415c5e1c81e60c0b8e7189110f416a73",
-      "r": [],
-      "a": "penguinite",
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:15Z",
+  "generatedAt": "2026-05-26T13:15:05Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "highlightjs",
   "fqn": "highlightjs.Ethosa.github.com",
-  "head": "c193f42f7500d9869d2fba2fd43c3811fd2660b2",
   "author": "Ethosa",
   "description": "highlight.js bindings for Nim",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "11.9.0@ce18a564d94da6d3fb8a0ccb90c0cae8979db954",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@c193f42f7500d9869d2fba2fd43c3811fd2660b2",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:46Z",
+  "generatedAt": "2026-05-26T13:14:42Z",
   "allDeps": {
     "packages": [],
     "urls": [],

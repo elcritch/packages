@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "datetime_parse",
   "fqn": "datetime_parse.bung87.github.com",
-  "head": "2ce54c35e43a165db056ec0135d4f416cb823ccb",
   "author": "bung87",
   "description": "A new awesome nimble package",
   "license": "MIT",
@@ -13,27 +12,13 @@
     {
       "v": "0.1.0@92c126840852ad3c047049b41c12cd16012c72b8",
       "r": [],
-      "m": "~",
-      "s": "",
       "e": ""
-    },
-    {
-      "v": "#head@2ce54c35e43a165db056ec0135d4f416cb823ccb",
-      "r": [
-        "timezones >= 0.5.1"
-      ],
-      "d": "parse datetime from various resources",
-      "e": "c",
-      "m": "1.2.0",
-      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:45Z",
+  "generatedAt": "2026-05-26T13:13:25Z",
   "allDeps": {
-    "packages": [
-      "timezones"
-    ],
+    "packages": [],
     "urls": [],
     "unresolved": []
   }

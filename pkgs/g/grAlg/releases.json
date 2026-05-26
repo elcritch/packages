@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "grAlg",
   "fqn": "gralg.c-blake.github.com",
-  "head": "f1f7d991295448502e8aee723dd2aa41c02634d7",
   "author": "Charles Blake",
   "description": "Classical Graph Algos in Nim",
   "license": "MIT/ISC",
@@ -19,7 +18,6 @@
       "r": [
         "cligen >= 1.9.1"
       ],
-      "m": "~",
       "j": [],
       "p": []
     },
@@ -28,7 +26,6 @@
       "r": [
         "cligen >= 1.7.8"
       ],
-      "m": "~",
       "j": [],
       "p": []
     },
@@ -37,7 +34,6 @@
       "r": [
         "cligen >= 1.7.1"
       ],
-      "m": "~",
       "j": [],
       "p": []
     },
@@ -46,7 +42,6 @@
       "r": [
         "cligen >= 1.6.18"
       ],
-      "m": "~",
       "j": [],
       "p": []
     },
@@ -55,7 +50,6 @@
       "r": [
         "cligen >= 1.5.37"
       ],
-      "m": "~",
       "j": [],
       "p": []
     },
@@ -65,7 +59,6 @@
         "cligen >= 1.5.37"
       ],
       "p": [],
-      "m": "~",
       "j": []
     },
     {
@@ -74,7 +67,6 @@
         "cligen >= 1.5.37"
       ],
       "p": [],
-      "m": "~",
       "j": []
     },
     {
@@ -83,7 +75,6 @@
         "cligen >= 1.5.27"
       ],
       "p": [],
-      "m": "~",
       "j": []
     },
     {
@@ -92,7 +83,6 @@
         "cligen >= 1.5.27"
       ],
       "p": [],
-      "m": "~",
       "j": []
     },
     {
@@ -101,7 +91,6 @@
         "cligen >= 1.5.27"
       ],
       "p": [],
-      "m": "~",
       "j": []
     },
     {
@@ -110,7 +99,6 @@
         "cligen >= 1.5.27"
       ],
       "p": [],
-      "m": "~",
       "j": []
     },
     {
@@ -121,28 +109,11 @@
       "j": [
         "pq.nim"
       ],
-      "p": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@f1f7d991295448502e8aee723dd2aa41c02634d7",
-      "r": [
-        "cligen >= 1.9.1"
-      ],
-      "m": "~",
-      "j": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:29Z",
-  "allDeps": {
-    "packages": [
-      "cligen"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T13:14:32Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -163,5 +134,12 @@
       "0.5.2"
     ],
     "latest": "0.5.2"
+  },
+  "allDeps": {
+    "packages": [
+      "cligen"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

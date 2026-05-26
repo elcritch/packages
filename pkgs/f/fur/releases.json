@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "fur",
   "fqn": "fur.capocasa.github.com",
-  "head": "34a4bd9bccecfb3c5689ff176662a3535d0c7d1a",
   "author": "Carlo Capocasa",
   "description": "Fur is a thin wrapper over the rtfir realtime finite impulse response library",
   "license": "MIT",
@@ -10,18 +9,11 @@
   "releases": [
     {
       "v": "0.1.0@727918f721f701514089e3b5acdfc6a90071ff32",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@34a4bd9bccecfb3c5689ff176662a3535d0c7d1a",
-      "r": [],
-      "s": "src",
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:59Z",
+  "generatedAt": "2026-05-26T13:14:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "pixienator",
   "fqn": "pixienator.patternspandemic.github.com",
-  "head": "587097be5a017b7ddac309eaba50faf3c38a76ee",
   "author": "patternspandemic",
   "description": "Helpers for visualizing delaunator with pixie.",
   "license": "Unlicense",
@@ -14,31 +13,18 @@
       "r": [
         "pixie >= 5.0.6",
         "delaunator >= 20230610"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "20230607@2080a1c07e0bd1545f5bac197d0a96c9fe21598e",
       "r": [
         "pixie >= 5.0.6",
         "delaunator >= 20230606"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@587097be5a017b7ddac309eaba50faf3c38a76ee",
-      "r": [
-        "pixie >= 5.0.6",
-        "delaunator >= 20230610"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:32Z",
+  "generatedAt": "2026-05-26T13:18:04Z",
   "allDeps": {
     "packages": [
       "bumpy",

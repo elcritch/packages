@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimpy",
   "fqn": "nimpy.yglukhov.github.com",
-  "head": "d559f7bcb8fb877b4eae4bd116b8fbc9e16560ef",
   "author": "Yuriy Glukhov",
   "description": "Nim python integration lib",
   "license": "MIT",
@@ -10,16 +9,14 @@
   "releases": [
     {
       "v": "0.1.0@31e5d4105563f3e85300d5cb2aa101a91358d292",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "0.1.1@83a13813a6aa5f66e71619caf160ca6c624d97aa",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
-      "v": "0.2.0@621bb4cdd9f85f93fe20570142b1984e6f4500aa",
+      "v": "0.2.0@1963283148d01f46ac789a83412afbb5d375cfad",
       "r": [],
       "m": "1.0"
     },
@@ -27,15 +24,10 @@
       "v": "0.2.1@114e1b9c4f1e73d6d3999ba4df7194e7547c1be1",
       "r": [],
       "m": "1.0"
-    },
-    {
-      "v": "#head@d559f7bcb8fb877b4eae4bd116b8fbc9e16560ef",
-      "r": [],
-      "m": "1.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:11Z",
+  "generatedAt": "2026-05-26T13:17:09Z",
   "allDeps": {
     "packages": [],
     "urls": [],

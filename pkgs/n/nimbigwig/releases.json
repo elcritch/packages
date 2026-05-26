@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimbigwig",
   "fqn": "nimbigwig.genotrance.github.com",
-  "head": "6e019eb11c6248b18dcc52cef12b4398acaae5c8",
   "author": "genotrance",
   "description": "libBigWig wrapper for Nim",
   "license": "MIT",
@@ -25,18 +24,10 @@
       ],
       "h": true,
       "x": []
-    },
-    {
-      "v": "#head@6e019eb11c6248b18dcc52cef12b4398acaae5c8",
-      "r": [
-        "nimgen >= 0.4.0"
-      ],
-      "h": true,
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:30Z",
+  "generatedAt": "2026-05-26T13:16:42Z",
   "allDeps": {
     "packages": [
       "c2nim",

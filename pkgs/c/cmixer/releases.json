@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "cmixer",
   "fqn": "cmixer-nim.rxi.github.com",
-  "head": "eee48407f3727f89900e0a3e672575f54ad2eef1",
   "author": "rxi",
   "description": "Lightweight audio mixer for games",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@c45d85578638cbd678a64f0c050b576956342374",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@eee48407f3727f89900e0a3e672575f54ad2eef1",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:21Z",
+  "generatedAt": "2026-05-26T13:13:07Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "avbin",
   "fqn": "avbin.Vladar4.github.com",
-  "head": "d2b6712119660568691a88572209b1f4a8a05032",
   "author": "Vladar",
   "description": "Wrapper of the AVbin library for the Nim language.",
   "license": "LGPL",
@@ -15,18 +14,11 @@
     {
       "v": "10.0@b14192b603856eb09bea62c9b531cc5c563f498d",
       "r": [],
-      "m": "~",
-      "x": []
-    },
-    {
-      "v": "#head@d2b6712119660568691a88572209b1f4a8a05032",
-      "r": [],
-      "m": "~",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:09Z",
+  "generatedAt": "2026-05-26T13:12:11Z",
   "allDeps": {
     "packages": [],
     "urls": [],

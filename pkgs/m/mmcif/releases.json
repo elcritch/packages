@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "mmcif",
   "fqn": "nim-mmcif.lucidrains.github.com",
-  "head": "b9d196910079d8b2f35c84995268b367b3974ed5",
   "author": "lucidrains",
   "description": "Parser for mmCIF",
   "license": "MIT",
@@ -20,8 +19,6 @@
       "r": [
         "nimpy >= 0.2.0"
       ],
-      "m": "~",
-      "s": "",
       "i": [],
       "j": []
     },
@@ -30,8 +27,6 @@
       "r": [
         "nimpy >= 0.2.0"
       ],
-      "m": "~",
-      "s": "",
       "i": [],
       "j": []
     },
@@ -40,8 +35,6 @@
       "r": [
         "nimpy >= 0.2.0"
       ],
-      "m": "~",
-      "s": "",
       "i": [],
       "j": []
     },
@@ -52,8 +45,7 @@
       ],
       "s": "nim_mmcif",
       "i": [],
-      "j": [],
-      "m": "~"
+      "j": []
     },
     {
       "v": "0.0.17@7e156b31db8957215c0e0c7646a4390179361098",
@@ -62,8 +54,7 @@
       ],
       "s": "nim_mmcif",
       "i": [],
-      "j": [],
-      "m": "~"
+      "j": []
     },
     {
       "v": "0.0.16@4172fc0a3c0f56a369bb8091f81a27a17014e254",
@@ -72,8 +63,7 @@
       ],
       "s": "nim_mmcif",
       "i": [],
-      "j": [],
-      "m": "~"
+      "j": []
     },
     {
       "v": "0.0.15@64a5b6dacb040930b5e4cf038bef840d953b748b",
@@ -82,8 +72,7 @@
       ],
       "s": "nim_mmcif",
       "i": [],
-      "j": [],
-      "m": "~"
+      "j": []
     },
     {
       "v": "0.0.14@136a5d9a071a9642ec40f9fecf9dff1611635bf8",
@@ -92,8 +81,7 @@
       ],
       "s": "nim_mmcif",
       "i": [],
-      "j": [],
-      "m": "~"
+      "j": []
     },
     {
       "v": "0.0.12@660d977b8fff999de99b8e9904727c4cf3556d04",
@@ -102,8 +90,7 @@
       ],
       "s": "nim_mmcif",
       "i": [],
-      "j": [],
-      "m": "~"
+      "j": []
     },
     {
       "v": "0.0.11@96f8a0d4dcb51a90435d47604fecaa13da534d1f",
@@ -112,8 +99,7 @@
       ],
       "s": "nim_mmcif",
       "i": [],
-      "j": [],
-      "m": "~"
+      "j": []
     },
     {
       "v": "0.0.11@fcd8625f2f33842be17a99b42f50945d821bccfd",
@@ -122,16 +108,13 @@
       ],
       "s": "nim_mmcif",
       "i": [],
-      "j": [],
-      "m": "~"
+      "j": []
     },
     {
       "v": "0.0.10@4402aedc60e25e0eeaf0005de43699f11f9db8ab",
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
-      "s": "",
       "i": [],
       "j": []
     },
@@ -140,8 +123,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
-      "s": "",
       "i": [],
       "j": []
     },
@@ -150,8 +131,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
-      "s": "",
       "i": [],
       "j": []
     },
@@ -160,8 +139,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
-      "s": "",
       "i": [],
       "j": []
     },
@@ -170,8 +147,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
-      "s": "",
       "i": [],
       "j": []
     },
@@ -180,8 +155,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
-      "s": "",
       "i": [],
       "j": []
     },
@@ -190,8 +163,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
-      "s": "",
       "i": [],
       "j": []
     },
@@ -200,8 +171,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
-      "s": "",
       "i": [],
       "j": []
     },
@@ -210,8 +179,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
-      "s": "",
       "i": [],
       "j": []
     },
@@ -220,8 +187,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
-      "s": "",
       "i": [],
       "j": []
     },
@@ -230,8 +195,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
-      "s": "",
       "i": [],
       "j": []
     },
@@ -240,8 +203,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
-      "s": "",
       "i": [],
       "j": []
     },
@@ -250,8 +211,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
-      "s": "",
       "i": [],
       "j": []
     },
@@ -260,8 +219,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
-      "s": "",
       "i": [],
       "j": []
     },
@@ -270,8 +227,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
-      "s": "",
       "i": [],
       "j": []
     },
@@ -280,8 +235,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
-      "s": "",
       "i": [],
       "j": []
     },
@@ -290,8 +243,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
-      "s": "",
       "i": [],
       "j": []
     },
@@ -300,8 +251,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
-      "s": "",
       "i": [],
       "j": []
     },
@@ -310,8 +259,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
-      "s": "",
       "i": [],
       "j": []
     },
@@ -320,8 +267,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
-      "s": "",
       "i": [],
       "j": []
     },
@@ -330,8 +275,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
-      "s": "",
       "i": [],
       "j": []
     },
@@ -340,8 +283,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
-      "s": "",
       "i": [],
       "j": []
     },
@@ -350,8 +291,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
-      "s": "",
       "i": [],
       "j": []
     },
@@ -360,8 +299,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
-      "m": "~",
-      "s": "",
       "i": [],
       "j": []
     },
@@ -494,20 +431,10 @@
       "m": "2.2.4",
       "i": [],
       "j": []
-    },
-    {
-      "v": "#head@b9d196910079d8b2f35c84995268b367b3974ed5",
-      "r": [
-        "nimpy >= 0.2.0"
-      ],
-      "m": "~",
-      "s": "",
-      "i": [],
-      "j": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:38Z",
+  "generatedAt": "2026-05-26T13:16:04Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "bcrypt",
   "fqn": "bcryptnim.ithkuil.github.com",
-  "head": "9747d7f6ad3277c169444b5dedb5b99075cd140c",
   "author": "Jason Livesay",
   "description": "Wraps the bcrypt (blowfish) library for creating encrypted hashes (useful for passwords)",
   "license": "BSD",
@@ -10,14 +9,10 @@
     {
       "v": "0.2.1@033612ae3108a6c93f01e6f3ffd869349d63595d",
       "r": []
-    },
-    {
-      "v": "#head@9747d7f6ad3277c169444b5dedb5b99075cd140c",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:23Z",
+  "generatedAt": "2026-05-26T13:12:22Z",
   "allDeps": {
     "packages": [],
     "urls": [],

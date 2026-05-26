@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "templater",
   "fqn": "templater.Wraith29.github.com",
-  "head": "4c249ad4995a88c6efaac9cd4317cc5028f08c08",
   "author": "Isaac Naylor",
   "description": "A new awesome nimble package",
   "license": "MIT",
@@ -13,21 +12,11 @@
       "v": "1.0.1@7bcd3a36289bf8fb30f4d349ff1f95e179a53ec1",
       "r": [
         "regex"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@4c249ad4995a88c6efaac9cd4317cc5028f08c08",
-      "r": [
-        "regex"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:42Z",
+  "generatedAt": "2026-05-26T13:19:35Z",
   "allDeps": {
     "packages": [
       "graphemes",

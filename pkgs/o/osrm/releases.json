@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "osrm",
   "fqn": "nim-osrm.juancarlospaco.github.com",
-  "head": "8ee7885f17b79b0f741c0f6f5abb6b7f0b930899",
   "author": "juancarlospaco",
   "description": "Open Source Routing Machine for OpenStreetMap API Lib and App",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.5@2b36c81363b0638aa30129fb39ff573d01f33e94",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@8ee7885f17b79b0f741c0f6f5abb6b7f0b930899",
-      "r": [],
-      "m": "0.20.0",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:11Z",
+  "generatedAt": "2026-05-26T13:17:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

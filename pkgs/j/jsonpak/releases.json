@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "jsonpak",
   "fqn": "jsonpak.planetis-m.github.com",
-  "head": "8f9597b5e3b38c868d4c64798557fbc4eb366921",
   "author": "planetis-m",
   "description": "Packed ASTs for compact and efficient JSON representation, with JSON Pointer, JSON Patch support.",
   "license": "MIT",
@@ -11,43 +10,27 @@
   "releases": [
     {
       "v": "1.1.2@4cee44b5b0dbb1592739edc4144a5dbc6afbec12",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "1.1.1@dbdbee9336dad62e26e22053617bce13b469bbc4",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "1.1.0@acc9719b588908d2f40b6958002f29b6b6f9c8ef",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "1.0.1@6ca841877f09ae2555d1b93516a3f3807353915f",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "1.0.0@6ea3dd098a4788cd0296c369bcf904fb949adff0",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@8f9597b5e3b38c868d4c64798557fbc4eb366921",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:28Z",
+  "generatedAt": "2026-05-26T13:15:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

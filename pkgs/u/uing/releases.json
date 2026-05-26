@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "uing",
   "fqn": "uing.neroist.github.com",
-  "head": "d6c5ca0bf5acd1651b48eb13e7d9469495f43010",
   "author": "Jasmine",
   "description": "Wrapper for libui-ng, a maintained fork of libui.",
   "license": "MIT",
@@ -18,42 +17,36 @@
     {
       "v": "0.8.2@cc8a559c5307d927ebf32d170bd14004905c599f",
       "r": [],
-      "m": "~",
       "i": [],
       "j": []
     },
     {
       "v": "0.8.1@3a379dc46118e68536cd906ceddfbd9464e6e546",
       "r": [],
-      "m": "~",
       "i": [],
       "j": []
     },
     {
       "v": "0.8.0@f77e1ee2818a8309fa4ffdfc026ddf47c9c296b6",
       "r": [],
-      "m": "~",
       "i": [],
       "j": []
     },
     {
       "v": "0.7.3@d69e5238a396dd3c9e11b1bfb5ceed11682c84e3",
       "r": [],
-      "m": "~",
       "i": [],
       "j": []
     },
     {
       "v": "0.7.2@b3aceb18b5e17af76f3bae19ef62088edfd7b3ae",
       "r": [],
-      "m": "~",
       "i": [],
       "j": []
     },
     {
       "v": "0.7.1@73d191f4fc45b93ad4da636ff20f52ebaead628b",
       "r": [],
-      "m": "~",
       "i": [],
       "j": []
     },
@@ -159,17 +152,10 @@
       "m": "0.19.4",
       "i": [],
       "j": []
-    },
-    {
-      "v": "#head@d6c5ca0bf5acd1651b48eb13e7d9469495f43010",
-      "r": [],
-      "m": "~",
-      "i": [],
-      "j": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:13Z",
+  "generatedAt": "2026-05-26T13:19:57Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

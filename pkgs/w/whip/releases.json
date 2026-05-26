@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "whip",
   "fqn": "whip.mattaylor.github.com",
-  "head": "a9fd1f04ba0167727dd0dbf9235791f708147992",
   "author": "mtaylor",
   "description": "Fast http server based on httpbeast and nest for high performance routing",
   "license": "MIT",
@@ -19,19 +18,10 @@
         "httpbeast"
       ],
       "x": []
-    },
-    {
-      "v": "#head@a9fd1f04ba0167727dd0dbf9235791f708147992",
-      "r": [
-        "packedjson",
-        "nest",
-        "httpbeast"
-      ],
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:52Z",
+  "generatedAt": "2026-05-26T13:20:24Z",
   "allDeps": {
     "packages": [
       "asynctools",

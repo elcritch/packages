@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "json_serialization",
   "fqn": "nim-json-serialization.status-im.github.com",
-  "head": "43e12f9693f52236786549b09d0306672c69315d",
   "author": "Status Research & Development GmbH",
   "description": "Flexible JSON serialization not relying on run-time type information",
   "license": "Apache License 2.0",
@@ -20,7 +19,6 @@
         "stew >= 0.2.0",
         "results"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -30,7 +28,6 @@
         "stew >= 0.2.0",
         "results"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -40,7 +37,6 @@
         "stew >= 0.2.0",
         "results"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -50,7 +46,6 @@
         "stew >= 0.2.0",
         "results"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -60,23 +55,11 @@
         "stew",
         "results"
       ],
-      "m": "~",
-      "x": []
-    },
-    {
-      "v": "#head@43e12f9693f52236786549b09d0306672c69315d",
-      "r": [
-        "faststreams >= 0.5.0",
-        "serialization",
-        "stew >= 0.2.0",
-        "results"
-      ],
-      "m": "~",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:27Z",
+  "generatedAt": "2026-05-26T13:15:13Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

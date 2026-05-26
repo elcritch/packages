@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "chagashi",
   "fqn": "chagashi.~bptato.git.sr.ht",
-  "head": "9a6847bdb240f299588b8e3fe38c1539fe7db779",
   "author": "bptato",
   "description": "Text encoders and decoders for Chawan (take 2)",
   "license": "Unlicense",
@@ -14,49 +13,41 @@
     {
       "v": "0.7.2@c10c8c173e9d3e5d2052a5a60396810c76ac56d5",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.7.1@fc657a43347f0eecfecba85374cc37e87746cacc",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.7.0@a79c640f4756f16020592861dccefcb77ba033be",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.6.0@f8882e9e1e30aa669061b2df2fa96cd1f51c054a",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.5.6@880f890e15827ba9900e8f04df77433871a019e7",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.5.5@6a725130a0df550fb28aacd957cb9058fce7b85f",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.5.4@92348ef6f3aa921c22b0e12c3adcf55f737dd526",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.5.3@c337ce78a9587d0570caee4239de3331f280c518",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
@@ -64,58 +55,46 @@
       "r": [],
       "x": [
         "tests"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.5.1@7f05ca22809f0abb40591fcf3646e52f12e36aa5",
       "r": [],
       "x": [
         "tests"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.5.0@ae6912af393e03520b8386e0f021c519563d9fb6",
       "r": [],
       "x": [
         "tests"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.4.2@c4ffe71e5362929781ad621d5764632f2fbb9fd8",
       "r": [],
       "x": [
         "tests"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.4.1@d644646daadc5d3432771b68fc316981130ddb60",
       "r": [],
       "x": [
         "tests"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.4.0@04552110b25cf366eadf74c041e58852bba840df",
       "r": [],
       "x": [
         "tests"
-      ],
-      "m": "~"
-    },
-    {
-      "v": "#head@9a6847bdb240f299588b8e3fe38c1539fe7db779",
-      "r": [],
-      "m": "~",
-      "x": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T07:22:22Z",
+  "generatedAt": "2026-05-26T13:12:55Z",
   "allDeps": {
     "packages": [],
     "urls": [],

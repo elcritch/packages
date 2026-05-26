@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "kdialog",
   "fqn": "nim-kdialog.juancarlospaco.github.com",
-  "head": "6bd827130c48e3ddf4aaa29adfd395bed0d1afe4",
   "author": "Juan Carlos",
   "description": "KDialog Qt5 Wrapper, easy API, KISS design",
   "license": "LGPLv3",
@@ -11,31 +10,20 @@
   "releases": [
     {
       "v": "0.1.0@a9901c31c4f332e7dfff47a664afad91bf00c7f8",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.2@d3d93e9531482d75b66a3bcde1edc75d6881b820",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.2@008fd1a495a8730151a7549f7483f56544682b69",
       "r": [],
-      "m": "0.19.0",
-      "s": ""
-    },
-    {
-      "v": "#head@6bd827130c48e3ddf4aaa29adfd395bed0d1afe4",
-      "r": [],
-      "m": "0.20.0",
-      "s": ""
+      "m": "0.19.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:33Z",
+  "generatedAt": "2026-05-26T13:15:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

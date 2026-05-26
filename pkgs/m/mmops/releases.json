@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "mmops",
   "fqn": "mmops.capocasa.github.com",
-  "head": "dd9055eaae45cc8659544a2a40211000c6fda9c4",
   "author": "Carlo Capocasa",
   "description": "Multimedia Operators- Safe, zero-cost nim-like SIMD",
   "license": "MIT",
@@ -13,29 +12,17 @@
       "v": "0.1.1@a3cf2a4979899bd8f2b41beaf365daae42aa2fa0",
       "r": [
         "nimsimd"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.0@b744658bf8fd43e1f027372375375d2313bf022e",
       "r": [
         "nimsimd"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@dd9055eaae45cc8659544a2a40211000c6fda9c4",
-      "r": [
-        "nimsimd"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:38Z",
+  "generatedAt": "2026-05-26T13:16:04Z",
   "allDeps": {
     "packages": [
       "nimsimd"

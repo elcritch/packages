@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "expat",
   "fqn": "expat.nim-lang.github.com",
-  "head": "7b6484ce185e40ad3f976feb6d00df2be41034fd",
   "author": "Andreas Rumpf",
   "description": "Expat wrapper for Nim",
   "license": "MIT",
@@ -10,14 +9,10 @@
     {
       "v": "1.0.0@7b6484ce185e40ad3f976feb6d00df2be41034fd^",
       "r": []
-    },
-    {
-      "v": "#head@7b6484ce185e40ad3f976feb6d00df2be41034fd",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:32Z",
+  "generatedAt": "2026-05-26T13:13:50Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "fsm",
   "fqn": "fsm.nim.ba0f3.github.com",
-  "head": "ca6e14a5562e46805ed89593cb63bf6236939772",
   "author": "Huy Doan",
   "description": "A simple finite-state machine for @nim-lang",
   "license": "MIT",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "0.1.1@ca6e14a5562e46805ed89593cb63bf6236939772^",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@ca6e14a5562e46805ed89593cb63bf6236939772",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:57Z",
+  "generatedAt": "2026-05-26T13:14:12Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "sdl3",
   "fqn": "nim-sdl3.transmutrix.github.com",
-  "head": "915ff59eb4250c5f5b9eed80841cc9a98c19b266",
   "author": "transmutrix",
   "description": "Bindings for SDL3",
   "license": "MIT",
@@ -11,49 +10,31 @@
   "releases": [
     {
       "v": "1.1.0@915ff59eb4250c5f5b9eed80841cc9a98c19b266^",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "1.0.4@6a88f038a74950fcd3e2bb4de2d74dfd0ed310a2",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "1.0.3@68aba9eadf1a48428265b54bd8923690d598b337",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "1.0.2@9069853a82e30381a92738107469b224b0b38a09",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "1.0.1@544f2809046f3aa829fd203fc9a92e6fcd251407",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "1.0.0@1703dc55047f48a1a68955f86caf509234f4a1ca",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@915ff59eb4250c5f5b9eed80841cc9a98c19b266",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:32Z",
+  "generatedAt": "2026-05-26T13:18:47Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

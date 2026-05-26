@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "llama_leap",
   "fqn": "llama_leap.monofuel.github.com",
-  "head": "823b0c807d20ce4d71fd47b8990afa3e0bc48f65",
   "author": "Andrew Brower",
   "description": "Ollama API for Nim",
   "license": "MIT",
@@ -14,22 +13,11 @@
       "r": [
         "curly >= 0.1.12",
         "jsony >= 1.1.5"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@823b0c807d20ce4d71fd47b8990afa3e0bc48f65",
-      "r": [
-        "curly >= 0.1.12",
-        "jsony >= 1.1.5"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:02Z",
+  "generatedAt": "2026-05-26T13:15:37Z",
   "allDeps": {
     "packages": [
       "curly",

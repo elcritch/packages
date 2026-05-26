@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "shopifyextractor",
   "fqn": "shopifyextractor.thisago.github.com",
-  "head": "5b23a11c4ce1bc9eec59434b74913ec00befb76f",
   "author": "Thiago Navarro",
   "description": "Shopify ecommerces data in a instant",
   "license": "GPL-3.0-only",
@@ -14,31 +13,18 @@
       "r": [
         "nimquery",
         "unifetch"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.1@5b23a11c4ce1bc9eec59434b74913ec00befb76f^",
       "r": [
         "nimquery",
         "unifetch"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@5b23a11c4ce1bc9eec59434b74913ec00befb76f",
-      "r": [
-        "nimquery",
-        "unifetch"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:47Z",
+  "generatedAt": "2026-05-26T13:18:58Z",
   "allDeps": {
     "packages": [
       "nimquery",

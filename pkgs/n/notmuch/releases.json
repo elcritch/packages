@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "notmuch",
   "fqn": "notmuch.nim.samdmarshall.github.com",
-  "head": "bb5c1c48e13514efa1e9cda59045b242cb0751f5",
   "author": "Samantha Marshall",
   "description": "wrapper for the notmuch mail library",
   "license": "BSD 3-Clause",
@@ -11,27 +10,16 @@
   "releases": [
     {
       "v": "0.1.0@88a630ea99ddf8c939a7831a5c667c12b2453e54",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "5.2.0@7fbe1dcc4d229af5e315f38a92671bda68752bcf",
       "r": [],
-      "d": "wrapper for the notmuch 0.28.0 mail library",
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@bb5c1c48e13514efa1e9cda59045b242cb0751f5",
-      "r": [],
-      "d": "wrapper for the notmuch 0.28.0 mail library",
-      "m": "~",
-      "s": ""
+      "d": "wrapper for the notmuch 0.28.0 mail library"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:47Z",
+  "generatedAt": "2026-05-26T13:17:35Z",
   "allDeps": {
     "packages": [],
     "urls": [],

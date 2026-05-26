@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "bc_webservices",
   "fqn": "bc_webservices.pswilde.codeberg.org",
-  "head": "54cf07712ff542530c1815a8a93904b59530b9dd",
   "author": "Paul Wilde",
   "description": "Authentication and connectivity to Microsoft Dynamics 365 Business Central Web Services",
   "license": "GPL-3.0-only",
@@ -13,21 +12,11 @@
       "v": "0.1.12@82c1b6200798994a21e5bcd03852f63d41593a27",
       "r": [
         "jsony >= 1.1.5"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@54cf07712ff542530c1815a8a93904b59530b9dd",
-      "r": [
-        "jsony >= 1.1.5"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T07:21:40Z",
+  "generatedAt": "2026-05-26T13:12:23Z",
   "allDeps": {
     "packages": [
       "jsony"

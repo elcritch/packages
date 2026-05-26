@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nsu",
   "fqn": "nsu.Senketsu.github.com",
-  "head": "56adcbd3baa8d2b100d94ef44a43c9b7d4638061",
   "author": "Senketsu",
   "description": "A small screenshot library / utility for Windows & X11 based systems.",
   "license": "MIT",
@@ -19,8 +18,6 @@
         "oldwinapi >= 2.0.0",
         "png >= 0.2.0"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -30,24 +27,11 @@
         "oldwinapi >= 2.0.0",
         "png >= 0.2.0"
       ],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@56adcbd3baa8d2b100d94ef44a43c9b7d4638061",
-      "r": [
-        "x11 >= 1.0.0",
-        "winim >= 3.2.4",
-        "flippy 0.4.0"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:52Z",
+  "generatedAt": "2026-05-26T13:17:38Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -65,23 +49,8 @@
   },
   "allDeps": {
     "packages": [
-      "bumpy",
-      "chroma",
-      "faststreams",
-      "flippy",
-      "mddoc",
-      "nimPNG",
       "oldwinapi",
       "png",
-      "print",
-      "results",
-      "snappy",
-      "stb_image",
-      "stew",
-      "supersnappy",
-      "unittest2",
-      "vmath",
-      "winim",
       "x11"
     ],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "rtmp",
   "fqn": "rtmp.openpeeps.github.com",
-  "head": "cc456fe8528c4e0e35be7cdb198c50f5ee97c16b",
   "author": "George Lemon",
   "description": "Real-Time Messaging Protocol for Nim",
   "license": "MIT",
@@ -13,21 +12,11 @@
       "v": "0.1.0@7a9dd1a4bb7b51f040433ea7d3ba6c9fc37eb4aa",
       "r": [
         "libevent #head"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@cc456fe8528c4e0e35be7cdb198c50f5ee97c16b",
-      "r": [
-        "libevent #head"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:23Z",
+  "generatedAt": "2026-05-26T13:18:39Z",
   "allDeps": {
     "packages": [
       "libevent"

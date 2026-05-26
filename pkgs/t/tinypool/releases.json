@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "tinypool",
   "fqn": "TinyPool.PhilippMDoerner.github.com",
-  "head": "80ccfb21d511ee66a1e6f476b8a095d045e57043",
   "author": "PhilippMDoerner",
   "description": "A minimalistic connection pooling package for sqlite",
   "license": "MIT",
@@ -11,62 +10,44 @@
   "releases": [
     {
       "v": "1.0.3@80ccfb21d511ee66a1e6f476b8a095d045e57043^",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "1.0.2@6542b0b5084a064819401fc674100b33f2dba4a2",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "1.0.1@fe0d7178215e75750aba279e24303a9a19b19ae9",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "1.0.0@6e3e63d993f93f2d106b6019fcc9c82fc5321ddb",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.3.1@eeae2474818d9d4b8f42bb734d852a524900e3f6",
       "r": [],
-      "m": "1.6.2",
-      "s": ""
+      "m": "1.6.2"
     },
     {
       "v": "0.3.0@1f7bc1e02c9f3cefb434b4626dda89d909cc462c",
       "r": [],
-      "m": "1.6.2",
-      "s": ""
+      "m": "1.6.2"
     },
     {
       "v": "0.2.1@924d42ddef5a7e67d5e4f596e6ea7c328de66336",
       "r": [],
-      "m": "1.6.2",
-      "s": ""
+      "m": "1.6.2"
     },
     {
       "v": "0.2.0@dcc30222131cdeb589cf1688367ff94a0d37542b",
       "r": [],
       "d": "A minimalistic connection pooling package",
-      "m": "1.6.2",
-      "s": ""
-    },
-    {
-      "v": "#head@80ccfb21d511ee66a1e6f476b8a095d045e57043",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "m": "1.6.2"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:55Z",
+  "generatedAt": "2026-05-26T13:19:45Z",
   "allDeps": {
     "packages": [],
     "urls": [],

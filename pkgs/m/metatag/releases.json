@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "metatag",
   "fqn": "metatag.sauerbread.github.com",
-  "head": "aa729d8e0bb67959281d45fac476aac2892d2286",
   "author": "sauerbread",
   "description": "A metadata reading & writing library for Nim. Supports id3v2.3.0, flac & possibly more.",
   "license": "MIT",
@@ -13,21 +12,11 @@
       "v": "0.1.0@eba1f3dc65f2bad3d73d1a875b1f6108f5ed1ceb",
       "r": [
         "zip >= 0.3.1"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@aa729d8e0bb67959281d45fac476aac2892d2286",
-      "r": [
-        "zip >= 0.3.1"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:30Z",
+  "generatedAt": "2026-05-26T13:15:58Z",
   "allDeps": {
     "packages": [
       "zip"

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "alut",
   "fqn": "alut.rmt.github.com",
-  "head": "d03e506af02e2bb85cde9e65bcca13495b7e8629",
   "author": "Robert M. Thomson",
   "description": "OpenAL Utility Toolkit (ALUT)",
   "license": "LGPL-2.1",
@@ -13,29 +12,17 @@
       "v": "1.1.0.1@6ca17b8e642e6286b7a4ae4070f0b00346695703",
       "r": [
         "openal >= 0.1.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "1.1.0.2@d03e506af02e2bb85cde9e65bcca13495b7e8629^",
       "r": [
         "openal >= 0.1.0"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@d03e506af02e2bb85cde9e65bcca13495b7e8629",
-      "r": [
-        "openal >= 0.1.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:42Z",
+  "generatedAt": "2026-05-26T13:11:52Z",
   "allDeps": {
     "packages": [
       "openal"

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "q",
   "fqn": "q.nim.OpenSystemsLab.github.com",
-  "head": "7931d15c8e5bbd50a3d1188fc95fd9fd347cb130",
   "author": "Huy Doan",
   "description": "Simple CSS3 selectors for Nim",
   "license": "MIT",
@@ -34,33 +33,10 @@
     {
       "v": "0.0.2@8ee0487d0256ae67bacf66af603d898940c39a0d",
       "r": []
-    },
-    {
-      "v": "#head@7931d15c8e5bbd50a3d1188fc95fd9fd347cb130",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:55Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "0.0.2",
-      "0.0.4",
-      "0.0.5",
-      "0.0.6",
-      "0.0.7",
-      "0.0.8"
-    ],
-    "latest": "0.0.8",
-    "prerelease": [
-      "0.0.2",
-      "0.0.4"
-    ]
-  },
+  "generatedAt": "2026-05-26T13:18:25Z",
   "allDeps": {
     "packages": [],
     "urls": [],

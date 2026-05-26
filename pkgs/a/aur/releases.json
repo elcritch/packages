@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "aur",
   "fqn": "aur.nim.hnicke.github.com",
-  "head": "7a104c0e92e89942412d6eae5a464b539f6ca027",
   "author": "Heiko Nickerl",
   "description": "A client for the Arch Linux User Repository (AUR)",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.2.0@7a104c0e92e89942412d6eae5a464b539f6ca027^",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@7a104c0e92e89942412d6eae5a464b539f6ca027",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:06Z",
+  "generatedAt": "2026-05-26T13:12:10Z",
   "allDeps": {
     "packages": [],
     "urls": [],

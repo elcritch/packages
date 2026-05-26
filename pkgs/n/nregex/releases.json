@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nregex",
   "fqn": "nregex.nitely.github.com",
-  "head": "e9fd3ed88623ab25ce81e22e84bbe9c997325718",
   "author": "Esteban Castro Borsani (@nitely)",
   "description": "A DFA based regex engine",
   "license": "MIT",
@@ -19,8 +18,6 @@
         "unicodedb >= 0.7.2",
         "unicodeplus >= 0.5.0"
       ],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
@@ -31,9 +28,7 @@
       ],
       "x": [
         "tests"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.0.2@02be553a5abe4e701a0cafbe8ac6e873825894ef",
@@ -43,9 +38,7 @@
       ],
       "x": [
         "tests"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.0.1@6eb095b378ae784faff14c2e46ab6c24f8bd20be",
@@ -55,23 +48,11 @@
       ],
       "x": [
         "tests"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@e9fd3ed88623ab25ce81e22e84bbe9c997325718",
-      "r": [
-        "unicodedb >= 0.7.2",
-        "unicodeplus >= 0.5.0"
-      ],
-      "m": "~",
-      "s": "",
-      "x": []
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:50Z",
+  "generatedAt": "2026-05-26T13:17:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

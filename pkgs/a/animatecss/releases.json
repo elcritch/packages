@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "animatecss",
   "fqn": "animatecss.thisago.github.com",
-  "head": "7d03f0d2465d48f99a8270a53dc027197e68e85e",
   "author": "Thiago Ferreira",
   "description": "Easily use Animate.css classes",
   "license": "MIT",
@@ -11,25 +10,15 @@
   "releases": [
     {
       "v": "0.1.0@37a55398c51ab5dd03c5625f2d3d90670f642073",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.1@7d03f0d2465d48f99a8270a53dc027197e68e85e^",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@7d03f0d2465d48f99a8270a53dc027197e68e85e",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:44Z",
+  "generatedAt": "2026-05-26T13:11:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

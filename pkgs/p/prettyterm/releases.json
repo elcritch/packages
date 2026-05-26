@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "prettyterm",
   "fqn": "prettyterm.CodeLibraty.github.com",
-  "head": "a8ee484cf6c4338da8bdbbe01416bf6324a2808a",
   "author": "CodeLibraty Fondation",
   "description": "Make your terminal interfaces prettier!",
   "license": "MIT",
@@ -17,27 +16,16 @@
     {
       "v": "1.0.1@a8ee484cf6c4338da8bdbbe01416bf6324a2808a^",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
       "v": "1.0.0@c7a9d656e23d736f2a2504b84137bbace128013f",
       "r": [],
-      "m": "~",
-      "s": "",
-      "x": []
-    },
-    {
-      "v": "#head@a8ee484cf6c4338da8bdbbe01416bf6324a2808a",
-      "r": [],
-      "m": "~",
-      "s": "",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:47Z",
+  "generatedAt": "2026-05-26T13:18:17Z",
   "allDeps": {
     "packages": [],
     "urls": [],

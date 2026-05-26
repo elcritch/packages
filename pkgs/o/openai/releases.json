@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "openai",
   "fqn": "nim_openai.ThomasTJdev.github.com",
-  "head": "9af9c41bd467f88b9995d63a824ba8f715506039",
   "author": "ThomasTJdev",
   "description": "OpenAI API",
   "license": "MIT",
@@ -11,37 +10,23 @@
   "releases": [
     {
       "v": "2.0.0@9af9c41bd467f88b9995d63a824ba8f715506039^",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "1.0.0@00ed67e15e985af58f004e77b7b7672e39f5a96a",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.1@0af4f3c2e3289fddaef615bfc848216fe9ec22e4",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.0@a71c3f44383bc33565cf798d4f329cd75e7725ea",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@9af9c41bd467f88b9995d63a824ba8f715506039",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:03Z",
+  "generatedAt": "2026-05-26T13:17:46Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "eth",
   "fqn": "nim-eth.status-im.github.com",
-  "head": "9a9b0b2cc998cacbfc9e335e49e56eb4d247bf7f",
   "author": "Status Research & Development GmbH",
   "description": "Ethereum Common library",
   "license": "MIT",
@@ -30,7 +29,6 @@
         "minilru",
         "snappy"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -52,7 +50,6 @@
         "minilru",
         "snappy"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -74,7 +71,6 @@
         "minilru",
         "snappy"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -96,7 +92,6 @@
         "minilru",
         "snappy"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -120,32 +115,10 @@
       ],
       "m": "1.6.0",
       "x": []
-    },
-    {
-      "v": "#head@9a9b0b2cc998cacbfc9e335e49e56eb4d247bf7f",
-      "r": [
-        "nimcrypto",
-        "stint >= 0.8.0",
-        "secp256k1",
-        "chronos",
-        "chronicles",
-        "stew",
-        "nat_traversal",
-        "metrics",
-        "sqlite3_abi",
-        "confutils",
-        "testutils",
-        "unittest2",
-        "results",
-        "minilru",
-        "snappy"
-      ],
-      "m": "~",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:22Z",
+  "generatedAt": "2026-05-26T13:13:49Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -167,7 +140,6 @@
       "confutils",
       "faststreams",
       "httputils",
-      "intops",
       "json_serialization",
       "metrics",
       "minilru",

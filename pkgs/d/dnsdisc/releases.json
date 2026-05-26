@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "dnsdisc",
   "fqn": "nim-dnsdisc.status-im.github.com",
-  "head": "6cb1b7e3922645275043c68e476cac1501a45e55",
   "author": "Status Research & Development GmbH",
   "description": "Nim discovery library supporting EIP-1459",
   "license": "MIT or Apache License 2.0",
@@ -20,8 +19,7 @@
         "testutils",
         "unittest2",
         "nimcrypto"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.1.1@6cb1b7e3922645275043c68e476cac1501a45e55^",
@@ -38,26 +36,10 @@
         "results"
       ],
       "m": "2.0.10"
-    },
-    {
-      "v": "#head@6cb1b7e3922645275043c68e476cac1501a45e55",
-      "r": [
-        "bearssl",
-        "chronicles",
-        "chronos",
-        "eth",
-        "secp256k1",
-        "stew",
-        "testutils",
-        "unittest2",
-        "nimcrypto",
-        "results"
-      ],
-      "m": "2.0.10"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:01Z",
+  "generatedAt": "2026-05-26T13:13:36Z",
   "allDeps": {
     "packages": [
       "bearssl",
@@ -67,7 +49,6 @@
       "eth",
       "faststreams",
       "httputils",
-      "intops",
       "json_serialization",
       "metrics",
       "minilru",

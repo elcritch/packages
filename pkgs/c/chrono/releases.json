@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "chrono",
   "fqn": "chrono.treeform.github.com",
-  "head": "4684994775ad6d10ff73daca7492a4792965deb3",
   "author": "Andre von Houck",
   "description": "Calendars, Timestamps and Timezones utilities.",
   "license": "MIT",
@@ -16,29 +15,21 @@
     {
       "v": "0.3.2@f46160d469602757e25178702f4fc0d2789b49b7",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
       "v": "0.3.1@e431d023453cf4292e58b3a0cf36f876d31c428c",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
       "v": "0.3.0@9b9e622a54378b3dfb972f347fecbf3141c72e42",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
       "v": "0.2.0@897b34e4bfaecd5f42686ea3cb1859ed936e3b09",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
@@ -47,7 +38,6 @@
         "zip >= 0.1.1"
       ],
       "m": "0.17.1",
-      "s": "",
       "x": []
     },
     {
@@ -56,19 +46,11 @@
         "zip >= 0.1.1"
       ],
       "m": "0.17.1",
-      "s": "",
-      "x": []
-    },
-    {
-      "v": "#head@4684994775ad6d10ff73daca7492a4792965deb3",
-      "r": [],
-      "m": "~",
-      "s": "",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:12Z",
+  "generatedAt": "2026-05-26T13:13:00Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

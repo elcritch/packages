@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "age",
   "fqn": "age.attakei.github.com",
-  "head": "bc0df790d8e4c9245b5432f1c43739952891a426",
   "author": "Kazuya Takei",
   "description": "Portable version-bumping tool",
   "license": "Apache-2.0",
@@ -24,8 +23,6 @@
         "parsetoml >= 0.7.2",
         "semver >= 1.2.0"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
@@ -38,8 +35,6 @@
         "parsetoml >= 0.7.2",
         "semver >= 1.2.0"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
@@ -52,8 +47,6 @@
         "parsetoml >= 0.7.2",
         "semver >= 1.2.0"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
@@ -66,8 +59,6 @@
         "parsetoml >= 0.7.2",
         "semver >= 1.2.0"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
@@ -80,8 +71,6 @@
         "parsetoml >= 0.7.2",
         "semver >= 1.2.0"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
@@ -91,8 +80,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
@@ -102,8 +89,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
@@ -113,8 +98,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
@@ -124,8 +107,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
@@ -135,8 +116,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
@@ -146,8 +125,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
@@ -157,8 +134,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
@@ -168,8 +143,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
@@ -179,29 +152,13 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "s": "",
-      "b": "",
-      "k": [],
-      "p": []
-    },
-    {
-      "v": "#head@bc0df790d8e4c9245b5432f1c43739952891a426",
-      "r": [
-        "cligen >= 1.5.0",
-        "mustache >= 0.4.3",
-        "parsetoml >= 0.7.2",
-        "semver >= 1.2.0"
-      ],
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:38Z",
+  "generatedAt": "2026-05-26T13:11:49Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

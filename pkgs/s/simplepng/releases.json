@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "simplepng",
   "fqn": "nim-simplepng.jrenner.github.com",
-  "head": "3e4436dbab994abc90f1d950aea5205ed899922b",
   "author": "Jon Renner",
   "description": "simple png writer",
   "license": "MIT",
@@ -13,21 +12,11 @@
       "v": "0.1.0@3e4436dbab994abc90f1d950aea5205ed899922b^",
       "r": [
         "nimPNG"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@3e4436dbab994abc90f1d950aea5205ed899922b",
-      "r": [
-        "nimPNG"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:54Z",
+  "generatedAt": "2026-05-26T13:19:02Z",
   "allDeps": {
     "packages": [
       "nimPNG"

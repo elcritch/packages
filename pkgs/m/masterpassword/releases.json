@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "masterpassword",
   "fqn": "masterpassword.SolitudeSF.github.com",
-  "head": "5845460678b4a28cfa11ed0f66ecf4da04507e93",
   "author": "SolitudeSF",
   "description": "Master Password algorithm implementation",
   "license": "MIT",
@@ -13,37 +12,24 @@
       "v": "0.2.1@5845460678b4a28cfa11ed0f66ecf4da04507e93^",
       "r": [
         "nimcrypto #a065c1741836462762d18d2fced1fedd46095b02"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.2.0@30114f6fc191e89b438e6b232c4bb9a95430c4cc",
       "r": [
         "nimcrypto #a065c1741836462762d18d2fced1fedd46095b02"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.0@72ca1846a41909c0b978132b71eff04b9c67162d",
       "r": [
         "hmac >= 0.1.7"
       ],
-      "m": "0.19.4",
-      "s": ""
-    },
-    {
-      "v": "#head@5845460678b4a28cfa11ed0f66ecf4da04507e93",
-      "r": [
-        "nimcrypto #a065c1741836462762d18d2fced1fedd46095b02"
-      ],
-      "m": "~",
-      "s": ""
+      "m": "0.19.4"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:21Z",
+  "generatedAt": "2026-05-26T13:15:52Z",
   "allDeps": {
     "packages": [
       "checksums <= 0.1.0",

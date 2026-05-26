@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "bytes2human",
   "fqn": "nim-bytes2human.juancarlospaco.github.com",
-  "head": "ec2c1a758cabdd4751a06c8ebf2b923f19e32731",
   "author": "juancarlospaco",
   "description": "Convert bytes to kilobytes, megabytes, gigabytes, etc.",
   "license": "LGPLv3",
@@ -17,8 +16,6 @@
       "r": [
         "pylib"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -27,36 +24,24 @@
         "pylib"
       ],
       "m": "0.19.0",
-      "s": "",
       "p": []
     },
     {
       "v": "0.2.1@af6341b8a86b21ee2bdd81f9991710e59ab1efcf",
       "r": [],
       "m": "0.20.0",
-      "p": [],
-      "s": ""
+      "p": []
     },
     {
       "v": "0.2.2@769d48834f49a20896fb1c500544b19e8803b2ce",
       "r": [],
       "a": "Juan Carlos",
       "m": "1.2.6",
-      "p": [],
-      "s": ""
-    },
-    {
-      "v": "#head@ec2c1a758cabdd4751a06c8ebf2b923f19e32731",
-      "r": [],
-      "a": "Juan Carlos",
-      "l": "MIT",
-      "m": "1.0.0",
-      "p": [],
-      "s": ""
+      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:53Z",
+  "generatedAt": "2026-05-26T13:12:44Z",
   "allDeps": {
     "packages": [
       "pylib <= 0.2.0"

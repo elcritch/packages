@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "loony",
   "fqn": "loony.shayanhabibi.github.com",
-  "head": "b60da76184b6d83c0227724bb59216403c04fed4",
   "author": "cabboose",
   "description": "Fast mpmc queue with sympathetic memory behavior",
   "license": "MIT",
@@ -89,16 +88,10 @@
       "v": "0.1.0@1b3d57bab667a6ba4158e39a84815a292fb55a5f",
       "r": [],
       "d": "fast mpmc queue with sympathetic memory behavior"
-    },
-    {
-      "v": "#head@b60da76184b6d83c0227724bb59216403c04fed4",
-      "r": [
-        "gh:nim-works/arc < 1.0.0"
-      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:10Z",
+  "generatedAt": "2026-05-26T13:15:42Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

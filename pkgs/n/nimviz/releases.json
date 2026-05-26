@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimviz",
   "fqn": "nimviz.Rekihyt.github.com",
-  "head": "df916b1d12b3627a76a32aa49b506e11efd8bb05",
   "author": "Rekihyt",
   "description": "A wrapper for the graphviz c api.",
   "license": "MIT",
@@ -13,20 +12,11 @@
     {
       "v": "0.1.0@d294ed073930ddc7b354dd46d8886da18fd3f64c",
       "r": [],
-      "m": "~",
-      "s": "",
-      "b": ""
-    },
-    {
-      "v": "#head@df916b1d12b3627a76a32aa49b506e11efd8bb05",
-      "r": [],
-      "m": "1.0.0",
-      "s": "",
       "b": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:24Z",
+  "generatedAt": "2026-05-26T13:17:17Z",
   "allDeps": {
     "packages": [],
     "urls": [],

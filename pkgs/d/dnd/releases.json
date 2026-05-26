@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "dnd",
   "fqn": "dnd.adokitkat.github.com",
-  "head": "de4ac31831fdfa87120f263fb9e7ca4277b69f8c",
   "author": "Adam Múdry",
   "description": "Drag and drop source / target",
   "license": "GPL-3.0-only",
@@ -26,8 +25,6 @@
         "gintro 0.9.9"
       ],
       "h": true,
-      "s": "",
-      "m": "~",
       "i": [],
       "j": [],
       "p": []
@@ -38,8 +35,6 @@
         "gintro #d9a5fba5a39fd50c2014a175140f7e9c7635a091"
       ],
       "h": true,
-      "s": "",
-      "m": "~",
       "i": [],
       "j": [],
       "p": []
@@ -50,8 +45,6 @@
         "gintro #head"
       ],
       "h": true,
-      "s": "",
-      "m": "~",
       "i": [],
       "j": [],
       "p": []
@@ -64,24 +57,11 @@
       "m": "1.6.4",
       "i": [],
       "j": [],
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@de4ac31831fdfa87120f263fb9e7ca4277b69f8c",
-      "r": [
-        "gintro 0.9.9"
-      ],
-      "h": true,
-      "s": "",
-      "m": "~",
-      "i": [],
-      "j": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:00Z",
+  "generatedAt": "2026-05-26T13:13:35Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

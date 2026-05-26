@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "karax",
   "fqn": "karax.karaxnim.github.com",
-  "head": "7e1471aea2ea1001134ae6862743902c1d1e1814",
   "author": "Andreas Rumpf",
   "description": "Karax is a framework for developing single page applications in Nim.",
   "license": "MIT",
@@ -25,7 +24,6 @@
         "ws",
         "dotenv >= 2.0.0"
       ],
-      "m": "~",
       "x": [],
       "k": [],
       "p": []
@@ -36,7 +34,6 @@
         "ws",
         "dotenv >= 2.0.0"
       ],
-      "m": "~",
       "x": [],
       "k": [],
       "p": []
@@ -47,7 +44,6 @@
         "ws",
         "dotenv >= 2.0.0"
       ],
-      "m": "~",
       "x": [],
       "k": [],
       "p": []
@@ -58,7 +54,6 @@
         "ws",
         "dotenv >= 2.0.0"
       ],
-      "m": "~",
       "x": [],
       "k": [],
       "p": []
@@ -69,7 +64,6 @@
         "ws",
         "dotenv >= 2.0.0"
       ],
-      "m": "~",
       "x": [],
       "k": [],
       "p": []
@@ -80,7 +74,6 @@
         "ws",
         "dotenv >= 2.0.0"
       ],
-      "m": "~",
       "x": [],
       "k": [],
       "p": []
@@ -91,7 +84,6 @@
         "ws",
         "dotenv >= 2.0.0"
       ],
-      "m": "~",
       "x": [],
       "k": [],
       "p": []
@@ -102,7 +94,6 @@
         "ws",
         "dotenv"
       ],
-      "m": "~",
       "x": [],
       "k": [],
       "p": []
@@ -113,7 +104,6 @@
         "ws",
         "dotenv"
       ],
-      "m": "~",
       "x": [],
       "k": [],
       "p": []
@@ -171,21 +161,10 @@
       "m": "0.16.1",
       "k": [],
       "p": []
-    },
-    {
-      "v": "#head@7e1471aea2ea1001134ae6862743902c1d1e1814",
-      "r": [
-        "ws",
-        "dotenv >= 2.0.0"
-      ],
-      "m": "~",
-      "x": [],
-      "k": [],
-      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:32Z",
+  "generatedAt": "2026-05-26T13:15:16Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

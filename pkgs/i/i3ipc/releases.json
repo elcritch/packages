@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "i3ipc",
   "fqn": "nim-i3ipc.FedericoCeratto.github.com",
-  "head": "0f5f68d32cedc9c7bae80e6ba81a1676fa46c1bd",
   "author": "Federico Ceratto",
   "description": "i3 IPC client",
   "license": "LGPLv3",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "0.1.0@d5d09ce71f447a4d81711a79bb82b7194fbd4cd0",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@0f5f68d32cedc9c7bae80e6ba81a1676fa46c1bd",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:02Z",
+  "generatedAt": "2026-05-26T13:14:56Z",
   "allDeps": {
     "packages": [],
     "urls": [],

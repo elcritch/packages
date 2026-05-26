@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimrcon",
   "fqn": "nimrcon.mcilya.github.com",
-  "head": "03a95d5d59fb4bbd160a16e3c5cdb1f6738ec45c",
   "author": "Ilya Tretyakov",
   "description": "Simple RCON client",
   "license": "MIT",
@@ -13,29 +12,17 @@
       "v": "0.0.1@9dd830ee641df0a9456dd967ee89007bd5eecdfe",
       "r": [
         "struct >= 0.2.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.0@03a95d5d59fb4bbd160a16e3c5cdb1f6738ec45c^",
       "r": [
         "struct >= 0.2.0"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@03a95d5d59fb4bbd160a16e3c5cdb1f6738ec45c",
-      "r": [
-        "struct >= 0.2.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:13Z",
+  "generatedAt": "2026-05-26T13:17:10Z",
   "allDeps": {
     "packages": [
       "struct"

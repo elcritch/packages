@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "phoon",
   "fqn": "phoon.ducdetronquito.github.com",
-  "head": "253fdc7989853d9008d8b9a7baf94645262d1b6d",
   "author": "Guillaume Paulet",
   "description": "A web framework inspired by ExpressJS 🐇⚡",
   "license": "Public Domain",
@@ -15,22 +14,16 @@
     {
       "v": "0.4.0@854cf98212ffdf5ea1d3347035e545d2df7adf38",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
       "v": "0.3.0@6ac7b8f2bb489a96fec7a350441568a190dadf62",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
       "v": "0.2.0@3a0523c39d12e4c9f1bf2812228a838390fedcee",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
@@ -39,9 +32,7 @@
       "x": [
         "benchmark",
         "tests"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.0@e273e6c6cf42c7e23d5472d9387db6f2ab745a95",
@@ -50,19 +41,11 @@
         "benchmark",
         "tests"
       ],
-      "m": "1.0.2",
-      "s": ""
-    },
-    {
-      "v": "#head@253fdc7989853d9008d8b9a7baf94645262d1b6d",
-      "r": [],
-      "m": "~",
-      "s": "",
-      "x": []
+      "m": "1.0.2"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:30Z",
+  "generatedAt": "2026-05-26T13:18:03Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

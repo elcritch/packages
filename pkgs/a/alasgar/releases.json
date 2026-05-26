@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "alasgar",
   "fqn": "alasgar.abisxir.github.com",
-  "head": "766858a8160fa75d57a48730e101639885ba5096",
   "author": "Abi Mohammadi",
   "description": "Game Engine",
   "license": "MIT",
@@ -31,7 +30,6 @@
         "gh:yglukhov/android",
         "darwin"
       ],
-      "m": "~",
       "i": [],
       "j": []
     },
@@ -49,7 +47,6 @@
         "gh:yglukhov/android",
         "darwin"
       ],
-      "m": "~",
       "i": [],
       "j": []
     },
@@ -62,7 +59,6 @@
         "jnim",
         "gh:yglukhov/android"
       ],
-      "m": "~",
       "i": [],
       "j": []
     },
@@ -75,7 +71,6 @@
         "jnim",
         "gh:yglukhov/android"
       ],
-      "m": "~",
       "i": [],
       "j": []
     },
@@ -88,26 +83,12 @@
         "jnim 0.5.2",
         "gh:yglukhov/android"
       ],
-      "m": "~",
-      "i": [],
-      "j": []
-    },
-    {
-      "v": "#head@766858a8160fa75d57a48730e101639885ba5096",
-      "r": [
-        "checksums 0.2.1",
-        "chroma 0.2.7",
-        "stb_image 2.5",
-        "jnim 0.5.2",
-        "gh:yglukhov/android"
-      ],
-      "m": "~",
       "i": [],
       "j": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:41Z",
+  "generatedAt": "2026-05-26T13:11:51Z",
   "allDeps": {
     "packages": [
       "checksums > 0.4",
@@ -125,9 +106,7 @@
       "plists <= 0.4",
       "sdl2 <= 0.3",
       "stb_image",
-      "vmath <= 0.4",
-      "wasmrt <= 0.3",
-      "zippy <= 0.3"
+      "vmath <= 0.4"
     ],
     "urls": [],
     "unresolved": [

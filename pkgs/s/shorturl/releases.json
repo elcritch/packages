@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "shorturl",
   "fqn": "nim-shorturl.achesak.github.com",
-  "head": "e090969532d25836e32b51de03cf313075cf9aa7",
   "author": "Adam Chesak",
   "description": "Nim module for generating URL identifiers",
   "license": "MIT",
@@ -10,14 +9,10 @@
     {
       "v": "1.0@d57e0153fe53b1c7231f4574f89c0eef052fa9dd",
       "r": []
-    },
-    {
-      "v": "#head@e090969532d25836e32b51de03cf313075cf9aa7",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:48Z",
+  "generatedAt": "2026-05-26T13:18:58Z",
   "allDeps": {
     "packages": [],
     "urls": [],

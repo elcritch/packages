@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "cozycliparser",
   "fqn": "cozycliparser.indiscipline.github.com",
-  "head": "c009b1569b82e3e7af893b9099711662f34659bf",
   "author": "Kirill I.",
   "description": "CLI parser builder, a convenience wrapper over `std/parseopt`",
   "license": "GPL-2.0-or-later",
@@ -11,76 +10,41 @@
   "releases": [
     {
       "v": "0.3.3@c009b1569b82e3e7af893b9099711662f34659bf^",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.3.2@9b780f6f28892dd528ec53f864ff121f4a5a104d",
       "r": [],
-      "m": "2.3.1",
-      "s": ""
+      "m": "2.3.1"
     },
     {
       "v": "0.3.1@3af04d1d7e9acbed53754b9b6a9cb8deecd3b1f2",
       "r": [],
-      "m": "2.3.1",
-      "s": ""
+      "m": "2.3.1"
     },
     {
       "v": "0.3.0@91bddc36300644b6f2cb6d9823ebe326a76ad688",
       "r": [],
-      "m": "2.3.1",
-      "s": ""
+      "m": "2.3.1"
     },
     {
       "v": "0.2.0@db8bd8e58ea553587fff4f2f0b8cdbb38a643754",
       "r": [],
-      "m": "2.3.1",
-      "s": ""
+      "m": "2.3.1"
     },
     {
       "v": "0.1.2@e0351c2e6052d5ce72f9172b54a321398004d9b4",
       "r": [],
-      "m": "2.3.1",
-      "s": ""
+      "m": "2.3.1"
     },
     {
       "v": "0.1.0@57092cf2d3ae78f6b8db202567debcd95e376fd7",
       "r": [],
-      "m": "2.3.1",
-      "s": ""
-    },
-    {
-      "v": "#head@c009b1569b82e3e7af893b9099711662f34659bf",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "m": "2.3.1"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:32Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "v0.2.0",
-      "v0.3.0",
-      "v0.3.1",
-      "v0.3.2",
-      "v0.3.3"
-    ],
-    "tagVersions": {
-      "v0.2.0": "0.2.0",
-      "v0.3.0": "0.3.0",
-      "v0.3.1": "0.3.1",
-      "v0.3.2": "0.3.2",
-      "v0.3.3": "0.3.3"
-    },
-    "latest": "v0.3.3"
-  },
+  "generatedAt": "2026-05-26T13:13:15Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "openssl_evp",
   "fqn": "nim-openssl-evp.cowboy-coders.github.com",
-  "head": "40ca0b64c89f4aa91d024fc7f2adc059d1f2fa7d",
   "author": "Will Szumski",
   "description": "Wrapper for OpenSSL's EVP interface",
   "license": "OpenSSL License and SSLeay License",
@@ -10,27 +9,19 @@
   "releases": [
     {
       "v": "0.1.0@f9513647761498fe6db9c8151d48c4a2c38fc9b5",
-      "r": [],
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.1@ee6bbbb7a941d075d224df901a80d90c55c5bb9d",
-      "r": [],
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.2@40ca0b64c89f4aa91d024fc7f2adc059d1f2fa7d^",
-      "r": [],
-      "s": ""
-    },
-    {
-      "v": "#head@40ca0b64c89f4aa91d024fc7f2adc059d1f2fa7d",
-      "r": [],
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:07Z",
+  "generatedAt": "2026-05-26T13:17:48Z",
   "allDeps": {
     "packages": [],
     "urls": [],

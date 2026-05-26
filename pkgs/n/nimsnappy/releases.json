@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimsnappy",
   "fqn": "nimsnappy.dfdeshom.github.com",
-  "head": "afe16cc7a0f9568a5451a0fb600c843cbedae9c4",
   "author": "didier deshommes",
   "description": "Snappy lib wrapper for Nim",
   "license": "BSD-3",
@@ -14,14 +13,10 @@
     {
       "v": "0.1.1@277fb0b6c07cad573f856edf7a77882d2c102ace",
       "r": []
-    },
-    {
-      "v": "#head@afe16cc7a0f9568a5451a0fb600c843cbedae9c4",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:16Z",
+  "generatedAt": "2026-05-26T13:17:12Z",
   "allDeps": {
     "packages": [],
     "urls": [],

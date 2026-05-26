@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "downit",
   "fqn": "downit.Patitotective.github.com",
-  "head": "227aac577278f193c870aaf26e042a9a66dc167f",
   "author": "Patitotective",
   "description": "An asynchronous donwload system.",
   "license": "MIT",
@@ -10,13 +9,11 @@
   "releases": [
     {
       "v": "0.3.3@227aac577278f193c870aaf26e042a9a66dc167f^",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "0.2.2@76906ce7be03b0b4db059f49ebc88bac88b1efb2",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "0.2.1@173806879a07f4708cf36bea538c7890ee411add",
@@ -32,15 +29,10 @@
       "v": "0.1.0@870080d2ab7a9616b7fe70c8e6aa9deceb0256d1",
       "r": [],
       "m": "1.6.5"
-    },
-    {
-      "v": "#head@227aac577278f193c870aaf26e042a9a66dc167f",
-      "r": [],
-      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:04Z",
+  "generatedAt": "2026-05-26T13:13:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

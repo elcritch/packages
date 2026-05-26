@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "validateip",
   "fqn": "nim-validateip.theAkito.github.com",
-  "head": "ead604c504bce6eb149ab42191bdde2de652569a",
   "author": "Akito",
   "description": "Nim module for checking if a provided string is actually a correct IP address. Supports detection of Class A to D of IPv4 addresses. IPv6 support planned.",
   "license": "GPLv3+",
@@ -10,24 +9,15 @@
   "releases": [
     {
       "v": "0.1.1@035b973e2bd89e6929a54798c7789550a2f045ff",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "0.1.0@f58b39e64b7a9d61693fd59247c7d8f983770385",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@ead604c504bce6eb149ab42191bdde2de652569a",
-      "r": [],
-      "a": "Akito <the@akito.ooo>",
-      "l": "GPL-3.0-or-later",
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:26Z",
+  "generatedAt": "2026-05-26T13:20:06Z",
   "allDeps": {
     "packages": [],
     "urls": [],

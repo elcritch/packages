@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "dewitt",
   "fqn": "dewitt.Luteva-ssh.github.com",
-  "head": "79d0f6f9df2a85f092ebe8016c7afa7ffc87bdb7",
   "author": "Janni Adamski",
   "description": "Discrete Wavelet Transform (DWT - here 'dewitt') for Audio Analysis",
   "license": "MIT",
@@ -16,22 +15,12 @@
     {
       "v": "0.1.0@5aab71cc3d32395270cf33cfb2174f93008166c1",
       "r": [],
-      "m": "~",
-      "s": "",
-      "b": "",
-      "p": []
-    },
-    {
-      "v": "#head@79d0f6f9df2a85f092ebe8016c7afa7ffc87bdb7",
-      "r": [],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:54Z",
+  "generatedAt": "2026-05-26T13:13:31Z",
   "allDeps": {
     "packages": [],
     "urls": [],

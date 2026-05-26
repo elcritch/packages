@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "smoothing",
   "fqn": "smoothing.paulnorrie.github.com",
-  "head": "db987825475b99d09c81475644b2ca09447ffdb5",
   "author": "Paul Norrie",
   "description": "Smoothing functions for Regression and Density Estimation",
   "license": "GPL-3.0-or-later",
@@ -13,21 +12,11 @@
       "v": "0.1.0@db987825475b99d09c81475644b2ca09447ffdb5^",
       "r": [
         "arraymancer >= 0.7.0"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@db987825475b99d09c81475644b2ca09447ffdb5",
-      "r": [
-        "arraymancer >= 0.7.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:59Z",
+  "generatedAt": "2026-05-26T13:19:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

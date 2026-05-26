@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "libtray",
   "fqn": "libtray.neroist.github.com",
-  "head": "6813e70c2cebb8441b62a0a59aa2f6ea96c43f09",
   "author": "neroist",
   "description": "Wrapper for dmikushin/tray",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@d0a415eefd6252f3c1405e752233d717c7973e9f",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@6813e70c2cebb8441b62a0a59aa2f6ea96c43f09",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:55Z",
+  "generatedAt": "2026-05-26T13:15:32Z",
   "allDeps": {
     "packages": [],
     "urls": [],

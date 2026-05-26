@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "zero_functional",
   "fqn": "zero-functional.zero-functional.github.com",
-  "head": "0d2864eb611ea9aaf316e37af07e9c90d2887f4b",
   "author": "Alexander Ivanov / Michael Schulte",
   "description": "a library providing zero-cost for chaining functional abstractions in Nim.",
   "license": "MIT",
@@ -17,49 +16,42 @@
     {
       "v": "1.3.0@edf3b7f59119f75706da435c2b7f080a0cf4960c",
       "r": [],
-      "m": "~",
       "x": [],
       "y": []
     },
     {
       "v": "1.2.1@e4399fd0660079a4ca6495899f2fbd0400a883a1",
       "r": [],
-      "m": "~",
       "x": [],
       "y": []
     },
     {
       "v": "1.2.0@813e70605e8d2c9b304b479d9ce54dec33ace3de",
       "r": [],
-      "m": "~",
       "x": [],
       "y": []
     },
     {
       "v": "1.1.1@875ab11c4b9c4d178f10df26fcfd33f0f7f6e66c",
       "r": [],
-      "m": "~",
       "x": [],
       "y": []
     },
     {
       "v": "1.1.0@dcddf047d8a9616a7f4abc3614f51836e448358d",
       "r": [],
-      "m": "~",
       "x": [],
       "y": []
     },
     {
       "v": "1.0.1@4752da3735c26290612ada4ca240a9da184f6c6a",
       "r": [],
-      "m": "~",
       "x": [],
       "y": []
     },
     {
       "v": "1.0.0@5f0a3bfce81ce2a4360d67985b1dc0287212ad5e",
       "r": [],
-      "m": "~",
       "x": [],
       "y": []
     },
@@ -118,17 +110,10 @@
       "m": "0.16.1",
       "x": [],
       "y": []
-    },
-    {
-      "v": "#head@0d2864eb611ea9aaf316e37af07e9c90d2887f4b",
-      "r": [],
-      "m": "~",
-      "x": [],
-      "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:57:22Z",
+  "generatedAt": "2026-05-26T13:20:46Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

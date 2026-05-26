@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "cozytaskpool",
   "fqn": "cozytaskpool.indiscipline.github.com",
-  "head": "6ff1d91226693d03958b10ad422db95018ad9ff2",
   "author": "Kirill I",
   "description": "Cozy Task pool",
   "license": "GPL-2.0-or-later",
@@ -13,35 +12,21 @@
       "v": "0.1.3@6ff1d91226693d03958b10ad422db95018ad9ff2^",
       "r": [
         "threading >= 0.2.1"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.2@23f31c3cd77a7fda7194a1d0a738fd847149dfcc",
       "r": [
         "threading >= 0.2.1"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.1@9bb878c398f43c29952c495d7425018f3e1bad1b",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@6ff1d91226693d03958b10ad422db95018ad9ff2",
-      "r": [
-        "threading >= 0.2.1"
-      ],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:32Z",
+  "generatedAt": "2026-05-26T13:13:15Z",
   "allDeps": {
     "packages": [
       "threading > 0.1.1"

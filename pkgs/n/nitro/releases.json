@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nitro",
   "fqn": "nim-nitro.status-im.github.com",
-  "head": "5ccdeb46e06dcf5cef80d0acbb80ee8a17d596e7",
   "author": "Nim Nitro developers",
   "description": "Nitro state channels",
   "license": "MIT",
@@ -18,8 +17,7 @@
         "secp256k1",
         "stint",
         "stew"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.5.0@213551c5121e41e190df51563355d95bac6d7d39",
@@ -31,8 +29,7 @@
         "secp256k1",
         "stint",
         "stew"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.4.0@adcd534eb57be1c2535c2b34c62c8dd45e9e8252",
@@ -43,8 +40,7 @@
         "secp256k1",
         "stint",
         "stew"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.3.0@85ffad6fb11d5305bbe05553017c7003dcf360cd",
@@ -55,8 +51,7 @@
         "secp256k1",
         "stint",
         "stew"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.2.0@04beab5b916e7dcba4a4889fe77a651e8a2f4f55",
@@ -67,8 +62,7 @@
         "secp256k1",
         "stint",
         "stew"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.1.0@f7d06a995b161686898d06bbc1a1c52236cd5e91",
@@ -79,28 +73,14 @@
         "secp256k1",
         "stint",
         "stew"
-      ],
-      "m": "~"
-    },
-    {
-      "v": "#head@5ccdeb46e06dcf5cef80d0acbb80ee8a17d596e7",
-      "r": [
-        "nimcrypto >= 0.6.0 & < 0.7.0",
-        "questionable >= 0.10.10 & < 0.11.0",
-        "contractabi >= 0.7.1 & < 0.8.0",
-        "secp256k1 >= 0.6.0 & < 0.7.0",
-        "stint >= 0.8.0 & < 0.9.0",
-        "stew >= 0.2.0"
-      ],
-      "m": "2.0.14"
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:32Z",
+  "generatedAt": "2026-05-26T13:17:22Z",
   "allDeps": {
     "packages": [
       "contractabi > 0.4.0",
-      "intops",
       "nimcrypto",
       "questionable",
       "results",

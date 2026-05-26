@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "at",
   "fqn": "at.capocasa.github.com",
-  "head": "aee55bea94fc2dd2a5559e61fce4a6fd4301d7a6",
   "author": "Carlo Capocasa",
   "description": "A powerful, lightweight tool to execute code later",
   "license": "MIT",
@@ -10,14 +9,10 @@
     {
       "v": "0.2.0@aee55bea94fc2dd2a5559e61fce4a6fd4301d7a6^",
       "r": []
-    },
-    {
-      "v": "#head@aee55bea94fc2dd2a5559e61fce4a6fd4301d7a6",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:12Z",
+  "generatedAt": "2026-05-26T13:12:08Z",
   "allDeps": {
     "packages": [],
     "urls": [],

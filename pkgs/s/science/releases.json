@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "science",
   "fqn": "nim-science.ruivieira.github.com",
-  "head": "6a0bba45d0fc75a295f178924a88e2866018ddab",
   "author": "Rui  Vieira",
   "description": "science!",
   "license": "Apache 2.0",
@@ -15,18 +14,11 @@
     {
       "v": "0.2.2@d436d13bb1ac03917bd3ebe4c8728aec12361032",
       "r": [],
-      "m": "~",
-      "x": []
-    },
-    {
-      "v": "#head@6a0bba45d0fc75a295f178924a88e2866018ddab",
-      "r": [],
-      "m": "~",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:28Z",
+  "generatedAt": "2026-05-26T13:18:44Z",
   "allDeps": {
     "packages": [],
     "urls": [],

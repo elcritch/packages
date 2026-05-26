@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimfuzz",
   "fqn": "nimfuzz.apense.github.com",
-  "head": "ce4a370558292dee71585b8fdc45b708957ccd8e",
   "author": "Jonathan Edwards",
   "description": "Simple and compact Nim fuzzing library",
   "license": "Apache License 2.0",
@@ -22,14 +21,10 @@
     {
       "v": "1.0.0@37b573eab580e9afb661319f6e95e92116033cd2",
       "r": []
-    },
-    {
-      "v": "#head@ce4a370558292dee71585b8fdc45b708957ccd8e",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:43Z",
+  "generatedAt": "2026-05-26T13:16:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

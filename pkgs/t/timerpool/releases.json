@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "timerpool",
   "fqn": "timerpool.mikra01.github.com",
-  "head": "7e42cd224442b787c628abb7fe6daeed5005e8b3",
   "author": "Michael Krauter",
   "description": "single thread Timerpool implementation in Nim for event purpose",
   "license": "MIT",
@@ -14,18 +13,11 @@
     {
       "v": "0.1.0@161c82fdd23f81d7a7fd7d211f365e89e62a902a",
       "r": [],
-      "m": "~",
-      "x": []
-    },
-    {
-      "v": "#head@7e42cd224442b787c628abb7fe6daeed5005e8b3",
-      "r": [],
-      "m": "~",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:52Z",
+  "generatedAt": "2026-05-26T13:19:43Z",
   "allDeps": {
     "packages": [],
     "urls": [],

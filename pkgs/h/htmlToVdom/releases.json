@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "htmlToVdom",
   "fqn": "htmlToVdom.C-NERD.github.com",
-  "head": "f4d0b65aefe8217203a94cf5d5fb7bc1682f2500",
   "author": "C-NERD",
   "description": "Karax extension to convert html in string form to embeddable Karax vdom",
   "license": "MIT",
@@ -15,8 +14,6 @@
       "r": [
         "karax 1.2.1"
       ],
-      "m": "~",
-      "s": "",
       "e": ""
     },
     {
@@ -24,8 +21,6 @@
       "r": [
         "karax 1.2.1"
       ],
-      "m": "~",
-      "s": "",
       "e": ""
     },
     {
@@ -34,23 +29,11 @@
         "karax #head"
       ],
       "d": "Karax extension to convert html in string form to embeddable Karax vnode",
-      "m": "~",
-      "s": "",
-      "e": ""
-    },
-    {
-      "v": "#head@f4d0b65aefe8217203a94cf5d5fb7bc1682f2500",
-      "r": [
-        "karax #head"
-      ],
-      "d": "Karax extension to convert html in string form to embeddable Karax vnode",
-      "m": "~",
-      "s": "",
       "e": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:54Z",
+  "generatedAt": "2026-05-26T13:14:50Z",
   "allDeps": {
     "packages": [
       "dotenv",

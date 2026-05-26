@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "ogham",
   "fqn": "ogham-nim.stscoundrel.github.com",
-  "head": "36d27f2a4398c0a344bedbcb6ba4ead2e28c4226",
   "author": "stscoundrel / Sampo Silvennoinen",
   "description": "Convert Ogham inscriptions to latin text & vice versa.",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "1.0.0@6b38780d18010e3bb1d65e174dc965607d2061e4",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@36d27f2a4398c0a344bedbcb6ba4ead2e28c4226",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:59Z",
+  "generatedAt": "2026-05-26T13:17:43Z",
   "allDeps": {
     "packages": [],
     "urls": [],

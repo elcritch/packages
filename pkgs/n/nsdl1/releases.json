@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nsdl1",
   "fqn": "nsdl1.amnr.github.com",
-  "head": "0f6ab0f6fab36b7c59eac70dec0d84f93fbae304",
   "author": "Amun",
   "description": "High level SDL 1.2 shared library wrapper",
   "license": "NCSA",
@@ -12,33 +11,23 @@
       "v": "0.9.6@0f6ab0f6fab36b7c59eac70dec0d84f93fbae304^",
       "r": [
         "dlutils"
-      ],
-      "s": ""
+      ]
     },
     {
       "v": "0.9.4@668e8631ab643bd7dfb4bbd7b9ab2873aa7fcbd9",
       "r": [
         "dlutils"
-      ],
-      "s": ""
+      ]
     },
     {
       "v": "0.9.3@66d45fffffd24a74fec9e04ef77b9395ee2bb8a2",
       "r": [
         "dlutils"
-      ],
-      "s": ""
-    },
-    {
-      "v": "#head@0f6ab0f6fab36b7c59eac70dec0d84f93fbae304",
-      "r": [
-        "dlutils"
-      ],
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:50Z",
+  "generatedAt": "2026-05-26T13:17:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "asyncpg",
   "fqn": "asyncpg.cheatfate.github.com",
-  "head": "2d6123ea6345c6500e7470144d8523dad7a07e36",
   "author": "Eugene Kabanov",
   "description": "Asynchronous PostgreSQL driver",
   "license": "MIT",
@@ -10,19 +9,10 @@
     {
       "v": "0.1.0@f60e305eb2673481b68ae53a4fe3add411331978",
       "r": []
-    },
-    {
-      "v": "#head@2d6123ea6345c6500e7470144d8523dad7a07e36",
-      "r": [],
-      "d": "Asynchronous PostgreSQL driver for Nim",
-      "x": [
-        "tests"
-      ],
-      "m": "0.16.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:02Z",
+  "generatedAt": "2026-05-26T13:12:07Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "hexclock",
   "fqn": "hexclock.RainbowAsteroids.github.com",
-  "head": "47032a6dd71c8173389d416260190ec3d9f02ecb",
   "author": "Rainbow Asteroids",
   "description": "Hex clock made in SDL and Nim",
   "license": "GPL-3.0-only",
@@ -17,22 +16,11 @@
       "r": [
         "sdl2"
       ],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@47032a6dd71c8173389d416260190ec3d9f02ecb",
-      "r": [
-        "sdl2"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:45Z",
+  "generatedAt": "2026-05-26T13:14:42Z",
   "allDeps": {
     "packages": [
       "sdl2"

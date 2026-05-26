@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "StashTable",
   "fqn": "StashTable.olliNiinivaara.github.com",
-  "head": "d472ee8611a9ed986c49fed57540d67496ea2f10",
   "author": "Olli Niinivaara",
   "description": "Concurrent hash table",
   "license": "MIT",
@@ -15,50 +14,35 @@
     {
       "v": "1.2.2@d472ee8611a9ed986c49fed57540d67496ea2f10^",
       "r": [],
-      "m": "~",
-      "s": "",
       "j": []
     },
     {
       "v": "1.2.1@95b01fd8be306fe3d18c733be331e878e2003fda",
       "r": [],
-      "j": [],
-      "m": "~",
-      "s": ""
+      "j": []
     },
     {
       "v": "1.2.0@ed89b76da52e76b43702b035041d5b67b4ec6922",
       "r": [],
-      "j": [],
-      "m": "~",
-      "s": ""
+      "j": []
     },
     {
       "v": "1.1.0@ed1b0658723555fc0355e9e9db141567a8ab8a9c",
       "r": [],
       "a": "Olli",
       "m": "1.0.0",
-      "j": [],
-      "s": ""
+      "j": []
     },
     {
       "v": "1.0.0@b8593b6ee8411bd1f75ffb88348a5580859ad434",
       "r": [],
       "a": "Olli",
       "m": "1.0.0",
-      "j": [],
-      "s": ""
-    },
-    {
-      "v": "#head@d472ee8611a9ed986c49fed57540d67496ea2f10",
-      "r": [],
-      "m": "~",
-      "s": "",
       "j": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:34Z",
+  "generatedAt": "2026-05-26T13:11:46Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

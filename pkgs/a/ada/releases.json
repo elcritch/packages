@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "ada",
   "fqn": "nim-ada.ferus-web.github.com",
-  "head": "5effaf6dd75620459f8271adcf5d2ffa197b5dda",
   "author": "Trayambak Rai",
   "description": "Safe Nim wrapper over ada-url, a SIMD accelerated URL parser",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "1.0.0@d16f3ed8f6a089edad1a0d386ec8cac23699ccfd",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@5effaf6dd75620459f8271adcf5d2ffa197b5dda",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:38Z",
+  "generatedAt": "2026-05-26T13:11:49Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

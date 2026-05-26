@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "simpleflake",
   "fqn": "simpleflake.nim.aisk.github.com",
-  "head": "5795d5611772892e444bd3fb7b2aa8ac3db094f4",
   "author": "An Long",
   "description": "Simpleflake for nim",
   "license": "MIT",
@@ -11,31 +10,19 @@
   "releases": [
     {
       "v": "0.1.2@9dce0db9d635c717c42ba50484f9b24111a43cbc",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.1@c9fc0e2791d6f3fa524e3bba26e8d0273ba71eda",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.0@ad3fb499b52e8a706b7bcdd5a5caa6cf61d5da4e",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@5795d5611772892e444bd3fb7b2aa8ac3db094f4",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:53Z",
+  "generatedAt": "2026-05-26T13:19:02Z",
   "allDeps": {
     "packages": [],
     "urls": [],

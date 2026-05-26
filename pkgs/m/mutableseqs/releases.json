@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "mutableseqs",
   "fqn": "mutableseqs.iourinski.github.com",
-  "head": "75bd0a6e5db62ceb0e632ac8ce92ca85dfbf4db4",
   "author": "Dima",
   "description": "utilities for transforming sequences",
   "license": "MIT",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "0.1.0@146c65f67c3f5456f248399fae080a74a23c59f4",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@75bd0a6e5db62ceb0e632ac8ce92ca85dfbf4db4",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:49Z",
+  "generatedAt": "2026-05-26T13:16:12Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "monocypher",
   "fqn": "monocypher.nim.markspanbroek.github.com",
-  "head": "c3cd8bd208412f6d5a3283db0510fac0e35704dc",
   "author": "Mark Spanbroek",
   "description": "Monocypher",
   "license": "MIT",
@@ -20,7 +19,6 @@
       "r": [
         "sysrandom >= 1.1.0 & < 2.0.0"
       ],
-      "m": "~",
       "i": [],
       "j": []
     },
@@ -29,7 +27,6 @@
       "r": [
         "sysrandom >= 1.1.0 & < 2.0.0"
       ],
-      "m": "~",
       "i": [],
       "j": []
     },
@@ -39,7 +36,6 @@
         "nimterop >= 0.6.13 & < 0.7.0",
         "sysrandom >= 1.1.0 & < 2.0.0"
       ],
-      "m": "~",
       "i": [],
       "j": []
     },
@@ -50,8 +46,7 @@
         "sysrandom >= 1.1.0 & < 2.0.0"
       ],
       "i": [],
-      "j": [],
-      "m": "~"
+      "j": []
     },
     {
       "v": "0.2.0@0109ee7da170019b8331cd5fd3ce1dc73dd9da54",
@@ -60,8 +55,7 @@
         "sysrandom >= 1.1.0 & < 2.0.0"
       ],
       "i": [],
-      "j": [],
-      "m": "~"
+      "j": []
     },
     {
       "v": "0.1.2@fec4bfe191923b3ed0913bf83e599373e6a21b1b",
@@ -92,19 +86,10 @@
       "m": "1.0.0",
       "i": [],
       "j": []
-    },
-    {
-      "v": "#head@c3cd8bd208412f6d5a3283db0510fac0e35704dc",
-      "r": [
-        "sysrandom >= 1.1.0 & < 2.0.0"
-      ],
-      "m": "~",
-      "i": [],
-      "j": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:41Z",
+  "generatedAt": "2026-05-26T13:16:07Z",
   "allDeps": {
     "packages": [
       "cligen <= 0.2.2",

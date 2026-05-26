@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "cocktaildb",
   "fqn": "cocktaildb-nim.thechampagne.github.com",
-  "head": "2847a449d25ae81fe81b5e541a1ed2f19bcc2463",
   "author": "XXIV",
   "description": "TheCocktailDB API client",
   "license": "Apache-2.0",
@@ -11,32 +10,11 @@
   "releases": [
     {
       "v": "1.0.0@2847a449d25ae81fe81b5e541a1ed2f19bcc2463^",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@2847a449d25ae81fe81b5e541a1ed2f19bcc2463",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:22Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "v1.0.0"
-    ],
-    "tagVersions": {
-      "v1.0.0": "1.0.0"
-    },
-    "latest": "v1.0.0"
-  },
+  "generatedAt": "2026-05-26T13:13:08Z",
   "allDeps": {
     "packages": [],
     "urls": [],

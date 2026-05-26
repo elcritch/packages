@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "holo_json",
   "fqn": "holo-json.holo-nim.github.com",
-  "head": "8e893325daaab90564ffdac2fe00793200d4c40b",
   "author": "Andre von Houck -> metagn",
   "description": "usable fork of jsony",
   "license": "MIT",
@@ -13,28 +12,15 @@
       "v": "0.1.0@ed1cb85fe89716b5a65d6be0a31f455603d422cc",
       "r": [
         "gh:metagn/hemodyne #HEAD"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@8e893325daaab90564ffdac2fe00793200d4c40b",
-      "r": [
-        "gh:holo-nim/fleu #HEAD",
-        "gh:holo-nim/cosm #HEAD"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:48Z",
+  "generatedAt": "2026-05-26T13:14:45Z",
   "allDeps": {
     "packages": [],
     "urls": [],
     "unresolved": [
-      "gh:holo-nim/cosm",
-      "gh:holo-nim/fleu",
       "gh:metagn/hemodyne"
     ]
   }

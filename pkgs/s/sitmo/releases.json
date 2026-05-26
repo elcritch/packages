@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "sitmo",
   "fqn": "sitmo.jxy.github.com",
-  "head": "4f8aaf1378ed8d461b1d92c71109d431dff73250",
   "author": "Xiao-Yong Jin",
   "description": "Sitmo parallel random number generator in Nim",
   "license": "MIT",
@@ -10,22 +9,15 @@
   "releases": [
     {
       "v": "0.0.2@e923da087757540be922f4285f0e765e13aed8c0",
-      "r": [],
-      "s": ""
+      "r": []
     },
     {
       "v": "0.0.1@1a3aac5fbe33d4c6bd7bfdf38557b28fb8bccf93",
-      "r": [],
-      "s": ""
-    },
-    {
-      "v": "#head@4f8aaf1378ed8d461b1d92c71109d431dff73250",
-      "r": [],
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:54Z",
+  "generatedAt": "2026-05-26T13:19:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

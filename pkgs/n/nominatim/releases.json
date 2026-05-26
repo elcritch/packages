@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nominatim",
   "fqn": "nim-nominatim.juancarlospaco.github.com",
-  "head": "4be3a868971d627d2682caf340389e175fcee99f",
   "author": "juancarlospaco",
   "description": "OpenStreetMap Nominatim API Lib and CLI Client for Nim",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.5@12cb97d59b0bfd977cfbf9bcd4f828f993e878a8",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@4be3a868971d627d2682caf340389e175fcee99f",
-      "r": [],
-      "m": "0.20.0",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:40Z",
+  "generatedAt": "2026-05-26T13:17:29Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

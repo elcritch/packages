@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "scnim",
   "fqn": "scnim.capocasa.github.com",
-  "head": "93c45a5730f5e3d3cbcecd50509ac21f27f61b3b",
   "author": "Carlo Capocasa",
   "description": "Develop SuperCollider UGens in Nim",
   "license": "MIT",
@@ -15,15 +14,10 @@
       "v": "0.0.1@e95e4f6d8db47e24a469ed4854137631649ed9f3",
       "r": [],
       "x": []
-    },
-    {
-      "v": "#head@93c45a5730f5e3d3cbcecd50509ac21f27f61b3b",
-      "r": [],
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:29Z",
+  "generatedAt": "2026-05-26T13:18:44Z",
   "allDeps": {
     "packages": [],
     "urls": [],

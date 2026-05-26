@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "eventemitter",
   "fqn": "eventemitter.al-bimani.github.com",
-  "head": "f498d8531afe5f41b1d6dfbbd8ba45eb859510a9",
   "author": "al-bimani",
   "description": "event emitter for nim",
   "license": "MIT",
@@ -13,20 +12,11 @@
     {
       "v": "0.1.0@bc9e99c531ab93eea7e48e7d08104de2dceda438",
       "r": [],
-      "m": "~",
-      "s": "",
-      "e": ""
-    },
-    {
-      "v": "#head@f498d8531afe5f41b1d6dfbbd8ba45eb859510a9",
-      "r": [],
-      "m": "~",
-      "s": "",
       "e": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:23Z",
+  "generatedAt": "2026-05-26T13:13:50Z",
   "allDeps": {
     "packages": [],
     "urls": [],

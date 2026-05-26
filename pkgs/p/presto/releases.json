@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "presto",
   "fqn": "nim-presto.status-im.github.com",
-  "head": "652ccfa6a89830c9c5d98d0f68ce5fcd16f789c1",
   "author": "Status Research & Development GmbH",
   "description": "REST API implementation",
   "license": "MIT",
@@ -21,7 +20,6 @@
         "results",
         "stew"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -36,22 +34,10 @@
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nim-presto.status-im.github.com-92b1c7ff-presto.nimble\ninvalid 'requires' syntax in nimble file: chronos ^= 4.0.3",
       "x": []
-    },
-    {
-      "v": "#head@652ccfa6a89830c9c5d98d0f68ce5fcd16f789c1",
-      "r": [
-        "chronos >= 4.0.3 & < 5.0.0",
-        "chronicles",
-        "metrics",
-        "results",
-        "stew"
-      ],
-      "m": "~",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:45Z",
+  "generatedAt": "2026-05-26T13:18:15Z",
   "allDeps": {
     "packages": [
       "bearssl",

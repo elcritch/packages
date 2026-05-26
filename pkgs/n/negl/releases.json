@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "negl",
   "fqn": "negl.lualvsil.github.com",
-  "head": "01a9353b15c88ed5c4c47506440f11d84306053d",
   "author": "Lucas Alves",
   "description": "Nim bindings for EGL",
   "license": "MIT",
@@ -11,25 +10,15 @@
   "releases": [
     {
       "v": "0.1.2@2623c77c6da9f6933c5173bd721d389a8a212cc4",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.1@c9c076216a0662c22b1e7a82b45f7c06faeeb0bc",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@01a9353b15c88ed5c4c47506440f11d84306053d",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:59Z",
+  "generatedAt": "2026-05-26T13:16:20Z",
   "allDeps": {
     "packages": [],
     "urls": [],

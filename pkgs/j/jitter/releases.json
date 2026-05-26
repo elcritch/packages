@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "jitter",
   "fqn": "jitter.sharpcdf.github.com",
-  "head": "b635ac2463150f0de5627f283907b6c486074423",
   "author": "sharpcdf",
   "description": "A git-based binary manager for linux.",
   "license": "MIT",
@@ -18,7 +17,6 @@
         "zippy >= 0.10.3",
         "argparse >= 3.0.0"
       ],
-      "m": "~",
       "b": "",
       "o": {}
     },
@@ -28,7 +26,6 @@
         "zippy >= 0.10.3",
         "argparse >= 3.0.0"
       ],
-      "m": "~",
       "b": "",
       "o": {}
     },
@@ -38,7 +35,6 @@
         "zippy >= 0.10.3",
         "argparse >= 3.0.0"
       ],
-      "m": "~",
       "b": "",
       "o": {}
     },
@@ -48,7 +44,6 @@
         "zippy >= 0.10.3",
         "argparse >= 3.0.0"
       ],
-      "m": "~",
       "b": "",
       "o": {}
     },
@@ -58,7 +53,6 @@
         "zippy >= 0.10.3",
         "argparse >= 3.0.0"
       ],
-      "m": "~",
       "b": "",
       "o": {}
     },
@@ -68,7 +62,6 @@
         "zippy >= 0.10.3",
         "argparse >= 3.0.0"
       ],
-      "m": "~",
       "b": "",
       "o": {}
     },
@@ -77,7 +70,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "b": "",
       "o": {}
     },
@@ -86,7 +78,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
       "b": "",
       "o": {}
     },
@@ -95,23 +86,12 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "b": "",
-      "o": {}
-    },
-    {
-      "v": "#head@b635ac2463150f0de5627f283907b6c486074423",
-      "r": [
-        "zippy >= 0.10.3",
-        "argparse >= 3.0.0"
-      ],
-      "m": "~",
       "b": "",
       "o": {}
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:23Z",
+  "generatedAt": "2026-05-26T13:15:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "dual",
   "fqn": "nim_dual.drjdn.github.com",
-  "head": "f5df9cce770c810a4479b882682437d4778c98f9",
   "author": "Jason Nielsen",
   "description": "Implementation of dual numbers",
   "license": "MIT",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "0.1.0@e4b652f69355de9192067ed389e71df26f866d44",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@f5df9cce770c810a4479b882682437d4778c98f9",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:06Z",
+  "generatedAt": "2026-05-26T13:13:39Z",
   "allDeps": {
     "packages": [],
     "urls": [],

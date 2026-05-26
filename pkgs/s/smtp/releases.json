@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "smtp",
   "fqn": "smtp.nim-lang.github.com",
-  "head": "46ad524ada896bc45869d63077362718ca52873b",
   "author": "nim-lang",
   "description": "SMTP client implementation (originally in the stdlib).",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@c9d3a26bfd8b9b98a714bd3a1f4ec33c1dd0b4cf",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@46ad524ada896bc45869d63077362718ca52873b",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:59Z",
+  "generatedAt": "2026-05-26T13:19:06Z",
   "allDeps": {
     "packages": [],
     "urls": [],

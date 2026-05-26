@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "winim",
   "fqn": "winim.khchen.github.com",
-  "head": "6fdee629140baa0d7060ddf86662457d11f50d35",
   "author": "Ward",
   "description": "Winim - Windows API, COM, and CLR Module for Nim",
   "license": "MIT",
@@ -21,21 +20,18 @@
       "v": "3.9.4@6fdee629140baa0d7060ddf86662457d11f50d35^",
       "r": [],
       "p": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "3.9.3@7599a7a7ef1bf2763f5e65a09bc63118b988a87e",
       "r": [],
       "p": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "3.9.2@154d6c6ffb1f19fce684381cdba5e3f3a729053e",
       "r": [],
       "p": [],
-      "m": "~",
       "x": []
     },
     {
@@ -43,7 +39,6 @@
       "r": [],
       "d": "Winim - Nim's Windows API and COM Library",
       "p": [],
-      "m": "~",
       "x": []
     },
     {
@@ -51,7 +46,6 @@
       "r": [],
       "d": "Winim - Nim's Windows API and COM Library",
       "p": [],
-      "m": "~",
       "x": []
     },
     {
@@ -59,7 +53,6 @@
       "r": [],
       "d": "Winim - Nim's Windows API and COM Library",
       "p": [],
-      "m": "~",
       "x": []
     },
     {
@@ -67,7 +60,6 @@
       "r": [],
       "d": "Winim - Nim's Windows API and COM Library",
       "p": [],
-      "m": "~",
       "x": []
     },
     {
@@ -75,7 +67,6 @@
       "r": [],
       "d": "Winim - Nim's Windows API and COM Library",
       "p": [],
-      "m": "~",
       "x": []
     },
     {
@@ -83,7 +74,6 @@
       "r": [],
       "d": "Winim - Nim's Windows API and COM Library",
       "p": [],
-      "m": "~",
       "x": []
     },
     {
@@ -91,7 +81,6 @@
       "r": [],
       "d": "Winim - Nim's Windows API and COM Library",
       "p": [],
-      "m": "~",
       "x": []
     },
     {
@@ -99,27 +88,18 @@
       "r": [],
       "d": "Winim - Nim's Windows API and COM Library",
       "p": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "3.6.0@bffaf742b4603d1f675b4558d250d5bfeb8b6630",
       "r": [],
       "d": "Winim - Nim's Windows API and COM Library",
-      "m": "~",
       "x": [],
       "p": []
-    },
-    {
-      "v": "#head@6fdee629140baa0d7060ddf86662457d11f50d35",
-      "r": [],
-      "p": [],
-      "m": "~",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:57Z",
+  "generatedAt": "2026-05-26T13:20:28Z",
   "allDeps": {
     "packages": [],
     "urls": [],

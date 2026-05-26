@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "keystone",
   "fqn": "Keystone.nim.6A.github.com",
-  "head": "be01fa7e4a90e5a340d2e999dd2d257a6f300e7e",
   "author": "Grégoire Geis",
   "description": "Bindings to the Keystone Assembler.",
   "license": "MIT",
@@ -11,25 +10,16 @@
   "releases": [
     {
       "v": "0.1.0@f58f5ab3f25a20dfd12d269dd1d9e24d14cb9e8c",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.1@2bb8bfbc5e115459891449c031716fe2016e6744",
       "r": [],
-      "m": "1.4.0",
-      "s": ""
-    },
-    {
-      "v": "#head@be01fa7e4a90e5a340d2e999dd2d257a6f300e7e",
-      "r": [],
-      "m": "1.2.8",
-      "s": ""
+      "m": "1.4.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:35Z",
+  "generatedAt": "2026-05-26T13:15:18Z",
   "allDeps": {
     "packages": [],
     "urls": [],

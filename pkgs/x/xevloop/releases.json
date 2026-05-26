@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "xevloop",
   "fqn": "xevloop.PMunch.github.com",
-  "head": "2733c0a6761cdc8f992fceb684966a0cb5b4dd01",
   "author": "Peter Munch-Ellingsen",
   "description": "Library to more easily create X11 event loops",
   "license": "MIT",
@@ -13,21 +12,11 @@
       "v": "0.1.0@2733c0a6761cdc8f992fceb684966a0cb5b4dd01^",
       "r": [
         "x11"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@2733c0a6761cdc8f992fceb684966a0cb5b4dd01",
-      "r": [
-        "x11"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:57:07Z",
+  "generatedAt": "2026-05-26T13:20:34Z",
   "allDeps": {
     "packages": [
       "x11"

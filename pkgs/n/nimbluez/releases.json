@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimbluez",
   "fqn": "NimBluez.Electric-Blue.github.com",
-  "head": "8368aaaf3450f0f57a7505f8a676d33b9e6f3399",
   "author": "Maxim V. Abramov",
   "description": "Nim modules for access to system Bluetooth resources.",
   "license": "BSD",
@@ -14,7 +13,6 @@
     {
       "v": "0.1.2@32d03ff5f4041c3fa775915b99ccf6a4919836af",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
@@ -28,16 +26,10 @@
       "r": [],
       "m": "0.12.0",
       "x": []
-    },
-    {
-      "v": "#head@8368aaaf3450f0f57a7505f8a676d33b9e6f3399",
-      "r": [],
-      "m": "~",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:32Z",
+  "generatedAt": "2026-05-26T13:16:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

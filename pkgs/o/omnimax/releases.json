@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "omnimax",
   "fqn": "omnimax.vitreo12.github.com",
-  "head": "7db9b36f3ef855280812fa273836534682c0994c",
   "author": "Francesco Cameli",
   "description": "Max wrapper for omni.",
   "license": "MIT",
@@ -29,7 +28,6 @@
         "omni 0.4.2"
       ],
       "h": true,
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -41,7 +39,6 @@
         "omni 0.4.1"
       ],
       "h": true,
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -53,7 +50,6 @@
         "omni 0.4.0"
       ],
       "h": true,
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -117,22 +113,10 @@
       "x": [],
       "i": [],
       "p": []
-    },
-    {
-      "v": "#head@7db9b36f3ef855280812fa273836534682c0994c",
-      "r": [
-        "cligen >= 1.5.0",
-        "omni 0.4.2"
-      ],
-      "h": true,
-      "m": "~",
-      "x": [],
-      "i": [],
-      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:01Z",
+  "generatedAt": "2026-05-26T13:17:44Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

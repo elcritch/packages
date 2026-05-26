@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "c2nim",
   "fqn": "c2nim.nim-lang.github.com",
-  "head": "f063b884131d062f5da367fa4e112129aa87e5e7",
   "author": "Andreas Rumpf",
   "description": "c2nim is a tool to translate Ansi C code to Nim.",
   "license": "MIT",
@@ -20,7 +19,6 @@
     {
       "v": "0.9.19@5753fa7658ed50432ea6c2df84f0a45e36bcb2ea",
       "r": [],
-      "m": "~",
       "x": [],
       "z": [],
       "p": []
@@ -28,7 +26,6 @@
     {
       "v": "0.9.18@a20ccc7bc50d51e82f4e7dc25aa9506305051f9c",
       "r": [],
-      "m": "~",
       "x": [],
       "z": [],
       "p": []
@@ -36,7 +33,6 @@
     {
       "v": "0.9.17@ac28439f4bf0fff00c6a9503ab3822706b91f519",
       "r": [],
-      "m": "~",
       "x": [],
       "z": [],
       "p": []
@@ -44,7 +40,6 @@
     {
       "v": "0.9.16@b6d7da39d5d93e2a9fc986946868a7162735fe32",
       "r": [],
-      "m": "~",
       "x": [],
       "z": [],
       "p": []
@@ -56,18 +51,10 @@
       "x": [],
       "z": [],
       "p": []
-    },
-    {
-      "v": "#head@f063b884131d062f5da367fa4e112129aa87e5e7",
-      "r": [],
-      "m": "~",
-      "x": [],
-      "z": [],
-      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:55Z",
+  "generatedAt": "2026-05-26T13:12:45Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

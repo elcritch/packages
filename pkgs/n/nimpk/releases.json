@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimpk",
   "fqn": "nimpk.khchen.github.com",
-  "head": "8bf87fbc8204b90c5a078ea31a7a0bd745266cdd",
   "author": "Ward",
   "description": "NimPK - PocketLang Binding for Nim Language",
   "license": "MIT",
@@ -21,23 +20,12 @@
         "zippy >= 0.10.5",
         "bigints >= 1.0.0"
       ],
-      "m": "~",
-      "x": [],
-      "i": []
-    },
-    {
-      "v": "#head@8bf87fbc8204b90c5a078ea31a7a0bd745266cdd",
-      "r": [
-        "zippy >= 0.10.5",
-        "bigints >= 1.0.0"
-      ],
-      "m": "~",
       "x": [],
       "i": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:08Z",
+  "generatedAt": "2026-05-26T13:17:07Z",
   "allDeps": {
     "packages": [
       "bigints",

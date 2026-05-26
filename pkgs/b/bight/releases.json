@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "bight",
   "fqn": "bight.auxym.github.com",
-  "head": "35ab85cd015f40da5091d2332ed0acc9440bb0dd",
   "author": "Francis Thérien",
   "description": "Handle byte orders without a fiasco.",
   "license": "MIT",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "0.1.0@3460ad45d9f174ab81778983f746f318b1ef8d5c",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@35ab85cd015f40da5091d2332ed0acc9440bb0dd",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:29Z",
+  "generatedAt": "2026-05-26T13:12:28Z",
   "allDeps": {
     "packages": [],
     "urls": [],

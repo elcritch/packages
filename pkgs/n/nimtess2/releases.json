@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimtess2",
   "fqn": "nimtess2.genotrance.github.com",
-  "head": "f536ab14e6df9c65c104dc4f0c8845e79119a840",
   "author": "genotrance",
   "description": "Nim wrapper for libtess2",
   "license": "MIT",
@@ -25,18 +24,10 @@
       ],
       "h": true,
       "x": []
-    },
-    {
-      "v": "#head@f536ab14e6df9c65c104dc4f0c8845e79119a840",
-      "r": [
-        "nimgen >= 0.4.0"
-      ],
-      "h": true,
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:20Z",
+  "generatedAt": "2026-05-26T13:17:15Z",
   "allDeps": {
     "packages": [
       "c2nim",

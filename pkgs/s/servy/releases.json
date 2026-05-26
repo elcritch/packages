@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "servy",
   "fqn": "nim-servy.xmonader.github.com",
-  "head": "f097cdb5a0263b5592e36f65928ee53f00097613",
   "author": "xmonader",
   "description": "a down to earth webserver in nim",
   "license": "MIT",
@@ -15,29 +14,13 @@
     {
       "v": "0.1.0@730323eb002034ccc9a9f3350cdf9a0800c9e656",
       "r": [],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@f097cdb5a0263b5592e36f65928ee53f00097613",
-      "r": [
-        "terminaltables",
-        "ws"
-      ],
-      "d": "a down to earth webframework in nim",
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:41Z",
+  "generatedAt": "2026-05-26T13:18:53Z",
   "allDeps": {
-    "packages": [
-      "terminaltables",
-      "ws"
-    ],
+    "packages": [],
     "urls": [],
     "unresolved": []
   }

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimwc",
   "fqn": "nim_websitecreator.ThomasTJdev.github.com",
-  "head": "fe5d5d55648d571206be5b5c00fab6f6a9266b87",
   "author": "Thomas T. Jarløv (https://github.com/ThomasTJdev) & Juan Carlos (https://github.com/juancarlospaco)",
   "description": "Generate and host a website. Run the package and access your new webpage.",
   "license": "MIT",
@@ -38,7 +37,6 @@
         "packedjson >= 0.1.0"
       ],
       "h": true,
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -59,7 +57,6 @@
       ],
       "h": true,
       "l": "PPL",
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -78,7 +75,6 @@
       ],
       "h": true,
       "l": "PPL",
-      "m": "~",
       "x": [],
       "i": [],
       "p": []
@@ -738,30 +734,10 @@
       "x": [],
       "i": [],
       "p": []
-    },
-    {
-      "v": "#head@fe5d5d55648d571206be5b5c00fab6f6a9266b87",
-      "r": [
-        "db_connector >= 0.1.0",
-        "smtp >= 0.1.0",
-        "gh:ThomasTJdev/otp.nim 0.3.3",
-        "jesterfork >= 1.0.0",
-        "bcrypt >= 0.2.1",
-        "datetime2human >= 0.2.5",
-        "firejail >= 0.5.0",
-        "recaptcha >= 1.0.3",
-        "webp >= 0.2.5",
-        "packedjson >= 0.1.0"
-      ],
-      "h": true,
-      "m": "~",
-      "x": [],
-      "i": [],
-      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:27Z",
+  "generatedAt": "2026-05-26T13:17:21Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

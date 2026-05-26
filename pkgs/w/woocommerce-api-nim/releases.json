@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "woocommerce-api-nim",
   "fqn": "woocommerce-api-nim.mrhdias.github.com",
-  "head": "e5fb8821e73a0b0f372b6f9a71da9bece69516e7",
   "author": "Henrique Dias",
   "description": "A Nim wrapper for the WooCommerce REST API",
   "license": "MIT",
@@ -15,18 +14,11 @@
     {
       "v": "0.0.1@3de406ea5f871a540bf58b82f2cc0b36551ed9b4",
       "r": [],
-      "m": "~",
-      "x": []
-    },
-    {
-      "v": "#head@e5fb8821e73a0b0f372b6f9a71da9bece69516e7",
-      "r": [],
-      "m": "~",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:57:00Z",
+  "generatedAt": "2026-05-26T13:20:30Z",
   "allDeps": {
     "packages": [],
     "urls": [],

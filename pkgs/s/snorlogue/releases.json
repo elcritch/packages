@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "snorlogue",
   "fqn": "Snorlogue.PhilippMDoerner.github.com",
-  "head": "08e4cd72fd2564914a575f3e6316dde6c41f4d7a",
   "author": "Philipp Doerner",
   "description": "A Prologue extension. Provides an admin environment for your prologue server making use of norm.",
   "license": "MIT",
@@ -21,8 +20,6 @@
         "lowdb >= 0.2.0",
         "htest >= 0.1.0"
       ],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
@@ -34,8 +31,6 @@
         "lowdb >= 0.2.0",
         "htest >= 0.1.0"
       ],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
@@ -46,8 +41,6 @@
         "nimja >= 0.8.4",
         "ndb >= 0.19.9"
       ],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
@@ -58,8 +51,6 @@
         "nimja >= 0.8.4",
         "ndb >= 0.19.9"
       ],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
@@ -70,32 +61,15 @@
         "nimja >= 0.8.4",
         "ndb >= 0.19.9"
       ],
-      "m": "~",
-      "s": "",
-      "x": []
-    },
-    {
-      "v": "#head@08e4cd72fd2564914a575f3e6316dde6c41f4d7a",
-      "r": [
-        "norm >= 2.5.0",
-        "prologue >= 0.6.0",
-        "nimja >= 0.8.4",
-        "lowdb >= 0.2.0",
-        "htest >= 0.1.0"
-      ],
-      "m": "~",
-      "s": "",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:02Z",
+  "generatedAt": "2026-05-26T13:19:08Z",
   "allDeps": {
     "packages": [
       "asynctools",
-      "bearssl",
       "chronicles",
-      "chronos",
       "cligen",
       "cookiejar",
       "db_connector",
@@ -105,12 +79,10 @@
       "graphemes",
       "htest > 1.0.2",
       "httpbeast",
-      "httputils",
       "httpx",
       "ioselectors",
       "json_serialization",
       "jsony",
-      "kairos",
       "karax",
       "logue",
       "lowdb",
@@ -137,10 +109,8 @@
       "unicodedb",
       "unicodeplus",
       "unittest2",
-      "websock",
       "wepoll",
-      "ws",
-      "zlib"
+      "ws"
     ],
     "urls": [
       "error://cookies"

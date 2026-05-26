@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimletter",
   "fqn": "nimletter.ThomasTJdev.github.com",
-  "head": "2c57d1d4e561e34c2c2fce8823c40e82f0d0a661",
   "author": "ThomasTJdev",
   "description": "Newsletter",
   "license": "AGPL v3",
@@ -27,8 +26,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -46,8 +43,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -65,8 +60,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -84,8 +77,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -103,8 +94,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -122,8 +111,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -141,8 +128,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -160,8 +145,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -178,8 +161,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -196,8 +177,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -214,8 +193,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -232,8 +209,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -250,8 +225,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -268,8 +241,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -286,8 +257,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -304,8 +273,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -322,8 +289,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -340,8 +305,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -358,8 +321,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -376,8 +337,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -394,8 +353,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -412,8 +369,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -430,8 +385,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -448,8 +401,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -466,8 +417,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -484,8 +433,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -502,8 +449,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -520,8 +465,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -538,8 +481,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -556,8 +497,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -574,8 +513,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -592,8 +529,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -610,8 +545,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -628,8 +561,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -646,8 +577,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -664,8 +593,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -682,8 +609,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -700,8 +625,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -718,8 +641,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -736,8 +657,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -754,8 +673,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -772,8 +689,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -790,8 +705,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -808,8 +721,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -826,8 +737,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -844,8 +753,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -862,8 +769,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -880,8 +785,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -898,8 +801,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -916,8 +817,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -934,8 +833,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -952,8 +849,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -970,8 +865,6 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -988,32 +881,11 @@
         "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
         "yubikey_otp >= 0.1.2"
       ],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@2c57d1d4e561e34c2c2fce8823c40e82f0d0a661",
-      "r": [
-        "gh:ThomasTJdev/mummy 0.4.1",
-        "mummy_utils >= 0.1.0",
-        "gh:ThomasTJdev/waterpark 0.1.6",
-        "gh:ThomasTJdev/nim-schedules 0.2.0",
-        "gh:ThomasTJdev/nimMime >= 0.0.3",
-        "gh:ThomasTJdev/bcryptnim 0.2.1",
-        "gh:ThomasTJdev/nim-mmgeoip 0.1.0",
-        "awsSigV4 >= 0.0.3",
-        "sqlbuilder >= 1.1.1",
-        "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
-        "yubikey_otp >= 0.1.2"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:02Z",
+  "generatedAt": "2026-05-26T13:17:04Z",
   "allDeps": {
     "packages": [
       "awsSigV4 > 0.7.2",

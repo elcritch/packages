@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "seance",
   "fqn": "seance.esafak.github.com",
-  "head": "2977e5bb4a4dcf8a36012c60c4b85dffff799bb4",
   "author": "Emre Şafak",
   "description": "A CLI tool and library for interacting with various LLMs",
   "license": "MIT",
@@ -21,8 +20,6 @@
         "cligen >= 1.8.6",
         "yaml"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -31,8 +28,6 @@
       "r": [
         "cligen >= 1.8.6"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -41,8 +36,6 @@
       "r": [
         "cligen >= 1.8.6"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -52,8 +45,6 @@
         "cligen >= 1.8.6",
         "jsony >= 1.1.5"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -63,8 +54,6 @@
         "cligen >= 1.8.6",
         "jsony >= 1.1.5"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -74,8 +63,6 @@
         "cligen >= 1.8.6",
         "jsony >= 1.1.5"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -85,8 +72,6 @@
         "cligen >= 1.8.6",
         "jsony >= 1.1.5"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -96,8 +81,6 @@
         "cligen >= 1.8.6",
         "jsony >= 1.1.5"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -107,8 +90,6 @@
         "cligen >= 1.8.6",
         "jsony >= 1.1.5"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -118,8 +99,6 @@
         "cligen >= 1.8.6",
         "jsony >= 1.1.5"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -130,8 +109,6 @@
         "jsony >= 1.1.5",
         "parsetoml >= 0.7.1"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -142,25 +119,12 @@
         "jsony >= 1.1.5",
         "parsetoml >= 0.7.1"
       ],
-      "m": "~",
-      "s": "",
-      "k": [],
-      "p": []
-    },
-    {
-      "v": "#head@2977e5bb4a4dcf8a36012c60c4b85dffff799bb4",
-      "r": [
-        "cligen >= 1.8.6",
-        "yaml"
-      ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:33Z",
+  "generatedAt": "2026-05-26T13:18:48Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

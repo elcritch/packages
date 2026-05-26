@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "ballena_itcher",
   "fqn": "ballena-itcher.juancarlospaco.github.com",
-  "head": "c436047fcc865860ba8b34128131c72eb7692dfa",
   "author": "Juan Carlos",
   "description": "Flash ISO images to SD cards & USB drives, safely and easily.",
   "license": "MIT",
@@ -15,20 +14,11 @@
     {
       "v": "0.0.1@1f613afedc1ae6f646ad1919e999660331c197e1",
       "r": [],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@c436047fcc865860ba8b34128131c72eb7692dfa",
-      "r": [],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:15Z",
+  "generatedAt": "2026-05-26T13:12:15Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

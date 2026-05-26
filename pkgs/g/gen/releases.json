@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "gen",
   "fqn": "gen.Adeohluwa.github.com",
-  "head": "7c25d0fca7d34fde8ddf948972b4b029214dd40d",
   "author": "Adeoluwa Adejumo",
   "description": "Ultimate Scaffolding Tool for building GUI/Web/CLI apps in Nim Lang.",
   "license": "MIT",
@@ -21,8 +20,6 @@
         "fab",
         "gara"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -34,8 +31,6 @@
         "fab",
         "gara"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -47,8 +42,6 @@
         "fab",
         "gara"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -59,8 +52,6 @@
         "docopt",
         "fab"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -72,8 +63,6 @@
         "fab"
       ],
       "d": "A boilerplate generator for Nim Lang's Jester web framework",
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -85,8 +74,6 @@
         "fab"
       ],
       "d": "A boilerplate generator for Nim Lang's Jester web framework",
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -98,27 +85,12 @@
         "fab"
       ],
       "d": "A boilerplate generator for Nim Lang's Jester web framework",
-      "m": "~",
-      "s": "",
-      "b": "",
-      "p": []
-    },
-    {
-      "v": "#head@7c25d0fca7d34fde8ddf948972b4b029214dd40d",
-      "r": [
-        "progress",
-        "docopt",
-        "fab",
-        "gara"
-      ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:07Z",
+  "generatedAt": "2026-05-26T13:14:18Z",
   "allDeps": {
     "packages": [
       "docopt",

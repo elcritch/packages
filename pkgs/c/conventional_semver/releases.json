@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "conventional_semver",
   "fqn": "conventional_semver.SimplyZ.gitlab.com",
-  "head": "fa6385a7e8f7f9fb3d78c5b51546fe775c5a1e3f",
   "author": "Zrean Tofiq",
   "description": "Calculate the next semver version given the git log and previous version",
   "license": "MIT",
@@ -24,8 +23,6 @@
       ],
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/conventional_semver.SimplyZ.gitlab.com-fa6385a7-conventional_semver.nimble\ncannot resolve package name: simpleparseopt",
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
@@ -35,29 +32,13 @@
       "r": [
         "semver >= 1.1.1"
       ],
-      "m": "~",
-      "s": "",
-      "b": "",
-      "k": [],
-      "p": []
-    },
-    {
-      "v": "#head@fa6385a7e8f7f9fb3d78c5b51546fe775c5a1e3f",
-      "r": [
-        "semver >= 1.1.1",
-        "error://simpleparseopt >= 1.1.1"
-      ],
-      "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/conventional_semver.SimplyZ.gitlab.com-fa6385a7-conventional_semver.nimble\ncannot resolve package name: simpleparseopt",
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:31Z",
+  "generatedAt": "2026-05-26T13:13:14Z",
   "allDeps": {
     "packages": [
       "semver"

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "neverwinter",
   "fqn": "neverwinter.nim.niv.github.com",
-  "head": "db755db7fdfa3e4245e30b2aebfbae6e75b6ea77",
   "author": "Bernhard Stöckner <n@e-ix.net>",
   "description": "Neverwinter Nights 1: Enhanced Edition data accessor library and utilities",
   "license": "MIT",
@@ -20,8 +19,6 @@
         "docopt >= 0.7.1",
         "db_connector >= 0.1.0"
       ],
-      "s": "",
-      "m": "~",
       "b": "",
       "i": []
     },
@@ -32,8 +29,6 @@
         "docopt >= 0.7.1",
         "db_connector >= 0.1.0"
       ],
-      "s": "",
-      "m": "~",
       "b": "",
       "i": []
     },
@@ -44,8 +39,6 @@
         "docopt #head",
         "db_connector >= 0.1.0"
       ],
-      "s": "",
-      "m": "~",
       "b": "",
       "i": []
     },
@@ -56,8 +49,6 @@
         "docopt #head",
         "db_connector >= 0.1.0"
       ],
-      "s": "",
-      "m": "~",
       "b": "",
       "i": []
     },
@@ -68,8 +59,6 @@
         "docopt #head",
         "db_connector >= 0.1.0"
       ],
-      "s": "",
-      "m": "~",
       "b": "",
       "i": []
     },
@@ -81,7 +70,6 @@
         "db_connector >= 0.1.0"
       ],
       "m": "1.6.4",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -93,7 +81,6 @@
         "db_connector >= 0.1.0"
       ],
       "m": "1.6.4",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -105,7 +92,6 @@
         "db_connector >= 0.1.0"
       ],
       "m": "1.6.4",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -117,7 +103,6 @@
         "db_connector >= 0.1.0"
       ],
       "m": "1.6.4",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -129,7 +114,6 @@
         "db_connector >= 0.1.0"
       ],
       "m": "1.6.4",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -141,7 +125,6 @@
         "db_connector >= 0.1.0"
       ],
       "m": "1.6.4",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -151,7 +134,6 @@
         "docopt >= 0.6.8"
       ],
       "m": "1.6.4",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -161,7 +143,6 @@
         "docopt >= 0.6.8"
       ],
       "m": "1.6.4",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -171,7 +152,6 @@
         "docopt >= 0.6.8"
       ],
       "m": "1.6.4",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -181,7 +161,6 @@
         "docopt >= 0.6.8"
       ],
       "m": "1.6.4",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -191,7 +170,6 @@
         "docopt >= 0.6.8"
       ],
       "m": "1.6.4",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -201,7 +179,6 @@
         "docopt >= 0.6.8"
       ],
       "m": "1.6.4",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -211,7 +188,6 @@
         "docopt >= 0.6.8"
       ],
       "m": "1.6.4",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -221,7 +197,6 @@
         "docopt >= 0.6.8"
       ],
       "m": "1.6.4",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -231,7 +206,6 @@
         "docopt >= 0.6.8"
       ],
       "m": "1.6.4",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -241,7 +215,6 @@
         "docopt >= 0.6.8"
       ],
       "m": "1.6.0",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -251,7 +224,6 @@
         "docopt >= 0.6.8"
       ],
       "m": "1.6.0",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -261,7 +233,6 @@
         "docopt >= 0.6.8"
       ],
       "m": "1.6.0",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -271,7 +242,6 @@
         "docopt >= 0.6.8"
       ],
       "m": "1.6.0",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -281,7 +251,6 @@
         "docopt >= 0.6.8"
       ],
       "m": "1.6.0",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -291,7 +260,6 @@
         "docopt >= 0.6.8"
       ],
       "m": "1.4.8",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -301,7 +269,6 @@
         "docopt >= 0.6.8"
       ],
       "m": "1.4.8",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -311,7 +278,6 @@
         "docopt >= 0.6.8"
       ],
       "m": "1.4.8",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -319,7 +285,6 @@
       "v": "1.4.2@c6fc51d74f522073c99616cae4ca3e8f3137499d",
       "r": [],
       "m": "1.0.8",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -327,7 +292,6 @@
       "v": "1.4.1@47c48c9d5a407f45530d3964a58d23b516987706",
       "r": [],
       "m": "1.0.8",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -335,7 +299,6 @@
       "v": "1.3.2@ec75c4f40aef77b75f5cc7b300350e279432a47c",
       "r": [],
       "m": "1.0.8",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -344,7 +307,6 @@
       "r": [],
       "a": "Bernhard Stöckner <niv@nwnx.io>",
       "m": "1.0.8",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -353,7 +315,6 @@
       "r": [],
       "a": "Bernhard Stöckner <niv@nwnx.io>",
       "m": "1.0.8",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -362,7 +323,6 @@
       "r": [],
       "a": "Bernhard Stöckner <niv@nwnx.io>",
       "m": "1.0.2",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -371,7 +331,6 @@
       "r": [],
       "a": "Bernhard Stöckner <niv@nwnx.io>",
       "m": "1.0.2",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -380,7 +339,6 @@
       "r": [],
       "a": "Bernhard Stöckner <niv@nwnx.io>",
       "m": "1.0.2",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -389,7 +347,6 @@
       "r": [],
       "a": "Bernhard Stöckner <niv@nwnx.io>",
       "m": "0.20.2",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -398,7 +355,6 @@
       "r": [],
       "a": "Bernhard Stöckner <niv@nwnx.io>",
       "m": "0.20.0",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -407,7 +363,6 @@
       "r": [],
       "a": "Bernhard Stöckner <niv@nwnx.io>",
       "m": "0.20.0",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -416,7 +371,6 @@
       "r": [],
       "a": "Bernhard Stöckner <niv@nwnx.io>",
       "m": "0.19.4",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -425,7 +379,6 @@
       "r": [],
       "a": "Bernhard Stöckner <niv@nwnx.io>",
       "m": "0.19.4",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -435,7 +388,6 @@
       "a": "Bernhard Stöckner <niv@nwnx.io>",
       "d": "Neverwinter Nights 1 data accessor library and utilities",
       "m": "0.18.0",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -445,7 +397,6 @@
       "a": "Bernhard Stöckner <niv@nwnx.io>",
       "d": "Neverwinter Nights 1 data accessor library and utilities",
       "m": "0.18.0",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -454,9 +405,8 @@
       "r": [],
       "a": "Bernhard Stöckner <niv@nwnx.io>",
       "d": "Neverwinter Nights 1 data accessor library and utilities",
+      "b": "bin",
       "m": "0.18.0",
-      "s": "",
-      "b": "",
       "i": []
     },
     {
@@ -465,8 +415,6 @@
       "a": "niv <niv@nwnx.io>",
       "d": "nwn1 development tools",
       "l": "mindflayer 1.0",
-      "m": "~",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -476,8 +424,6 @@
       "a": "niv <niv@nwnx.io>",
       "d": "nwn1 development tools",
       "l": "mindflayer 1.0",
-      "m": "~",
-      "s": "",
       "b": "",
       "i": []
     },
@@ -487,26 +433,12 @@
       "a": "niv <niv@nwnx.io>",
       "d": "nwn1 development tools",
       "l": "mindflayer 1.0",
-      "m": "~",
-      "s": "",
-      "b": "",
-      "i": []
-    },
-    {
-      "v": "#head@db755db7fdfa3e4245e30b2aebfbae6e75b6ea77",
-      "r": [
-        "checksums >= 0.2.1",
-        "docopt >= 0.7.1",
-        "db_connector >= 0.1.0"
-      ],
-      "s": "",
-      "m": "~",
       "b": "",
       "i": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:07Z",
+  "generatedAt": "2026-05-26T13:16:25Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

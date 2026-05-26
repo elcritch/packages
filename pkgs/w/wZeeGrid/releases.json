@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "wZeeGrid",
   "fqn": "wZeeGrid.bunkford.github.com",
-  "head": "f3bd27a5ba8c446fd692f86f5092b372ed09fac8",
   "author": "Duncan Clarke",
   "description": "wZeeGird Plugin for wNim.",
   "license": "MIT",
@@ -17,7 +16,6 @@
       "r": [
         "wNim >= 0.9.0"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -35,18 +33,10 @@
       ],
       "m": "1.0.0",
       "x": []
-    },
-    {
-      "v": "#head@f3bd27a5ba8c446fd692f86f5092b372ed09fac8",
-      "r": [
-        "wNim >= 0.11.4"
-      ],
-      "m": "1.0.0",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:36Z",
+  "generatedAt": "2026-05-26T13:20:13Z",
   "allDeps": {
     "packages": [
       "memlib",

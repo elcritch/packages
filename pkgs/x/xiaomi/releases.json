@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "xiaomi",
   "fqn": "nim_xiaomi.ThomasTJdev.github.com",
-  "head": "1e3b701ccbc830d8a27573685fad888450e675bd",
   "author": "Thomas T. Jarløv (https://github.com/ThomasTJdev",
   "description": "Library for working with Xiaomi devices",
   "license": "MIT",
@@ -14,18 +13,14 @@
       "r": [
         "multicast >= 0.1.1",
         "nimcrypto >= 0.3.2"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.3@aef0e9f63041dacc2784012401d41b2939f78060",
       "r": [
         "multicast >= 0.1.1",
         "nimcrypto >= 0.3.2"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.2@9a970f3fecac9da184b2dacaf0e64a51ec418e25",
@@ -33,8 +28,7 @@
         "multicast >= 0.1.1",
         "nimcrypto >= 0.3.2"
       ],
-      "m": "0.19.9",
-      "s": ""
+      "m": "0.19.9"
     },
     {
       "v": "0.1.1@d6d389f8b54f070f67b36dd0dd45c85390904d54",
@@ -42,21 +36,11 @@
         "multicast >= 0.1.1",
         "nimcrypto >= 0.3.2"
       ],
-      "m": "0.19.9",
-      "s": ""
-    },
-    {
-      "v": "#head@1e3b701ccbc830d8a27573685fad888450e675bd",
-      "r": [
-        "multicast >= 0.1.1",
-        "nimcrypto >= 0.3.2"
-      ],
-      "m": "~",
-      "s": ""
+      "m": "0.19.9"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:57:08Z",
+  "generatedAt": "2026-05-26T13:20:35Z",
   "allDeps": {
     "packages": [
       "multicast",

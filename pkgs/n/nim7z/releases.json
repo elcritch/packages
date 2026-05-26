@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nim7z",
   "fqn": "nim7z.genotrance.github.com",
-  "head": "cc6c2b0cc31faa9662d62468d439f7ddb2fd0655",
   "author": "genotrance",
   "description": "7z extraction for Nim",
   "license": "MIT",
@@ -49,18 +48,10 @@
       ],
       "h": true,
       "x": []
-    },
-    {
-      "v": "#head@cc6c2b0cc31faa9662d62468d439f7ddb2fd0655",
-      "r": [
-        "nimgen >= 0.4.0"
-      ],
-      "h": true,
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:14Z",
+  "generatedAt": "2026-05-26T13:16:29Z",
   "allDeps": {
     "packages": [
       "c2nim",

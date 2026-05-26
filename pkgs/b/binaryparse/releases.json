@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "binaryparse",
   "fqn": "binaryparse.PMunch.github.com",
-  "head": "5e992e41a55555623db7f5fd0d2c94b4ebb96449",
   "author": "Peter Munch-Ellingsen",
   "description": "Binary parser (and writer) in pure Nim. Generates efficient parsing procedures that handle many commonly seen patterns seen in binary files and does sub-byte field reading.",
   "license": "MIT",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "0.2.4@bef3b989359677a65bb1e31e8e779d6580dcea6c",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@5e992e41a55555623db7f5fd0d2c94b4ebb96449",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:32Z",
+  "generatedAt": "2026-05-26T13:12:29Z",
   "allDeps": {
     "packages": [],
     "urls": [],

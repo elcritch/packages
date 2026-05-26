@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "uap",
   "fqn": "nim-uap.artemklevtsov.gitlab.com",
-  "head": "7c4bfb5dabc9b44fb7755ca6116067f7ac4282d7",
   "author": "Artem Klevtsov",
   "description": "Nim implementation of ua-parser",
   "license": "Apache-2.0",
@@ -25,8 +24,6 @@
         "cligen >= 1.5.21",
         "yaml >= 0.16.0"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -37,8 +34,6 @@
         "cligen >= 1.5.21",
         "yaml >= 0.16.0"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -49,8 +44,6 @@
         "cligen >= 1.5.21",
         "yaml >= 0.16.0"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -61,8 +54,6 @@
         "cligen >= 1.5.21",
         "yaml >= 0.16.0"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -73,8 +64,6 @@
         "cligen >= 1.5.21",
         "yaml >= 0.16.0"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -85,27 +74,13 @@
         "cligen >= 1.5.21",
         "yaml >= 0.16.0"
       ],
-      "m": "~",
-      "s": "",
-      "x": [],
-      "k": [],
-      "p": []
-    },
-    {
-      "v": "#head@7c4bfb5dabc9b44fb7755ca6116067f7ac4282d7",
-      "r": [
-        "cligen >= 1.5.21",
-        "yaml >= 0.16.0"
-      ],
-      "m": "~",
-      "s": "",
       "x": [],
       "k": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:11Z",
+  "generatedAt": "2026-05-26T13:19:56Z",
   "allDeps": {
     "packages": [
       "cligen",

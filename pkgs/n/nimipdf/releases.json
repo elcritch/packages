@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimipdf",
   "fqn": "nimipdf.neroist.github.com",
-  "head": "2d42e80a45020276ff38879c458615684bd3cc41",
   "author": "Jasmine",
   "description": "PDF backend for nimib",
   "license": "MIT",
@@ -14,31 +13,18 @@
       "r": [
         "nimwkhtmltox >= 0.1.0",
         "nimib"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.2.0@a4814d8cfb0031f0be2e7c3ade18c57138bc9fb8",
       "r": [
         "nimwkhtmltox >= 0.1.0",
         "nimib"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@2d42e80a45020276ff38879c458615684bd3cc41",
-      "r": [
-        "nimwkhtmltox >= 0.1.0",
-        "nimib"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:53Z",
+  "generatedAt": "2026-05-26T13:16:57Z",
   "allDeps": {
     "packages": [
       "faststreams",

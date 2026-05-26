@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimgame2",
   "fqn": "nimgame2.Vladar4.github.com",
-  "head": "afd289aefd84aa4f89435f5fa0306da62f2023cc",
   "author": "Vladar",
   "description": "A simple 2D game engine for Nim language.",
   "license": "MIT",
@@ -16,7 +15,6 @@
       "r": [
         "sdl2_nim >= 2.0.14.2"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -74,18 +72,10 @@
       ],
       "m": "0.16.0",
       "x": []
-    },
-    {
-      "v": "#head@afd289aefd84aa4f89435f5fa0306da62f2023cc",
-      "r": [
-        "sdl2_nim >= 2.0.14.2"
-      ],
-      "m": "~",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:47Z",
+  "generatedAt": "2026-05-26T13:16:52Z",
   "allDeps": {
     "packages": [
       "sdl2_nim",

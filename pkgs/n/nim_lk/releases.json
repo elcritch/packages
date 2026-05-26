@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nim_lk",
   "fqn": "nim_lk.~ehmry.git.sr.ht",
-  "head": "6c0a37af9e2b3a12a8455c76286b5245d3428ec0",
   "author": "Emery Hemingway",
   "description": "Tool for generating Nim lockfiles",
   "license": "BSD-3-Clause",
@@ -15,22 +14,16 @@
     {
       "v": "20250309@cfb1140b7a0aa9dd67d7671d1b36afee26088fd4",
       "r": [],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
       "v": "20241025@c2d601095d1961d8f59f1fffe5b56788b255c3de",
       "r": [],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
       "v": "20240601@4b6dff87b42bc9d7dda3facd96083abd05fedc6d",
       "r": [],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -38,8 +31,6 @@
       "r": [
         "nimble #f8bd7b5fa6ea7a583b411b5959b06e6b5eb23667"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -48,8 +39,6 @@
         "preserves >= 20240114",
         "atlas"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -58,8 +47,6 @@
         "preserves >= 20240114",
         "atlas"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -67,8 +54,6 @@
       "r": [
         "preserves >= 20231021"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -76,27 +61,16 @@
       "r": [
         "preserves >= 20231021"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
       "v": "20231009@78cd653ceec31878a428853a67841728c5b1bb8c",
       "r": [],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@6c0a37af9e2b3a12a8455c76286b5245d3428ec0",
-      "r": [],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:25Z",
+  "generatedAt": "2026-05-26T13:16:37Z",
   "allDeps": {
     "packages": [
       "atlas > 20231031 & <= 20240510",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "finals",
   "fqn": "nim-finals.quelklef.github.com",
-  "head": "769fdd4035b781039d19ea930e23e16cc80c7ced",
   "author": "Eli Maynard",
   "description": "A macro to guarantee an object's field is final.",
   "license": "MIT",
@@ -44,16 +43,10 @@
       "r": [],
       "d": "Transparently declare single-set attributes.",
       "x": []
-    },
-    {
-      "v": "#head@769fdd4035b781039d19ea930e23e16cc80c7ced",
-      "r": [],
-      "d": "Transparently declare single-set attributes.",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:44Z",
+  "generatedAt": "2026-05-26T13:14:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

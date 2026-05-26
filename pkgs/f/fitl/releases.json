@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "fitl",
   "fqn": "fitl.c-blake.github.com",
-  "head": "7d2c21ea35f2690c7ecfb40e7582d4ea1a0fa3a8",
   "author": "Charles Blake",
   "description": "Self-contained fit of linear models with regression diagnostics",
   "license": "MIT/ISC",
@@ -27,7 +26,6 @@
         "cligen >= 1.9.5",
         "spfun >= 0.7.6"
       ],
-      "m": "~",
       "x": [],
       "k": [],
       "p": []
@@ -38,7 +36,6 @@
         "cligen >= 1.9.2",
         "spfun >= 0.7.6"
       ],
-      "m": "~",
       "x": [],
       "k": [],
       "p": []
@@ -49,7 +46,6 @@
         "cligen >= 1.8.7",
         "spfun >= 0.7.4"
       ],
-      "m": "~",
       "x": [],
       "k": [],
       "p": []
@@ -60,7 +56,6 @@
         "cligen >= 1.7.9",
         "spfun >= 0.7.4"
       ],
-      "m": "~",
       "x": [],
       "k": [],
       "p": []
@@ -71,7 +66,6 @@
         "cligen >= 1.7.8",
         "spfun >= 0.7.3"
       ],
-      "m": "~",
       "x": [],
       "k": [],
       "p": []
@@ -82,7 +76,6 @@
         "cligen >= 1.7.6",
         "spfun >= 0.7.2"
       ],
-      "m": "~",
       "x": [],
       "k": [],
       "p": []
@@ -98,7 +91,6 @@
         "fitl/qtl",
         "fitl/gof"
       ],
-      "m": "~",
       "x": [],
       "k": []
     },
@@ -113,7 +105,6 @@
         "fitl/qtl",
         "fitl/gof"
       ],
-      "m": "~",
       "x": [],
       "k": []
     },
@@ -128,7 +119,6 @@
         "fitl/qtl",
         "fitl/gof"
       ],
-      "m": "~",
       "x": [],
       "k": []
     },
@@ -143,7 +133,6 @@
         "fitl/qtl",
         "fitl/gof"
       ],
-      "m": "~",
       "x": [],
       "k": []
     },
@@ -158,7 +147,6 @@
         "fitl/qtl",
         "fitl/gof"
       ],
-      "m": "~",
       "x": [],
       "k": []
     },
@@ -173,7 +161,6 @@
         "fitl/qtl",
         "fitl/gof"
       ],
-      "m": "~",
       "x": [],
       "k": []
     },
@@ -188,7 +175,6 @@
         "fitl/qtl",
         "fitl/gof"
       ],
-      "m": "~",
       "x": [],
       "k": []
     },
@@ -203,7 +189,6 @@
         "fitl/qtl",
         "fitl/gof"
       ],
-      "m": "~",
       "x": [],
       "k": []
     },
@@ -218,7 +203,6 @@
         "fitl/qtl",
         "fitl/gof"
       ],
-      "m": "~",
       "x": [],
       "k": []
     },
@@ -233,7 +217,6 @@
         "fitl/qtl",
         "fitl/gof"
       ],
-      "m": "~",
       "x": [],
       "k": []
     },
@@ -248,7 +231,6 @@
         "fitl/qtl",
         "fitl/gof"
       ],
-      "m": "~",
       "x": [],
       "k": []
     },
@@ -263,7 +245,6 @@
         "fitl/qtl",
         "fitl/gof"
       ],
-      "m": "~",
       "x": [],
       "k": []
     },
@@ -278,7 +259,6 @@
         "fitl/qtl",
         "fitl/gof"
       ],
-      "m": "~",
       "x": [],
       "k": []
     },
@@ -293,7 +273,6 @@
         "fitl/qtl",
         "fitl/gof"
       ],
-      "m": "~",
       "x": [],
       "k": []
     },
@@ -308,7 +287,6 @@
         "fitl/qtl",
         "fitl/gof"
       ],
-      "m": "~",
       "x": [],
       "k": []
     },
@@ -323,7 +301,6 @@
         "fitl/qtl",
         "fitl/gof"
       ],
-      "m": "~",
       "x": [],
       "k": []
     },
@@ -338,7 +315,6 @@
         "fitl/qtl",
         "fitl/gof"
       ],
-      "m": "~",
       "x": [],
       "k": []
     },
@@ -352,7 +328,6 @@
         "fitl"
       ],
       "x": [],
-      "m": "~",
       "k": []
     },
     {
@@ -365,7 +340,6 @@
         "fitl"
       ],
       "x": [],
-      "m": "~",
       "k": []
     },
     {
@@ -378,23 +352,11 @@
         "fitl"
       ],
       "x": [],
-      "m": "~",
       "k": []
-    },
-    {
-      "v": "#head@7d2c21ea35f2690c7ecfb40e7582d4ea1a0fa3a8",
-      "r": [
-        "cligen >= 1.9.5",
-        "spfun >= 0.7.6"
-      ],
-      "m": "~",
-      "x": [],
-      "k": [],
-      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:48Z",
+  "generatedAt": "2026-05-26T13:14:05Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

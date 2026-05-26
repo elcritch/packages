@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "quickcrypt",
   "fqn": "nim-quickcrypt.theAkito.github.com",
-  "head": "b2c6952504bc6528a9b47717b5593f4fe0209f97",
   "author": "Akito <the@akito.ooo>",
   "description": "A library for quickly and easily encrypting strings and text file content.",
   "license": "GPL-3.0-or-later",
@@ -20,7 +19,6 @@
         "nimAES >= 0.1.2",
         "neoid >= 0.3.0"
       ],
-      "m": "~",
       "x": [],
       "y": []
     },
@@ -30,7 +28,6 @@
         "nimAES >= 0.1.2",
         "neoid >= 0.3.0"
       ],
-      "m": "~",
       "x": [],
       "y": []
     },
@@ -40,7 +37,6 @@
         "nimAES >= 0.1.2",
         "neoid >= 0.3.0"
       ],
-      "m": "~",
       "x": [],
       "y": []
     },
@@ -50,7 +46,6 @@
         "nimAES >= 0.1.2",
         "neoid >= 0.3.0"
       ],
-      "m": "~",
       "x": [],
       "y": []
     },
@@ -60,23 +55,12 @@
         "nimAES >= 0.1.2",
         "neoid >= 0.3.0"
       ],
-      "m": "~",
-      "x": [],
-      "y": []
-    },
-    {
-      "v": "#head@b2c6952504bc6528a9b47717b5593f4fe0209f97",
-      "r": [
-        "nimAES >= 0.1.2",
-        "neoid >= 0.3.0"
-      ],
-      "m": "~",
       "x": [],
       "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:01Z",
+  "generatedAt": "2026-05-26T13:18:26Z",
   "allDeps": {
     "packages": [
       "neoid",

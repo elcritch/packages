@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "rdgui",
   "fqn": "rdgui.liquid600pgm.github.com",
-  "head": "360035a29be04348430ad89045687844b5c6b2b4",
   "author": "liquid600pgm",
   "description": "A modular GUI toolkit for rapid",
   "license": "MIT",
@@ -13,24 +12,13 @@
       "v": "0.1.0@f2bb90796a1307090b5ff4694f80a4099d7d8859",
       "r": [
         "rapid"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@360035a29be04348430ad89045687844b5c6b2b4",
-      "r": [
-        "rapid"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:08Z",
+  "generatedAt": "2026-05-26T13:18:30Z",
   "allDeps": {
     "packages": [
-      "aglet",
       "cligen",
       "glm",
       "graphemes",
@@ -42,12 +30,7 @@
       "unicodedb",
       "unicodeplus"
     ],
-    "urls": [
-      "error://stbimage"
-    ],
-    "unresolved": [
-      "gh:liquid600pgm/nim-glm",
-      "gh:nimgl/glfw"
-    ]
+    "urls": [],
+    "unresolved": []
   }
 }

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "oris",
   "fqn": "oris.openpeeps.github.com",
-  "head": "313f8211ba9329dadca4375825c990381cba2248",
   "author": "George Lemon",
   "description": "Streamlined YAML to multilingual translation library",
   "license": "MIT",
@@ -15,22 +14,11 @@
         "flatty",
         "nyml",
         "watchout"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@313f8211ba9329dadca4375825c990381cba2248",
-      "r": [
-        "openparser"
-      ],
-      "d": "A simple i18n library for Nim",
-      "m": "2.0.0",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:10Z",
+  "generatedAt": "2026-05-26T13:17:50Z",
   "allDeps": {
     "packages": [
       "flatty",

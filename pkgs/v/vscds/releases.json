@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "vscds",
   "fqn": "vscds.doongjohn.github.com",
-  "head": "58c99dbeee1f4a98ac0de7f9708c77d643e8bbbd",
   "author": "doongjohn",
   "description": "<VS Code Data Swapper> Easily swap between multiple data folders.",
   "license": "MIT",
@@ -15,31 +14,23 @@
     {
       "v": "0.1.0@d9edc8c3b0346e349abf9c31e4c019475b3a1b96",
       "r": [],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
       "v": "0.2.0@c48c5537824de87f481b93db4e43c4ac264fe1e0",
       "r": [],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
       "v": "0.2.1@fc35657eec7a717e9725946a62f23e6ea741327a",
       "r": [],
       "d": "<VS Code Data Swapper> Easily manage multiple data folders.",
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
       "v": "0.3.0@ff7b955b338fb5d5123f64c260664bdc6fbc1252",
       "r": [],
       "d": "<VS Code Data Swapper> Easily manage multiple data folders.",
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -48,8 +39,6 @@
         "nimlevenshtein >= 0.1.0"
       ],
       "d": "<VS Code Data Swapper> Easily manage multiple data folders.",
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -58,8 +47,6 @@
         "nimlevenshtein >= 0.1.0"
       ],
       "d": "<VS Code Data Swapper> Easily manage multiple data folders.",
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -68,23 +55,11 @@
         "nimlevenshtein >= 0.1.0"
       ],
       "d": "<VS Code Data Swapper> Easily manage multiple data folders.",
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@58c99dbeee1f4a98ac0de7f9708c77d643e8bbbd",
-      "r": [
-        "nimlevenshtein >= 0.1.0"
-      ],
-      "d": "<VS Code Data Swapper> Easily manage multiple data folders.",
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:35Z",
+  "generatedAt": "2026-05-26T13:20:12Z",
   "allDeps": {
     "packages": [
       "nimlevenshtein > 0.3.0"

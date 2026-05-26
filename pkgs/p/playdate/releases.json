@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "playdate",
   "fqn": "playdate-nim.samdze.github.com",
-  "head": "1d6def17802b39252f55e31abee20a705f5058af",
   "releases": [
     {
       "v": "0.23.0@1d6def17802b39252f55e31abee20a705f5058af^",
@@ -93,16 +92,10 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file"
-    },
-    {
-      "v": "#head@1d6def17802b39252f55e31abee20a705f5058af",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "ambiguous nimble file"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:31Z",
+  "generatedAt": "2026-05-26T13:18:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

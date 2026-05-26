@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "midnight_dynamite",
   "fqn": "midnight_dynamite.Araq.github.com",
-  "head": "a9f4ef156cd2b5e14ffa44d281842f95cd89e2ab",
   "author": "Grzegorz Adam Hankiewicz",
   "description": "Wrapper for the markdown rendering hoedown library.",
   "license": "MIT",
@@ -28,14 +27,10 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file"
-    },
-    {
-      "v": "#head@a9f4ef156cd2b5e14ffa44d281842f95cd89e2ab",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:32Z",
+  "generatedAt": "2026-05-26T13:15:59Z",
   "allDeps": {
     "packages": [],
     "urls": [],

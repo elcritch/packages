@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "owasp_encoder",
   "fqn": "owasp-encoder-nim.superkelvint.github.com",
-  "head": "cff994d2667640d197022dd29243aa6d365b353b",
   "author": "Kelvin Tan",
   "description": "A Nim port of the OWASP Java Encoder for context-aware, secure output encoding.",
   "license": "BSD-3-Clause",
@@ -11,31 +10,19 @@
   "releases": [
     {
       "v": "0.5.2@bac66800de22b70325e6342e058741c10e45e52d",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.5.1@ff2306fc84561e858e685c22ca04e3e870a325ef",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.5.0@fa7ce473492a4c578ed6e893729190248427fdba",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@cff994d2667640d197022dd29243aa6d365b353b",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:13Z",
+  "generatedAt": "2026-05-26T13:17:52Z",
   "allDeps": {
     "packages": [],
     "urls": [],

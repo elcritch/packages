@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "mash",
   "fqn": "mash.capocasa.github.com",
-  "head": "ef0867f3381295a15400f879da42f982baaf3d3e",
   "author": "Carlo Capocasa",
   "description": "High-accuracy Computer keyboard MIDI",
   "license": "MIT",
@@ -18,7 +17,6 @@
         "jill >= 0.2.1",
         "rtthread"
       ],
-      "m": "~",
       "p": []
     },
     {
@@ -28,7 +26,6 @@
         "jill >= 0.2.1",
         "rtthread"
       ],
-      "m": "~",
       "p": []
     },
     {
@@ -38,7 +35,6 @@
         "jill",
         "rtthread"
       ],
-      "m": "~",
       "p": []
     },
     {
@@ -48,22 +44,11 @@
         "jill",
         "rtthread"
       ],
-      "m": "~",
-      "p": []
-    },
-    {
-      "v": "#head@ef0867f3381295a15400f879da42f982baaf3d3e",
-      "r": [
-        "jacket",
-        "jill >= 0.2.1",
-        "rtthread"
-      ],
-      "m": "~",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:21Z",
+  "generatedAt": "2026-05-26T13:15:52Z",
   "allDeps": {
     "packages": [
       "jacket",

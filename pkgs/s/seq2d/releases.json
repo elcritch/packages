@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "seq2d",
   "fqn": "seq2d.avahe-kellenberger.github.com",
-  "head": "4140d178bc583f3a46c347fce385d56549e8fbd8",
   "author": "Avahe Kellenberger",
   "description": "A 2D Sequence Implementation",
   "license": "GPL-2.0-only",
@@ -13,27 +12,15 @@
       "v": "0.1.1@4140d178bc583f3a46c347fce385d56549e8fbd8^",
       "r": [
         "nimtest >= 0.1.2"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.0@c998c1f7654d858583b251ae4d12c2fe487bd262",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@4140d178bc583f3a46c347fce385d56549e8fbd8",
-      "r": [
-        "nimtest >= 0.1.2"
-      ],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:37Z",
+  "generatedAt": "2026-05-26T13:18:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

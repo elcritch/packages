@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "amka",
   "fqn": "amka-nim.zoispag.github.com",
-  "head": "2b048f22b98712597c467864aa0d2cef8de46739",
   "author": "Zois Pagoulatos",
   "description": "A validator for greek social security number (AMKA)",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@cc402327601d8bba47a5b77b380d0f7b76336c9c",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@2b048f22b98712597c467864aa0d2cef8de46739",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:42Z",
+  "generatedAt": "2026-05-26T13:11:52Z",
   "allDeps": {
     "packages": [],
     "urls": [],

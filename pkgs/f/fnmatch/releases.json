@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "fnmatch",
   "fqn": "nim-fnmatch.achesak.github.com",
-  "head": "02e9955d9643692c066b318d07ddd4c339712e1e",
   "author": "Adam Chesak",
   "description": " Nim module for filename matching with UNIX shell patterns",
   "license": "MIT",
@@ -14,14 +13,10 @@
     {
       "v": "1.1@f3c3350bf24dd433a8d6d034b7ec9c1c08fd1cf1",
       "r": []
-    },
-    {
-      "v": "#head@02e9955d9643692c066b318d07ddd4c339712e1e",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:51Z",
+  "generatedAt": "2026-05-26T13:14:08Z",
   "allDeps": {
     "packages": [],
     "urls": [],

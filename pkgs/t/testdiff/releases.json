@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "testdiff",
   "fqn": "testdiff.geotre.github.com",
-  "head": "1ea4e1e1e74ef8d9b23be133388d3d49d0a30a4e",
   "author": "geotre",
   "description": "Simple utility for diffing values in tests",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "1.0.0@2785317193dc75ac3498eb0aecf2b4c10c97477b",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@1ea4e1e1e74ef8d9b23be133388d3d49d0a30a4e",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:44Z",
+  "generatedAt": "2026-05-26T13:19:37Z",
   "allDeps": {
     "packages": [],
     "urls": [],

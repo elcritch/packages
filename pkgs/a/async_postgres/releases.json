@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "async_postgres",
   "fqn": "async-postgres.fox0430.github.com",
-  "head": "873cff4b61e09e1fbdcec17184bd00a003444993",
   "author": "fox0430",
   "description": "Async PostgreSQL client",
   "license": "MIT",
@@ -13,8 +12,7 @@
       "r": [
         "nimcrypto >= 0.6.0",
         "checksums >= 0.2.0"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.1.0@8974aa25744eaa7ab2de815548dbb2c5a36b5682",
@@ -23,18 +21,10 @@
         "checksums >= 0.2.0"
       ],
       "m": "2.2.0"
-    },
-    {
-      "v": "#head@873cff4b61e09e1fbdcec17184bd00a003444993",
-      "r": [
-        "nimcrypto >= 0.6.0",
-        "checksums >= 0.2.0"
-      ],
-      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:00Z",
+  "generatedAt": "2026-05-26T13:12:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "AstroNimy",
   "fqn": "AstroNimy.super-massive-black-holes.github.com",
-  "head": "1b560bb469cc393ba01eceee232c6569d2759a74",
   "author": "Supermassive Blackholes",
   "description": "astronomical library for Nim programming language",
   "license": "MIT",
@@ -10,14 +9,10 @@
     {
       "v": "0.1.0@1b560bb469cc393ba01eceee232c6569d2759a74^",
       "r": []
-    },
-    {
-      "v": "#head@1b560bb469cc393ba01eceee232c6569d2759a74",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:29Z",
+  "generatedAt": "2026-05-26T13:11:38Z",
   "allDeps": {
     "packages": [],
     "urls": [],

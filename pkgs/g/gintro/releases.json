@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "gintro",
   "fqn": "gintro.KellerKev.github.com",
-  "head": "a1053f44ae8866c7d96372b072e9a611831e5a0d",
   "author": "kevin",
   "description": "High level GObject-Introspection based GTK4/GTK3 bindings (revived, Nim 2.x compatible)",
   "license": "MIT",
@@ -16,19 +15,11 @@
       "v": "1.0.0@2a9cebb6c9c9de6d34662b2cafdef1caa4af4c67",
       "r": [],
       "h": true,
-      "m": "~",
-      "x": []
-    },
-    {
-      "v": "#head@a1053f44ae8866c7d96372b072e9a611831e5a0d",
-      "r": [],
-      "h": true,
-      "m": "~",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:18Z",
+  "generatedAt": "2026-05-26T13:14:24Z",
   "allDeps": {
     "packages": [],
     "urls": [],

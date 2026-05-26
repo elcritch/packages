@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "prettyvec",
   "fqn": "prettyvec.prettybauble.github.com",
-  "head": "b7c50cfb4f0da5a452122d8da857980674720c93",
   "author": "prettybauble",
   "description": "Small library for working with vectors",
   "license": "MIT",
@@ -10,22 +9,15 @@
   "releases": [
     {
       "v": "0.0.1@a26e619186a5d8cf355dc4df464e26b0a07f2e87",
-      "r": [],
-      "s": ""
+      "r": []
     },
     {
       "v": "1.0.0@b7c50cfb4f0da5a452122d8da857980674720c93^",
-      "r": [],
-      "s": ""
-    },
-    {
-      "v": "#head@b7c50cfb4f0da5a452122d8da857980674720c93",
-      "r": [],
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:47Z",
+  "generatedAt": "2026-05-26T13:18:17Z",
   "allDeps": {
     "packages": [],
     "urls": [],

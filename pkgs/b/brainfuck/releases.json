@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "brainfuck",
   "fqn": "nim-brainfuck.def-.github.com",
-  "head": "62d0175881b3dbd80d1c48eb36aa0050a07c85dc",
   "author": "The 'How I Start Nim' Team",
   "description": "A brainfuck interpreter and compiler",
   "license": "MIT",
@@ -15,8 +14,6 @@
     {
       "v": "1.0@b1f193ce85b0f296452faf13fdf7c5aba8056352",
       "r": [],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -25,23 +22,11 @@
         "docopt >= 0.1.0"
       ],
       "a": "Dennis Felsing",
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@62d0175881b3dbd80d1c48eb36aa0050a07c85dc",
-      "r": [
-        "docopt >= 0.1.0"
-      ],
-      "a": "Dennis Felsing",
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:46Z",
+  "generatedAt": "2026-05-26T13:12:38Z",
   "allDeps": {
     "packages": [
       "docopt > 1.0",

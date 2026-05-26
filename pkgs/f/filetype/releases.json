@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "filetype",
   "fqn": "filetype.jiro4989.github.com",
-  "head": "23836b6e57fc64054585069602dc86eaf3d2546e",
   "author": "jiro4989",
   "description": "Small and dependency free Nim package to infer file and MIME type checking the magic numbers signature.",
   "license": "MIT",
@@ -11,85 +10,55 @@
   "releases": [
     {
       "v": "0.9.0@1fe1e7d988cd802abc26505efb5a91891bd6f53e",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.8.1@95a9210dcb47d72ef23eced40844a2c04f3717b0",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.8.0@aa877cb39bcfc2d069f4b578ca8ce302dc2a4cbe",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.7.1@035f195511abe1f03176b93c956ba777a85171bf",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.7.0@90f87485141f06d0204160eea7a89cd2d7478166",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.6.0@2cc5a955328d28adcd90312362c96cf48528546d",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.5.1@5555b677c687d4ae3f5da75dd7f98aff916b0fcf",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.5.0@49fcf6aba1194c37f88cc0469e136b80213a87de",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.4.0@d5d9b05de3e2e695339ef781eb2bb52a91e6983e",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.3.0@25719fd094eb16247e17f322af827dbdab3c1de2",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.0@663ab46eb98ecca23bbf4262926022e061ce883d",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.0@36fe51b3231644b21661eb8fc9ba7b2f3e514eb7",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@23836b6e57fc64054585069602dc86eaf3d2546e",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:44Z",
+  "generatedAt": "2026-05-26T13:14:00Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "tf2plug",
   "fqn": "tf2plug.waylon531.gitlab.com",
-  "head": "abacf19cc05bb72b90aff41adcd2a1a9d967ebbc",
   "author": "Waylon Cude",
   "description": "A mod manager for TF2",
   "license": "GPLv3",
@@ -16,7 +15,6 @@
       "r": [
         "docopt >= 0.6.5"
       ],
-      "m": "~",
       "p": []
     },
     {
@@ -24,7 +22,6 @@
       "r": [
         "docopt >= 0.6.5"
       ],
-      "m": "~",
       "p": []
     },
     {
@@ -32,7 +29,6 @@
       "r": [
         "docopt >= 0.6.5"
       ],
-      "m": "~",
       "p": []
     },
     {
@@ -40,20 +36,11 @@
       "r": [
         "docopt >= 0.6.5"
       ],
-      "m": "~",
-      "p": []
-    },
-    {
-      "v": "#head@abacf19cc05bb72b90aff41adcd2a1a9d967ebbc",
-      "r": [
-        "docopt >= 0.6.5"
-      ],
-      "m": "~",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:47Z",
+  "generatedAt": "2026-05-26T13:19:39Z",
   "allDeps": {
     "packages": [
       "docopt",

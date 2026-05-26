@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "libssh2",
   "fqn": "libssh2.nim.ba0f3.github.com",
-  "head": "a570d088d7597d1f9e69d59445c71a585a0f5817",
   "author": "Huy Doan",
   "description": "Nim wrapper for libssh2",
   "license": "MIT",
@@ -26,14 +25,10 @@
     {
       "v": "0.1.5@fe83d73c53c7fc71e1b650cbb42be538f94ae956",
       "r": []
-    },
-    {
-      "v": "#head@a570d088d7597d1f9e69d59445c71a585a0f5817",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:54Z",
+  "generatedAt": "2026-05-26T13:15:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

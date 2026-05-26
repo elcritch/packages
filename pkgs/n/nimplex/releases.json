@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimplex",
   "fqn": "nimplex.amkrajewski.github.com",
-  "head": "1b540ceb23d5e40e5411e7fc4a2c3efdc8838167",
   "author": "Adam M. Krajewski",
   "description": "NIM simPLEX: A concise scientific Nim library (with CLI and Python binding) providing samplings, uniform grids, traversal graphs, and their complexes in compositional (simplex) spaces.",
   "license": "MIT",
@@ -27,10 +26,8 @@
         "arraymancer >= 0.7.33",
         "nimpy"
       ],
-      "s": "",
       "k": [],
       "p": [],
-      "m": "~",
       "x": []
     },
     {
@@ -40,10 +37,8 @@
         "arraymancer >= 0.7.3 & <= 0.7.32",
         "nimpy"
       ],
-      "s": "",
       "k": [],
       "p": [],
-      "m": "~",
       "x": []
     },
     {
@@ -53,8 +48,6 @@
         "arraymancer >= 0.7.3 & <= 0.7.32",
         "nimpy"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -65,10 +58,8 @@
         "arraymancer >= 0.7.3",
         "nimpy"
       ],
-      "s": "",
       "k": [],
       "p": [],
-      "m": "~",
       "x": []
     },
     {
@@ -79,8 +70,6 @@
       ],
       "k": [],
       "p": [],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
@@ -90,10 +79,8 @@
         "nimpy"
       ],
       "d": "NIM simPLEX: A concise scientific Nim library (with CLI and Python binding) providing samplings, uniform grids, and traversal graphs in compositional (simplex) spaces.",
-      "s": "",
       "k": [],
       "p": [],
-      "m": "~",
       "x": []
     },
     {
@@ -105,8 +92,6 @@
       "d": "NIM simPLEX: A concise scientific Nim library (with CLI and Python binding) providing samplings, uniform grids, and traversal graphs in compositional (simplex) spaces.",
       "k": [],
       "p": [],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
@@ -116,10 +101,8 @@
         "nimpy"
       ],
       "d": "NIM simPLEX: A concise scientific Nim library (with CLI and Python binding) providing samplings, uniform grids, and traversal graphs in compositional (simplex) spaces.",
-      "s": "",
       "k": [],
       "p": [],
-      "m": "~",
       "x": []
     },
     {
@@ -129,10 +112,8 @@
         "nimpy"
       ],
       "d": "NIM simPLEX: A concise scientific Nim library (with CLI and Python binding) providing samplings, uniform grids, and traversal graphs in compositional (simplex) spaces.",
-      "s": "",
       "k": [],
       "p": [],
-      "m": "~",
       "x": []
     },
     {
@@ -142,11 +123,9 @@
         "nimpy"
       ],
       "d": "NIM simPLEX: A concise scientific Nim library (with CLI and Python binding) providing samplings, uniform grids, and traversal graphs in compositional (simplex) spaces.",
-      "s": "",
       "x": [],
       "k": [],
-      "p": [],
-      "m": "~"
+      "p": []
     },
     {
       "v": "0.4.3@38966240ca57623d5736abbb9ebfc19e4a56985a",
@@ -155,11 +134,9 @@
         "nimpy"
       ],
       "d": "NIM simPLEX: A concise scientific Nim library (with CLI and Python binding) providing samplings, uniform grids, and traversal graphs in compositional (simplex) spaces.",
-      "s": "",
       "x": [],
       "k": [],
-      "p": [],
-      "m": "~"
+      "p": []
     },
     {
       "v": "0.4.2@dbee2c1bababea2c2ababa1ec21b50d95e66a62a",
@@ -168,11 +145,9 @@
         "nimpy"
       ],
       "d": "NIM simPLEX: A concise scientific Nim library (with CLI and Python binding) providing samplings, uniform grids, and traversal graphs in compositional (simplex) spaces.",
-      "s": "",
       "x": [],
       "k": [],
-      "p": [],
-      "m": "~"
+      "p": []
     },
     {
       "v": "0.4.1@69fd1274248425ce949db1fb7cab6f52f792259d",
@@ -181,11 +156,9 @@
         "nimpy"
       ],
       "d": "NIM simPLEX: A concise scientific Nim library (with CLI and Python binding) providing samplings, uniform grids, and traversal graphs in compositional (simplex) spaces.",
-      "s": "",
       "x": [],
       "k": [],
-      "p": [],
-      "m": "~"
+      "p": []
     },
     {
       "v": "0.4.0@469b4413c23034b1647748de771c8488ab08791e",
@@ -194,11 +167,9 @@
         "nimpy"
       ],
       "d": "NIM simPLEX space division algorithm and other tools",
-      "s": "",
       "x": [],
       "k": [],
-      "p": [],
-      "m": "~"
+      "p": []
     },
     {
       "v": "0.3.0@9917d9aa910ee53bad43f4bdbb14afd60a573cb9",
@@ -207,11 +178,9 @@
         "nimpy"
       ],
       "d": "NIM simPLEX space division algorithm and other tools",
-      "s": "",
       "x": [],
       "k": [],
-      "p": [],
-      "m": "~"
+      "p": []
     },
     {
       "v": "0.2.1@c5d2f7221224084441a0dc504ef0866cf41a22e5",
@@ -219,11 +188,9 @@
         "arraymancer >= 0.7.3"
       ],
       "d": "NIM simPLEX space division algorithm and other tools",
-      "s": "",
       "x": [],
       "k": [],
-      "p": [],
-      "m": "~"
+      "p": []
     },
     {
       "v": "0.2.0@846d080ab814be1a39eeb27b1850d903ba0fc9fb",
@@ -231,11 +198,9 @@
         "arraymancer >= 0.7.3"
       ],
       "d": "NIM simPLEX space division algorithm and other tools",
-      "s": "",
       "x": [],
       "k": [],
-      "p": [],
-      "m": "~"
+      "p": []
     },
     {
       "v": "0.1.0@fd0b6b1acb46af6c2dcd21c497331aa0656f1ce4",
@@ -243,11 +208,9 @@
         "arraymancer >= 0.7.3"
       ],
       "d": "NIM simPLEX space division algorithm and other tools",
-      "s": "",
       "x": [],
       "k": [],
-      "p": [],
-      "m": "~"
+      "p": []
     },
     {
       "v": "0.0.5@c3be6f5024ad2089f7161e9af715026b9fc8050c",
@@ -255,11 +218,9 @@
         "arraymancer >= 0.7.3"
       ],
       "d": "NIM simPLEX space division algorithm and other tools",
-      "s": "",
       "x": [],
       "k": [],
-      "p": [],
-      "m": "~"
+      "p": []
     },
     {
       "v": "0.0.4@81f14ae173f184cdd4b59dc386a888932941c308",
@@ -268,7 +229,6 @@
       ],
       "d": "NIM simPLEX space division algorithm and other tools",
       "m": "1.0.0",
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -280,7 +240,6 @@
       ],
       "d": "NIM simPLEX space division algorithm and other tools",
       "m": "1.0.0",
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -292,7 +251,6 @@
       ],
       "d": "NIM simPLEX space division algorithm and other tools",
       "m": "1.0.0",
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -304,77 +262,13 @@
       ],
       "d": "NIM simPLEX space division algorithm and other tools",
       "m": "1.0.0",
-      "s": "",
       "x": [],
       "k": [],
       "p": []
-    },
-    {
-      "v": "#head@1b540ceb23d5e40e5411e7fc4a2c3efdc8838167",
-      "r": [
-        "arraymancer >= 0.7.33",
-        "nimpy"
-      ],
-      "s": "",
-      "k": [],
-      "p": [],
-      "m": "~",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:10Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "v0.0.1",
-      "v0.0.2",
-      "v0.0.3",
-      "v0.0.4",
-      "v0.0.5",
-      "v0.1.0",
-      "v0.2.0",
-      "v0.2.1",
-      "v0.3.0",
-      "v0.4.0",
-      "v0.4.1",
-      "v0.4.2",
-      "v0.4.3",
-      "v0.4.4",
-      "v0.5.0",
-      "v0.5.1",
-      "v0.6.0",
-      "v0.7.0",
-      "v0.7.1",
-      "v0.8.0"
-    ],
-    "tagVersions": {
-      "v0.0.1": "0.0.1",
-      "v0.0.2": "0.0.2",
-      "v0.0.3": "0.0.3",
-      "v0.0.4": "0.0.4",
-      "v0.0.5": "0.0.5",
-      "v0.1.0": "0.1.0",
-      "v0.2.0": "0.2.0",
-      "v0.2.1": "0.2.1",
-      "v0.3.0": "0.3.0",
-      "v0.4.0": "0.4.0",
-      "v0.4.1": "0.4.1",
-      "v0.4.2": "0.4.2",
-      "v0.4.3": "0.4.3",
-      "v0.4.4": "0.4.4",
-      "v0.5.0": "0.5.0",
-      "v0.5.1": "0.5.1",
-      "v0.6.0": "0.6.0",
-      "v0.7.0": "0.7.0",
-      "v0.7.1": "0.7.1",
-      "v0.8.0": "0.8.0"
-    },
-    "latest": "v0.8.0"
-  },
+  "generatedAt": "2026-05-26T13:17:08Z",
   "allDeps": {
     "packages": [
       "arraymancer",

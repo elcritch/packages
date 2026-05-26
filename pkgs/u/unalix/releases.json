@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "unalix",
   "fqn": "Unalix-nim.AmanoTeam.github.com",
-  "head": "318778b7b5babf1332824b5a58a82b2c8f5b577c",
   "author": "SnwMds",
   "description": "Small, dependency-free, fast Nim package for removing tracking fields from URLs.",
   "license": "LGPL-3.0",
@@ -24,8 +23,6 @@
       "v": "0.8@3aa676554115c7407e318cbc40477b487b297a74",
       "r": [],
       "p": [],
-      "m": "~",
-      "s": "",
       "k": [],
       "o": {}
     },
@@ -38,8 +35,6 @@
         "nim"
       ],
       "p": [],
-      "m": "~",
-      "s": "",
       "o": {}
     },
     {
@@ -49,8 +44,6 @@
         "nim"
       ],
       "p": [],
-      "m": "~",
-      "s": "",
       "o": {}
     },
     {
@@ -60,8 +53,6 @@
         "nim"
       ],
       "p": [],
-      "m": "~",
-      "s": "",
       "o": {}
     },
     {
@@ -72,7 +63,6 @@
       ],
       "m": "1.4.0",
       "p": [],
-      "s": "",
       "o": {}
     },
     {
@@ -83,7 +73,6 @@
       ],
       "m": "1.4.0",
       "p": [],
-      "s": "",
       "o": {}
     },
     {
@@ -94,7 +83,6 @@
       ],
       "m": "1.2.6",
       "p": [],
-      "s": "",
       "o": {}
     },
     {
@@ -105,21 +93,11 @@
       ],
       "m": "1.2.6",
       "o": {},
-      "s": "",
       "p": []
-    },
-    {
-      "v": "#head@318778b7b5babf1332824b5a58a82b2c8f5b577c",
-      "r": [],
-      "m": "1.4.0",
-      "p": [],
-      "s": "",
-      "k": [],
-      "o": {}
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:14Z",
+  "generatedAt": "2026-05-26T13:19:57Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

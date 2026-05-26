@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nephyr",
   "fqn": "nephyr.EmbeddedNim.github.com",
-  "head": "c2c29c5acaad56ee78e798d5b1c5b695ddc71b82",
   "author": "Jaremy J. Creechley",
   "description": "Nim wrapper for Zephyr RTOS",
   "license": "Apache-2.0",
@@ -23,29 +22,12 @@
         "mcu_utils #main",
         "gh:EmbeddedNim/fast_rpc"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
-    },
-    {
-      "v": "#head@c2c29c5acaad56ee78e798d5b1c5b695ddc71b82",
-      "r": [
-        "msgpack4nim >= 0.3.1",
-        "stew >= 0.1.0",
-        "cdecl >= 0.4.5",
-        "gh:EmbeddedNim/nephyrcli >= 0.3.1",
-        "mcu_utils >= 0.3.3",
-        "fastrpc >= 0.2.0"
-      ],
-      "m": "1.6.5",
-      "k": [],
-      "p": [],
-      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:02Z",
+  "generatedAt": "2026-05-26T13:16:21Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -63,20 +45,9 @@
   },
   "allDeps": {
     "packages": [
-      "bigints",
-      "bignum",
-      "cbor",
-      "cborious",
-      "cdecl",
-      "cligen",
-      "fastrpc",
-      "gmp",
-      "macroutils",
       "mcu_utils",
-      "mddoc",
       "msgpack4nim",
       "persistent_enums",
-      "progress",
       "results",
       "stew",
       "threading",
@@ -84,11 +55,7 @@
     ],
     "urls": [],
     "unresolved": [
-      "gh:ehmry/nim-bigints",
-      "gh:elcritch/mcu_utils",
-      "gh:elcritch/nim-cbor-serialization",
-      "gh:EmbeddedNim/fast_rpc",
-      "gh:EmbeddedNim/nephyrcli"
+      "gh:EmbeddedNim/fast_rpc"
     ]
   }
 }

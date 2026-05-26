@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "amysql",
   "fqn": "amysql.bung87.github.com",
-  "head": "a202f5335ef5b47d1fabd897999f730c9e7fce20",
   "author": "bung87",
   "description": "Async MySQL Connector write in pure Nim.",
   "license": "MIT",
@@ -24,8 +23,6 @@
         "urlly",
         "chronos"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "y": []
     },
@@ -38,8 +35,6 @@
         "urlly",
         "chronos"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "y": []
     },
@@ -52,8 +47,6 @@
         "urlly",
         "chronos"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "y": []
     },
@@ -66,8 +59,6 @@
         "urlly",
         "chronos"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "y": []
     },
@@ -80,8 +71,6 @@
         "urlly",
         "chronos"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "y": []
     },
@@ -94,8 +83,6 @@
         "urlly",
         "chronos"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "y": []
     },
@@ -108,8 +95,6 @@
         "urlly",
         "chronos"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "y": []
     },
@@ -122,8 +107,6 @@
         "urlly",
         "chronos"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "y": []
     },
@@ -136,8 +119,6 @@
         "urlly",
         "chronos"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "y": []
     },
@@ -147,49 +128,16 @@
         "nimcrypto",
         "regex"
       ],
-      "m": "~",
-      "x": [],
-      "y": [],
-      "s": ""
-    },
-    {
-      "v": "#head@a202f5335ef5b47d1fabd897999f730c9e7fce20",
-      "r": [
-        "nimcrypto",
-        "regex",
-        "zstd",
-        "urlly",
-        "chronos",
-        "db_connector"
-      ],
-      "m": "~",
-      "s": "",
       "x": [],
       "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:44Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "v0.1.0"
-    ],
-    "tagVersions": {
-      "v0.1.0": "0.1.0"
-    },
-    "prerelease": [
-      "v0.1.0"
-    ]
-  },
+  "generatedAt": "2026-05-26T13:11:53Z",
   "allDeps": {
     "packages": [
       "bearssl > 0.1.0",
       "chronos > 0.1.0",
-      "db_connector",
       "graphemes",
       "httputils > 0.1.0",
       "nimcrypto",

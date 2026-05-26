@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "traitor",
   "fqn": "traitor.beef331.github.com",
-  "head": "0dbf3aafa2839e5c6cbb65bf5c42b36a67406e40",
   "author": "Jason Beetham",
   "description": "Trait-like package made without insight",
   "license": "MIT",
@@ -12,150 +11,124 @@
       "v": "0.2.19@1dc377dc28a54578d670423e498db4562fc24b9e",
       "r": [
         "micros >= 0.1.5"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.2.18@2a0ec2aed5474c474b159addf946b319ff904d21",
       "r": [
         "micros >= 0.1.5"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.2.17@d59b00e92725fbeb2efd161553226b2945e5500e",
       "r": [
         "micros >= 0.1.5"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.2.16@f8a4a7fddcd96b360c8c94bc5219bb7b1f89f961",
       "r": [
         "micros >= 0.1.5"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.2.15@c1f9a4a16b7ec4752492e6351a77dd8703ef5cbc",
       "r": [
         "micros >= 0.1.5"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.2.14@77800d06ffb2d4b04a1edc67cfccc5676ded9781",
       "r": [
         "micros >= 0.1.5"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.2.13@42601f9081cf36cf3e2d7313189c61cd598177f4",
       "r": [
         "micros >= 0.1.5"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.2.12@443ea74c13a13ae65046a3adee954b8f99162b32",
       "r": [
         "micros >= 0.1.5"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.2.11@e950c5f088a8f5c081b48f688a1de48568af27c4",
       "r": [
         "micros >= 0.1.5"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.2.10@68ce902d7ab6da586946ae66046ccf0bc2e22e16",
       "r": [
         "micros >= 0.1.5"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.2.9@1055ff0bdecc947c4fa55cd4c4641d573d33a3e1",
       "r": [
         "micros >= 0.1.5"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.2.8@74bf60bdd0693ab594d74d91f1ca833c93e7e16a",
       "r": [
         "micros >= 0.1.5"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.2.7@904f2967dfb883c304e73bcb2811eae09df0ac9f",
       "r": [
         "micros >= 0.1.5"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.2.6@0065dbccf041ce520ec2891f3c75418ba0febb82",
       "r": [
         "micros >= 0.1.5"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.2.5@47ff06ada01c9c77ccd25cb8c8d1da07635e8f6c",
       "r": [
         "micros >= 0.1.5"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.2.4@7a9c3c2cfb2e9994b4c47409a51df9effcae102a",
       "r": [
         "micros >= 0.1.5"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.2.3@45d1e99bccf6f7bde0a235d9ad01ce1a4beae7ea",
       "r": [
         "micros >= 0.1.5"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.2.2@45d1a903e45edbc168e0ba7c179bec2da68f84c1",
       "r": [
         "micros >= 0.1.5"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.2.1@df207bd0c5f00ff6f1ae73f50385f3860e774df5",
       "r": [
         "micros >= 0.1.5"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.1.0@0ab76478853d9eb656239e32a1f3bbb0f3ecf4c5",
       "r": [],
       "m": "1.6.0"
-    },
-    {
-      "v": "#head@0dbf3aafa2839e5c6cbb65bf5c42b36a67406e40",
-      "r": [
-        "micros >= 0.1.5"
-      ],
-      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:01Z",
+  "generatedAt": "2026-05-26T13:19:49Z",
   "allDeps": {
     "packages": [
       "micros > 0.1.0"

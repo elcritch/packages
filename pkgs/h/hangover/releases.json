@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "hangover",
   "fqn": "hangover.bob16795.github.com",
-  "head": "943ba35907685e6fe21019d6f348fddfc3b8e096",
   "author": "bob16795",
   "description": "A new version of gin, with more features",
   "license": "MIT",
@@ -16,8 +15,7 @@
         "opengl",
         "glfw",
         "glm"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.1.1@240d9430197aa44f70f3d2cf52b45576c8f1a799",
@@ -27,8 +25,7 @@
         "opengl",
         "glfw",
         "glm"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.2.0@1e4e7b6ebb86e9c7e29f609367729692ae554a9d",
@@ -38,8 +35,7 @@
         "opengl",
         "glfw",
         "glm"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.2.1@943ba35907685e6fe21019d6f348fddfc3b8e096^",
@@ -49,23 +45,11 @@
         "opengl",
         "glfw",
         "glm"
-      ],
-      "m": "~"
-    },
-    {
-      "v": "#head@943ba35907685e6fe21019d6f348fddfc3b8e096",
-      "r": [
-        "gh:jangko/freetype",
-        "gh:treeform/openal",
-        "opengl",
-        "glfw",
-        "glm"
-      ],
-      "m": "~"
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:36Z",
+  "generatedAt": "2026-05-26T13:14:37Z",
   "allDeps": {
     "packages": [
       "freetype <= 0.1.1",

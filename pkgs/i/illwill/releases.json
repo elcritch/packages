@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "illwill",
   "fqn": "illwill.johnnovak.github.com",
-  "head": "db080b4e2432868e188efb4fb72c1ee6c6c28428",
   "author": "John Novak <john@johnnovak.net>",
   "description": "A curses inspired simple cross-platform console library for Nim",
   "license": "WTFPL",
@@ -16,25 +15,21 @@
     {
       "v": "0.4.1@99a120f7f69868b94f5d35ce7e21dd12535de70c",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.4.0@631169fe966adcf7d6f4015a71b1a897020d0e47",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.3.3@cee02a3bdab619305440f98fb08b3a0678b34514",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.3.2@1d12cb36ab7b76c31d2d25fa421013ecb382e625",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
@@ -54,16 +49,10 @@
       "r": [],
       "m": "0.20.0",
       "x": []
-    },
-    {
-      "v": "#head@db080b4e2432868e188efb4fb72c1ee6c6c28428",
-      "r": [],
-      "m": "~",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:04Z",
+  "generatedAt": "2026-05-26T13:14:57Z",
   "allDeps": {
     "packages": [],
     "urls": [],

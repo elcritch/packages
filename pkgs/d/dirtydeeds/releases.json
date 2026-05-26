@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "dirtydeeds",
   "fqn": "dirtydeeds.metagn.github.com",
-  "head": "482f8d01b34f7bddbfd388e7b60bea167ac5b61c",
   "author": "metagn",
   "description": "macro for partially applied calls",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@482f8d01b34f7bddbfd388e7b60bea167ac5b61c^",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@482f8d01b34f7bddbfd388e7b60bea167ac5b61c",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:57Z",
+  "generatedAt": "2026-05-26T13:13:33Z",
   "allDeps": {
     "packages": [],
     "urls": [],

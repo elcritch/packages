@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "glm",
   "fqn": "nim-glm.stavenko.github.com",
-  "head": "a1b87af5ed45ab9d7954b3e78c50944d35f5a581",
   "author": "Arne Döring",
   "description": "Nim port of the OpenGL Mathematics (GLM) library",
   "license": "MIT",
@@ -15,19 +14,16 @@
     {
       "v": "1.1.1@c30414e241ad7fde9abc4f1dc7185268c4bbdbcd",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "1.1.0@48115991609e6f509f1c4eeeb0a726f5a09b8aae",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "1.0.2@df79cb0d59e33d023d289e6930172f11cf3738bf",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
@@ -39,23 +35,11 @@
     {
       "v": "1.0.0@bbbb44e98c0d4b296d5290d502f7e4a035662011",
       "r": [],
-      "m": "~",
-      "x": []
-    },
-    {
-      "v": "#head@a1b87af5ed45ab9d7954b3e78c50944d35f5a581",
-      "r": [],
-      "m": "~",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:22Z",
-  "allDeps": {
-    "packages": [],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T13:14:27Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -72,5 +56,10 @@
       "v1.1.0": "1.1.0"
     },
     "latest": "v1.1.0"
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
   }
 }

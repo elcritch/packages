@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "wcwidth",
   "fqn": "wcwidth-nim.shoyu777.github.com",
-  "head": "86f8db1a883f6a64e590a56aed81e788389b7196",
   "author": "shoyu777",
   "description": "Implementation of wcwidth with Nim.",
   "license": "MIT",
@@ -22,15 +21,11 @@
       "r": [],
       "b": "",
       "p": [],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
       "v": "0.1.2@2324274294e206723f1a88cb7dec1cbfccfa8308",
       "r": [],
-      "m": "~",
-      "s": "",
       "b": "",
       "x": [],
       "p": []
@@ -39,23 +34,13 @@
       "v": "0.1.1@5be138fbbb91eaf6e9519eba236919e91a52dad0",
       "r": [],
       "m": "1.6.8",
-      "s": "",
       "b": "",
       "x": [],
       "p": []
-    },
-    {
-      "v": "#head@86f8db1a883f6a64e590a56aed81e788389b7196",
-      "r": [],
-      "b": "",
-      "p": [],
-      "m": "~",
-      "s": "",
-      "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:40Z",
+  "generatedAt": "2026-05-26T13:20:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

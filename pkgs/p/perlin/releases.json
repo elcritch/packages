@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "perlin",
   "fqn": "PerlinNim.Nycto.github.com",
-  "head": "9c805c4e99f10a4ae1af3e81c63a3ec8d49987ce",
   "author": "Nycto",
   "description": "A Perlin Noise Implementation",
   "license": "MIT",
@@ -20,80 +19,56 @@
       "r": [
         "random >= 0.5"
       ],
-      "x": [],
-      "m": "~",
-      "s": ""
+      "x": []
     },
     {
       "v": "0.8.0@6d0bf336164d3d1c0466982135644b8030051c4b",
       "r": [
         "random >= 0.5"
       ],
-      "x": [],
-      "m": "~",
-      "s": ""
+      "x": []
     },
     {
       "v": "0.7.0@90b46b9fdeed6a582ba7dddd1cc5448db89ab900",
       "r": [],
       "m": "1.2.0",
-      "x": [],
-      "s": ""
+      "x": []
     },
     {
       "v": "0.6.1@2bb4c688f21968adba790b436978976867cb9468",
       "r": [],
       "m": "0.14.0",
-      "x": [],
-      "s": ""
+      "x": []
     },
     {
       "v": "0.6.0@10924e86675430ebdacddf9b2031116b8340b339",
       "r": [],
       "m": "0.14.0",
-      "s": "",
       "x": []
     },
     {
       "v": "0.4.0@0fba26220db772c4ed5d485e612b622e36d36f7c",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
       "v": "0.3.0@d583e09be81d866b5601c1c646ea6880d5454f7c",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
       "v": "0.2.0@1d132fd5912656de2d251810ee35d32a581bf23f",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
       "v": "0.1.0@1a30e1261bc39e96ba8664e67cc8c44638c26450",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": []
-    },
-    {
-      "v": "#head@9c805c4e99f10a4ae1af3e81c63a3ec8d49987ce",
-      "r": [
-        "random >= 0.5"
-      ],
-      "x": [],
-      "m": "~",
-      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:27Z",
+  "generatedAt": "2026-05-26T13:18:01Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

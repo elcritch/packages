@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "cowstrings",
   "fqn": "cowstrings.planetis-m.github.com",
-  "head": "8a742874ddbb4c3e55978e3fba3cd4f8f8159910",
   "author": "Antonis Geralis",
   "description": "Copy-On-Write string implementation according to nim-lang/RFCs#221",
   "license": "MIT",
@@ -10,8 +9,7 @@
   "releases": [
     {
       "v": "0.7.1@17c87cbcc99d6503e016902f097fe23ab78adc52",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "0.7.0@a23c7ab80fa0de6c91ca8b442d4c3d283076d74a",
@@ -42,15 +40,10 @@
       "v": "0.1.0@558551444b20102ca7a0c8bbc3f661b479af8525",
       "r": [],
       "m": "1.0.0"
-    },
-    {
-      "v": "#head@8a742874ddbb4c3e55978e3fba3cd4f8f8159910",
-      "r": [],
-      "m": "~"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:31Z",
+  "generatedAt": "2026-05-26T13:13:15Z",
   "allDeps": {
     "packages": [],
     "urls": [],

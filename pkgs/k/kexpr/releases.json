@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "kexpr",
   "fqn": "kexpr-nim.brentp.github.com",
-  "head": "3a8dbf0d43370f8e4a103b644944b3478f044cd0",
   "author": "Brent Pedersen",
   "description": "math expression evaluator library",
   "license": "MIT",
@@ -14,18 +13,11 @@
     {
       "v": "0.0.2@7302245f8dafb33f4ecf9861fd81ceb4d7b193c8",
       "r": [],
-      "m": "~",
-      "y": []
-    },
-    {
-      "v": "#head@3a8dbf0d43370f8e4a103b644944b3478f044cd0",
-      "r": [],
-      "m": "~",
       "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:34Z",
+  "generatedAt": "2026-05-26T13:15:17Z",
   "allDeps": {
     "packages": [],
     "urls": [],

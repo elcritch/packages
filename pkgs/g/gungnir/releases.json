@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "gungnir",
   "fqn": "gungnir.planety.github.com",
-  "head": "989cb8980054f6e082f0b1bf7ae61e277d245b7b",
   "author": "flywind",
   "description": "Cryptographic signing for Nim.",
   "license": "BSD-3-Clause",
@@ -11,24 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@989cb8980054f6e082f0b1bf7ae61e277d245b7b^",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@989cb8980054f6e082f0b1bf7ae61e277d245b7b",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:34Z",
-  "allDeps": {
-    "packages": [],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-26T13:14:35Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -43,5 +29,10 @@
     "prerelease": [
       "v0.1.0"
     ]
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
   }
 }

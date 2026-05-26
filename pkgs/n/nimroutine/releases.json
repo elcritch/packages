@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimroutine",
   "fqn": "nim-routine.rogercloud.github.com",
-  "head": "9617a801ed52b22c7d015a9eca21d4b91822af98",
   "author": "Roger Shi",
   "description": "A go routine like nim implementation",
   "license": "MIT",
@@ -10,31 +9,23 @@
   "releases": [
     {
       "v": "0.1.2@f96b83b7565b50e74f85e7518f285f674d5ff5c5",
-      "r": [],
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.1@103e4e5b8607aa87fbf090a4126ed136efd8e173",
       "r": [],
       "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file",
-      "s": ""
+      "E": "missing nimble file"
     },
     {
       "v": "0.1.0@237f986b3afb5424b2b7bb3341b1e097e3fe5f95",
       "r": [],
       "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file",
-      "s": ""
-    },
-    {
-      "v": "#head@74ff85bb9d4e05c72cff1e0736ba1edf8cc45961",
-      "r": [],
-      "s": ""
+      "E": "missing nimble file"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:14Z",
+  "generatedAt": "2026-05-26T13:17:11Z",
   "allDeps": {
     "packages": [],
     "urls": [],

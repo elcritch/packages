@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "circleci_client",
   "fqn": "nim-circleci.FedericoCeratto.github.com",
-  "head": "6da50b7f8f60fb3b8c6cad6f003c6278c76e0900",
   "author": "Federico Ceratto",
   "description": "CircleCI API client",
   "license": "LGPLv3",
@@ -14,18 +13,11 @@
     {
       "v": "0.1.0@b4c0782597f21db8a22eb4933be212d77c07405e",
       "r": [],
-      "m": "~",
-      "p": []
-    },
-    {
-      "v": "#head@6da50b7f8f60fb3b8c6cad6f003c6278c76e0900",
-      "r": [],
-      "m": "~",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:13Z",
+  "generatedAt": "2026-05-26T13:13:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

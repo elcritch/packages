@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "cligpt",
   "fqn": "cligpt.thisago.github.com",
-  "head": "b9ec584eb35a085d076d76c6c249625d87de26f8",
   "author": "Thiago Navarro",
   "description": "Command line interface for ChatGPT",
   "license": "GPL-3.0",
@@ -19,8 +18,6 @@
         "cligen",
         "dirtygpt >= 0.1.0"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -30,25 +27,12 @@
         "cligen",
         "dirtygpt >= 0.1.0"
       ],
-      "m": "~",
-      "s": "",
-      "b": "",
-      "p": []
-    },
-    {
-      "v": "#head@b9ec584eb35a085d076d76c6c249625d87de26f8",
-      "r": [
-        "cligen",
-        "dirtygpt >= 0.1.0"
-      ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:17Z",
+  "generatedAt": "2026-05-26T13:13:04Z",
   "allDeps": {
     "packages": [
       "cligen",

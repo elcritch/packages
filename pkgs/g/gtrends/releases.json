@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "gtrends",
   "fqn": "gtrends.thisago.github.com",
-  "head": "2acf29e650ed61ad269e2cb2220e8a550d1efdb5",
   "author": "Thiago Navarro",
   "description": "Google Trends RSS",
   "license": "MIT",
@@ -13,29 +12,18 @@
       "v": "0.1.0@ff67543b9d985125a6948b80d0e5dd5421954979",
       "r": [
         "rss"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.1@2acf29e650ed61ad269e2cb2220e8a550d1efdb5^",
       "r": [
         "rss"
       ],
-      "m": "1.6.0",
-      "s": ""
-    },
-    {
-      "v": "#head@2acf29e650ed61ad269e2cb2220e8a550d1efdb5",
-      "r": [
-        "rss"
-      ],
-      "m": "1.6.0",
-      "s": ""
+      "m": "1.6.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:33Z",
+  "generatedAt": "2026-05-26T13:14:34Z",
   "allDeps": {
     "packages": [
       "rss"

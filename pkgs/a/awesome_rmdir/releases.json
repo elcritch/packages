@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "awesome_rmdir",
   "fqn": "awesome_rmdir.Araq.github.com",
-  "head": "b41cf9363819c52210f45df9cc31b9ffd2cf45b3",
   "releases": [
     {
       "v": "0.2.1@4f9cd95d85699fd89af056534a521afcc7e677b3",
@@ -15,16 +14,10 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file"
-    },
-    {
-      "v": "#head@b41cf9363819c52210f45df9cc31b9ffd2cf45b3",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:18Z",
+  "generatedAt": "2026-05-26T13:12:12Z",
   "allDeps": {
     "packages": [],
     "urls": [],

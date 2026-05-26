@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "pyrepr",
   "fqn": "pyrepr.nimpylib.github.com",
-  "head": "e940365283150b421a997b1fb69df53e5d8aabba",
   "author": "litlighilit",
   "description": "Python-like repr, ascii, hex/oct/bin, ...",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.1@d667ddb30c3dccb72f154957d12ac01efc53637f",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@e940365283150b421a997b1fb69df53e5d8aabba",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:57Z",
+  "generatedAt": "2026-05-26T13:18:23Z",
   "allDeps": {
     "packages": [],
     "urls": [],

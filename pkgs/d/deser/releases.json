@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "deser",
   "fqn": "deser.gabbhack.github.com",
-  "head": "efa0b92765fa84130aadb62344aec4e703f13805",
   "author": "gabbhack",
   "description": "De/serialization library for Nim",
   "license": "MIT",
@@ -16,58 +15,44 @@
     {
       "v": "0.3.2@326df8d323a622c6381290c1c0963b050ccaf865",
       "r": [],
-      "x": [],
-      "m": "~",
-      "s": ""
+      "x": []
     },
     {
       "v": "0.3.1@d980960bda219478cf141c1fc6d27206e15b6407",
       "r": [],
-      "x": [],
-      "m": "~",
-      "s": ""
+      "x": []
     },
     {
       "v": "0.3.0@30ec5dfad00a6bf3ffd62b51e8561751d8e23365",
       "r": [],
-      "x": [],
-      "m": "~",
-      "s": ""
+      "x": []
     },
     {
       "v": "0.2.1@7346b07978bbbff47b798662df72d92f1280a0bc",
       "r": [],
-      "x": [],
-      "m": "~",
-      "s": ""
+      "x": []
     },
     {
       "v": "0.2.0@125728c7b465b67cc98dd0f72c11e3f8dacfb952",
       "r": [],
-      "x": [],
-      "m": "~",
-      "s": ""
+      "x": []
     },
     {
       "v": "0.1.7@ca48c18dbcafe757ce1ad35be1d28745306e5e47",
       "r": [],
       "m": "1.4.0",
-      "x": [],
-      "s": ""
+      "x": []
     },
     {
       "v": "0.1.5@cd4606ede16989a9a58d885832bcf5c7ecd6ac09",
       "r": [],
-      "x": [],
-      "m": "~",
-      "s": ""
+      "x": []
     },
     {
       "v": "0.1.4@bf3629897ae79e817304ecab60ff7dbc214f5cf6",
       "r": [],
       "d": "De/serialization library for Nim ",
       "m": "1.4.2",
-      "s": "",
       "x": []
     },
     {
@@ -75,7 +60,6 @@
       "r": [],
       "d": "De/serialization library for Nim ",
       "m": "1.4.2",
-      "s": "",
       "x": []
     },
     {
@@ -83,7 +67,6 @@
       "r": [],
       "d": "De/serialization library for Nim ",
       "m": "1.4.2",
-      "s": "",
       "x": []
     },
     {
@@ -93,7 +76,6 @@
       ],
       "d": "De/serialization library for Nim ",
       "m": "1.4.2",
-      "s": "",
       "x": []
     },
     {
@@ -103,7 +85,6 @@
       ],
       "d": "De/serialization library for Nim ",
       "m": "1.4.2",
-      "s": "",
       "x": []
     },
     {
@@ -111,7 +92,6 @@
       "r": [],
       "d": "De/serialization library for Nim ",
       "m": "1.4.2",
-      "s": "",
       "x": []
     },
     {
@@ -121,19 +101,11 @@
       ],
       "d": "De/serialization library for Nim ",
       "m": "1.4.2",
-      "s": "",
       "x": []
-    },
-    {
-      "v": "#head@efa0b92765fa84130aadb62344aec4e703f13805",
-      "r": [],
-      "x": [],
-      "m": "~",
-      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:54Z",
+  "generatedAt": "2026-05-26T13:13:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

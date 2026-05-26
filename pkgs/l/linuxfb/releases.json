@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "linuxfb",
   "fqn": "linuxfb.nim.luked99.github.com",
-  "head": "ed5671d9aab99ca2c2fea74bea57b42e0a685c2d",
   "author": "Luke Diamand",
   "description": "Wrapper for <linux/fb.h> framebuffer ioctls",
   "license": "MIT",
@@ -10,22 +9,15 @@
   "releases": [
     {
       "v": "0.1.1@ed5671d9aab99ca2c2fea74bea57b42e0a685c2d^",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "0.1.0@7fc5726617a104a93ee87ef89dfff5ea13a7f869",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@ed5671d9aab99ca2c2fea74bea57b42e0a685c2d",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:00Z",
+  "generatedAt": "2026-05-26T13:15:34Z",
   "allDeps": {
     "packages": [],
     "urls": [],

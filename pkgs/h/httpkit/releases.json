@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "httpkit",
   "fqn": "httpkit.tulayang.github.com",
-  "head": "8e91b610fa93293df26db842c4099836ebb8c007",
   "author": "Wang Tong",
   "description": "An efficient HTTP tool suite written in pure nim. Help you to write HTTP services or clients via TCP, UDP, or even Unix Domain socket, etc.",
   "license": "MIT",
@@ -14,26 +13,17 @@
     {
       "v": "0.1.0@bca00628e5f411027b1f8ec115cad2cf8a631e0d",
       "r": [],
-      "m": "~",
       "y": []
     },
     {
       "v": "0.1.1@8e91b610fa93293df26db842c4099836ebb8c007^",
       "r": [],
       "d": "An efficient HTTP parser written in pure nim. Help you to write HTTP services or clients via TCP, UDP, or even Unix Domain socket, etc.",
-      "m": "~",
-      "y": []
-    },
-    {
-      "v": "#head@8e91b610fa93293df26db842c4099836ebb8c007",
-      "r": [],
-      "d": "An efficient HTTP parser written in pure nim. Help you to write HTTP services or clients via TCP, UDP, or even Unix Domain socket, etc.",
-      "m": "~",
       "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:57Z",
+  "generatedAt": "2026-05-26T13:14:52Z",
   "allDeps": {
     "packages": [],
     "urls": [],

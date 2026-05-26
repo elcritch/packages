@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimem",
   "fqn": "Nimem.qb-0.github.com",
-  "head": "0a61504898a42062102c0595c41b629cb5e8cb6e",
   "author": "Meow",
   "description": "Library for external memory manipulation on a windows process",
   "license": "MIT",
@@ -14,9 +13,7 @@
       "r": [
         "winim >= 3.6.0",
         "regex >= 0.19.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.2.0@17bc3d686165ca974bf3dd71b02a4ac26b4342f0",
@@ -24,23 +21,11 @@
         "winim"
       ],
       "a": "qb",
-      "d": "Cross platform library for external process memory manipulation",
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@0a61504898a42062102c0595c41b629cb5e8cb6e",
-      "r": [
-        "winim"
-      ],
-      "a": "qb",
-      "d": "Cross platform (windows, linux) library for external process memory manipulation",
-      "m": "~",
-      "s": ""
+      "d": "Cross platform library for external process memory manipulation"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:41Z",
+  "generatedAt": "2026-05-26T13:16:49Z",
   "allDeps": {
     "packages": [
       "graphemes <= 0.1.0",

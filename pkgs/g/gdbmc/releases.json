@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "gdbmc",
   "fqn": "gdbmc.nim.vycb.github.com",
-  "head": "5574c4db6b71f4b4c0b6de6626b575be15e6271b",
   "author": "vycb",
   "description": "This library is a wrapper to C GDBM one",
   "license": "MIT",
@@ -15,28 +14,17 @@
     {
       "v": "0.9.1@3b5963b967ecddc1df354de98d7dc894b85f26e1",
       "r": [],
-      "m": "~",
-      "s": "",
       "y": []
     },
     {
       "v": "0.9.0@3fa0d7876cbc9218e7986e421f3a62071800c1dc",
       "r": [],
       "d": "This library is a wrapper to C GDBM library.",
-      "m": "~",
-      "s": "",
-      "y": []
-    },
-    {
-      "v": "#head@5574c4db6b71f4b4c0b6de6626b575be15e6271b",
-      "r": [],
-      "m": "1.2",
-      "s": "",
       "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:04Z",
+  "generatedAt": "2026-05-26T13:14:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

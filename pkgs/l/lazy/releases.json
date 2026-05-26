@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "lazy",
   "fqn": "nimLazy.petermora.github.com",
-  "head": "dbd392ecd5ddd3f43233bbafbd7071cec7a00699",
   "author": "Peter Mora",
   "description": "Iterator library for Nim",
   "license": "MIT",
@@ -10,14 +9,10 @@
     {
       "v": "0.1.0@e77c675f7d1936ad78722770c1c25b191abbb4e6",
       "r": []
-    },
-    {
-      "v": "#head@dbd392ecd5ddd3f43233bbafbd7071cec7a00699",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:42Z",
+  "generatedAt": "2026-05-26T13:15:23Z",
   "allDeps": {
     "packages": [],
     "urls": [],

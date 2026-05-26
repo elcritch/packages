@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "genieos",
   "fqn": "genieos.Araq.github.com",
-  "head": "b883d016772036ccc81322d95dcca9ee856a5f4b",
   "author": "Grzegorz Adam Hankiewicz",
   "description": "Too awesome procs to be included in Nim's os module.",
   "license": "MIT",
@@ -34,14 +33,10 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file"
-    },
-    {
-      "v": "#head@b883d016772036ccc81322d95dcca9ee856a5f4b",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:08Z",
+  "generatedAt": "2026-05-26T13:14:19Z",
   "allDeps": {
     "packages": [],
     "urls": [],

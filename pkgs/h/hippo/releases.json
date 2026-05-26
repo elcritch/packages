@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "hippo",
   "fqn": "hippo.monofuel.github.com",
-  "head": "ae6b5061ba8dc37cec98ff4e418ed2661b116b4a",
   "author": "Andrew Brower",
   "description": "HIP library for Nim",
   "license": "MIT",
@@ -11,49 +10,31 @@
   "releases": [
     {
       "v": "0.10.0@9bf49399d06cdd6fb47c1ffad2f40df89e459902",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.9.1@8f7cb703db875186e22782bd33e80443d2bc0385",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.9.0@bc40abf73548521fdd83612924d3c166958e9015",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.8.0@88ac9138494c1bebdfe9f224109ac24920dbbd44",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.5.7@7d3b537cb7722d6b91a2a469a1afa817817aa288",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.5.2@44800af4eb6631ad9b8beb5981620ad462c7844f",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@ae6b5061ba8dc37cec98ff4e418ed2661b116b4a",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:46Z",
+  "generatedAt": "2026-05-26T13:14:42Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

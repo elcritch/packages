@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimaterial",
   "fqn": "nimaterial.momeemt.github.com",
-  "head": "b00288ec19905cfb3e740903ea898fe5180874c3",
   "author": "Momeemt",
   "description": "nimaterial is a CSS output library based on material design.",
   "license": "MIT",
@@ -13,21 +12,11 @@
       "v": "0.3.0@b00288ec19905cfb3e740903ea898fe5180874c3^",
       "r": [
         "Palette >= 0.1.0"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@b00288ec19905cfb3e740903ea898fe5180874c3",
-      "r": [
-        "Palette >= 0.1.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:29Z",
+  "generatedAt": "2026-05-26T13:16:40Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

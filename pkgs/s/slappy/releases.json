@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "slappy",
   "fqn": "slappy.treeform.github.com",
-  "head": "724d31b5b9203dd4144389a7256901fb81d7c9ea",
   "author": "Andre von Houck",
   "description": "3d sound API",
   "license": "MIT",
@@ -15,9 +14,7 @@
         "openal >= 0.2.0",
         "vmath >= 1.1.4",
         "supersnappy >= 2.1.3"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.3.3@241a885f8b3978c78a6ff38282bb2614fccdc1d3",
@@ -25,9 +22,7 @@
         "openal >= 0.2.0",
         "vmath >= 1.1.4",
         "supersnappy >= 2.1.3"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.3.2@1cf3e83f5bfc80dde65975e39d5e23bbf3246ce3",
@@ -35,9 +30,7 @@
         "openal >= 0.1.1",
         "vmath >= 1.1.4",
         "supersnappy >= 2.1.3"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.3.1@43bd685ef7de13ea4536ad2bcd9d4a91e657648e",
@@ -46,9 +39,7 @@
         "vmath >= 1.0.2",
         "supersnappy >= 1.0.0"
       ],
-      "a": "treeform",
-      "m": "~",
-      "s": ""
+      "a": "treeform"
     },
     {
       "v": "0.3.0@f4c4722d39a91f6ed68c61fa05fb21d92fb3bc43",
@@ -56,9 +47,7 @@
         "openal >= 0.1.0",
         "vmath >= 0.3.1"
       ],
-      "a": "treeform",
-      "m": "~",
-      "s": ""
+      "a": "treeform"
     },
     {
       "v": "0.2.0@7f1798e999dfcf3d931a6360d3a486dfe9b89801",
@@ -66,30 +55,17 @@
         "openal >= 0.1.0",
         "vmath >= 0.1.0"
       ],
-      "a": "treeform",
-      "m": "~",
-      "s": ""
+      "a": "treeform"
     },
     {
       "v": "0.1.0@f66535bd45f49d0d09fc562ef3363c9ba275d7fd",
       "r": [],
       "a": "treeform",
-      "m": "0.18.1",
-      "s": ""
-    },
-    {
-      "v": "#head@724d31b5b9203dd4144389a7256901fb81d7c9ea",
-      "r": [
-        "openal >= 0.2.0",
-        "vmath >= 1.1.4",
-        "supersnappy >= 2.1.3"
-      ],
-      "m": "~",
-      "s": ""
+      "m": "0.18.1"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:58Z",
+  "generatedAt": "2026-05-26T13:19:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

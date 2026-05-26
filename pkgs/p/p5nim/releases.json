@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "p5nim",
   "fqn": "p5nim.pietroppeter.github.com",
-  "head": "cee7207ba09dc5c090af18b8cc9e1e070fbc4aa6",
   "author": "Jacob Romano, Pietro Peterlongo",
   "description": "Nim bindings for p5.js",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@a02d481ccc111925ff4799468b64aa93c4fa0f68",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@cee7207ba09dc5c090af18b8cc9e1e070fbc4aa6",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:15Z",
+  "generatedAt": "2026-05-26T13:17:53Z",
   "allDeps": {
     "packages": [],
     "urls": [],

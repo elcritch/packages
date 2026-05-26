@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "iup",
   "fqn": "iup.nim-lang.github.com",
-  "head": "06a282580f50099b7bd712d7c0db1541dd548c40",
   "author": "Andreas Rumpf",
   "description": "Nim wrapper for IUP",
   "license": "MIT",
@@ -10,14 +9,10 @@
     {
       "v": "3.0.0@b3c3e0a969f04afb48d8eb2c7645e5c52127bbcb",
       "r": []
-    },
-    {
-      "v": "#head@06a282580f50099b7bd712d7c0db1541dd548c40",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:19Z",
+  "generatedAt": "2026-05-26T13:15:07Z",
   "allDeps": {
     "packages": [],
     "urls": [],

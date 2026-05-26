@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimtra",
   "fqn": "nimtra.nimmer-jp.github.com",
-  "head": "59398c623876a9a641a81318b6b05617f92dbe7a",
   "author": "nimtra contributors",
   "description": "Async-first ORM and libSQL client for Nim",
   "license": "MIT",
@@ -29,8 +28,6 @@
       "r": [
         "db_connector"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -40,8 +37,6 @@
       "r": [
         "db_connector"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -51,8 +46,6 @@
       "r": [
         "db_connector"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -62,8 +55,6 @@
       "r": [
         "db_connector"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -73,8 +64,6 @@
       "r": [
         "db_connector"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -84,8 +73,6 @@
       "r": [
         "db_connector"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -95,8 +82,6 @@
       "r": [
         "db_connector"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "k": [],
       "p": []
@@ -113,8 +98,6 @@
         ".nimble",
         ".nimcache"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -130,8 +113,6 @@
         ".nimble",
         ".nimcache"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -146,7 +127,6 @@
         ".nimcache"
       ],
       "m": "2.2.0",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -161,7 +141,6 @@
         ".nimcache"
       ],
       "m": "2.2.0",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -171,23 +150,11 @@
       "m": "2.2.0",
       "x": [],
       "k": [],
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@59398c623876a9a641a81318b6b05617f92dbe7a",
-      "r": [
-        "db_connector"
-      ],
-      "m": "~",
-      "s": "",
-      "x": [],
-      "k": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:24Z",
+  "generatedAt": "2026-05-26T13:17:18Z",
   "allDeps": {
     "packages": [
       "db_connector > 0.1.2"

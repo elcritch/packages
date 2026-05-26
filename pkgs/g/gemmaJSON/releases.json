@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "gemmaJSON",
   "fqn": "gemmaJSON.sainttttt.github.com",
-  "head": "1382d7c86a726d724503f73d0196f6c893e35c24",
   "author": "saint",
   "description": "json parsing library based on bindings of simdjson",
   "license": "Other",
@@ -11,20 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@a80abe992b8646964ea385fd7d8336909d54485b",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@1382d7c86a726d724503f73d0196f6c893e35c24",
-      "r": [],
-      "l": "Apache-2.0",
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:06Z",
+  "generatedAt": "2026-05-26T13:14:18Z",
   "allDeps": {
     "packages": [],
     "urls": [],

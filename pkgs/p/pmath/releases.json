@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "pmath",
   "fqn": "pmath.nlits-projects.github.com",
-  "head": "1dd9f5576e58c3fbd5aa86c7088c388cd02210ac",
   "author": "thatrandomperson5",
   "description": "library that resolves the inaccuracies of normal float math. ",
   "license": "MIT",
@@ -11,25 +10,15 @@
   "releases": [
     {
       "v": "0.1.1@a69262404c63b29c09e3b7628b1b6b0da5acc634",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.0@509bf75da318f4732f5528117fd0f3a37979d03d",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@1dd9f5576e58c3fbd5aa86c7088c388cd02210ac",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:38Z",
+  "generatedAt": "2026-05-26T13:18:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

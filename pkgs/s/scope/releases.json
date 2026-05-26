@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "scope",
   "fqn": "scope.thing-king.github.com",
-  "head": "2aad62a1500b8d69f6cc0fd4446665be3b65dbec",
   "author": "savannt",
   "description": "Scope tracking for untyped macros",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.00@c704770115667d14adea1c794655af0dd3898f13",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@2aad62a1500b8d69f6cc0fd4446665be3b65dbec",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:29Z",
+  "generatedAt": "2026-05-26T13:18:45Z",
   "allDeps": {
     "packages": [],
     "urls": [],

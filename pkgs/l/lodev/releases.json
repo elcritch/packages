@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "lodev",
   "fqn": "lodev.vandot.github.com",
-  "head": "c29c4df0fd7e4decd1f93c11948949ef2ee42164",
   "author": "vandot",
   "description": "Simple reverse proxy server for local development",
   "license": "MIT",
@@ -23,8 +22,6 @@
         "lodns >= 0.1.9",
         "locert"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "x": [],
       "p": []
@@ -36,8 +33,6 @@
         "lodns >= 0.1.9",
         "locert"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "x": [],
       "p": []
@@ -49,8 +44,6 @@
         "lodns",
         "locert"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "x": [],
       "p": []
@@ -63,28 +56,13 @@
         "locert #head"
       ],
       "d": "Simple proxy server for local development",
-      "m": "~",
-      "s": "",
-      "b": "",
-      "x": [],
-      "p": []
-    },
-    {
-      "v": "#head@c29c4df0fd7e4decd1f93c11948949ef2ee42164",
-      "r": [
-        "chronos",
-        "lodns >= 0.1.9",
-        "locert"
-      ],
-      "m": "~",
-      "s": "",
       "b": "",
       "x": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:07Z",
+  "generatedAt": "2026-05-26T13:15:40Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

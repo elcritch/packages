@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "ants",
   "fqn": "ants.elcritch.github.com",
-  "head": "e36f88e4332354d041103ac8c653a36150805a64",
   "author": "Jaremy Creechley",
   "description": "ANT: statically typed configurations for Nim (and others)",
   "license": "MIT",
@@ -25,8 +24,6 @@
         "flatty",
         "yaml"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -40,8 +37,6 @@
         "flatty",
         "yaml"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -56,7 +51,6 @@
         "yaml"
       ],
       "m": "1.6.10",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -70,8 +64,6 @@
         "flatty",
         "yaml"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -84,8 +76,6 @@
         "flatty",
         "yaml"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -99,8 +89,6 @@
       ],
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/ants.elcritch.github.com-fe653200-ants.nimble\ninvalid 'requires' syntax in nimble file: https://github.com/elcritch/nimscripter.git#add-compiler-deps >= 1.0.20",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -113,8 +101,6 @@
         "flatty",
         "yaml"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -127,8 +113,6 @@
         "flatty",
         "yaml"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -142,7 +126,6 @@
         "yaml"
       ],
       "m": "1.6.10",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -156,7 +139,6 @@
         "yaml"
       ],
       "m": "1.6.10",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -169,8 +151,6 @@
         "flatty",
         "yaml"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -183,8 +163,6 @@
         "flatty",
         "yaml"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -197,8 +175,6 @@
         "flatty",
         "yaml"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -213,8 +189,6 @@
       ],
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/ants.elcritch.github.com-f864ab2d-ants.nimble\ninvalid 'requires' syntax in nimble file: nim ~= 1.6.0",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -227,8 +201,6 @@
         "flatty",
         "yaml"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -241,8 +213,6 @@
         "flatty",
         "yaml"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -255,8 +225,6 @@
         "flatty",
         "yaml"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -269,8 +237,6 @@
         "flatty",
         "yaml"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -283,8 +249,6 @@
         "flatty",
         "yaml"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -297,8 +261,6 @@
         "flatty",
         "yaml"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -311,8 +273,6 @@
         "flatty",
         "yaml"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -325,8 +285,6 @@
         "flatty",
         "yaml"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -338,8 +296,6 @@
         "msgpack4nim >= 0.4.0",
         "flatty"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -351,8 +307,6 @@
         "msgpack4nim >= 0.4.0",
         "flatty"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -364,8 +318,6 @@
         "msgpack4nim >= 0.4.0",
         "flatty"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -377,8 +329,6 @@
         "msgpack4nim >= 0.4.0",
         "flatty"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -390,8 +340,6 @@
         "msgpack4nim >= 0.4.0",
         "flatty"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -403,8 +351,6 @@
         "msgpack4nim >= 0.4.0",
         "flatty"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -416,8 +362,6 @@
         "msgpack4nim >= 0.4.0",
         "flatty"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -429,8 +373,6 @@
         "msgpack4nim >= 0.4.0",
         "flatty"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -442,8 +384,6 @@
         "msgpack4nim",
         "flatty"
       ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
@@ -455,29 +395,12 @@
         "msgpack4nim",
         "flatty"
       ],
-      "m": "~",
-      "s": "",
-      "k": [],
-      "p": []
-    },
-    {
-      "v": "#head@e36f88e4332354d041103ac8c653a36150805a64",
-      "r": [
-        "Nimscripter >= 1.0.18",
-        "Nimscripter",
-        "cligen",
-        "msgpack4nim >= 0.4.0",
-        "flatty",
-        "yaml"
-      ],
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:47Z",
+  "generatedAt": "2026-05-26T13:11:56Z",
   "allDeps": {
     "packages": [
       "Nimscripter",

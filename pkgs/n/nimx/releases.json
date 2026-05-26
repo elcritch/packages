@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimx",
   "fqn": "nimx.yglukhov.github.com",
-  "head": "7a3f58cf5b25e7e58c27fd540a2155c19da28879",
   "author": "Yuriy Glukhov",
   "description": "GUI framework",
   "license": "MIT",
@@ -36,35 +35,10 @@
         "gh:yglukhov/clipboard"
       ],
       "i": []
-    },
-    {
-      "v": "#head@7a3f58cf5b25e7e58c27fd540a2155c19da28879",
-      "r": [
-        "sdl2",
-        "opengl",
-        "winim",
-        "nimsl >= 0.3",
-        "jnim",
-        "nake",
-        "plists",
-        "variant >= 0.3",
-        "kiwi",
-        "gh:yglukhov/ttf >= 0.2.9",
-        "gh:yglukhov/async_http_request",
-        "wasmrt",
-        "rect_packer",
-        "gh:yglukhov/android",
-        "darwin",
-        "os_files",
-        "gh:tormund/nester",
-        "nimwebp",
-        "gh:yglukhov/clipboard"
-      ],
-      "i": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:28Z",
+  "generatedAt": "2026-05-26T13:17:20Z",
   "allDeps": {
     "packages": [
       "classy",
@@ -75,12 +49,10 @@
       "jsbind",
       "kiwi",
       "nake",
-      "nimPNG",
       "nimboost",
       "nimfp",
       "nimsl",
       "nimwebp",
-      "oldgtk3",
       "opengl",
       "os_files",
       "patty",
@@ -88,10 +60,8 @@
       "rect_packer",
       "sdl2",
       "variant",
-      "wasmrt",
       "winim",
-      "x11",
-      "zippy"
+      "x11"
     ],
     "urls": [],
     "unresolved": [

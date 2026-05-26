@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimbench",
   "fqn": "nimbench.ivankoster.github.com",
-  "head": "48257dd66fbe9fa3aec034fdcf1cc7ef32fd90d6",
   "author": "Ivan Koster <ivankoster@gmail.com>",
   "description": "Micro benchmarking tool for Nim",
   "license": "Apache License, Version 2.0",
@@ -12,33 +11,23 @@
       "v": "0.2.1@48257dd66fbe9fa3aec034fdcf1cc7ef32fd90d6^",
       "r": [
         "strfmt >= 0.10.0"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.2.0@5f5207f7cac040da7d6d2b0b51a9348d306793d7",
       "r": [
         "strfmt >= 0.8.0"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.1.1@da3d0d6ff2384a1db0c5cbf53aa25b15607afa41",
       "r": [
         "strfmt >= 0.8.0"
-      ],
-      "m": "~"
-    },
-    {
-      "v": "#head@48257dd66fbe9fa3aec034fdcf1cc7ef32fd90d6",
-      "r": [
-        "strfmt >= 0.10.0"
-      ],
-      "m": "~"
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:30Z",
+  "generatedAt": "2026-05-26T13:16:41Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

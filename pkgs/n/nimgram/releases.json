@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimgram",
   "fqn": "nimgram.nimgram.github.com",
-  "head": "bd547ef07f6738462c976ce31babe9d2b4861c91",
   "author": "dadadani",
   "description": "MTProto client written in Nim",
   "license": "MIT",
@@ -19,9 +18,7 @@
         "gh:dadadani/bigints #646d857",
         "nimcrypto #a5742a9",
         "norm #2.5.2"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.0@c97083d5edc9b16153b962ee223ecf9ec9857da9",
@@ -33,26 +30,11 @@
         "gh:dadadani/nim-random #master"
       ],
       "h": true,
-      "m": "1.2.0",
-      "s": ""
-    },
-    {
-      "v": "#head@bd547ef07f6738462c976ce31babe9d2b4861c91",
-      "r": [
-        "gh:nimgram/tl-parser #v0.2.0",
-        "gh:nimgram/tl-types #v0.2.0",
-        "crc32 #c8ccad9",
-        "stint #d1acb42",
-        "gh:dadadani/bigints #646d857",
-        "nimcrypto #a5742a9",
-        "norm #2.5.2"
-      ],
-      "m": "~",
-      "s": ""
+      "m": "1.2.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:49Z",
+  "generatedAt": "2026-05-26T13:16:54Z",
   "allDeps": {
     "packages": [
       "chronicles > 0.1.0",
@@ -61,7 +43,6 @@
       "faststreams > 0.1.0",
       "fusion > 0.1.0",
       "gmp <= 0.1.0",
-      "intops",
       "json_serialization > 0.1.0",
       "jsony > 0.1.0",
       "lowdb > 0.1.0",

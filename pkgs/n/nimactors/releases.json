@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimactors",
   "fqn": "nimactors.vegansk.github.com",
-  "head": "b73c5040d8bb50b261bf7e13c8a25340aba6a733",
   "author": "Anatoly Galiulin <galiulin.anatoly@gmail.com>",
   "description": "Actors library for Nim",
   "license": "MIT",
@@ -14,22 +13,11 @@
       "r": [
         "nimfp >= 0.3.5",
         "nimboost >= 0.3.4"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@b73c5040d8bb50b261bf7e13c8a25340aba6a733",
-      "r": [
-        "nimfp >= 0.3.5",
-        "nimboost >= 0.3.4"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:27Z",
+  "generatedAt": "2026-05-26T13:16:38Z",
   "allDeps": {
     "packages": [
       "classy",

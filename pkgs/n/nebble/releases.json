@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nebble",
   "fqn": "nebble.Brokezawa.github.com",
-  "head": "24588ded0e323e5ca75deb9a95aa921f6a82d405",
   "author": "Brokezawa",
   "description": "Nim wrapper for the Pebble smartwatch SDK",
   "license": "MIT",
@@ -25,8 +24,6 @@
     {
       "v": "1.1.0@24588ded0e323e5ca75deb9a95aa921f6a82d405^",
       "r": [],
-      "m": "~",
-      "s": "",
       "b": "",
       "i": [],
       "j": [],
@@ -42,24 +39,11 @@
       "i": [],
       "j": [],
       "k": [],
-      "p": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@24588ded0e323e5ca75deb9a95aa921f6a82d405",
-      "r": [],
-      "m": "~",
-      "s": "",
-      "b": "",
-      "i": [],
-      "j": [],
-      "k": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:00Z",
+  "generatedAt": "2026-05-26T13:16:20Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

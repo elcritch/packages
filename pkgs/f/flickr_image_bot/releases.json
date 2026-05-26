@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "flickr_image_bot",
   "fqn": "flickr-image-bot.snus-kin.github.com",
-  "head": "862167f56ea24752ac71a3000e3a1578fc81ae3d",
   "author": "snus-kin",
   "description": "Twitter bot for fetching flickr images with tags",
   "license": "GPL-3.0",
@@ -17,22 +16,11 @@
       "r": [
         "twitter"
       ],
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@862167f56ea24752ac71a3000e3a1578fc81ae3d",
-      "r": [
-        "twitter"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:47:50Z",
+  "generatedAt": "2026-05-26T13:14:07Z",
   "allDeps": {
     "packages": [
       "isaac",

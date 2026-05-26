@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "lsblk",
   "fqn": "lsblk.nim.FyraLabs.github.com",
-  "head": "09e539cbec8ffad20bd14ee17be6e8cbe8318d92",
   "author": "madonuko",
   "description": "List out block-devices, including disks, partitions and their mountpoints",
   "license": "MIT",
@@ -13,37 +12,23 @@
       "v": "0.3.0@09e539cbec8ffad20bd14ee17be6e8cbe8318d92^",
       "r": [
         "results"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.2.1@f8b788e83a16e37bbef6018812fa7ca77adb8046",
       "r": [
         "results"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.2.0@bfb60aba71156bdda8172bb2daff267b5213610a",
       "r": [
         "results"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@09e539cbec8ffad20bd14ee17be6e8cbe8318d92",
-      "r": [
-        "results"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:13Z",
+  "generatedAt": "2026-05-26T13:15:45Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

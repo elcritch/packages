@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "joyent_http_parser",
   "fqn": "joyent_http_parser.nim-lang.github.com",
-  "head": "e7ca3516ff8418bf84d9b9359822672b2a8bb134",
   "author": "Zahary Karadjov",
   "description": "Joyent's high performance parser.",
   "license": "MIT",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "0.1.0@e7ca3516ff8418bf84d9b9359822672b2a8bb134^",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@e7ca3516ff8418bf84d9b9359822672b2a8bb134",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:23Z",
+  "generatedAt": "2026-05-26T13:15:10Z",
   "allDeps": {
     "packages": [],
     "urls": [],

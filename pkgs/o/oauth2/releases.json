@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "oauth2",
   "fqn": "oauth2.Niminem.github.com",
-  "head": "b48a2a14b3fbc20c9ff49477f93231077ed3e3da",
   "author": "Niminem",
   "description": "A comprehensive OAuth2 library for Nim with support for multiple grant types, PKCE (RFC 7636), and token management utilities.",
   "license": "MIT",
@@ -13,21 +12,11 @@
       "v": "0.1.0@b0dd146aed356c1f7886ae4ce2becfeca2ebcf59",
       "r": [
         "checksums"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@b48a2a14b3fbc20c9ff49477f93231077ed3e3da",
-      "r": [
-        "checksums"
-      ],
-      "m": "2.0.0",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:57Z",
+  "generatedAt": "2026-05-26T13:17:41Z",
   "allDeps": {
     "packages": [
       "checksums"

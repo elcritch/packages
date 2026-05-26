@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "asyncredis",
   "fqn": "redis.nim.Q-Master.github.com",
-  "head": "07ea37d6d4ffd1018ac592fa9c3fbafd14c37c5b",
   "author": "Vladimir Berezenko <qmaster2000@gmail.com>",
   "description": "Pure Nim asyncronous driver for Redis DB",
   "license": "MIT",
@@ -12,33 +11,23 @@
       "v": "0.8.2@07ea37d6d4ffd1018ac592fa9c3fbafd14c37c5b^",
       "r": [
         "networkutils >= 0.2"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.8.1@48afab0766fc5cc7eef1c912623f7b85a33ed136",
       "r": [
         "networkutils"
-      ],
-      "m": "~"
+      ]
     },
     {
       "v": "0.8@27e0413486bd9b2eaefa7071143ea883208fc315",
       "r": [
         "ptr_math"
-      ],
-      "m": "~"
-    },
-    {
-      "v": "#head@07ea37d6d4ffd1018ac592fa9c3fbafd14c37c5b",
-      "r": [
-        "networkutils >= 0.2"
-      ],
-      "m": "~"
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:03Z",
+  "generatedAt": "2026-05-26T13:12:07Z",
   "allDeps": {
     "packages": [
       "networkutils > 0.8",

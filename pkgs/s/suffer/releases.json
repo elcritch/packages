@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "suffer",
   "fqn": "suffer.emekoi.github.com",
-  "head": "773dcff99a4ab2575f9c296949009a0485c32c53",
   "author": "emekoi",
   "description": "a nim library for drawing 2d shapes and images to 32bit software pixel buffers",
   "license": "MIT",
@@ -16,16 +15,12 @@
     {
       "v": "0.1.0@3c66694e690832351a852ee22dff412024976e22",
       "r": [],
-      "x": [],
-      "m": "~",
-      "s": ""
+      "x": []
     },
     {
       "v": "0.1.2@7966135a2d669dc874a6a9007606092f66e2afec",
       "r": [],
       "d": "a nim library for drawing 2d shapes, text, and images to 32bit software pixel buffers",
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
@@ -33,20 +28,11 @@
       "r": [],
       "d": "a nim library for drawing 2d shapes, text, and images to 32bit software pixel buffers",
       "m": "1.2.2",
-      "s": "",
-      "x": []
-    },
-    {
-      "v": "#head@773dcff99a4ab2575f9c296949009a0485c32c53",
-      "r": [],
-      "d": "a nim library for drawing 2d shapes, text, and images to 32bit software pixel buffers",
-      "m": "1.2.2",
-      "s": "",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:55:26Z",
+  "generatedAt": "2026-05-26T13:19:24Z",
   "allDeps": {
     "packages": [],
     "urls": [],

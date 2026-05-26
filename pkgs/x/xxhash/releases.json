@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "xxhash",
   "fqn": "xxhash.nim.OpenSystemsLab.github.com",
-  "head": "dbe31c708115cd0e065e72f22c25cd7b1bdc491c",
   "author": "Huy Doan",
   "description": "xxhash wrapper for Nim",
   "license": "MIT",
@@ -10,52 +9,39 @@
   "releases": [
     {
       "v": "0.12.1@dbe31c708115cd0e065e72f22c25cd7b1bdc491c^",
-      "r": [],
-      "s": ""
+      "r": []
     },
     {
       "v": "0.12.0@b66e7945d5ca996a5d5db09f499bfa9cc2172115",
-      "r": [],
-      "s": ""
+      "r": []
     },
     {
       "v": "0.11.0@ad3c018623c0ced4c4a578564a9c2e35248716f7",
-      "r": [],
-      "s": ""
+      "r": []
     },
     {
       "v": "0.10.0@e5823374ad1dc49bc139d0762a82e6748ad2530e",
-      "r": [],
-      "s": ""
+      "r": []
     },
     {
       "v": "0.9.0@3277b646849f0b4afa41eab5de069899e1364d11",
-      "r": [],
-      "s": ""
+      "r": []
     },
     {
       "v": "0.8.0@818ac3f9e84930e86a04f45efc6a61a1d77d83cc",
-      "r": [],
-      "s": ""
+      "r": []
     },
     {
       "v": "0.7.1@8e3afa425a435c5e89e1c5e59e425a04cae7ab56",
-      "r": [],
-      "s": ""
+      "r": []
     },
     {
       "v": "0.7.0@9d4ca02ded75122796062537c6def2296f2b32b6",
-      "r": [],
-      "s": ""
-    },
-    {
-      "v": "#head@dbe31c708115cd0e065e72f22c25cd7b1bdc491c",
-      "r": [],
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:57:15Z",
+  "generatedAt": "2026-05-26T13:20:41Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

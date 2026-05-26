@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "logit",
   "fqn": "Logit.Miqueas.github.com",
-  "head": "9a96e58dbde9efba9aaa2aae55272dc0b0802224",
   "author": "Miqueas Martinez",
   "description": "Dependency-free, cross-platform and small logging library for Lua and Nim, with a simple and comfortable API",
   "license": "Zlib",
@@ -15,7 +14,6 @@
     {
       "v": "1.0.0@04ac2aa51d9618fc7b5b3a23601643561620b88c",
       "r": [],
-      "m": "~",
       "j": []
     },
     {
@@ -61,16 +59,10 @@
       "r": [],
       "m": "1.0.0",
       "j": []
-    },
-    {
-      "v": "#head@9a96e58dbde9efba9aaa2aae55272dc0b0802224",
-      "r": [],
-      "m": "~",
-      "j": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:08Z",
+  "generatedAt": "2026-05-26T13:15:41Z",
   "allDeps": {
     "packages": [],
     "urls": [],

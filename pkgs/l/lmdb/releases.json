@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "lmdb",
   "fqn": "nim-lmdb.FedericoCeratto.github.com",
-  "head": "88e384acc3f0d7bb627dc0a0602d1f451fd34e35",
   "author": "Federico Ceratto",
   "description": "LMDB wrapper",
   "license": "OpenLDAP Public license",
@@ -14,30 +13,21 @@
     {
       "v": "0.1.2@88e384acc3f0d7bb627dc0a0602d1f451fd34e35^",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.1.1@7976126cce3eabe58cf6aef099382f3bbcf2dc3f",
       "r": [],
-      "m": "~",
       "x": []
     },
     {
       "v": "0.1.0@6ccc92cb92841aca9bad5426076840f8aed04c8d",
       "r": [],
-      "m": "~",
-      "x": []
-    },
-    {
-      "v": "#head@88e384acc3f0d7bb627dc0a0602d1f451fd34e35",
-      "r": [],
-      "m": "~",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:03Z",
+  "generatedAt": "2026-05-26T13:15:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

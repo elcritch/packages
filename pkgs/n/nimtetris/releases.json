@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimtetris",
   "fqn": "nimtetris.jiro4989.github.com",
-  "head": "fc40d5b92729eab20f936a485259f76d6845bfb4",
   "author": "jiro4989",
   "description": "A simple terminal tetris in Nim",
   "license": "MIT",
@@ -18,8 +17,6 @@
       "r": [
         "illwill >= 0.1.0"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -28,8 +25,6 @@
       "r": [
         "illwill >= 0.1.0"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -38,8 +33,6 @@
       "r": [
         "illwill >= 0.1.0"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -48,8 +41,6 @@
       "r": [
         "illwill >= 0.1.0"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -58,8 +49,6 @@
       "r": [
         "illwill >= 0.1.0"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -68,8 +57,6 @@
       "r": [
         "illwill >= 0.1.0"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -78,8 +65,6 @@
       "r": [
         "illwill >= 0.1.0"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -88,8 +73,6 @@
       "r": [
         "illwill >= 0.1.0"
       ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     },
@@ -99,24 +82,12 @@
         "illwill >= 0.1.0"
       ],
       "d": "Terminal tetris",
-      "m": "~",
-      "s": "",
-      "b": "",
-      "p": []
-    },
-    {
-      "v": "#head@fc40d5b92729eab20f936a485259f76d6845bfb4",
-      "r": [
-        "illwill >= 0.1.0"
-      ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:21Z",
+  "generatedAt": "2026-05-26T13:17:16Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "sha1ext",
   "fqn": "sha1ext.CORDEA.github.com",
-  "head": "0e52f8b74cb1e68e0ac5d5ab513260697a237e86",
   "author": "Yoshihiro Tanaka",
   "description": "std / sha1 extension",
   "license": "Apache License 2.0",
@@ -11,25 +10,15 @@
   "releases": [
     {
       "v": "0.1.1@0e52f8b74cb1e68e0ac5d5ab513260697a237e86^",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1@d51e1c6e200f385b90817650e97d383ac6a52448",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@0e52f8b74cb1e68e0ac5d5ab513260697a237e86",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:42Z",
+  "generatedAt": "2026-05-26T13:18:54Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

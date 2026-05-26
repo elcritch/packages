@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "jwt",
   "fqn": "nim-jwt.yglukhov.github.com",
-  "head": "710fd315b0199f6abb17c97fb58f64987ec2be11",
   "author": "Endre Karlson",
   "description": "JSON Web Tokens for Nim",
   "license": "MIT",
@@ -11,9 +10,7 @@
   "releases": [
     {
       "v": "0.0.1@0611567742958db33429b12827646e354d8096cc",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2@22e6c3126535cdfef5313b8b640140ca57ecd663",
@@ -22,9 +19,7 @@
         "bearssl",
         "gh:yglukhov/bearssl_pkey_decoder"
       ],
-      "a": "Yuriy Glukhov",
-      "s": "",
-      "m": "~"
+      "a": "Yuriy Glukhov"
     },
     {
       "v": "0.3@4c7c370574519b8ec812ca2013ca46e0dcbbd887",
@@ -33,22 +28,11 @@
         "gh:yglukhov/bearssl_pkey_decoder"
       ],
       "a": "Yuriy Glukhov",
-      "m": "2.0",
-      "s": ""
-    },
-    {
-      "v": "#head@710fd315b0199f6abb17c97fb58f64987ec2be11",
-      "r": [
-        "bearssl >= 0.2.8",
-        "gh:yglukhov/bearssl_pkey_decoder"
-      ],
-      "a": "Yuriy Glukhov",
-      "m": "2.0",
-      "s": ""
+      "m": "2.0"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:29Z",
+  "generatedAt": "2026-05-26T13:15:15Z",
   "allDeps": {
     "packages": [
       "bearssl > 0.0.1",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nordaudio",
   "fqn": "nordaudio.Psirus.github.com",
-  "head": "dcc5ca5ce5d477fb6c145d37386b517347867151",
   "author": "Christoph Pohl",
   "description": "A wrapper for PortAudio",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "0.1.0@e111ad81bb5cec81d13953562ab8f5625c79caac",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@dcc5ca5ce5d477fb6c145d37386b517347867151",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:40Z",
+  "generatedAt": "2026-05-26T13:17:30Z",
   "allDeps": {
     "packages": [],
     "urls": [],

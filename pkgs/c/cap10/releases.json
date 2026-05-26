@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "cap10",
   "fqn": "cap10.crashappsec.github.com",
-  "head": "ff5eab30d6069f98c850b09688886958b1c9c085",
   "author": "John Viega",
   "description": "A tool to capture and replay command line terminal sessions",
   "license": "Apache-2.0",
@@ -17,8 +16,6 @@
       "r": [
         "gh:crashappsec/nimutils #ec728cf7c1bc0fd19ca203fe3504abbfe127e6bd"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -26,25 +23,11 @@
       "r": [
         "gh:crashappsec/nimutils #0dc81b58f5884a0cb7a5c22404362e6c91191f9c"
       ],
-      "m": "~",
-      "s": "",
       "p": []
-    },
-    {
-      "v": "#head@ff5eab30d6069f98c850b09688886958b1c9c085",
-      "r": [
-        "gh:crashappsec/nimutils #de08f11339ccd5d06079747271329b29ca9e27a9"
-      ],
-      "p": [
-        "cap10",
-        "demo"
-      ],
-      "m": "~",
-      "s": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:57Z",
+  "generatedAt": "2026-05-26T13:12:48Z",
   "allDeps": {
     "packages": [],
     "urls": [],

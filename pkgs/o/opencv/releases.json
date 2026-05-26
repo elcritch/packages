@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "opencv",
   "fqn": "nim-opencv.dom96.github.com",
-  "head": "e1e3d57166fa3bc9e840184e038e5e1288809997",
   "author": "Dominik Picheta",
   "description": "OpenCV wrapper",
   "license": "MIT",
@@ -10,14 +9,10 @@
     {
       "v": "0.1.0@50b085eb6fc512d0d7da8c346ba7b66df4b8b4b3",
       "r": []
-    },
-    {
-      "v": "#head@e1e3d57166fa3bc9e840184e038e5e1288809997",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:05Z",
+  "generatedAt": "2026-05-26T13:17:47Z",
   "allDeps": {
     "packages": [],
     "urls": [],

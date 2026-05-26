@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "mike",
   "fqn": "mike.ire4ever1190.github.com",
-  "head": "19280b1f36965e54e3c23cdf7c9b6985b006cf09",
   "author": "Jake Leahy",
   "description": "A very simple micro web framework",
   "license": "MIT",
@@ -21,8 +20,6 @@
         "zippy >= 0.10.3",
         "httpx >= 0.3.7"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "y": []
     },
@@ -32,8 +29,6 @@
         "zippy >= 0.10.3",
         "httpx >= 0.3.7"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "y": []
     },
@@ -43,8 +38,6 @@
         "zippy >= 0.10.3",
         "httpx >= 0.3.7"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "y": []
     },
@@ -54,8 +47,6 @@
         "zippy >= 0.10.3",
         "httpx >= 0.3.7"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "y": []
     },
@@ -65,8 +56,6 @@
         "zippy >= 0.10.3",
         "httpx >= 0.3.7"
       ],
-      "m": "~",
-      "s": "",
       "x": [],
       "y": []
     },
@@ -77,7 +66,6 @@
         "websocketx >= 0.1.2"
       ],
       "m": "1.4.2",
-      "s": "",
       "x": [],
       "y": []
     },
@@ -88,7 +76,6 @@
         "websocketx >= 0.1.2"
       ],
       "m": "1.4.2",
-      "s": "",
       "x": [],
       "y": []
     },
@@ -100,8 +87,7 @@
       ],
       "m": "1.4.2",
       "x": [],
-      "y": [],
-      "s": ""
+      "y": []
     },
     {
       "v": "1.0.0@233ca1b478db0f3c6436b4f76ab1f7162e50a4cc",
@@ -111,48 +97,22 @@
       ],
       "m": "1.4.2",
       "x": [],
-      "y": [],
-      "s": ""
-    },
-    {
-      "v": "#head@19280b1f36965e54e3c23cdf7c9b6985b006cf09",
-      "r": [
-        "zippy >= 0.10.3",
-        "httpx >= 0.3.8",
-        "chronicles >= 0.12.0",
-        "gh:ire4ever1190/casserole >= 0.3.0",
-        "gh:ire4ever1190/nort >= 0.4.1"
-      ],
-      "m": "2.2.4",
-      "s": "",
-      "x": [],
       "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:33Z",
+  "generatedAt": "2026-05-26T13:16:00Z",
   "allDeps": {
     "packages": [
-      "chronicles",
-      "faststreams",
       "httpx",
       "ioselectors",
-      "json_serialization",
-      "results",
-      "serialization",
-      "stew",
-      "testutils",
       "timerwheel",
-      "unittest2",
       "websocketx <= 1.2.1",
       "wepoll",
       "ws <= 1.2.1",
       "zippy > 1.2.1"
     ],
     "urls": [],
-    "unresolved": [
-      "gh:ire4ever1190/casserole",
-      "gh:ire4ever1190/nort"
-    ]
+    "unresolved": []
   }
 }

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "aporia",
   "fqn": "Aporia.nim-lang.github.com",
-  "head": "3273cb144172deb2dae615191b30a62093c365ee",
   "author": "Dominik Picheta",
   "description": "A Nim IDE.",
   "license": "GPLv2",
@@ -36,29 +35,10 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file"
-    },
-    {
-      "v": "#head@3273cb144172deb2dae615191b30a62093c365ee",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:58Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "v0.4.0",
-      "v0.4.1"
-    ],
-    "tagVersions": {
-      "v0.4.0": "0.4.0",
-      "v0.4.1": "0.4.1"
-    },
-    "latest": "v0.4.1"
-  },
+  "generatedAt": "2026-05-26T13:11:58Z",
   "allDeps": {
     "packages": [],
     "urls": [],

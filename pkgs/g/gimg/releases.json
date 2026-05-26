@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "gimg",
   "fqn": "gimg.thisago.github.com",
-  "head": "da558974a05fdb86a202d862ba1f279e25c19c3b",
   "author": "Luciano Lorenzo",
   "description": "Google Images scraper lib and CLI",
   "license": "MIT",
@@ -20,18 +19,16 @@
       "v": "0.1.0@02a6e17c5b06179c79c7fb9f39dd93a05c311389",
       "r": [],
       "b": "",
-      "m": "~",
-      "s": "",
       "k": [],
       "p": []
     },
     {
       "v": "1.1.0@76ecfcbed1a19c0d5addbc1c9f8db3a7217fc5e2",
       "r": [
-        "gl:lurlo/useragent"
+        "error://useragent"
       ],
-      "m": "~",
-      "s": "",
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/gimg.thisago.github.com-76ecfcbe-gimg.nimble\ncannot resolve package name: useragent",
       "b": "",
       "k": [],
       "p": []
@@ -39,10 +36,10 @@
     {
       "v": "1.1.1@3b519017661c667e3c207d5681742d5f08e729e7",
       "r": [
-        "gl:lurlo/useragent"
+        "error://useragent"
       ],
-      "m": "~",
-      "s": "",
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/gimg.thisago.github.com-3b519017-gimg.nimble\ncannot resolve package name: useragent",
       "b": "",
       "k": [],
       "p": []
@@ -50,10 +47,11 @@
     {
       "v": "1.2.2@ed05e7daf6ed58a33546d817bd73b72899a1355a",
       "r": [
-        "gl:lurlo/useragent"
+        "error://useragent"
       ],
       "m": "1.6.4",
-      "s": "",
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/gimg.thisago.github.com-ed05e7da-gimg.nimble\ncannot resolve package name: useragent",
       "b": "",
       "k": [],
       "p": []
@@ -66,33 +64,20 @@
       "a": "Thiago Navarro",
       "d": "Google Images scraper lib",
       "m": "1.6.4",
-      "s": "",
-      "b": "",
-      "k": [],
-      "p": []
-    },
-    {
-      "v": "#head@da558974a05fdb86a202d862ba1f279e25c19c3b",
-      "r": [
-        "gh:thisago/useragent"
-      ],
-      "a": "Thiago Navarro",
-      "d": "Google Images scraper lib",
-      "m": "1.6.4",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:48:16Z",
+  "generatedAt": "2026-05-26T13:14:22Z",
   "allDeps": {
     "packages": [],
-    "urls": [],
+    "urls": [
+      "error://useragent > 0.1.0 & <= 1.2.2"
+    ],
     "unresolved": [
-      "gh:thisago/useragent",
-      "gl:lurlo/useragent"
+      "gh:thisago/useragent"
     ]
   }
 }

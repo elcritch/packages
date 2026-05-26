@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "argument_parser",
   "fqn": "argument_parser.Xe.github.com",
-  "head": "920be52019e7511387361228c1f9b7b00500764a",
   "author": "Grzegorz Adam Hankiewicz",
   "description": "Provides a complex commandline parser.",
   "license": "MIT",
@@ -26,14 +25,10 @@
     {
       "v": "0.4.3@727d582d00f98c8cb3fa910f6510b85f69880124",
       "r": []
-    },
-    {
-      "v": "#head@920be52019e7511387361228c1f9b7b00500764a",
-      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:53Z",
+  "generatedAt": "2026-05-26T13:11:59Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "meow",
   "fqn": "meow.disruptek.github.com",
-  "head": "d62bfb605a8bcea67d58e7b930c41cbfdab17f88",
   "author": "genotrance",
   "description": "meowhash wrapper for Nim",
   "license": "MIT",
@@ -36,18 +35,10 @@
       ],
       "j": [],
       "p": []
-    },
-    {
-      "v": "#head@d62bfb605a8bcea67d58e7b930c41cbfdab17f88",
-      "r": [
-        "nimterop >= 0.6.8"
-      ],
-      "j": [],
-      "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:28Z",
+  "generatedAt": "2026-05-26T13:15:56Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

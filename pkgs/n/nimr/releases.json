@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimr",
   "fqn": "nimr.Jeff-Ciesielski.github.com",
-  "head": "9fcd05ba57402035d53d6cdece99668d12dee8e1",
   "author": "Jeff Ciesielski",
   "description": "Helper to run nim code like a script",
   "license": "MIT",
@@ -14,19 +13,11 @@
     {
       "v": "0.1.0@6d7bec3839eb68ed009b323d1e51cb9a5681b7d9",
       "r": [],
-      "m": "~",
-      "p": []
-    },
-    {
-      "v": "#head@9fcd05ba57402035d53d6cdece99668d12dee8e1",
-      "r": [],
-      "s": "src",
-      "m": "~",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:13Z",
+  "generatedAt": "2026-05-26T13:17:10Z",
   "allDeps": {
     "packages": [],
     "urls": [],

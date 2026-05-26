@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "migrate",
   "fqn": "migrate.nim.euantorano.github.com",
-  "head": "e66d76ff8af0de1eaa3c0a1efccd0770b20fbb80",
   "author": "Euan T",
   "description": "A database migration tool written in Nim.",
   "license": "BSD3",
@@ -16,20 +15,11 @@
       "r": [
         "docopt >= 0.6.2"
       ],
-      "m": "~",
-      "p": []
-    },
-    {
-      "v": "#head@e66d76ff8af0de1eaa3c0a1efccd0770b20fbb80",
-      "r": [
-        "docopt >= 0.6.2"
-      ],
-      "m": "~",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:32Z",
+  "generatedAt": "2026-05-26T13:15:59Z",
   "allDeps": {
     "packages": [
       "docopt",

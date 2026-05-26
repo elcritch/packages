@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "asynctools",
   "fqn": "asynctools.cheatfate.github.com",
-  "head": "a1a17d06713727d97810cad291e29dd7c672738f",
   "author": "Eugene Kabanov",
   "description": "Various asynchronous tools for Nim",
   "license": "MIT",
@@ -10,22 +9,16 @@
   "releases": [
     {
       "v": "0.1.0@809a836e5d9e74daa3d37127a5012cb58681a1a2",
-      "r": [],
-      "m": "~"
+      "r": []
     },
     {
       "v": "0.1.1@a314fb8d18a08954fc7ea43e40673acb348ce7cc",
       "r": [],
       "m": "0.19.4"
-    },
-    {
-      "v": "#head@a1a17d06713727d97810cad291e29dd7c672738f",
-      "r": [],
-      "m": "0.19.4"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:04Z",
+  "generatedAt": "2026-05-26T13:12:08Z",
   "allDeps": {
     "packages": [],
     "urls": [],

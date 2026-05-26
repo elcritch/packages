@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "onedrive",
   "fqn": "nim_onedrive.ThomasTJdev.github.com",
-  "head": "4e7b261dbb03c1e3e98d34f68972f20bdcc4cf44",
   "author": "ThomasTJdev",
   "description": "Get information on files and folders in OneDrive.",
   "license": "MIT",
@@ -13,21 +12,11 @@
       "v": "0.0.1@4e7b261dbb03c1e3e98d34f68972f20bdcc4cf44^",
       "r": [
         "packedjson >= 0.1.0"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@4e7b261dbb03c1e3e98d34f68972f20bdcc4cf44",
-      "r": [
-        "packedjson >= 0.1.0"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:01Z",
+  "generatedAt": "2026-05-26T13:17:44Z",
   "allDeps": {
     "packages": [
       "packedjson"

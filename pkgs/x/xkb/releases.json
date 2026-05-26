@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "xkb",
   "fqn": "nim-xkbcommon.j-james.github.com",
-  "head": "4c0f36b4632e185201d7f24819a4b0d138563221",
   "author": "j-james",
   "description": "A lightweight wrapper around libxkbcommon.",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "1.4.1@5e0c0d2c55b872633c7a1ffd0ea6b2959ac97ca9",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@4c0f36b4632e185201d7f24819a4b0d138563221",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:57:09Z",
+  "generatedAt": "2026-05-26T13:20:36Z",
   "allDeps": {
     "packages": [],
     "urls": [],

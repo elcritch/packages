@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "libvlc",
   "fqn": "nim-libvlc.nimbackup.github.com",
-  "head": "a07f882e08019eb0325d8253741fe878d6d2f2d2",
   "author": "Yardanico",
   "description": "libvlc bindings for Nim",
   "license": "MIT",
@@ -13,31 +12,18 @@
       "v": "0.1.0@fcdb9a5a00a268e7ba6e0c3a8872bd84148c3d0a",
       "r": [
         "nimterop"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.2.0@a07f882e08019eb0325d8253741fe878d6d2f2d2^",
       "r": [
         "futhark"
       ],
-      "a": "Danil Yarantsev (Yardanico)",
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@a07f882e08019eb0325d8253741fe878d6d2f2d2",
-      "r": [
-        "futhark"
-      ],
-      "a": "Danil Yarantsev (Yardanico)",
-      "m": "~",
-      "s": ""
+      "a": "Danil Yarantsev (Yardanico)"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:57Z",
+  "generatedAt": "2026-05-26T13:15:32Z",
   "allDeps": {
     "packages": [
       "cligen <= 0.1.0",

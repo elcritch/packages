@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "onnxruntime",
   "fqn": "onnxruntime-nim.YesDrX.github.com",
-  "head": "90ead4efb09c5d897dd0696f6d04a9cbb64892cb",
   "author": "YesDrX",
   "description": "onnxruntime c Api wrapped for nim.",
   "license": "MIT",
@@ -10,22 +9,11 @@
   "releases": [
     {
       "v": "0.1.0@60379435f003a52022e065f40dada435c12f0eeb",
-      "r": [],
-      "s": ""
-    },
-    {
-      "v": "#head@90ead4efb09c5d897dd0696f6d04a9cbb64892cb",
-      "r": [],
-      "s": "src",
-      "x": [
-        "sample",
-        "lib",
-        "include"
-      ]
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:53:03Z",
+  "generatedAt": "2026-05-26T13:17:45Z",
   "allDeps": {
     "packages": [],
     "urls": [],

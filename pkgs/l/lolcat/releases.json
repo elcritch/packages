@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "lolcat",
   "fqn": "lolcat.nim.OHermesJunior.github.com",
-  "head": "91640e98df068607cf0ccc8158e50c4fffa24332",
   "author": "OHermesJunior",
   "description": "lolcat implementation in Nim",
   "license": "MIT",
@@ -14,18 +13,11 @@
     {
       "v": "0.1.0@190cb04a9856ea8d20897d421d14718c09c97145",
       "r": [],
-      "m": "~",
-      "p": []
-    },
-    {
-      "v": "#head@91640e98df068607cf0ccc8158e50c4fffa24332",
-      "r": [],
-      "m": "~",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:50:09Z",
+  "generatedAt": "2026-05-26T13:15:41Z",
   "allDeps": {
     "packages": [],
     "urls": [],

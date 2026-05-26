@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "niledb",
   "fqn": "niledb.JeffersonLab.github.com",
-  "head": "92d058ee0a776f6e84ec20a41b2cd774a26d6a12",
   "author": "Jie Chen and Robert Edwards",
   "description": "Key/Value storage into a fast file-hash",
   "license": "MIT",
@@ -22,7 +21,6 @@
       ],
       "h": true,
       "x": [],
-      "m": "~",
       "i": []
     },
     {
@@ -32,7 +30,6 @@
       ],
       "h": true,
       "x": [],
-      "m": "~",
       "i": []
     },
     {
@@ -42,7 +39,6 @@
       ],
       "h": true,
       "x": [],
-      "m": "~",
       "i": []
     },
     {
@@ -64,20 +60,10 @@
       "m": "0.17.0",
       "i": [],
       "x": []
-    },
-    {
-      "v": "#head@92d058ee0a776f6e84ec20a41b2cd774a26d6a12",
-      "r": [
-        "serializetools >= 1.16.0"
-      ],
-      "h": true,
-      "x": [],
-      "m": "~",
-      "i": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:12Z",
+  "generatedAt": "2026-05-26T13:16:28Z",
   "allDeps": {
     "packages": [
       "serializetools"

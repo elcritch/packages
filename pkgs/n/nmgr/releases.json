@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nmgr",
   "fqn": "nmgr.cycneuramus.github.com",
-  "head": "943f3fe42e147511c1d4c8fc0f3f74cb6bde6fdb",
   "author": "cycneuramus",
   "description": "Programmatically manage jobs in a Nomad cluster",
   "license": "GPL-3.0-only",
@@ -17,8 +16,6 @@
       "r": [
         "argparse >= 4.0.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -26,8 +23,6 @@
       "r": [
         "argparse >= 4.0.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -35,8 +30,6 @@
       "r": [
         "argparse >= 4.0.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -44,8 +37,6 @@
       "r": [
         "argparse >= 4.0.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -53,8 +44,6 @@
       "r": [
         "argparse >= 4.0.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -62,8 +51,6 @@
       "r": [
         "argparse >= 4.0.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -71,8 +58,6 @@
       "r": [
         "argparse >= 4.0.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -80,8 +65,6 @@
       "r": [
         "argparse >= 4.0.2"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -89,8 +72,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -98,8 +79,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -107,8 +86,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -116,8 +93,6 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -125,22 +100,11 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
-      "m": "~",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@943f3fe42e147511c1d4c8fc0f3f74cb6bde6fdb",
-      "r": [
-        "argparse >= 4.0.2"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:34Z",
+  "generatedAt": "2026-05-26T13:17:24Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

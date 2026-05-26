@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "pager",
   "fqn": "nim-pager.~reesmichael1.git.sr.ht",
-  "head": "eab3163332d96b29755741b82383f7a36e92ba12",
   "author": "Michael Rees",
   "description": "A simple library for paging, similar to less",
   "license": "GPL-3.0",
@@ -19,24 +18,13 @@
     {
       "v": "0.1.0@589b737d43ed24d45417d4619b15ef6136bdad90",
       "r": [],
-      "m": "~",
-      "s": "",
-      "b": "",
-      "k": [],
-      "p": []
-    },
-    {
-      "v": "#head@eab3163332d96b29755741b82383f7a36e92ba12",
-      "r": [],
-      "m": "~",
-      "s": "",
       "b": "",
       "k": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T07:29:39Z",
+  "generatedAt": "2026-05-26T13:17:55Z",
   "allDeps": {
     "packages": [],
     "urls": [],

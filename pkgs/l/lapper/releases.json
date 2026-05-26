@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "lapper",
   "fqn": "nim-lapper.brentp.github.com",
-  "head": "bdd43a522d2bf1730794e3a68a45673f83a42cfe",
   "author": "Brent Pedersen",
   "description": "fast, simple interval overlaps with binary search",
   "license": "MIT",
@@ -19,30 +18,18 @@
     {
       "v": "0.1.8@bdd43a522d2bf1730794e3a68a45673f83a42cfe^",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": [],
       "y": []
     },
     {
       "v": "0.1.7@36d12438d92bd90af0b4e592dc2ba6b6de21bb38",
       "r": [],
-      "m": "~",
-      "s": "",
-      "x": [],
-      "y": []
-    },
-    {
-      "v": "#head@bdd43a522d2bf1730794e3a68a45673f83a42cfe",
-      "r": [],
-      "m": "~",
-      "s": "",
       "x": [],
       "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:40Z",
+  "generatedAt": "2026-05-26T13:15:22Z",
   "allDeps": {
     "packages": [],
     "urls": [],

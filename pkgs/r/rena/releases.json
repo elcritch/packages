@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "rena",
   "fqn": "rena.jiro4989.github.com",
-  "head": "4b45cda084d2ee6ee897687197527162b1d6ae78",
   "author": "jiro4989",
   "description": "rena is a tiny fire/directory renaming command.",
   "license": "MIT",
@@ -18,24 +17,12 @@
       "r": [
         "cligen >= 0.9.32"
       ],
-      "m": "~",
-      "s": "",
-      "b": "",
-      "p": []
-    },
-    {
-      "v": "#head@4b45cda084d2ee6ee897687197527162b1d6ae78",
-      "r": [
-        "cligen >= 0.9.32"
-      ],
-      "m": "~",
-      "s": "",
       "b": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:54:14Z",
+  "generatedAt": "2026-05-26T13:18:33Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

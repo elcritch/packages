@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "json_rpc",
   "fqn": "nim-json-rpc.status-im.github.com",
-  "head": "331fbabdb018cf858ff944cd79c4b1737dd3a937",
   "author": "Status Research & Development GmbH",
   "description": "Ethereum remote procedure calls",
   "license": "Apache License 2.0",
@@ -25,7 +24,6 @@
         "json_serialization >= 0.4.2",
         "unittest2"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -42,7 +40,6 @@
         "json_serialization >= 0.4.2",
         "unittest2"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -59,7 +56,6 @@
         "json_serialization >= 0.4.2",
         "unittest2"
       ],
-      "m": "~",
       "x": []
     },
     {
@@ -75,29 +71,11 @@
         "json_serialization",
         "unittest2"
       ],
-      "m": "~",
-      "x": []
-    },
-    {
-      "v": "#head@331fbabdb018cf858ff944cd79c4b1737dd3a937",
-      "r": [
-        "stew",
-        "nimcrypto",
-        "stint",
-        "chronos >= 4.0.3 & < 5.0.0",
-        "httputils >= 0.3.0",
-        "chronicles",
-        "websock >= 0.2.1 & < 0.4.0",
-        "serialization >= 0.4.4",
-        "json_serialization >= 0.4.2",
-        "unittest2"
-      ],
-      "m": "~",
       "x": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:26Z",
+  "generatedAt": "2026-05-26T13:15:13Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -120,7 +98,6 @@
       "chronos",
       "faststreams",
       "httputils",
-      "intops",
       "json_serialization",
       "nimcrypto",
       "results",

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "npg",
   "fqn": "npg.rustomax.github.com",
-  "head": "23ee913f6829600b61dc0ea98d52f673f083eebe",
   "author": "Max Skybin",
   "description": "Password generator in Nim",
   "license": "MIT",
@@ -17,8 +16,6 @@
       "r": [
         "passgen >= 0.2.0"
       ],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
@@ -27,21 +24,11 @@
         "passgen >= 0.1.0"
       ],
       "m": "1.0.0",
-      "s": "",
-      "p": []
-    },
-    {
-      "v": "#head@23ee913f6829600b61dc0ea98d52f673f083eebe",
-      "r": [
-        "passgen >= 0.2.0"
-      ],
-      "m": "~",
-      "s": "",
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:48Z",
+  "generatedAt": "2026-05-26T13:17:35Z",
   "allDeps": {
     "packages": [
       "nimcrypto",

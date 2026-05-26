@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "libsvm_legacy",
   "fqn": "libsvm_legacy.nim-lang.github.com",
-  "head": "cbc384e1842ceaf90968019eef44441b64320753",
   "author": "Dominik Picheta",
   "description": "Libsvm wrapper rescued from the stdlib.",
   "license": "MIT",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "0.1.0@bebceb60bcab96e99b3b3f532b379003c2ce24ea",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@cbc384e1842ceaf90968019eef44441b64320753",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:54Z",
+  "generatedAt": "2026-05-26T13:15:31Z",
   "allDeps": {
     "packages": [],
     "urls": [],

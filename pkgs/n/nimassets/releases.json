@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimassets",
   "fqn": "nimassets.xmonader.github.com",
-  "head": "d06724dd7b80fb470542ab932f3a94af78fe2eb1",
   "author": "xmonader",
   "description": "bundle your assets to a nim",
   "license": "MIT",
@@ -22,15 +21,12 @@
       "r": [],
       "b": "",
       "x": [],
-      "m": "~",
-      "s": "",
       "p": []
     },
     {
       "v": "0.2.0@3889ef57eedbec9d3ffdfd49cb19f4de5ecaf7d1",
       "r": [],
       "m": "1.4.0",
-      "s": "",
       "b": "",
       "x": [],
       "p": []
@@ -39,7 +35,6 @@
       "v": "0.2.1@94aaa51bb70ddae7671f4cbd1540693c9a5f7263",
       "r": [],
       "m": "1.4.0",
-      "s": "",
       "b": "",
       "x": [],
       "p": []
@@ -50,7 +45,6 @@
         "zstd >= 0.5.0"
       ],
       "m": "1.4.0",
-      "s": "",
       "b": "",
       "x": [],
       "p": []
@@ -61,25 +55,13 @@
         "zstd >= 0.5.0"
       ],
       "m": "1.4.0",
-      "s": "",
-      "b": "",
-      "x": [],
-      "p": []
-    },
-    {
-      "v": "#head@d06724dd7b80fb470542ab932f3a94af78fe2eb1",
-      "r": [
-        "zstd >= 0.5.0"
-      ],
-      "m": "1.4.0",
-      "s": "",
       "b": "",
       "x": [],
       "p": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:29Z",
+  "generatedAt": "2026-05-26T13:16:40Z",
   "allDeps": {
     "packages": [
       "zstd > 0.2.1"

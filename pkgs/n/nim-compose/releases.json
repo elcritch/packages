@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nim-compose",
   "fqn": "nim-compose.emanresu3.codeberg.org",
-  "head": "d07c204de1d5371eaafc3af35dee95a62c76aa83",
   "author": "emanresu3",
   "description": "Function composition operators",
   "license": "MIT",
@@ -11,43 +10,27 @@
   "releases": [
     {
       "v": "0.2.2@d07c204de1d5371eaafc3af35dee95a62c76aa83^",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.1@0cf8aa62a8200e5d87df49912cb2194288802b94",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.2.0@c5447bc95e4c4e3fc53c887e91ed14804b13457d",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.1@5663d4445bdc684c91d139bdff91c76450ce51c6",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "0.1.0@d3e3ea92bcdc1f5998152aee8f339b258daff3df",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@d07c204de1d5371eaafc3af35dee95a62c76aa83",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:51:13Z",
+  "generatedAt": "2026-05-26T13:16:29Z",
   "allDeps": {
     "packages": [],
     "urls": [],

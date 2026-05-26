@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "cassandra",
   "fqn": "cassandra.yglukhov.github.com",
-  "head": "1399234e9138a74fd1750e082b4702aec89d861e",
   "author": "Yuriy Glukhov",
   "description": "Cassandra driver bindings",
   "license": "MIT",
@@ -10,21 +9,11 @@
   "releases": [
     {
       "v": "0.1.0@411c3d0a24737836572d65ba174b35e99a857e0d",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@1399234e9138a74fd1750e082b4702aec89d861e",
-      "r": [],
-      "x": [
-        "tests",
-        "genbindings"
-      ],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:45:58Z",
+  "generatedAt": "2026-05-26T13:12:49Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "unicode_numbers",
   "fqn": "unicode_numbers.Aearnus.github.com",
-  "head": "777488f31eb8e49aa057412b9443786f21bdcebf",
   "author": "Tyler Limkemann",
   "description": "Converts a number into a specially formatted Unicode string",
   "license": "MIT",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "0.1.0@777488f31eb8e49aa057412b9443786f21bdcebf^",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@777488f31eb8e49aa057412b9443786f21bdcebf",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:15Z",
+  "generatedAt": "2026-05-26T13:19:58Z",
   "allDeps": {
     "packages": [],
     "urls": [],

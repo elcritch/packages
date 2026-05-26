@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "lazyseq",
   "fqn": "nim-lazyseq.markspanbroek.github.com",
-  "head": "4322d1325d1d284df3219076ccf87415f92a92bd",
   "author": "lazyseq authors",
   "description": "Lazy evaluated sequences",
   "license": "MIT",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "0.1.0@4322d1325d1d284df3219076ccf87415f92a92bd^",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@4322d1325d1d284df3219076ccf87415f92a92bd",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:49:42Z",
+  "generatedAt": "2026-05-26T13:15:23Z",
   "allDeps": {
     "packages": [],
     "urls": [],

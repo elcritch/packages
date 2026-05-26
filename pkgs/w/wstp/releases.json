@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "wstp",
   "fqn": "nim-wstp.oskca.github.com",
-  "head": "ea7cf20f76d6a2fc2eb918eece741ad81d6c8856",
   "author": "oskca",
   "description": "Nim bindings for WSTP",
   "license": "MIT",
@@ -13,21 +12,11 @@
       "v": "0.1.0@abb9780a26da91d4e4077a1b364a297f3b09bae2",
       "r": [
         "c2nim"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@ea7cf20f76d6a2fc2eb918eece741ad81d6c8856",
-      "r": [
-        "c2nim"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:57:03Z",
+  "generatedAt": "2026-05-26T13:20:31Z",
   "allDeps": {
     "packages": [
       "c2nim"

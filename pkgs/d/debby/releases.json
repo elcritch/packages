@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "debby",
   "fqn": "debby.treeform.github.com",
-  "head": "bd6bb8879a5b5a24d1f21095e5c10fdfd2211f5d",
   "author": "Andre von Houck",
   "description": "An Opinionated ORM",
   "license": "MIT",
@@ -13,93 +12,65 @@
       "v": "0.6.2@bd6bb8879a5b5a24d1f21095e5c10fdfd2211f5d^",
       "r": [
         "jsony >= 1.1.5"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.6.1@fa7bb049b0a5a5682792f23033583b58be3ce317",
       "r": [
         "jsony >= 1.1.5"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.6.0@849f1382878cbaea98a677512bc7c460d4a07abc",
       "r": [
         "jsony >= 1.1.5"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.5.0@b240a33c3511b64f03a6862031796e8f16734bc4",
       "r": [
         "jsony >= 1.1.5"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.4.0@c66b3f8d68f3316cc7b1643de77d1aa445007df4",
       "r": [
         "jsony >= 1.1.5"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.3.0@47e9358011eb84584b9d0245a6d6ba1be46cf90d",
       "r": [
         "jsony >= 1.1.5"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.2.0@7f4d35d0ae925ea3b14a58e2c7eafa4186aa53d7",
       "r": [
         "jsony >= 1.1.5"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.1@23f33df634657587796e584e0afe97ce6643ea71",
       "r": [
         "jsony >= 1.1.5"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.1.0@3f16691eda23c65929f595b7c5538e7c815a12ff",
       "r": [
         "jsony >= 1.1.5"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     },
     {
       "v": "0.0.1@7b889b15cda86e463837cebbd6d84b457e43df16",
       "r": [
         "jsony >= 1.1.5"
-      ],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@bd6bb8879a5b5a24d1f21095e5c10fdfd2211f5d",
-      "r": [
-        "jsony >= 1.1.5"
-      ],
-      "m": "~",
-      "s": ""
+      ]
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:46:48Z",
+  "generatedAt": "2026-05-26T13:13:27Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

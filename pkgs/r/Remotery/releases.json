@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "Remotery",
   "fqn": "Nim-Remotery.Halsys.github.com",
-  "head": "f7b45b35afe2c30d5ac3eff4b273bad63cd03308",
   "author": "Cory Noll Crimmins - Golden",
   "description": "Wrapper for (and with) Celtoys's Remotery",
   "license": "Apache V2",
@@ -10,18 +9,11 @@
   "releases": [
     {
       "v": "0.1.0@0476727a07367585bc239acf59f16259afdbaa85",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@f7b45b35afe2c30d5ac3eff4b273bad63cd03308",
-      "r": [],
-      "d": "Nim wrapper for (and with) Celtoys's Remotery",
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:32Z",
+  "generatedAt": "2026-05-26T13:11:45Z",
   "allDeps": {
     "packages": [],
     "urls": [],

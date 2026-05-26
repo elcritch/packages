@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "aria",
   "fqn": "aria.juancarlospaco.github.com",
-  "head": "24347df6603bd24e513d6f9912edfe41e3d1ca57",
   "author": "Juan_Carlos",
   "description": "Aria2 API lib for Nim for any backend https://aria2.github.io",
   "license": "MIT",
@@ -11,19 +10,11 @@
   "releases": [
     {
       "v": "1.0.0@8d763b09b3b6b5f43f4d1c6e75e1b7aa22de3634",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "#head@24347df6603bd24e513d6f9912edfe41e3d1ca57",
-      "r": [],
-      "m": "~",
-      "s": ""
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:44:53Z",
+  "generatedAt": "2026-05-26T13:12:00Z",
   "allDeps": {
     "packages": [],
     "urls": [],

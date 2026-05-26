@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "dither",
   "fqn": "dither-nim.Nycto.github.com",
-  "head": "d6bf26aad14642b73a6802298428e607fae067bb",
   "releases": [
     {
       "v": "0.2.0@60fd2d4ee700fe1824f2c40e51c5809b6109320a",
@@ -15,21 +14,10 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file"
-    },
-    {
-      "v": "#head@d6bf26aad14642b73a6802298428e607fae067bb",
-      "r": [
-        "chroma >= 0.2.7"
-      ],
-      "a": "Nycto",
-      "d": "Dithering algorithms in Nim",
-      "l": "Apache-2.0",
-      "s": "src",
-      "m": "1.6.14"
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-25T11:44:07Z",
+  "generatedAt": "2026-05-26T13:13:34Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -42,9 +30,7 @@
     "latest": "0.2.0"
   },
   "allDeps": {
-    "packages": [
-      "chroma"
-    ],
+    "packages": [],
     "urls": [],
     "unresolved": []
   }

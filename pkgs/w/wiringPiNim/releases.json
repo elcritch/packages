@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "wiringPiNim",
   "fqn": "nim_wiringPiNim.ThomasTJdev.github.com",
-  "head": "99c693fee0a8b4136c5133c419cb38dfe794c5d2",
   "author": "Thomas T. Jarløv (https://github.com/ThomasTJdev)",
   "description": "Wrapper for the C library wiringPi for controlling a Raspberry Pi's GPIO",
   "license": "MIT",
@@ -10,17 +9,11 @@
   "releases": [
     {
       "v": "0.1.0@51de7b64985ea889516539e401d9cde19cbad0ce",
-      "r": [],
-      "m": "~"
-    },
-    {
-      "v": "#head@99c693fee0a8b4136c5133c419cb38dfe794c5d2",
-      "r": [],
-      "m": "~"
+      "r": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:59Z",
+  "generatedAt": "2026-05-26T13:20:29Z",
   "allDeps": {
     "packages": [],
     "urls": [],

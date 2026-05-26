@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "nimyottadb",
   "fqn": "nim-yottadb.ljoeckel.github.com",
-  "head": "4d0c52965c85789ef29d7503391c62dfac914631",
   "author": "Lothar Joeckel",
   "description": "Nim language implementation for the YottaDB database",
   "license": "MIT",
@@ -15,8 +14,6 @@
       "r": [
         "malebolgia >= 1.3.2"
       ],
-      "m": "~",
-      "s": "",
       "b": ""
     },
     {
@@ -25,8 +22,6 @@
         "malebolgia",
         "bingo"
       ],
-      "m": "~",
-      "s": "",
       "b": ""
     },
     {
@@ -35,8 +30,6 @@
         "malebolgia",
         "bingo"
       ],
-      "m": "~",
-      "s": "",
       "b": ""
     },
     {
@@ -46,8 +39,6 @@
         "malebolgia",
         "bingo"
       ],
-      "m": "~",
-      "s": "",
       "b": ""
     },
     {
@@ -56,8 +47,6 @@
         "malebolgia",
         "bingo"
       ],
-      "m": "~",
-      "s": "",
       "b": ""
     },
     {
@@ -66,8 +55,6 @@
         "malebolgia",
         "bingo"
       ],
-      "m": "~",
-      "s": "",
       "b": ""
     },
     {
@@ -76,8 +63,6 @@
         "malebolgia",
         "bingo"
       ],
-      "m": "~",
-      "s": "",
       "b": ""
     },
     {
@@ -86,8 +71,6 @@
         "malebolgia",
         "bingo"
       ],
-      "m": "~",
-      "s": "",
       "b": ""
     },
     {
@@ -96,8 +79,6 @@
         "malebolgia",
         "bingo"
       ],
-      "m": "~",
-      "s": "",
       "b": ""
     },
     {
@@ -107,8 +88,6 @@
         "bingo"
       ],
       "d": "NIM language implementation for the YottaDB database",
-      "m": "~",
-      "s": "",
       "b": ""
     },
     {
@@ -118,8 +97,6 @@
         "bingo"
       ],
       "d": "NIM language implementation for the YottaDB database",
-      "m": "~",
-      "s": "",
       "b": ""
     },
     {
@@ -129,22 +106,11 @@
         "bingo"
       ],
       "d": "NIM language implementation for the YottaDB database",
-      "m": "~",
-      "s": "",
-      "b": ""
-    },
-    {
-      "v": "#head@4d0c52965c85789ef29d7503391c62dfac914631",
-      "r": [
-        "malebolgia >= 1.3.2"
-      ],
-      "m": "~",
-      "s": "",
       "b": ""
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:52:28Z",
+  "generatedAt": "2026-05-26T13:17:20Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

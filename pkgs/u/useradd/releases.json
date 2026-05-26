@@ -1,8 +1,7 @@
 {
-  "cv": 17,
+  "cv": 18,
   "name": "useradd",
   "fqn": "nim-useradd.theAkito.github.com",
-  "head": "79d1c3df2cba0ea4be02a1d0bfa0c400ab1159a3",
   "author": "Akito <the@akito.ooo>",
   "description": "Linux adduser/useradd library with all batteries included.",
   "license": "GPL-3.0-or-later",
@@ -17,41 +16,30 @@
     {
       "v": "0.4.0@79d1c3df2cba0ea4be02a1d0bfa0c400ab1159a3^",
       "r": [],
-      "m": "~",
       "x": [],
       "y": []
     },
     {
       "v": "0.3.0@987de48f12dd2874ace0fd9660cb9c07980566eb",
       "r": [],
-      "m": "~",
       "x": [],
       "y": []
     },
     {
       "v": "0.2.0@869266da86fc01ec7a8a694568dcd829f58b35c9",
       "r": [],
-      "m": "~",
       "x": [],
       "y": []
     },
     {
       "v": "0.1.0@37dfc5db79376ff3381ee2fe99eacf993195503a",
       "r": [],
-      "m": "~",
-      "x": [],
-      "y": []
-    },
-    {
-      "v": "#head@79d1c3df2cba0ea4be02a1d0bfa0c400ab1159a3",
-      "r": [],
-      "m": "~",
       "x": [],
       "y": []
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T00:56:22Z",
+  "generatedAt": "2026-05-26T13:20:04Z",
   "allDeps": {
     "packages": [],
     "urls": [],
