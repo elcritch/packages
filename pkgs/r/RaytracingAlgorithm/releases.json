@@ -37,13 +37,6 @@
       ]
     },
     {
-      "v": "1.0.0@27952756f4a2dff65698e8db1063fe6ec37c28c4",
-      "r": [
-        "simplepng",
-        "cligen"
-      ]
-    },
-    {
       "v": "0.1.1@14ee0ee891f0684904a7b19c4798d4f86ac4190e",
       "r": [
         "therapist",
@@ -62,7 +55,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T16:22:52Z",
+  "generatedAt": "2026-05-26T18:55:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -95,7 +88,7 @@
       "nimcuda > 0.1.0 & <= 0.1.1",
       "nimlapack > 0.1.0 & <= 0.1.1",
       "simplepng",
-      "stacks > 1.0.0",
+      "stacks > 0.1.1",
       "therapist <= 0.1.1"
     ],
     "urls": [],

@@ -320,7 +320,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T16:25:40Z",
+  "generatedAt": "2026-05-26T18:59:01Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

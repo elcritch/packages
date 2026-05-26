@@ -90,10 +90,9 @@
       "ws > 0.1.0",
       "yaml > 0.1.0"
     ],
-    "urls": [
-      "error://findxml"
-    ],
+    "urls": [],
     "unresolved": [
+      "gh:thisago/findxml",
       "gh:thisago/fsafename",
       "gl:lurlo/useragent"
     ]

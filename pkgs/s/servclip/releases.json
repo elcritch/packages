@@ -23,7 +23,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T16:29:47Z",
+  "generatedAt": "2026-05-26T19:04:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -51,11 +51,10 @@
       "unicodedb",
       "unicodeplus"
     ],
-    "urls": [
-      "error://findxml"
-    ],
+    "urls": [],
     "unresolved": [
       "gh:iffy/asynctools",
+      "gh:thisago/findxml",
       "gh:timotheecour/asynctools",
       "gl:lurlo/useragent"
     ]

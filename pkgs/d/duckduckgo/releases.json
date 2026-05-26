@@ -17,10 +17,8 @@
       "v": "0.1.0@98b20c22a070e264923c9cb3503a11e4318d3eec",
       "r": [
         "scraper",
-        "error://useragent"
-      ],
-      "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/duckduckgo.thisago.github.com-98b20c22-duckduckgo.nimble\ncannot resolve package name: useragent"
+        "gl:lurlo/useragent"
+      ]
     },
     {
       "v": "0.1.2@2059431e7391003e9e807e4fbef7d7f0525a9de5",
@@ -51,16 +49,14 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T16:24:41Z",
+  "generatedAt": "2026-05-26T18:57:43Z",
   "allDeps": {
     "packages": [
       "scraper"
     ],
-    "urls": [
-      "error://findxml",
-      "error://useragent <= 0.1.0"
-    ],
+    "urls": [],
     "unresolved": [
+      "gh:thisago/findxml",
       "gl:lurlo/useragent"
     ]
   }

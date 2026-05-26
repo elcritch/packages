@@ -118,7 +118,7 @@
     }
   ],
   "tags": true,
-  "generatedAt": "2026-05-26T16:31:00Z",
+  "generatedAt": "2026-05-26T19:06:30Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
