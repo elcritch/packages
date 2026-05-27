@@ -26,10 +26,10 @@
       "m": "0.19.4"
     },
     {
-      "v": "0.5.0@4302b261679cad5cc8908901e5e3c69a1f1e2bfd",
+      "v": "0.5.0@4059eaa6c2d9027d33206e4a7a6f5ea95728ea62",
       "r": [],
       "d": "Firejail wrapper for Nim, Isolate your Production App before its too late!",
-      "m": "0.19.4"
+      "m": "0.19.6"
     },
     {
       "v": "0.5.5@7bf6b4793698e29459597417aee9a428f1e87741",
@@ -40,7 +40,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:27:05Z",
+  "generatedAt": "2026-05-27T13:24:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "cache",
   "fqn": "cached.planety.github.com",
   "current": "86832d22e5cbd66d4922500fb04f4391475b852b",
@@ -19,9 +19,9 @@
       "d": "A cache library."
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:21Z",
+  "generatedAt": "2026-05-27T13:22:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

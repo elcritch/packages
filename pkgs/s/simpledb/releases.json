@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "simpledb",
   "fqn": "nim-simpledb.jjv360.github.com",
   "current": "a773af65ac5901c94a78da5b93495a61e46f7a11",
@@ -32,9 +32,9 @@
       "m": "1.6.10"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:42:06Z",
+  "generatedAt": "2026-05-27T13:32:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

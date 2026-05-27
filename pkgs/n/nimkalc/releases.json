@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimkalc",
   "fqn": "nimkalc.nocturn9x.github.com",
   "current": "372927d7ea08eedd7d84ae2098da8256d0b5c8ff",
@@ -50,9 +50,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:58:27Z",
+  "generatedAt": "2026-05-27T13:29:05Z",
   "allDeps": {
     "packages": [],
     "urls": [],

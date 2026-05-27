@@ -80,10 +80,11 @@
       "scraper > 0.1.0"
     ],
     "urls": [
-      "error://findxml"
+      "error://findxml <= 0.1.0"
     ],
     "unresolved": [
       "gh:letil/chttpclient",
+      "gh:thisago/findxml",
       "gl:lurlo/useragent"
     ]
   }

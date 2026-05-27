@@ -405,26 +405,6 @@
       "m": "1.6.0"
     },
     {
-      "v": "0.30.0@a54ac3f4c221a04ef465f8ab67ce81e7674ef7f3",
-      "r": [
-        "chronicles",
-        "confutils",
-        "chronos",
-        "eth",
-        "json_rpc",
-        "libbacktrace",
-        "nimcrypto",
-        "stew",
-        "stint",
-        "metrics",
-        "libp2p",
-        "web3",
-        "presto",
-        "regex"
-      ],
-      "m": "1.6.0"
-    },
-    {
       "v": "0.29.0@39b62e651b92596958c09c45acb856f866dfad70",
       "r": [
         "chronicles",
@@ -784,7 +764,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:38:51Z",
+  "generatedAt": "2026-05-27T13:33:56Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
