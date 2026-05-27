@@ -20,7 +20,7 @@
   ],
   "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-27T00:52:36Z",
+  "generatedAt": "2026-05-27T07:37:15Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

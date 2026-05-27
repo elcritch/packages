@@ -12,63 +12,63 @@
     {
       "v": "0.1.0@71c230cfb7d9b985c75e4501f6d310c3095d5cab",
       "r": [
-        "gh:thisago/useragent",
+        "gl:lurlo/useragent",
         "util"
       ]
     },
     {
       "v": "1.0.0@dfa6021d26847356d51fe7bb3d91bb2dd931e6b8",
       "r": [
-        "gh:thisago/useragent",
+        "gl:lurlo/useragent",
         "util"
       ]
     },
     {
       "v": "1.0.1@4be19da3274c90cc5978334907555b9e60c3ba95",
       "r": [
-        "gh:thisago/useragent",
+        "gl:lurlo/useragent",
         "util"
       ]
     },
     {
       "v": "1.1.0@095506df843f04ed587092e2d899dfd44f703277",
       "r": [
-        "gh:thisago/useragent",
+        "gl:lurlo/useragent",
         "util"
       ]
     },
     {
       "v": "1.2.0@207d3c20e4b2f44d6ea384d65fdf9f94cf2d3075",
       "r": [
-        "gh:thisago/useragent",
+        "gl:lurlo/useragent",
         "util"
       ]
     },
     {
       "v": "1.2.1@4701c205edbbb0c9a8c245c95f48cebe7ed3cc70",
       "r": [
-        "gh:thisago/useragent",
+        "gl:lurlo/useragent",
         "util"
       ]
     },
     {
       "v": "1.2.2@74a3094579eea722204dea7b1dec4c6da5235d8e",
       "r": [
-        "gh:thisago/useragent",
+        "gl:lurlo/useragent",
         "util"
       ]
     }
   ],
   "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-27T01:04:52Z",
+  "generatedAt": "2026-05-27T07:42:27Z",
   "allDeps": {
     "packages": [
       "util"
     ],
     "urls": [],
     "unresolved": [
-      "gh:thisago/useragent"
+      "gl:lurlo/useragent"
     ]
   }
 }

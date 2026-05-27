@@ -34,15 +34,11 @@
       "r": [
         "variant"
       ]
-    },
-    {
-      "v": "0.2@f037275b7934ab80c19edde6e90d8a4b826592d7",
-      "r": []
     }
   ],
   "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-27T00:58:50Z",
+  "generatedAt": "2026-05-27T07:40:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -68,7 +64,7 @@
   },
   "allDeps": {
     "packages": [
-      "variant > 0.2 & <= 0.3.2"
+      "variant <= 0.3.2"
     ],
     "urls": [],
     "unresolved": []

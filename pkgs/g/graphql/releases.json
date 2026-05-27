@@ -271,7 +271,7 @@
       ]
     },
     {
-      "v": "0.2.28@ba6f90c80790e54b581061139aef2911f7010ae8",
+      "v": "0.2.28@7cfe1cd8dad0b1af6721340e2773ebcaf582563a",
       "r": [
         "faststreams",
         "stew",
@@ -279,7 +279,7 @@
         "chronicles",
         "zlib",
         "unittest2",
-        "chronos"
+        "chronos #head"
       ],
       "x": [
         "tests",
@@ -312,7 +312,7 @@
   ],
   "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-27T00:53:03Z",
+  "generatedAt": "2026-05-27T07:37:29Z",
   "allDeps": {
     "packages": [
       "bearssl > 0.2.24",

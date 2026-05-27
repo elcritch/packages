@@ -227,11 +227,6 @@
       "m": "1.4.8"
     },
     {
-      "v": "1.4.2@c6fc51d74f522073c99616cae4ca3e8f3137499d",
-      "r": [],
-      "m": "1.0.8"
-    },
-    {
       "v": "1.4.1@47c48c9d5a407f45530d3964a58d23b516987706",
       "r": [],
       "m": "1.0.8"
@@ -353,7 +348,7 @@
   ],
   "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-27T00:56:44Z",
+  "generatedAt": "2026-05-27T07:39:15Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -421,12 +416,12 @@
     "packages": [
       "checksums > 1.6.3",
       "db_connector > 1.6.3",
-      "docopt > 1.4.2",
-      "graphemes > 1.4.2",
-      "regex > 1.4.2",
-      "segmentation > 1.4.2",
-      "unicodedb > 1.4.2",
-      "unicodeplus > 1.4.2"
+      "docopt > 1.4.1",
+      "graphemes > 1.4.1",
+      "regex > 1.4.1",
+      "segmentation > 1.4.1",
+      "unicodedb > 1.4.1",
+      "unicodeplus > 1.4.1"
     ],
     "urls": [],
     "unresolved": []

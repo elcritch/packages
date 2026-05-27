@@ -60,8 +60,9 @@
       "m": "0.19.4"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T15:52:00Z",
+  "generatedAt": "2026-05-27T07:41:08Z",
   "allDeps": {
     "packages": [
       "cligen"
