@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "tnetstring",
   "fqn": "nim-tnetstring.mahlonsmith.github.com",
+  "current": "9247ac5f44bd633fe7c1951eac77f0c091cf3be3",
   "author": "Mahlon E. Smith",
   "description": "Parsing and serialization for the TNetstring format.",
   "license": "BSD-3-Clause",
@@ -21,8 +22,9 @@
       "l": "MIT"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:46Z",
+  "generatedAt": "2026-05-27T01:05:45Z",
   "allDeps": {
     "packages": [],
     "urls": [],

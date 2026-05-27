@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "barcode",
   "fqn": "barcode.bunkford.github.com",
+  "current": "65fa44cadcb6a77feb2f89c69ce1060a7c8fd49f",
   "author": "Duncan Clarke",
   "description": "Nim barcode library.",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:17Z",
+  "generatedAt": "2026-05-27T00:48:24Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "easymail",
   "fqn": "easymail.coocheenin.github.com",
+  "current": "e33edbe62ddadfdf359c9cb423594a72840132ac",
   "author": "Konstantin Kuchinin",
   "description": "wrapper for the sendmail command",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:42Z",
+  "generatedAt": "2026-05-27T00:50:55Z",
   "allDeps": {
     "packages": [],
     "urls": [],

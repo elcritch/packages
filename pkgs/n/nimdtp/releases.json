@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimdtp",
   "fqn": "nimdtp.WKHAllen.github.com",
+  "current": "0cf7f65416ed9662c66718eed3bc2719fb654073",
   "author": "WKHAllen",
   "description": "Modern networking interfaces for Nim.",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:49Z",
+  "generatedAt": "2026-05-27T00:58:05Z",
   "allDeps": {
     "packages": [],
     "urls": [],

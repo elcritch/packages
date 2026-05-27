@@ -389,8 +389,9 @@
       "p": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T15:53:57Z",
+  "generatedAt": "2026-05-27T01:05:06Z",
   "allDeps": {
     "packages": [
       "getdns > 20221102 & <= 20240522",

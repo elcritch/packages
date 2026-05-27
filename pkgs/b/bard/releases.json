@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "bard",
   "fqn": "bard.thisago.github.com",
+  "current": "714b940c1065ed1d04d9f84a74c47dcd8eedc126",
   "author": "Thiago Navarro",
   "description": "Nim interface of Google Bard free API",
   "license": "MIT",
@@ -61,8 +62,9 @@
       "d": "Nim interface for Google Bard batchexecute API"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:17Z",
+  "generatedAt": "2026-05-27T00:48:24Z",
   "allDeps": {
     "packages": [
       "util > 0.1.0"

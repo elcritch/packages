@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "cozylogwriter",
   "fqn": "cozylogwriter.indiscipline.github.com",
+  "current": "e5eddaca981e065ebfbd7471ae3987c3092645c9",
   "author": "Kirill I",
   "description": "Cozy Log Writer",
   "license": "GPL-2.0-or-later",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:15Z",
+  "generatedAt": "2026-05-27T00:50:09Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nptr",
   "fqn": "nptr.henryas.github.com",
+  "current": "5773640be1cf38765cc8122ee4a6f1547426d2d5",
   "author": "Henry Adi Sumarto",
   "description": "Nim lang smart pointers",
   "license": "MIT",
@@ -58,8 +59,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:36Z",
+  "generatedAt": "2026-05-27T00:59:30Z",
   "allDeps": {
     "packages": [],
     "urls": [],

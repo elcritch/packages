@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "blurhash",
   "fqn": "blurhash.SolitudeSF.github.com",
+  "current": "81102eb57976972b8ac517472cf9fad6fb85cba4",
   "author": "SolitudeSF",
   "description": "Encoder/decoder for blurhash algorithm",
   "license": "MIT",
@@ -29,8 +30,9 @@
       "m": "0.20.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:34Z",
+  "generatedAt": "2026-05-27T00:49:06Z",
   "allDeps": {
     "packages": [
       "imageman",

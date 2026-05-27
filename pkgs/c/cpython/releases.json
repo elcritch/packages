@@ -24,8 +24,9 @@
       "m": "1.0.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T15:45:48Z",
+  "generatedAt": "2026-05-27T00:50:12Z",
   "allDeps": {
     "packages": [
       "nimpy > 3.10.0"

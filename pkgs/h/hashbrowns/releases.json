@@ -20,8 +20,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T15:47:35Z",
+  "generatedAt": "2026-05-27T00:53:11Z",
   "allDeps": {
     "packages": [
       "nigui",

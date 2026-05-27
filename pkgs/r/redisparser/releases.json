@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "redisparser",
   "fqn": "nim-redisparser.xmonader.github.com",
+  "current": "4a374d569e584414cedf8302ee3cbed9d8dc90b8",
   "author": "xmonader",
   "description": "RESP(REdis Serialization Protocol) Serialization for Nim",
   "license": "Apache2",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:32Z",
+  "generatedAt": "2026-05-27T01:01:26Z",
   "allDeps": {
     "packages": [],
     "urls": [],

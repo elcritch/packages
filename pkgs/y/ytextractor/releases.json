@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "ytextractor",
   "fqn": "ytextractor.thisago.github.com",
+  "current": "a1c02dd95e4c338841ebd8a03fa3b2f81c4f83ad",
   "author": "Thiago Navarro",
   "description": "Youtube data extractor",
   "license": "MIT",
@@ -23,8 +24,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:45Z",
+  "generatedAt": "2026-05-27T01:08:01Z",
   "allDeps": {
     "packages": [
       "ajax",

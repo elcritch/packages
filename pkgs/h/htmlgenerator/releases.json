@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "htmlgenerator",
   "fqn": "htmlgenerator.z-kk.github.com",
+  "current": "059dd85e403b6631db5ee72a57bf9598a09f2ec5",
   "author": "z-kk",
   "description": "Generate HTML string by nim object",
   "license": "MIT",
@@ -41,8 +42,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:50Z",
+  "generatedAt": "2026-05-27T00:53:34Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "resolv",
   "fqn": "resolv.nim.mildred.github.com",
+  "current": "bcddd47a813872233ec62424278480f01638cb44",
   "author": "Mildred Ki'Lya",
   "description": "Access glibc DNS resolution routines",
   "license": "MIT",
@@ -15,8 +16,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:34Z",
+  "generatedAt": "2026-05-27T01:01:30Z",
   "allDeps": {
     "packages": [
       "dnsprotocol",

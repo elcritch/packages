@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "excelin",
   "fqn": "excelin.mashingan.github.com",
+  "current": "e4442fcf6c9c054b1a6e8ae945785f529579e8c0",
   "author": "Rahmatullah",
   "description": "Create and read Excel purely in Nim",
   "license": "MIT",
@@ -177,8 +178,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:51Z",
+  "generatedAt": "2026-05-27T00:51:12Z",
   "allDeps": {
     "packages": [
       "zippy"

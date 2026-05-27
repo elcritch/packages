@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "oris",
   "fqn": "oris.openpeeps.github.com",
+  "current": "313f8211ba9329dadca4375825c990381cba2248",
   "author": "George Lemon",
   "description": "Streamlined YAML to multilingual translation library",
   "license": "MIT",
@@ -17,8 +18,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:50Z",
+  "generatedAt": "2026-05-27T01:00:06Z",
   "allDeps": {
     "packages": [
       "flatty",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "limiter",
   "fqn": "limiter.supranim.github.com",
+  "current": "5bd624a8c1ab9e3d7da55a661a72a9f4a9d10db9",
   "author": "George Lemon",
   "description": "A simple to use HTTP rate limiting library to limit any action during a specific period of time.",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:33Z",
+  "generatedAt": "2026-05-27T00:55:15Z",
   "allDeps": {
     "packages": [],
     "urls": [],

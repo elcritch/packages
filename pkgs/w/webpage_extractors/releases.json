@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "webpage_extractors",
   "fqn": "webpage_extractors.bung87.github.com",
+  "current": "21ae10d83baf94017021d500adff5bc2f4c72c8a",
   "author": "bung87",
   "description": "webpage information extractor",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:19Z",
+  "generatedAt": "2026-05-27T01:07:14Z",
   "allDeps": {
     "packages": [],
     "urls": [],

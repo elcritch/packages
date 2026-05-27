@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "finalseg",
   "fqn": "finalseg.bung87.github.com",
+  "current": "5c9911ba07f18d0aa4f5b782c4cf2b9b7baf9a6c",
   "author": "zhoupeng",
   "description": "jieba's finalseg port to nim",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:02Z",
+  "generatedAt": "2026-05-27T00:52:02Z",
   "allDeps": {
     "packages": [],
     "urls": [],

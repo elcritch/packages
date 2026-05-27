@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "tmplpro",
   "fqn": "nim-tmplpro.mjfh.github.com",
+  "current": "0c6a16323c223694dc6abbbb5625ca40f770d2c1",
   "author": "Jordan Hrycaj",
   "description": "Text template processor, handy not only for CGI",
   "license": "UNLICENCE",
@@ -21,8 +22,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:46Z",
+  "generatedAt": "2026-05-27T01:05:44Z",
   "allDeps": {
     "packages": [],
     "urls": [],

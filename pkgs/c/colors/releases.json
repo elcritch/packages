@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "colors",
   "fqn": "colors.thing-king.github.com",
+  "current": "3b6f4c4a4f9d5b28b4d4a953269a6ab61ab67671",
   "author": "Savant",
   "description": "A simple, powerful terminal coloring and styling library akin to NPM `colors`",
   "license": "MIT",
@@ -27,8 +28,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:09Z",
+  "generatedAt": "2026-05-27T00:50:00Z",
   "allDeps": {
     "packages": [
       "graphemes > 0.1.2",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "paramidib",
   "fqn": "paramidib.pietroppeter.github.com",
+  "current": "808174d97ec40ae77798ea12e5eebe591414e56b",
   "author": "Pietro Peterlongo",
   "description": "paramidi with nimib",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:56Z",
+  "generatedAt": "2026-05-27T01:00:17Z",
   "allDeps": {
     "packages": [],
     "urls": [],

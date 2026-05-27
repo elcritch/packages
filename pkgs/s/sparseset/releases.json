@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "sparseset",
   "fqn": "sparseset.planetis-m.github.com",
+  "current": "3866e8606c0a04aeffade83a58d9c644cdbdaa55",
   "author": "Antonis Geralis",
   "description": "Sparsets for Nim",
   "license": "MIT",
@@ -36,8 +37,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:10Z",
+  "generatedAt": "2026-05-27T01:04:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

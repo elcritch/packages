@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "astar",
   "fqn": "AStarNim.Nycto.github.com",
+  "current": "86d8c8f3a137d0e0be9f4ca41ee66d469515a946",
   "author": "Nycto",
   "description": "Basic A-Star path finding",
   "license": "MIT",
@@ -27,8 +28,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:05Z",
+  "generatedAt": "2026-05-27T00:48:02Z",
   "allDeps": {
     "packages": [
       "binaryheap > 0.4.0"

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "terminaltables",
   "fqn": "nim-terminaltables.xmonader.github.com",
+  "current": "37981f5d403fb55688e00d24ab9b1d56e252f52b",
   "author": "xmonader",
   "description": "terminal tables",
   "license": "BSD-3-Clause",
@@ -17,8 +18,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:36Z",
+  "generatedAt": "2026-05-27T01:05:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

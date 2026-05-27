@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "matrixsdk",
   "fqn": "matrix-nim-sdk.dylhack.github.com",
+  "current": "3061909368d00ea05f0eaeedd08e7ea6de16e5ed",
   "author": "Dylan Hackworth",
   "description": "A Matrix (https://matrix.org) client and appservice API wrapper for Nim!",
   "license": "GPL-3.0-only",
@@ -15,8 +16,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:52Z",
+  "generatedAt": "2026-05-27T00:55:43Z",
   "allDeps": {
     "packages": [
       "jsony"

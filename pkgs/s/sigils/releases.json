@@ -553,8 +553,9 @@
       "d": "UI Engine for Nim"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T19:04:45Z",
+  "generatedAt": "2026-05-27T01:03:29Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

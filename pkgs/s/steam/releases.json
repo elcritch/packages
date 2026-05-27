@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "steam",
   "fqn": "nim-steam.juancarlospaco.github.com",
+  "current": "761e25c914e43a2b81bee954e461ca178325ed2d",
   "author": "Juan Carlos",
   "description": "Steam API Client for Nim",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:19Z",
+  "generatedAt": "2026-05-27T01:04:42Z",
   "allDeps": {
     "packages": [],
     "urls": [],

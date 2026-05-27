@@ -33,8 +33,9 @@
       "l": "LGPL-3.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T15:53:26Z",
+  "generatedAt": "2026-05-27T01:04:28Z",
   "allDeps": {
     "packages": [
       "c2nim",

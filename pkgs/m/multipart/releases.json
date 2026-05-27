@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "multipart",
   "fqn": "multipart.openpeeps.github.com",
+  "current": "b803ca26a28e77294ad27c5df6c140fc870e677d",
   "author": "George Lemon",
   "description": "A simple multipart parser",
   "license": "MIT",
@@ -15,8 +16,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:11Z",
+  "generatedAt": "2026-05-27T00:56:13Z",
   "allDeps": {
     "packages": [
       "checksums"

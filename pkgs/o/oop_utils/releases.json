@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "oop_utils",
   "fqn": "oop_utils.bluenote10.github.com",
+  "current": "7bac0e00944f8085361d9f3ceae5db3be171117d",
   "author": "Fabian Keller",
   "description": "Macro for building OOP class hierarchies based on closure methods.",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:45Z",
+  "generatedAt": "2026-05-27T00:59:56Z",
   "allDeps": {
     "packages": [],
     "urls": [],

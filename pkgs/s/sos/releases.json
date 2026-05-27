@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "sos",
   "fqn": "nim-sos.ct-clmsn.github.com",
+  "current": "48bc549060337b6106b10de65ca91e92814de1a3",
   "author": "Christopher Taylor",
   "description": "nim-sos a Sandia OpenSHMEM wrapper",
   "license": "boost",
@@ -12,8 +13,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:09Z",
+  "generatedAt": "2026-05-27T01:04:06Z",
   "allDeps": {
     "packages": [],
     "urls": [],

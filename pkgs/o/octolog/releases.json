@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "octolog",
   "fqn": "octolog.jaar23.github.com",
+  "current": "0eeb32007532a8018f4af3b161e4b4880cee5726",
   "author": "jaar23",
   "description": "wrapped std logging library via channel for multi-threaded application",
   "license": "GPL",
@@ -15,8 +16,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:42Z",
+  "generatedAt": "2026-05-27T00:59:49Z",
   "allDeps": {
     "packages": [
       "malebolgia"

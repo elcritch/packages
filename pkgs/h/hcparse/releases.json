@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "hcparse",
   "fqn": "hcparse.haxscramper.github.com",
+  "current": "1e1a68a49192c0a3731ae3279be56c2a24542bb0",
   "author": "haxscramper",
   "description": "High-level nim wrapper for C/C++ parsing",
   "license": "Apache-2.0",
@@ -18,8 +19,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:41Z",
+  "generatedAt": "2026-05-27T00:53:19Z",
   "allDeps": {
     "packages": [
       "benchy",

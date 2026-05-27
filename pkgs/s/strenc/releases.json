@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "strenc",
   "fqn": "strenc.nim-meta.github.com",
+  "current": "1dc1b6a9c05716dc66792b99a877a9d530d159fb",
   "author": "Danil Yarantsev (Yardanico), lit (litlighilit)",
   "description": "A library to automatically encrypt all string constants in your programs",
   "license": "MIT",
@@ -18,8 +19,9 @@
       "a": "Danil Yarantsev (Yardanico)"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:21Z",
+  "generatedAt": "2026-05-27T01:04:47Z",
   "allDeps": {
     "packages": [],
     "urls": [],

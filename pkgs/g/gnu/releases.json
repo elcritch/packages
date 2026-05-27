@@ -34,8 +34,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T15:47:23Z",
+  "generatedAt": "2026-05-27T00:52:54Z",
   "allDeps": {
     "packages": [
       "cligen",

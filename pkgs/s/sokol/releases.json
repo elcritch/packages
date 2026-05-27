@@ -2,7 +2,7 @@
   "cv": 18,
   "name": "sokol",
   "fqn": "sokol-nim.floooh.github.com",
-  "current": "8a1fd359af70f56dd578f0847940b2577eae8e9e",
+  "current": "b2763c50c907b9859e910dc391823652ba642c69",
   "author": "Andre Weissflog",
   "description": "nim bindings for sokol C headers",
   "license": "MIT",
@@ -58,8 +58,9 @@
       "m": "1.4.4"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T15:53:27Z",
+  "generatedAt": "2026-05-27T01:04:02Z",
   "allDeps": {
     "packages": [],
     "urls": [],

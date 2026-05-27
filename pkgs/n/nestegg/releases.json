@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nestegg",
   "fqn": "nim-nestegg.capocasa.github.com",
+  "current": "0d1fb41be2536177157ba84f36d1d14a0cb09934",
   "author": "Carlo Capocasa",
   "description": "A demuxer for the webm audio/video container format, which is a subset of the matroska container format. Wraps the nestegg C library.",
   "license": "0BSD",
@@ -14,8 +15,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:22Z",
+  "generatedAt": "2026-05-27T00:56:40Z",
   "allDeps": {
     "packages": [
       "cligen",

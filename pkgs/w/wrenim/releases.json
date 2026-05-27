@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "wrenim",
   "fqn": "wrenim.viktornv.github.com",
+  "current": "3c6d0ac0a03911e350f2c769dcaf3f880c8412f1",
   "author": "viktornv",
   "description": "High-level Nim wrapper for Wren VM",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:31Z",
+  "generatedAt": "2026-05-27T01:07:39Z",
   "allDeps": {
     "packages": [],
     "urls": [],

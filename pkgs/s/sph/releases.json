@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "sph",
   "fqn": "sph.aidansteele.github.com",
+  "current": "04c78a0005a83af3f8956f1994b7c01df56639aa",
   "author": "Aidan Steele",
   "description": "Nim wrapper for sphlib",
   "license": "MIT",
@@ -16,8 +17,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:11Z",
+  "generatedAt": "2026-05-27T01:04:22Z",
   "allDeps": {
     "packages": [],
     "urls": [],

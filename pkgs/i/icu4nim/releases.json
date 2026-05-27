@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "icu4nim",
   "fqn": "icu4nim.ferus-web.github.com",
+  "current": "24fd5f19c1d9e15ab49f840f890cb1e82173203c",
   "author": "xTrayambak",
   "description": "Nim wrapper to Unicode's ICU library",
   "license": "MIT",
@@ -27,8 +28,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:57Z",
+  "generatedAt": "2026-05-27T00:53:48Z",
   "allDeps": {
     "packages": [
       "ferrite",

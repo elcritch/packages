@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "polyrpc",
   "fqn": "polyrpc.choltreppe.github.com",
+  "current": "a39f0ad8dbf6ed5ba55452968584279d2324cb8c",
   "author": "Joel Lienhard",
   "description": "A lib for generating rpc interface for any client server pair",
   "license": "MIT",
@@ -27,8 +28,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:12Z",
+  "generatedAt": "2026-05-27T01:00:47Z",
   "allDeps": {
     "packages": [
       "jsony"

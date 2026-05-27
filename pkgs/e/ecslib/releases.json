@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "ecslib",
   "fqn": "ecslib.glassesneo.github.com",
+  "current": "307c8311789a2e8f26e1d32a39ab61af12a1acb6",
   "author": "glassesneo",
   "description": "A nimble package for Entity Component System",
   "license": "MIT",
@@ -25,8 +26,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:42Z",
+  "generatedAt": "2026-05-27T00:50:56Z",
   "allDeps": {
     "packages": [],
     "urls": [],

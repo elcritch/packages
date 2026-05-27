@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "grim",
   "fqn": "grim.ebran.github.com",
+  "current": "3c496c953ea5a749a6ce3545f208a1acce80383d",
   "author": "Erik G. Brandt",
   "description": "Bringer of property graphs to Nim!",
   "license": "MIT",
@@ -46,8 +47,9 @@
       "m": "1.0.4"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:33Z",
+  "generatedAt": "2026-05-27T00:53:02Z",
   "allDeps": {
     "packages": [
       "yaml",

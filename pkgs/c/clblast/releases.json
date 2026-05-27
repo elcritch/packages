@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "clblast",
   "fqn": "nim-clblast.numforge.github.com",
+  "current": "cdadb10dd85b95c9e7248f0b9661ad1e7616efe6",
   "author": "Mamy André-Ratsimbazafy",
   "description": "A wrapper for CLBlast, an OpenCL BLAS library",
   "license": "Apache License 2.0",
@@ -21,8 +22,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:03Z",
+  "generatedAt": "2026-05-27T00:49:48Z",
   "allDeps": {
     "packages": [
       "opencl"

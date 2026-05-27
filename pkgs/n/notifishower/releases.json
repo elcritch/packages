@@ -53,8 +53,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T15:51:22Z",
+  "generatedAt": "2026-05-27T00:59:25Z",
   "allDeps": {
     "packages": [
       "docopt <= 0.3.0",

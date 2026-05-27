@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "worldtree",
   "fqn": "worldtree.keithaustin.github.com",
+  "current": "3517517c9fa400b4cf4e3c9962197daae57be11d",
   "author": "Keith Austin",
   "description": "Small, lightweight ECS framework for Nim",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:31Z",
+  "generatedAt": "2026-05-27T01:07:38Z",
   "allDeps": {
     "packages": [],
     "urls": [],

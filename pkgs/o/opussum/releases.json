@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "opussum",
   "fqn": "opussum.ire4ever1190.github.com",
+  "current": "0df504a0f09dc7e87522ba2c108b91de9520a2b9",
   "author": "Jake Leahy",
   "description": "Wrapper around libopus",
   "license": "MIT",
@@ -57,8 +58,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:50Z",
+  "generatedAt": "2026-05-27T01:00:06Z",
   "allDeps": {
     "packages": [],
     "urls": [],

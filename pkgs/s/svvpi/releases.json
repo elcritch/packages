@@ -56,8 +56,9 @@
       "j": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T15:53:51Z",
+  "generatedAt": "2026-05-27T01:05:00Z",
   "allDeps": {
     "packages": [
       "cligen",

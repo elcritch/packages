@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimzend",
   "fqn": "nimzend.metatexx.github.com",
+  "current": "a418e30936772c2cb975696f5388475cf94214e0",
   "author": "Hans Raaf - METATEXX GmbH",
   "description": "Native Nim Zend API glue for easy PHP extension development",
   "license": "MIT",
@@ -18,8 +19,9 @@
       "d": "Native Nim Zend API glue for easy PHP extension development."
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:20Z",
+  "generatedAt": "2026-05-27T00:59:04Z",
   "allDeps": {
     "packages": [],
     "urls": [],

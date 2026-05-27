@@ -53,8 +53,9 @@
       "m": "0.19.4"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T18:57:29Z",
+  "generatedAt": "2026-05-27T00:50:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

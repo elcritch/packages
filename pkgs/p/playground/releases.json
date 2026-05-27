@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "playground",
   "fqn": "nim-playground.theduke.github.com",
+  "current": "a0180281d2ed237817d331bbd8c5a4bc8b8b3339",
   "author": "Christoph Herzog",
   "description": "Website and server for easily playing with nim code.",
   "license": "MIT",
@@ -11,8 +12,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:07Z",
+  "generatedAt": "2026-05-27T01:00:36Z",
   "allDeps": {
     "packages": [],
     "urls": [],

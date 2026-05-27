@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "asciigraph",
   "fqn": "asciigraph.nimbackup.github.com",
+  "current": "9f51fc4e94d0960ab63fa6ea274518159720aa69",
   "author": "KeepCoolWithCoolidge",
   "description": "Console ascii line charts in pure nim",
   "license": "MIT",
@@ -20,8 +21,9 @@
       "m": "1.0.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:01Z",
+  "generatedAt": "2026-05-27T00:47:57Z",
   "allDeps": {
     "packages": [
       "strfmt <= 0.1.0"

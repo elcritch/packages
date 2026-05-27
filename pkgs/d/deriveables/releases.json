@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "deriveables",
   "fqn": "deriveables.PMunch.github.com",
+  "current": "e6629c6a71ba4c8a41d5e003ba294182132e4659",
   "author": "PMunch",
   "description": "A package to create deriveable types in Nim",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:30Z",
+  "generatedAt": "2026-05-27T00:50:34Z",
   "allDeps": {
     "packages": [],
     "urls": [],

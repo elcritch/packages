@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "bisect",
   "fqn": "bisect.berquist.github.com",
+  "current": "ab6fb4b0ab64b0e43120abd140b320256cf8108a",
   "author": "Eric Berquist",
   "description": "Bisection algorithms ported from Python",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:30Z",
+  "generatedAt": "2026-05-27T00:48:59Z",
   "allDeps": {
     "packages": [],
     "urls": [],

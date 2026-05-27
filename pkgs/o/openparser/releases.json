@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "openparser",
   "fqn": "openparser.openpeeps.github.com",
+  "current": "2813021e39925d3b97c999bc31e8974ab70f092c",
   "author": "George Lemon",
   "description": "A new awesome nimble package",
   "license": "MIT",
@@ -20,8 +21,9 @@
       "d": "Tiny parsers and serializers for JSON, CSV, RSS, Atom feeds and more"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:48Z",
+  "generatedAt": "2026-05-27T01:00:01Z",
   "allDeps": {
     "packages": [
       "nimsimd > 0.1.0"

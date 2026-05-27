@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "basic3d",
   "fqn": "basic3d.nim-lang.github.com",
+  "current": "2e0928d11c8ea21b83c51ffe804bc063ffa9660e",
   "author": "Dominik Picheta",
   "description": "Deprecated package from the stdlib.",
   "license": "MIT",
@@ -12,8 +13,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:19Z",
+  "generatedAt": "2026-05-27T00:48:27Z",
   "allDeps": {
     "packages": [],
     "urls": [],

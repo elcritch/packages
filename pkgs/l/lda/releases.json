@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "lda",
   "fqn": "lda.andreaferretti.github.com",
+  "current": "eee2501656532caad0a12290dc70022fadd98bca",
   "author": "Andrea Ferretti",
   "description": "Latent Dirichlet allocation",
   "license": "Apache2",
@@ -15,8 +16,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:24Z",
+  "generatedAt": "2026-05-27T00:54:51Z",
   "allDeps": {
     "packages": [
       "alea",

@@ -19,8 +19,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T15:44:47Z",
+  "generatedAt": "2026-05-27T00:48:53Z",
   "allDeps": {
     "packages": [
       "faststreams",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "unibs",
   "fqn": "unibs.choltreppe.github.com",
+  "current": "8fd57f083cd2f323d4a23eebdbd0f358f6fdeb0d",
   "author": "Joel Lienhard",
   "description": "binary de-/serialization that works on js, c and comp-time",
   "license": "MIT",
@@ -36,8 +37,9 @@
       "m": "1.9.1"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:58Z",
+  "generatedAt": "2026-05-27T01:06:23Z",
   "allDeps": {
     "packages": [],
     "urls": [],

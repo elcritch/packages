@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "decisiontree",
   "fqn": "DecisionTreeNim.Michedev.github.com",
+  "current": "3283ba2065820495c177656261d0f909fd7d1228",
   "author": "Mikedev",
   "description": "Decision tree and Random forest CART implementation for nim",
   "license": "GPL-3.0",
@@ -21,8 +22,9 @@
       "m": "1.2.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:28Z",
+  "generatedAt": "2026-05-27T00:50:31Z",
   "allDeps": {
     "packages": [
       "sequtils2 > 0.1.0"

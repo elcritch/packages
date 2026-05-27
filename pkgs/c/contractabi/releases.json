@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "contractabi",
   "fqn": "nim-contract-abi.status-im.github.com",
+  "current": "0a7b4cecce725bcb11ad8648035a92704a8854d3",
   "author": "Contract ABI Authors",
   "description": "ABI Encoding for Ethereum contracts",
   "license": "MIT",
@@ -156,8 +157,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:14Z",
+  "generatedAt": "2026-05-27T00:50:06Z",
   "allDeps": {
     "packages": [
       "nimcrypto > 0.4.0",

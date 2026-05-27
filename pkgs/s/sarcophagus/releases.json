@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "sarcophagus",
   "fqn": "sarcophagus.elcritch.github.com",
+  "current": "a255b23f234d5a763b67aab9d84239b1e1c7cdbf",
   "author": "Jaremy Creechley",
   "description": "mummy higher level api wrapper",
   "license": "Apache-2.0",
@@ -430,8 +431,9 @@
       "l": "BSD-2-Clause"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:43Z",
+  "generatedAt": "2026-05-27T01:01:59Z",
   "allDeps": {
     "packages": [
       "bearssl > 0.4.0",

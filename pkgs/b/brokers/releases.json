@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "brokers",
   "fqn": "nim-brokers.NagyZoltanPeter.github.com",
+  "current": "74799f7e82b349d4933bf7307c1fcae48980bd42",
   "releases": [
     {
       "v": "3.0.0@d8f36fd396d148f303a58b4347a366fadf5645a9",
@@ -58,8 +59,9 @@
       "E": "ambiguous nimble file"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:40Z",
+  "generatedAt": "2026-05-27T00:49:15Z",
   "allDeps": {
     "packages": [],
     "urls": [],

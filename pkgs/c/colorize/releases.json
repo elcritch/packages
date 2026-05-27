@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "colorize",
   "fqn": "colorize.molnarmark.github.com",
+  "current": "39435f76aa0ec3a30b027e913aa95a9e427d45f0",
   "author": "Mark Molnar",
   "description": "Simple lightweight package to colorize your terminal output",
   "license": "MIT",
@@ -16,8 +17,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:09Z",
+  "generatedAt": "2026-05-27T00:49:59Z",
   "allDeps": {
     "packages": [],
     "urls": [],

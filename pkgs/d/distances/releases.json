@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "distances",
   "fqn": "distances.ayman-albaz.github.com",
+  "current": "a638bc3ea007a19987cae3326c0e187e74483a24",
   "author": "ayman albaz",
   "description": "Distances is a high performance Nim library for calculating distances.",
   "license": "Apache-2.0",
@@ -29,8 +30,9 @@
       "l": "Apache License 2.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:34Z",
+  "generatedAt": "2026-05-27T00:50:41Z",
   "allDeps": {
     "packages": [
       "arraymancer <= 0.1.1",

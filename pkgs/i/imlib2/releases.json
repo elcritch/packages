@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "imlib2",
   "fqn": "Imlib2.PMunch.github.com",
+  "current": "207dc2ab509044c8653f952a5daa9464d57f59f9",
   "author": "PMunch",
   "description": "Wrapper of the Imlib2 library",
   "license": "MIT",
@@ -17,8 +18,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:58Z",
+  "generatedAt": "2026-05-27T00:53:53Z",
   "allDeps": {
     "packages": [],
     "urls": [],

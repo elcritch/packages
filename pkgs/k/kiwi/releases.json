@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "kiwi",
   "fqn": "kiwi.yglukhov.github.com",
+  "current": "400a03c4e189e984d67d5d689bd9bc129a6f7829",
   "author": "Yuriy Glukhov",
   "description": "Cassowary constraint solving",
   "license": "MIT",
@@ -12,8 +13,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:19Z",
+  "generatedAt": "2026-05-27T00:54:40Z",
   "allDeps": {
     "packages": [],
     "urls": [],

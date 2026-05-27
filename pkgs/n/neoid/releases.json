@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "neoid",
   "fqn": "nim-neoid.theAkito.github.com",
+  "current": "f6197a00064a0779b0d0e5c927873d9afe1b4bc1",
   "author": "Akito",
   "description": "Nim implementation of NanoID.",
   "license": "MIT",
@@ -47,8 +48,9 @@
       "m": "0.18.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:21Z",
+  "generatedAt": "2026-05-27T00:56:33Z",
   "allDeps": {
     "packages": [
       "random",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "ozark",
   "fqn": "ozark.openpeeps.github.com",
+  "current": "358dcb031d5062660352edc070f3e73269a24ad6",
   "author": "George Lemon",
   "description": "A magical ORM for Nim",
   "license": "MIT",
@@ -64,8 +65,9 @@
       "d": "A magical ORM for the Nim language "
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:54Z",
+  "generatedAt": "2026-05-27T01:00:11Z",
   "allDeps": {
     "packages": [
       "db_connector",

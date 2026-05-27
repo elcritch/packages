@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimsvg",
   "fqn": "NimSvg.bluenote10.github.com",
+  "current": "89e7b31a1937524451fdf57f3e851f293385e8ca",
   "author": "Fabian Keller",
   "description": "DSL to generate SVG files",
   "license": "MIT",
@@ -19,8 +20,9 @@
       "m": "1.2"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:14Z",
+  "generatedAt": "2026-05-27T00:58:53Z",
   "allDeps": {
     "packages": [],
     "urls": [],

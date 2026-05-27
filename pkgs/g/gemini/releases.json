@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "gemini",
   "fqn": "gemini.benob.github.com",
+  "current": "165db7ab5846265b12e9cfa7b7b07e45941fd647",
   "author": "Benoit Favre",
   "description": "Building blocks for making async Gemini servers",
   "license": "MIT",
@@ -31,8 +32,9 @@
       "m": "1.4.2"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:17Z",
+  "generatedAt": "2026-05-27T00:52:32Z",
   "allDeps": {
     "packages": [
       "nimcrypto > 0.1.2"

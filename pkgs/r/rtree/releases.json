@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "rtree",
   "fqn": "RTree.stefansalewski.github.com",
+  "current": "2a6a80f5cbcbc0673bbf67628c1766baa838fc1d",
   "author": "Stefan Salewski",
   "description": "R-Tree",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:39Z",
+  "generatedAt": "2026-05-27T01:01:43Z",
   "allDeps": {
     "packages": [],
     "urls": [],

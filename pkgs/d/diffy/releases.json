@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "diffy",
   "fqn": "diffy.elcritch.github.com",
+  "current": "4d4281dac2e58f67f64380e02bcb0a94578b5920",
   "author": "Jaremy Creechley",
   "description": "Simple diff and sub-image finder with SIMD based on Pixie",
   "license": "Apache-2.0",
@@ -33,8 +34,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:32Z",
+  "generatedAt": "2026-05-27T00:50:37Z",
   "allDeps": {
     "packages": [
       "bumpy",

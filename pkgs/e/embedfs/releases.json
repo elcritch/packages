@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "embedfs",
   "fqn": "nim-embedfs.iffy.github.com",
+  "current": "d75c8f3c4cf277bc0e696cc8acff3120c4c04627",
   "author": "Matt Haggard",
   "description": "Embed static files easily",
   "license": "MIT",
@@ -25,8 +26,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:44Z",
+  "generatedAt": "2026-05-27T00:51:00Z",
   "allDeps": {
     "packages": [],
     "urls": [],

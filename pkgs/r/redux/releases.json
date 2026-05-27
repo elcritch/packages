@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "redux",
   "fqn": "redux.nim.pragmagic.github.com",
+  "current": "57fab940eae546ba6c4bb059c98fca17bb8691fd",
   "author": "Pragmagic, Inc.",
   "description": "Predictable state container.",
   "license": "MIT",
@@ -12,8 +13,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:32Z",
+  "generatedAt": "2026-05-27T01:01:26Z",
   "allDeps": {
     "packages": [],
     "urls": [],

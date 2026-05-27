@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "seriesdetiempoar",
   "fqn": "nim-seriesdetiempoar.juancarlospaco.github.com",
+  "current": "6792f468438e0fccc6ed71946b2ce7fbfa9572f2",
   "author": "Juan Carlos",
   "description": "Series de Tiempo de Argentina Government MultiSync API Client for Nim",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:53Z",
+  "generatedAt": "2026-05-27T01:03:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

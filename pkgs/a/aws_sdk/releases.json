@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "aws_sdk",
   "fqn": "aws_sdk.nim.aidansteele.github.com",
+  "current": "1570861e5769daaa89aadd6f45e88bd8acddb6c5",
   "author": "Aidan Steele",
   "description": "AWS SDK for Nim",
   "license": "MIT",
@@ -15,8 +16,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:13Z",
+  "generatedAt": "2026-05-27T00:48:18Z",
   "allDeps": {
     "packages": [
       "sph",

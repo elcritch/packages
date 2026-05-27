@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "hate5d",
   "fqn": "hate5d.MarkArchive.github.com",
+  "current": "6fb398248e76fc5a762f21c429e76f97fba630a9",
   "author": "MarkArchive/devdeco",
   "description": "häte5d: a lightweight moddable 2D game engine for Nim",
   "license": "LGPL-3.0",
@@ -26,8 +27,9 @@
       "d": "häte5d game engine"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:39Z",
+  "generatedAt": "2026-05-27T00:53:18Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimtraits",
   "fqn": "nimtraits.haxscramper.github.com",
+  "current": "b72a9be1762b237f759c87917d4bef9f602d2bc2",
   "author": "haxscramper",
   "description": "Trait system for nim",
   "license": "Apache-2.0",
@@ -41,8 +42,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:16Z",
+  "generatedAt": "2026-05-27T00:58:57Z",
   "allDeps": {
     "packages": [
       "benchy",

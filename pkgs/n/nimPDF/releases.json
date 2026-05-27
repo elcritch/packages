@@ -130,8 +130,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T15:50:03Z",
+  "generatedAt": "2026-05-27T00:57:20Z",
   "allDeps": {
     "packages": [
       "nimAES > 0.4.0",

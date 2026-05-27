@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nwt",
   "fqn": "nimWebTemplates.enthus1ast.github.com",
+  "current": "83ca5ddb04fbb3a0a957e668475e79b3b0cc42d4",
   "author": "enthus1ast",
   "description": "minimal jinja like experiment",
   "license": "MIT",
@@ -51,8 +52,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:41Z",
+  "generatedAt": "2026-05-27T00:59:44Z",
   "allDeps": {
     "packages": [],
     "urls": [],

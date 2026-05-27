@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "casting",
   "fqn": "nim-casting.sls1005.github.com",
+  "current": "4cb082f83b33f8d461cc72e4c95933e511451467",
   "author": "Hsien-yu Chu",
   "description": "A wrapper for the C++ cast operators",
   "license": "MIT",
@@ -12,8 +13,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:49Z",
+  "generatedAt": "2026-05-27T00:49:27Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "netTest",
   "fqn": "netTest.blmvxer.github.com",
+  "current": "d1af7c8d78549e0c125f69bd6a4d597993f49ba0",
   "author": "blmvxer",
   "description": "Connection Test for Nim Web Applications",
   "license": "MIT",
@@ -29,8 +30,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:22Z",
+  "generatedAt": "2026-05-27T00:56:40Z",
   "allDeps": {
     "packages": [],
     "urls": [],

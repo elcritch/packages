@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "mimalloc",
   "fqn": "mimalloc_nim.planetis-m.github.com",
+  "current": "e726e37e716d4d2d7f94bda7d198681080c0b172",
   "author": "Antonis Geralis",
   "description": "A drop-in solution to use mimalloc in Nim",
   "license": "MIT",
@@ -66,8 +67,9 @@
       "d": "A Nim package for using mimalloc with ARC/ORC"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:59Z",
+  "generatedAt": "2026-05-27T00:55:56Z",
   "allDeps": {
     "packages": [],
     "urls": [],

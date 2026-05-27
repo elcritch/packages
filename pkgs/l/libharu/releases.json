@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "libharu",
   "fqn": "libharu.z-kk.github.com",
+  "current": "c2adeb84243a21064542f405c7fae9da0d620166",
   "author": "z-kk",
   "description": "library for libharu",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:27Z",
+  "generatedAt": "2026-05-27T00:54:59Z",
   "allDeps": {
     "packages": [],
     "urls": [],

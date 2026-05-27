@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "requirementstxt",
   "fqn": "nim-requirementstxt.juancarlospaco.github.com",
+  "current": "769a099b3e4e512985413c9e2740c81d480381d7",
   "author": "Juan Carlos",
   "description": "Python requirements.txt generic parser for Nim",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:34Z",
+  "generatedAt": "2026-05-27T01:01:30Z",
   "allDeps": {
     "packages": [],
     "urls": [],

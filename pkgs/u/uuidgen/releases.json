@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "uuidgen",
   "fqn": "uuidgen.jamesfrancis2004.github.com",
+  "current": "b60fa3264bc0358be481b1892108e6ab45241b4a",
   "author": "James Francis",
   "description": "A package for generating uuids",
   "license": "MIT",
@@ -15,8 +16,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:06Z",
+  "generatedAt": "2026-05-27T01:06:43Z",
   "allDeps": {
     "packages": [
       "checksums"

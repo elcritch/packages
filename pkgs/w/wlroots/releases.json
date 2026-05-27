@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "wlroots",
   "fqn": "nim-wlroots.j-james.github.com",
+  "current": "b37019ef35381e8aba8728175486d348122f7f7d",
   "author": "j-james",
   "description": "Nim bindings for wlroots",
   "license": "MIT",
@@ -12,8 +13,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:30Z",
+  "generatedAt": "2026-05-27T01:07:36Z",
   "allDeps": {
     "packages": [],
     "urls": [],

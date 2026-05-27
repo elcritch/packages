@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "suru",
   "fqn": "suru.de-odex.github.com",
+  "current": "1142919e22e35da557f7335cbf8d1105e1b1734e",
   "author": "de-odex",
   "description": "A tqdm-style progress bar in Nim",
   "license": "MIT",
@@ -18,8 +19,9 @@
       "m": "1.0.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:27Z",
+  "generatedAt": "2026-05-27T01:05:00Z",
   "allDeps": {
     "packages": [],
     "urls": [],

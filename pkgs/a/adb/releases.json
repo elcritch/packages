@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "adb",
   "fqn": "nim-adb.nimbackup.github.com",
+  "current": "837450b5b703ff3ca8d3995f2927ea45d65056d2",
   "author": "Yardanico",
   "description": "ADB protocol implementation in Nim",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:11:49Z",
+  "generatedAt": "2026-05-27T00:47:36Z",
   "allDeps": {
     "packages": [],
     "urls": [],

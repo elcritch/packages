@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "rng",
   "fqn": "rng.onbox.codeberg.org",
+  "current": "3530a04848ba17eff39f438a23113be1bee75a2c",
   "author": "penguinite",
   "description": "Wrapper over std/sysrand",
   "license": "BSD-3-Clause",
@@ -23,8 +24,9 @@
       "d": "Very basic wrapper over std/sysrand"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:38Z",
+  "generatedAt": "2026-05-27T01:04:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

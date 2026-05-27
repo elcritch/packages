@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "cobs",
   "fqn": "nim_cobs.keyme.github.com",
+  "current": "a2fa5ab0bca493e5b0c0806f5b0c3fbfda76fa23",
   "author": "Jeff Ciesielski",
   "description": "Consistent Overhead Byte Stuffing for Nim",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:08Z",
+  "generatedAt": "2026-05-27T00:49:57Z",
   "allDeps": {
     "packages": [],
     "urls": [],

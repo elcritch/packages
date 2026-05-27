@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "osutil",
   "fqn": "nim-osutil.juancarlospaco.github.com",
+  "current": "b3255dde9d0d74dda1e14c9fa60e50f05225f875",
   "author": "juancarlospaco",
   "description": "OS Utils for Nim, simple tiny but useful procs for OS. Turn Display OFF and set Process Name.",
   "license": "LGPLv3",
@@ -27,8 +28,9 @@
       "m": "0.18.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:51Z",
+  "generatedAt": "2026-05-27T01:00:08Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "tram",
   "fqn": "tram.facorazza.github.com",
+  "current": "a85ed168025a12b253993006cf35d27a9f1da3cc",
   "author": "Federico A. Corazza",
   "description": "Traffic Analysis in Nim",
   "license": "GPL-3.0",
@@ -21,8 +22,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:49Z",
+  "generatedAt": "2026-05-27T01:05:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

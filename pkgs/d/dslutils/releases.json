@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "dslutils",
   "fqn": "dslutils.codehz.github.com",
+  "current": "f30118605153dd924685fbc11095e7c818a8e545",
   "author": "CodeHz",
   "description": "A macro collection for creating DSL in nim",
   "license": "MIT",
@@ -21,8 +22,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:38Z",
+  "generatedAt": "2026-05-27T00:50:49Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "formatstr",
   "fqn": "formatstr.guibar64.github.com",
+  "current": "6e04abf1f4f778e5bfb75d8d040947971a305f0e",
   "author": "G. Bareigts",
   "description": "string interpolation, complement of std/strformat for runtime strings",
   "license": "MIT",
@@ -17,8 +18,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:10Z",
+  "generatedAt": "2026-05-27T00:52:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

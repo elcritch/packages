@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "facedetect",
   "fqn": "facedetect.deNULL.github.com",
+  "current": "e73c08a7ebaf6de706dcb2b3b84a35bb2ebd8394",
   "author": "Denis Olshin",
   "description": "A face detection, pupil/eyes localization and facial landmark points detection library",
   "license": "MIT",
@@ -16,8 +17,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:52Z",
+  "generatedAt": "2026-05-27T00:51:20Z",
   "allDeps": {
     "packages": [
       "bumpy",

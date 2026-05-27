@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "macroutils",
   "fqn": "macroutils.PMunch.github.com",
+  "current": "e6357d428f3888c3b0c068a9e2bd0cf66d25e3cd",
   "author": "Peter Munch-Ellingsen",
   "description": "A package that makes creating macros easier",
   "license": "MIT",
@@ -17,8 +18,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:49Z",
+  "generatedAt": "2026-05-27T00:55:37Z",
   "allDeps": {
     "packages": [],
     "urls": [],

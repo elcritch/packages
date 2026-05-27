@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "oshostname",
   "fqn": "nim-oshostname.jrfondren.github.com",
+  "current": "5b4c84de2004ebede91b0b61617fa16b87141eaf",
   "author": "Julian Fondren",
   "description": "Get the current hostname with gethostname(2)",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:51Z",
+  "generatedAt": "2026-05-27T01:00:07Z",
   "allDeps": {
     "packages": [],
     "urls": [],

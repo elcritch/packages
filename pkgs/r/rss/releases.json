@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "rss",
   "fqn": "nim-rss.achesak.github.com",
+  "current": "c51da8c22dbc67889e4884c77d459cea92b17926",
   "author": "Adam Chesak",
   "description": "Nimrod RSS parser",
   "license": "MIT",
@@ -28,8 +29,9 @@
       "d": "Nim RSS parser"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:39Z",
+  "generatedAt": "2026-05-27T01:01:38Z",
   "allDeps": {
     "packages": [],
     "urls": [],

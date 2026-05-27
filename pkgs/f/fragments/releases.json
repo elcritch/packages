@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "fragments",
   "fqn": "fragments.sinkingsugar.github.com",
+  "current": "0f4df0e41dec441bdd39c33767af3e26560d5d72",
   "author": "Fragcolor Inc.",
   "description": "Our very personal collection of utilities",
   "license": "MIT",
@@ -201,8 +202,9 @@
       "m": "0.18.1"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:11Z",
+  "generatedAt": "2026-05-27T00:52:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "bignum",
   "fqn": "bignum.SciNim.github.com",
+  "current": "39b6e9a76d7c519b5383fa81c2a0fe20242953ad",
   "author": "Federico Omoto",
   "description": "Wrapper around the GMP bindings for the Nim language.",
   "license": "MIT",
@@ -29,8 +30,9 @@
       "m": "0.11.2"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:28Z",
+  "generatedAt": "2026-05-27T00:48:52Z",
   "allDeps": {
     "packages": [
       "gmp"

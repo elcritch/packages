@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimarrow_glib",
   "fqn": "nimarrow_glib.emef.github.com",
+  "current": "bce244fe7ef3bb872b93b2947bbe72c92a56244f",
   "author": "matt forbes",
   "description": "apache arrow and parquet c api bindings",
   "license": "Apache-2.0",
@@ -17,8 +18,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:40Z",
+  "generatedAt": "2026-05-27T00:57:36Z",
   "allDeps": {
     "packages": [],
     "urls": [],

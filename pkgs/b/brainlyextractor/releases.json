@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "brainlyextractor",
   "fqn": "brainlyextractor.thisago.github.com",
+  "current": "4b735563d96363efb03aa61308eb4a9d8b484cd9",
   "author": "Luciano Lorenzo",
   "description": "Brainly data extractor",
   "license": "MIT",
@@ -71,8 +72,9 @@
       "m": "1.0.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:39Z",
+  "generatedAt": "2026-05-27T00:49:13Z",
   "allDeps": {
     "packages": [
       "scraper > 0.1.0"

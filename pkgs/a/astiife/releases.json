@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "astiife",
   "fqn": "astiife.xjzh123.github.com",
+  "current": "be1985e357eeb859467157e12e3a0f24c75c7d31",
   "author": "xjzh123",
   "description": "Yet another CLI option parser generator for Nim.",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:05Z",
+  "generatedAt": "2026-05-27T00:48:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

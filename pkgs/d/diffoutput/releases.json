@@ -26,8 +26,9 @@
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/diffoutput.JohnAD.github.com-3edd9b62-diffoutput.nimble\ncannot resolve package name: diff"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T18:57:36Z",
+  "generatedAt": "2026-05-27T00:50:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

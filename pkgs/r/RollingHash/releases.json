@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "RollingHash",
   "fqn": "RollingHash.MarcAzar.github.com",
+  "current": "93be628dc5b387ae235ceec0fef0d1914c5d3500",
   "author": "Marc Azar",
   "description": "A high performance Nim implementation of a Cyclic Polynomial Hash, aka BuzHash, and Rabin-Karp algorithm.",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:11:45Z",
+  "generatedAt": "2026-05-27T00:47:30Z",
   "allDeps": {
     "packages": [],
     "urls": [],

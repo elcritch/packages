@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "networkutils",
   "fqn": "networkutils.nim.Q-Master.github.com",
+  "current": "7a2e5c255d4e40e5a6431c11b86e9d3cb7e0ce06",
   "author": "Vladimir Berezenko <qmaster2000@gmail.com>",
   "description": "Various networking utils",
   "license": "MIT",
@@ -68,8 +69,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:24Z",
+  "generatedAt": "2026-05-27T00:56:41Z",
   "allDeps": {
     "packages": [
       "ptr_math"

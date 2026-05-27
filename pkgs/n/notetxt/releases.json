@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "notetxt",
   "fqn": "nim-notetxt.mrshu.github.com",
+  "current": "fa5ac89b1b0733cbcf9a59941c1e567f72b944e9",
   "author": "mr.Shu",
   "description": "A library that implements the note.txt specification for note taking.",
   "license": "MIT",
@@ -12,8 +13,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:34Z",
+  "generatedAt": "2026-05-27T00:59:23Z",
   "allDeps": {
     "packages": [],
     "urls": [],

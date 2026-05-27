@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "vec",
   "fqn": "vec.dom96.github.com",
+  "current": "ac6a04f0798c92570955bb6ccbe99b77fdab62dd",
   "author": "Dominik Picheta",
   "description": "A very simple vector library.",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:08Z",
+  "generatedAt": "2026-05-27T01:06:47Z",
   "allDeps": {
     "packages": [],
     "urls": [],

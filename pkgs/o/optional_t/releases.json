@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "optional_t",
   "fqn": "optional_t.flaviut.github.com",
+  "current": "9f33a000cfadb4ffe0a404798147dea90fed66c4",
   "author": "Flaviu Tamas",
   "description": "A simple Option[T] library",
   "license": "MIT",
@@ -20,8 +21,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:49Z",
+  "generatedAt": "2026-05-27T01:00:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "compactdict",
   "fqn": "compactdict.LemonBoy.github.com",
+  "current": "78df64c5be0f0742edc278a194b047dc1c6edab1",
   "author": "LemonBoy",
   "description": "A compact dictionary implementation",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:10Z",
+  "generatedAt": "2026-05-27T00:50:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

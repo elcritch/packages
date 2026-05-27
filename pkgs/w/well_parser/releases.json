@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "well_parser",
   "fqn": "RRC-permits.samsamros.codeberg.org",
+  "current": "098ab580b994b276ee228102092ef38592b7976a",
   "author": "Empower, LLC",
   "description": "Parsing the Texas RRC data on wells",
   "license": "GPL-3.0",
@@ -21,8 +22,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:24Z",
+  "generatedAt": "2026-05-27T01:07:52Z",
   "allDeps": {
     "packages": [
       "anonimongo",

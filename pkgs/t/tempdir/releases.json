@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "tempdir",
   "fqn": "tempdir.nim.euantorano.github.com",
+  "current": "2b419f5bdc563efaf9d1b1e8c64448cdd44f3780",
   "author": "Euan T",
   "description": "A Nim library to create and manage temporary directories.",
   "license": "BSD3",
@@ -18,8 +19,9 @@
       "m": "0.16.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:35Z",
+  "generatedAt": "2026-05-27T01:05:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

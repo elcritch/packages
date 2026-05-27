@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "osinfo",
   "fqn": "osinfo.nim-lang.github.com",
+  "current": "437486dff62eb9d91ab1e55c780f84dd0d225e2b",
   "author": "Dominik Picheta",
   "description": "Modules providing information about the OS.",
   "license": "MIT",
@@ -29,8 +30,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:51Z",
+  "generatedAt": "2026-05-27T01:00:07Z",
   "allDeps": {
     "packages": [],
     "urls": [],

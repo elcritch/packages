@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "taps",
   "fqn": "nim_taps.~ehmry.git.sr.ht",
+  "current": "989a1b07850ea74ec4480a1440e9de13d9eabda2",
   "author": "Emery Hemingway",
   "description": "Transport Services Interface",
   "license": "Unlicense",
@@ -105,8 +106,9 @@
       "m": "1.0.2"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:34Z",
+  "generatedAt": "2026-05-27T01:05:11Z",
   "allDeps": {
     "packages": [
       "getdns > 20220913 & <= 20240405"

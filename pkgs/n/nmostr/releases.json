@@ -573,8 +573,9 @@
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-a0d0493b-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T19:02:19Z",
+  "generatedAt": "2026-05-27T00:59:12Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

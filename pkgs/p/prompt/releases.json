@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "prompt",
   "fqn": "nim-prompt.surf1nb1rd.github.com",
+  "current": "b0ea27c34ca7aaee42333541f37b182fa239c844",
   "author": "Surf1nb1rd",
   "description": "Feature-rich readline replacement",
   "license": "BSD2",
@@ -14,8 +15,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:18Z",
+  "generatedAt": "2026-05-27T01:00:59Z",
   "allDeps": {
     "packages": [
       "unicodedb"

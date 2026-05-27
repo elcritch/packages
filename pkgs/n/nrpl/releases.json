@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nrpl",
   "fqn": "nrpl.vegansk.github.com",
+  "current": "15e6270295f2d5865fb95e2b47188937a0acccd5",
   "author": "Willy Heineman",
   "description": "A Nim REPL",
   "license": "MIT",
@@ -15,8 +16,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:37Z",
+  "generatedAt": "2026-05-27T00:59:31Z",
   "allDeps": {
     "packages": [],
     "urls": [],

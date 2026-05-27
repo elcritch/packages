@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "yubikey_otp",
   "fqn": "nim_yubikey_otp.ThomasTJdev.github.com",
+  "current": "280d12cfd035910317c09d8b4d95c116233c3f29",
   "author": "ThomasTJdev",
   "description": "Yubikey OTP",
   "license": "MIT",
@@ -25,8 +26,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:45Z",
+  "generatedAt": "2026-05-27T01:08:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "getdns",
   "fqn": "getdns-nim.~ehmry.git.sr.ht",
+  "current": "7cdedf05a2d9b3b6b0fffcfc548c63986ac7f5a7",
   "author": "Emery Hemingway",
   "description": "Wrapper over the getdns C library",
   "license": "BSD-3-Clause",
@@ -37,8 +38,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:21Z",
+  "generatedAt": "2026-05-27T00:52:41Z",
   "allDeps": {
     "packages": [],
     "urls": [],

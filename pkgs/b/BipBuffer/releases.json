@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "BipBuffer",
   "fqn": "BipBuffer.MarcAzar.github.com",
+  "current": "6c1c15f181cf8b08aa7818f58882708f467b043f",
   "author": "Marc Azar",
   "description": "Bi-partite buffer implementation in Nim",
   "license": "MIT",
@@ -29,8 +30,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:11:39Z",
+  "generatedAt": "2026-05-27T00:47:18Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "scram",
   "fqn": "scram.nim.nim-community.github.com",
+  "current": "085fafa0753944b537949ac655abd0e9e5779935",
   "author": "Huy Doan",
   "description": "Salted Challenge Response Authentication Mechanism (SCRAM) ",
   "license": "MIT",
@@ -123,8 +124,9 @@
       "m": "0.19.4"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:45Z",
+  "generatedAt": "2026-05-27T01:02:20Z",
   "allDeps": {
     "packages": [
       "checksums",

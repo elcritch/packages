@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "feednim",
   "fqn": "feed-nim.johnconway.github.com",
+  "current": "47535cdac92c6d0cdb4fa94f5e232b2d2c6b0005",
   "author": "John Conway",
   "description": "An Atom, RSS, and JSONfeed parser",
   "license": "MIT",
@@ -29,8 +30,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:54Z",
+  "generatedAt": "2026-05-27T00:51:32Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "tinyfiledialogs",
   "fqn": "nim-tinyfiledialogs.juancarlospaco.github.com",
+  "current": "8f4e445463050fb120514228cea0e9cbd9172c11",
   "author": "Juan Carlos",
   "description": "TinyFileDialogs for Nim.",
   "license": "MIT",
@@ -28,8 +29,9 @@
       "m": "1.6.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:45Z",
+  "generatedAt": "2026-05-27T01:05:39Z",
   "allDeps": {
     "packages": [],
     "urls": [],

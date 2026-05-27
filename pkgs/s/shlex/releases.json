@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "shlex",
   "fqn": "shlex.SolitudeSF.github.com",
+  "current": "513b299d5d621255c4be623ddfd3d82d11293a08",
   "author": "SolitudeSF",
   "description": "Split string into shell words",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:57Z",
+  "generatedAt": "2026-05-27T01:03:23Z",
   "allDeps": {
     "packages": [],
     "urls": [],

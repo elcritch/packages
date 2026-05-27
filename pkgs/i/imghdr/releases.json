@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "imghdr",
   "fqn": "nim-imghdr.achesak.github.com",
+  "current": "de6463188468b83ddc9b1ec28976bb3fc598e1ee",
   "author": "Adam Chesak",
   "description": "Library for detecting the format of an image",
   "license": "MIT",
@@ -19,8 +20,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:58Z",
+  "generatedAt": "2026-05-27T00:53:52Z",
   "allDeps": {
     "packages": [],
     "urls": [],

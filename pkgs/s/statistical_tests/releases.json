@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "statistical_tests",
   "fqn": "statistical-tests.ayman-albaz.github.com",
+  "current": "0c50acf256d54c7c206f46259b874e7ad5b6b18e",
   "author": "ayman albaz",
   "description": "Statistical tests in Nim.",
   "license": "Apache-2.0",
@@ -21,8 +22,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:17Z",
+  "generatedAt": "2026-05-27T01:04:38Z",
   "allDeps": {
     "packages": [
       "distributions",

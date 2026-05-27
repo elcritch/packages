@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "webidl2nim",
   "fqn": "webidl2nim.ASVIEST.github.com",
+  "current": "a50303ea276ad77b1ee151b4d1475892133e4927",
   "author": "ASVIEST",
   "description": "webidl to Nim translator",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:19Z",
+  "generatedAt": "2026-05-27T01:07:12Z",
   "allDeps": {
     "packages": [],
     "urls": [],

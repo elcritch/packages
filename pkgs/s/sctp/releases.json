@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "sctp",
   "fqn": "sctp.nim.metacontainer.github.com",
+  "current": "d207c3ec1485252a25886cde6075cadaeae5d5de",
   "author": "Michał Zieliński <michal@zielinscy.org.pl>",
   "description": "High-level Nim bindings for userspace SCTP implementation",
   "license": "MIT",
@@ -14,8 +15,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:45Z",
+  "generatedAt": "2026-05-27T01:02:22Z",
   "allDeps": {
     "packages": [
       "collections",

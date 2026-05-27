@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "masterpassword",
   "fqn": "masterpassword.SolitudeSF.github.com",
+  "current": "5845460678b4a28cfa11ed0f66ecf4da04507e93",
   "author": "SolitudeSF",
   "description": "Master Password algorithm implementation",
   "license": "MIT",
@@ -28,8 +29,9 @@
       "m": "0.19.4"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:52Z",
+  "generatedAt": "2026-05-27T00:55:42Z",
   "allDeps": {
     "packages": [
       "checksums <= 0.1.0",

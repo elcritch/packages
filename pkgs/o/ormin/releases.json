@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "ormin",
   "fqn": "ormin.Araq.github.com",
+  "current": "c0575260626c32a52c62ab8faf27611275c64b8f",
   "author": "Araq",
   "description": "Prepared SQL statement generator. A lightweight ORM.",
   "license": "MIT",
@@ -12,8 +13,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:50Z",
+  "generatedAt": "2026-05-27T01:00:07Z",
   "allDeps": {
     "packages": [],
     "urls": [],

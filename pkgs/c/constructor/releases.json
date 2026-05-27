@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "constructor",
   "fqn": "constructor.beef331.github.com",
+  "current": "f97bbbc90fe4e5097b7678d8a540d6f155a5eaa6",
   "author": "Jason Beetham",
   "description": "Automates constructor creation",
   "license": "MIT",
@@ -111,8 +112,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:13Z",
+  "generatedAt": "2026-05-27T00:50:04Z",
   "allDeps": {
     "packages": [
       "micros > 1.0.3"

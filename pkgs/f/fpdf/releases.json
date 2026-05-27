@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "fpdf",
   "fqn": "fpdf.akvilary.github.com",
+  "current": "a24e394b3b08bef903343ad6aad5274d8cc74543",
   "author": "akvilary",
   "description": "PDF generation library following the PHP FPDF API",
   "license": "MIT",
@@ -16,8 +17,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:10Z",
+  "generatedAt": "2026-05-27T00:52:15Z",
   "allDeps": {
     "packages": [
       "nimPNG",

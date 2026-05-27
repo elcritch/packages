@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "ffmpeg_cli",
   "fqn": "nim-ffmpeg-cli.termer.git.termer.net",
+  "current": "bf0511a7e2345f1b2d753391b9c5e98e5bf308ba",
   "author": ".",
   "description": "Library for interfacing with the FFmpeg CLI to start, observe and terminate encode jobs with an intuitive API",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:58Z",
+  "generatedAt": "2026-05-27T00:51:44Z",
   "allDeps": {
     "packages": [],
     "urls": [],

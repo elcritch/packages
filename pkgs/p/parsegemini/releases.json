@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "parsegemini",
   "fqn": "parsegemini.autumngray.github.com",
+  "current": "50b10def9a9fd0637fbe5a46c6b55f75c435266d",
   "author": "Simon Werbeck",
   "description": "Library for parsing text/gemini",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:58Z",
+  "generatedAt": "2026-05-27T01:00:20Z",
   "allDeps": {
     "packages": [],
     "urls": [],

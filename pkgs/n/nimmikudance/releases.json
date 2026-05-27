@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimmikudance",
   "fqn": "NimMikuDance.aphkyle.github.com",
+  "current": "52772ae5dce004ab6ac1829ab8ad403a379375e1",
   "author": "aphkyle",
   "description": "MMD I/O!",
   "license": "ISC",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:02Z",
+  "generatedAt": "2026-05-27T00:58:33Z",
   "allDeps": {
     "packages": [],
     "urls": [],

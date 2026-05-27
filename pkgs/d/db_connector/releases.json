@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "db_connector",
   "fqn": "db_connector.nim-lang.github.com",
+  "current": "29450a2063970712422e1ab857695c12d80112a6",
   "author": "ringabout",
   "description": "Unified database connector.",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:25Z",
+  "generatedAt": "2026-05-27T00:50:25Z",
   "allDeps": {
     "packages": [],
     "urls": [],

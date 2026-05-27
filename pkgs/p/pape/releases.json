@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "pape",
   "fqn": "pape.hdbg.github.com",
+  "current": "9ba289d60619593cb0f1d19d4133afc0d82d6b0c",
   "author": "hdbg",
   "description": "Portable Executable parsing library",
   "license": "MIT",
@@ -21,8 +22,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:56Z",
+  "generatedAt": "2026-05-27T01:00:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

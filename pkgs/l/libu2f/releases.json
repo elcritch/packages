@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "libu2f",
   "fqn": "nim-libu2f.FedericoCeratto.github.com",
+  "current": "a93cd835e405cd2d4b1d783570c681baf77e2c15",
   "author": "Federico Ceratto",
   "description": "Wrapper for the libu2f server and client",
   "license": "LGPLv3",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:32Z",
+  "generatedAt": "2026-05-27T00:55:12Z",
   "allDeps": {
     "packages": [],
     "urls": [],

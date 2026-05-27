@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "opusenc",
   "fqn": "nim_opusenc.~ehmry.git.sr.ht",
+  "current": "7f0c91bc710db309332e0229818199a95f3a865d",
   "author": "Emery Hemingway",
   "description": "Bindings to libopusenc",
   "license": "BSD-3-Clause",
@@ -17,8 +18,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:50Z",
+  "generatedAt": "2026-05-27T01:00:05Z",
   "allDeps": {
     "packages": [],
     "urls": [],

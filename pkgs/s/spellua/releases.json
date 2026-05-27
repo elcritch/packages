@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "spellua",
   "fqn": "spellua.glassesneo.github.com",
+  "current": "85a4e432ad1ea05c053d510431f8b45663010668",
   "author": "glassesneo",
   "description": "A high level LuaJIT bindings",
   "license": "WTFPL",
@@ -15,8 +16,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:11Z",
+  "generatedAt": "2026-05-27T01:04:20Z",
   "allDeps": {
     "packages": [
       "seiryu"

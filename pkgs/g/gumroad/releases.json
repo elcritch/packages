@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "gumroad",
   "fqn": "gumroad-nim.openpeeps.github.com",
+  "current": "2f525a735dc5e7d2b2b1857574e4e91eb30d77d3",
   "author": "George Lemon",
   "description": "API client for Gumroad.com",
   "license": "MIT",
@@ -16,8 +17,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:35Z",
+  "generatedAt": "2026-05-27T00:53:05Z",
   "allDeps": {
     "packages": [
       "bump",

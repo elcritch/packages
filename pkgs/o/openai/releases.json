@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "openai",
   "fqn": "nim_openai.ThomasTJdev.github.com",
+  "current": "9af9c41bd467f88b9995d63a824ba8f715506039",
   "author": "ThomasTJdev",
   "description": "OpenAI API",
   "license": "MIT",
@@ -25,8 +26,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:46Z",
+  "generatedAt": "2026-05-27T00:59:57Z",
   "allDeps": {
     "packages": [],
     "urls": [],

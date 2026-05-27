@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "cli_menu",
   "fqn": "cli_menu.MnlPhlp.github.com",
+  "current": "4ef855e5c24aabeb90bc837f8e87d96a24897691",
   "author": "MnlPhlp",
   "description": "A library to create interactive commandline menus without writing boilerplate code.",
   "license": "MIT",
@@ -25,8 +26,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:03Z",
+  "generatedAt": "2026-05-27T00:49:49Z",
   "allDeps": {
     "packages": [],
     "urls": [],

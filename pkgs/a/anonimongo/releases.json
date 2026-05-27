@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "anonimongo",
   "fqn": "anonimongo.mashingan.github.com",
+  "current": "c7ad1ff0369e81b0d20090aa1b254ddf62776e24",
   "author": "Rahmatullah",
   "description": "Anonimongo - Another pure Nim Mongo driver",
   "license": "MIT",
@@ -329,8 +330,9 @@
       "m": "1.0.2"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:11:56Z",
+  "generatedAt": "2026-05-27T00:47:46Z",
   "allDeps": {
     "packages": [
       "checksums",

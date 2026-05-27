@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "darwin",
   "fqn": "darwin.yglukhov.github.com",
+  "current": "89d410974b6b034640796ab5659c5f8ad8ec6000",
   "author": "Yuriy Glukhov",
   "description": "Collection of bindings to MacOS and iOS APIs",
   "license": "MIT",
@@ -36,8 +37,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:23Z",
+  "generatedAt": "2026-05-27T00:50:22Z",
   "allDeps": {
     "packages": [],
     "urls": [],

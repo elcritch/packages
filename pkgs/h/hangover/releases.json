@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "hangover",
   "fqn": "hangover.bob16795.github.com",
+  "current": "943ba35907685e6fe21019d6f348fddfc3b8e096",
   "author": "bob16795",
   "description": "A new version of gin, with more features",
   "license": "MIT",
@@ -48,8 +49,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:37Z",
+  "generatedAt": "2026-05-27T00:53:08Z",
   "allDeps": {
     "packages": [
       "freetype <= 0.1.1",

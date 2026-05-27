@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "dik",
   "fqn": "dik.juancarlospaco.github.com",
+  "current": "7ce5bf5fa2167cb76d07ed595437fa037bbfab94",
   "author": "Juan Carlos",
   "description": "Table implemented as optimized sorted hashed dictionary of {array[char]: Option[T]}, same size as OrderedTable",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:32Z",
+  "generatedAt": "2026-05-27T00:50:37Z",
   "allDeps": {
     "packages": [],
     "urls": [],

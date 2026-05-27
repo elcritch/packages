@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nauthy",
   "fqn": "nauthy.lzoz.github.com",
+  "current": "c699f3225269fab54f589ab4fdc8acf1c13c917b",
   "author": "lzoz",
   "description": "Nim library for One Time Password verification and generation.",
   "license": "MIT",
@@ -21,8 +22,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:16Z",
+  "generatedAt": "2026-05-27T00:56:24Z",
   "allDeps": {
     "packages": [
       "nimSHA2"

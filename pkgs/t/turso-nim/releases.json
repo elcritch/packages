@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "turso-nim",
   "fqn": "turso-nim.13thab.codeberg.org",
+  "current": "44cce7f907c7d250faf3274e506f5e239b132273",
   "author": "13thab",
   "description": "A new awesome nimble client for libsql and turso",
   "license": "BSD-3-Clause",
@@ -21,8 +22,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:55Z",
+  "generatedAt": "2026-05-27T01:06:38Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "lately",
   "fqn": "lately.hmbemba.github.com",
+  "current": "f12d6ad54f79663a19fac7cf8895102da5710f54",
   "author": "hmbem",
   "description": "Nim SDK for the Late.dev API",
   "license": "MIT",
@@ -29,8 +30,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:23Z",
+  "generatedAt": "2026-05-27T00:54:49Z",
   "allDeps": {
     "packages": [
       "debby > 0.1.1",

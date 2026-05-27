@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "tiger",
   "fqn": "nim_tiger.~ehmry.git.sr.ht",
+  "current": "c81b088704b09ff08304bbc0211ac9b22e1bb77e",
   "author": "Emery Hemingway",
   "description": "Tiger hash function",
   "license": "MIT",
@@ -16,8 +17,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:42Z",
+  "generatedAt": "2026-05-27T01:05:29Z",
   "allDeps": {
     "packages": [],
     "urls": [],

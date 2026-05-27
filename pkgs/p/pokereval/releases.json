@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "pokereval",
   "fqn": "pokereval.jasonlu7.github.com",
+  "current": "2964a9d6a7574766c2c89c4740f319d61545e88c",
   "author": "jasonlu7",
   "description": "A poker hand evaluator",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:11Z",
+  "generatedAt": "2026-05-27T01:00:45Z",
   "allDeps": {
     "packages": [],
     "urls": [],

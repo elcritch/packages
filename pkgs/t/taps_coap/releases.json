@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "taps_coap",
   "fqn": "coap-nim.eris.codeberg.org",
+  "current": "286a38e99473f1a67eb571988a666dd0f126aea7",
   "author": "Emery Hemingway",
   "description": "CoAP endpoint libary",
   "license": "Unlicense",
@@ -69,8 +70,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:34Z",
+  "generatedAt": "2026-05-27T01:07:17Z",
   "allDeps": {
     "packages": [
       "getdns",

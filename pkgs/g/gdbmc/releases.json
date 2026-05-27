@@ -22,8 +22,9 @@
       "d": "This library is a wrapper to C GDBM library."
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T15:47:07Z",
+  "generatedAt": "2026-05-27T00:52:30Z",
   "allDeps": {
     "packages": [],
     "urls": [],

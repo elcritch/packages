@@ -2,14 +2,16 @@
   "cv": 18,
   "name": "wayland_native",
   "fqn": "wayland-nim.~ehmry.git.sr.ht",
+  "current": "58d1e911db221f1947a1e980dfd2f4ffea4f4018",
   "releases": [
     {
       "v": "20240808@58d1e911db221f1947a1e980dfd2f4ffea4f4018^",
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:17Z",
+  "generatedAt": "2026-05-27T01:07:07Z",
   "allDeps": {
     "packages": [],
     "urls": [],

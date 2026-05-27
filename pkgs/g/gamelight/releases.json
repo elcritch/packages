@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "gamelight",
   "fqn": "gamelight.dom96.github.com",
+  "current": "e0abfd649c53a82e65c26a3fd930c838dbb45caa",
   "author": "Dominik Picheta",
   "description": "A set of simple modules for writing a JavaScript 2D game.",
   "license": "MIT",
@@ -12,8 +13,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:15Z",
+  "generatedAt": "2026-05-27T00:52:26Z",
   "allDeps": {
     "packages": [],
     "urls": [],

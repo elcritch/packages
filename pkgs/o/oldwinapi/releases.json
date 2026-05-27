@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "oldwinapi",
   "fqn": "oldwinapi.nim-lang.github.com",
+  "current": "8b34de48ac98702708a2ee20305d327416725d1e",
   "author": "Andreas Rumpf",
   "description": "Old Win API library for Nim",
   "license": "LGPL",
@@ -11,8 +12,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:43Z",
+  "generatedAt": "2026-05-27T00:59:52Z",
   "allDeps": {
     "packages": [],
     "urls": [],

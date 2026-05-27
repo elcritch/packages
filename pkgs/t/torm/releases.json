@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "torm",
   "fqn": "torm.enimatek-nl.github.com",
+  "current": "c90f6c3e4b60a2009ac476bb059db0d0c8ab5fee",
   "author": "enimatek",
   "description": "Tiny object relational mapper for SQLite in Nim.",
   "license": "MIT",
@@ -21,8 +22,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:48Z",
+  "generatedAt": "2026-05-27T01:05:50Z",
   "allDeps": {
     "packages": [],
     "urls": [],

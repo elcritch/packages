@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "plists",
   "fqn": "plists.yglukhov.github.com",
+  "current": "783f661aa38e8c93d88388d16b90ec35d38099c1",
   "author": "Yuriy Glukhov",
   "description": "Generate and parse Mac OS X .plist files",
   "license": "MIT",
@@ -17,8 +18,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:07Z",
+  "generatedAt": "2026-05-27T01:00:37Z",
   "allDeps": {
     "packages": [
       "darwin > 0.1.0"

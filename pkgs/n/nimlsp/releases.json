@@ -154,8 +154,9 @@
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nimlsp.PMunch.github.com-153f924c-nimlsp.nimble\ncannot resolve package name: astpatternmatching"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T19:01:52Z",
+  "generatedAt": "2026-05-27T00:58:32Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

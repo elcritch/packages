@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "numToWord",
   "fqn": "numToWord.thisago.github.com",
+  "current": "525a668eb8dacd4f36d4ba1b223d73da61b2d90b",
   "author": "Thiago Navarro",
   "description": "Convert numbers to words",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:39Z",
+  "generatedAt": "2026-05-27T00:59:38Z",
   "allDeps": {
     "packages": [],
     "urls": [],

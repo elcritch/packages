@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "uuid4",
   "fqn": "nim-uuid4.vtbassmatt.github.com",
+  "current": "b3d820fd8800c4b7bd3b236db1526434aa652bff",
   "author": "Matt Cooper",
   "description": "UUIDs in pure Nim",
   "license": "MIT",
@@ -27,8 +28,9 @@
       "m": "1.6.2"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:06Z",
+  "generatedAt": "2026-05-27T01:06:42Z",
   "allDeps": {
     "packages": [],
     "urls": [],

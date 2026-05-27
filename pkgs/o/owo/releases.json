@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "owo",
   "fqn": "owo.lmariscal.github.com",
+  "current": "8accdfc04c12fe35ac5754f910056909998b7974",
   "author": "Leonardo Mariscal",
   "description": "OwO text convewtew fow Nim",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:52Z",
+  "generatedAt": "2026-05-27T01:00:10Z",
   "allDeps": {
     "packages": [],
     "urls": [],

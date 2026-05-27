@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "sensors",
   "fqn": "sensors.inv2004.github.com",
+  "current": "94affc14aa003ec3fe19a5286026e0472e51bc8f",
   "author": "inv2004",
   "description": "libsensors wrapper",
   "license": "MIT",
@@ -21,8 +22,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:51Z",
+  "generatedAt": "2026-05-27T01:02:49Z",
   "allDeps": {
     "packages": [],
     "urls": [],

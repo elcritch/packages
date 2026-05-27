@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "bencode",
   "fqn": "nim-bencode.FedericoCeratto.github.com",
+  "current": "ff97d661b79d4a8db8b18a54c82df54a3ea68788",
   "author": "Federico Ceratto",
   "description": "bencode library",
   "license": "LGPLv3",
@@ -12,8 +13,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:25Z",
+  "generatedAt": "2026-05-27T00:48:40Z",
   "allDeps": {
     "packages": [],
     "urls": [],

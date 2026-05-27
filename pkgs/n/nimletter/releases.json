@@ -2,7 +2,7 @@
   "cv": 18,
   "name": "nimletter",
   "fqn": "nimletter.ThomasTJdev.github.com",
-  "current": "2c57d1d4e561e34c2c2fce8823c40e82f0d0a661",
+  "current": "37d6063eb93a6d55801b70d6a948ccad79d7fd89",
   "author": "ThomasTJdev",
   "description": "Newsletter",
   "license": "AGPL v3",
@@ -13,7 +13,23 @@
   ],
   "releases": [
     {
-      "v": "0.9.2@2c57d1d4e561e34c2c2fce8823c40e82f0d0a661^",
+      "v": "0.9.3@37d6063eb93a6d55801b70d6a948ccad79d7fd89^",
+      "r": [
+        "gh:ThomasTJdev/mummy 0.4.1",
+        "mummy_utils >= 0.1.0",
+        "gh:ThomasTJdev/waterpark 0.1.6",
+        "gh:ThomasTJdev/nim-schedules 0.2.0",
+        "gh:ThomasTJdev/nimMime >= 0.0.3",
+        "gh:ThomasTJdev/bcryptnim 0.2.1",
+        "gh:ThomasTJdev/nim-mmgeoip 0.1.0",
+        "awsSigV4 >= 0.0.3",
+        "sqlbuilder >= 1.1.1",
+        "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
+        "yubikey_otp >= 0.1.2"
+      ]
+    },
+    {
+      "v": "0.9.2@2c57d1d4e561e34c2c2fce8823c40e82f0d0a661",
       "r": [
         "gh:ThomasTJdev/mummy 0.4.1",
         "mummy_utils >= 0.1.0",
@@ -831,8 +847,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T15:50:43Z",
+  "generatedAt": "2026-05-27T00:58:34Z",
   "allDeps": {
     "packages": [
       "awsSigV4 > 0.7.2",

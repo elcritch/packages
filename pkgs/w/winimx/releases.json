@@ -31,8 +31,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T15:55:11Z",
+  "generatedAt": "2026-05-27T01:07:31Z",
   "allDeps": {
     "packages": [
       "jsony",

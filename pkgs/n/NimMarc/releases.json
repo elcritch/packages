@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "NimMarc",
   "fqn": "NimMarc.rsirres.github.com",
+  "current": "5bb207defa23791a3e24abeb4026339d6d8d4530",
   "author": "Raphael",
   "description": "Marc21 parser for Nimlang",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:11:42Z",
+  "generatedAt": "2026-05-27T00:47:24Z",
   "allDeps": {
     "packages": [],
     "urls": [],

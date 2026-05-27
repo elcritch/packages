@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "pastebin",
   "fqn": "nim-pastebin.achesak.github.com",
+  "current": "f97db91a3769744e56abf9f606f51e692ffca5e7",
   "author": "Adam Chesak",
   "description": "Pastebin API wrapper",
   "license": "MIT",
@@ -15,8 +16,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:00Z",
+  "generatedAt": "2026-05-27T01:00:23Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "argparse",
   "fqn": "nim-argparse.iffy.github.com",
+  "current": "8485f8cb9d86de9bfa2406ebf3b06691f8066c35",
   "author": "Matt Haggard",
   "description": "A command line argument parser",
   "license": "MIT",
@@ -130,8 +131,9 @@
       "m": "0.19.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:11:59Z",
+  "generatedAt": "2026-05-27T00:47:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

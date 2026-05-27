@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "args",
   "fqn": "args.threatfender.github.com",
+  "current": "b9b61cb2b981d6ad16cfc53630560bc89616fbe9",
   "author": "Threatfender, LLC",
   "description": "argv and argc for command line arguments",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:11:59Z",
+  "generatedAt": "2026-05-27T00:47:53Z",
   "allDeps": {
     "packages": [],
     "urls": [],

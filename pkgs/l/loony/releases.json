@@ -91,8 +91,9 @@
       "d": "fast mpmc queue with sympathetic memory behavior"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T19:00:15Z",
+  "generatedAt": "2026-05-27T00:55:30Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

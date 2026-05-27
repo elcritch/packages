@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "magic",
   "fqn": "nim-magic.xmonader.github.com",
+  "current": "3eb3cc7e0139a696a7b42fd447d0359f07338bd7",
   "author": "xmonader",
   "description": "libmagic for nim",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:49Z",
+  "generatedAt": "2026-05-27T00:55:38Z",
   "allDeps": {
     "packages": [],
     "urls": [],

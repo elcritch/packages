@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "ikeahomesmart",
   "fqn": "ikeahomesmart.PMunch.github.com",
+  "current": "22109a5abb70937dd640e046d4d5f2bd4dbf4b3e",
   "author": "PMunch",
   "description": "IKEA Home Smart library for speaking to smart bulbs",
   "license": "MIT",
@@ -15,8 +16,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:57Z",
+  "generatedAt": "2026-05-27T00:53:48Z",
   "allDeps": {
     "packages": [
       "coap"

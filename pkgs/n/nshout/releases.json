@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nshout",
   "fqn": "nshout.Senketsu.github.com",
+  "current": "c254314c179d66eab51938527d7b2858c2457a34",
   "author": "Senketsu",
   "description": "libshout wrapper for Nim",
   "license": "MIT",
@@ -16,8 +17,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:38Z",
+  "generatedAt": "2026-05-27T00:59:34Z",
   "allDeps": {
     "packages": [],
     "urls": [],

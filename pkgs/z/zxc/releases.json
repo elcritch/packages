@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "zxc",
   "fqn": "zxc-nim.openpeeps.github.com",
+  "current": "f5beb6d0aa7a2fe67613aa591086bbc2046f4b4b",
   "author": "George Lemon",
   "description": "Bindings to ZXC compression library",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:52Z",
+  "generatedAt": "2026-05-27T01:08:10Z",
   "allDeps": {
     "packages": [],
     "urls": [],

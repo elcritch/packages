@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nfind",
   "fqn": "nfind.Graveflo.github.com",
+  "current": "d734fa229d6689d832273101cc588137cc3af1e2",
   "author": "Ryan McConnell",
   "description": "Glob utilities and find tool",
   "license": "MIT",
@@ -41,8 +42,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:25Z",
+  "generatedAt": "2026-05-27T00:56:47Z",
   "allDeps": {
     "packages": [],
     "urls": [],

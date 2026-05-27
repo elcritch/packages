@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimwebp",
   "fqn": "nimwebp.tormund.github.com",
+  "current": "a54d78e7e6c73ca6f3b3ea6cae1dbca6d2ee50c5",
   "author": "tormund",
   "description": "webp bindings",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:18Z",
+  "generatedAt": "2026-05-27T00:59:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

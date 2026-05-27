@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "blscurve",
   "fqn": "nim-blscurve.status-im.github.com",
+  "current": "f4d0de2eece20380541fbf73d4b8bf57dc214b3b",
   "author": "Status Research & Development GmbH",
   "description": "BLS381-12 Curve implementation",
   "license": "Apache License 2.0",
@@ -14,8 +15,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:34Z",
+  "generatedAt": "2026-05-27T00:49:06Z",
   "allDeps": {
     "packages": [
       "nimcrypto"

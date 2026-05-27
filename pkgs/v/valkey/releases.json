@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "valkey",
   "fqn": "valkey-nim.pshankinclarke.github.com",
+  "current": "f691200e6aaf4a64716e07e17ca3ac0bd1c0b5d0",
   "author": "Parker Shankin Clarke <parkerwsc1@gmail.com>",
   "description": "Valkey (Redis-compatible) client for Nim",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:07Z",
+  "generatedAt": "2026-05-27T01:06:45Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "json_builder",
   "fqn": "json_builder.undecided.github.com",
+  "current": "bf4778cb6cf00b5f8ee87fc53e41462f7d958ccf",
   "author": "Matthew Bennett-Lovesey",
   "description": "Easy and fast generator for valid json in nim",
   "license": "MIT",
@@ -24,8 +25,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:12Z",
+  "generatedAt": "2026-05-27T00:54:24Z",
   "allDeps": {
     "packages": [],
     "urls": [],

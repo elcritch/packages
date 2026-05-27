@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "toxcore",
   "fqn": "nim-toxcore.~ehmry.git.sr.ht",
+  "current": "d4cd34cc618f0a6b6c684c0a17990834dcb0b599",
   "author": "Emery Hemingway",
   "description": "C Tox core wrapper",
   "license": "GPL-3.0-or-later",
@@ -50,8 +51,9 @@
       "m": "0.19.4"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:49Z",
+  "generatedAt": "2026-05-27T01:05:52Z",
   "allDeps": {
     "packages": [],
     "urls": [],

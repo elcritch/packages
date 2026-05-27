@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "ndbex",
   "fqn": "nim-db-ex.Senketsu.github.com",
+  "current": "0533fc0587d5bca2b9748fab3ef59806951bcddd",
   "author": "Senketsu",
   "description": "extension for Nim's database modules (db_*)",
   "license": "MIT",
@@ -29,8 +30,9 @@
       "s": "src"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:18Z",
+  "generatedAt": "2026-05-27T00:56:29Z",
   "allDeps": {
     "packages": [],
     "urls": [],

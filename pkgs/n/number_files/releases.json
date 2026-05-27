@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "number_files",
   "fqn": "number_files.Araq.github.com",
+  "current": "556c0f642fd3422c76049469d061b993f11c927d",
   "releases": [
     {
       "v": "0.2.2@8522eca98812a392faf235376255d8b1eb2b1b4b",
@@ -16,8 +17,9 @@
       "E": "missing nimble file"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:39Z",
+  "generatedAt": "2026-05-27T00:59:39Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "firejail",
   "fqn": "nim-firejail.juancarlospaco.github.com",
+  "current": "f716b534a55b0fefb7401d0a7a29f4ffebfbdae6",
   "author": "Juan Carlos",
   "description": "Firejail wrapper for Nim, Firejail your Production App before is too late!",
   "license": "MIT",
@@ -37,8 +38,9 @@
       "m": "1.0.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:03Z",
+  "generatedAt": "2026-05-27T00:52:05Z",
   "allDeps": {
     "packages": [],
     "urls": [],

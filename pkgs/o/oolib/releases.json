@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "oolib",
   "fqn": "OOlib.Glasses-Neo.github.com",
+  "current": "da2d84ee955fc83bae4b1f9513a698ad4f6ebb91",
   "author": "Glasses-Neo",
   "description": "A nimble package for object-oriented programming",
   "license": "WTFPL",
@@ -89,8 +90,9 @@
       "m": "1.4.8"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:45Z",
+  "generatedAt": "2026-05-27T00:59:56Z",
   "allDeps": {
     "packages": [],
     "urls": [],

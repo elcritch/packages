@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "calibre",
   "fqn": "nim-calibre.juancarlospaco.github.com",
+  "current": "df5a6745907aa406c0876f9448cc4e4e7b5bb5fd",
   "author": "Juan Carlos",
   "description": "Calibre Database Lib for Nim",
   "license": "MIT",
@@ -22,8 +23,9 @@
       "m": "0.19.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:47Z",
+  "generatedAt": "2026-05-27T00:49:23Z",
   "allDeps": {
     "packages": [],
     "urls": [],

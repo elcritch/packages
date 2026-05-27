@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "imap",
   "fqn": "nim_imap.~ehmry.git.sr.ht",
+  "current": "dfd95505661052a86c9acf728669395846ce8cdf",
   "author": "Emery Hemingway",
   "description": "IMAP client library",
   "license": "GPLv3",
@@ -29,8 +30,9 @@
       "m": "0.15.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:58Z",
+  "generatedAt": "2026-05-27T00:53:51Z",
   "allDeps": {
     "packages": [],
     "urls": [],

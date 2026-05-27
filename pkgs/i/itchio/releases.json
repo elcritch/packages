@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "itchio",
   "fqn": "nim-itchio.juancarlospaco.github.com",
+  "current": "c6cfeccb23cce7a12133159cd25f7062ccf95d7b",
   "author": "Juan Carlos",
   "description": "itch.io API Client for Nim",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:07Z",
+  "generatedAt": "2026-05-27T00:54:12Z",
   "allDeps": {
     "packages": [],
     "urls": [],

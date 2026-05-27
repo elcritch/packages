@@ -70,8 +70,9 @@
       "m": "1.6.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T19:03:18Z",
+  "generatedAt": "2026-05-27T01:00:48Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

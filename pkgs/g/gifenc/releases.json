@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "gifenc",
   "fqn": "gifenc.ftsf.github.com",
+  "current": "73ffba128127e6a53492ba85019f9a75056ce651",
   "author": "Jez Kabanov",
   "description": "Gif Encoder",
   "license": "Public Domain",
@@ -17,8 +18,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:22Z",
+  "generatedAt": "2026-05-27T00:52:43Z",
   "allDeps": {
     "packages": [],
     "urls": [],

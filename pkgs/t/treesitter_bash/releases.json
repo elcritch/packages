@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "treesitter_bash",
   "fqn": "nimtreesitter.genotrance.github.com",
+  "current": "c6975d8c8d288e3499e665f1b3f5cdd299df1e8f",
   "releases": [
     {
       "v": "0.1.1@c6975d8c8d288e3499e665f1b3f5cdd299df1e8f^",
@@ -16,8 +17,9 @@
       "E": "ambiguous nimble file"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:49Z",
+  "generatedAt": "2026-05-27T01:05:57Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nullable",
   "fqn": "nullable.theDataFlowClub.github.com",
+  "current": "c0276d2067d115a71d6ee1e5b1bf2f09a93677a1",
   "author": "David  Ochoa Corrales",
   "description": "An optimized and highly efficient Nullable / Optional type for Nim. Designed for performance-critical applications, it provides clear, functional-style handling of optional values, especially for value types, without reference overhead.",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:38Z",
+  "generatedAt": "2026-05-27T00:59:37Z",
   "allDeps": {
     "packages": [],
     "urls": [],

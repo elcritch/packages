@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "libovr",
   "fqn": "nim-ovr.bluenote10.github.com",
+  "current": "187c574648ffcf1969d1bbe7a67e9ceb276fc201",
   "author": "Fabian Keller",
   "description": "Nim bindings for libOVR (Oculus Rift)",
   "license": "MIT",
@@ -11,8 +12,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:28Z",
+  "generatedAt": "2026-05-27T00:55:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

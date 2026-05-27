@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "ptr_math",
   "fqn": "ptr_math.kaushalmodi.github.com",
+  "current": "1ee3b7fe12f394edd5a1e2841491e8c2e9fd193b",
   "author": "Kaushal Modi",
   "description": "Pointer arithmetic library",
   "license": "MIT",
@@ -21,8 +22,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:21Z",
+  "generatedAt": "2026-05-27T01:01:05Z",
   "allDeps": {
     "packages": [],
     "urls": [],

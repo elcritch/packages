@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "arraymancer_vision",
   "fqn": "arraymancer-vision.edubart.github.com",
+  "current": "a52496691b81679cc7da5578f4aed0af25e9c48a",
   "author": "Eduardo Barthel",
   "description": "Image transformation and visualization utilities for arraymancer",
   "license": "Apache License 2.0",
@@ -28,8 +29,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:00Z",
+  "generatedAt": "2026-05-27T00:47:56Z",
   "allDeps": {
     "packages": [
       "arraymancer",

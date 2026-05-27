@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "pyrepr",
   "fqn": "pyrepr.nimpylib.github.com",
+  "current": "e940365283150b421a997b1fb69df53e5d8aabba",
   "author": "litlighilit",
   "description": "Python-like repr, ascii, hex/oct/bin, ...",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:23Z",
+  "generatedAt": "2026-05-27T01:01:09Z",
   "allDeps": {
     "packages": [],
     "urls": [],

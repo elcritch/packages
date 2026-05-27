@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "notification",
   "fqn": "notification.SolitudeSF.github.com",
+  "current": "4cc31eb77ff086d815bac399953f1bb498af7c5c",
   "author": "SolitudeSF",
   "description": "Desktop notifications",
   "license": "MIT",
@@ -30,8 +31,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:34Z",
+  "generatedAt": "2026-05-27T00:59:24Z",
   "allDeps": {
     "packages": [
       "dbus > 0.1.0",

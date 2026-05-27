@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nulid",
   "fqn": "NULID.The-Ticking-Clockwork.github.com",
+  "current": "59d884d18fc9f7679d0bc9b317c2376bf1d5d257",
   "author": "Yu Vitaqua fer Chronos",
   "description": "An implementation of ULID!",
   "license": "CC0",
@@ -102,8 +103,9 @@
       "a": "Mythical Forest Collective"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:38Z",
+  "generatedAt": "2026-05-27T00:59:37Z",
   "allDeps": {
     "packages": [
       "crockfordb32",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "dnsstamps2",
   "fqn": "nim-dnsstamps2.rockcavera.github.com",
+  "current": "16be2b0701c89f50b31ce39edb9ff61bb5854ff2",
   "author": "rockcavera",
   "description": "DNS Stamps package",
   "license": "MIT",
@@ -15,8 +16,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:36Z",
+  "generatedAt": "2026-05-27T00:50:44Z",
   "allDeps": {
     "packages": [
       "results",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "validation",
   "fqn": "nim-validation.captainbland.github.com",
+  "current": "eae7c8e3c2fdfa7138e00cf47d52bd4fb35e0f56",
   "author": "captainbland",
   "description": "Field validation for Nim objects",
   "license": "GPLv3",
@@ -28,8 +29,9 @@
       "m": "0.20.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:06Z",
+  "generatedAt": "2026-05-27T01:06:44Z",
   "allDeps": {
     "packages": [],
     "urls": [],

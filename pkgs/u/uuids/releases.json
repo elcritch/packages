@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "uuids",
   "fqn": "uuids.pragmagic.github.com",
+  "current": "42052ba362a9cd4685463edb3781beeb9b8e547e",
   "releases": [
     {
       "v": "0.1.12@42052ba362a9cd4685463edb3781beeb9b8e547e^",
@@ -80,8 +81,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:06Z",
+  "generatedAt": "2026-05-27T01:06:43Z",
   "allDeps": {
     "packages": [
       "isaac > 0.1.0"

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "ansitohtml",
   "fqn": "ansitohtml.PMunch.github.com",
+  "current": "bbcb7060931abe5b79eb08399318d36a81551d28",
   "author": "PMunch",
   "description": "A library that converts a string with ANSI CSI SGR codes (colours and such) into a string with HTML tags",
   "license": "MIT",
@@ -15,8 +16,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:11:54Z",
+  "generatedAt": "2026-05-27T00:47:45Z",
   "allDeps": {
     "packages": [
       "ansiparse"

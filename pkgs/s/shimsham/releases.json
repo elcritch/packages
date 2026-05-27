@@ -38,8 +38,9 @@
       "E": "missing nimble file"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T19:04:41Z",
+  "generatedAt": "2026-05-27T01:03:20Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

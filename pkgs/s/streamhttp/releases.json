@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "streamhttp",
   "fqn": "streamhttp.capocasa.github.com",
+  "current": "e22c99fd6e61748cd468aec1414fb415c8d0515e",
   "author": "capocasa",
   "description": "Tiny synchronous streaming HTTP/1.1 client. Reads chunked bodies as they arrive.",
   "license": "MIT",
@@ -21,8 +22,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:20Z",
+  "generatedAt": "2026-05-27T01:04:46Z",
   "allDeps": {
     "packages": [],
     "urls": [],

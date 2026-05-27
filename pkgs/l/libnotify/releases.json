@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "libnotify",
   "fqn": "nim-libnotify.FedericoCeratto.github.com",
+  "current": "c715ca5b23377a9bceba93529339526fbca11517",
   "author": "Federico Ceratto",
   "description": "Minimalistic libnotify wrapper.",
   "license": "LGPLv3",
@@ -15,8 +16,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:28Z",
+  "generatedAt": "2026-05-27T00:55:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

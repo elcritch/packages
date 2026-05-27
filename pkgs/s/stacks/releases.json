@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "stacks",
   "fqn": "nim-stacks.rustomax.github.com",
+  "current": "3562d2d98c3cb282a9f20e985c83d34a8ec5f2b9",
   "author": "Max Skybin",
   "description": "Pure Nim stack implementation based on sequences.",
   "license": "MIT",
@@ -22,8 +23,9 @@
       "m": "0.20.2"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:16Z",
+  "generatedAt": "2026-05-27T01:04:36Z",
   "allDeps": {
     "packages": [],
     "urls": [],

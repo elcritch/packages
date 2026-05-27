@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "matsuri",
   "fqn": "matsuri.zer0-star.github.com",
+  "current": "d74bbc2b2a95034eb4ad5d2479e87eb43634fde0",
   "author": "zer0-star",
   "description": "Useful Variant Type and Powerful Pattern Matching for Nim",
   "license": "MIT",
@@ -21,8 +22,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:53Z",
+  "generatedAt": "2026-05-27T00:55:43Z",
   "allDeps": {
     "packages": [],
     "urls": [],

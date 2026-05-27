@@ -31,8 +31,9 @@
       "p": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T15:54:44Z",
+  "generatedAt": "2026-05-27T01:06:46Z",
   "allDeps": {
     "packages": [
       "c2nim <= 0.0.1",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "asyncrabbitmq",
   "fqn": "rabbitmq.nim.Q-Master.github.com",
+  "current": "a09bd58087dcb1fa704259191c65a01e6fd9c0a1",
   "description": "Pure Nim asyncronous driver for RabbitMQ",
   "license": "MIT",
   "nim": "2.0",
@@ -21,8 +22,9 @@
       "m": "0.20.00"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:07Z",
+  "generatedAt": "2026-05-27T00:48:06Z",
   "allDeps": {
     "packages": [
       "networkutils",

@@ -25,8 +25,9 @@
       "a": "Dennis Felsing"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T15:45:01Z",
+  "generatedAt": "2026-05-27T00:49:13Z",
   "allDeps": {
     "packages": [
       "docopt > 1.0",

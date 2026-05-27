@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "curlies",
   "fqn": "curlies.svenrdz.github.com",
+  "current": "7a665b630eabcb23c6dcee1b697277ded1361835",
   "author": "svenrdz",
   "description": "A new awesome nimble package",
   "license": "MIT",
@@ -17,8 +18,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:21Z",
+  "generatedAt": "2026-05-27T00:50:20Z",
   "allDeps": {
     "packages": [
       "ast_pattern_matching",

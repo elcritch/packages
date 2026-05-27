@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "luhny",
   "fqn": "luhny.sigmapie8.github.com",
+  "current": "e4782218f21daef6acbfa1bfdcecb1f370234d5c",
   "author": "Manav Garg (sigmapie8)",
   "description": "Luhn's Algorithm implementation in Nim",
   "license": "MIT",
@@ -12,8 +13,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:46Z",
+  "generatedAt": "2026-05-27T00:55:34Z",
   "allDeps": {
     "packages": [],
     "urls": [],

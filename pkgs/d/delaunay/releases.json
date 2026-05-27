@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "delaunay",
   "fqn": "DelaunayNim.Nycto.github.com",
+  "current": "78fc72882ee7aaf5e25dcf66f4429ebba1e8cc07",
   "author": "Nycto",
   "description": "Delaunay triangulator",
   "license": "MIT",
@@ -11,8 +12,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:29Z",
+  "generatedAt": "2026-05-27T00:50:32Z",
   "allDeps": {
     "packages": [],
     "urls": [],

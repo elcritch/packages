@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimarrow",
   "fqn": "nimarrow.emef.github.com",
+  "current": "6d41a550a09845a91df645507588adf599830da0",
   "author": "Matt Forbes",
   "description": "apache arrow bindings for nim",
   "license": "Apache-2.0",
@@ -27,8 +28,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:39Z",
+  "generatedAt": "2026-05-27T00:57:36Z",
   "allDeps": {
     "packages": [
       "nimarrow_glib"

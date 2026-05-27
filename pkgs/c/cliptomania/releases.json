@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "cliptomania",
   "fqn": "Cliptomania.Guevara-chan.github.com",
+  "current": "347b9b1e63dc2bff660a75709129fc90d16bbc18",
   "author": "Guevara-chan",
   "description": ".NET-inspired lightweight clipboard library",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:06Z",
+  "generatedAt": "2026-05-27T00:49:52Z",
   "allDeps": {
     "packages": [],
     "urls": [],

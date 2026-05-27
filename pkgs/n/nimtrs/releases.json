@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimtrs",
   "fqn": "nimtrs.haxscramper.github.com",
+  "current": "1f09c81ada6ecdabcbf06b6fb9d8dfa17e66640c",
   "author": "haxscramper",
   "description": "Nim term rewriting system",
   "license": "Apache-2.0",
@@ -30,8 +31,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:16Z",
+  "generatedAt": "2026-05-27T00:58:57Z",
   "allDeps": {
     "packages": [
       "benchy > 0.1.0",

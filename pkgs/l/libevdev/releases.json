@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "libevdev",
   "fqn": "libevdev.nim.luked99.github.com",
+  "current": "5dba39fe69c1b9a73aa9b911355860ba94c4d650",
   "author": "Luke Diamand",
   "description": "Wrapper for <linux/fb.h> framebuffer ioctls",
   "license": "MIT",
@@ -12,8 +13,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:26Z",
+  "generatedAt": "2026-05-27T00:54:56Z",
   "allDeps": {
     "packages": [],
     "urls": [],

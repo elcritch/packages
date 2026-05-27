@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "anycallconv",
   "fqn": "anycallconv.sls1005.github.com",
+  "current": "17a69728bc914443739b4d0bb5bf7be2ce845976",
   "author": "Hsien-yu Chu",
   "description": "A macro to create special procedural types for parameters.",
   "license": "MIT",
@@ -12,8 +13,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:11:56Z",
+  "generatedAt": "2026-05-27T00:47:48Z",
   "allDeps": {
     "packages": [],
     "urls": [],

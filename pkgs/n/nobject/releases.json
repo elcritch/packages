@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nobject",
   "fqn": "nobject.Carpall.github.com",
+  "current": "75883b7074f7ccad27d041b7c9def73660607a08",
   "author": "Carpall",
   "description": "A partially compile and runtime evaluated object, inspired from .net object",
   "license": "MIT",
@@ -37,8 +38,9 @@
       "m": "1.4.2"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:25Z",
+  "generatedAt": "2026-05-27T00:59:11Z",
   "allDeps": {
     "packages": [],
     "urls": [],

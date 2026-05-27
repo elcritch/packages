@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "cipherlib",
   "fqn": "cipherlib.ph4mished.github.com",
+  "current": "0fd8c06cd93ade88e11b00822729c9e4977c5729",
   "author": "ph4mished",
   "description": "A collection of classical cipher and encoding algorithms including Caesar, ROT13, ROT47, Vigenere, Morse code and other implementations in one library for educational and practical use",
   "license": "MIT",
@@ -17,8 +18,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:01Z",
+  "generatedAt": "2026-05-27T00:49:45Z",
   "allDeps": {
     "packages": [],
     "urls": [],

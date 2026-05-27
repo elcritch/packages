@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "arrayutils",
   "fqn": "arrayutils.choltreppe.github.com",
+  "current": "79a14cda5636ee3d11ec6b3f6193769a8d495473",
   "author": "Joel Lienhard",
   "description": "map/mapIt for arrays",
   "license": "MIT",
@@ -17,8 +18,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:00Z",
+  "generatedAt": "2026-05-27T00:47:56Z",
   "allDeps": {
     "packages": [],
     "urls": [],

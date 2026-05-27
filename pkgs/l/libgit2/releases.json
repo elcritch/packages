@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "libgit2",
   "fqn": "libgit2-nim.barcharcraz.github.com",
+  "current": "2f5f9a57b06bfede594c7db5ac30a9d8f97dec77",
   "author": "Charles Barto",
   "description": "Libgit2 low level wrapper",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:27Z",
+  "generatedAt": "2026-05-27T00:54:59Z",
   "allDeps": {
     "packages": [],
     "urls": [],

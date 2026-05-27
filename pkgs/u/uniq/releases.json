@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "uniq",
   "fqn": "uniq.akvilary.github.com",
+  "current": "e50f235b71656331aca227e17f9043ec33abc238",
   "author": "akvilary",
   "description": "RFC 9562 UUID library for Nim — stack-allocated, versions 1-8",
   "license": "MIT",
@@ -21,8 +22,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:00Z",
+  "generatedAt": "2026-05-27T01:06:27Z",
   "allDeps": {
     "packages": [
       "checksums"

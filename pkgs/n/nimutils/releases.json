@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimutils",
   "fqn": "nimutils.GeK2K.github.com",
+  "current": "3b57549f22e491aabdaad8ff7b25217e539b98b8",
   "author": "Georges Kayo de Kayo",
   "description": "Some useful tools when programming with the Nim programming language.",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:16Z",
+  "generatedAt": "2026-05-27T00:58:57Z",
   "allDeps": {
     "packages": [],
     "urls": [],

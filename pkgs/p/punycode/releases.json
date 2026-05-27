@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "punycode",
   "fqn": "punycode.nim-lang.github.com",
+  "current": "03fa3cf9f37c0fbcbdf400c37d9be7a458660dd6",
   "author": "ringabout",
   "description": "Implements a representation of Unicode with the limited ASCII character subset in Nim.",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:21Z",
+  "generatedAt": "2026-05-27T01:01:05Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "cssgrid",
   "fqn": "cssgrid.elcritch.github.com",
+  "current": "d4e60169329a82b9fdfc6e84ee42da53b31b7b49",
   "author": "Jaremy Creechley",
   "description": "pure Nim CSS Grid layout engine",
   "license": "MIT",
@@ -861,8 +862,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:23Z",
+  "generatedAt": "2026-05-27T00:50:20Z",
   "allDeps": {
     "packages": [
       "bumpy",

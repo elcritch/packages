@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "pcgbasic",
   "fqn": "pcgbasic.rockcavera.github.com",
+  "current": "eb73a2fff438f9f02d2cea34ae3b6fa52ac600b6",
   "author": "rockcavera",
   "description": "Permuted Congruential Generator (PCG) Random Number Generation (RNG) for Nim.",
   "license": "MIT",
@@ -28,8 +29,9 @@
       "m": "0.19.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:00Z",
+  "generatedAt": "2026-05-27T01:00:25Z",
   "allDeps": {
     "packages": [],
     "urls": [],

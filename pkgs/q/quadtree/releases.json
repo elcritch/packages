@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "quadtree",
   "fqn": "QuadtreeNim.Nycto.github.com",
+  "current": "5da66b58ed74a4e2514dab9a4995807b6543a977",
   "author": "Nycto",
   "description": "A Quadtree Implementation",
   "license": "MIT",
@@ -19,8 +20,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:26Z",
+  "generatedAt": "2026-05-27T01:01:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

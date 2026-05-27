@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "spinner",
   "fqn": "spinner.tonogram.github.com",
+  "current": "dc68ed9890c3ca77de23413b85c5d819b0371794",
   "author": "Reilly Moore",
   "description": "Prebuilt components for the Fidget GUI library.",
   "license": "MIT",
@@ -51,8 +52,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:12Z",
+  "generatedAt": "2026-05-27T01:04:26Z",
   "allDeps": {
     "packages": [
       "bumpy",

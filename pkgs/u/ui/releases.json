@@ -50,8 +50,9 @@
       "m": "0.19.4"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T15:54:31Z",
+  "generatedAt": "2026-05-27T01:06:15Z",
   "allDeps": {
     "packages": [],
     "urls": [],

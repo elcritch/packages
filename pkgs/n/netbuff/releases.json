@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "netbuff",
   "fqn": "netbuff.jakubDoka.github.com",
+  "current": "fd344f9cadc594957f74d75568651b31e9d1c066",
   "author": "Jakub Dóka",
   "description": "Fast and unsafe byte buffering for intensive network data transfer.",
   "license": "MIT",
@@ -17,8 +18,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:23Z",
+  "generatedAt": "2026-05-27T00:56:41Z",
   "allDeps": {
     "packages": [],
     "urls": [],

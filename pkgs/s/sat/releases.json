@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "sat",
   "fqn": "sat.nim-lang.github.com",
+  "current": "e63eaea8baf00bed8bcd5a29ffd8823abb265b39",
   "author": "Araq",
   "description": "A SAT solver written in Nim.",
   "license": "MIT",
@@ -17,8 +18,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:42Z",
+  "generatedAt": "2026-05-27T01:02:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

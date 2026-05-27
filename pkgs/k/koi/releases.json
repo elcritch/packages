@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "koi",
   "fqn": "koi.johnnovak.github.com",
+  "current": "d7ce4aa1f970399c7bd15943d5686190e56926e3",
   "author": "John Novak <john@johnnovak.net>",
   "description": "imgui for Nim",
   "license": "WTFPL",
@@ -63,8 +64,9 @@
       "m": "2.0.2"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:20Z",
+  "generatedAt": "2026-05-27T00:54:43Z",
   "allDeps": {
     "packages": [
       "glfw",

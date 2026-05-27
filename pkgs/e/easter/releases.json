@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "easter",
   "fqn": "easter.GeK2K.github.com",
+  "current": "b8c4b796b71d8ddf8b7a4e1de8e91f0e2483cd97",
   "author": "Georges Kayo de Kayo",
   "description": "Easter date calculation.",
   "license": "MIT",
@@ -23,8 +24,9 @@
       "d": "Easter date calculation engine."
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:41Z",
+  "generatedAt": "2026-05-27T00:50:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

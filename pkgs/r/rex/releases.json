@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "rex",
   "fqn": "rex.minamorl.github.com",
+  "current": "570054bbd9f1144ee3e9bea450c78c6a0258b6a8",
   "author": "minamorl",
   "description": "Reactive programming, in nim",
   "license": "MIT",
@@ -17,8 +18,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:35Z",
+  "generatedAt": "2026-05-27T01:01:32Z",
   "allDeps": {
     "packages": [],
     "urls": [],

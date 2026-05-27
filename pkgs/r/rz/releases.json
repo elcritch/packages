@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "rz",
   "fqn": "rz.hmbemba.github.com",
+  "current": "c732bb0e6f8d2390ea2c2280ecd680185610ecda",
   "author": "Harrison Mbemba",
   "description": "rz: small Result/Rz type + safe helpers (native + JS), ergonomic combinators and utilities.",
   "license": "MIT",
@@ -15,8 +16,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:41Z",
+  "generatedAt": "2026-05-27T01:01:52Z",
   "allDeps": {
     "packages": [
       "ic"

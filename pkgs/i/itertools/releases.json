@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "itertools",
   "fqn": "itertools.narimiran.github.com",
+  "current": "06c4de8b6b124368be269b00ecd0b34a3731739f",
   "author": "narimiran",
   "description": "Itertools for Nim",
   "license": "MIT",
@@ -37,8 +38,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:07Z",
+  "generatedAt": "2026-05-27T00:54:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "viper",
   "fqn": "viper.navid-m.gitlab.com",
+  "current": "870e994c0d2b140eee64990a0ffc437985ef811a",
   "author": "Navid M",
   "description": "Fluent SQL generation",
   "license": "GPL-3.0-or-later",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:10Z",
+  "generatedAt": "2026-05-27T01:06:52Z",
   "allDeps": {
     "packages": [],
     "urls": [],

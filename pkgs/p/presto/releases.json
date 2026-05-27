@@ -35,8 +35,9 @@
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nim-presto.status-im.github.com-92b1c7ff-presto.nimble\ninvalid 'requires' syntax in nimble file: chronos ^= 4.0.3"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T15:52:13Z",
+  "generatedAt": "2026-05-27T01:00:52Z",
   "allDeps": {
     "packages": [
       "bearssl",

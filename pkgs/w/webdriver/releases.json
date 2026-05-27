@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "webdriver",
   "fqn": "webdriver.dom96.github.com",
+  "current": "a272e8ffa15c9070a38966a23e8acf1f3260ba0d",
   "author": "Dominik Picheta",
   "description": "Implementation of the WebDriver w3c spec.",
   "license": "MIT",
@@ -17,8 +18,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:18Z",
+  "generatedAt": "2026-05-27T01:07:11Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "untar",
   "fqn": "untar.dom96.github.com",
+  "current": "b49f6ac94974fe11cb3d396a8a9c533824a497a7",
   "author": "Dominik Picheta",
   "description": "Library for decompressing tar.gz files.",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:02Z",
+  "generatedAt": "2026-05-27T01:06:32Z",
   "allDeps": {
     "packages": [],
     "urls": [],

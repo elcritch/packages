@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "breeze",
   "fqn": "breeze.alehander42.github.com",
+  "current": "df8dd1b8cee2ff5a3c15369d523955c7744a281c",
   "author": "Alexander Ivanov",
   "description": "macro dsl",
   "license": "MIT",
@@ -20,8 +21,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:39Z",
+  "generatedAt": "2026-05-27T00:49:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

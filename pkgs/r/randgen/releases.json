@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "randgen",
   "fqn": "randgen.YesDrX.github.com",
+  "current": "06ab570e89ee93d74840b718d98060f0597dbaba",
   "author": "YesDrX",
   "description": "A random variable generator library for nim-lang.",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:28Z",
+  "generatedAt": "2026-05-27T01:01:17Z",
   "allDeps": {
     "packages": [],
     "urls": [],

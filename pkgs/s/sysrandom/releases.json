@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "sysrandom",
   "fqn": "sysrandom.nim.euantorano.github.com",
+  "current": "806be2c9f0878ecb103ac20beaad750b91930c8c",
   "author": "Euan T",
   "description": "A simple library to create random strings of data.",
   "license": "BSD3",
@@ -21,8 +22,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:29Z",
+  "generatedAt": "2026-05-27T01:05:04Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "reni",
   "fqn": "reni.fox0430.github.com",
+  "current": "ae88f24359f7d0742328b7e4f538241d6af00fcc",
   "author": "fox0430",
   "description": "A regular expression engine compatible with Oniguruma",
   "license": "MIT",
@@ -14,8 +15,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:34Z",
+  "generatedAt": "2026-05-27T01:01:29Z",
   "allDeps": {
     "packages": [
       "unicodedb"

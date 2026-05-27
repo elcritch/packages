@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "ski",
   "fqn": "ski.jiro4989.github.com",
+  "current": "7937592ed8f1439cc3bf0c677112381e9b5b9ba1",
   "author": "jiro4989",
   "description": "SKI combinator library",
   "license": "MIT",
@@ -27,8 +28,9 @@
       "d": "ski is library for SKI combinator."
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:03Z",
+  "generatedAt": "2026-05-27T01:03:44Z",
   "allDeps": {
     "packages": [],
     "urls": [],

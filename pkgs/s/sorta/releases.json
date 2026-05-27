@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "sorta",
   "fqn": "sorta.narimiran.github.com",
+  "current": "be57458b5b075151cbc192a99c2a43e513a6340a",
   "author": "narimiran",
   "description": "Sorted Tables based on B-Trees",
   "license": "MIT",
@@ -17,8 +18,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:08Z",
+  "generatedAt": "2026-05-27T01:04:05Z",
   "allDeps": {
     "packages": [],
     "urls": [],

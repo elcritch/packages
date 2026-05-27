@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "blend2d",
   "fqn": "blend2d-nim.openpeeps.github.com",
+  "current": "1359473de2d778334c8d6583e80be11051cc63b9",
   "author": "George Lemon",
   "description": "Blend2D bindings for Nim language",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:33Z",
+  "generatedAt": "2026-05-27T00:49:04Z",
   "allDeps": {
     "packages": [],
     "urls": [],

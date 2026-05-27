@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "bcryptrocks",
   "fqn": "bcryptrocks.penguinite.codeberg.org",
+  "current": "d7c2bd9d39ca438285cf2720c779ef9400948ed1",
   "author": "penguinite",
   "description": "bcrypt library using Solar Designer's crypt_blowfish (Windows-compatible)",
   "license": "crypt_blowfish",
@@ -18,8 +19,9 @@
       "l": "CC0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:24Z",
+  "generatedAt": "2026-05-27T00:48:33Z",
   "allDeps": {
     "packages": [],
     "urls": [],

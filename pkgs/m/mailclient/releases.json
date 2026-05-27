@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "mailclient",
   "fqn": "mailclient.akvilary.github.com",
+  "current": "ea62846c5b92cc419400eb20485b7daa45cd327e",
   "author": "akvilary",
   "description": "IMAP and POP3 client library for Nim",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:50Z",
+  "generatedAt": "2026-05-27T00:55:38Z",
   "allDeps": {
     "packages": [],
     "urls": [],

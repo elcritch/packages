@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "texttospeech",
   "fqn": "texttospeech.dom96.github.com",
+  "current": "e08988bb8469d29781807357aa6522697876837a",
   "author": "Dominik Picheta",
   "description": "A client for the Google Cloud Text to Speech API.",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:38Z",
+  "generatedAt": "2026-05-27T01:05:21Z",
   "allDeps": {
     "packages": [],
     "urls": [],

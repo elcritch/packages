@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "spdx_licenses",
   "fqn": "spdx_licenses.nim.euantorano.github.com",
+  "current": "dd50476a74373aa7cb1f4c50ad1d35b59f71cda4",
   "author": "Euan T",
   "description": "A library to retrieve the list of commonly used licenses from the SPDX License List.",
   "license": "BSD-3-Clause",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:11Z",
+  "generatedAt": "2026-05-27T01:04:17Z",
   "allDeps": {
     "packages": [],
     "urls": [],

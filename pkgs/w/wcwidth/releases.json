@@ -33,8 +33,9 @@
       "m": "1.6.8"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T15:54:57Z",
+  "generatedAt": "2026-05-27T01:07:07Z",
   "allDeps": {
     "packages": [],
     "urls": [],

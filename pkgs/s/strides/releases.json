@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "strides",
   "fqn": "strides.fsh.github.com",
+  "current": "52d21364be0247e8882a99e718017f4e89db0cae",
   "author": "Frank S. Hestvik",
   "description": "Indexing and slicing with stride",
   "license": "MIT",
@@ -18,8 +19,9 @@
       "m": "1.7"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:21Z",
+  "generatedAt": "2026-05-27T01:04:48Z",
   "allDeps": {
     "packages": [],
     "urls": [],

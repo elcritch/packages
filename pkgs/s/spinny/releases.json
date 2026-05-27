@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "spinny",
   "fqn": "spinny.nimbackup.github.com",
+  "current": "38e0afbe59bab5f526372bab790d651113c27a60",
   "author": "Mark Molnar",
   "description": "Terminal Spinners for Nim.",
   "license": "MIT",
@@ -45,8 +46,9 @@
       "m": "1.0.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:12Z",
+  "generatedAt": "2026-05-27T01:04:26Z",
   "allDeps": {
     "packages": [
       "colorize <= 0.1.2"

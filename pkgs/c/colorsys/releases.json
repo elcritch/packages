@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "colorsys",
   "fqn": "nim-colorsys.achesak.github.com",
+  "current": "b466a504242b4a91eec6fd61e8d6ff14417e5779",
   "author": "Adam Chesak",
   "description": "Convert between RGB, YIQ, HLS, and HSV color systems.",
   "license": "MIT",
@@ -15,8 +16,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:10Z",
+  "generatedAt": "2026-05-27T00:50:00Z",
   "allDeps": {
     "packages": [],
     "urls": [],

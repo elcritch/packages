@@ -16,6 +16,14 @@
   "backend": "cpp",
   "releases": [
     {
+      "v": "20231123@6a606aed8fe4c266de95d0a897e5e4f617ff27ce",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "p": [],
+      "e": ""
+    },
+    {
       "v": "20230823@49d8117367d3530533dc1d6a9111ddd134b08b1e",
       "r": [],
       "S": "HasUnknownNimbleFile",
@@ -200,6 +208,14 @@
       "e": ""
     },
     {
+      "v": "0.3.0@eec112c9028a765724894c74821802f8c8a2f77b",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "p": [],
+      "e": ""
+    },
+    {
       "v": "0.2.0@990f53ed9222c95124364d9152d9cebc1baf9abe",
       "r": [
         "eris >= 0.4.0",
@@ -253,8 +269,9 @@
       "e": ""
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T18:58:59Z",
+  "generatedAt": "2026-05-27T00:52:46Z",
   "allDeps": {
     "packages": [
       "tkrzw > 0.1.3 & <= 0.2.0"

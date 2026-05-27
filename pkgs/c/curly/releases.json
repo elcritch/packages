@@ -180,8 +180,9 @@
       "d": "Makes using libcurl efficiently easy"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T18:57:28Z",
+  "generatedAt": "2026-05-27T00:50:21Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

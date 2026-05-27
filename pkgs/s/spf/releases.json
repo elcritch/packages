@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "spf",
   "fqn": "libspf-nim.openpeeps.github.com",
+  "current": "c465afbe754e5948e8b1bc299bd8f7c15939fad3",
   "author": "George Lemon",
   "description": "Bindings for the SPF library",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:11Z",
+  "generatedAt": "2026-05-27T01:04:21Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "checkpack",
   "fqn": "checkpack.EchoPouet.gitlab.com",
+  "current": "b8423d10e9f0e6c94269e553a3772fbbb1d26c4a",
   "author": "Arnaud Moura",
   "description": "Tiny library to check if a system package is already installed.",
   "license": "MIT",
@@ -25,8 +26,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:58Z",
+  "generatedAt": "2026-05-27T00:49:39Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "looper",
   "fqn": "looper.planetis-m.github.com",
+  "current": "b2d9b1f11cd5d359ef66364349bc5145b1c437e0",
   "author": "Antonis Geralis",
   "description": "For loop macros for Nim",
   "license": "MIT",
@@ -42,8 +43,9 @@
       "m": "1.0.9"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:42Z",
+  "generatedAt": "2026-05-27T00:55:29Z",
   "allDeps": {
     "packages": [],
     "urls": [],

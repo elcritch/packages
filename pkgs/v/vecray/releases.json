@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "vecray",
   "fqn": "vecray.morganholly.github.com",
+  "current": "9f421793dd4e349801b09e9b999f77dca713f424",
   "author": "Morgan Holly",
   "description": "array 2d/3d, vector 2d/3d",
   "license": "MIT",
@@ -17,8 +18,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:08Z",
+  "generatedAt": "2026-05-27T01:06:48Z",
   "allDeps": {
     "packages": [],
     "urls": [],

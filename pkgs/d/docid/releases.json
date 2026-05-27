@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "docid",
   "fqn": "docid.thisago.github.com",
+  "current": "6e4040029f757754761cd7a3b03b37d7beb094db",
   "author": "Thiago Navarro",
   "description": "Document IDs generation and validation",
   "license": "MIT",
@@ -15,8 +16,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:36Z",
+  "generatedAt": "2026-05-27T00:50:45Z",
   "allDeps": {
     "packages": [
       "util"

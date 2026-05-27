@@ -22,8 +22,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T15:48:26Z",
+  "generatedAt": "2026-05-27T00:54:37Z",
   "allDeps": {
     "packages": [
       "ranges > 0.1.0"

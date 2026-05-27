@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "htsparse",
   "fqn": "htsparse.haxscramper.github.com",
+  "current": "5cf1aff9174dda4fbba575661ec3755bff8e4a88",
   "author": "haxscramper",
   "description": "Nim wrappers for tree-sitter parser grammars",
   "license": "Apache-2.0",
@@ -95,8 +96,9 @@
       "m": "1.4.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:56Z",
+  "generatedAt": "2026-05-27T00:53:41Z",
   "allDeps": {
     "packages": [
       "benchy",

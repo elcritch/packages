@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "shellopt",
   "fqn": "shellopt.nim.uga-rosa.github.com",
+  "current": "51562fa3d3941b37433828bce5e109d4b12a0680",
   "author": "uga-rosa",
   "description": "Command line argument parser in the form commonly used in ordinary shell.",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:55Z",
+  "generatedAt": "2026-05-27T01:03:19Z",
   "allDeps": {
     "packages": [],
     "urls": [],

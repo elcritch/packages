@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "winrm",
   "fqn": "nim-winrm.blue0x1.github.com",
+  "current": "f7a52ccbf93278cf3cbce2b09f00fca76f5ea1cb",
   "author": "Chokri Hammedi (blue0x1)",
   "description": "Native WinRM client library for Nim",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:29Z",
+  "generatedAt": "2026-05-27T01:07:33Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "frag",
   "fqn": "frag.fragworks.github.com",
+  "current": "de8f256dde787f2ebe2f97bbc9d11718cf8ae829",
   "author": "Zachary Carter",
   "description": "A 2D|3D game engine",
   "license": "MIT",
@@ -21,8 +22,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:12Z",
+  "generatedAt": "2026-05-27T00:52:18Z",
   "allDeps": {
     "packages": [
       "opengl",

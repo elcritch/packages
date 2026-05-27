@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "libunicorn",
   "fqn": "libunicorn-nim.m4ul3r.github.com",
+  "current": "2cea79561b71e0f71a41ffe967cda0e8f4ba2db1",
   "author": "m4ul3r",
   "description": "Futhark wrapper for unicorn-engine",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:32Z",
+  "generatedAt": "2026-05-27T00:55:12Z",
   "allDeps": {
     "packages": [],
     "urls": [],

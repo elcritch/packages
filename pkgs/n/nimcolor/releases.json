@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimcolor",
   "fqn": "NimColor.JessaTehCrow.github.com",
+  "current": "59e88627bfd8628d39f9087bb72c761546c032dd",
   "author": "JessaTehCrow",
   "description": "Color printing interface for nim",
   "license": "MIT",
@@ -33,8 +34,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:46Z",
+  "generatedAt": "2026-05-27T00:57:56Z",
   "allDeps": {
     "packages": [],
     "urls": [],

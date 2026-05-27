@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "shiftfields",
   "fqn": "shiftfields.sumatoshi.github.com",
+  "current": "1400224274aad5a88f9819ea9f5924257db1ee1c",
   "author": "Maxim Cege (Цеге Максим)",
   "description": "Sugar for c-style shifted bitfields",
   "license": "MIT",
@@ -22,8 +23,9 @@
       "d": "Sugar for bitfields"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:56Z",
+  "generatedAt": "2026-05-27T01:03:20Z",
   "allDeps": {
     "packages": [],
     "urls": [],

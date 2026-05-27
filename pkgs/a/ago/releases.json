@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "ago",
   "fqn": "ago.daehee.github.com",
+  "current": "de420118c02fe2ad57f4b7e3d0affdb4e3bc60ee",
   "author": "Daehee",
   "description": "Time ago in words in Nim",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:11:50Z",
+  "generatedAt": "2026-05-27T00:47:37Z",
   "allDeps": {
     "packages": [],
     "urls": [],

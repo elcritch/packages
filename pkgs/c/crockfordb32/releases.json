@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "crockfordb32",
   "fqn": "Crockford-Base32-Nim.The-Ticking-Clockwork.github.com",
+  "current": "8f42b213a4e35f5fc0b151a0ef76958e76c460a8",
   "author": "Yu Vitaqua fer Chronos",
   "description": "A simple implementation of Crockford Base32! Supports nint128, doesn't support check symbols",
   "license": "CC0",
@@ -37,8 +38,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:17Z",
+  "generatedAt": "2026-05-27T00:50:12Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "vqsort",
   "fqn": "vqsort.Asc2011.github.com",
+  "current": "1681f1aa63f50cebb66d1c6d4d6892eb898f61a1",
   "author": "A. Schoeller",
   "description": "Vectorized Quicksort AVX2",
   "license": "MIT",
@@ -15,8 +16,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:12Z",
+  "generatedAt": "2026-05-27T01:06:57Z",
   "allDeps": {
     "packages": [
       "nimsimd"

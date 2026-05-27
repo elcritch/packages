@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "paranim",
   "fqn": "paranim.paranim.github.com",
+  "current": "fd28a5acf75f9fca32f1acc828c89c651dd9ce05",
   "author": "oakes",
   "description": "A game library for nim",
   "license": "Public Domain",
@@ -103,8 +104,9 @@
       "m": "1.0.4"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:56Z",
+  "generatedAt": "2026-05-27T01:00:18Z",
   "allDeps": {
     "packages": [
       "glm",

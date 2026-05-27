@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "tiny_sqlite",
   "fqn": "tiny_sqlite.GULPF.github.com",
+  "current": "a4977e9ab4fbc52e1db2f311391bbfa119f8e4bd",
   "author": "Oscar Nihlgård",
   "description": "A thin SQLite wrapper",
   "license": "MIT",
@@ -28,8 +29,9 @@
       "m": "0.19.2"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:44Z",
+  "generatedAt": "2026-05-27T01:05:38Z",
   "allDeps": {
     "packages": [],
     "urls": [],

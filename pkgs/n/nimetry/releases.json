@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimetry",
   "fqn": "nimetry.refaqtor.github.com",
+  "current": "5d61b46684c8caea1ad03dc29ebfee9d30c8453b",
   "author": "ijneb",
   "description": "Plotting library in Nim",
   "license": "CC0",
@@ -29,8 +30,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:49Z",
+  "generatedAt": "2026-05-27T00:58:07Z",
   "allDeps": {
     "packages": [
       "bumpy",

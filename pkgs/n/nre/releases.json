@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nre",
   "fqn": "nre.flaviut.github.com",
+  "current": "52f8117d3b8f2bfc6f94616b2b676c434b59c4f7",
   "author": "Flaviu Tamas",
   "description": "Yet another PCRE library",
   "license": "MIT",
@@ -56,8 +57,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:36Z",
+  "generatedAt": "2026-05-27T00:59:30Z",
   "allDeps": {
     "packages": [],
     "urls": [],

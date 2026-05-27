@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "pg_util",
   "fqn": "nim-pg-util.hiteshjasani.github.com",
+  "current": "4114175a827a8f85a560d426f932d59ba8754cbc",
   "author": "Hitesh Jasani",
   "description": "Collection of utility functions for working with Postgres",
   "license": "MIT",
@@ -25,8 +26,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:02Z",
+  "generatedAt": "2026-05-27T01:00:28Z",
   "allDeps": {
     "packages": [],
     "urls": [],

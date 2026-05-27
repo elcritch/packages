@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "jsony_plus",
   "fqn": "jsony_plus.thing-king.github.com",
+  "current": "7bfb045a698bd7d29d7863ea1bd917d1bbb9da41",
   "author": "savannt",
   "description": "An extension of `jsony` supporting better hooks, and type creation from schemas",
   "license": "MIT",
@@ -77,8 +78,9 @@
       "d": "An extension of `jsony` supporting better hooks, types generated from schemas, and general quality of life tools"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:14Z",
+  "generatedAt": "2026-05-27T00:54:28Z",
   "allDeps": {
     "packages": [
       "colors > 0.1.1",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "toon",
   "fqn": "nim-toon.copyleftdev.github.com",
+  "current": "fef76d8fffe8a0f9cf7bec59473fb264d2e7bd35",
   "author": "copyleftdev",
   "description": "A modular Nim implementation of the TOON data format",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:47Z",
+  "generatedAt": "2026-05-27T01:05:48Z",
   "allDeps": {
     "packages": [],
     "urls": [],

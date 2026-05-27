@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "cliSeqSelector",
   "fqn": "cliSeqSelector.z-kk.github.com",
+  "current": "d9631c01f06825804cc7b5e80cf3517b11dcd6ab",
   "author": "z-kk",
   "description": "Seq selector in CLI",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:03Z",
+  "generatedAt": "2026-05-27T00:49:49Z",
   "allDeps": {
     "packages": [],
     "urls": [],

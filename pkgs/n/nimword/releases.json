@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimword",
   "fqn": "nimword.PhilippMDoerner.github.com",
+  "current": "8788fcf0cd0131ebb075e40f9a10043ea1a4a0f0",
   "author": "Philipp Doerner",
   "description": "A simple library with a simple interface to do password hashing and validation with different algorithms",
   "license": "MIT",
@@ -21,8 +22,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:19Z",
+  "generatedAt": "2026-05-27T00:59:01Z",
   "allDeps": {
     "packages": [
       "libsodium"

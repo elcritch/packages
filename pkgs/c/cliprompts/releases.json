@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "cliprompts",
   "fqn": "cliprompts.indiscipline.github.com",
+  "current": "702d61af2be49a079e33092648ab96d30c5ff941",
   "author": "Kirill I.",
   "description": "Interactive command line prompts",
   "license": "GPL-2.0-or-later",
@@ -17,8 +18,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:05Z",
+  "generatedAt": "2026-05-27T00:49:52Z",
   "allDeps": {
     "packages": [],
     "urls": [],

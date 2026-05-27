@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "tabcompletion",
   "fqn": "tabcompletion.z-kk.github.com",
+  "current": "8c88ad115342fffb23b53d6192faab5910c90c6b",
   "author": "z-kk",
   "description": "stdin tab completion library",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:30Z",
+  "generatedAt": "2026-05-27T01:05:05Z",
   "allDeps": {
     "packages": [],
     "urls": [],

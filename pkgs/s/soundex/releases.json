@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "soundex",
   "fqn": "soundex.Kashiwara0205.github.com",
+  "current": "2e0337fd92bd320c53ce11194171de063fea6a37",
   "author": "KASHIWARA FUKI",
   "description": "soundex algorithm",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:10Z",
+  "generatedAt": "2026-05-27T01:04:08Z",
   "allDeps": {
     "packages": [],
     "urls": [],

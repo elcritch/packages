@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "flatBuffers",
   "fqn": "flatBuffers.Vindaar.github.com",
+  "current": "129948c27e3d1231499f2ccd7c6f4836afedd1b7",
   "author": "Vindaar",
   "description": "Package to turn (nested) Nim objects to flat buffers and back.",
   "license": "MIT",
@@ -32,8 +33,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:06Z",
+  "generatedAt": "2026-05-27T00:52:07Z",
   "allDeps": {
     "packages": [],
     "urls": [],

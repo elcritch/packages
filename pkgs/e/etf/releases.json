@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "etf",
   "fqn": "etf.metagn.github.com",
+  "current": "e0b77f78180e5c4d18e4b51d17fc95861035c1da",
   "author": "hlaaftana",
   "description": "etf library for nim",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:48Z",
+  "generatedAt": "2026-05-27T00:51:05Z",
   "allDeps": {
     "packages": [],
     "urls": [],

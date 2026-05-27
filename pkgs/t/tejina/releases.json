@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "tejina",
   "fqn": "tejina.bctnry.github.com",
+  "current": "7e789d51a4951cb8e7f591ef94b8e5a515f6391c",
   "author": "Sebastian Zack Tin Lahm",
   "description": "Minimal web framework for Nim",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:34Z",
+  "generatedAt": "2026-05-27T01:05:12Z",
   "allDeps": {
     "packages": [],
     "urls": [],

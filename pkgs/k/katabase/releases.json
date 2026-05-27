@@ -250,8 +250,9 @@
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/katabase.zendbit.github.com-2d887e8a-katabase.nimble\ncannot resolve package name: dbconnector"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T18:59:40Z",
+  "generatedAt": "2026-05-27T00:54:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

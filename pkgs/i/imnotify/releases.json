@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "imnotify",
   "fqn": "ImNotify.Patitotective.github.com",
+  "current": "caacfbf976995e236f1b583256426e2e562ad626",
   "author": "Patitotective",
   "description": "A notifications library for Dear ImGui",
   "license": "MIT",
@@ -15,8 +16,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:59Z",
+  "generatedAt": "2026-05-27T00:53:53Z",
   "allDeps": {
     "packages": [
       "nimgl"

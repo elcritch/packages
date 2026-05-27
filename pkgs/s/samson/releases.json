@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "samson",
   "fqn": "samson.GULPF.github.com",
+  "current": "71ead61104302abfc0d4463c91f73a4126b2184c",
   "author": "Oscar Nihlgård",
   "description": "JSON & JSON5 implementation",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:42Z",
+  "generatedAt": "2026-05-27T01:01:57Z",
   "allDeps": {
     "packages": [],
     "urls": [],

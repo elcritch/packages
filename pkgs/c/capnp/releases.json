@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "capnp",
   "fqn": "capnp.nim.zielmicha.github.com",
+  "current": "fa69fd7db70e14f8f4bbe364adc8e37195dd93b4",
   "author": "Michał Zieliński <michal@zielinscy.org.pl>",
   "description": "Cap'n Proto bindings",
   "license": "MIT",
@@ -15,8 +16,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:48Z",
+  "generatedAt": "2026-05-27T00:49:25Z",
   "allDeps": {
     "packages": [],
     "urls": [],

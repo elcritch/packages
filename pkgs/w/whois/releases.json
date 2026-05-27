@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "whois",
   "fqn": "whois.thisago.github.com",
+  "current": "9f5f46f845095a23ad466cfc1ae9bef2bfa16451",
   "author": "Thiago Navarro",
   "description": "A simple and free whois client",
   "license": "MIT",
@@ -20,8 +21,9 @@
       "m": "1.4.1"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:25Z",
+  "generatedAt": "2026-05-27T01:07:23Z",
   "allDeps": {
     "packages": [
       "kashae > 0.1.0",

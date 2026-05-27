@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "jdec",
   "fqn": "jdec.diegogub.github.com",
+  "current": "ade4bd9f3f285a1367a5245b714ba2baa6565fbb",
   "author": "Diego Guraieb",
   "description": "easy json helpers to marshal and unmarshal json",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:08Z",
+  "generatedAt": "2026-05-27T00:54:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

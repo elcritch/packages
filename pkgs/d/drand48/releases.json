@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "drand48",
   "fqn": "drand48.JeffersonLab.github.com",
+  "current": "d57d1852b0d501957d2d30463235f912e0bda72d",
   "author": "Robert Edwards",
   "description": "Nim implementation of standard unix drand48 random number generator",
   "license": "BSD clause 3",
@@ -31,8 +32,9 @@
       "m": "0.17.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:37Z",
+  "generatedAt": "2026-05-27T00:50:47Z",
   "allDeps": {
     "packages": [],
     "urls": [],

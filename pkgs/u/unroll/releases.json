@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "unroll",
   "fqn": "unroll.choltreppe.github.com",
+  "current": "0216f30847976da0d67fd905c6b3487e44c45564",
   "author": "Joel Lienhard",
   "description": "unroll for-loops at compile-time in nim",
   "license": "MIT",
@@ -17,8 +18,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:01Z",
+  "generatedAt": "2026-05-27T01:06:31Z",
   "allDeps": {
     "packages": [],
     "urls": [],

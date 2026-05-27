@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "unifetch",
   "fqn": "unifetch.thisago.github.com",
+  "current": "009c660a4096eb1b5903634bb9593106adb4d389",
   "author": "Thiago Navarro",
   "description": "Multi backend HTTP fetching",
   "license": "MIT",
@@ -61,8 +62,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:00Z",
+  "generatedAt": "2026-05-27T01:06:26Z",
   "allDeps": {
     "packages": [],
     "urls": [],

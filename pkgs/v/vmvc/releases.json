@@ -34,8 +34,9 @@
       "d": "a skeleton/structure for a variation on the mvc pattern, similar to dci. For command line and gui programs. it's a middle ground between rapid application development and handling software complexity."
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T15:54:50Z",
+  "generatedAt": "2026-05-27T01:06:55Z",
   "allDeps": {
     "packages": [
       "graphemes <= 0.0.2",

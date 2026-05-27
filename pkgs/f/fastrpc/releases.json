@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "fastrpc",
   "fqn": "fastrpc.elcritch.github.com",
+  "current": "73365a4c14eb0db4400c008889560638911d3ac1",
   "author": "Jaremy Creechley",
   "description": "fast binary rpc designed for embedded",
   "license": "Apache-2.0",
@@ -296,8 +297,9 @@
       }
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:54Z",
+  "generatedAt": "2026-05-27T00:51:28Z",
   "allDeps": {
     "packages": [
       "bigints > 0.6.0",

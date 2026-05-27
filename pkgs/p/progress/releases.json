@@ -37,8 +37,9 @@
       "l": "BSD"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T19:03:25Z",
+  "generatedAt": "2026-05-27T01:00:57Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

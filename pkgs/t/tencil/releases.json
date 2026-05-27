@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "tencil",
   "fqn": "tencil.enimatek-nl.github.com",
+  "current": "de809dff9d7744b246ea3fd85add0ba59bedc40f",
   "author": "enimatek",
   "description": "Tencil is a mustache-compatible JSON based template engine for Nim.",
   "license": "MIT",
@@ -21,8 +22,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:36Z",
+  "generatedAt": "2026-05-27T01:05:15Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "iecook",
   "fqn": "iecook.thisago.github.com",
+  "current": "3707faa248d95d585c92d8fd9ba6c11e00ef19d6",
   "author": "Thiago Navarro",
   "description": "iecook - In other words: Cook",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:57Z",
+  "generatedAt": "2026-05-27T00:53:48Z",
   "allDeps": {
     "packages": [],
     "urls": [],

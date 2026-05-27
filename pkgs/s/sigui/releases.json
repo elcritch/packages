@@ -125,8 +125,9 @@
       "m": "2.0.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T19:04:44Z",
+  "generatedAt": "2026-05-27T01:03:29Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

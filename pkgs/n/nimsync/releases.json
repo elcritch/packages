@@ -23,8 +23,9 @@
       "d": "Lock-free SPSC channels for Nim (212M+ ops/sec verified)"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T19:02:06Z",
+  "generatedAt": "2026-05-27T00:58:54Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

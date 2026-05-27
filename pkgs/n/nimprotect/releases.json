@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimprotect",
   "fqn": "NimProtect.itaymigdal.github.com",
+  "current": "1f723b32b1970700288cc096c76d6ab75c18a56d",
   "author": "Itay Migdal",
   "description": "NimProtect is a tiny single-macro library for protecting sensitive strings in compiled binaries",
   "license": "MIT",
@@ -21,8 +22,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:08Z",
+  "generatedAt": "2026-05-27T00:58:43Z",
   "allDeps": {
     "packages": [
       "RC4"

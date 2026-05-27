@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimobserver",
   "fqn": "nimobserver.Tangdongle.github.com",
+  "current": "9567652bc7f1c50a7b62584b033f90566cf779dd",
   "author": "Tangdongle",
   "description": "An implementation of the observer pattern",
   "license": "MIT",
@@ -17,8 +18,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:03Z",
+  "generatedAt": "2026-05-27T00:58:36Z",
   "allDeps": {
     "packages": [],
     "urls": [],

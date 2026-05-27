@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "dmon",
   "fqn": "dmon-nim.elcritch.github.com",
+  "current": "b068e274bd5a45e44ef91a337261dd3eee7423b5",
   "author": "Jaremy Creechley",
   "description": "Library to monitor file changes in a folder. A port of Dmon.",
   "license": "BSD-2-Clause",
@@ -68,8 +69,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:35Z",
+  "generatedAt": "2026-05-27T00:50:43Z",
   "allDeps": {
     "packages": [
       "chronicles <= 0.3.3",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "karkas",
   "fqn": "karkas.moigagoo.github.com",
+  "current": "bea9421376d81bcc7afe41f12129faf0cf7af7c7",
   "author": "Constantine Molchanov",
   "description": "Layout helpers and sugar for Karax",
   "license": "MIT",
@@ -15,8 +16,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:16Z",
+  "generatedAt": "2026-05-27T00:54:34Z",
   "allDeps": {
     "packages": [
       "dotenv",

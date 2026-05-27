@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "loadenv",
   "fqn": "nim-loadenv.xmonader.github.com",
+  "current": "961fde7c424f709f141683b7dea33ae4895e6531",
   "author": "xmonader",
   "description": "load .env variables",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:37Z",
+  "generatedAt": "2026-05-27T00:55:24Z",
   "allDeps": {
     "packages": [],
     "urls": [],

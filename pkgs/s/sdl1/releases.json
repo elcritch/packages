@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "sdl1",
   "fqn": "sdl1.nim-lang.github.com",
+  "current": "d8ef41f393de0f0df3647431067b2ac74a3ab3ec",
   "author": "Andreas Rumpf",
   "description": "SDL 1.2 wrapper for Nim.",
   "license": "LGPL",
@@ -12,8 +13,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:46Z",
+  "generatedAt": "2026-05-27T01:02:25Z",
   "allDeps": {
     "packages": [],
     "urls": [],

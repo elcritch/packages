@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "twofa",
   "fqn": "twofa.openpeeps.github.com",
+  "current": "5bc83d187c25c6d68922bc31dd10ac73adbcc420",
   "author": "George Lemon",
   "description": "Simple 2FA QR CodeGen based on otp & qr packages",
   "license": "MIT",
@@ -17,8 +18,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:54Z",
+  "generatedAt": "2026-05-27T01:06:08Z",
   "allDeps": {
     "packages": [
       "base32",

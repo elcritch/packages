@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "pgvector",
   "fqn": "pgvector-nim.pgvector.github.com",
+  "current": "0b2079ccf495934674536ee59037e84b767172e9",
   "author": "Andrew Kane",
   "description": "pgvector support for Nim",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:02Z",
+  "generatedAt": "2026-05-27T01:00:28Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "printdebug",
   "fqn": "nim-printdebug.juancarlospaco.github.com",
+  "current": "88dcf2dd5f6f0584e80dbe7e40cdbb124c9998fd",
   "author": "juancarlospaco",
   "description": "Print Debug for Nim, tiny 3 lines Lib, C Target",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:18Z",
+  "generatedAt": "2026-05-27T01:00:56Z",
   "allDeps": {
     "packages": [],
     "urls": [],

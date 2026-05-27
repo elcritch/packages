@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "threadButler",
   "fqn": "Appster.PhilippMDoerner.github.com",
+  "current": "55ceaca43edb7c4066178330f5e8a234f9a6868d",
   "author": "Philipp Doerner",
   "description": "Use threads as if they were servers/microservices to enable multi-threading with a simple mental model.",
   "license": "MIT",
@@ -17,8 +18,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:41Z",
+  "generatedAt": "2026-05-27T01:05:25Z",
   "allDeps": {
     "packages": [
       "owlkettle",

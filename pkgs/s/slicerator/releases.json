@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "slicerator",
   "fqn": "slicerator.beef331.github.com",
+  "current": "c5fc323b3ace2458ba8bf3e9841339be53f91e52",
   "author": "Jason",
   "description": "Iterator package aimed at more ergonomic and efficient iterators",
   "license": "MIT",
@@ -52,8 +53,9 @@
       "m": "1.6.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:05Z",
+  "generatedAt": "2026-05-27T01:03:48Z",
   "allDeps": {
     "packages": [],
     "urls": [],

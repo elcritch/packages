@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nim_cexc",
   "fqn": "nim-cexc-splunk.metasyn.github.com",
+  "current": "550cc9416f653575fdf563b074e95964381cd15d",
   "author": "Alexander Johnson",
   "description": "A simple chunked external protocol interface for Splunk custom search commands.",
   "license": "Apache2",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:35Z",
+  "generatedAt": "2026-05-27T00:57:23Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "holo_json",
   "fqn": "holo-json.holo-nim.github.com",
+  "current": "8e893325daaab90564ffdac2fe00793200d4c40b",
   "author": "Andre von Houck -> metagn",
   "description": "usable fork of jsony",
   "license": "MIT",
@@ -15,8 +16,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:45Z",
+  "generatedAt": "2026-05-27T00:53:25Z",
   "allDeps": {
     "packages": [],
     "urls": [],

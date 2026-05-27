@@ -24,8 +24,9 @@
       "m": "1.0.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T15:52:34Z",
+  "generatedAt": "2026-05-27T01:01:21Z",
   "allDeps": {
     "packages": [],
     "urls": [],

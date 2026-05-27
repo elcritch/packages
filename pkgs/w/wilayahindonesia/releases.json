@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "wilayahindonesia",
   "fqn": "wilayahindonesia-nim.nekoding.github.com",
+  "current": "43a6096966953b2a8106c839b2203d1f77c7f93a",
   "author": "enggar tivandi",
   "description": "Library data wilayah indonesia",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:25Z",
+  "generatedAt": "2026-05-27T01:07:24Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "w8crc",
   "fqn": "w8crc.sumatoshi.github.com",
+  "current": "fdfd2b33fa6d29456e089b6ec45fb3f3b2b81a9c",
   "author": "Maxim Soeghe",
   "description": "Full-featured CRC library for Nim.",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:13Z",
+  "generatedAt": "2026-05-27T01:06:58Z",
   "allDeps": {
     "packages": [],
     "urls": [],

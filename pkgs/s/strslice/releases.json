@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "strslice",
   "fqn": "strslice.PMunch.github.com",
+  "current": "9d5c2d5b6423e93f5bda7c7691a0dcbd330a0678",
   "author": "Peter Munch-Ellingsen",
   "description": "Efficient string slices that works on a shared underlying string instead of copying",
   "license": "MIT",
@@ -17,8 +18,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:22Z",
+  "generatedAt": "2026-05-27T01:04:49Z",
   "allDeps": {
     "packages": [],
     "urls": [],

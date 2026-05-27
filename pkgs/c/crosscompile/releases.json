@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "crosscompile",
   "fqn": "nim-crosscompile.juancarlospaco.github.com",
+  "current": "11fc502471f4384f14f9606c243e84cfd4b20b5f",
   "author": "juancarlospaco",
   "description": "Crosscompile Nim source code into multiple targets on Linux with this proc.",
   "license": "MIT",
@@ -21,8 +22,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:17Z",
+  "generatedAt": "2026-05-27T00:50:12Z",
   "allDeps": {
     "packages": [
       "zip"

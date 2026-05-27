@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "ginger",
   "fqn": "ginger.Vindaar.github.com",
+  "current": "55abbfb73c57dab0be5428ce0b0803d755803e96",
   "author": "Vindaar",
   "description": "A Grid (R) like package in Nim",
   "license": "MIT",
@@ -507,8 +508,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:25Z",
+  "generatedAt": "2026-05-27T00:52:48Z",
   "allDeps": {
     "packages": [
       "arraymancer > 0.2.12",

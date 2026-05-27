@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "moveiterators",
   "fqn": "moveiterators.sls1005.github.com",
+  "current": "85b106139895c1ca55d3c40b020cc787dc202ca7",
   "author": "Hsien-yu Chu",
   "description": "Special iterators that use move semantics",
   "license": "MIT",
@@ -17,8 +18,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:09Z",
+  "generatedAt": "2026-05-27T00:56:09Z",
   "allDeps": {
     "packages": [],
     "urls": [],

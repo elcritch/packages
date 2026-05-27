@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimAGG",
   "fqn": "nimAGG.jangko.github.com",
+  "current": "0566604c1576517ae25b1d5bc430f896d15bd16f",
   "author": "Andri Lim",
   "description": "nimAGG is a Nim port of Anti Grain Geometry(AGG)",
   "license": "MIT",
@@ -32,8 +33,9 @@
       "m": "0.18.1"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:30Z",
+  "generatedAt": "2026-05-27T00:57:14Z",
   "allDeps": {
     "packages": [
       "freetype > 0.1.0",

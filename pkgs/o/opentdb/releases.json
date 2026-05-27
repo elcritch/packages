@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "opentdb",
   "fqn": "nim-opentmdb.ire4ever1190.github.com",
+  "current": "28d1bfa844bd6836dc67b8f85c7c785da349fec9",
   "author": "Jake Leahy",
   "description": "Wrapper around the open trivia db api",
   "license": "MIT",
@@ -25,8 +26,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:48Z",
+  "generatedAt": "2026-05-27T01:00:02Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "fuzzy",
   "fqn": "fuzzy.pigmej.github.com",
+  "current": "8257562c080e398438576d78ef2ba66d344d86cf",
   "author": "Jedrzej Nowak",
   "description": "Pure nim fuzzy search implementation. Supports substrings etc",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:14Z",
+  "generatedAt": "2026-05-27T00:52:24Z",
   "allDeps": {
     "packages": [],
     "urls": [],

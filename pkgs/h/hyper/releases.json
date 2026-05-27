@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "hyper",
   "fqn": "hyper-nim.thechampagne.github.com",
+  "current": "eb3d2fdeb777a3c5915068f76427cdb44fe4312d",
   "author": "XXIV",
   "description": "Binding for hyper an HTTP library",
   "license": "Apache-2.0",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:54Z",
+  "generatedAt": "2026-05-27T00:53:42Z",
   "allDeps": {
     "packages": [],
     "urls": [],

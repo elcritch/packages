@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nest",
   "fqn": "nest.kedean.github.com",
+  "current": "03b9c54925965c991e83527b256423130657e87a",
   "author": "Kevin Dean",
   "description": "RESTful URI router",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:22Z",
+  "generatedAt": "2026-05-27T00:56:38Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "einheit",
   "fqn": "einheit.jyapayne.github.com",
+  "current": "4480724889f86c7be31b76e2de9f7f50c0b89332",
   "author": "Joey Payne",
   "description": "Tool for providing unit tests. Einheit is German for Unit.",
   "license": "MIT",
@@ -66,8 +67,9 @@
       "m": "0.18.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:43Z",
+  "generatedAt": "2026-05-27T00:50:58Z",
   "allDeps": {
     "packages": [],
     "urls": [],

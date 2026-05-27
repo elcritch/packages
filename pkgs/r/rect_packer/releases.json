@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "rect_packer",
   "fqn": "rect_packer.yglukhov.github.com",
+  "current": "fd27778418523e634f0b9cab393d70564938c259",
   "author": "Yuriy Glukhov",
   "description": "Pack rects into bigger rect",
   "license": "MIT",
@@ -12,8 +13,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:32Z",
+  "generatedAt": "2026-05-27T01:01:25Z",
   "allDeps": {
     "packages": [],
     "urls": [],

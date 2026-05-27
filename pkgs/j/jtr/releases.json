@@ -92,8 +92,9 @@
       "p": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T18:59:37Z",
+  "generatedAt": "2026-05-27T00:54:29Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -22,8 +22,9 @@
       "d": "Nim wrapper for the cnats - NATS and NATS Streaming client library"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T19:00:49Z",
+  "generatedAt": "2026-05-27T00:56:23Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

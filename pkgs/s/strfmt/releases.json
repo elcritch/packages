@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "strfmt",
   "fqn": "nim-strfmt.bio-nim.github.com",
+  "current": "8d4d200bc3369d3bd07b9904c278e958261b4252",
   "author": "Frank Fischer",
   "description": "A string formatting library inspired by Python's `format`",
   "license": "MIT",
@@ -16,8 +17,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:21Z",
+  "generatedAt": "2026-05-27T01:04:47Z",
   "allDeps": {
     "packages": [],
     "urls": [],

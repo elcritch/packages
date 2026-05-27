@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "jsonpak",
   "fqn": "jsonpak.planetis-m.github.com",
+  "current": "8f9597b5e3b38c868d4c64798557fbc4eb366921",
   "author": "planetis-m",
   "description": "Packed ASTs for compact and efficient JSON representation, with JSON Pointer, JSON Patch support.",
   "license": "MIT",
@@ -29,8 +30,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:13Z",
+  "generatedAt": "2026-05-27T00:54:27Z",
   "allDeps": {
     "packages": [],
     "urls": [],

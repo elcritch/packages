@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "openexchangerates",
   "fqn": "nim-openexchangerates.juancarlospaco.github.com",
+  "current": "2582c88f5391f8b845f7befd38ac1e58591bae42",
   "author": "Juan Carlos",
   "description": "OpenExchangeRates API Client for Nim. Works with/without SSL.",
   "license": "MIT",
@@ -19,8 +20,9 @@
       "m": "0.19.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:47Z",
+  "generatedAt": "2026-05-27T01:00:00Z",
   "allDeps": {
     "packages": [],
     "urls": [],

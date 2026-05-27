@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "ansiparse",
   "fqn": "ansiparse.PMunch.github.com",
+  "current": "4f97d31792ccc2b76d77cdea7683e7b73d5ff6f6",
   "author": "PMunch",
   "description": "A package to read data and parse it into ANSI escape characters",
   "license": "MIT",
@@ -25,8 +26,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:11:54Z",
+  "generatedAt": "2026-05-27T00:47:44Z",
   "allDeps": {
     "packages": [],
     "urls": [],

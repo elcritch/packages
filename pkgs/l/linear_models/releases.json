@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "linear_models",
   "fqn": "linear-models.ayman-albaz.github.com",
+  "current": "5e2da6d3134819f396f362e3a30e91a4df2aabc7",
   "author": "ayman albaz",
   "description": "Generalized Linear Models in Nim.",
   "license": "Apache-2.0",
@@ -23,8 +24,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:34Z",
+  "generatedAt": "2026-05-27T00:55:16Z",
   "allDeps": {
     "packages": [
       "arraymancer",

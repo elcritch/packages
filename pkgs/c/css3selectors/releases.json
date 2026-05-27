@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "css3selectors",
   "fqn": "CSS3Selectors.Niminem.github.com",
+  "current": "66989da1fd8be158802d7d1ba7825f058f7b0664",
   "author": "Niminem",
   "description": "A Nim CSS Selectors library for the WHATWG standard compliant Chame HTML parser. Query HTML using CSS selectors with Nim just like you can with JavaScript.",
   "license": "MIT",
@@ -15,8 +16,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:19Z",
+  "generatedAt": "2026-05-27T00:50:16Z",
   "allDeps": {
     "packages": [
       "chame"

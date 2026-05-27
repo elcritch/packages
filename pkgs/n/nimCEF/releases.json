@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimCEF",
   "fqn": "nimCEF.jangko.github.com",
+  "current": "1dd96ad929da209aa26947c8411b51eb0f824263",
   "author": "Andri Lim",
   "description": "CEF3 Chromium Emmbedded Framework wrapper",
   "license": "MIT",
@@ -16,8 +17,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:31Z",
+  "generatedAt": "2026-05-27T00:57:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -77,8 +77,9 @@
       "x": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T16:29:19Z",
+  "generatedAt": "2026-05-27T01:01:23Z",
   "allDeps": {
     "packages": [
       "collections > 0.4.5"

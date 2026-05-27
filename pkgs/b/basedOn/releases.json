@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "basedOn",
   "fqn": "basedOn.KaceCottam.github.com",
+  "current": "45f927dc682eac90b4d4a740e5b91a9db6f9ed86",
   "author": "Kace Cottam",
   "description": "A library for cleanly creating an object or tuple based on another object or tuple",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:19Z",
+  "generatedAt": "2026-05-27T00:48:27Z",
   "allDeps": {
     "packages": [],
     "urls": [],

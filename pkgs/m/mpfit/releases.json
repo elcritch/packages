@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "mpfit",
   "fqn": "nim-mpfit.Vindaar.github.com",
+  "current": "492f36a52af8356a1d5684355fdefbf5b76b67ff",
   "author": "Sebastian Schmidt",
   "description": "Wrapper for the cMPFIT non-linear least squares fitting library (Levenberg-Marquardt)",
   "license": "MIT",
@@ -21,8 +22,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:09Z",
+  "generatedAt": "2026-05-27T00:56:10Z",
   "allDeps": {
     "packages": [],
     "urls": [],

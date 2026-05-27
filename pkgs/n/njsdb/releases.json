@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "njsdb",
   "fqn": "nim-simpledb.bung87.github.com",
+  "current": "2d08e20b2ceeed0918aa063cd62c4d2da73f420b",
   "author": "jjv360",
   "description": "NJSDB - Nim JSON SQLite Database - A simple NoSQL JSON document database",
   "license": "MIT",
@@ -22,8 +23,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:23Z",
+  "generatedAt": "2026-05-27T00:59:08Z",
   "allDeps": {
     "packages": [
       "classes <= 0.1.2",

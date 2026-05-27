@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "bitset",
   "fqn": "bitset.joryschossau.github.com",
+  "current": "637612d288d4320495cfa0c3b1b47a6b0fcca674",
   "author": "Jory Schossau",
   "description": "A pure nim version of C++'s std::bitset",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:31Z",
+  "generatedAt": "2026-05-27T00:49:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

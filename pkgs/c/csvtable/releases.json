@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "csvtable",
   "fqn": "csvtable.apahl.github.com",
+  "current": "87001dfde274e09d24d1682226b40235f600b3cd",
   "author": "Axel Pahl",
   "description": "Nim tools for handling CSV files with an API similar to Python's CSVDictReader and -Writer",
   "license": "MIT",
@@ -21,8 +22,9 @@
       "m": "0.15.3"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:21Z",
+  "generatedAt": "2026-05-27T00:50:18Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -19,8 +19,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T15:46:11Z",
+  "generatedAt": "2026-05-27T00:50:42Z",
   "allDeps": {
     "packages": [
       "zippy"

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "niml",
   "fqn": "niml.jakubDoka.github.com",
+  "current": "ff1137ab890622440346c94cf144002439463446",
   "author": "Jakub Dóka",
   "description": "html dsl",
   "license": "MIT",
@@ -49,8 +50,9 @@
       "E": "missing nimble file"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:59Z",
+  "generatedAt": "2026-05-27T00:58:28Z",
   "allDeps": {
     "packages": [
       "fusion > 0.1.0 & <= 0.1.5"

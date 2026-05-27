@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "bitstreams",
   "fqn": "bitstreams.sealmove.github.com",
+  "current": "bd5718bd00d78c71b3ef9e48bf968d55d8912ff2",
   "author": "Stefanos Mandalas",
   "description": "Interface for reading per bits",
   "license": "MIT",
@@ -11,8 +12,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:31Z",
+  "generatedAt": "2026-05-27T00:49:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

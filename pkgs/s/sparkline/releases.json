@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "sparkline",
   "fqn": "sparkline-nim.aquilax.github.com",
+  "current": "4cbbd2a734c68666ee3e7820e09326be8e15b44c",
   "author": "aquilax",
   "description": "Sparkline library",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:10Z",
+  "generatedAt": "2026-05-27T01:04:15Z",
   "allDeps": {
     "packages": [],
     "urls": [],

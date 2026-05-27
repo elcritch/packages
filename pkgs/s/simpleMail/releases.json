@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "simpleMail",
   "fqn": "simpleMail.up7down8.github.com",
+  "current": "f998fe66e4df9391a8be58ec8d84916b20eb1fba",
   "author": "up7down8",
   "description": "\"Make sending HTML and file emails easier",
   "license": "MIT",
@@ -15,8 +16,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:00Z",
+  "generatedAt": "2026-05-27T01:03:35Z",
   "allDeps": {
     "packages": [
       "smtp"

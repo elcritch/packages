@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "LLVM",
   "fqn": "llvm.FedeOmoto.github.com",
+  "current": "389448012ebf1b8a577c56247a85580e879a3709",
   "author": "Federico Omoto",
   "description": "LLVM wrapper",
   "license": "MIT",
@@ -12,8 +13,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:11:40Z",
+  "generatedAt": "2026-05-27T00:47:20Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "db_nimternalsql",
   "fqn": "nimternalsql.rehartmann.github.com",
+  "current": "419c299a28192941ac086988dcc56851478c50c2",
   "author": "Rene Hartmann",
   "description": "An in-memory SQL database library",
   "license": "MIT",
@@ -34,8 +35,9 @@
       "m": "1.4.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:26Z",
+  "generatedAt": "2026-05-27T00:50:26Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "amqpstats",
   "fqn": "amqp-stats.nim.Q-Master.github.com",
+  "current": "ca87d4a1dd5396fbf65385ae6a93991cd8c438a4",
   "author": "Vladimir Berezenko",
   "description": "Pure Nim library to read AMQP stats via management plugin API",
   "license": "MIT",
@@ -57,8 +58,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:11:53Z",
+  "generatedAt": "2026-05-27T00:47:42Z",
   "allDeps": {
     "packages": [
       "packedjson",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "biscuits",
   "fqn": "nim-biscuits.achesak.github.com",
+  "current": "8f337e1d0233e0e0c88fe8e88edea74275fca994",
   "author": "Adam Chesak",
   "description": "better cookie handling",
   "license": "MIT",
@@ -15,8 +16,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:30Z",
+  "generatedAt": "2026-05-27T00:48:59Z",
   "allDeps": {
     "packages": [],
     "urls": [],

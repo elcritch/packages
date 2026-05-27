@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "camelize",
   "fqn": "camelize.kixixixixi.github.com",
+  "current": "0be04a7ffcb86994f9787431fe0f8a3a26f2db67",
   "author": "kixixixixi",
   "description": "Convert json node to camelcase",
   "license": "MIT",
@@ -21,8 +22,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:47Z",
+  "generatedAt": "2026-05-27T00:49:24Z",
   "allDeps": {
     "packages": [],
     "urls": [],

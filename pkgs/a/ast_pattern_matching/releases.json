@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "ast_pattern_matching",
   "fqn": "ast-pattern-matching.nim-lang.github.com",
+  "current": "eb8b99d595517fd5d41ccc954edb896267f2db78",
   "author": "Arne Döring",
   "description": "a general ast pattern matching library with a focus on correctness and good error messages",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:04Z",
+  "generatedAt": "2026-05-27T00:48:00Z",
   "allDeps": {
     "packages": [],
     "urls": [],

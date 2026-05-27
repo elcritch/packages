@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimony",
   "fqn": "nimony.nim-lang.github.com",
+  "current": "3c788f9946a42cc7e336398db1c39065e9734d60",
   "releases": [
     {
       "v": "0.2.0@d9c91e6962d88bfb687aaa00f60e9be7f2aed216",
@@ -10,8 +11,9 @@
       "E": "missing nimble file"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:06Z",
+  "generatedAt": "2026-05-27T00:58:39Z",
   "allDeps": {
     "packages": [],
     "urls": [],

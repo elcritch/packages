@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "jwt",
   "fqn": "nim-jwt.yglukhov.github.com",
+  "current": "710fd315b0199f6abb17c97fb58f64987ec2be11",
   "author": "Endre Karlson",
   "description": "JSON Web Tokens for Nim",
   "license": "MIT",
@@ -31,8 +32,9 @@
       "m": "2.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:15Z",
+  "generatedAt": "2026-05-27T00:54:30Z",
   "allDeps": {
     "packages": [
       "bearssl > 0.0.1",

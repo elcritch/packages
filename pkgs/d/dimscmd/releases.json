@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "dimscmd",
   "fqn": "dimscordCommandHandler.ire4ever1190.github.com",
+  "current": "e4573f81ab4a0b4c970b016f47832791b36d61b2",
   "author": "Jake Leahy",
   "description": "A command handler for the dimscord discord library",
   "license": "MIT",
@@ -136,8 +137,9 @@
       "m": "1.4.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:32Z",
+  "generatedAt": "2026-05-27T00:50:39Z",
   "allDeps": {
     "packages": [
       "dimscord",

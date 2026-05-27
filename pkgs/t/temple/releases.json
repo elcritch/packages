@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "temple",
   "fqn": "temple.onbox.codeberg.org",
+  "current": "76a966e413fc558f5c9787e82a820523fe29862b",
   "author": "penguinite",
   "description": "A simple and somewhat extensible templating library",
   "license": "BSD-3-Clause",
@@ -28,8 +29,9 @@
       "m": "2.0.2"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:36Z",
+  "generatedAt": "2026-05-27T01:05:17Z",
   "allDeps": {
     "packages": [],
     "urls": [],

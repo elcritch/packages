@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "soundio",
   "fqn": "soundio.ul.github.com",
+  "current": "dba4aea9ce33b049522f12023108dc4779a4fef2",
   "author": "Ruslan Prokopchuk",
   "description": "Bindings for libsoundio, a library providing cross-platform audio input and output.",
   "license": "MIT",
@@ -18,8 +19,9 @@
       "m": "0.18.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:09Z",
+  "generatedAt": "2026-05-27T01:04:09Z",
   "allDeps": {
     "packages": [],
     "urls": [],

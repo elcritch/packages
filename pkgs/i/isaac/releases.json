@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "isaac",
   "fqn": "isaac.pragmagic.github.com",
+  "current": "45a5cbbd54ff59ba3ed94242620c818b9aad1b5b",
   "releases": [
     {
       "v": "0.1.3@45a5cbbd54ff59ba3ed94242620c818b9aad1b5b^",
@@ -16,8 +17,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:06Z",
+  "generatedAt": "2026-05-27T00:54:11Z",
   "allDeps": {
     "packages": [],
     "urls": [],

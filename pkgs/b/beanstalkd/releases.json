@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "beanstalkd",
   "fqn": "beanstalkd.nim.tormaroe.github.com",
+  "current": "0cdf821a3f4f8ac0c6e1ddb99f7d01c4f795b20d",
   "author": "Torbjørn Marø",
   "description": "A beanstalkd work queue client library",
   "license": "MIT",
@@ -15,8 +16,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:24Z",
+  "generatedAt": "2026-05-27T00:48:34Z",
   "allDeps": {
     "packages": [],
     "urls": [],

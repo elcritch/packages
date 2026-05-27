@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "util",
   "fqn": "util.thisago.github.com",
+  "current": "e449c43f5cf3cf517b76ef23efc8473148d3020a",
   "author": "Thiago Navarro",
   "description": "Small utilities that isn't large enough to have a individual modules",
   "license": "MIT",
@@ -29,8 +30,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:05Z",
+  "generatedAt": "2026-05-27T01:06:42Z",
   "allDeps": {
     "packages": [],
     "urls": [],

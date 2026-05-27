@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "hwylterm",
   "fqn": "hwylterm.daylinmorgan.github.com",
+  "current": "f623a34394cd84338c7bb1808bd27f6f2575f171",
   "author": "Daylin Morgan",
   "description": "bringing some fun (hwyl) to the terminal",
   "license": "MIT",
@@ -21,8 +22,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:54Z",
+  "generatedAt": "2026-05-27T00:53:42Z",
   "allDeps": {
     "packages": [],
     "urls": [],

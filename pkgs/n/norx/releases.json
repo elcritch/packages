@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "norx",
   "fqn": "norx.gokr.github.com",
+  "current": "beec0f363e62886da7a1c6de47ecb3b19d6de75e",
   "author": "Göran Krampe",
   "description": "A wrapper of the ORX 2.5D game engine",
   "license": "Zlib",
@@ -19,8 +20,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:34Z",
+  "generatedAt": "2026-05-27T00:59:23Z",
   "allDeps": {
     "packages": [],
     "urls": [],

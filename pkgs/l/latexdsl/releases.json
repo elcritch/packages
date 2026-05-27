@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "latexdsl",
   "fqn": "LatexDSL.Vindaar.github.com",
+  "current": "9224e16b9018d68c3c8b11908be9ba9c7a326de6",
   "author": "Vindaar",
   "description": "A DSL to write LaTeX in Nim. No idea who wants that.",
   "license": "MIT",
@@ -103,8 +104,9 @@
       "m": "1.2.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:23Z",
+  "generatedAt": "2026-05-27T00:54:49Z",
   "allDeps": {
     "packages": [
       "arraymancer > 0.1.4 & <= 0.1.10",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "array2d",
   "fqn": "array2d.avahe-kellenberger.github.com",
+  "current": "8ef8209e01855a51729d30880c1c2f4eebf1ce4c",
   "author": "Avahe Kellenberger",
   "description": "A 2D Array Implementation",
   "license": "GPL-2.0-only",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:00Z",
+  "generatedAt": "2026-05-27T00:47:55Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "bitseqs",
   "fqn": "bitfields.adokitkat.github.com",
+  "current": "e68743f89b85a7e09ed087441474a8a8908006fc",
   "author": "Adam Múdry",
   "description": "Utility for a bit manipulation",
   "license": "MIT",
@@ -17,8 +18,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:31Z",
+  "generatedAt": "2026-05-27T00:49:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

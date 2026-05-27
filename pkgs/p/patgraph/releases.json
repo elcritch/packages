@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "patgraph",
   "fqn": "patgraph.planetis-m.github.com",
+  "current": "34e6a672de7090fc5372db059e6a6bee71ef6ae0",
   "author": "Antonis",
   "description": "graph data structure library",
   "license": "MIT",
@@ -16,8 +17,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:00Z",
+  "generatedAt": "2026-05-27T01:00:23Z",
   "allDeps": {
     "packages": [],
     "urls": [],

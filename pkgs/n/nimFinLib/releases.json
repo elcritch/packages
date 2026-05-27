@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "nimFinLib",
   "fqn": "NimFinLib.qqtop.github.com",
+  "current": "753729a11cd1e7d07324e912054424b6d83c2b89",
   "author": "qqTop",
   "description": "Financial library for Nim",
   "license": "MIT",
@@ -97,8 +98,9 @@
       "d": "Financial Library for Nim"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:32Z",
+  "generatedAt": "2026-05-27T00:57:17Z",
   "allDeps": {
     "packages": [],
     "urls": [],

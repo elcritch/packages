@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "html5_canvas",
   "fqn": "HTML5-Canvas-Nim.define-private-public.gitlab.com",
+  "current": "9302d96efb5b4d0fc406e9eb20deca9c5465cef8",
   "author": "define-private-public",
   "description": "HTML5 Canvas and drawing for the JavaScript backend.",
   "license": "MIT",
@@ -67,8 +68,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:50Z",
+  "generatedAt": "2026-05-27T00:53:33Z",
   "allDeps": {
     "packages": [],
     "urls": [],

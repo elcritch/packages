@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "cliche",
   "fqn": "cliche.juancarlospaco.github.com",
+  "current": "e08da15572a0f45f881a303f2be89459ad6be6a9",
   "author": "Juan_Carlos.nim",
   "description": "AutoMagic CLI argument parsing is Cliche",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:04Z",
+  "generatedAt": "2026-05-27T00:49:50Z",
   "allDeps": {
     "packages": [],
     "urls": [],

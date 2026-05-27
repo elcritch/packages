@@ -23,8 +23,9 @@
       "x": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T15:53:53Z",
+  "generatedAt": "2026-05-27T01:05:03Z",
   "allDeps": {
     "packages": [
       "nake > 0.0.3"

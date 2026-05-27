@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "preprod",
   "fqn": "preprod.j-a-s-d.github.com",
+  "current": "a4219eeab4bd60747c1d84e9e0469f09d10110eb",
   "author": "Javier Santo Domingo",
   "description": "preprod",
   "license": "MIT",
@@ -39,8 +40,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:13Z",
+  "generatedAt": "2026-05-27T01:00:50Z",
   "allDeps": {
     "packages": [
       "xam"

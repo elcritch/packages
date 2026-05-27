@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "capstone",
   "fqn": "capstone-nim.hdbg.github.com",
+  "current": "fc1ffdb55b0fcdc7f670455f45c382bf8e2c8ee6",
   "author": "hdbg",
   "description": "Capstone framework wrapper",
   "license": "MIT",
@@ -19,8 +20,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:48Z",
+  "generatedAt": "2026-05-27T00:49:25Z",
   "allDeps": {
     "packages": [
       "print <= 0.1.0"

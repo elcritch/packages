@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "perceptual",
   "fqn": "perceptual.deNULL.github.com",
+  "current": "fb0e2faf2d9c440e21fcec187158cfffe7cf8753",
   "author": "Denis Olshin",
   "description": "A library for computing and comparing perceptual hashes in Nim",
   "license": "MIT",
@@ -16,8 +17,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:01Z",
+  "generatedAt": "2026-05-27T01:00:26Z",
   "allDeps": {
     "packages": [
       "bumpy",

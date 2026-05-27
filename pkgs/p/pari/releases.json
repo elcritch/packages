@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "pari",
   "fqn": "pari.nim.lompik.github.com",
+  "current": "4173625287cc3b7365c0312ee8483841139d1f25",
   "author": "Lompik",
   "description": "Pari/Gp C library wrapper for Nim",
   "license": "MIT",
@@ -11,8 +12,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:17:58Z",
+  "generatedAt": "2026-05-27T01:00:20Z",
   "allDeps": {
     "packages": [],
     "urls": [],

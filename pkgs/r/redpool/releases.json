@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "redpool",
   "fqn": "redpool.zedeus.github.com",
+  "current": "8b7c1db069797300425037c98b825c5d3316f752",
   "author": "zedeus",
   "description": "Redis connection pool",
   "license": "MIT",
@@ -15,8 +16,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:32Z",
+  "generatedAt": "2026-05-27T01:01:26Z",
   "allDeps": {
     "packages": [
       "redis"

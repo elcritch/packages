@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "getmac",
   "fqn": "getmac.PMunch.github.com",
+  "current": "7b08b8511011ac49eaff13996137b014df58ef35",
   "author": "PMunch",
   "description": "A package to get the MAC address of a local IP address",
   "license": "MIT",
@@ -21,8 +22,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:21Z",
+  "generatedAt": "2026-05-27T00:52:40Z",
   "allDeps": {
     "packages": [
       "optionsutils"

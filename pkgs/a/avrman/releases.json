@@ -31,8 +31,9 @@
       "a": "mar"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T18:56:02Z",
+  "generatedAt": "2026-05-27T00:48:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

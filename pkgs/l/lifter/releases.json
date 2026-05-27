@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "lifter",
   "fqn": "lifter.thing-king.github.com",
+  "current": "37d074715568685efefd2358a45c91cb3ba291b1",
   "author": "savannt",
   "description": "Lift macro-time objects to compile-time AST",
   "license": "MIT",
@@ -38,8 +39,9 @@
       "d": "Lifts compile-time object to AST"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:33Z",
+  "generatedAt": "2026-05-27T00:55:14Z",
   "allDeps": {
     "packages": [],
     "urls": [],

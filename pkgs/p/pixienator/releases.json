@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "pixienator",
   "fqn": "pixienator.patternspandemic.github.com",
+  "current": "587097be5a017b7ddac309eaba50faf3c38a76ee",
   "author": "patternspandemic",
   "description": "Helpers for visualizing delaunator with pixie.",
   "license": "Unlicense",
@@ -23,8 +24,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:04Z",
+  "generatedAt": "2026-05-27T01:00:32Z",
   "allDeps": {
     "packages": [
       "bumpy",

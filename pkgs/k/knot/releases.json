@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "knot",
   "fqn": "knot.metagn.github.com",
+  "current": "72f05b9fad16de9f3e62846828de699e4462077a",
   "author": "metagn",
   "description": "tie named nodes to types",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:20Z",
+  "generatedAt": "2026-05-27T00:54:42Z",
   "allDeps": {
     "packages": [],
     "urls": [],

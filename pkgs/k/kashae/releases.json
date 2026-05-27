@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "kashae",
   "fqn": "kashae.beef331.github.com",
+  "current": "c2e50ea0bdd78674f861844bbf40d32bee35cfd7",
   "author": "Jason",
   "description": "Procedure caching library, aimed to replicate other language procedure caching",
   "license": "MIT",
@@ -42,8 +43,9 @@
       "m": "1.4.6"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:16Z",
+  "generatedAt": "2026-05-27T00:54:34Z",
   "allDeps": {
     "packages": [
       "micros > 0.1.1"

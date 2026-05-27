@@ -144,8 +144,9 @@
       "d": "ISO codes for Nim"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T15:48:11Z",
+  "generatedAt": "2026-05-27T00:54:13Z",
   "allDeps": {
     "packages": [
       "bump <= 0.3.1",

@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "libclang",
   "fqn": "nim-libclang.cowboy-coders.github.com",
+  "current": "ff854c51551d46ff9c48f3e6d4b6cccb2f4eec10",
   "author": "Will Szumski",
   "description": "Bindings for libclang",
   "license": "MIT",
@@ -12,8 +13,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:25Z",
+  "generatedAt": "2026-05-27T00:54:55Z",
   "allDeps": {
     "packages": [],
     "urls": [],

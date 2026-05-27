@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "niminst",
   "fqn": "niminst.nim-lang.github.com",
+  "current": "b30ea9685f34fce3d827f9fe016a14cb47f405ef",
   "author": "Andreas Rumpf",
   "description": "Tool to generate installers for Nim",
   "license": "MIT",
@@ -11,8 +12,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:57Z",
+  "generatedAt": "2026-05-27T00:58:23Z",
   "allDeps": {
     "packages": [],
     "urls": [],

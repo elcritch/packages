@@ -58,8 +58,9 @@
       "d": "SDK for Nuwa Build - provides compile-time metadata for Python stub generation"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T19:02:33Z",
+  "generatedAt": "2026-05-27T00:59:42Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

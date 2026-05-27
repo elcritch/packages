@@ -2,7 +2,7 @@
   "cv": 18,
   "name": "arraymancer",
   "fqn": "Arraymancer.mratsim.github.com",
-  "current": "195c75d4811425659b6320879ca74f7fd54b1e14",
+  "current": "d3b67712a3334ab4ded2809cc793e9cd7fed5fae",
   "author": "Mamy André-Ratsimbazafy",
   "description": "A n-dimensional tensor (ndarray) library",
   "license": "Apache License 2.0",
@@ -624,8 +624,9 @@
       "m": "0.17.0"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T18:55:51Z",
+  "generatedAt": "2026-05-27T00:48:00Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

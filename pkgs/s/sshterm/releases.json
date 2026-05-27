@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "sshterm",
   "fqn": "sshterm.jthampton.github.com",
+  "current": "dc49902f361cfa45904b547f3710b6054c53969b",
   "author": "jthampton",
   "description": "Interactive SSH terminal library for Nim",
   "license": "MIT",
@@ -15,8 +16,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:19:15Z",
+  "generatedAt": "2026-05-27T01:04:34Z",
   "allDeps": {
     "packages": [
       "libssh2",

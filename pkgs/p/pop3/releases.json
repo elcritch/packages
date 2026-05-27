@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "pop3",
   "fqn": "nim-pop3.FedericoCeratto.github.com",
+  "current": "8abeeaf6b288c1f5745244344cb53b965dd55739",
   "author": "Federico Ceratto",
   "description": "POP3 client library",
   "license": "LGPLv3",
@@ -12,8 +13,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:13Z",
+  "generatedAt": "2026-05-27T01:00:48Z",
   "allDeps": {
     "packages": [],
     "urls": [],

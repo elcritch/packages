@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "ic",
   "fqn": "ic.hmbemba.github.com",
+  "current": "902aa027d5eb4b719d8cb639546ef48a6ed96465",
   "author": "hmbemba",
   "description": "IceCream-style debug printing for Nim (colored, timestamp, file:line, JS + NimScript support)",
   "license": "MIT",
@@ -17,8 +18,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:56Z",
+  "generatedAt": "2026-05-27T00:53:46Z",
   "allDeps": {
     "packages": [],
     "urls": [],

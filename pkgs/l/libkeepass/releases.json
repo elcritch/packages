@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "libkeepass",
   "fqn": "libkeepass.PMunch.github.com",
+  "current": "a4de15a9121e50d782ddb108c4f8ba14bb61dbb1",
   "author": "Peter Munch-Ellingsen",
   "description": "Library for reading KeePass files and decrypt the passwords within it",
   "license": "MIT",
@@ -25,8 +26,9 @@
       ]
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:15:27Z",
+  "generatedAt": "2026-05-27T00:55:00Z",
   "allDeps": {
     "packages": [
       "chacha20",

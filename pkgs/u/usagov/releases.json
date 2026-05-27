@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "usagov",
   "fqn": "nim-usagov.juancarlospaco.github.com",
+  "current": "63b21aca18b2b67d050712e8393c841ce4257767",
   "author": "Juan Carlos",
   "description": "USA Code.Gov MultiSync API Client for Nim",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:20:04Z",
+  "generatedAt": "2026-05-27T01:06:38Z",
   "allDeps": {
     "packages": [],
     "urls": [],

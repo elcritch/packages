@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "rtmidi",
   "fqn": "nim-rtmidi.stoneface86.github.com",
+  "current": "e6a1ad4caeb9e3bb500b823a4c72f36d18d1c1ce",
   "author": "stoneface",
   "description": "Bindings for RtMidi, a cross-platform MIDI input/output library",
   "license": "MIT",
@@ -21,8 +22,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:39Z",
+  "generatedAt": "2026-05-27T01:01:40Z",
   "allDeps": {
     "packages": [],
     "urls": [],

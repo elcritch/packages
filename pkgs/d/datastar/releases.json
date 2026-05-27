@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "datastar",
   "fqn": "datastar.nim.YuryKL.github.com",
+  "current": "9f8ef692126e5d4639708f0d1fdbf83ce4ddbe9f",
   "author": "YuryKL",
   "description": "A Nim SDK for https://data-star.dev",
   "license": "MIT",
@@ -21,8 +22,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:13:24Z",
+  "generatedAt": "2026-05-27T00:50:23Z",
   "allDeps": {
     "packages": [],
     "urls": [],

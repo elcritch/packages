@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "gara",
   "fqn": "gara.alehander42.github.com",
+  "current": "2e3e8e95d104eb4cde2b65e6e8483dd02ea99fc0",
   "author": "Alexander Ivanov",
   "description": "A new awesome nimble package",
   "license": "MIT",
@@ -17,8 +18,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:15Z",
+  "generatedAt": "2026-05-27T00:52:27Z",
   "allDeps": {
     "packages": [],
     "urls": [],

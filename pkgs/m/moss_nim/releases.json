@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "moss_nim",
   "fqn": "moss_nim.D4D3VD4V3.github.com",
+  "current": "debfb6f16f5652b6bb9168a55d6169e250b5039b",
   "author": "D4D3VD4V3",
   "description": "Moss (Measure of Software Similarity) implementation in Nim.",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:16:08Z",
+  "generatedAt": "2026-05-27T00:56:08Z",
   "allDeps": {
     "packages": [],
     "urls": [],

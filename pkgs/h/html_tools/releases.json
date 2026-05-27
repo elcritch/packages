@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "html_tools",
   "fqn": "nim-html-tools.juancarlospaco.github.com",
+  "current": "272acbcec56a381fdcc6299893fd1c05e09ffbc5",
   "author": "Juan Carlos",
   "description": "HTML5 Tools for Nim, all Templates, No CSS, No Libs, No JS Framework",
   "license": "MIT",
@@ -20,8 +21,9 @@
       "m": "0.20.2"
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:14:50Z",
+  "generatedAt": "2026-05-27T00:53:33Z",
   "allDeps": {
     "packages": [
       "contra > 0.1.0"

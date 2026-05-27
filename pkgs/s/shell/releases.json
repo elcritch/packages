@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "shell",
   "fqn": "shell.Vindaar.github.com",
+  "current": "cdd98b9d6e0715fc13a62b1de3f82450cc463679",
   "author": "Vindaar",
   "description": "A Nim mini DSL to execute shell commands",
   "license": "MIT",
@@ -80,8 +81,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:56Z",
+  "generatedAt": "2026-05-27T01:03:18Z",
   "allDeps": {
     "packages": [],
     "urls": [],

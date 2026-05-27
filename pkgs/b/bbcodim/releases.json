@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "bbcodim",
   "fqn": "bbcodim.filvyb.github.com",
+  "current": "77fe2d3f15c284735d28630030b415dd69b26e99",
   "author": "Filip Vybihal",
   "description": "BBCode parser and renderer written in Nim",
   "license": "MIT",
@@ -13,8 +14,9 @@
       "r": []
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:12:21Z",
+  "generatedAt": "2026-05-27T00:48:29Z",
   "allDeps": {
     "packages": [],
     "urls": [],

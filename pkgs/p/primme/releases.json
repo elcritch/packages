@@ -2,6 +2,7 @@
   "cv": 18,
   "name": "primme",
   "fqn": "primme.jxy.github.com",
+  "current": "722c2543096e64fcf99ad05fe5b7a08ce3f6f65d",
   "author": "Xiao-Yong Jin",
   "description": "Nim interface for PRIMME: PReconditioned Iterative MultiMethod Eigensolver",
   "license": "MIT",
@@ -30,8 +31,9 @@
       "h": true
     }
   ],
+  "releaseCacheVersion": 18,
   "tags": true,
-  "generatedAt": "2026-05-26T13:18:17Z",
+  "generatedAt": "2026-05-27T01:00:56Z",
   "allDeps": {
     "packages": [],
     "urls": [],
