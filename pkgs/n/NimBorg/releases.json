@@ -1,24 +1,12 @@
 {
-  "cv": 17,
+  "cv": 19,
   "name": "NimBorg",
   "fqn": "NimBorg.micklat.github.com",
-  "head": "34df4af498d599ee4c80f2f46702673c26656c2b",
-  "releases": [
-    {
-      "v": "~@34df4af498d599ee4c80f2f46702673c26656c2b",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
-    },
-    {
-      "v": "#head@34df4af498d599ee4c80f2f46702673c26656c2b",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
-    }
-  ],
+  "current": "34df4af498d599ee4c80f2f46702673c26656c2b",
+  "releases": [],
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:35Z",
+  "generatedAt": "2026-05-27T18:55:15Z",
   "allDeps": {
     "packages": [],
     "urls": [],

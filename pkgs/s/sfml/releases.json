@@ -1,24 +1,12 @@
 {
-  "cv": 17,
+  "cv": 19,
   "name": "sfml",
   "fqn": "nimrod-sfml.fowlmouth.github.com",
-  "head": "304b37b024ec41f41f1ebf74720539b04726dcc9",
-  "releases": [
-    {
-      "v": "~@304b37b024ec41f41f1ebf74720539b04726dcc9",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
-    },
-    {
-      "v": "#head@304b37b024ec41f41f1ebf74720539b04726dcc9",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
-    }
-  ],
+  "current": "304b37b024ec41f41f1ebf74720539b04726dcc9",
+  "releases": [],
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:39Z",
+  "generatedAt": "2026-05-27T19:07:14Z",
   "allDeps": {
     "packages": [],
     "urls": [],

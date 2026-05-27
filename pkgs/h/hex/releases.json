@@ -1,24 +1,12 @@
 {
-  "cv": 17,
+  "cv": 19,
   "name": "hex",
   "fqn": "nimrod-hex.esbullington.github.com",
-  "head": "ee6559b2a5d991bc9d2017878b197e6f05e9caaf",
-  "releases": [
-    {
-      "v": "~@ee6559b2a5d991bc9d2017878b197e6f05e9caaf",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
-    },
-    {
-      "v": "#head@ee6559b2a5d991bc9d2017878b197e6f05e9caaf",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
-    }
-  ],
+  "current": "ee6559b2a5d991bc9d2017878b197e6f05e9caaf",
+  "releases": [],
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-25T11:45:40Z",
+  "generatedAt": "2026-05-27T19:00:08Z",
   "allDeps": {
     "packages": [],
     "urls": [],

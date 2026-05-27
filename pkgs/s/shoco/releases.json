@@ -1,24 +1,12 @@
 {
-  "cv": 17,
+  "cv": 19,
   "name": "shoco",
   "fqn": "shoconim.onionhammer.github.com",
-  "head": "f398de07893fe09a9d921dd3f354adb62b0e3a56",
-  "releases": [
-    {
-      "v": "~@f398de07893fe09a9d921dd3f354adb62b0e3a56",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
-    },
-    {
-      "v": "#head@f398de07893fe09a9d921dd3f354adb62b0e3a56",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
-    }
-  ],
+  "current": "f398de07893fe09a9d921dd3f354adb62b0e3a56",
+  "releases": [],
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:45Z",
+  "generatedAt": "2026-05-27T19:07:21Z",
   "allDeps": {
     "packages": [],
     "urls": [],

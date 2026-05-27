@@ -1,18 +1,13 @@
 {
-  "cv": 17,
+  "cv": 19,
   "name": "openlayers",
   "fqn": "openlayers-nim.elcritch.github.com",
-  "head": "a60e99ec07bfc644e41fd308c9a962a8a247b9eb",
+  "current": "a60e99ec07bfc644e41fd308c9a962a8a247b9eb",
   "author": "Jaremy Creechley",
   "description": "metal bindings",
   "license": "BSD-2-Clause",
   "srcDir": "src",
   "releases": [
-    {
-      "v": "~@29f4eb94d4388e4b34063a7fed3f166effe3fd4c",
-      "r": [],
-      "s": ""
-    },
     {
       "v": "0.1.0@c168f5046bebbd9a68cc21ddedd4c8689d5f1ae3",
       "r": []
@@ -50,30 +45,11 @@
           "karax"
         ]
       }
-    },
-    {
-      "v": "#head@a60e99ec07bfc644e41fd308c9a962a8a247b9eb",
-      "r": [
-        "bunnery >= 0.3"
-      ],
-      "a": "Jaremy Creechley",
-      "d": "openlayer javascript bindings",
-      "l": "BSD-2-Clause",
-      "s": "src",
-      "f": {
-        "reference": [
-          "p5nim",
-          "ajax",
-          "gh:openlayers/openlayers"
-        ],
-        "dev": [
-          "karax"
-        ]
-      }
     }
   ],
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:01Z",
+  "generatedAt": "2026-05-27T19:05:22Z",
   "allDeps": {
     "packages": [
       "ajax > 0.1.0",

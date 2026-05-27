@@ -1,36 +1,22 @@
 {
-  "cv": 17,
+  "cv": 19,
   "name": "lua",
   "fqn": "lua.nim-lang.github.com",
-  "head": "ed117394cef80e1de48055b238ce251645e2e386",
+  "current": "ed117394cef80e1de48055b238ce251645e2e386",
   "author": "Andreas Rumpf",
   "description": "Wrapper to interface with the Lua interpreter",
   "license": "MIT",
-  "nim": "0.10.2",
+  "nim": "1.0.0",
   "srcDir": "src",
   "releases": [
     {
-      "v": "~@7e3f70610b84b6dfd22b7d8083e325004db7efe4",
-      "r": [],
-      "s": ""
-    },
-    {
       "v": "1.0@959586bcce064f82a4b0aa238f5a4ebaad70f359",
-      "r": [],
-      "m": "1.0.0"
-    },
-    {
-      "v": "#head@ed117394cef80e1de48055b238ce251645e2e386",
-      "r": [],
-      "a": "Andreas Rumpf",
-      "d": "Wrapper to interface with the Lua interpreter",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.0.0"
+      "r": []
     }
   ],
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:10Z",
+  "generatedAt": "2026-05-27T19:01:52Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,24 +1,12 @@
 {
-  "cv": 17,
+  "cv": 19,
   "name": "vectors",
   "fqn": "nimrod-vectors.blamestross.github.com",
-  "head": "70a6c78bdaa7684c6916276064fac528354759f8",
-  "releases": [
-    {
-      "v": "~@70a6c78bdaa7684c6916276064fac528354759f8",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
-    },
-    {
-      "v": "#head@70a6c78bdaa7684c6916276064fac528354759f8",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
-    }
-  ],
+  "current": "70a6c78bdaa7684c6916276064fac528354759f8",
+  "releases": [],
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:33Z",
+  "generatedAt": "2026-05-27T19:09:24Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,33 +1,21 @@
 {
-  "cv": 17,
+  "cv": 19,
   "name": "python",
   "fqn": "python.nim-lang.github.com",
-  "head": "b7c3b2c447a69fdb0a974ba149062e52182fda08",
+  "current": "b7c3b2c447a69fdb0a974ba149062e52182fda08",
   "author": "Andreas Rumpf, Matic Kukovec",
   "description": "Wrapper to interface with Python 1/2 interpreter",
   "license": "MIT",
   "nim": "0.13.0",
   "releases": [
     {
-      "v": "~@480106751cb4c0abe114768628473ea1ae4af7f1",
-      "r": []
-    },
-    {
       "v": "1.2@3f33e1b2e1c3956a06ad64f01b2cd760a8061739",
       "r": []
-    },
-    {
-      "v": "#head@b7c3b2c447a69fdb0a974ba149062e52182fda08",
-      "r": [],
-      "a": "Andreas Rumpf, Matic Kukovec",
-      "d": "Wrapper to interface with Python 1/2 interpreter",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.13.0"
     }
   ],
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-25T11:50:53Z",
+  "generatedAt": "2026-05-27T19:06:23Z",
   "allDeps": {
     "packages": [],
     "urls": [],

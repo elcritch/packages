@@ -1,24 +1,12 @@
 {
-  "cv": 17,
+  "cv": 19,
   "name": "nimalpm",
   "fqn": "nimalpm.barcharcraz.github.com",
-  "head": "c60e1347110b73421204a2c0f0bab357789f91cb",
-  "releases": [
-    {
-      "v": "~@c60e1347110b73421204a2c0f0bab357789f91cb",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
-    },
-    {
-      "v": "#head@c60e1347110b73421204a2c0f0bab357789f91cb",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
-    }
-  ],
+  "current": "c60e1347110b73421204a2c0f0bab357789f91cb",
+  "releases": [],
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-25T11:48:25Z",
+  "generatedAt": "2026-05-27T19:03:23Z",
   "allDeps": {
     "packages": [],
     "urls": [],

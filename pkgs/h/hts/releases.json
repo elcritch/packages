@@ -235,10 +235,23 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T13:25:06Z",
+  "generatedAt": "2026-05-27T19:00:21Z",
   "allDeps": {
     "packages": [],
     "urls": [],
     "unresolved": []
+  },
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.2.8"
+    ],
+    "tagVersions": {
+      "v0.2.8": "0.2.8"
+    },
+    "latest": "v0.2.8"
   }
 }

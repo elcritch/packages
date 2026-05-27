@@ -1,24 +1,12 @@
 {
-  "cv": 17,
+  "cv": 19,
   "name": "clibpp",
   "fqn": "clibpp.onionhammer.github.com",
-  "head": "2ca765f0fdbb2a04d94df1ea539826cecc8a4c39",
-  "releases": [
-    {
-      "v": "~@2ca765f0fdbb2a04d94df1ea539826cecc8a4c39",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
-    },
-    {
-      "v": "#head@2ca765f0fdbb2a04d94df1ea539826cecc8a4c39",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
-    }
-  ],
+  "current": "2ca765f0fdbb2a04d94df1ea539826cecc8a4c39",
+  "releases": [],
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:21Z",
+  "generatedAt": "2026-05-27T18:57:22Z",
   "allDeps": {
     "packages": [],
     "urls": [],

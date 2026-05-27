@@ -6,29 +6,29 @@
   "author": "Status Research & Development GmbH",
   "description": "zlib wrapper in nim",
   "license": "Apache License 2.0",
-  "nim": "1.2.0",
+  "nim": "1.6.0",
   "skipDirs": [
     "tests"
   ],
   "releases": [
     {
-      "v": "0.1.0@6bbc67d09e624d69052d62b2353878f491186942",
-      "r": [
-        "stew >= 0.1.0"
-      ]
-    },
-    {
-      "v": "0.2.0@190246aa0bb6569781370964fa2faa474203d6dd",
+      "v": "0.2.0@90af6756ddc45f8117ae206a94046d3042f955b5",
       "r": [
         "stew >= 0.1.0",
         "results >= 0.5.1"
-      ],
-      "m": "1.6.0"
+      ]
+    },
+    {
+      "v": "0.1.0@62b75dc5f85ca4b828094490217dababdfdc1898",
+      "r": [
+        "stew >= 0.1.0",
+        "results >= 0.5.1"
+      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:39:40Z",
+  "generatedAt": "2026-05-27T19:10:29Z",
   "allDeps": {
     "packages": [
       "results",

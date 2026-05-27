@@ -1,33 +1,15 @@
 {
-  "cv": 17,
+  "cv": 19,
   "name": "sling",
   "fqn": "sling.Druage.github.com",
-  "head": "d73bed23a55755b562576d4a8e86f3700409e3cf",
-  "releases": [
-    {
-      "v": "~@c43d11cdd04ca38534992f7f6d5cff70f27e76d2",
-      "r": [
-        "error://nimrod > 0.13.0"
-      ],
-      "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/sling.Druage.github.com-c43d11cd-sling.nimble\ncannot resolve package name: nimrod"
-    },
-    {
-      "v": "#head@d73bed23a55755b562576d4a8e86f3700409e3cf",
-      "r": [
-        "error://nimrod >= 0.13.0"
-      ],
-      "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/s/sling/.worktree/sling.nimble\ncannot resolve package name: nimrod"
-    }
-  ],
+  "current": "d73bed23a55755b562576d4a8e86f3700409e3cf",
+  "releases": [],
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:56Z",
+  "generatedAt": "2026-05-27T19:07:34Z",
   "allDeps": {
     "packages": [],
-    "urls": [
-      "error://nimrod"
-    ],
+    "urls": [],
     "unresolved": []
   }
 }

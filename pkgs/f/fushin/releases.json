@@ -21,19 +21,11 @@
         "nimquery >= 2.0.0",
         "csvtools >= 0.2.1"
       ]
-    },
-    {
-      "v": "0.0.0@06af8458834d0fd020652af25c4ea97c8dee3a7d",
-      "r": [
-        "nimquery >= 2.0.0",
-        "cligen >= 1.5.24"
-      ],
-      "d": "Fetch fushinsha serif data and save as csv files"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T13:24:15Z",
+  "generatedAt": "2026-05-27T18:59:21Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

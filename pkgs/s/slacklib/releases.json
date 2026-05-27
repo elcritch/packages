@@ -1,8 +1,8 @@
 {
-  "cv": 17,
+  "cv": 19,
   "name": "slacklib",
   "fqn": "nim_slacklib.ThomasTJdev.github.com",
-  "head": "b4f80370b4e6e7701a8b0a9e2756abc952681486",
+  "current": "b4f80370b4e6e7701a8b0a9e2756abc952681486",
   "author": "Thomas T. Jarløv (ThomasTJ)",
   "description": "Library for working with a slack app or sending messages to a slack channel",
   "license": "MIT",
@@ -11,25 +11,11 @@
     {
       "v": "0.1.0@dee347271d5878018e573a19723bc66fa0859ca0",
       "r": []
-    },
-    {
-      "v": "~@ff771a66407e72918f82ef3ed9872cda9c9c9026",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file",
-      "m": "~"
-    },
-    {
-      "v": "#head@b4f80370b4e6e7701a8b0a9e2756abc952681486",
-      "r": [],
-      "a": "ThomasTJ (https://github.com/ThomasTJdev)",
-      "d": "Library for working with a slack app or sending messages to a slack channel",
-      "l": "MIT",
-      "m": "0.17.0"
     }
   ],
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:55Z",
+  "generatedAt": "2026-05-27T19:07:32Z",
   "allDeps": {
     "packages": [],
     "urls": [],

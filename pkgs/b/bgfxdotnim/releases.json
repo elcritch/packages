@@ -1,29 +1,19 @@
 {
-  "cv": 17,
+  "cv": 19,
   "name": "bgfxdotnim",
   "fqn": "bgfx.nim.zacharycarter.github.com",
-  "head": "eeb8b174b9a1a5bacbb182cda9f514d60ce54ba5",
-  "releases": [
-    {
-      "v": "~@44bb50fa81195c5bcff516237f95afb6c57fc850",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "ambiguous nimble file"
-    },
-    {
-      "v": "#head@eeb8b174b9a1a5bacbb182cda9f514d60ce54ba5",
-      "r": [],
-      "a": "Zachary Carter",
-      "d": "Bindings to BGFX",
-      "l": "MIT",
-      "x": [
-        "examples"
-      ],
-      "m": "0.16.0"
-    }
+  "current": "eeb8b174b9a1a5bacbb182cda9f514d60ce54ba5",
+  "author": "Zachary Carter",
+  "description": "Bindings to BGFX",
+  "license": "MIT",
+  "nim": "0.16.0",
+  "skipDirs": [
+    "examples"
   ],
+  "releases": [],
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:37Z",
+  "generatedAt": "2026-05-27T18:56:26Z",
   "allDeps": {
     "packages": [],
     "urls": [],

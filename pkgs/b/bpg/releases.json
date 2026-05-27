@@ -1,8 +1,8 @@
 {
-  "cv": 17,
+  "cv": 19,
   "name": "bpg",
   "fqn": "nim-bpg.def-.github.com",
-  "head": "fbbe78737a062892181935b031e08b8fe4e430f9",
+  "current": "fbbe78737a062892181935b031e08b8fe4e430f9",
   "author": "Dennis Felsing",
   "description": "Bindings for Bellard's BPG (Better Portable Graphics) library",
   "license": "MIT",
@@ -10,21 +10,13 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "~@20165593e4383615de4c22bec25528fc8330c6e7",
-      "r": [],
-      "s": ""
-    },
-    {
       "v": "0.1@fbbe78737a062892181935b031e08b8fe4e430f9^",
-      "r": []
-    },
-    {
-      "v": "#head@fbbe78737a062892181935b031e08b8fe4e430f9",
       "r": []
     }
   ],
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-25T11:42:51Z",
+  "generatedAt": "2026-05-27T18:56:44Z",
   "allDeps": {
     "packages": [],
     "urls": [],

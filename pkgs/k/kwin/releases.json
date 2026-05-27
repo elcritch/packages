@@ -1,24 +1,12 @@
 {
-  "cv": 17,
+  "cv": 19,
   "name": "kwin",
   "fqn": "nim-kwin.reactormonk.github.com",
-  "head": "a4d532a4b383d1516c3c144fd31e99bc195a7ab5",
-  "releases": [
-    {
-      "v": "~@a4d532a4b383d1516c3c144fd31e99bc195a7ab5",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
-    },
-    {
-      "v": "#head@a4d532a4b383d1516c3c144fd31e99bc195a7ab5",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
-    }
-  ],
+  "current": "a4d532a4b383d1516c3c144fd31e99bc195a7ab5",
+  "releases": [],
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:35Z",
+  "generatedAt": "2026-05-27T19:01:12Z",
   "allDeps": {
     "packages": [],
     "urls": [],

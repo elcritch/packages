@@ -1,8 +1,8 @@
 {
-  "cv": 17,
+  "cv": 19,
   "name": "clapfn",
   "fqn": "clapfn.oliversandli.github.com",
-  "head": "a62d1d628edf1e4612bddaedf40298f488c3ff6e",
+  "current": "a62d1d628edf1e4612bddaedf40298f488c3ff6e",
   "author": "Oliver Sandli",
   "description": "A fast and simple command line argument parser.",
   "license": "MIT",
@@ -11,36 +11,18 @@
   "releases": [
     {
       "v": "1.0.0@0a011c8889664f8c34c12880a3c05a27a2df1922",
-      "r": [],
-      "m": "~",
-      "s": ""
-    },
-    {
-      "v": "~@2ff3c02fb41f5a101c30b7fd95137cddd4c354e0",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file",
-      "m": "~",
-      "s": ""
+      "r": []
     },
     {
       "v": "1.0.1@ee4656562f16f39ba3cfd7866084489237dc5615",
       "r": [],
       "a": "Oliver Delancey",
       "d": "A fast and simple command line argument parser inspired by Python's argparse."
-    },
-    {
-      "v": "#head@a62d1d628edf1e4612bddaedf40298f488c3ff6e",
-      "r": [],
-      "a": "Oliver Delancey",
-      "d": "A fast and simple command line argument parser inspired by Python's argparse.",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.2.0"
     }
   ],
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:19Z",
+  "generatedAt": "2026-05-27T18:57:20Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,0 +1,1 @@
+{"v":"#head@4b4ae34c5269e345cbebc9d13bb971fdb481426e","r":["error://nimrod > 0.13.0"],"S":"HasBrokenDep","E":"in file: /home/runner/work/nim-packages/nim-packages/pkgs/o/oculus/.worktree/oculus.nimble\ncannot resolve package name: nimrod"}

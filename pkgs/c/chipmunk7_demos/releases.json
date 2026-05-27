@@ -1,17 +1,13 @@
 {
-  "cv": 17,
+  "cv": 19,
   "name": "chipmunk7_demos",
   "fqn": "chipmunk7_demos.matkuki.github.com",
-  "head": "33b4ee1a9dbf3647b8d5d3d01f8ad962b48c1c6e",
+  "current": "33b4ee1a9dbf3647b8d5d3d01f8ad962b48c1c6e",
   "author": "Matic Kukovec",
   "description": "Demos for Chipmunk7 physics library",
   "license": "MIT",
   "nim": "0.14.0",
   "releases": [
-    {
-      "v": "~@77bacbe71af24cfdcaacee4e15a80d89660706fe",
-      "r": []
-    },
     {
       "v": "1.0@d37095305ce04d2b21734ee1fa46f35a4510f8a7",
       "r": []
@@ -23,21 +19,11 @@
         "opengl >= 1.1.0"
       ],
       "m": "0.18.0"
-    },
-    {
-      "v": "#head@33b4ee1a9dbf3647b8d5d3d01f8ad962b48c1c6e",
-      "r": [
-        "sdl2 >= 1.1",
-        "opengl >= 1.1.0"
-      ],
-      "a": "Matic Kukovec",
-      "d": "Demos for Chipmunk7 physics library",
-      "l": "MIT",
-      "m": "0.18.0"
     }
   ],
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:14Z",
+  "generatedAt": "2026-05-27T18:57:13Z",
   "allDeps": {
     "packages": [
       "opengl > 1.0",

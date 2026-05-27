@@ -1,24 +1,12 @@
 {
-  "cv": 17,
+  "cv": 19,
   "name": "uuid",
   "fqn": "nim-uuid.idlewan.github.com",
-  "head": "372e99dfbdaa93533a81e1c474f4ff90fbba5bf2",
-  "releases": [
-    {
-      "v": "~@372e99dfbdaa93533a81e1c474f4ff90fbba5bf2",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
-    },
-    {
-      "v": "#head@372e99dfbdaa93533a81e1c474f4ff90fbba5bf2",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
-    }
-  ],
+  "current": "372e99dfbdaa93533a81e1c474f4ff90fbba5bf2",
+  "releases": [],
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-25T11:53:28Z",
+  "generatedAt": "2026-05-27T19:09:19Z",
   "allDeps": {
     "packages": [],
     "urls": [],

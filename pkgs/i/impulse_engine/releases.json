@@ -1,8 +1,8 @@
 {
-  "cv": 17,
+  "cv": 19,
   "name": "impulse_engine",
   "fqn": "Nim-Impulse-Engine.matkuki.github.com",
-  "head": "a22f763f5c76e90916eb9b88019579408171092f",
+  "current": "a22f763f5c76e90916eb9b88019579408171092f",
   "author": "Matic Kukovec",
   "description": "Nim port of a simple 2D physics engine",
   "license": "zlib",
@@ -11,12 +11,6 @@
     "impulse_engine"
   ],
   "releases": [
-    {
-      "v": "~@2915e33db7cceb2c105e311ac3edd1c413431966",
-      "r": [],
-      "m": "~",
-      "p": []
-    },
     {
       "v": "1.0.0@e86eb3d13a3509b9a42f7a74becb51d85688ac68",
       "r": [],
@@ -36,16 +30,11 @@
         "nimgl >= 1.0.0"
       ],
       "m": "0.15.0"
-    },
-    {
-      "v": "#head@a22f763f5c76e90916eb9b88019579408171092f",
-      "r": [],
-      "S": "HasBrokenRelease",
-      "E": "Invalid requirements name: nim-glfw >= 3.3.4.0"
     }
   ],
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:06Z",
+  "generatedAt": "2026-05-27T19:00:36Z",
   "allDeps": {
     "packages": [
       "nimgl > 1.5.0",

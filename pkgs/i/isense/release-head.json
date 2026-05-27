@@ -1,0 +1,1 @@
+{"v":"#head@cb59c2f7aad209cda8a188d7089d929c8fa55eab","r":["error://nimrod > 0.9.2"],"S":"HasBrokenDep","E":"in file: /home/runner/work/nim-packages/nim-packages/pkgs/i/isense/.worktree/isense.nimble\ncannot resolve package name: nimrod"}

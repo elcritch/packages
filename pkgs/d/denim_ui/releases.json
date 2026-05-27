@@ -1,37 +1,19 @@
 {
-  "cv": 17,
+  "cv": 19,
   "name": "denim_ui",
   "fqn": "denim-ui.nortero-code.github.com",
-  "head": "bab47a37b6ea66369831339a6aaaf7c936c2962f",
-  "releases": [
-    {
-      "v": "~@972eac2e768a9f415e7423941b1f8163fed00621",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "ambiguous nimble file"
-    },
-    {
-      "v": "#head@bab47a37b6ea66369831339a6aaaf7c936c2962f",
-      "r": [
-        "itertools",
-        "macroutils",
-        "rx_nim"
-      ],
-      "a": "Kristian Fjeld Hasselknippe",
-      "d": "The Denim UI library",
-      "l": "MIT",
-      "s": "src",
-      "m": "1.4.0"
-    }
-  ],
+  "current": "bab47a37b6ea66369831339a6aaaf7c936c2962f",
+  "author": "Kristian Fjeld Hasselknippe",
+  "description": "The Denim UI library",
+  "license": "MIT",
+  "nim": "1.4.0",
+  "srcDir": "src",
+  "releases": [],
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-25T11:43:59Z",
+  "generatedAt": "2026-05-27T18:58:05Z",
   "allDeps": {
-    "packages": [
-      "itertools",
-      "macroutils",
-      "rx_nim"
-    ],
+    "packages": [],
     "urls": [],
     "unresolved": []
   }

@@ -1,22 +1,13 @@
 {
-  "cv": 17,
+  "cv": 19,
   "name": "mongo",
   "fqn": "mongo.nim-lang.github.com",
-  "head": "a78161f8a89d950fa9102cff2a09d3b3863b9213",
+  "current": "a78161f8a89d950fa9102cff2a09d3b3863b9213",
   "nim": "0.10.2",
-  "releases": [
-    {
-      "v": "~@25088eb87f5f609729d0fde22c93834cf3f14718",
-      "r": []
-    },
-    {
-      "v": "#head@a78161f8a89d950fa9102cff2a09d3b3863b9213",
-      "r": [],
-      "m": "0.10.2"
-    }
-  ],
+  "releases": [],
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:38Z",
+  "generatedAt": "2026-05-27T19:02:26Z",
   "allDeps": {
     "packages": [],
     "urls": [],

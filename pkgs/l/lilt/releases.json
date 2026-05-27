@@ -1,8 +1,8 @@
 {
-  "cv": 17,
+  "cv": 19,
   "name": "lilt",
   "fqn": "lilt.quelklef.github.com",
-  "head": "f827aa01e3887235379ede6562b60aa2f6dd225e",
+  "current": "f827aa01e3887235379ede6562b60aa2f6dd225e",
   "author": "Eli Maynard",
   "description": "Simple language for writing parsers",
   "license": "MIT",
@@ -28,23 +28,11 @@
       "r": [
         "docopt >= 0.6.5"
       ]
-    },
-    {
-      "v": "~@633bfe14e8a50708655b1f5c72a0880d5503e199",
-      "r": []
-    },
-    {
-      "v": "#head@f827aa01e3887235379ede6562b60aa2f6dd225e",
-      "r": [],
-      "a": "Eli Maynard",
-      "d": "Simple language for writing parsers",
-      "l": "MIT",
-      "s": "src",
-      "m": "0.17.2"
     }
   ],
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-25T11:46:55Z",
+  "generatedAt": "2026-05-27T19:01:35Z",
   "allDeps": {
     "packages": [
       "docopt > 0.1.1",

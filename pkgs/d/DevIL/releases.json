@@ -1,24 +1,12 @@
 {
-  "cv": 17,
+  "cv": 19,
   "name": "DevIL",
   "fqn": "DevIL.Varriount.github.com",
-  "head": "23b5c1fd9012244411435587d43bb33089b02f12",
-  "releases": [
-    {
-      "v": "~@23b5c1fd9012244411435587d43bb33089b02f12",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
-    },
-    {
-      "v": "#head@23b5c1fd9012244411435587d43bb33089b02f12",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
-    }
-  ],
+  "current": "23b5c1fd9012244411435587d43bb33089b02f12",
+  "releases": [],
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:31Z",
+  "generatedAt": "2026-05-27T18:55:11Z",
   "allDeps": {
     "packages": [],
     "urls": [],

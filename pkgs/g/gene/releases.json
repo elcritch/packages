@@ -1,41 +1,26 @@
 {
-  "cv": 17,
+  "cv": 19,
   "name": "gene",
   "fqn": "gene-new.gcao.github.com",
-  "head": "f70fbde3d6a1b797b32f2ad57dd9bc69007b820d",
-  "releases": [
-    {
-      "v": "~@84cfe3b06c49c8146d4ffb6cb78a0ed51635b958",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "ambiguous nimble file"
-    },
-    {
-      "v": "#head@f70fbde3d6a1b797b32f2ad57dd9bc69007b820d",
-      "r": [
-        "ws >= 0.5.0"
-      ],
-      "g": true,
-      "a": "Guoliang Cao",
-      "d": "Gene - a general purpose language",
-      "l": "MIT",
-      "s": "src",
-      "b": "bin",
-      "k": [
-        "nim"
-      ],
-      "p": [
-        "gene"
-      ],
-      "m": "1.4.0"
-    }
+  "current": "f70fbde3d6a1b797b32f2ad57dd9bc69007b820d",
+  "author": "Guoliang Cao",
+  "description": "Gene - a general purpose language",
+  "license": "MIT",
+  "nim": "1.4.0",
+  "srcDir": "src",
+  "binDir": "bin",
+  "installExt": [
+    "nim"
   ],
+  "bin": [
+    "gene"
+  ],
+  "releases": [],
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-25T22:03:59Z",
+  "generatedAt": "2026-05-27T18:59:30Z",
   "allDeps": {
-    "packages": [
-      "ws"
-    ],
+    "packages": [],
     "urls": [],
     "unresolved": []
   }

@@ -1,8 +1,8 @@
 {
-  "cv": 17,
+  "cv": 19,
   "name": "rethinkdb",
   "fqn": "rethinkdb.nim.nim-community.github.com",
-  "head": "e281ed513eb2de99c681bdb633d404437ee34a09",
+  "current": "e281ed513eb2de99c681bdb633d404437ee34a09",
   "author": "Bruce Doan",
   "description": "RethinkDB driver for Nim",
   "license": "MIT",
@@ -16,25 +16,12 @@
     {
       "v": "0.0.1@fc5bccaa63e822b0bcbe62f00f475650c8e92a8a",
       "r": [],
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
       "v": "0.0.3@01c3d245be3576884f24ad77ce987bc520d86b84",
       "r": [],
       "a": "Huy Doan",
-      "m": "~",
-      "s": "",
-      "x": []
-    },
-    {
-      "v": "~@fd0d28afbbf2fbef456a14f11a590427912d4e1f",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "ambiguous nimble file",
-      "m": "~",
-      "s": "",
       "x": []
     },
     {
@@ -43,8 +30,7 @@
         "struct >= 0.2.1",
         "scram >= 0.1.1"
       ],
-      "a": "Huy Doan",
-      "s": ""
+      "a": "Huy Doan"
     },
     {
       "v": "0.2.6@48a2f22e76f431c69a7c214ae4c4f1742a29952e",
@@ -53,25 +39,11 @@
         "scram >= 0.1.1"
       ],
       "a": "Huy Doan"
-    },
-    {
-      "v": "#head@e281ed513eb2de99c681bdb633d404437ee34a09",
-      "r": [
-        "struct >= 0.2.1",
-        "scram >= 0.1.1"
-      ],
-      "a": "Huy Doan",
-      "d": "RethinkDB driver for Nim",
-      "l": "MIT",
-      "s": "src",
-      "x": [
-        "tests",
-        "bench"
-      ]
     }
   ],
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:13Z",
+  "generatedAt": "2026-05-27T19:06:44Z",
   "allDeps": {
     "packages": [
       "checksums > 0.0.3",

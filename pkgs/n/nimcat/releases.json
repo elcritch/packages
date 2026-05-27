@@ -7,15 +7,10 @@
   "description": "An implementation of cat",
   "license": "MIT",
   "nim": "0.10.0",
-  "releases": [
-    {
-      "v": "0.0.0@e5dcc34ff2ec9c8a398d962e7a9177434e15fdbf",
-      "r": []
-    }
-  ],
+  "releases": [],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:31:56Z",
+  "generatedAt": "2026-05-27T19:03:32Z",
   "allDeps": {
     "packages": [],
     "urls": [],

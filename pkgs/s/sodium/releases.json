@@ -1,8 +1,8 @@
 {
-  "cv": 17,
+  "cv": 19,
   "name": "sodium",
   "fqn": "libsodium.nim.zielmicha.github.com",
-  "head": "e1c88906d5958ffe56ee2590d34fdc8b2f3a96f5",
+  "current": "e1c88906d5958ffe56ee2590d34fdc8b2f3a96f5",
   "author": "Michał Zieliński <michal@zielinscy.org.pl>",
   "description": "libsodium wrapper",
   "license": "MIT",
@@ -12,29 +12,13 @@
   ],
   "releases": [
     {
-      "v": "~@899f05af82e09bc159bc280ac1cbc2beb595eaf9",
-      "r": [],
-      "m": "~",
-      "x": []
-    },
-    {
       "v": "0.2.0@9211822a8f232b733cd390a7d9f0fe53063e93c9",
       "r": []
-    },
-    {
-      "v": "#head@e1c88906d5958ffe56ee2590d34fdc8b2f3a96f5",
-      "r": [],
-      "a": "Michał Zieliński <michal@zielinscy.org.pl>",
-      "d": "libsodium wrapper",
-      "l": "MIT",
-      "x": [
-        "tests"
-      ],
-      "m": "0.18.0"
     }
   ],
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-25T11:52:00Z",
+  "generatedAt": "2026-05-27T19:07:38Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,0 +1,1 @@
+{"v":"#head@13cec2aaf0ab7b6371784a43caaf2fde0549f2a4","r":["error://nimrod > 0.12.0"],"S":"HasBrokenDep","E":"in file: /home/runner/work/nim-packages/nim-packages/pkgs/i/io-myo/.worktree/myo.nimble\ncannot resolve package name: nimrod"}

@@ -1,24 +1,12 @@
 {
-  "cv": 17,
+  "cv": 19,
   "name": "ao",
   "fqn": "nim-ao.ephja.github.com",
-  "head": "06f7cad9c4d0c4d99e43446db6e5ba598fff1c73",
-  "releases": [
-    {
-      "v": "~@06f7cad9c4d0c4d99e43446db6e5ba598fff1c73",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
-    },
-    {
-      "v": "#head@06f7cad9c4d0c4d99e43446db6e5ba598fff1c73",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
-    }
-  ],
+  "current": "06f7cad9c4d0c4d99e43446db6e5ba598fff1c73",
+  "releases": [],
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-25T11:41:56Z",
+  "generatedAt": "2026-05-27T18:55:41Z",
   "allDeps": {
     "packages": [],
     "urls": [],

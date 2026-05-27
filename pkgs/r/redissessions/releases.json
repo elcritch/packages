@@ -1,24 +1,12 @@
 {
-  "cv": 17,
+  "cv": 19,
   "name": "redissessions",
   "fqn": "redissessions.ithkuil.github.com",
-  "head": "7dbc1cf16017df8a17d301d68573c0dae17b3721",
-  "releases": [
-    {
-      "v": "~@7dbc1cf16017df8a17d301d68573c0dae17b3721",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
-    },
-    {
-      "v": "#head@7dbc1cf16017df8a17d301d68573c0dae17b3721",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
-    }
-  ],
+  "current": "7dbc1cf16017df8a17d301d68573c0dae17b3721",
+  "releases": [],
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-25T11:51:08Z",
+  "generatedAt": "2026-05-27T19:06:39Z",
   "allDeps": {
     "packages": [],
     "urls": [],

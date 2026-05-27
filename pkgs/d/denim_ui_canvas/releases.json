@@ -21,10 +21,7 @@
   "generatedAt": "2026-05-27T12:25:53Z",
   "allDeps": {
     "packages": [
-      "denim_ui",
-      "itertools",
-      "macroutils",
-      "rx_nim"
+      "denim_ui"
     ],
     "urls": [],
     "unresolved": []

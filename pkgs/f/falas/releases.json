@@ -1,8 +1,8 @@
 {
-  "cv": 17,
+  "cv": 19,
   "name": "falas",
   "fqn": "falas.brentp.github.com",
-  "head": "5a2ef0894b6e25f2006084f8ce632728c161b284",
+  "current": "5a2ef0894b6e25f2006084f8ce632728c161b284",
   "author": "Brent Pedersen",
   "description": "fragment-aware local assembler for short reads",
   "license": "MIT",
@@ -13,32 +13,13 @@
   "installExt": [
     "nim"
   ],
-  "releases": [
-    {
-      "v": "~@7026672ee71d4ce3e1807bb6afab1cab99a2233a",
-      "r": []
-    },
-    {
-      "v": "#head@5a2ef0894b6e25f2006084f8ce632728c161b284",
-      "r": [],
-      "g": true,
-      "a": "Brent Pedersen",
-      "d": "fragment-aware local assembler for short reads",
-      "l": "MIT",
-      "s": "src",
-      "x": [
-        "tests"
-      ],
-      "k": [
-        "nim"
-      ],
-      "p": [
-        "falas"
-      ]
-    }
+  "bin": [
+    "falas"
   ],
+  "releases": [],
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-25T22:03:40Z",
+  "generatedAt": "2026-05-27T18:58:43Z",
   "allDeps": {
     "packages": [],
     "urls": [],

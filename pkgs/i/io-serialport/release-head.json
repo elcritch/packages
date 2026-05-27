@@ -1,0 +1,1 @@
+{"v":"#head@3445ecd3e553183f53905cb7e6795f326711960c","r":["error://nimrod > 0.12.0"],"S":"HasBrokenDep","E":"in file: /home/runner/work/nim-packages/nim-packages/pkgs/i/io-serialport/.worktree/serialport.nimble\ncannot resolve package name: nimrod"}

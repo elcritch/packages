@@ -1,8 +1,8 @@
 {
-  "cv": 17,
+  "cv": 19,
   "name": "nanomsg",
   "fqn": "nim-nanomsg.def-.github.com",
-  "head": "d16331fcc74e9ce178b3373928b44f2cceaef30e",
+  "current": "d16331fcc74e9ce178b3373928b44f2cceaef30e",
   "author": "Dennis Felsing",
   "description": "Wrapper for nanomsg, a socket library that provides several common communication patterns. It aims to make the networking layer fast, scalable, and easy to use.",
   "license": "MIT",
@@ -10,30 +10,17 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "~@ea38e18ebf40fb60249b7097b4d50f3fcfe54d02",
-      "r": [
-        "error://nimrod > 0.9.4"
-      ],
-      "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nim-nanomsg.def-.github.com-ea38e18e-nanomsg.nimble\ncannot resolve package name: nimrod",
-      "m": "~",
-      "s": ""
-    },
-    {
       "v": "0.1@2a5c7de5d1f136d543d501cc10cc0a2c8ced665a",
       "r": []
     },
     {
       "v": "0.2@d16331fcc74e9ce178b3373928b44f2cceaef30e^",
       "r": []
-    },
-    {
-      "v": "#head@d16331fcc74e9ce178b3373928b44f2cceaef30e",
-      "r": []
     }
   ],
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-25T11:47:50Z",
+  "generatedAt": "2026-05-27T19:02:40Z",
   "allDeps": {
     "packages": [],
     "urls": [],
