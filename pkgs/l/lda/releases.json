@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "lda",
   "fqn": "lda.andreaferretti.github.com",
   "current": "eee2501656532caad0a12290dc70022fadd98bca",
@@ -16,9 +16,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:51Z",
+  "generatedAt": "2026-05-27T12:29:38Z",
   "allDeps": {
     "packages": [
       "alea",

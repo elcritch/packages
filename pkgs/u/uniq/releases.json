@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "uniq",
   "fqn": "uniq.akvilary.github.com",
   "current": "e50f235b71656331aca227e17f9043ec33abc238",
@@ -22,9 +22,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:06:27Z",
+  "generatedAt": "2026-05-27T12:38:19Z",
   "allDeps": {
     "packages": [
       "checksums"

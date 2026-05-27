@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimha",
   "fqn": "nim_homeassistant.ThomasTJdev.github.com",
   "current": "ae0a445a82295e7da13d0ded692351b065e9251a",
@@ -180,9 +180,9 @@
       "i": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:58:18Z",
+  "generatedAt": "2026-05-27T12:32:14Z",
   "allDeps": {
     "packages": [
       "asynctools",

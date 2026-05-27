@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nyml",
   "fqn": "nyml.openpeeps.github.com",
   "current": "c5ba263bc5133e23407900b7ee921b7a5fdc7b12",
@@ -87,9 +87,9 @@
       "d": "A stupid simple YAML Parser. From YAML to stringified JSON (fastest) or JsonNode"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:59:45Z",
+  "generatedAt": "2026-05-27T12:33:32Z",
   "allDeps": {
     "packages": [
       "jsony > 0.1.5 & <= 0.1.8",

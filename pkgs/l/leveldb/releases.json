@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "leveldb",
   "fqn": "leveldb.nim.zielmicha.github.com",
   "current": "69f86fe38c71afb391a0334130e421df8099bc50",
@@ -38,9 +38,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:53Z",
+  "generatedAt": "2026-05-27T12:29:40Z",
   "allDeps": {
     "packages": [],
     "urls": [],

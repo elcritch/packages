@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "valkey",
   "fqn": "valkey-nim.pshankinclarke.github.com",
   "current": "f691200e6aaf4a64716e07e17ca3ac0bd1c0b5d0",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:06:45Z",
+  "generatedAt": "2026-05-27T12:38:30Z",
   "allDeps": {
     "packages": [],
     "urls": [],

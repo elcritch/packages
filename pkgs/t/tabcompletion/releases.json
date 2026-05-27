@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "tabcompletion",
   "fqn": "tabcompletion.z-kk.github.com",
   "current": "8c88ad115342fffb23b53d6192faab5910c90c6b",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:05:05Z",
+  "generatedAt": "2026-05-27T12:37:24Z",
   "allDeps": {
     "packages": [],
     "urls": [],

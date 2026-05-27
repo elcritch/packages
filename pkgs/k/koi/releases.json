@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "koi",
   "fqn": "koi.johnnovak.github.com",
   "current": "d7ce4aa1f970399c7bd15943d5686190e56926e3",
@@ -64,9 +64,9 @@
       "m": "2.0.2"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:43Z",
+  "generatedAt": "2026-05-27T12:29:31Z",
   "allDeps": {
     "packages": [
       "glfw",

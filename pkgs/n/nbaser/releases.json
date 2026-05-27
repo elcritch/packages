@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nbaser",
   "fqn": "nbaser.D-Nice.github.com",
   "current": "0c989e0d9580b4a6c14e11976dba3a0d503ecfcd",
@@ -18,9 +18,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:56:25Z",
+  "generatedAt": "2026-05-27T12:31:09Z",
   "allDeps": {
     "packages": [],
     "urls": [],

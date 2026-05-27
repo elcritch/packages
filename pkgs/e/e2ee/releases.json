@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "e2ee",
   "fqn": "e2ee.openpeeps.github.com",
   "current": "d09dab7c8385db2deead2eb9951c981f65c79826",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:53Z",
+  "generatedAt": "2026-05-27T12:26:15Z",
   "allDeps": {
     "packages": [],
     "urls": [],

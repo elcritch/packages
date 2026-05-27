@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "whisper",
   "fqn": "whisper.maleyva1.github.com",
   "current": "3f5d19118a763078521e5e8ce3c6eb0dca2c5465",
@@ -17,9 +17,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:07:23Z",
+  "generatedAt": "2026-05-27T12:39:01Z",
   "allDeps": {
     "packages": [
       "futhark",

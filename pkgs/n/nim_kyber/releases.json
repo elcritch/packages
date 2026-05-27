@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nim_kyber",
   "fqn": "nim-kyber.roger-padrell.github.com",
   "current": "db1e62a80bc2ecf228cd72125c7d4ee91b18aa6b",
@@ -18,9 +18,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:39:32Z",
+  "generatedAt": "2026-05-27T12:31:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

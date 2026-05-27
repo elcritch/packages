@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ttop",
   "fqn": "ttop.inv2004.github.com",
   "current": "de83047aec8c8ceedc03b9c0aafc8bc551a56015",
@@ -590,9 +590,9 @@
       "m": "1.6.4"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:43:13Z",
+  "generatedAt": "2026-05-27T12:38:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

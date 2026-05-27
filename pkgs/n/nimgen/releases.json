@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimgen",
   "fqn": "nimgen.genotrance.github.com",
   "current": "6c24d4a727045313b46165f62a815558ba4e0873",
@@ -168,9 +168,9 @@
       "m": "0.16.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:58:14Z",
+  "generatedAt": "2026-05-27T12:32:10Z",
   "allDeps": {
     "packages": [
       "c2nim",

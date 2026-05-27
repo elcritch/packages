@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "holidapi",
   "fqn": "holidapi.nirokay.github.com",
   "current": "57c9762be492f4afc5c3d96af1b0c2d1aa3accf5",
@@ -26,9 +26,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:37:40Z",
+  "generatedAt": "2026-05-27T12:28:29Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "dbus",
   "fqn": "nim-dbus.zielmicha.github.com",
   "current": "9aedf3c455554ccef2c7741d2379f5af0ac85e55",
@@ -12,9 +12,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:27Z",
+  "generatedAt": "2026-05-27T12:25:46Z",
   "allDeps": {
     "packages": [],
     "urls": [],

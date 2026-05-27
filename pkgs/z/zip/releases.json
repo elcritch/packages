@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "zip",
   "fqn": "zip.nim-lang.github.com",
   "current": "1bc02a1d888cedb53075ca81d9fe3553c16ef10a",
@@ -16,9 +16,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:08:05Z",
+  "generatedAt": "2026-05-27T12:39:38Z",
   "allDeps": {
     "packages": [],
     "urls": [],

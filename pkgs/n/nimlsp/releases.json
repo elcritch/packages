@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimlsp",
   "fqn": "nimlsp.PMunch.github.com",
   "current": "5fa2846f04600c2cf1173625976e037389db4489",
@@ -154,9 +154,9 @@
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nimlsp.PMunch.github.com-153f924c-nimlsp.nimble\ncannot resolve package name: astpatternmatching"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:39:58Z",
+  "generatedAt": "2026-05-27T12:32:26Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

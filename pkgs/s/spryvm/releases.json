@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "spryvm",
   "fqn": "spryvm.gokr.github.com",
   "current": "3df5d147360f3007f69b9ccf86daf99dd77e8b93",
@@ -23,9 +23,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:04:30Z",
+  "generatedAt": "2026-05-27T12:36:51Z",
   "allDeps": {
     "packages": [
       "LimDB",

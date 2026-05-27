@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "atoz",
   "fqn": "atoz.disruptek.github.com",
   "current": "fd8a4cefee6e7ba65c4fc003a935d0538d7c9a9f",
@@ -419,9 +419,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:34:46Z",
+  "generatedAt": "2026-05-27T12:09:59Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

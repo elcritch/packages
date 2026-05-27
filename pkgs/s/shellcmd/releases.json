@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "shellcmd",
   "fqn": "shellcmd.Alogani.github.com",
   "current": "b7d8b0da149bbc23f8e7adb8f4a5236dd7ed2ece",
@@ -29,9 +29,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:42:02Z",
+  "generatedAt": "2026-05-27T12:36:12Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

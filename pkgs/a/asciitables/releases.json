@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "asciitables",
   "fqn": "nim-asciitables.xmonader.github.com",
   "current": "17adfde12e6362249783662fae3fc7fd457a6348",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:47:57Z",
+  "generatedAt": "2026-05-27T12:08:20Z",
   "allDeps": {
     "packages": [],
     "urls": [],

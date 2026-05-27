@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimbioseq",
   "fqn": "nimbioseq.jhbadger.github.com",
   "current": "56e663c400443ba13a7f81358a122e70341b44ad",
@@ -41,9 +41,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:57:41Z",
+  "generatedAt": "2026-05-27T12:31:51Z",
   "allDeps": {
     "packages": [
       "zip > 0.3.20181119"

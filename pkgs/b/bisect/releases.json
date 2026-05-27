@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "bisect",
   "fqn": "bisect.berquist.github.com",
   "current": "ab6fb4b0ab64b0e43120abd140b320256cf8108a",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:59Z",
+  "generatedAt": "2026-05-27T12:22:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

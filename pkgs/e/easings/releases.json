@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "easings",
   "fqn": "nim-easings.juancarlospaco.github.com",
   "current": "f71b77acfa157455cfe4305bb74825df72efeead",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:54Z",
+  "generatedAt": "2026-05-27T12:26:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

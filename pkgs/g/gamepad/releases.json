@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "gamepad",
   "fqn": "nim-gamepad.konsumer.github.com",
   "current": "683d7eba6a5faa4006af04bebb6a7d0b3b57ef45",
@@ -109,9 +109,9 @@
       "i": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:52:26Z",
+  "generatedAt": "2026-05-27T12:27:31Z",
   "allDeps": {
     "packages": [],
     "urls": [],

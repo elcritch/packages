@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "sqids",
   "fqn": "sqids-nim.sqids.github.com",
   "current": "df2ac211bb9593081f58a1649aba71f30175517f",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:42:16Z",
+  "generatedAt": "2026-05-27T12:36:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

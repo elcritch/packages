@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "morsecode",
   "fqn": "morsecode.nemuelw.github.com",
   "current": "fe3efc18ad05d11f7bae93252e33cc7486c6113b",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:56:08Z",
+  "generatedAt": "2026-05-27T12:30:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "bignum",
   "fqn": "bignum.SciNim.github.com",
   "current": "39b6e9a76d7c519b5383fa81c2a0fe20242953ad",
@@ -30,9 +30,9 @@
       "m": "0.11.2"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:52Z",
+  "generatedAt": "2026-05-27T12:21:43Z",
   "allDeps": {
     "packages": [
       "gmp"

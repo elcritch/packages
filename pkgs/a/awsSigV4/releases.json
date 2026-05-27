@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "awsSigV4",
   "fqn": "nim_awsSigV4.ThomasTJdev.github.com",
   "current": "6e23455792456a22ef72d9d3309b473290325387",
@@ -28,9 +28,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:17Z",
+  "generatedAt": "2026-05-27T12:15:49Z",
   "allDeps": {
     "packages": [
       "crunchy > 0.0.1",

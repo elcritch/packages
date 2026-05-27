@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "timecop",
   "fqn": "timecop.nim.ba0f3.github.com",
   "current": "f4496338a7688b50d000f81cec880c17e94fb4d8",
@@ -16,9 +16,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:42:56Z",
+  "generatedAt": "2026-05-27T12:37:48Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

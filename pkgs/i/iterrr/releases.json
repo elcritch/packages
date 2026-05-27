@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "iterrr",
   "fqn": "iterrr.hamidb80.github.com",
   "current": "0843fc3a3a6923a3c1b909e36ea4e20ad2ebfef1",
@@ -111,9 +111,9 @@
       "p": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:38:01Z",
+  "generatedAt": "2026-05-27T12:29:07Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

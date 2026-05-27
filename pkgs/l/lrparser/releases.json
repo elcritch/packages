@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "lrparser",
   "fqn": "lrparser.vanyle.github.com",
   "current": "3287bfdaca7beaff8f9009a2e6c3b660694cc2d7",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:31Z",
+  "generatedAt": "2026-05-27T12:30:14Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "sos",
   "fqn": "nim-sos.ct-clmsn.github.com",
   "current": "48bc549060337b6106b10de65ca91e92814de1a3",
@@ -13,9 +13,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:04:06Z",
+  "generatedAt": "2026-05-27T12:36:40Z",
   "allDeps": {
     "packages": [],
     "urls": [],

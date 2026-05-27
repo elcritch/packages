@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "obfusel",
   "fqn": "obfusel.Luteva-ssh.github.com",
   "current": "3af46de6eef89cbb9d5a2acb60dfb8d85efe907b",
@@ -19,9 +19,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:59:47Z",
+  "generatedAt": "2026-05-27T12:33:32Z",
   "allDeps": {
     "packages": [
       "xlsx",

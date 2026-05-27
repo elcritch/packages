@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "itertools",
   "fqn": "itertools.narimiran.github.com",
   "current": "06c4de8b6b124368be269b00ecd0b34a3731739f",
@@ -38,9 +38,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:13Z",
+  "generatedAt": "2026-05-27T12:29:07Z",
   "allDeps": {
     "packages": [],
     "urls": [],

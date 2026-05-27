@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "lockfreequeues",
   "fqn": "lockfreequeues.elijahr.github.com",
   "current": "b6da7f60272826e01638d5ee9b2f5c3bb3ed60b2",
@@ -96,9 +96,9 @@
       "m": "1.2.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:38:32Z",
+  "generatedAt": "2026-05-27T12:30:08Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

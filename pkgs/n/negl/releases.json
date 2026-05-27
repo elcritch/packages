@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "negl",
   "fqn": "negl.lualvsil.github.com",
   "current": "01a9353b15c88ed5c4c47506440f11d84306053d",
@@ -18,9 +18,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:56:32Z",
+  "generatedAt": "2026-05-27T12:31:14Z",
   "allDeps": {
     "packages": [],
     "urls": [],

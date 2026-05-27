@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "openparser",
   "fqn": "openparser.openpeeps.github.com",
   "current": "2813021e39925d3b97c999bc31e8974ab70f092c",
@@ -21,9 +21,9 @@
       "d": "Tiny parsers and serializers for JSON, CSV, RSS, Atom feeds and more"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:01Z",
+  "generatedAt": "2026-05-27T12:33:45Z",
   "allDeps": {
     "packages": [
       "nimsimd > 0.1.0"

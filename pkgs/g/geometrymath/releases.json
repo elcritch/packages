@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "geometrymath",
   "fqn": "geometrymath.can-lehmann.github.com",
   "current": "e07b2336a497ce8ba7b5ad6f957e8abc2cf1d82e",
@@ -13,9 +13,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:37:16Z",
+  "generatedAt": "2026-05-27T12:27:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

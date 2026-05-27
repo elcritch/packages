@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimactors",
   "fqn": "nimactors.vegansk.github.com",
   "current": "b73c5040d8bb50b261bf7e13c8a25340aba6a733",
@@ -17,9 +17,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:57:32Z",
+  "generatedAt": "2026-05-27T12:31:46Z",
   "allDeps": {
     "packages": [
       "classy",

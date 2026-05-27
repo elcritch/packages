@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "mongrel2",
   "fqn": "nim-mongrel2.mahlonsmith.github.com",
   "current": "8ffc30acceb67888d5724a633239a192dba1c034",
@@ -36,9 +36,9 @@
       "m": "1.4.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:56:05Z",
+  "generatedAt": "2026-05-27T12:30:51Z",
   "allDeps": {
     "packages": [
       "tnetstring > 0.1.0",

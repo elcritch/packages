@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "niledb",
   "fqn": "niledb.JeffersonLab.github.com",
   "current": "92d058ee0a776f6e84ec20a41b2cd774a26d6a12",
@@ -58,9 +58,9 @@
       "i": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:57:07Z",
+  "generatedAt": "2026-05-27T12:31:29Z",
   "allDeps": {
     "packages": [
       "serializetools"

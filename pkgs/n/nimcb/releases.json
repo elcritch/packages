@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimcb",
   "fqn": "nimcb.AdrianV.github.com",
   "current": "b07815e1f0174da6035e9570f390dd9b833b715a",
@@ -17,9 +17,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:57:50Z",
+  "generatedAt": "2026-05-27T12:31:55Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimdotenv",
   "fqn": "nim-dotenv.wioenena-q.github.com",
   "current": "4760365ccd5bd91bebfe9b541b7c30eeddaf8844",
@@ -18,9 +18,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:58:04Z",
+  "generatedAt": "2026-05-27T12:32:04Z",
   "allDeps": {
     "packages": [],
     "urls": [],

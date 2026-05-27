@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimPDF",
   "fqn": "nimpdf.jangko.github.com",
   "current": "9e39d66c334709d51034a249e437cf4ad123dbbe",
@@ -130,9 +130,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:57:20Z",
+  "generatedAt": "2026-05-27T12:31:38Z",
   "allDeps": {
     "packages": [
       "nimAES > 0.4.0",

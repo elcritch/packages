@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "jnim",
   "fqn": "jnim.yglukhov.github.com",
   "current": "39a8f95c4a58b0af5201ed10f6e555647ff1c92a",
@@ -160,9 +160,9 @@
       "m": "0.13.1"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:38:04Z",
+  "generatedAt": "2026-05-27T12:29:13Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

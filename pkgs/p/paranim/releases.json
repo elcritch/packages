@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "paranim",
   "fqn": "paranim.paranim.github.com",
   "current": "fd28a5acf75f9fca32f1acc828c89c651dd9ce05",
@@ -104,9 +104,9 @@
       "m": "1.0.4"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:18Z",
+  "generatedAt": "2026-05-27T12:34:04Z",
   "allDeps": {
     "packages": [
       "glm",

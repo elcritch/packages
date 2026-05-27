@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "librng",
   "fqn": "librng.xTrayambak.github.com",
   "current": "69638caddffff2e55b3d8aabf573cb0c1aaef4b5",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:38:23Z",
+  "generatedAt": "2026-05-27T12:29:50Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

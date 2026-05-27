@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "cppstl",
   "fqn": "nim-cppstl.BigEpsilon.github.com",
   "current": "45ca8979092e9d93a2cf68484043e64fdd5d5b79",
@@ -59,9 +59,9 @@
       "m": "1.0.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:36:14Z",
+  "generatedAt": "2026-05-27T12:25:27Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

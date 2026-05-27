@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "lasm",
   "fqn": "lasm.fox0430.github.com",
   "current": "149b53af231649df5ce149f3da4efc4a40428846",
@@ -19,9 +19,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:47Z",
+  "generatedAt": "2026-05-27T12:29:34Z",
   "allDeps": {
     "packages": [
       "bearssl",

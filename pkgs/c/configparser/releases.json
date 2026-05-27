@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "configparser",
   "fqn": "nim-configparser.xmonader.github.com",
   "current": "7e805b43d76e4943bac26288f6f7d85bfc19eb02",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:02Z",
+  "generatedAt": "2026-05-27T12:25:18Z",
   "allDeps": {
     "packages": [],
     "urls": [],

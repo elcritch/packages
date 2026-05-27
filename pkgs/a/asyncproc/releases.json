@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "asyncproc",
   "fqn": "asyncproc.Alogani.github.com",
   "current": "5bd0bb7871a68f1f1a8f5b996f400690d8927373",
@@ -95,9 +95,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:34:30Z",
+  "generatedAt": "2026-05-27T12:09:02Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

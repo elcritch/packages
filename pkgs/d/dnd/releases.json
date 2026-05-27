@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "dnd",
   "fqn": "dnd.adokitkat.github.com",
   "current": "de4ac31831fdfa87120f263fb9e7ca4277b69f8c",
@@ -51,9 +51,9 @@
       "j": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:36:31Z",
+  "generatedAt": "2026-05-27T12:26:05Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

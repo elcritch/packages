@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "subnet",
   "fqn": "subnet.jiro4989.github.com",
   "current": "f22461575de221b8f71c3c5e964c289e2b510a87",
@@ -27,9 +27,9 @@
       "m": "1.2.4"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:42:26Z",
+  "generatedAt": "2026-05-27T12:37:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

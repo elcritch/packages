@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "webdriver",
   "fqn": "webdriver.dom96.github.com",
   "current": "a272e8ffa15c9070a38966a23e8acf1f3260ba0d",
@@ -18,9 +18,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:07:11Z",
+  "generatedAt": "2026-05-27T12:38:50Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ozark",
   "fqn": "ozark.openpeeps.github.com",
   "current": "358dcb031d5062660352edc070f3e73269a24ad6",
@@ -65,9 +65,9 @@
       "d": "A magical ORM for the Nim language "
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:11Z",
+  "generatedAt": "2026-05-27T12:33:57Z",
   "allDeps": {
     "packages": [
       "db_connector",

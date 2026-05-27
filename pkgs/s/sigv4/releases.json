@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "sigv4",
   "fqn": "sigv4.disruptek.github.com",
   "current": "6f5f925a26e2fc2fd6868bc52438e1f622abd957",
@@ -144,9 +144,9 @@
       "m": "0.20.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:42:05Z",
+  "generatedAt": "2026-05-27T12:36:19Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "jack",
   "fqn": "nim-jack.Skrylar.github.com",
   "current": "c50c6c26708ab477078732b54785642d50f7f506",
@@ -13,9 +13,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:14Z",
+  "generatedAt": "2026-05-27T12:29:07Z",
   "allDeps": {
     "packages": [],
     "urls": [],

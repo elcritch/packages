@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "libovr",
   "fqn": "nim-ovr.bluenote10.github.com",
   "current": "187c574648ffcf1969d1bbe7a67e9ceb276fc201",
@@ -12,9 +12,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:01Z",
+  "generatedAt": "2026-05-27T12:29:47Z",
   "allDeps": {
     "packages": [],
     "urls": [],

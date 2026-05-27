@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "printdebug",
   "fqn": "nim-printdebug.juancarlospaco.github.com",
   "current": "88dcf2dd5f6f0584e80dbe7e40cdbb124c9998fd",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:56Z",
+  "generatedAt": "2026-05-27T12:34:47Z",
   "allDeps": {
     "packages": [],
     "urls": [],

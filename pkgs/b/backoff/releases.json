@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "backoff",
   "fqn": "backoff.CORDEA.github.com",
   "current": "cf567b616d9af81fe712ca408928a2ccf7d9538f",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:34:39Z",
+  "generatedAt": "2026-05-27T12:17:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

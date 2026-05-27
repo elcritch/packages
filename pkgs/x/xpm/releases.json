@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "xpm",
   "fqn": "xpm.juancarlospaco.github.com",
   "current": "6c46c93f28e54a466b76acf4689f17451f64c68b",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:07:55Z",
+  "generatedAt": "2026-05-27T12:39:29Z",
   "allDeps": {
     "packages": [],
     "urls": [],

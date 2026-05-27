@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "normalize",
   "fqn": "nim-normalize.nitely.github.com",
   "current": "1c51c44a1541c2402af9fc21fef9ff4028e8e9ce",
@@ -96,9 +96,9 @@
       "m": "0.17.2"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:40:31Z",
+  "generatedAt": "2026-05-27T12:33:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

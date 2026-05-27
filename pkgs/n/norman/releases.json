@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "norman",
   "fqn": "norman.moigagoo.github.com",
   "current": "feec05aeb10d707873cc87d423eca9945d7d6f99",
@@ -124,9 +124,9 @@
       "m": "1.1.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:59:20Z",
+  "generatedAt": "2026-05-27T12:33:15Z",
   "allDeps": {
     "packages": [
       "chronicles",

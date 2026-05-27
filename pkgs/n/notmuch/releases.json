@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "notmuch",
   "fqn": "notmuch.nim.samdmarshall.github.com",
   "current": "bb5c1c48e13514efa1e9cda59045b242cb0751f5",
@@ -19,9 +19,9 @@
       "d": "wrapper for the notmuch 0.28.0 mail library"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:59:26Z",
+  "generatedAt": "2026-05-27T12:33:20Z",
   "allDeps": {
     "packages": [],
     "urls": [],

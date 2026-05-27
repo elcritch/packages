@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "kmod",
   "fqn": "kmod.alaviss.github.com",
   "current": "923879e15b087e09e21d23a4f42673ea6cf66260",
@@ -16,9 +16,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:41Z",
+  "generatedAt": "2026-05-27T12:29:30Z",
   "allDeps": {
     "packages": [
       "cligen",

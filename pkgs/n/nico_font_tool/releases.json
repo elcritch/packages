@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nico_font_tool",
   "fqn": "nico-font-tool.TakWolf.github.com",
   "current": "cb31315322dfc7b1bb8333615963921cfb131333",
@@ -35,9 +35,9 @@
       "p": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:56:53Z",
+  "generatedAt": "2026-05-27T12:31:28Z",
   "allDeps": {
     "packages": [
       "bumpy",

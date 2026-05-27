@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "kaitai_struct_nim_runtime",
   "fqn": "kaitai_struct_nim_runtime.kaitai-io.github.com",
   "current": "1f1cd4c3145b84b98cd426b6b7ef415d34e64956",
@@ -20,9 +20,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:32Z",
+  "generatedAt": "2026-05-27T12:29:22Z",
   "allDeps": {
     "packages": [],
     "urls": [],

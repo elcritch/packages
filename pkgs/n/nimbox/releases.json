@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimbox",
   "fqn": "nimbox.dom96.github.com",
   "current": "6a56e76c01481176f16ae29b7d7c526bd83f229b",
@@ -20,9 +20,9 @@
       "h": true
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:57:47Z",
+  "generatedAt": "2026-05-27T12:31:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

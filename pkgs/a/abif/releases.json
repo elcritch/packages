@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "abif",
   "fqn": "nim-abif.quadram-institute-bioscience.github.com",
   "current": "45f17023cd9acb04b0c177865129b6694450b631",
@@ -39,9 +39,9 @@
       "o": {}
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:34:10Z",
+  "generatedAt": "2026-05-27T11:42:49Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

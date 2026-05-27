@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "asyncthreadpool",
   "fqn": "asyncthreadpool.yglukhov.github.com",
   "current": "a215c48fa516593ede9a706c60a31b39435587a3",
@@ -13,9 +13,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:07Z",
+  "generatedAt": "2026-05-27T12:09:09Z",
   "allDeps": {
     "packages": [],
     "urls": [],

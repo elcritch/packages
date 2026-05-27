@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "libu2f",
   "fqn": "nim-libu2f.FedericoCeratto.github.com",
   "current": "a93cd835e405cd2d4b1d783570c681baf77e2c15",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:12Z",
+  "generatedAt": "2026-05-27T12:29:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

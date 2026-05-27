@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "soundex",
   "fqn": "soundex.Kashiwara0205.github.com",
   "current": "2e0337fd92bd320c53ce11194171de063fea6a37",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:04:08Z",
+  "generatedAt": "2026-05-27T12:36:40Z",
   "allDeps": {
     "packages": [],
     "urls": [],

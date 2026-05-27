@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "couchdbapi",
   "fqn": "nim_couchdbapi.zendbit.github.com",
   "current": "f310e9c75856abbf6cae6418f02ab0b7e4c4cbb0",
@@ -79,9 +79,9 @@
       "m": "1.0.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:36:13Z",
+  "generatedAt": "2026-05-27T12:25:24Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

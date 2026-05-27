@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "sdl3_nim",
   "fqn": "sdl3_nim.dinau.github.com",
   "current": "67bb6c4f98a8d7594742d7cc4c20d505b029c70b",
@@ -182,9 +182,9 @@
       "x": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:02:34Z",
+  "generatedAt": "2026-05-27T12:35:57Z",
   "allDeps": {
     "packages": [
       "basic2d > 0.2.0",

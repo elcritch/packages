@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimgraphql",
   "fqn": "nimgraphql.genotrance.github.com",
   "current": "49434383a688abcdac05a7bbdd1e87470e5a6c07",
@@ -24,9 +24,9 @@
       "h": true
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:58:17Z",
+  "generatedAt": "2026-05-27T12:32:12Z",
   "allDeps": {
     "packages": [
       "c2nim <= 0.1.0",

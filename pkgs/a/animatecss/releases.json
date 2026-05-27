@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "animatecss",
   "fqn": "animatecss.thisago.github.com",
   "current": "7d03f0d2465d48f99a8270a53dc027197e68e85e",
@@ -18,9 +18,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:47:44Z",
+  "generatedAt": "2026-05-27T11:54:58Z",
   "allDeps": {
     "packages": [],
     "urls": [],

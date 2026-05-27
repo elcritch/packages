@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "voicepeaky4gpt",
   "fqn": "voicepeaky4gpt.solaoi.github.com",
   "current": "f944031430c2e8216601688440c67a9438fbc4ac",
@@ -19,9 +19,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:43:29Z",
+  "generatedAt": "2026-05-27T12:38:39Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "texttospeech",
   "fqn": "texttospeech.dom96.github.com",
   "current": "e08988bb8469d29781807357aa6522697876837a",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:05:21Z",
+  "generatedAt": "2026-05-27T12:37:41Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "lazyseq",
   "fqn": "nim-lazyseq.markspanbroek.github.com",
   "current": "4322d1325d1d284df3219076ccf87415f92a92bd",
@@ -13,9 +13,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:50Z",
+  "generatedAt": "2026-05-27T12:29:37Z",
   "allDeps": {
     "packages": [],
     "urls": [],

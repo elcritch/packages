@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "mongopool",
   "fqn": "mongopool.JohnAD.github.com",
   "current": "c8bc6ddd560f962b8ba497ea74bac93906c9d9b9",
@@ -27,9 +27,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:38:57Z",
+  "generatedAt": "2026-05-27T12:30:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

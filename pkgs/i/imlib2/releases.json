@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "imlib2",
   "fqn": "Imlib2.PMunch.github.com",
   "current": "207dc2ab509044c8653f952a5daa9464d57f59f9",
@@ -18,9 +18,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:53:53Z",
+  "generatedAt": "2026-05-27T12:28:52Z",
   "allDeps": {
     "packages": [],
     "urls": [],

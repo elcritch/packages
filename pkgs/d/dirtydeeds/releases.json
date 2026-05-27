@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "dirtydeeds",
   "fqn": "dirtydeeds.metagn.github.com",
   "current": "482f8d01b34f7bddbfd388e7b60bea167ac5b61c",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:40Z",
+  "generatedAt": "2026-05-27T12:26:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

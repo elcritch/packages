@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "taps_coap",
   "fqn": "coap-nim.eris.codeberg.org",
   "current": "286a38e99473f1a67eb571988a666dd0f126aea7",
@@ -70,9 +70,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:07:17Z",
+  "generatedAt": "2026-05-27T12:37:31Z",
   "allDeps": {
     "packages": [
       "getdns",

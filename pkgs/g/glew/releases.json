@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "glew",
   "fqn": "nim-glew.jyapayne.github.com",
   "current": "cb5066b3aed121c5744b62f1804806f809d3d291",
@@ -23,9 +23,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:52:50Z",
+  "generatedAt": "2026-05-27T12:27:56Z",
   "allDeps": {
     "packages": [
       "cligen <= 0.1.0",

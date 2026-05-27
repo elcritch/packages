@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "tiny_sqlite",
   "fqn": "tiny_sqlite.GULPF.github.com",
   "current": "a4977e9ab4fbc52e1db2f311391bbfa119f8e4bd",
@@ -29,9 +29,9 @@
       "m": "0.19.2"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:05:38Z",
+  "generatedAt": "2026-05-27T12:37:52Z",
   "allDeps": {
     "packages": [],
     "urls": [],

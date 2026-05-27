@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "newt",
   "fqn": "newt.navid-m.github.com",
   "current": "7e515a832f6d803f20f041b722adb5dc0dd022ee",
@@ -46,9 +46,9 @@
       "l": "MIT"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:39:15Z",
+  "generatedAt": "2026-05-27T12:31:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

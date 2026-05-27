@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "rbtree",
   "fqn": "RBTreeNim.Nycto.github.com",
   "current": "8f702af02aadb45b53d2bbcbead028332538f569",
@@ -26,9 +26,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:01:21Z",
+  "generatedAt": "2026-05-27T12:35:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

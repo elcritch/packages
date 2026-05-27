@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "bro",
   "fqn": "bro.openpeeps.github.com",
   "current": "611ee8f8d7b4f27f0acfae2da6c90a22f3701b1e",
@@ -66,9 +66,9 @@
       "l": "LGPL"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:15Z",
+  "generatedAt": "2026-05-27T12:24:24Z",
   "allDeps": {
     "packages": [
       "StashTable > 0.1.0",

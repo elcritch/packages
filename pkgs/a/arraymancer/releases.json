@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "arraymancer",
   "fqn": "Arraymancer.mratsim.github.com",
   "current": "d3b67712a3334ab4ded2809cc793e9cd7fed5fae",
@@ -624,9 +624,9 @@
       "m": "0.17.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:34:24Z",
+  "generatedAt": "2026-05-27T12:08:12Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

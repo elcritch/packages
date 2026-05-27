@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimcp",
   "fqn": "nimcp.gokr.github.com",
   "current": "fa6c1e09f3c368b4195aeff37569b1cfbc84597e",
@@ -61,9 +61,9 @@
       "m": "2.2.4"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:57:58Z",
+  "generatedAt": "2026-05-27T12:32:01Z",
   "allDeps": {
     "packages": [
       "bearssl <= 0.1.0",

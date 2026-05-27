@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "genny",
   "fqn": "genny.treeform.github.com",
   "current": "cf6eea8a1f7e59f7d3224bbd18da58b6e01c3a35",
@@ -18,9 +18,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:37:15Z",
+  "generatedAt": "2026-05-27T12:27:41Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

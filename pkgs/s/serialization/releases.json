@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "serialization",
   "fqn": "nim-serialization.status-im.github.com",
   "current": "1790d8a931fce125d6722f7ee8432ee8c054d297",
@@ -126,9 +126,9 @@
       "m": "1.6.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:41:59Z",
+  "generatedAt": "2026-05-27T12:36:04Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

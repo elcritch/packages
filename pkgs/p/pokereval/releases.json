@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "pokereval",
   "fqn": "pokereval.jasonlu7.github.com",
   "current": "2964a9d6a7574766c2c89c4740f319d61545e88c",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:45Z",
+  "generatedAt": "2026-05-27T12:34:34Z",
   "allDeps": {
     "packages": [],
     "urls": [],

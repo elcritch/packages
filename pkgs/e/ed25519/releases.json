@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ed25519",
   "fqn": "ed25519.nim.niv.github.com",
   "current": "176aff141a27ec94f954e961be21671b64531b39",
@@ -21,9 +21,9 @@
       "d": "ed25519 key crypto bindings"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:56Z",
+  "generatedAt": "2026-05-27T12:26:18Z",
   "allDeps": {
     "packages": [],
     "urls": [],

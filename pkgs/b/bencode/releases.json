@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "bencode",
   "fqn": "nim-bencode.FedericoCeratto.github.com",
   "current": "ff97d661b79d4a8db8b18a54c82df54a3ea68788",
@@ -13,9 +13,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:40Z",
+  "generatedAt": "2026-05-27T12:21:10Z",
   "allDeps": {
     "packages": [],
     "urls": [],

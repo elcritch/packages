@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nico",
   "fqn": "nico.ftsf.github.com",
   "current": "409eec1eeab05f5eb07d17343992638ce37f25ed",
@@ -483,9 +483,9 @@
       "m": "1.4.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:56:54Z",
+  "generatedAt": "2026-05-27T12:31:28Z",
   "allDeps": {
     "packages": [
       "ajax > 0.1.0 & <= 0.3.2",

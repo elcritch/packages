@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimgame2",
   "fqn": "nimgame2.Vladar4.github.com",
   "current": "afd289aefd84aa4f89435f5fa0306da62f2023cc",
@@ -68,9 +68,9 @@
       "x": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:58:14Z",
+  "generatedAt": "2026-05-27T12:32:11Z",
   "allDeps": {
     "packages": [
       "sdl2_nim",

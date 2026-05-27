@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "gigi",
   "fqn": "gigi.attakei.github.com",
   "current": "1ff10af1ec789594b3fd859a0bdc0ded4cc9763f",
@@ -41,9 +41,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:37:18Z",
+  "generatedAt": "2026-05-27T12:27:50Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

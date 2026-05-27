@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "controlStructures",
   "fqn": "Additional-Control-Structures-for-Nim.TakeYourFreedom.github.com",
   "current": "60d80ea2a21dbd536c3443ab9b27340f27b7521c",
@@ -17,9 +17,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:06Z",
+  "generatedAt": "2026-05-27T12:25:23Z",
   "allDeps": {
     "packages": [],
     "urls": [],

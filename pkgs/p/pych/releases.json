@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "pych",
   "fqn": "pych.rburmorrison.github.com",
   "current": "7531683b9152c8e81f8b2862776c810089ffd8fa",
@@ -25,9 +25,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:01:08Z",
+  "generatedAt": "2026-05-27T12:35:00Z",
   "allDeps": {
     "packages": [],
     "urls": [],

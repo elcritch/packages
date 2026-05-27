@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "clang",
   "fqn": "libclang-nim.samdmarshall.github.com",
   "current": "a274d788bec337ccec16d527156f4822a1221bf2",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:36:02Z",
+  "generatedAt": "2026-05-27T12:25:02Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

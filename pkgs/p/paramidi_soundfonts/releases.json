@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "paramidi_soundfonts",
   "fqn": "paramidi_soundfonts.paranim.github.com",
   "current": "4bf5402917cdb81bbb1f6db9b5fe2fa663505841",
@@ -22,9 +22,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:17Z",
+  "generatedAt": "2026-05-27T12:34:04Z",
   "allDeps": {
     "packages": [],
     "urls": [],

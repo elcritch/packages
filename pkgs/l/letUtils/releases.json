@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "letUtils",
   "fqn": "let-utils-nim.SirNickolas.github.com",
   "current": "a640c906cbbf78c2724158fe62e65e26b430432c",
@@ -25,9 +25,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:38:18Z",
+  "generatedAt": "2026-05-27T12:29:39Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

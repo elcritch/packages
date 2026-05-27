@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "threadproxy",
   "fqn": "threadproxy.nim.jackhftang.github.com",
   "current": "1889a876ba7d16bd5194692e75719bc6e751f7b5",
@@ -48,9 +48,9 @@
       "d": "Simplify Nim inter-thread Communication"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:42:50Z",
+  "generatedAt": "2026-05-27T12:37:44Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

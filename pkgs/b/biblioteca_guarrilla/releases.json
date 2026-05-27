@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "biblioteca_guarrilla",
   "fqn": "biblioteca-guarrilla.juancarlospaco.github.com",
   "current": "1fc83dc423b5b2452c414e224c068bbd081fbd4f",
@@ -47,9 +47,9 @@
       "j": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:35:25Z",
+  "generatedAt": "2026-05-27T12:21:30Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

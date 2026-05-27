@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "icon",
   "fqn": "icon.bung87.github.com",
   "current": "29b37b76704a14fe68a7e3523dc06d5c2ebf31f5",
@@ -54,9 +54,9 @@
       "p": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:53:47Z",
+  "generatedAt": "2026-05-27T12:28:49Z",
   "allDeps": {
     "packages": [
       "arraymancer <= 0.1.0",

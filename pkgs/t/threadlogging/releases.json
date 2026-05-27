@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "threadlogging",
   "fqn": "threadlogging.pswilde.codeberg.org",
   "current": "45747f810f3e83905b06032146be20b9529ffe10",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:05:56Z",
+  "generatedAt": "2026-05-27T12:37:45Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "argon2_bind",
   "fqn": "argon2_bind.D-Nice.github.com",
   "current": "014b22d17a409c0b80753ea709e5cbc395b0e918",
@@ -24,9 +24,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:47:53Z",
+  "generatedAt": "2026-05-27T12:04:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

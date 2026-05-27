@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimpk",
   "fqn": "nimpk.khchen.github.com",
   "current": "8bf87fbc8204b90c5a078ea31a7a0bd745266cdd",
@@ -23,9 +23,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:58:41Z",
+  "generatedAt": "2026-05-27T12:32:35Z",
   "allDeps": {
     "packages": [
       "bigints",

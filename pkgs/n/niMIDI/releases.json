@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "niMIDI",
   "fqn": "NiMIDI.Mycsina.github.com",
   "current": "8efd1e75817f770c24f932c4ed395f8cdff5acf6",
@@ -18,9 +18,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:56:51Z",
+  "generatedAt": "2026-05-27T12:31:26Z",
   "allDeps": {
     "packages": [],
     "urls": [],

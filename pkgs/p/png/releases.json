@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "png",
   "fqn": "nimlibpng.barcharcraz.github.com",
   "current": "011673a6e7b25e14cf5047d8f9ab6a84040239b6",
@@ -23,9 +23,9 @@
       "m": "0.17.2"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:43Z",
+  "generatedAt": "2026-05-27T12:34:32Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "fmod",
   "fqn": "nim-fmod.johnnovak.github.com",
   "current": "40d70b2dd6c3a7e5123b1e08b724ad8ab7521cd2",
@@ -21,9 +21,9 @@
       "m": "0.18.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:37:04Z",
+  "generatedAt": "2026-05-27T12:27:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

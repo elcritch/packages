@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimquery",
   "fqn": "nimquery.GULPF.github.com",
   "current": "4ed0ce9e8e1e6e7d0ea2bfdbd15cd4008063ee21",
@@ -79,9 +79,9 @@
       "x": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:58:45Z",
+  "generatedAt": "2026-05-27T12:32:39Z",
   "allDeps": {
     "packages": [],
     "urls": [],

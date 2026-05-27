@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "redis",
   "fqn": "redis.nim-lang.github.com",
   "current": "5b16cb1885f2de3652cd5008def8771e14a661e6",
@@ -22,9 +22,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:41:41Z",
+  "generatedAt": "2026-05-27T12:35:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

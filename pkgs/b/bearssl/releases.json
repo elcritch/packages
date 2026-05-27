@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "bearssl",
   "fqn": "nim-bearssl.status-im.github.com",
   "current": "9a4eed052abbded2d94feaf3f5bbd95a30ec4671",
@@ -67,9 +67,9 @@
       "m": "1.2.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:35:20Z",
+  "generatedAt": "2026-05-27T12:20:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

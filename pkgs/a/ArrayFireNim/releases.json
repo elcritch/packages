@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ArrayFireNim",
   "fqn": "ArrayFire-Nim.bitstormGER.github.com",
   "current": "6079baaa38371c6c681dfce6448b11f22b3e7926",
@@ -64,9 +64,9 @@
       "e": ""
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:34:02Z",
+  "generatedAt": "2026-05-27T11:39:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "hottext",
   "fqn": "hottext.~ehmry.git.sr.ht",
   "current": "45199169e0f39afbf3f1209a72bde35ebf4c2aba",
@@ -41,9 +41,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:53:29Z",
+  "generatedAt": "2026-05-27T12:28:34Z",
   "allDeps": {
     "packages": [
       "bumpy",

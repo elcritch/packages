@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "spdx_licenses",
   "fqn": "spdx_licenses.nim.euantorano.github.com",
   "current": "dd50476a74373aa7cb1f4c50ad1d35b59f71cda4",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:04:17Z",
+  "generatedAt": "2026-05-27T12:36:44Z",
   "allDeps": {
     "packages": [],
     "urls": [],

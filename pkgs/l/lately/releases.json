@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "lately",
   "fqn": "lately.hmbemba.github.com",
   "current": "f12d6ad54f79663a19fac7cf8895102da5710f54",
@@ -30,9 +30,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:49Z",
+  "generatedAt": "2026-05-27T12:29:41Z",
   "allDeps": {
     "packages": [
       "debby > 0.1.1",

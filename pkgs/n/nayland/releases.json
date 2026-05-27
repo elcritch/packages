@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nayland",
   "fqn": "nayland.nim-windowing.github.com",
   "current": "4d3a2b141f703ac47061452b73438ff934bf949a",
@@ -38,9 +38,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:39:06Z",
+  "generatedAt": "2026-05-27T12:31:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

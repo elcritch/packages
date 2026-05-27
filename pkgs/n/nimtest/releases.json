@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimtest",
   "fqn": "nimtest.avahe-kellenberger.github.com",
   "current": "17bd3a0f794106428b8592c69832bf48c97b23e2",
@@ -24,9 +24,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:58:54Z",
+  "generatedAt": "2026-05-27T12:32:49Z",
   "allDeps": {
     "packages": [],
     "urls": [],

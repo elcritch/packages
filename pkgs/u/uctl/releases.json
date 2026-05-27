@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "uctl",
   "fqn": "uctl.litlighilit.github.com",
   "current": "3cc655fae8a59503afed512b169df90bcc54e886",
@@ -17,9 +17,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:06:14Z",
+  "generatedAt": "2026-05-27T12:38:11Z",
   "allDeps": {
     "packages": [],
     "urls": [],

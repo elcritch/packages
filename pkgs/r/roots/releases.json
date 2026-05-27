@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "roots",
   "fqn": "roots.BarrOff.github.com",
   "current": "bc7323d16f4c751857968a007b5461e042ca9029",
@@ -60,9 +60,9 @@
       "a": "Joachim Kruth"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:41:46Z",
+  "generatedAt": "2026-05-27T12:35:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

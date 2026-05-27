@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "sdl2_nim",
   "fqn": "sdl2_nim.Vladar4.github.com",
   "current": "bef9a610a6bf53fba4cca231631603a3679b5b98",
@@ -125,9 +125,9 @@
       "i": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:02:29Z",
+  "generatedAt": "2026-05-27T12:35:55Z",
   "allDeps": {
     "packages": [
       "winim > 2.0.14.0",

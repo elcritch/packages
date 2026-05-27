@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "patty",
   "fqn": "patty.andreaferretti.github.com",
   "current": "31bb61b990b8b3bae1cba2f353fb978448942318",
@@ -115,9 +115,9 @@
       "y": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:24Z",
+  "generatedAt": "2026-05-27T12:34:12Z",
   "allDeps": {
     "packages": [],
     "urls": [],

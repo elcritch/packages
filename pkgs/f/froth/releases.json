@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "froth",
   "fqn": "froth.metagn.github.com",
   "current": "8f1a91f56ce57d17326fdc19bb7ba629e81759ae",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:52:19Z",
+  "generatedAt": "2026-05-27T12:27:20Z",
   "allDeps": {
     "packages": [],
     "urls": [],

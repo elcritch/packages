@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "beanstalkd",
   "fqn": "beanstalkd.nim.tormaroe.github.com",
   "current": "0cdf821a3f4f8ac0c6e1ddb99f7d01c4f795b20d",
@@ -16,9 +16,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:34Z",
+  "generatedAt": "2026-05-27T12:20:17Z",
   "allDeps": {
     "packages": [],
     "urls": [],

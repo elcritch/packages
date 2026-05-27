@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "gcplat",
   "fqn": "gcplat.disruptek.github.com",
   "current": "c43a88a1738f9852d377fafa366f2b2808acdb28",
@@ -78,9 +78,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:37:14Z",
+  "generatedAt": "2026-05-27T12:27:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "biscuits",
   "fqn": "nim-biscuits.achesak.github.com",
   "current": "8f337e1d0233e0e0c88fe8e88edea74275fca994",
@@ -16,9 +16,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:59Z",
+  "generatedAt": "2026-05-27T12:22:48Z",
   "allDeps": {
     "packages": [],
     "urls": [],

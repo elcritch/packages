@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "spotlightr",
   "fqn": "spotlightr.thisago.github.com",
   "current": "d12ecf7dc4f8bf146fa00248941700278392c5c5",
@@ -36,9 +36,9 @@
       "m": "1.6.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:04:27Z",
+  "generatedAt": "2026-05-27T12:36:48Z",
   "allDeps": {
     "packages": [
       "util"

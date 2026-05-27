@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "snail",
   "fqn": "snail.stisa.github.com",
   "current": "c1c541f84aeeb3b6f0c52f93cc5d9689984d77e7",
@@ -19,9 +19,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:03:54Z",
+  "generatedAt": "2026-05-27T12:36:35Z",
   "allDeps": {
     "packages": [
       "nimblas"

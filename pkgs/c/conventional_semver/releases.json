@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "conventional_semver",
   "fqn": "conventional_semver.SimplyZ.gitlab.com",
   "current": "fa6385a7e8f7f9fb3d78c5b51546fe775c5a1e3f",
@@ -32,9 +32,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:07Z",
+  "generatedAt": "2026-05-27T12:25:24Z",
   "allDeps": {
     "packages": [
       "semver"

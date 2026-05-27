@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "simpleAST",
   "fqn": "simpleAST.lguzzon-NIM.github.com",
   "current": "c336503839101e37d050f74c73a89c4060c74a7b",
@@ -58,9 +58,9 @@
       "m": "0.17.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:03:34Z",
+  "generatedAt": "2026-05-27T12:36:22Z",
   "allDeps": {
     "packages": [],
     "urls": [],

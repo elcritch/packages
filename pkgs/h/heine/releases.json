@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "heine",
   "fqn": "heine.~xigoi.git.sr.ht",
   "current": "9fb6bf50f745f0886502259e9d387861d657fe64",
@@ -198,9 +198,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:53:21Z",
+  "generatedAt": "2026-05-27T12:28:27Z",
   "allDeps": {
     "packages": [
       "cligen",

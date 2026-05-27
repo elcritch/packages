@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "memviews",
   "fqn": "memviews.ReneSac.github.com",
   "current": "21b91e87eec1a29608c22c068cb126712bc2fe0f",
@@ -23,9 +23,9 @@
       "m": "0.20.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:49Z",
+  "generatedAt": "2026-05-27T12:30:34Z",
   "allDeps": {
     "packages": [
       "c_alikes"

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "mpdclient",
   "fqn": "mpdclient.SolitudeSF.github.com",
   "current": "61215096f4fb372c49190ac7b7f17febf76297ed",
@@ -69,9 +69,9 @@
       "m": "0.19.9"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:56:10Z",
+  "generatedAt": "2026-05-27T12:30:56Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "wox",
   "fqn": "nim-wox.roose.github.com",
   "current": "192439d1a6ecc152c828a8f96bae798f023747d0",
@@ -59,9 +59,9 @@
       "p": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:07:38Z",
+  "generatedAt": "2026-05-27T12:39:13Z",
   "allDeps": {
     "packages": [
       "graphemes > 0.5.1",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "brightcove",
   "fqn": "brightcove.thisago.github.com",
   "current": "6148be4442e8566020dae564cc69c783398888ec",
@@ -20,9 +20,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:14Z",
+  "generatedAt": "2026-05-27T12:24:22Z",
   "allDeps": {
     "packages": [
       "util > 0.1.0"

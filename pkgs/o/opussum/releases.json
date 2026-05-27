@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "opussum",
   "fqn": "opussum.ire4ever1190.github.com",
   "current": "0df504a0f09dc7e87522ba2c108b91de9520a2b9",
@@ -58,9 +58,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:06Z",
+  "generatedAt": "2026-05-27T12:33:50Z",
   "allDeps": {
     "packages": [],
     "urls": [],

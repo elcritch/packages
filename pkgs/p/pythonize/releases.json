@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "pythonize",
   "fqn": "nim-pythonize.marcoapintoo.github.com",
   "current": "613a8c11a8e0fbfc9ac35d731c31d876f80f9a47",
@@ -12,9 +12,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:01:11Z",
+  "generatedAt": "2026-05-27T12:35:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

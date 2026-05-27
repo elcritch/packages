@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "gura",
   "fqn": "gura.khchen.github.com",
   "current": "3372c3e8976c87066d2ee97fcd66e35609af66a1",
@@ -20,9 +20,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:53:06Z",
+  "generatedAt": "2026-05-27T12:28:14Z",
   "allDeps": {
     "packages": [
       "npeg"

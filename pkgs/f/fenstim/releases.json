@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "fenstim",
   "fqn": "fenstim.CardealRusso.github.com",
   "current": "1213fca41df0bced151ec9d3c08cefc9b0951b01",
@@ -17,9 +17,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:51:33Z",
+  "generatedAt": "2026-05-27T12:26:44Z",
   "allDeps": {
     "packages": [],
     "urls": [],

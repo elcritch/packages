@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "lowdb",
   "fqn": "lowdb.PhilippMDoerner.github.com",
   "current": "b1891f492ac31eeb9b4e7e08761cccd0f01263a8",
@@ -43,9 +43,9 @@
       "m": "0.19.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:31Z",
+  "generatedAt": "2026-05-27T12:30:13Z",
   "allDeps": {
     "packages": [
       "db_connector > 0.2.0"

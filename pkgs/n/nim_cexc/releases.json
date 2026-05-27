@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nim_cexc",
   "fqn": "nim-cexc-splunk.metasyn.github.com",
   "current": "550cc9416f653575fdf563b074e95964381cd15d",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:57:23Z",
+  "generatedAt": "2026-05-27T12:31:41Z",
   "allDeps": {
     "packages": [],
     "urls": [],

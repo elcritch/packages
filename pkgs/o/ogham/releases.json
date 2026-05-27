@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ogham",
   "fqn": "ogham-nim.stscoundrel.github.com",
   "current": "36d27f2a4398c0a344bedbcb6ba4ead2e28c4226",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:59:51Z",
+  "generatedAt": "2026-05-27T12:33:34Z",
   "allDeps": {
     "packages": [],
     "urls": [],

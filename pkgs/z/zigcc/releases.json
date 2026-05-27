@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "zigcc",
   "fqn": "zigcc.enthus1ast.github.com",
   "current": "85b4c8baf0ace7b5172352d4b6152522244ea474",
@@ -49,9 +49,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:08:05Z",
+  "generatedAt": "2026-05-27T12:39:37Z",
   "allDeps": {
     "packages": [],
     "urls": [],

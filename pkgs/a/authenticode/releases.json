@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "authenticode",
   "fqn": "authenticode.srozb.github.com",
   "current": "6c245c318311f2c51f5502bb8a628c1d3abd45ef",
@@ -19,9 +19,9 @@
       "m": "1.6.8"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:34:34Z",
+  "generatedAt": "2026-05-27T12:09:40Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

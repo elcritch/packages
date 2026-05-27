@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "markdown",
   "fqn": "nim-markdown.soasme.github.com",
   "current": "dc6be23b5b61abfc6b4f359ea6c917836fd6f7ff",
@@ -135,9 +135,9 @@
       "d": "A Markdown Parser in Nimble World."
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:41Z",
+  "generatedAt": "2026-05-27T12:30:25Z",
   "allDeps": {
     "packages": [],
     "urls": [],

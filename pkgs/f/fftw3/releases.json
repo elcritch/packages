@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "fftw3",
   "fqn": "nimfftw3.SciNim.github.com",
   "current": "984471bb4a763a7b1548dc4aa85dac106ee93f05",
@@ -194,9 +194,9 @@
       "i": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:36:51Z",
+  "generatedAt": "2026-05-27T12:26:50Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

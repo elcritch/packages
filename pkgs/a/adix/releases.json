@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "adix",
   "fqn": "adix.c-blake.github.com",
   "current": "27a2319646f176141d6c52907313e6bff1179907",
@@ -307,9 +307,9 @@
       "p": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:34:11Z",
+  "generatedAt": "2026-05-27T11:45:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

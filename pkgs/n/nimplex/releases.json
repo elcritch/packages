@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimplex",
   "fqn": "nimplex.amkrajewski.github.com",
   "current": "1b540ceb23d5e40e5411e7fc4a2c3efdc8838167",
@@ -257,9 +257,9 @@
       "p": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:40:06Z",
+  "generatedAt": "2026-05-27T12:32:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

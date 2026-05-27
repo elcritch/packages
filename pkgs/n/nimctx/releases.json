@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimctx",
   "fqn": "nimctx.nim-community.github.com",
   "current": "cd68d5add19cb674bfd111164ba5ee97ac06a5ee",
@@ -24,9 +24,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:58:01Z",
+  "generatedAt": "2026-05-27T12:32:02Z",
   "allDeps": {
     "packages": [
       "bearssl",

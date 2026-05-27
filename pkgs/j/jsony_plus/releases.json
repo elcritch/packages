@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "jsony_plus",
   "fqn": "jsony_plus.thing-king.github.com",
   "current": "7bfb045a698bd7d29d7863ea1bd917d1bbb9da41",
@@ -78,9 +78,9 @@
       "d": "An extension of `jsony` supporting better hooks, types generated from schemas, and general quality of life tools"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:28Z",
+  "generatedAt": "2026-05-27T12:29:19Z",
   "allDeps": {
     "packages": [
       "colors > 0.1.1",

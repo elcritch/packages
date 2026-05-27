@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "astdot",
   "fqn": "astdot.Rekihyt.github.com",
   "current": "54a613bebe859ca40b23aaa4e88cc155530b4499",
@@ -30,9 +30,9 @@
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/astdot.Rekihyt.github.com-4aceb922-astdot.nimble\ncannot resolve package name: strings"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:01Z",
+  "generatedAt": "2026-05-27T12:08:38Z",
   "allDeps": {
     "packages": [
       "clapfn > 1.0.0",

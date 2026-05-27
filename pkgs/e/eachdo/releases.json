@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "eachdo",
   "fqn": "eachdo.jiro4989.github.com",
   "current": "2e4171452594f9a1b2ebdaa92ec03b06c6b48d2e",
@@ -26,9 +26,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:36:36Z",
+  "generatedAt": "2026-05-27T12:26:15Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

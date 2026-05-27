@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "bale",
   "fqn": "bale.hamidb80.github.com",
   "current": "a2cb0b5a5f2ee0d313eeea9def1c13f768802ebf",
@@ -22,9 +22,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:34:40Z",
+  "generatedAt": "2026-05-27T12:17:38Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

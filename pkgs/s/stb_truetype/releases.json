@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "stb_truetype",
   "fqn": "stb_truetype.guzba.github.com",
   "current": "d345d3a13222200338a10c72dd5345afc814408d",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:42:22Z",
+  "generatedAt": "2026-05-27T12:37:00Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

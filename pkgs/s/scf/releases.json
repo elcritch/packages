@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "scf",
   "fqn": "scf.capocasa.github.com",
   "current": "2352fce2cb5df597b27abc4b85e6e7214eaa12fd",
@@ -20,9 +20,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:02:07Z",
+  "generatedAt": "2026-05-27T12:35:47Z",
   "allDeps": {
     "packages": [],
     "urls": [],

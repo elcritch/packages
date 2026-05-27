@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "cmixer",
   "fqn": "cmixer-nim.rxi.github.com",
   "current": "eee48407f3727f89900e0a3e672575f54ad2eef1",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:56Z",
+  "generatedAt": "2026-05-27T12:25:12Z",
   "allDeps": {
     "packages": [],
     "urls": [],

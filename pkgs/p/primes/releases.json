@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "primes",
   "fqn": "primes.wokibe.github.com",
   "current": "790b963d7adee7dc6217ac14a11f6a65bc1960be",
@@ -16,9 +16,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:55Z",
+  "generatedAt": "2026-05-27T12:34:47Z",
   "allDeps": {
     "packages": [
       "bitty"

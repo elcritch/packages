@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "libtray",
   "fqn": "libtray.neroist.github.com",
   "current": "6813e70c2cebb8441b62a0a59aa2f6ea96c43f09",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:11Z",
+  "generatedAt": "2026-05-27T12:29:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

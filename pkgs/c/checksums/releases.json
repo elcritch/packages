@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "checksums",
   "fqn": "checksums.nim-lang.github.com",
   "current": "5c132cd332cce5d64a0da9ac3e4c9664313dccb4",
@@ -26,9 +26,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:35:58Z",
+  "generatedAt": "2026-05-27T12:24:54Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

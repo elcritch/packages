@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "update_nimble_version",
   "fqn": "update_nimble_version.philolo1.github.com",
   "current": "ad261211b3ba0e3c39bd6815ef1a0f67ace9f83e",
@@ -17,9 +17,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:06:33Z",
+  "generatedAt": "2026-05-27T12:38:22Z",
   "allDeps": {
     "packages": [],
     "urls": [],

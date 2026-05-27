@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "cppany",
   "fqn": "cppany.sls1005.github.com",
   "current": "cfd01fbccb5a8ff2bbf11e8fe1e0b5779b967d78",
@@ -13,9 +13,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:09Z",
+  "generatedAt": "2026-05-27T12:25:26Z",
   "allDeps": {
     "packages": [],
     "urls": [],

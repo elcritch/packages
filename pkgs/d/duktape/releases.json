@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "duktape",
   "fqn": "duktape-nim.manguluka.github.com",
   "current": "78b8f7fcc0c592b6766e9121c22ce1fd2f66c3db",
@@ -15,9 +15,9 @@
       "h": true
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:52Z",
+  "generatedAt": "2026-05-27T12:26:14Z",
   "allDeps": {
     "packages": [
       "c2nim",

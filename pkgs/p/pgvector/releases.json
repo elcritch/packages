@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "pgvector",
   "fqn": "pgvector-nim.pgvector.github.com",
   "current": "0b2079ccf495934674536ee59037e84b767172e9",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:28Z",
+  "generatedAt": "2026-05-27T12:34:17Z",
   "allDeps": {
     "packages": [],
     "urls": [],

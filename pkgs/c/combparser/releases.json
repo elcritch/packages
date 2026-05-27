@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "combparser",
   "fqn": "combparser.PMunch.github.com",
   "current": "e582c436e8750b60253370fd77960509d36e3738",
@@ -19,9 +19,9 @@
       "m": "0.19.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:00Z",
+  "generatedAt": "2026-05-27T12:25:17Z",
   "allDeps": {
     "packages": [],
     "urls": [],

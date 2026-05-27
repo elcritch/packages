@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "sensors",
   "fqn": "sensors.inv2004.github.com",
   "current": "94affc14aa003ec3fe19a5286026e0472e51bc8f",
@@ -22,9 +22,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:02:49Z",
+  "generatedAt": "2026-05-27T12:36:00Z",
   "allDeps": {
     "packages": [],
     "urls": [],

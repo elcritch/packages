@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "suffer",
   "fqn": "suffer.emekoi.github.com",
   "current": "773dcff99a4ab2575f9c296949009a0485c32c53",
@@ -30,9 +30,9 @@
       "m": "1.2.2"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:04:54Z",
+  "generatedAt": "2026-05-27T12:37:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

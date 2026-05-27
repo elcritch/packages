@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "arraymancer_vision",
   "fqn": "arraymancer-vision.edubart.github.com",
   "current": "a52496691b81679cc7da5578f4aed0af25e9c48a",
@@ -29,9 +29,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:47:56Z",
+  "generatedAt": "2026-05-27T12:08:02Z",
   "allDeps": {
     "packages": [
       "arraymancer",

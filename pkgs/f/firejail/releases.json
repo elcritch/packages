@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "firejail",
   "fqn": "nim-firejail.juancarlospaco.github.com",
   "current": "f716b534a55b0fefb7401d0a7a29f4ffebfbdae6",
@@ -38,9 +38,9 @@
       "m": "1.0.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:52:05Z",
+  "generatedAt": "2026-05-27T12:27:05Z",
   "allDeps": {
     "packages": [],
     "urls": [],

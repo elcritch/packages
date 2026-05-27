@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "temple",
   "fqn": "temple.onbox.codeberg.org",
   "current": "76a966e413fc558f5c9787e82a820523fe29862b",
@@ -29,9 +29,9 @@
       "m": "2.0.2"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:05:17Z",
+  "generatedAt": "2026-05-27T12:37:38Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "mimalloc",
   "fqn": "mimalloc_nim.planetis-m.github.com",
   "current": "e726e37e716d4d2d7f94bda7d198681080c0b172",
@@ -67,9 +67,9 @@
       "d": "A Nim package for using mimalloc with ARC/ORC"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:56Z",
+  "generatedAt": "2026-05-27T12:30:41Z",
   "allDeps": {
     "packages": [],
     "urls": [],

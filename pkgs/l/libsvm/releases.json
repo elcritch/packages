@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "libsvm",
   "fqn": "libsvm.genotrance.github.com",
   "current": "ee8e0cbda75fc5be6a083ebe25dcf075a5a9e8d9",
@@ -38,9 +38,9 @@
       "h": true
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:09Z",
+  "generatedAt": "2026-05-27T12:29:53Z",
   "allDeps": {
     "packages": [
       "c2nim <= 0.1.3",

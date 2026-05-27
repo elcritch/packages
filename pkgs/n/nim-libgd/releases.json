@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nim-libgd",
   "fqn": "nim-libgd.mrhdias.github.com",
   "current": "0ef07cc89746def43d0af1fcca4dd8d6f01f8663",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:57:08Z",
+  "generatedAt": "2026-05-27T12:31:30Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "aspartame",
   "fqn": "aspartame.~xigoi.git.sr.ht",
   "current": "46b2f4eeaa72be7e058a1777673f3a7c420e85ee",
@@ -21,9 +21,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:00Z",
+  "generatedAt": "2026-05-27T12:08:24Z",
   "allDeps": {
     "packages": [],
     "urls": [],

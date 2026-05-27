@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "rss",
   "fqn": "nim-rss.achesak.github.com",
   "current": "c51da8c22dbc67889e4884c77d459cea92b17926",
@@ -29,9 +29,9 @@
       "d": "Nim RSS parser"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:01:38Z",
+  "generatedAt": "2026-05-27T12:35:37Z",
   "allDeps": {
     "packages": [],
     "urls": [],

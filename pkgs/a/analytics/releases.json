@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "analytics",
   "fqn": "analytics.dom96.github.com",
   "current": "7bfefcfc0826c3137561902ae38fee9d48b49402",
@@ -25,9 +25,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:47:43Z",
+  "generatedAt": "2026-05-27T11:53:25Z",
   "allDeps": {
     "packages": [
       "isaac",

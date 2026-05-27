@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "fastcgi",
   "fqn": "fastcgi.nim.ba0f3.github.com",
   "current": "eb361f53a93915e313388a4a45dd22ed140161d8",
@@ -29,9 +29,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:36:46Z",
+  "generatedAt": "2026-05-27T12:26:40Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

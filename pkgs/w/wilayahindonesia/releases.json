@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "wilayahindonesia",
   "fqn": "wilayahindonesia-nim.nekoding.github.com",
   "current": "43a6096966953b2a8106c839b2203d1f77c7f93a",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:07:24Z",
+  "generatedAt": "2026-05-27T12:39:02Z",
   "allDeps": {
     "packages": [],
     "urls": [],

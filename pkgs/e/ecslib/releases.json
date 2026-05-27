@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ecslib",
   "fqn": "ecslib.glassesneo.github.com",
   "current": "307c8311789a2e8f26e1d32a39ab61af12a1acb6",
@@ -26,9 +26,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:56Z",
+  "generatedAt": "2026-05-27T12:26:18Z",
   "allDeps": {
     "packages": [],
     "urls": [],

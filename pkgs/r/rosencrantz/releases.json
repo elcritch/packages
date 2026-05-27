@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "rosencrantz",
   "fqn": "rosencrantz.andreaferretti.github.com",
   "current": "464ae0a64e6691005676c743902738fd4979ba22",
@@ -269,9 +269,9 @@
       "y": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:02:08Z",
+  "generatedAt": "2026-05-27T12:35:38Z",
   "allDeps": {
     "packages": [],
     "urls": [],

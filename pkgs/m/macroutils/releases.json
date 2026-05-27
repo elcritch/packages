@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "macroutils",
   "fqn": "macroutils.PMunch.github.com",
   "current": "e6357d428f3888c3b0c068a9e2bd0cf66d25e3cd",
@@ -18,9 +18,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:37Z",
+  "generatedAt": "2026-05-27T12:30:21Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "natu",
   "fqn": "natu.exelotl.github.com",
   "current": "de2dc9fe15bfb7b76c893b070b03626cadd3a96b",
@@ -59,9 +59,9 @@
       "p": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:39:06Z",
+  "generatedAt": "2026-05-27T12:31:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

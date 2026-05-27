@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimsync",
   "fqn": "nimsync.codenimja.github.com",
   "current": "ee993279967dd06eaee89085724ebac04cd628e9",
@@ -23,9 +23,9 @@
       "d": "Lock-free SPSC channels for Nim (212M+ ops/sec verified)"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:40:12Z",
+  "generatedAt": "2026-05-27T12:32:48Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

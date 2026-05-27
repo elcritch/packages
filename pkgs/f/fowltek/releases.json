@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "fowltek",
   "fqn": "nimlibs.fowlmouth.github.com",
   "current": "c8db2ab0acc505d63f26c15d525e01fa970a8cf6",
@@ -12,9 +12,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:52:15Z",
+  "generatedAt": "2026-05-27T12:27:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

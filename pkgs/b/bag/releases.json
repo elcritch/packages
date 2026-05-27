@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "bag",
   "fqn": "bag.openpeeps.github.com",
   "current": "00a3eb8864245a7fa11464880b38177353afded2",
@@ -16,9 +16,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:19Z",
+  "generatedAt": "2026-05-27T12:17:29Z",
   "allDeps": {
     "packages": [
       "bigints",

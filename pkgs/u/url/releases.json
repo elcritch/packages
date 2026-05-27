@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "url",
   "fqn": "url.xTrayambak.github.com",
   "current": "2bc808241b2bf10017e81b4ce68c5ad070aaacf2",
@@ -63,9 +63,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:43:21Z",
+  "generatedAt": "2026-05-27T12:38:24Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

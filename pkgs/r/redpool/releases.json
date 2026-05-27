@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "redpool",
   "fqn": "redpool.zedeus.github.com",
   "current": "8b7c1db069797300425037c98b825c5d3316f752",
@@ -16,9 +16,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:01:26Z",
+  "generatedAt": "2026-05-27T12:35:24Z",
   "allDeps": {
     "packages": [
       "redis"

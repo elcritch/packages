@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "cdp",
   "fqn": "ChromeDevToolsProtocol.Niminem.github.com",
   "current": "472d58ed071e24cc17756f7431b6e392a0c1ce9b",
@@ -16,9 +16,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:31Z",
+  "generatedAt": "2026-05-27T12:24:46Z",
   "allDeps": {
     "packages": [
       "ws"

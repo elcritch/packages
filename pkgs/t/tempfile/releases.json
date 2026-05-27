@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "tempfile",
   "fqn": "tempfile.nim.OpenSystemsLab.github.com",
   "current": "96fe74e69838c99641e4f7138c987d5f346c26f1",
@@ -46,9 +46,9 @@
       "p": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:42:39Z",
+  "generatedAt": "2026-05-27T12:37:34Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

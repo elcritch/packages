@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nwt",
   "fqn": "nimWebTemplates.enthus1ast.github.com",
   "current": "83ca5ddb04fbb3a0a957e668475e79b3b0cc42d4",
@@ -52,9 +52,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:59:44Z",
+  "generatedAt": "2026-05-27T12:33:30Z",
   "allDeps": {
     "packages": [],
     "urls": [],

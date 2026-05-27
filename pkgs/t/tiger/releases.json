@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "tiger",
   "fqn": "nim_tiger.~ehmry.git.sr.ht",
   "current": "c81b088704b09ff08304bbc0211ac9b22e1bb77e",
@@ -17,9 +17,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:05:29Z",
+  "generatedAt": "2026-05-27T12:37:47Z",
   "allDeps": {
     "packages": [],
     "urls": [],

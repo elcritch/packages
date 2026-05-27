@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "slim",
   "fqn": "slim.bung87.github.com",
   "current": "c49ab66b5c3e10c8a5e028f6a472c5082534a1ab",
@@ -75,9 +75,9 @@
       "m": "1.4.8"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:03:50Z",
+  "generatedAt": "2026-05-27T12:36:32Z",
   "allDeps": {
     "packages": [
       "benchy <= 0.1.7",

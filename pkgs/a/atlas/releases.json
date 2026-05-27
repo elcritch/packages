@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "atlas",
   "fqn": "atlas.nim-lang.github.com",
   "current": "c065cfa68b10c78a7402d1fe4496fc737fdeef3d",
@@ -104,9 +104,9 @@
       "b": ""
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:34:32Z",
+  "generatedAt": "2026-05-27T12:09:16Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "faststreams",
   "fqn": "nim-faststreams.status-im.github.com",
   "current": "50889cd16ec8771106cdd0eeea460039e8571e06",
@@ -47,9 +47,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:36:47Z",
+  "generatedAt": "2026-05-27T12:26:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

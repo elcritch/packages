@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "sokol",
   "fqn": "sokol-nim.floooh.github.com",
   "current": "b2763c50c907b9859e910dc391823652ba642c69",
@@ -58,9 +58,9 @@
       "m": "1.4.4"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:04:02Z",
+  "generatedAt": "2026-05-27T12:36:40Z",
   "allDeps": {
     "packages": [],
     "urls": [],

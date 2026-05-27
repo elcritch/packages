@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nullable",
   "fqn": "nullable.theDataFlowClub.github.com",
   "current": "c0276d2067d115a71d6ee1e5b1bf2f09a93677a1",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:59:37Z",
+  "generatedAt": "2026-05-27T12:33:26Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ruby",
   "fqn": "ruby-nim.ryukoposting.github.com",
   "current": "461c7760b2652a616d59c49cb57f3e5a1f9fe91b",
@@ -30,9 +30,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:01:44Z",
+  "generatedAt": "2026-05-27T12:35:40Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "opencv",
   "fqn": "nim-opencv.dom96.github.com",
   "current": "e1e3d57166fa3bc9e840184e038e5e1288809997",
@@ -12,9 +12,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:59:59Z",
+  "generatedAt": "2026-05-27T12:33:43Z",
   "allDeps": {
     "packages": [],
     "urls": [],

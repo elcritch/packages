@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "simple_parseopt",
   "fqn": "simple_parseopt.onelivesleft.github.com",
   "current": "22f883465918bc0180bda61162c755031b0bf980",
@@ -30,9 +30,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:03:36Z",
+  "generatedAt": "2026-05-27T12:36:23Z",
   "allDeps": {
     "packages": [],
     "urls": [],

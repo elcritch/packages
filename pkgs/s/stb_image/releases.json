@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "stb_image",
   "fqn": "stb_image-Nim.define-private-public.gitlab.com",
   "current": "ba5f45286bfa9bed93d8d6b941949cd6218ec888",
@@ -83,9 +83,9 @@
       "y": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:04:41Z",
+  "generatedAt": "2026-05-27T12:37:00Z",
   "allDeps": {
     "packages": [],
     "urls": [],

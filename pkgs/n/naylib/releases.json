@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "naylib",
   "fqn": "naylib.planetis-m.github.com",
   "current": "03c3f7dacab948467348d52c5035b90fe6ee1bd6",
@@ -244,9 +244,9 @@
       "m": "1.9.5"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:39:08Z",
+  "generatedAt": "2026-05-27T12:31:12Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

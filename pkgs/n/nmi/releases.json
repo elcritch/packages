@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nmi",
   "fqn": "nmi.jiro4989.github.com",
   "current": "54fdd4730965908ddc598fa06fb4e607d9075db8",
@@ -26,9 +26,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:40:23Z",
+  "generatedAt": "2026-05-27T12:33:04Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

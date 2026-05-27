@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "jesterjson",
   "fqn": "jesterjson.JohnAD.github.com",
   "current": "b55bf1d4584e1f715d8a80dddc573fc6bfd17f37",
@@ -19,9 +19,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:38:03Z",
+  "generatedAt": "2026-05-27T12:29:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

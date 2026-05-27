@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "miniblink",
   "fqn": "miniblink.lihf8515.github.com",
   "current": "78bd220395bff34e4edd1eec450b302b257e1603",
@@ -17,9 +17,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:58Z",
+  "generatedAt": "2026-05-27T12:30:43Z",
   "allDeps": {
     "packages": [],
     "urls": [],

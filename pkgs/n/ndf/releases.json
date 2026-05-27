@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ndf",
   "fqn": "ndf.rustomax.github.com",
   "current": "2b22b453d1cff1193a01a06e577220c6b164c245",
@@ -26,9 +26,9 @@
       "m": "1.0.4"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:56:29Z",
+  "generatedAt": "2026-05-27T12:31:13Z",
   "allDeps": {
     "packages": [
       "docopt",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nats",
   "fqn": "nim-nats.deem0n.github.com",
   "current": "ca00be79a05b486fb7e11bfb3ed7a048927eb2ff",
@@ -22,9 +22,9 @@
       "d": "Nim wrapper for the cnats - NATS and NATS Streaming client library"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:39:05Z",
+  "generatedAt": "2026-05-27T12:31:08Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

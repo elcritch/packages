@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "linuxfb",
   "fqn": "linuxfb.nim.luked99.github.com",
   "current": "ed5671d9aab99ca2c2fea74bea57b42e0a685c2d",
@@ -17,9 +17,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:18Z",
+  "generatedAt": "2026-05-27T12:29:59Z",
   "allDeps": {
     "packages": [],
     "urls": [],

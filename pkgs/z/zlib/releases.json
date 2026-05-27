@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "zlib",
   "fqn": "nim-zlib.status-im.github.com",
   "current": "c9e64574438e69f3dd9b64da048f9fffc89e2809",
@@ -26,9 +26,9 @@
       "m": "1.6.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:08:07Z",
+  "generatedAt": "2026-05-27T12:39:40Z",
   "allDeps": {
     "packages": [
       "results",

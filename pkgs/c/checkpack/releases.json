@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "checkpack",
   "fqn": "checkpack.EchoPouet.gitlab.com",
   "current": "b8423d10e9f0e6c94269e553a3772fbbb1d26c4a",
@@ -26,9 +26,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:39Z",
+  "generatedAt": "2026-05-27T12:24:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

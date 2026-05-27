@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "statsd_client",
   "fqn": "nim-statsd-client.FedericoCeratto.github.com",
   "current": "af0bccd79e2acc66134594480b9e3855a7be5c23",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:04:39Z",
+  "generatedAt": "2026-05-27T12:36:59Z",
   "allDeps": {
     "packages": [],
     "urls": [],

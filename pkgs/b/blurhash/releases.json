@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "blurhash",
   "fqn": "blurhash.SolitudeSF.github.com",
   "current": "81102eb57976972b8ac517472cf9fad6fb85cba4",
@@ -30,9 +30,9 @@
       "m": "0.20.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:06Z",
+  "generatedAt": "2026-05-27T12:24:09Z",
   "allDeps": {
     "packages": [
       "imageman",

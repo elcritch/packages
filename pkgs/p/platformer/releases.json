@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "platformer",
   "fqn": "nim-platformer.def-.github.com",
   "current": "9e79719369ae1722c01b4546a54792a77413c22f",
@@ -27,9 +27,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:34Z",
+  "generatedAt": "2026-05-27T12:34:24Z",
   "allDeps": {
     "packages": [
       "basic2d > 1.0",

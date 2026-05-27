@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "httpbeast",
   "fqn": "httpbeast.dom96.github.com",
   "current": "75008aaba497479df4023d52880086deae6385e3",
@@ -53,9 +53,9 @@
       "m": "0.17.3"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:53:37Z",
+  "generatedAt": "2026-05-27T12:28:39Z",
   "allDeps": {
     "packages": [
       "asynctools"

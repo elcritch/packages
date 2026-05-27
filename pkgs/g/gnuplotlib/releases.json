@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "gnuplotlib",
   "fqn": "gnuplotlib.planetis-m.github.com",
   "current": "60bbcbd293dc12d287311d2fcfbb8a23c74894c7",
@@ -50,9 +50,9 @@
       "x": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:52:54Z",
+  "generatedAt": "2026-05-27T12:28:02Z",
   "allDeps": {
     "packages": [],
     "urls": [],

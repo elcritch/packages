@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "css",
   "fqn": "css.thing-king.github.com",
   "current": "a6e195afd1bb85f768cfbdc5c8a0faced54cbec9",
@@ -56,9 +56,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:16Z",
+  "generatedAt": "2026-05-27T12:25:34Z",
   "allDeps": {
     "packages": [
       "lifter > 0.1.29"

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "loadenv",
   "fqn": "nim-loadenv.xmonader.github.com",
   "current": "961fde7c424f709f141683b7dea33ae4895e6531",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:24Z",
+  "generatedAt": "2026-05-27T12:30:04Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "argparse",
   "fqn": "nim-argparse.iffy.github.com",
   "current": "8485f8cb9d86de9bfa2406ebf3b06691f8066c35",
@@ -131,9 +131,9 @@
       "m": "0.19.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:47:54Z",
+  "generatedAt": "2026-05-27T12:06:09Z",
   "allDeps": {
     "packages": [],
     "urls": [],

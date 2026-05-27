@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "serializetools",
   "fqn": "serializetools.JeffersonLab.github.com",
   "current": "2559bb0d87b2fcb09a77288afe6555a72eef4421",
@@ -110,9 +110,9 @@
       "m": "0.17.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:03:01Z",
+  "generatedAt": "2026-05-27T12:36:04Z",
   "allDeps": {
     "packages": [],
     "urls": [],

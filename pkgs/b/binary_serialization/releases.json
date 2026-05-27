@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "binary_serialization",
   "fqn": "nim-binary-serialization.status-im.github.com",
   "current": "38a73a70fd43f3835ca01a877353858b19e39d70",
@@ -19,9 +19,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:53Z",
+  "generatedAt": "2026-05-27T12:21:53Z",
   "allDeps": {
     "packages": [
       "faststreams",

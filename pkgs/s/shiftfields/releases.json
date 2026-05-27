@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "shiftfields",
   "fqn": "shiftfields.sumatoshi.github.com",
   "current": "1400224274aad5a88f9819ea9f5924257db1ee1c",
@@ -23,9 +23,9 @@
       "d": "Sugar for bitfields"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:03:20Z",
+  "generatedAt": "2026-05-27T12:36:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "claude_code_sdk",
   "fqn": "claude-code-sdk-nim.Apothic-AI.github.com",
   "current": "ce54ed3b5d2a5c1e9171fbc2409878a963cfd8ef",
@@ -20,9 +20,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:48Z",
+  "generatedAt": "2026-05-27T12:25:04Z",
   "allDeps": {
     "packages": [
       "bearssl",

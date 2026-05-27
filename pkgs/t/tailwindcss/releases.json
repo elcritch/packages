@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "tailwindcss",
   "fqn": "tailwindcss-nim.Ethosa.github.com",
   "current": "6c7c6208c7d212a661d35ac516e02ffa676276fe",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:05:07Z",
+  "generatedAt": "2026-05-27T12:37:28Z",
   "allDeps": {
     "packages": [],
     "urls": [],

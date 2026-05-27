@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "getopty",
   "fqn": "getopty.amnr.github.com",
   "current": "1dbb0809a6b410a3abe2f766fcedefcd9ffc0bb3",
@@ -12,9 +12,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:37:17Z",
+  "generatedAt": "2026-05-27T12:27:46Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "discordnim",
   "fqn": "discordnim.Krognol.github.com",
   "current": "dab2e9fe6a0fd190d17e1d96f92168aa78398c7f",
@@ -97,9 +97,9 @@
       "m": "0.19.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:41Z",
+  "generatedAt": "2026-05-27T12:26:03Z",
   "allDeps": {
     "packages": [
       "websocket > 2.0.0",

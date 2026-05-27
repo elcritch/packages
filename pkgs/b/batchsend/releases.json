@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "batchsend",
   "fqn": "batchsend.marcomq.github.com",
   "current": "95337cf49dd4d000b01ae16925ba82831026b853",
@@ -70,9 +70,9 @@
       "p": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:28Z",
+  "generatedAt": "2026-05-27T12:18:40Z",
   "allDeps": {
     "packages": [
       "nimpy"

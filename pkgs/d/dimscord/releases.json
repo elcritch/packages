@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "dimscord",
   "fqn": "dimscord.krisppurg.github.com",
   "current": "5bef06763751b6582075cd4218b47dbc64068b88",
@@ -136,9 +136,9 @@
       "m": "1.2.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:36:29Z",
+  "generatedAt": "2026-05-27T12:26:00Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

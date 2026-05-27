@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimgeos",
   "fqn": "nimgeos.JohnMoutafis.github.com",
   "current": "3947d2a62167a7bedd00e0e5ce77561cb9b0757c",
@@ -50,9 +50,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:39:49Z",
+  "generatedAt": "2026-05-27T12:32:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

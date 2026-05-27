@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimwin",
   "fqn": "nimwin.TriedAngle.github.com",
   "current": "44945992e459de65bd22fd108497dec7dc73f179",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:59:00Z",
+  "generatedAt": "2026-05-27T12:32:55Z",
   "allDeps": {
     "packages": [],
     "urls": [],

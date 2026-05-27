@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "td",
   "fqn": "td.capocasa.github.com",
   "current": "f94a3b61759105bffae1d30594fd549a9b35b47e",
@@ -17,9 +17,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:05:11Z",
+  "generatedAt": "2026-05-27T12:37:33Z",
   "allDeps": {
     "packages": [],
     "urls": [],

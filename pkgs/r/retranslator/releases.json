@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "retranslator",
   "fqn": "RegularExpressions.Transformer.linksplatform.github.com",
   "current": "5654c8f08a2662e4b3f3badf30c760ca58f3f29a",
@@ -77,9 +77,9 @@
       "E": "missing nimble file"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:41:44Z",
+  "generatedAt": "2026-05-27T12:35:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

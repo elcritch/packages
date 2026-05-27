@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "mpv",
   "fqn": "nim-mpv.WeebNetsu.github.com",
   "current": "386a342f48ec89a2c38637d827bb92b83aebae11",
@@ -17,9 +17,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:39:00Z",
+  "generatedAt": "2026-05-27T12:30:56Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "rtthread",
   "fqn": "rtthread.capocasa.github.com",
   "current": "9ac4cb71028941302a337c7d1c8070764848170a",
@@ -23,9 +23,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:01:44Z",
+  "generatedAt": "2026-05-27T12:35:40Z",
   "allDeps": {
     "packages": [],
     "urls": [],

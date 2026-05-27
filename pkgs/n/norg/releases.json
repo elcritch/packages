@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "norg",
   "fqn": "norgbackup.pswilde.codeberg.org",
   "current": "a8a99b9206d4ed54dd91871127c1271937578fe3",
@@ -160,9 +160,9 @@
       "d": "A Borg Backup Wrapper"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:59:51Z",
+  "generatedAt": "2026-05-27T12:33:18Z",
   "allDeps": {
     "packages": [
       "argparse",

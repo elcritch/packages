@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "switch_build",
   "fqn": "switch-build.jyapayne.github.com",
   "current": "a660561818a7ff4943f6f4fccc52da28fae69f73",
@@ -17,9 +17,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:42:31Z",
+  "generatedAt": "2026-05-27T12:37:20Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

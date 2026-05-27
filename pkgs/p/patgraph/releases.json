@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "patgraph",
   "fqn": "patgraph.planetis-m.github.com",
   "current": "34e6a672de7090fc5372db059e6a6bee71ef6ae0",
@@ -17,9 +17,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:23Z",
+  "generatedAt": "2026-05-27T12:34:11Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nesper",
   "fqn": "nesper.elcritch.github.com",
   "current": "eadd2f9e5b5187f88369611047d608d7ebc808df",
@@ -404,9 +404,9 @@
       "m": "1.2.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:39:13Z",
+  "generatedAt": "2026-05-27T12:31:20Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

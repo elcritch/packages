@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimtetris",
   "fqn": "nimtetris.jiro4989.github.com",
   "current": "fc40d5b92729eab20f936a485259f76d6845bfb4",
@@ -69,9 +69,9 @@
       "d": "Terminal tetris"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:40:13Z",
+  "generatedAt": "2026-05-27T12:32:49Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

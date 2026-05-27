@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "cppconst",
   "fqn": "nim-cppconst.sls1005.github.com",
   "current": "e4f05199747208a1b1747121368e49b53a7f9b61",
@@ -25,9 +25,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:10Z",
+  "generatedAt": "2026-05-27T12:25:27Z",
   "allDeps": {
     "packages": [],
     "urls": [],

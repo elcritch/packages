@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "tokarax",
   "fqn": "tokarax.thisago.github.com",
   "current": "b63616c53335f48cdc153ecb4abe5e7f098d6edc",
@@ -68,9 +68,9 @@
       "d": "Converts HTML to Karax representation"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:05:46Z",
+  "generatedAt": "2026-05-27T12:37:56Z",
   "allDeps": {
     "packages": [
       "cligen"

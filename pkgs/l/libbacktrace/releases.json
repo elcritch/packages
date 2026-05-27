@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "libbacktrace",
   "fqn": "nim-libbacktrace.status-im.github.com",
   "current": "af60500cb0383231065f1d6624beeeefa308d085",
@@ -113,9 +113,9 @@
       "m": "1.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:38:19Z",
+  "generatedAt": "2026-05-27T12:29:42Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimview",
   "fqn": "nimview.marcomq.github.com",
   "current": "d6bf5ce39d710f6ed80f0ca320b93ee6323ae66f",
@@ -137,9 +137,9 @@
       "m": "0.17.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:40:15Z",
+  "generatedAt": "2026-05-27T12:32:53Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

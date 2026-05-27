@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nominatim",
   "fqn": "nim-nominatim.juancarlospaco.github.com",
   "current": "4be3a868971d627d2682caf340389e175fcee99f",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:40:28Z",
+  "generatedAt": "2026-05-27T12:33:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "openai_leap",
   "fqn": "openai_leap.monofuel.github.com",
   "current": "f9cd76b209fc6556e9473300c76c94bd012c5321",
@@ -262,9 +262,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:40:50Z",
+  "generatedAt": "2026-05-27T12:33:42Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

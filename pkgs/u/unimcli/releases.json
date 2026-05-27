@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "unimcli",
   "fqn": "unimcli.unimorg.github.com",
   "current": "069580d324cb524393203a6572214be7ba183df2",
@@ -28,9 +28,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:06:27Z",
+  "generatedAt": "2026-05-27T12:38:19Z",
   "allDeps": {
     "packages": [
       "checksums",

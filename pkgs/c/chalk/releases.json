@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "chalk",
   "fqn": "chalk.crashappsec.github.com",
   "current": "75b926da6b3e89f2c0c5c6cac7bb3a0b309409d1",
@@ -391,9 +391,9 @@
       "m": "2.0.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:35:58Z",
+  "generatedAt": "2026-05-27T12:24:54Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

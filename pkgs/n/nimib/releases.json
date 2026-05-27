@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimib",
   "fqn": "nimib.pietroppeter.github.com",
   "current": "05245fbe7294294953f827a4543585d9c1e2a248",
@@ -252,9 +252,9 @@
       "a": "Pietro Peterlongo"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:39:54Z",
+  "generatedAt": "2026-05-27T12:32:19Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

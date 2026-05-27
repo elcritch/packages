@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "oauth2",
   "fqn": "oauth2.Niminem.github.com",
   "current": "b48a2a14b3fbc20c9ff49477f93231077ed3e3da",
@@ -16,9 +16,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:59:46Z",
+  "generatedAt": "2026-05-27T12:33:31Z",
   "allDeps": {
     "packages": [
       "checksums"

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "parselicense",
   "fqn": "parselicense.juancarlospaco.github.com",
   "current": "ffad2e320300215f199e60c785cc24fe63e15091",
@@ -18,9 +18,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:21Z",
+  "generatedAt": "2026-05-27T12:34:08Z",
   "allDeps": {
     "packages": [],
     "urls": [],

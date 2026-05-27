@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "gh_nimrod_doc_pages",
   "fqn": "gh_nimrod_doc_pages.Araq.github.com",
   "current": "2e716592b213c4716b9e786714c70629928a204e",
@@ -24,9 +24,9 @@
       "E": "missing nimble file"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:52:43Z",
+  "generatedAt": "2026-05-27T12:27:49Z",
   "allDeps": {
     "packages": [],
     "urls": [],

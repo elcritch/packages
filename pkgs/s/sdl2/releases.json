@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "sdl2",
   "fqn": "sdl2.nim-lang.github.com",
   "current": "c878475e04fcdc207985587ea61b2387f18b7b8c",
@@ -38,9 +38,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:41:54Z",
+  "generatedAt": "2026-05-27T12:35:54Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

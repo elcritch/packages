@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "passgen",
   "fqn": "nim-passgen.rustomax.github.com",
   "current": "df11ba35b14d2fb316c34502b9592302e6ad4e6f",
@@ -23,9 +23,9 @@
       "m": "0.20.2"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:22Z",
+  "generatedAt": "2026-05-27T12:34:10Z",
   "allDeps": {
     "packages": [
       "nimcrypto > 0.1.0",

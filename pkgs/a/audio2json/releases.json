@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "audio2json",
   "fqn": "audio2json.SpotlightKid.codeberg.org",
   "current": "69e5c20d9ce9b1ed21023b957ed0a1ec4284e572",
@@ -29,9 +29,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:16Z",
+  "generatedAt": "2026-05-27T12:09:17Z",
   "allDeps": {
     "packages": [
       "sndfile"

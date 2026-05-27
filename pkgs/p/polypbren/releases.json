@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "polypbren",
   "fqn": "polypbren.guibar64.github.com",
   "current": "5b98684d21325580576bc7aa0cd0927bdaf37843",
@@ -40,9 +40,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:41:21Z",
+  "generatedAt": "2026-05-27T12:34:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

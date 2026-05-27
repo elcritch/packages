@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "optionsutils",
   "fqn": "nim-optionsutils.PMunch.github.com",
   "current": "afd76544ea3996b221d8a159f5413cdb91f7f7f6",
@@ -26,9 +26,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:04Z",
+  "generatedAt": "2026-05-27T12:33:48Z",
   "allDeps": {
     "packages": [],
     "urls": [],

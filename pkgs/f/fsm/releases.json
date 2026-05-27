@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "fsm",
   "fqn": "fsm.nim.ba0f3.github.com",
   "current": "ca6e14a5562e46805ed89593cb63bf6236939772",
@@ -13,9 +13,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:37:08Z",
+  "generatedAt": "2026-05-27T12:27:20Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

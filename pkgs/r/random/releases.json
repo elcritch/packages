@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "random",
   "fqn": "nim-random.oprypin.github.com",
   "current": "4cf3e09857415341d90477d1495a752a11b6f7c2",
@@ -73,9 +73,9 @@
       "x": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:41:38Z",
+  "generatedAt": "2026-05-27T12:35:12Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

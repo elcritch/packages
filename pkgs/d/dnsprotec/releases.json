@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "dnsprotec",
   "fqn": "nim-dnsprotec.juancarlospaco.github.com",
   "current": "a0044f179361f2000fb85ce608b7a90bd7032249",
@@ -17,9 +17,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:36:31Z",
+  "generatedAt": "2026-05-27T12:26:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

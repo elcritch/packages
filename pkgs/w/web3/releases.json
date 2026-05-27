@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "web3",
   "fqn": "nim-web3.status-im.github.com",
   "current": "aa40059eb54f516031025aefccae5c221c0a27a9",
@@ -74,9 +74,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:43:36Z",
+  "generatedAt": "2026-05-27T12:38:49Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

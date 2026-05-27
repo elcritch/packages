@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "keccak_tiny",
   "fqn": "nim-keccak-tiny.status-im.github.com",
   "current": "8e563f3171d30d5b3a8897a71f5e2f8f91fe9c65",
@@ -22,9 +22,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:37Z",
+  "generatedAt": "2026-05-27T12:29:27Z",
   "allDeps": {
     "packages": [
       "ranges > 0.1.0"

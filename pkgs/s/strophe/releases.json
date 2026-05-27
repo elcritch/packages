@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "strophe",
   "fqn": "nim-strophe.SillaIndustries.github.com",
   "current": "337c740ccfaee162689a57b224e4af6baf588b75",
@@ -13,9 +13,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:04:48Z",
+  "generatedAt": "2026-05-27T12:37:08Z",
   "allDeps": {
     "packages": [],
     "urls": [],

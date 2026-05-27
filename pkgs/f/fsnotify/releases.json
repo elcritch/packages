@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "fsnotify",
   "fqn": "fsnotify.planety.github.com",
   "current": "5b1562e4a021c4757b058b6ae353245b2dd4eb32",
@@ -23,9 +23,9 @@
       "m": "1.2.6"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:37:09Z",
+  "generatedAt": "2026-05-27T12:27:21Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

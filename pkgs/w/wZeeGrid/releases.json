@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "wZeeGrid",
   "fqn": "wZeeGrid.bunkford.github.com",
   "current": "f3bd27a5ba8c446fd692f86f5092b372ed09fac8",
@@ -33,9 +33,9 @@
       "m": "1.0.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:07:00Z",
+  "generatedAt": "2026-05-27T12:38:42Z",
   "allDeps": {
     "packages": [
       "memlib",

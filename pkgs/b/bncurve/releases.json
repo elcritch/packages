@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "bncurve",
   "fqn": "nim-bncurve.status-im.github.com",
   "current": "412a11c32b75f45a02e11390bef834e2d4155b4b",
@@ -24,9 +24,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:08Z",
+  "generatedAt": "2026-05-27T12:24:13Z",
   "allDeps": {
     "packages": [
       "nimcrypto > 1.0.0"

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimraylib_now",
   "fqn": "nimraylib_now.greenfork.github.com",
   "current": "baf57c23da279de7c518edc124a791c77495b452",
@@ -263,9 +263,9 @@
       "x": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:40:09Z",
+  "generatedAt": "2026-05-27T12:32:42Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

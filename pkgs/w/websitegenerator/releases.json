@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "websitegenerator",
   "fqn": "websitegenerator.nirokay.github.com",
   "current": "1980474766bd0e6e61445e6262cc7e0c1a8d5d65",
@@ -163,9 +163,9 @@
       "d": "A basic static html/css generator."
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:43:38Z",
+  "generatedAt": "2026-05-27T12:38:53Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

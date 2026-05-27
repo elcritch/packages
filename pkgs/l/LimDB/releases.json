@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "LimDB",
   "fqn": "limdb.capocasa.github.com",
   "current": "6484ee70890a9f695152e1a08fbf5bd895779f14",
@@ -27,9 +27,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:47:21Z",
+  "generatedAt": "2026-05-27T11:39:18Z",
   "allDeps": {
     "packages": [
       "lmdb"

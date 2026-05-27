@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "docchanger",
   "fqn": "docchanger.nirokay.github.com",
   "current": "2b2c901d1346340af5aac4cbe630e089f08c4a87",
@@ -35,9 +35,9 @@
       "k": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:36:31Z",
+  "generatedAt": "2026-05-27T12:26:07Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

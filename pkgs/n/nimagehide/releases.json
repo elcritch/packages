@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimagehide",
   "fqn": "nimagehide.MnlPhlp.github.com",
   "current": "1beb5968302420be67719875e138b41ec8330458",
@@ -47,9 +47,9 @@
       "e": "c"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:57:34Z",
+  "generatedAt": "2026-05-27T12:31:48Z",
   "allDeps": {
     "packages": [
       "cligen > 0.1.0",

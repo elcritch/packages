@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "args",
   "fqn": "args.threatfender.github.com",
   "current": "b9b61cb2b981d6ad16cfc53630560bc89616fbe9",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:47:53Z",
+  "generatedAt": "2026-05-27T12:05:10Z",
   "allDeps": {
     "packages": [],
     "urls": [],

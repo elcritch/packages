@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "mn",
   "fqn": "mn.h3rald.github.com",
   "current": "d64ab3e089d58726eaf89b3e38e5ad8d932ee3d3",
@@ -33,9 +33,9 @@
       "m": "1.4.4"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:38:55Z",
+  "generatedAt": "2026-05-27T12:30:48Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

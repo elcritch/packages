@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "blake2",
   "fqn": "blake2.nim-community.github.com",
   "current": "accd10c04248b8fab72f0977184721cd2ef3e6b3",
@@ -15,9 +15,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:03Z",
+  "generatedAt": "2026-05-27T12:23:34Z",
   "allDeps": {
     "packages": [],
     "urls": [],

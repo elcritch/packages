@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "pathname",
   "fqn": "nimpathname.RaimundHuebel.github.com",
   "current": "eab6a63e70b8adf6c3eb14ea02f8475ea557a11f",
@@ -18,9 +18,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:26Z",
+  "generatedAt": "2026-05-27T12:34:12Z",
   "allDeps": {
     "packages": [],
     "urls": [],

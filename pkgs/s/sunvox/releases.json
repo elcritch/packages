@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "sunvox",
   "fqn": "nim-sunvox.exelotl.github.com",
   "current": "e1c39f8bc0b0615b01357553abaffdaaeae9bf97",
@@ -18,9 +18,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:04:56Z",
+  "generatedAt": "2026-05-27T12:37:15Z",
   "allDeps": {
     "packages": [],
     "urls": [],

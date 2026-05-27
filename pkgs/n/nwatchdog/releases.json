@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nwatchdog",
   "fqn": "nim_nwatchdog.zendbit.github.com",
   "current": "1e7be81942c8ada74f2b638b27c2973122c67cb3",
@@ -152,9 +152,9 @@
       "p": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:40:41Z",
+  "generatedAt": "2026-05-27T12:33:30Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

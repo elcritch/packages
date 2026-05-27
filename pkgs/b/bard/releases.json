@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "bard",
   "fqn": "bard.thisago.github.com",
   "current": "714b940c1065ed1d04d9f84a74c47dcd8eedc126",
@@ -62,9 +62,9 @@
       "d": "Nim interface for Google Bard batchexecute API"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:24Z",
+  "generatedAt": "2026-05-27T12:18:15Z",
   "allDeps": {
     "packages": [
       "util > 0.1.0"

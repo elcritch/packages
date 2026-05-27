@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "karkas",
   "fqn": "karkas.moigagoo.github.com",
   "current": "bea9421376d81bcc7afe41f12129faf0cf7af7c7",
@@ -16,9 +16,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:34Z",
+  "generatedAt": "2026-05-27T12:29:24Z",
   "allDeps": {
     "packages": [
       "dotenv",

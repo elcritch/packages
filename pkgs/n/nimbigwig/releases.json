@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimbigwig",
   "fqn": "nimbigwig.genotrance.github.com",
   "current": "6e019eb11c6248b18dcc52cef12b4398acaae5c8",
@@ -25,9 +25,9 @@
       "h": true
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:57:41Z",
+  "generatedAt": "2026-05-27T12:31:51Z",
   "allDeps": {
     "packages": [
       "c2nim",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "turn_based_game",
   "fqn": "turn_based_game.JohnAD.github.com",
   "current": "72f66eb818c3f0c30b8256914a1e5a0a7cc68dd3",
@@ -59,9 +59,9 @@
       "m": "0.18.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:43:11Z",
+  "generatedAt": "2026-05-27T12:38:08Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

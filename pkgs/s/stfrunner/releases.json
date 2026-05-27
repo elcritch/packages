@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "stfrunner",
   "fqn": "stfrunner.flenniken.github.com",
   "current": "42b1148961e0fe4dde96468875357f0139a717db",
@@ -21,9 +21,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:42:23Z",
+  "generatedAt": "2026-05-27T12:37:04Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

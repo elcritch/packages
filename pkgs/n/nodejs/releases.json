@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nodejs",
   "fqn": "nodestdlib.juancarlospaco.github.com",
   "current": "a8cedb89e1ed37da04da149f253cdcd0d929e8bc",
@@ -149,9 +149,9 @@
       "m": "1.0.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:59:14Z",
+  "generatedAt": "2026-05-27T12:33:09Z",
   "allDeps": {
     "packages": [],
     "urls": [],

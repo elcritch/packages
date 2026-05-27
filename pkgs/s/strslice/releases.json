@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "strslice",
   "fqn": "strslice.PMunch.github.com",
   "current": "9d5c2d5b6423e93f5bda7c7691a0dcbd330a0678",
@@ -18,9 +18,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:04:49Z",
+  "generatedAt": "2026-05-27T12:37:08Z",
   "allDeps": {
     "packages": [],
     "urls": [],

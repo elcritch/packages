@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "fftr",
   "fqn": "nim-fftr.arnetheduck.github.com",
   "current": "c75c3a377e167672f6d5d457cdc18d94aec7915a",
@@ -17,9 +17,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:51:45Z",
+  "generatedAt": "2026-05-27T12:26:49Z",
   "allDeps": {
     "packages": [],
     "urls": [],

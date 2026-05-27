@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "cli_menu",
   "fqn": "cli_menu.MnlPhlp.github.com",
   "current": "4ef855e5c24aabeb90bc837f8e87d96a24897691",
@@ -26,9 +26,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:49Z",
+  "generatedAt": "2026-05-27T12:25:04Z",
   "allDeps": {
     "packages": [],
     "urls": [],

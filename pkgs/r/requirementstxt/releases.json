@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "requirementstxt",
   "fqn": "nim-requirementstxt.juancarlospaco.github.com",
   "current": "769a099b3e4e512985413c9e2740c81d480381d7",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:01:30Z",
+  "generatedAt": "2026-05-27T12:35:28Z",
   "allDeps": {
     "packages": [],
     "urls": [],

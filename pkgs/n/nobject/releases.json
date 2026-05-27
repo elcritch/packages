@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nobject",
   "fqn": "nobject.Carpall.github.com",
   "current": "75883b7074f7ccad27d041b7c9def73660607a08",
@@ -38,9 +38,9 @@
       "m": "1.4.2"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:59:11Z",
+  "generatedAt": "2026-05-27T12:33:06Z",
   "allDeps": {
     "packages": [],
     "urls": [],

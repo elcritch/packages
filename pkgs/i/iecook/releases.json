@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "iecook",
   "fqn": "iecook.thisago.github.com",
   "current": "3707faa248d95d585c92d8fd9ba6c11e00ef19d6",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:53:48Z",
+  "generatedAt": "2026-05-27T12:28:50Z",
   "allDeps": {
     "packages": [],
     "urls": [],

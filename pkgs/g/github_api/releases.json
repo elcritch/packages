@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "github_api",
   "fqn": "github-api-nim.watzon.github.com",
   "current": "56cb4de7706a5322c72ff64fb4fda2604f4fff84",
@@ -20,9 +20,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:52:47Z",
+  "generatedAt": "2026-05-27T12:27:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

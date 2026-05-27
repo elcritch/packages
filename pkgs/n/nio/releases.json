@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nio",
   "fqn": "nio.c-blake.github.com",
   "current": "52abd3678deb97fcb44a7299b29e794c6b742cd2",
@@ -445,9 +445,9 @@
       "p": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:40:21Z",
+  "generatedAt": "2026-05-27T12:33:00Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "polymers",
   "fqn": "polymers.rlipsc.github.com",
   "current": "508bc229a6d366da3ea90ca010917444b85d22e6",
@@ -44,9 +44,9 @@
       "E": "missing nimble file"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:41:20Z",
+  "generatedAt": "2026-05-27T12:34:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

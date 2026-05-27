@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "matsuri",
   "fqn": "matsuri.zer0-star.github.com",
   "current": "d74bbc2b2a95034eb4ad5d2479e87eb43634fde0",
@@ -22,9 +22,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:43Z",
+  "generatedAt": "2026-05-27T12:30:27Z",
   "allDeps": {
     "packages": [],
     "urls": [],

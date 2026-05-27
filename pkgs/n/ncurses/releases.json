@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ncurses",
   "fqn": "nim-ncurses.walkre-niboshi.github.com",
   "current": "1027fe13d091583608e7e7da3c3e0d13aceb4b11",
@@ -25,9 +25,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:56:28Z",
+  "generatedAt": "2026-05-27T12:31:11Z",
   "allDeps": {
     "packages": [],
     "urls": [],

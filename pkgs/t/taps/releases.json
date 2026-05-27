@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "taps",
   "fqn": "nim_taps.~ehmry.git.sr.ht",
   "current": "989a1b07850ea74ec4480a1440e9de13d9eabda2",
@@ -106,9 +106,9 @@
       "m": "1.0.2"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:05:11Z",
+  "generatedAt": "2026-05-27T12:37:32Z",
   "allDeps": {
     "packages": [
       "getdns > 20220913 & <= 20240405"

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "array2d",
   "fqn": "array2d.avahe-kellenberger.github.com",
   "current": "8ef8209e01855a51729d30880c1c2f4eebf1ce4c",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:47:55Z",
+  "generatedAt": "2026-05-27T12:07:21Z",
   "allDeps": {
     "packages": [],
     "urls": [],

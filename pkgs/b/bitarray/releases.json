@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "bitarray",
   "fqn": "nim-bitarray.onecodex.github.com",
   "current": "127928ec4962ce96b30a678febbd6ed85aa69d0f",
@@ -85,9 +85,9 @@
       "E": "missing nimble file"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:35:32Z",
+  "generatedAt": "2026-05-27T12:23:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "tiara",
   "fqn": "tiara.nimmer-jp.github.com",
   "current": "b6763419a5be7974343a5378602ccaf0cecb77bc",
@@ -81,9 +81,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:05:27Z",
+  "generatedAt": "2026-05-27T12:37:45Z",
   "allDeps": {
     "packages": [],
     "urls": [],

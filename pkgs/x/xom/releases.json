@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "xom",
   "fqn": "xom.schneiderfelipe.github.com",
   "current": "a132f627946ba51d75b80f16ca620bb2ab9023e1",
@@ -15,9 +15,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:44:04Z",
+  "generatedAt": "2026-05-27T12:39:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

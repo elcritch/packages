@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "icu4nim",
   "fqn": "icu4nim.ferus-web.github.com",
   "current": "24fd5f19c1d9e15ab49f840f890cb1e82173203c",
@@ -28,9 +28,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:53:48Z",
+  "generatedAt": "2026-05-27T12:28:49Z",
   "allDeps": {
     "packages": [
       "ferrite",

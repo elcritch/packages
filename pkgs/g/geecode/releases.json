@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "geecode",
   "fqn": "geecode.elcritch.github.com",
   "current": "77110cfdc7f72e07f780b7aa367384a9d1f34a3f",
@@ -24,9 +24,9 @@
       "d": "G-Code parser"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:52:31Z",
+  "generatedAt": "2026-05-27T12:27:36Z",
   "allDeps": {
     "packages": [
       "cligen <= 0.1.0"

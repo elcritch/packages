@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "pcgbasic",
   "fqn": "pcgbasic.rockcavera.github.com",
   "current": "eb73a2fff438f9f02d2cea34ae3b6fa52ac600b6",
@@ -29,9 +29,9 @@
       "m": "0.19.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:25Z",
+  "generatedAt": "2026-05-27T12:34:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

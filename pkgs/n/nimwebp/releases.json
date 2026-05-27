@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimwebp",
   "fqn": "nimwebp.tormund.github.com",
   "current": "a54d78e7e6c73ca6f3b3ea6cae1dbca6d2ee50c5",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:59:01Z",
+  "generatedAt": "2026-05-27T12:32:55Z",
   "allDeps": {
     "packages": [],
     "urls": [],

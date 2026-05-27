@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "zws",
   "fqn": "cli.zws-im.github.com",
   "current": "5eafe7686773a99ad91398281d890fd519bf63a8",
@@ -64,9 +64,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:44:18Z",
+  "generatedAt": "2026-05-27T12:39:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

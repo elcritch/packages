@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "emerald",
   "fqn": "emerald.flyx.github.com",
   "current": "a625ef8f7ae571535f6a1e3ba9cd1b1647e41339",
@@ -32,9 +32,9 @@
       "E": "missing nimble file"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:36:38Z",
+  "generatedAt": "2026-05-27T12:26:23Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

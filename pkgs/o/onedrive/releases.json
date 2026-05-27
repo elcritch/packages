@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "onedrive",
   "fqn": "nim_onedrive.ThomasTJdev.github.com",
   "current": "4e7b261dbb03c1e3e98d34f68972f20bdcc4cf44",
@@ -16,9 +16,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:59:54Z",
+  "generatedAt": "2026-05-27T12:33:38Z",
   "allDeps": {
     "packages": [
       "packedjson"

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimproto3",
   "fqn": "nimproto3.YesDrX.github.com",
   "current": "f115165679c26f6ff8cfa52f7ce11485c53547d8",
@@ -136,9 +136,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:40:09Z",
+  "generatedAt": "2026-05-27T12:32:40Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

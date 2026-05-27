@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "feednim",
   "fqn": "feed-nim.johnconway.github.com",
   "current": "47535cdac92c6d0cdb4fa94f5e232b2d2c6b0005",
@@ -30,9 +30,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:51:32Z",
+  "generatedAt": "2026-05-27T12:26:45Z",
   "allDeps": {
     "packages": [],
     "urls": [],

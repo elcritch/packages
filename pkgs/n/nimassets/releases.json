@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimassets",
   "fqn": "nimassets.xmonader.github.com",
   "current": "d06724dd7b80fb470542ab932f3a94af78fe2eb1",
@@ -48,9 +48,9 @@
       "m": "1.4.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:57:37Z",
+  "generatedAt": "2026-05-27T12:31:49Z",
   "allDeps": {
     "packages": [
       "zstd > 0.2.1"

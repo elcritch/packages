@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "css_html_minify",
   "fqn": "nim-css-html-minify.juancarlospaco.github.com",
   "current": "b168974d7ebadecce22771980a9f26653284398c",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:36:17Z",
+  "generatedAt": "2026-05-27T12:25:34Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

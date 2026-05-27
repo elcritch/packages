@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "suru",
   "fqn": "suru.de-odex.github.com",
   "current": "1142919e22e35da557f7335cbf8d1105e1b1734e",
@@ -19,9 +19,9 @@
       "m": "1.0.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:05:00Z",
+  "generatedAt": "2026-05-27T12:37:19Z",
   "allDeps": {
     "packages": [],
     "urls": [],

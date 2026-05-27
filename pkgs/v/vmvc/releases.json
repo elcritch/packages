@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "vmvc",
   "fqn": "vmvc.kobi2187.github.com",
   "current": "488c7925a8e24f4db466abccb52a11b74c5b4bb6",
@@ -34,9 +34,9 @@
       "d": "a skeleton/structure for a variation on the mvc pattern, similar to dci. For command line and gui programs. it's a middle ground between rapid application development and handling software complexity."
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:06:55Z",
+  "generatedAt": "2026-05-27T12:38:38Z",
   "allDeps": {
     "packages": [
       "graphemes <= 0.0.2",

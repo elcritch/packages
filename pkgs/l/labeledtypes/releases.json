@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "labeledtypes",
   "fqn": "labeledtypes.hamidb80.github.com",
   "current": "c4dc85944cbd31bd0d80addd13b796b99cce747e",
@@ -18,9 +18,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:38:15Z",
+  "generatedAt": "2026-05-27T12:29:33Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

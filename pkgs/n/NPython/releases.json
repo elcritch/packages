@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "NPython",
   "fqn": "NPython.nimpylib.github.com",
   "current": "dbdb6c65cd2c53db4dce16a216b182ccf977d4a4",
@@ -61,9 +61,9 @@
       "p": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:34:04Z",
+  "generatedAt": "2026-05-27T11:39:21Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "compactdict",
   "fqn": "compactdict.LemonBoy.github.com",
   "current": "78df64c5be0f0742edc278a194b047dc1c6edab1",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:01Z",
+  "generatedAt": "2026-05-27T12:25:18Z",
   "allDeps": {
     "packages": [],
     "urls": [],

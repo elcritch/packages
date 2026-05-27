@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "drchaos",
   "fqn": "nim-drchaos.status-im.github.com",
   "current": "0cf181777c69bef988ef8c70cc124316bb36e7b6",
@@ -59,9 +59,9 @@
       "m": "1.4.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:49Z",
+  "generatedAt": "2026-05-27T12:26:10Z",
   "allDeps": {
     "packages": [],
     "urls": [],

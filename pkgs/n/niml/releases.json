@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "niml",
   "fqn": "niml.jakubDoka.github.com",
   "current": "ff1137ab890622440346c94cf144002439463446",
@@ -50,9 +50,9 @@
       "E": "missing nimble file"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:58:28Z",
+  "generatedAt": "2026-05-27T12:32:21Z",
   "allDeps": {
     "packages": [
       "fusion > 0.1.0 & <= 0.1.5"

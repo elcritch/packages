@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "cpuwhat",
   "fqn": "cpuwhat.awr1.github.com",
   "current": "a7db6be3849f5371df370be1062b7553febb20ea",
@@ -21,9 +21,9 @@
       "d": "Nim utilities for advanced CPU operations: CPU identification, bindings to assorted intrinsics"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:11Z",
+  "generatedAt": "2026-05-27T12:25:28Z",
   "allDeps": {
     "packages": [
       "cligen > 0.1.0",

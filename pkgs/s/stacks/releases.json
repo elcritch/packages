@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "stacks",
   "fqn": "nim-stacks.rustomax.github.com",
   "current": "3562d2d98c3cb282a9f20e985c83d34a8ec5f2b9",
@@ -23,9 +23,9 @@
       "m": "0.20.2"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:04:36Z",
+  "generatedAt": "2026-05-27T12:36:57Z",
   "allDeps": {
     "packages": [],
     "urls": [],

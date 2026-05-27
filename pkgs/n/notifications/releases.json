@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "notifications",
   "fqn": "notifications.dom96.github.com",
   "current": "5c30d45ea7235446647858bc50b2a24f0b5b1cb8",
@@ -16,9 +16,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:59:25Z",
+  "generatedAt": "2026-05-27T12:33:19Z",
   "allDeps": {
     "packages": [],
     "urls": [],

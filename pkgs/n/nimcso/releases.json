@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimcso",
   "fqn": "nimcso.amkrajewski.github.com",
   "current": "6c6a344e06985aece794a2e415cca9850de9ed50",
@@ -147,9 +147,9 @@
       "m": "1.0.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:39:45Z",
+  "generatedAt": "2026-05-27T12:32:03Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

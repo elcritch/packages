@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "geolocation",
   "fqn": "geolocation.HazeCS.github.com",
   "current": "f132342badfd77635368cc894e7af86421cccd79",
@@ -12,9 +12,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:52:38Z",
+  "generatedAt": "2026-05-27T12:27:43Z",
   "allDeps": {
     "packages": [],
     "urls": [],

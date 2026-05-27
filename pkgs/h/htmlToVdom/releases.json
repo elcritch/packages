@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "htmlToVdom",
   "fqn": "htmlToVdom.C-NERD.github.com",
   "current": "f4d0b65aefe8217203a94cf5d5fb7bc1682f2500",
@@ -30,9 +30,9 @@
       "d": "Karax extension to convert html in string form to embeddable Karax vnode"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:53:33Z",
+  "generatedAt": "2026-05-27T12:28:37Z",
   "allDeps": {
     "packages": [
       "dotenv",

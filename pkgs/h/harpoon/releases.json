@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "harpoon",
   "fqn": "harpoon.juancarlospaco.github.com",
   "current": "9efebc8d7b67a00cbf88b53ffb60303da8c42d56",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:53:10Z",
+  "generatedAt": "2026-05-27T12:28:18Z",
   "allDeps": {
     "packages": [],
     "urls": [],

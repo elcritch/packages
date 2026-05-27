@@ -1,8 +1,8 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "results",
   "fqn": "nim-results.arnetheduck.github.com",
-  "current": "df8113dda4c2d74d460a8fa98252b0b771bf1f27",
+  "current": "06deae1c81fd27b6c94bbc7cd0e619b6905d49da",
   "author": "Jacek Sieka",
   "description": "Friendly, exception-free value-or-error returns, similar to Option[T]",
   "license": "MIT",
@@ -16,7 +16,7 @@
   ],
   "releases": [
     {
-      "v": "0.5.1@df8113dda4c2d74d460a8fa98252b0b771bf1f27^",
+      "v": "0.5.1@df8113dda4c2d74d460a8fa98252b0b771bf1f27",
       "r": []
     },
     {
@@ -28,9 +28,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:01:31Z",
+  "generatedAt": "2026-05-27T12:35:29Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "zuhyo",
   "fqn": "zuhyo.arashi-software.github.com",
   "current": "5e61001995c8830694a228ed7df52c5e6f658117",
@@ -17,9 +17,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:08:09Z",
+  "generatedAt": "2026-05-27T12:39:41Z",
   "allDeps": {
     "packages": [
       "jsony",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "opus",
   "fqn": "nim-opus.capocasa.github.com",
   "current": "837a820e351602dd2efbea1bafdef372ac449d2e",
@@ -13,9 +13,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:04Z",
+  "generatedAt": "2026-05-27T12:33:48Z",
   "allDeps": {
     "packages": [],
     "urls": [],

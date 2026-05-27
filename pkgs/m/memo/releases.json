@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "memo",
   "fqn": "memo.andreaferretti.github.com",
   "current": "9ef23bce0784cbe66cf8c9570c3e9ad1bf300dad",
@@ -56,9 +56,9 @@
       "y": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:48Z",
+  "generatedAt": "2026-05-27T12:30:33Z",
   "allDeps": {
     "packages": [],
     "urls": [],

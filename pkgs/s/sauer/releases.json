@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "sauer",
   "fqn": "sauer.moigagoo.github.com",
   "current": "f09fb74ce3550d71e5757d03a86a4dbb8fcdd590",
@@ -104,9 +104,9 @@
       "m": "1.9.1"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:02:03Z",
+  "generatedAt": "2026-05-27T12:35:46Z",
   "allDeps": {
     "packages": [
       "climate <= 1.0.8"

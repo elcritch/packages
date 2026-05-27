@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "docx",
   "fqn": "docx.ringabout.github.com",
   "current": "63f9aa83183a8277c0885121bff41313926b05f4",
@@ -46,9 +46,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:36:32Z",
+  "generatedAt": "2026-05-27T12:26:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

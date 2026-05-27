@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "broly",
   "fqn": "broly.solaoi.github.com",
   "current": "7430c2a196191b74aa3fd598ec0800092bc796b3",
@@ -115,9 +115,9 @@
       "m": "1.6.6"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:35:45Z",
+  "generatedAt": "2026-05-27T12:24:24Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimsuite",
   "fqn": "NimSuite.c6h4clch3.github.com",
   "current": "76c90cb33b2ee28a4643e6ff53b86cacdd5920ab",
@@ -20,9 +20,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:40:11Z",
+  "generatedAt": "2026-05-27T12:32:46Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nmostr",
   "fqn": "nmostr.Gruruya.github.com",
   "current": "1a6588ad3e976a3629239dea06358f634bb43ddb",
@@ -573,9 +573,9 @@
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-a0d0493b-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:40:26Z",
+  "generatedAt": "2026-05-27T12:33:07Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

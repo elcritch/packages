@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "puppy",
   "fqn": "puppy.treeform.github.com",
   "current": "584b2e914140ca199635b9dd137739de1500be36",
@@ -272,9 +272,9 @@
       "m": "1.4.4"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:41:33Z",
+  "generatedAt": "2026-05-27T12:34:59Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

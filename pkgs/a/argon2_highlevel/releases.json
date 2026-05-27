@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "argon2_highlevel",
   "fqn": "argon2-highlevel.termermc.github.com",
   "current": "b7494d07ec0f2190afcf2f7f5dbb8244096d98e6",
@@ -18,9 +18,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:34:20Z",
+  "generatedAt": "2026-05-27T12:03:17Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

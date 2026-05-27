@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "plists",
   "fqn": "plists.yglukhov.github.com",
   "current": "783f661aa38e8c93d88388d16b90ec35d38099c1",
@@ -18,9 +18,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:37Z",
+  "generatedAt": "2026-05-27T12:34:27Z",
   "allDeps": {
     "packages": [
       "darwin > 0.1.0"

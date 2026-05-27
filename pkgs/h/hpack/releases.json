@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "hpack",
   "fqn": "nim-hpack.nitely.github.com",
   "current": "75e7548f000bd4b64f8544cee27e089fa0d4fcb6",
@@ -75,9 +75,9 @@
       "m": "0.18.1"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:37:43Z",
+  "generatedAt": "2026-05-27T12:28:35Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

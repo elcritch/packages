@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "imghdr",
   "fqn": "nim-imghdr.achesak.github.com",
   "current": "de6463188468b83ddc9b1ec28976bb3fc598e1ee",
@@ -20,9 +20,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:53:52Z",
+  "generatedAt": "2026-05-27T12:28:52Z",
   "allDeps": {
     "packages": [],
     "urls": [],

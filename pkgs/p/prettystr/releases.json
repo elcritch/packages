@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "prettystr",
   "fqn": "prettystr.prettybauble.github.com",
   "current": "c906df9ab0140dfbbf7ef02fcd3efd4b48d57c25",
@@ -33,9 +33,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:55Z",
+  "generatedAt": "2026-05-27T12:34:46Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "parsepage",
   "fqn": "parsepage.thisago.github.com",
   "current": "cfead41fda0f519a2e18875262471b8d31f34bda",
@@ -77,9 +77,9 @@
       "m": "1.6.4"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:41:04Z",
+  "generatedAt": "2026-05-27T12:34:09Z",
   "allDeps": {
     "packages": [
       "cligen",

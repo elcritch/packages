@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "libcapstone",
   "fqn": "libcapstone-nim.m4ul3r.github.com",
   "current": "58f00734b49afc55b318b2d946a74acc9c5e010b",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:54Z",
+  "generatedAt": "2026-05-27T12:29:42Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nim_cjson",
   "fqn": "nim_cjson.muxueqz.github.com",
   "current": "148afad6c531e50d2cd70cfd3c797075441fca22",
@@ -18,9 +18,9 @@
       "h": true
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:57:24Z",
+  "generatedAt": "2026-05-27T12:31:41Z",
   "allDeps": {
     "packages": [
       "c2nim",

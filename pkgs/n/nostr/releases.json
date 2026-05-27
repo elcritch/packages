@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nostr",
   "fqn": "nim-nostr.theAkito.github.com",
   "current": "fa6b60589b264937cbd372951117106d743a2100",
@@ -19,9 +19,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:59:21Z",
+  "generatedAt": "2026-05-27T12:33:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

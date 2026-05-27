@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "frag",
   "fqn": "frag.fragworks.github.com",
   "current": "de8f256dde787f2ebe2f97bbc9d11718cf8ae829",
@@ -22,9 +22,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:52:18Z",
+  "generatedAt": "2026-05-27T12:27:27Z",
   "allDeps": {
     "packages": [
       "opengl",

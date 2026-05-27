@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "at",
   "fqn": "at.capocasa.github.com",
   "current": "aee55bea94fc2dd2a5559e61fce4a6fd4301d7a6",
@@ -12,9 +12,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:08Z",
+  "generatedAt": "2026-05-27T12:09:12Z",
   "allDeps": {
     "packages": [],
     "urls": [],

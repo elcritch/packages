@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nwsync",
   "fqn": "nwsync.Beamdog.github.com",
   "current": "3b0355337684a7356a3d32a4b8ba2e92ed4324ae",
@@ -170,9 +170,9 @@
       "p": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:40:42Z",
+  "generatedAt": "2026-05-27T12:33:30Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "checkif",
   "fqn": "checkif.thisago.github.com",
   "current": "c534e6428dc3fb72dc22f003c86de6f4d2792bef",
@@ -33,9 +33,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:35:57Z",
+  "generatedAt": "2026-05-27T12:24:53Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

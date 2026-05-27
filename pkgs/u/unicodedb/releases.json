@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "unicodedb",
   "fqn": "nim-unicodedb.nitely.github.com",
   "current": "8938e71cdb3332b8a16eb27a6984c8565ea4643e",
@@ -138,9 +138,9 @@
       "m": "0.17.2"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:43:18Z",
+  "generatedAt": "2026-05-27T12:38:19Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "mmcif",
   "fqn": "nim-mmcif.lucidrains.github.com",
   "current": "b9d196910079d8b2f35c84995268b367b3974ed5",
@@ -428,9 +428,9 @@
       "j": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:38:54Z",
+  "generatedAt": "2026-05-27T12:30:46Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

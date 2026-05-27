@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "supranim_session",
   "fqn": "session.supranim.github.com",
   "current": "790254253c23f56bba45122cc869067f2898b6e1",
@@ -16,9 +16,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:04:57Z",
+  "generatedAt": "2026-05-27T12:37:16Z",
   "allDeps": {
     "packages": [
       "libsodium"

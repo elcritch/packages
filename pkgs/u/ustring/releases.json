@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ustring",
   "fqn": "nim-ustring.rokups.github.com",
   "current": "fabd0f9df8e56282e05391f7067642347eb1aabd",
@@ -34,9 +34,9 @@
       "m": "0.16.1"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:43:22Z",
+  "generatedAt": "2026-05-27T12:38:27Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

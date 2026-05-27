@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "unibs",
   "fqn": "unibs.choltreppe.github.com",
   "current": "8fd57f083cd2f323d4a23eebdbd0f358f6fdeb0d",
@@ -37,9 +37,9 @@
       "m": "1.9.1"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:06:23Z",
+  "generatedAt": "2026-05-27T12:38:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

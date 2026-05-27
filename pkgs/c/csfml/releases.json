@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "csfml",
   "fqn": "nim-csfml.oprypin.github.com",
   "current": "9296116048ac1119e0878ceef980d7db6867ad74",
@@ -48,9 +48,9 @@
       "m": "0.10.1"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:36:16Z",
+  "generatedAt": "2026-05-27T12:25:33Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

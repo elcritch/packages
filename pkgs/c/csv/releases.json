@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "csv",
   "fqn": "nim-csv.achesak.github.com",
   "current": "8b4d78e80142abb161cb81330c46127d8293e377",
@@ -21,9 +21,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:17Z",
+  "generatedAt": "2026-05-27T12:25:35Z",
   "allDeps": {
     "packages": [],
     "urls": [],

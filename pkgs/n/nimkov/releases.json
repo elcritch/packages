@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimkov",
   "fqn": "nimkov.bit0r1n.github.com",
   "current": "ea0a4ce26de8f8d0c64ac8231020e6da442b3a81",
@@ -17,9 +17,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:39:55Z",
+  "generatedAt": "2026-05-27T12:32:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "optionals",
   "fqn": "optionals.MasonMcGill.github.com",
   "current": "41259ef68f080d25912b0609bb8398d1138820c4",
@@ -12,9 +12,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:05Z",
+  "generatedAt": "2026-05-27T12:33:47Z",
   "allDeps": {
     "packages": [],
     "urls": [],

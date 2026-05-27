@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "notetxt",
   "fqn": "nim-notetxt.mrshu.github.com",
   "current": "fa5ac89b1b0733cbcf9a59941c1e567f72b944e9",
@@ -13,9 +13,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:59:23Z",
+  "generatedAt": "2026-05-27T12:33:18Z",
   "allDeps": {
     "packages": [],
     "urls": [],

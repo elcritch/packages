@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "studiobacklottv",
   "fqn": "studiobacklottv.thisago.github.com",
   "current": "d985d244d4013b5cf640361d7bb8f10cff1b3443",
@@ -31,9 +31,9 @@
       "d": "Studio Backlot TV video downloader"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:04:50Z",
+  "generatedAt": "2026-05-27T12:37:09Z",
   "allDeps": {
     "packages": [
       "brightcove",

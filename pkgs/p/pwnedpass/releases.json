@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "pwnedpass",
   "fqn": "pwnedpass.foxoman.github.com",
   "current": "7213b53ba5a4a04ba70d57ce555bf9b1a93cca45",
@@ -91,9 +91,9 @@
       "k": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:41:32Z",
+  "generatedAt": "2026-05-27T12:34:58Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

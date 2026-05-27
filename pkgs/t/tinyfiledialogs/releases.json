@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "tinyfiledialogs",
   "fqn": "nim-tinyfiledialogs.juancarlospaco.github.com",
   "current": "8f4e445463050fb120514228cea0e9cbd9172c11",
@@ -29,9 +29,9 @@
       "m": "1.6.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:05:39Z",
+  "generatedAt": "2026-05-27T12:37:52Z",
   "allDeps": {
     "packages": [],
     "urls": [],

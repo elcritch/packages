@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "zfdbms",
   "fqn": "nim_zfdbms.zendbit.github.com",
   "current": "aae4034aa7dc16df61af9dabcef3498e5fff3507",
@@ -119,9 +119,9 @@
       "m": "1.4.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:44:11Z",
+  "generatedAt": "2026-05-27T12:39:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

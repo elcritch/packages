@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimroutine",
   "fqn": "nim-routine.rogercloud.github.com",
   "current": "74ff85bb9d4e05c72cff1e0736ba1edf8cc45961",
@@ -25,9 +25,9 @@
       "E": "missing nimble file"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:58:48Z",
+  "generatedAt": "2026-05-27T12:32:42Z",
   "allDeps": {
     "packages": [],
     "urls": [],

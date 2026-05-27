@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "sqliteral",
   "fqn": "SQLiteral.olliNiinivaara.github.com",
   "current": "72cb22866138d7e724a5b31b55c2b45470cc1146",
@@ -80,9 +80,9 @@
       "m": "1.2.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:42:17Z",
+  "generatedAt": "2026-05-27T12:36:53Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

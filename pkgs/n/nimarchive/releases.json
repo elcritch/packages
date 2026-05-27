@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimarchive",
   "fqn": "nimarchive.genotrance.github.com",
   "current": "efd663396a692057f30b7e0e455be85f5b0e6d50",
@@ -137,9 +137,9 @@
       "h": true
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:57:35Z",
+  "generatedAt": "2026-05-27T12:31:48Z",
   "allDeps": {
     "packages": [
       "c2nim <= 0.2.1",

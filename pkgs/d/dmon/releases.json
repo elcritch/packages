@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "dmon",
   "fqn": "dmon-nim.elcritch.github.com",
   "current": "b068e274bd5a45e44ef91a337261dd3eee7423b5",
@@ -69,9 +69,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:43Z",
+  "generatedAt": "2026-05-27T12:26:05Z",
   "allDeps": {
     "packages": [
       "chronicles <= 0.3.3",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimi3status",
   "fqn": "nimi3status.FedericoCeratto.github.com",
   "current": "8f070be9c8dee0388feaebc2c9af7af0bf3a0e4d",
@@ -12,9 +12,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:58:20Z",
+  "generatedAt": "2026-05-27T12:32:15Z",
   "allDeps": {
     "packages": [],
     "urls": [],

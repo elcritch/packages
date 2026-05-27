@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "asynctest",
   "fqn": "asynctest.markspanbroek.github.com",
   "current": "572c897a4e1177e905105a3bafe8c5573d9bae83",
@@ -80,9 +80,9 @@
       "x": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:07Z",
+  "generatedAt": "2026-05-27T12:09:08Z",
   "allDeps": {
     "packages": [],
     "urls": [],

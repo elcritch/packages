@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ngspice",
   "fqn": "ngspice.haxscramper.github.com",
   "current": "34e7c1b7b360cd40a89261122a5b50d7d172e308",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:56:48Z",
+  "generatedAt": "2026-05-27T12:31:24Z",
   "allDeps": {
     "packages": [],
     "urls": [],

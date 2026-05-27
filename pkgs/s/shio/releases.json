@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "shio",
   "fqn": "shio.arashi-software.github.com",
   "current": "c06f0de7e4757ac21e15bdca601274ad85af3169",
@@ -20,9 +20,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:03:21Z",
+  "generatedAt": "2026-05-27T12:36:14Z",
   "allDeps": {
     "packages": [
       "asynctools",

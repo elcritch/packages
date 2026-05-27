@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "imgcat",
   "fqn": "imgcat.not-lum.github.com",
   "current": "37b1e7d2688a75a589671f1f5b5c9a992b908db5",
@@ -70,9 +70,9 @@
       "d": "This utility prints pictures in your console"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:53:52Z",
+  "generatedAt": "2026-05-27T12:28:51Z",
   "allDeps": {
     "packages": [
       "argparse > 0.1.0",

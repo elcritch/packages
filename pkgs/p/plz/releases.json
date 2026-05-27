@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "plz",
   "fqn": "nim-pypi.juancarlospaco.github.com",
   "current": "0cefec96334d9eb06335e19fe9f13402a059f7d4",
@@ -20,9 +20,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:41:17Z",
+  "generatedAt": "2026-05-27T12:34:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

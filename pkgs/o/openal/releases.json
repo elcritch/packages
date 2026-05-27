@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "openal",
   "fqn": "openal.treeform.github.com",
   "current": "1686996c840c1aaa224603dafbb19fa0cb842992",
@@ -25,9 +25,9 @@
       "m": "0.18.1"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:40:49Z",
+  "generatedAt": "2026-05-27T12:33:41Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

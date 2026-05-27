@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimlangserver",
   "fqn": "langserver.nim-lang.github.com",
   "current": "b8b924112d074ad54179a4f2dbd6ce6f49623ce4",
@@ -117,9 +117,9 @@
       "m": "1.0.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:39:56Z",
+  "generatedAt": "2026-05-27T12:32:23Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

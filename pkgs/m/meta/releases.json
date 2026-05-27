@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "meta",
   "fqn": "meta.RainbowAsteroids.github.com",
   "current": "e7d6ef89c859d428ff0a2f46520bce3657b4ebfd",
@@ -41,9 +41,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:50Z",
+  "generatedAt": "2026-05-27T12:30:35Z",
   "allDeps": {
     "packages": [],
     "urls": [],

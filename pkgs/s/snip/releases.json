@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "snip",
   "fqn": "snip.genotrance.github.com",
   "current": "62234fcf72f4e09508bea4fd9c0fe920da278eb1",
@@ -44,9 +44,9 @@
       "x": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:42:10Z",
+  "generatedAt": "2026-05-27T12:36:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

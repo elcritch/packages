@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "science",
   "fqn": "nim-science.ruivieira.github.com",
   "current": "6a0bba45d0fc75a295f178924a88e2866018ddab",
@@ -17,9 +17,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:02:12Z",
+  "generatedAt": "2026-05-27T12:35:49Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ngtcp2",
   "fqn": "nim-ngtcp2.status-im.github.com",
   "current": "791eb859145f9f268eb23eb9cbe777bdd7699c4d",
@@ -97,9 +97,9 @@
       "m": "1.2.6"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:39:16Z",
+  "generatedAt": "2026-05-27T12:31:26Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "sdnotify",
   "fqn": "nim-sdnotify.FedericoCeratto.github.com",
   "current": "e1e6861f88a4546db640f5fc88572ccdb933f794",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:02:35Z",
+  "generatedAt": "2026-05-27T12:35:55Z",
   "allDeps": {
     "packages": [],
     "urls": [],

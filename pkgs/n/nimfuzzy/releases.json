@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimfuzzy",
   "fqn": "nimfuzzy.genotrance.github.com",
   "current": "127ed4dceea947e73f4007a4bc2800dc5762357c",
@@ -46,9 +46,9 @@
       "h": true
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:58:11Z",
+  "generatedAt": "2026-05-27T12:32:08Z",
   "allDeps": {
     "packages": [
       "c2nim",

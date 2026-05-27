@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimarrow",
   "fqn": "nimarrow.emef.github.com",
   "current": "6d41a550a09845a91df645507588adf599830da0",
@@ -28,9 +28,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:57:36Z",
+  "generatedAt": "2026-05-27T12:31:48Z",
   "allDeps": {
     "packages": [
       "nimarrow_glib"

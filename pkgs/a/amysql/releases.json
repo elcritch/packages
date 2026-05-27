@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "amysql",
   "fqn": "amysql.bung87.github.com",
   "current": "a202f5335ef5b47d1fabd897999f730c9e7fce20",
@@ -115,9 +115,9 @@
       "y": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:34:14Z",
+  "generatedAt": "2026-05-27T11:53:59Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

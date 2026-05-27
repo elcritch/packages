@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "limiter",
   "fqn": "limiter.supranim.github.com",
   "current": "5bd624a8c1ab9e3d7da55a661a72a9f4a9d10db9",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:15Z",
+  "generatedAt": "2026-05-27T12:29:58Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimclipboard",
   "fqn": "nimclipboard.genotrance.github.com",
   "current": "666f37ce461d6914a7c1818bc31e1ec97593e7bb",
@@ -32,9 +32,9 @@
       "h": true
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:57:53Z",
+  "generatedAt": "2026-05-27T12:31:58Z",
   "allDeps": {
     "packages": [
       "c2nim",

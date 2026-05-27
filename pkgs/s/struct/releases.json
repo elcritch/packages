@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "struct",
   "fqn": "struct.nim.OpenSystemsLab.github.com",
   "current": "b00809c24f4d3e09558cce3d73f02195dda5e175",
@@ -37,9 +37,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:42:25Z",
+  "generatedAt": "2026-05-27T12:37:08Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

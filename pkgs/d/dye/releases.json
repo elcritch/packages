@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "dye",
   "fqn": "dye.Infinitybeond1.github.com",
   "current": "2ec0f24b227e26d7781011876715fadb086966ec",
@@ -187,9 +187,9 @@
       "m": "2.0.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:36:37Z",
+  "generatedAt": "2026-05-27T12:26:17Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

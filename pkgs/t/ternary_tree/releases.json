@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ternary_tree",
   "fqn": "ternary-tree.calcit-lang.github.com",
   "current": "dbf21cca913fc0873ec0e5c5f293f5631f5f7e23",
@@ -158,9 +158,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:42:46Z",
+  "generatedAt": "2026-05-27T12:37:38Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

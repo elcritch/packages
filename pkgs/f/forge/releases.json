@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "forge",
   "fqn": "forge.daylinmorgan.github.com",
   "current": "7519e70e64f336397103b3d967e755d31400848d",
@@ -112,9 +112,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:37:06Z",
+  "generatedAt": "2026-05-27T12:27:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

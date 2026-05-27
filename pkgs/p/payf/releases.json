@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "payf",
   "fqn": "payf.capocasa.github.com",
   "current": "f5fa11b0d146fb4ba4ecb8848ddf34411aab8209",
@@ -20,9 +20,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:24Z",
+  "generatedAt": "2026-05-27T12:34:12Z",
   "allDeps": {
     "packages": [
       "cligen",

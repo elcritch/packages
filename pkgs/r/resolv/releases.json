@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "resolv",
   "fqn": "resolv.nim.mildred.github.com",
   "current": "bcddd47a813872233ec62424278480f01638cb44",
@@ -16,9 +16,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:01:30Z",
+  "generatedAt": "2026-05-27T12:35:28Z",
   "allDeps": {
     "packages": [
       "dnsprotocol",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "fnmatch",
   "fqn": "nim-fnmatch.achesak.github.com",
   "current": "02e9955d9643692c066b318d07ddd4c339712e1e",
@@ -16,9 +16,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:52:11Z",
+  "generatedAt": "2026-05-27T12:27:12Z",
   "allDeps": {
     "packages": [],
     "urls": [],

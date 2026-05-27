@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "x11",
   "fqn": "x11.nim-lang.github.com",
   "current": "29aca5e519ebf5d833f63a6a2769e62ec7bfb83a",
@@ -13,9 +13,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:43:58Z",
+  "generatedAt": "2026-05-27T12:39:17Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

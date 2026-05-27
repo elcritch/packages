@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ladybug",
   "fqn": "nim-ladybug.mahlonsmith.github.com",
   "current": "692eb27e097cffe4b872aea2718c5da80fb41b25",
@@ -89,9 +89,9 @@
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nim-ladybug.mahlonsmith.github.com-f7655092-kuzu.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:45Z",
+  "generatedAt": "2026-05-27T12:29:33Z",
   "allDeps": {
     "packages": [],
     "urls": [],

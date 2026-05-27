@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "illwave",
   "fqn": "illwave.ansiwave.github.com",
   "current": "7558f89925f7c10e52559c80b26c7c090433a5c2",
@@ -37,9 +37,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:53:49Z",
+  "generatedAt": "2026-05-27T12:28:50Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimaterial",
   "fqn": "nimaterial.momeemt.github.com",
   "current": "b00288ec19905cfb3e740903ea898fe5180874c3",
@@ -16,9 +16,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:39:37Z",
+  "generatedAt": "2026-05-27T12:31:49Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

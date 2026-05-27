@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "unchained",
   "fqn": "unchained.SciNim.github.com",
   "current": "426d72a5cd0c48d63fe4747bee8dfb964a9629c0",
@@ -161,9 +161,9 @@
       "m": "1.2.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:06:22Z",
+  "generatedAt": "2026-05-27T12:38:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "camelize",
   "fqn": "camelize.kixixixixi.github.com",
   "current": "0be04a7ffcb86994f9787431fe0f8a3a26f2db67",
@@ -22,9 +22,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:24Z",
+  "generatedAt": "2026-05-27T12:24:38Z",
   "allDeps": {
     "packages": [],
     "urls": [],

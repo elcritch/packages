@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "unicody",
   "fqn": "unicody.guzba.github.com",
   "current": "d18d62440651868241c9ccc1e6aa41c68fc7414b",
@@ -64,9 +64,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:43:18Z",
+  "generatedAt": "2026-05-27T12:38:18Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

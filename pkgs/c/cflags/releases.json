@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "cflags",
   "fqn": "cflags.MCRusher.github.com",
   "current": "518a762e51a0dfff6f787e5b30cfef463b4b4487",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:33Z",
+  "generatedAt": "2026-05-27T12:24:47Z",
   "allDeps": {
     "packages": [],
     "urls": [],

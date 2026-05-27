@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "kiwifyDownload",
   "fqn": "kiwifyDownload.thisago.github.com",
   "current": "13da9d5ffdf5f97d6acdc94b33450965e78ea7a3",
@@ -72,9 +72,9 @@
       "a": "thisago"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:41Z",
+  "generatedAt": "2026-05-27T12:29:29Z",
   "allDeps": {
     "packages": [
       "cligen",

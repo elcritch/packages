@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "timezones",
   "fqn": "timezones.GULPF.github.com",
   "current": "69fe1a22fad95446ae4c262ad88b2035cfc367a0",
@@ -85,9 +85,9 @@
       "i": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:42:58Z",
+  "generatedAt": "2026-05-27T12:37:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ioselectors",
   "fqn": "ioselectors.ringabout.github.com",
   "current": "c9344036936a49db3ff1bce97e0896d6aabcf22d",
@@ -52,9 +52,9 @@
       "a": "flywind"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:37:59Z",
+  "generatedAt": "2026-05-27T12:29:03Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

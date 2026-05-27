@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "simdutf",
   "fqn": "simdutf.ferus-web.github.com",
   "current": "c9ce60944110b10406ec8a6ad312efb31722fd69",
@@ -23,9 +23,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:42:05Z",
+  "generatedAt": "2026-05-27T12:36:21Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

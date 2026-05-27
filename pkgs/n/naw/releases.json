@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "naw",
   "fqn": "naw.capocasa.github.com",
   "current": "dfa0a9c6b99b87fe6c737525c58757655bdcf8c2",
@@ -19,9 +19,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:56:24Z",
+  "generatedAt": "2026-05-27T12:31:08Z",
   "allDeps": {
     "packages": [],
     "urls": [],

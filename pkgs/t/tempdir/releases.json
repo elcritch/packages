@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "tempdir",
   "fqn": "tempdir.nim.euantorano.github.com",
   "current": "2b419f5bdc563efaf9d1b1e8c64448cdd44f3780",
@@ -19,9 +19,9 @@
       "m": "0.16.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:05:13Z",
+  "generatedAt": "2026-05-27T12:37:34Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "dnsdisc",
   "fqn": "nim-dnsdisc.status-im.github.com",
   "current": "6cb1b7e3922645275043c68e476cac1501a45e55",
@@ -39,9 +39,9 @@
       "m": "2.0.10"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:43Z",
+  "generatedAt": "2026-05-27T12:26:06Z",
   "allDeps": {
     "packages": [
       "bearssl",

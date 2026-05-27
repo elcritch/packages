@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "libsndfile",
   "fqn": "nim-libsndfile.bctnry.github.com",
   "current": "9cdd804235728785ab1a613a6cd851d7caa313f6",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:07Z",
+  "generatedAt": "2026-05-27T12:29:51Z",
   "allDeps": {
     "packages": [],
     "urls": [],

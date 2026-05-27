@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "emmy",
   "fqn": "emmy.andreaferretti.github.com",
   "current": "c135a25cc9e899a4c231b6d2a42dd911581d82f0",
@@ -32,9 +32,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:51:01Z",
+  "generatedAt": "2026-05-27T12:26:24Z",
   "allDeps": {
     "packages": [
       "bigints",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "twitter",
   "fqn": "twitter.nim.snus-kin.github.com",
   "current": "bcacb22670cfe67f64ed372afd220deee894e1be",
@@ -28,9 +28,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:43:12Z",
+  "generatedAt": "2026-05-27T12:38:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "azure_translate",
   "fqn": "azure_translate.williamhatcher.github.com",
   "current": "0bffe47bdc59fc0ea4af8b1116e08c135aef1f1a",
@@ -16,9 +16,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:34:39Z",
+  "generatedAt": "2026-05-27T12:17:05Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

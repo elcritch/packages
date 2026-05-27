@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "flatBuffers",
   "fqn": "flatBuffers.Vindaar.github.com",
   "current": "129948c27e3d1231499f2ccd7c6f4836afedd1b7",
@@ -33,9 +33,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:52:07Z",
+  "generatedAt": "2026-05-27T12:27:07Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "gamelight",
   "fqn": "gamelight.dom96.github.com",
   "current": "e0abfd649c53a82e65c26a3fd930c838dbb45caa",
@@ -13,9 +13,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:52:26Z",
+  "generatedAt": "2026-05-27T12:27:32Z",
   "allDeps": {
     "packages": [],
     "urls": [],

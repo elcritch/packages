@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "bitstreams",
   "fqn": "bitstreams.sealmove.github.com",
   "current": "bd5718bd00d78c71b3ef9e48bf968d55d8912ff2",
@@ -12,9 +12,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:01Z",
+  "generatedAt": "2026-05-27T12:23:21Z",
   "allDeps": {
     "packages": [],
     "urls": [],

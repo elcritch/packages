@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "crosscompile",
   "fqn": "nim-crosscompile.juancarlospaco.github.com",
   "current": "11fc502471f4384f14f9606c243e84cfd4b20b5f",
@@ -22,9 +22,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:12Z",
+  "generatedAt": "2026-05-27T12:25:30Z",
   "allDeps": {
     "packages": [
       "zip"

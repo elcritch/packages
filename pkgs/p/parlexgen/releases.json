@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "parlexgen",
   "fqn": "parlexgen.choltreppe.github.com",
   "current": "3a77496ef112974e2b840d4ca18c05eb7538f561",
@@ -128,9 +128,9 @@
       "p": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:20Z",
+  "generatedAt": "2026-05-27T12:34:07Z",
   "allDeps": {
     "packages": [
       "fusion",

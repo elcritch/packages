@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "uuidgen",
   "fqn": "uuidgen.jamesfrancis2004.github.com",
   "current": "b60fa3264bc0358be481b1892108e6ab45241b4a",
@@ -16,9 +16,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:06:43Z",
+  "generatedAt": "2026-05-27T12:38:28Z",
   "allDeps": {
     "packages": [
       "checksums"

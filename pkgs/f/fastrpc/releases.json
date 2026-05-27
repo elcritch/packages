@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "fastrpc",
   "fqn": "fastrpc.elcritch.github.com",
   "current": "73365a4c14eb0db4400c008889560638911d3ac1",
@@ -297,9 +297,9 @@
       }
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:51:28Z",
+  "generatedAt": "2026-05-27T12:26:42Z",
   "allDeps": {
     "packages": [
       "bigints > 0.6.0",

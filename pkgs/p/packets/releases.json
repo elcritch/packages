@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "packets",
   "fqn": "packets.nim.Q-Master.github.com",
   "current": "e2a6f387a3b6e57c9eb71ef147fb2d8ef38415c6",
@@ -118,9 +118,9 @@
       "m": "1.4.00"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:13Z",
+  "generatedAt": "2026-05-27T12:33:58Z",
   "allDeps": {
     "packages": [
       "packedjson <= 0.5.1"

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "paravim",
   "fqn": "paravim.paranim.github.com",
   "current": "b43b6a7493880739bce50ac53cd321ed17b6d935",
@@ -239,9 +239,9 @@
       "m": "1.0.6"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:20Z",
+  "generatedAt": "2026-05-27T12:34:07Z",
   "allDeps": {
     "packages": [
       "glm",

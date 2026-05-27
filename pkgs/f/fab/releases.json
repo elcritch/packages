@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "fab",
   "fqn": "fab.icyphox.github.com",
   "current": "58ea6c8689e7c40cb3e6abc7ab63d31fb45ca592",
@@ -58,9 +58,9 @@
       "m": "0.18.1"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:36:45Z",
+  "generatedAt": "2026-05-27T12:26:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

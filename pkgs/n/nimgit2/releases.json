@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimgit2",
   "fqn": "nimgit2.genotrance.github.com",
   "current": "f217acf5dbecb887205f57b7c20e228009ac18f4",
@@ -59,9 +59,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:58:15Z",
+  "generatedAt": "2026-05-27T12:32:11Z",
   "allDeps": {
     "packages": [
       "cligen",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimboost",
   "fqn": "nimboost.vegansk.github.com",
   "current": "e3a6a736197ab97411d2f7ede7af4d6be76fdf6b",
@@ -128,9 +128,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:39:40Z",
+  "generatedAt": "2026-05-27T12:31:55Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "snappy",
   "fqn": "nim-snappy.status-im.github.com",
   "current": "00bfcef94f8ef6981df5d5b994897f6695badfb2",
@@ -16,9 +16,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:03:55Z",
+  "generatedAt": "2026-05-27T12:36:36Z",
   "allDeps": {
     "packages": [],
     "urls": [],

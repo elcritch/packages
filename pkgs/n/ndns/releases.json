@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ndns",
   "fqn": "nim-ndns.rockcavera.github.com",
   "current": "5dd982eb76bbe2330459f07c9532cabba26499d7",
@@ -48,9 +48,9 @@
       "m": "1.4.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:39:09Z",
+  "generatedAt": "2026-05-27T12:31:13Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

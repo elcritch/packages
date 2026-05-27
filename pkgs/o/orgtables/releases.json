@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "orgtables",
   "fqn": "orgtables.Vindaar.github.com",
   "current": "34d97a920c6b43d5dbd32c2e29ad47bf116f8d65",
@@ -17,9 +17,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:05Z",
+  "generatedAt": "2026-05-27T12:33:49Z",
   "allDeps": {
     "packages": [],
     "urls": [],

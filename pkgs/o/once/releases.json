@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "once",
   "fqn": "once.nim.~euantorano.git.sr.ht",
   "current": "4d52f9034e94c81740e1ef98c8d1d9d4c851a2fc",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:59:55Z",
+  "generatedAt": "2026-05-27T12:33:38Z",
   "allDeps": {
     "packages": [],
     "urls": [],

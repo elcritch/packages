@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "brainfuck",
   "fqn": "nim-brainfuck.def-.github.com",
   "current": "62d0175881b3dbd80d1c48eb36aa0050a07c85dc",
@@ -25,9 +25,9 @@
       "a": "Dennis Felsing"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:13Z",
+  "generatedAt": "2026-05-27T12:24:19Z",
   "allDeps": {
     "packages": [
       "docopt > 1.0",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "base45",
   "fqn": "base45.~ehmry.git.sr.ht",
   "current": "57d13f45f3669f9331b1d3d4696a79c5e39821c2",
@@ -22,9 +22,9 @@
       "p": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:25Z",
+  "generatedAt": "2026-05-27T12:18:07Z",
   "allDeps": {
     "packages": [],
     "urls": [],

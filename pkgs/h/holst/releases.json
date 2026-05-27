@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "holst",
   "fqn": "nim-holst.ruivieira.github.com",
   "current": "1de4bb4a94ec4cc644a5dfc6ad9df93006e94365",
@@ -42,9 +42,9 @@
       "k": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:53:26Z",
+  "generatedAt": "2026-05-27T12:28:31Z",
   "allDeps": {
     "packages": [],
     "urls": [],

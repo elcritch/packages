@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "chat_openai",
   "fqn": "chat_openai-nim.joshuajohncohen.github.com",
   "current": "b74c801dd3f634ae56c69bafac4dab730a99e406",
@@ -34,9 +34,9 @@
       "b": ""
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:35:56Z",
+  "generatedAt": "2026-05-27T12:24:52Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

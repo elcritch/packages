@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "contractabi",
   "fqn": "nim-contract-abi.status-im.github.com",
   "current": "0a7b4cecce725bcb11ad8648035a92704a8854d3",
@@ -157,9 +157,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:06Z",
+  "generatedAt": "2026-05-27T12:25:22Z",
   "allDeps": {
     "packages": [
       "nimcrypto > 0.4.0",

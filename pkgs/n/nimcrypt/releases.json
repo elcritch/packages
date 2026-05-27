@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimcrypt",
   "fqn": "nimcrypt.napalu.github.com",
   "current": "e92a62f67ee13e2484e18117924395c9c347e88d",
@@ -46,9 +46,9 @@
       "m": "1.4.8"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:57:59Z",
+  "generatedAt": "2026-05-27T12:32:00Z",
   "allDeps": {
     "packages": [
       "checksums > 1.0.0",

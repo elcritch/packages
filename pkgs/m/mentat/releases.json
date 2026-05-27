@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "mentat",
   "fqn": "nim-mentat.ruivieira.github.com",
   "current": "759f97c6216845e726429ce2833d162cc17780cf",
@@ -30,9 +30,9 @@
       "m": "0.18.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:38:48Z",
+  "generatedAt": "2026-05-27T12:30:34Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

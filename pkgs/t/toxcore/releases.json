@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "toxcore",
   "fqn": "nim-toxcore.~ehmry.git.sr.ht",
   "current": "d4cd34cc618f0a6b6c684c0a17990834dcb0b599",
@@ -51,9 +51,9 @@
       "m": "0.19.4"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:05:52Z",
+  "generatedAt": "2026-05-27T12:37:59Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ansiutils",
   "fqn": "ansiutils.ansiwave.github.com",
   "current": "65811c1556cd103a060dcf0e08d2d5090633b8fd",
@@ -21,9 +21,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:47:45Z",
+  "generatedAt": "2026-05-27T11:57:00Z",
   "allDeps": {
     "packages": [],
     "urls": [],

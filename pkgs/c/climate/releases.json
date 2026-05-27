@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "climate",
   "fqn": "climate.moigagoo.github.com",
   "current": "fe711e8ef5058b1907d39ac7caa3167a91c338f1",
@@ -48,9 +48,9 @@
       "m": "1.9.1"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:51Z",
+  "generatedAt": "2026-05-27T12:25:06Z",
   "allDeps": {
     "packages": [],
     "urls": [],

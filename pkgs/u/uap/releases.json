@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "uap",
   "fqn": "nim-uap.artemklevtsov.gitlab.com",
   "current": "7c4bfb5dabc9b44fb7755ca6116067f7ac4282d7",
@@ -62,9 +62,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:06:13Z",
+  "generatedAt": "2026-05-27T12:38:12Z",
   "allDeps": {
     "packages": [
       "cligen",

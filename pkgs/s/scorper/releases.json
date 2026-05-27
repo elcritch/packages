@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "scorper",
   "fqn": "scorper.bung87.github.com",
   "current": "de2ee129fb6809be4ac5118bc700d3d7716112e2",
@@ -704,9 +704,9 @@
       "o": {}
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:02:18Z",
+  "generatedAt": "2026-05-27T12:35:53Z",
   "allDeps": {
     "packages": [
       "asynctest > 1.0.12 & <= 1.0.18",

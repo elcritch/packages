@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "dnsstamps2",
   "fqn": "nim-dnsstamps2.rockcavera.github.com",
   "current": "16be2b0701c89f50b31ce39edb9ff61bb5854ff2",
@@ -16,9 +16,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:44Z",
+  "generatedAt": "2026-05-27T12:26:07Z",
   "allDeps": {
     "packages": [
       "results",

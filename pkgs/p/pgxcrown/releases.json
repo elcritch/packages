@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "pgxcrown",
   "fqn": "pgxcrown.luisacosta828.github.com",
   "current": "e9f1ea6c1162b2cdef1cde12e527408662557fcc",
@@ -599,9 +599,9 @@
       "e": ""
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:30Z",
+  "generatedAt": "2026-05-27T12:34:18Z",
   "allDeps": {
     "packages": [],
     "urls": [],

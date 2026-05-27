@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "finder",
   "fqn": "finder.bung87.github.com",
   "current": "03be27007be27b2e4f101cfcfe0bde0e90bd4582",
@@ -34,9 +34,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:52:03Z",
+  "generatedAt": "2026-05-27T12:27:03Z",
   "allDeps": {
     "packages": [
       "zip <= 0.1.1",

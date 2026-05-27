@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "casting",
   "fqn": "nim-casting.sls1005.github.com",
   "current": "4cb082f83b33f8d461cc72e4c95933e511451467",
@@ -13,9 +13,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:27Z",
+  "generatedAt": "2026-05-27T12:24:43Z",
   "allDeps": {
     "packages": [],
     "urls": [],

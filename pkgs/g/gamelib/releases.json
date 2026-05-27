@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "gamelib",
   "fqn": "SDLGamelib.PMunch.github.com",
   "current": "1b4baefbe9f80b4cf865487a4e44d20226381958",
@@ -16,9 +16,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:52:25Z",
+  "generatedAt": "2026-05-27T12:27:29Z",
   "allDeps": {
     "packages": [],
     "urls": [],

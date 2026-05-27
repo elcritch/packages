@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "NiMPC",
   "fqn": "nimpc.markspanbroek.github.com",
   "current": "fd3af16e025259ed1da11fb65e7c6e1af33384fc",
@@ -51,9 +51,9 @@
       "m": "0.20.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:47:22Z",
+  "generatedAt": "2026-05-27T11:39:20Z",
   "allDeps": {
     "packages": [
       "cligen",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "metacall",
   "fqn": "core.metacall.github.com",
   "current": "94252cc0d75a03cb12163f3d74008bd4e4288964",
@@ -285,6 +285,12 @@
     },
     {
       "v": "0.5.20@4f89abb4f92c9b840276a277c960b6e4c64ab811",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    },
+    {
+      "v": "0.5.19@65517f7a91bfa8d3cbc6d0065670ae3d4f860f4d",
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file"
@@ -1154,9 +1160,9 @@
       "E": "missing nimble file"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:38:52Z",
+  "generatedAt": "2026-05-27T12:30:39Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

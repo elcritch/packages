@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "njsdb",
   "fqn": "nim-simpledb.bung87.github.com",
   "current": "2d08e20b2ceeed0918aa063cd62c4d2da73f420b",
@@ -23,9 +23,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:59:08Z",
+  "generatedAt": "2026-05-27T12:33:02Z",
   "allDeps": {
     "packages": [
       "classes <= 0.1.2",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ago",
   "fqn": "ago.daehee.github.com",
   "current": "de420118c02fe2ad57f4b7e3d0affdb4e3bc60ee",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:47:37Z",
+  "generatedAt": "2026-05-27T11:46:08Z",
   "allDeps": {
     "packages": [],
     "urls": [],

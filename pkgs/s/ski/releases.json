@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ski",
   "fqn": "ski.jiro4989.github.com",
   "current": "7937592ed8f1439cc3bf0c677112381e9b5b9ba1",
@@ -28,9 +28,9 @@
       "d": "ski is library for SKI combinator."
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:03:44Z",
+  "generatedAt": "2026-05-27T12:36:28Z",
   "allDeps": {
     "packages": [],
     "urls": [],

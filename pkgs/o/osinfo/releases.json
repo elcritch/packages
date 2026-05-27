@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "osinfo",
   "fqn": "osinfo.nim-lang.github.com",
   "current": "437486dff62eb9d91ab1e55c780f84dd0d225e2b",
@@ -30,9 +30,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:07Z",
+  "generatedAt": "2026-05-27T12:33:52Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimbass",
   "fqn": "nimbass.genotrance.github.com",
   "current": "0e0786bb2959a130c2d78fe14c9ae087f36449ea",
@@ -38,9 +38,9 @@
       "h": true
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:57:40Z",
+  "generatedAt": "2026-05-27T12:31:51Z",
   "allDeps": {
     "packages": [
       "c2nim <= 0.1.3",

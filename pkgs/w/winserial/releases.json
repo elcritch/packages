@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "winserial",
   "fqn": "winserial.bunkford.github.com",
   "current": "7603076ae8144861f660219375048dda4e8e4bfd",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:07:33Z",
+  "generatedAt": "2026-05-27T12:39:09Z",
   "allDeps": {
     "packages": [],
     "urls": [],

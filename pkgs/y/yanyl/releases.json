@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "yanyl",
   "fqn": "yanyl.tanelso2.github.com",
   "current": "4304089cabbc61bac64192874faf34250a56a6e2",
@@ -101,9 +101,9 @@
       "m": "1.6.8"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:44:07Z",
+  "generatedAt": "2026-05-27T12:39:33Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

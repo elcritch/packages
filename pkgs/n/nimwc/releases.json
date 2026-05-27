@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimwc",
   "fqn": "nim_websitecreator.ThomasTJdev.github.com",
   "current": "fe5d5d55648d571206be5b5c00fab6f6a9266b87",
@@ -656,9 +656,9 @@
       "m": "1.0.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:40:19Z",
+  "generatedAt": "2026-05-27T12:32:57Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

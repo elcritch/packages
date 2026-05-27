@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "katabase",
   "fqn": "katabase.zendbit.github.com",
   "current": "ab23aba0efa34d3e5c990c2ea5e301b3e6c87ed6",
@@ -250,9 +250,9 @@
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/katabase.zendbit.github.com-2d887e8a-katabase.nimble\ncannot resolve package name: dbconnector"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:38:11Z",
+  "generatedAt": "2026-05-27T12:29:26Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

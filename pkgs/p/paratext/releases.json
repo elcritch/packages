@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "paratext",
   "fqn": "paratext.paranim.github.com",
   "current": "a88675ea691b63a5fba8067fa9b2aa54644978c1",
@@ -88,9 +88,9 @@
       "m": "1.0.6"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:19Z",
+  "generatedAt": "2026-05-27T12:34:05Z",
   "allDeps": {
     "packages": [
       "glm <= 0.9.0",

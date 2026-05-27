@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "redux",
   "fqn": "redux.nim.pragmagic.github.com",
   "current": "57fab940eae546ba6c4bb059c98fca17bb8691fd",
@@ -13,9 +13,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:01:26Z",
+  "generatedAt": "2026-05-27T12:35:24Z",
   "allDeps": {
     "packages": [],
     "urls": [],

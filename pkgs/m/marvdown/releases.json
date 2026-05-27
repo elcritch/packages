@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "marvdown",
   "fqn": "marvdown.openpeeps.github.com",
   "current": "faa5a123c540b1f00cd0861b25b0f1e408ae6c77",
@@ -25,9 +25,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:42Z",
+  "generatedAt": "2026-05-27T12:30:26Z",
   "allDeps": {
     "packages": [
       "ansiparse",

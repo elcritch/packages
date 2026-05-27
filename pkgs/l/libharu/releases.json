@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "libharu",
   "fqn": "libharu.z-kk.github.com",
   "current": "c2adeb84243a21064542f405c7fae9da0d620166",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:59Z",
+  "generatedAt": "2026-05-27T12:29:46Z",
   "allDeps": {
     "packages": [],
     "urls": [],

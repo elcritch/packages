@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "pcsc",
   "fqn": "pcsc-nim.mmlado.github.com",
   "current": "5a9156c4e9f76a98b90808e726d4c0c0a8bf6d36",
@@ -25,9 +25,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:41:05Z",
+  "generatedAt": "2026-05-27T12:34:13Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

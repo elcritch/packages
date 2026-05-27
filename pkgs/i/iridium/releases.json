@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "iridium",
   "fqn": "Iridium.KingDarBoja.github.com",
   "current": "02d858ada126b0ad2c3dc73ad81104713ac8f6a6",
@@ -37,9 +37,9 @@
       "i": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:11Z",
+  "generatedAt": "2026-05-27T12:29:05Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "preserves",
   "fqn": "preserves-nim.ehmry.git.syndicate-lang.org",
   "current": "872b008e192f361b70210e05d7259d9f715f9a17",
@@ -398,9 +398,9 @@
       "p": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:54Z",
+  "generatedAt": "2026-05-27T12:34:45Z",
   "allDeps": {
     "packages": [
       "npeg > 1.20260526 & <= 20240523"

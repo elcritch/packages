@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "measuremancer",
   "fqn": "Measuremancer.SciNim.github.com",
   "current": "9d9dacb0f131f099704d026cbbddc97024985a59",
@@ -53,9 +53,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:48Z",
+  "generatedAt": "2026-05-27T12:30:33Z",
   "allDeps": {
     "packages": [],
     "urls": [],

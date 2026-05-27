@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "memlib",
   "fqn": "memlib.khchen.github.com",
   "current": "0c46ef5e803160a9eab867d5ba0fcdb307aaa492",
@@ -38,9 +38,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:49Z",
+  "generatedAt": "2026-05-27T12:30:34Z",
   "allDeps": {
     "packages": [
       "winim"

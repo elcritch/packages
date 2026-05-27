@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "windy",
   "fqn": "windy.treeform.github.com",
   "current": "7885250d8ad8cde0aac3f231105881db8457c23b",
@@ -127,9 +127,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:43:47Z",
+  "generatedAt": "2026-05-27T12:39:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

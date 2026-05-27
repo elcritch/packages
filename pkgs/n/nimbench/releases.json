@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimbench",
   "fqn": "nimbench.ivankoster.github.com",
   "current": "48257dd66fbe9fa3aec034fdcf1cc7ef32fd90d6",
@@ -27,9 +27,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:39:38Z",
+  "generatedAt": "2026-05-27T12:31:50Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

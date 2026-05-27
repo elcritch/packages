@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "delaunay",
   "fqn": "DelaunayNim.Nycto.github.com",
   "current": "78fc72882ee7aaf5e25dcf66f4429ebba1e8cc07",
@@ -12,9 +12,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:32Z",
+  "generatedAt": "2026-05-27T12:25:52Z",
   "allDeps": {
     "packages": [],
     "urls": [],

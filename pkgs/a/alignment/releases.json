@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "alignment",
   "fqn": "alignment.jiro4989.github.com",
   "current": "1c30eb39401fd2dc31beb61f056182010bf0b1b9",
@@ -53,9 +53,9 @@
       "m": "0.19.6"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:34:12Z",
+  "generatedAt": "2026-05-27T11:48:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimfp",
   "fqn": "nimfp.vegansk.github.com",
   "current": "17131f3f86c3640efd0a2fbc1284cd76b2e6820d",
@@ -171,9 +171,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:39:48Z",
+  "generatedAt": "2026-05-27T12:32:08Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

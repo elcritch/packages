@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "grpc",
   "fqn": "nim-grpc.nitely.github.com",
   "current": "b7a8aee2c28e2ba989d51ff4bc619b5854325dcd",
@@ -189,9 +189,9 @@
       "m": "2.0.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:37:29Z",
+  "generatedAt": "2026-05-27T12:28:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

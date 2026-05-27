@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "grAlg",
   "fqn": "gralg.c-blake.github.com",
   "current": "f1f7d991295448502e8aee723dd2aa41c02634d7",
@@ -97,9 +97,9 @@
       "p": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:37:27Z",
+  "generatedAt": "2026-05-27T12:28:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

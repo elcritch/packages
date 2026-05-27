@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "rmq_statsd",
   "fqn": "rmq-statsd.nim.Q-Master.github.com",
   "current": "99801806ba65a12430262da8d8a26116511e80b2",
@@ -55,9 +55,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:01:34Z",
+  "generatedAt": "2026-05-27T12:35:33Z",
   "allDeps": {
     "packages": [
       "amqpstats",

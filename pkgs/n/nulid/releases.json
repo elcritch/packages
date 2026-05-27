@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nulid",
   "fqn": "NULID.The-Ticking-Clockwork.github.com",
   "current": "59d884d18fc9f7679d0bc9b317c2376bf1d5d257",
@@ -103,9 +103,9 @@
       "a": "Mythical Forest Collective"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:59:37Z",
+  "generatedAt": "2026-05-27T12:33:26Z",
   "allDeps": {
     "packages": [
       "crockfordb32",

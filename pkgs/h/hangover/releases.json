@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "hangover",
   "fqn": "hangover.bob16795.github.com",
   "current": "943ba35907685e6fe21019d6f348fddfc3b8e096",
@@ -49,9 +49,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:53:08Z",
+  "generatedAt": "2026-05-27T12:28:16Z",
   "allDeps": {
     "packages": [
       "freetype <= 0.1.1",

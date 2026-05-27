@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "triplets",
   "fqn": "Data.Triplets.linksplatform.github.com",
   "current": "cf7bf6c2bde297faaa2cd27b77890a9c8ad5272c",
@@ -63,9 +63,9 @@
       "E": "missing nimble file"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:43:10Z",
+  "generatedAt": "2026-05-27T12:38:07Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

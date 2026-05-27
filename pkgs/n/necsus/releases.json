@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "necsus",
   "fqn": "Necsus.NecsusECS.github.com",
   "current": "df1eeb6bf7ce470ed58820b4030548b316602c98",
@@ -100,9 +100,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:39:11Z",
+  "generatedAt": "2026-05-27T12:31:16Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

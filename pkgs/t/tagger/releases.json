@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "tagger",
   "fqn": "tagger.aruZeta.github.com",
   "current": "ff1f1812bdc8012c6c3876164e89cb6a56ab3662",
@@ -18,9 +18,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:42:34Z",
+  "generatedAt": "2026-05-27T12:37:26Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "migrate",
   "fqn": "migrate.nim.euantorano.github.com",
   "current": "e66d76ff8af0de1eaa3c0a1efccd0770b20fbb80",
@@ -18,9 +18,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:54Z",
+  "generatedAt": "2026-05-27T12:30:40Z",
   "allDeps": {
     "packages": [
       "docopt",

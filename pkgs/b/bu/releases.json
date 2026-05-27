@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "bu",
   "fqn": "bu.c-blake.github.com",
   "current": "eccc61eee9713656291956cd5f80f87a3d2da7a4",
@@ -4990,9 +4990,9 @@
       "m": "1.6.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:35:48Z",
+  "generatedAt": "2026-05-27T12:24:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

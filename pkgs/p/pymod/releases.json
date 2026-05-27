@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "pymod",
   "fqn": "nim-pymod.jboy.github.com",
   "current": "3e4c49afdfdab2c3325588b6b823c102f22fc588",
@@ -12,9 +12,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:01:09Z",
+  "generatedAt": "2026-05-27T12:35:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

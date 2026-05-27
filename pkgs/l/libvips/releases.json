@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "libvips",
   "fqn": "libvips-nim.openpeeps.github.com",
   "current": "b2198189070cd1512b6c67044f856530ab4bd983",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:13Z",
+  "generatedAt": "2026-05-27T12:29:56Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "dekao",
   "fqn": "dekao.ajusa.github.com",
   "current": "64f392fc6af423d949d3c99ee0343b8b7fdba59e",
@@ -26,9 +26,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:36:25Z",
+  "generatedAt": "2026-05-27T12:25:50Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

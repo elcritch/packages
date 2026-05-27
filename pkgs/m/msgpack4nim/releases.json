@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "msgpack4nim",
   "fqn": "msgpack4nim.jangko.github.com",
   "current": "d34532782837553acc4fe1abaf422284b54b837b",
@@ -45,9 +45,9 @@
       "m": "0.18.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:39:00Z",
+  "generatedAt": "2026-05-27T12:30:57Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

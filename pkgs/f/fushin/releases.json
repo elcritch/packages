@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "fushin",
   "fqn": "fushin.eggplants.github.com",
   "current": "6e4ae35c8a5f1a50fff473983affd5c51a65836b",
@@ -31,9 +31,9 @@
       "d": "Fetch fushinsha serif data and save as csv files"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:37:10Z",
+  "generatedAt": "2026-05-27T12:27:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

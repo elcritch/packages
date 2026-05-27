@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "zmq",
   "fqn": "nim-zmq.nim-lang.github.com",
   "current": "a87c4a06e42fc071ce5836713f2b5a3b8ba77b81",
@@ -70,9 +70,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:44:15Z",
+  "generatedAt": "2026-05-27T12:39:39Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

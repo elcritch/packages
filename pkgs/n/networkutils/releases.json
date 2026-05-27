@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "networkutils",
   "fqn": "networkutils.nim.Q-Master.github.com",
   "current": "7a2e5c255d4e40e5a6431c11b86e9d3cb7e0ce06",
@@ -69,9 +69,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:56:41Z",
+  "generatedAt": "2026-05-27T12:31:21Z",
   "allDeps": {
     "packages": [
       "ptr_math"

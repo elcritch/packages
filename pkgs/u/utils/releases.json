@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "utils",
   "fqn": "utils.nim-appkit.github.com",
   "current": "95fecae378fffc204bd326ded6f41b69da5786a0",
@@ -13,9 +13,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:06:42Z",
+  "generatedAt": "2026-05-27T12:38:27Z",
   "allDeps": {
     "packages": [],
     "urls": [],

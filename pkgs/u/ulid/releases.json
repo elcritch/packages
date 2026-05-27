@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ulid",
   "fqn": "ulid.adelq.github.com",
   "current": "2a5cbf7c50edf267b3010aa851593720f926af89",
@@ -23,9 +23,9 @@
       "m": "0.16.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:06:20Z",
+  "generatedAt": "2026-05-27T12:38:14Z",
   "allDeps": {
     "packages": [
       "random"

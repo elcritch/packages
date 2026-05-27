@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "des",
   "fqn": "des.nim.LucaWolf.github.com",
   "current": "1fe5f4f88d3e5fda44ed0093024a5a162626656b",
@@ -87,9 +87,9 @@
       "p": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:35Z",
+  "generatedAt": "2026-05-27T12:25:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

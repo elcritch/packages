@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "web",
   "fqn": "web.thing-king.github.com",
   "current": "807103593cd8b0c5982c0edf60b653b23a919b8f",
@@ -31,9 +31,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:07:08Z",
+  "generatedAt": "2026-05-27T12:38:47Z",
   "allDeps": {
     "packages": [
       "css",

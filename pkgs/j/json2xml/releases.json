@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "json2xml",
   "fqn": "json2xml.MhedhebiIssam.github.com",
   "current": "a3baf39063a80d997cbb68c393ae443ffa35d96f",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:24Z",
+  "generatedAt": "2026-05-27T12:29:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

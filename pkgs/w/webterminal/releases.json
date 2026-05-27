@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "webterminal",
   "fqn": "webterminal.JohnAD.github.com",
   "current": "5c07ea85d2cfdd055cde755a117f50244d6c0021",
@@ -19,9 +19,9 @@
       "m": "0.18.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:43:39Z",
+  "generatedAt": "2026-05-27T12:38:55Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

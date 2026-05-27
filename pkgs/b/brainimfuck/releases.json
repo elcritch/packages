@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "brainimfuck",
   "fqn": "brainimfuck.nirokay.github.com",
   "current": "615e4c65223fa3bbc7894f998da511ea9f13aa1d",
@@ -17,9 +17,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:35:44Z",
+  "generatedAt": "2026-05-27T12:24:21Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

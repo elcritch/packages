@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "leopard",
   "fqn": "nim-leopard.status-im.github.com",
   "current": "0478b12df90cbbe531efa69422cff67b5a3a5d93",
@@ -36,9 +36,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:51Z",
+  "generatedAt": "2026-05-27T12:29:39Z",
   "allDeps": {
     "packages": [
       "results",

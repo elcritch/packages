@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimvault",
   "fqn": "nimvault.HaoZeke.github.com",
   "current": "969d663c66a7ec3594cb92f6eb60bf8decb272ec",
@@ -35,9 +35,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:40:15Z",
+  "generatedAt": "2026-05-27T12:32:52Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

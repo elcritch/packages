@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "htest",
   "fqn": "HTest.Yandall.github.com",
   "current": "236f95e35e1946e86a0c3df9e416b461dd0e874c",
@@ -23,9 +23,9 @@
       "m": "1.6.8"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:37:44Z",
+  "generatedAt": "2026-05-27T12:28:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

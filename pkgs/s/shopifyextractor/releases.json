@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "shopifyextractor",
   "fqn": "shopifyextractor.thisago.github.com",
   "current": "5b23a11c4ce1bc9eec59434b74913ec00befb76f",
@@ -24,9 +24,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:03:25Z",
+  "generatedAt": "2026-05-27T12:36:16Z",
   "allDeps": {
     "packages": [
       "nimquery",

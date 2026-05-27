@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "selenimum",
   "fqn": "selenimum.myamyu.github.com",
   "current": "df2f5d013ba5475c3b771e156fd23eabe3067b38",
@@ -33,9 +33,9 @@
       "m": "1.4.8"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:41:57Z",
+  "generatedAt": "2026-05-27T12:36:00Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

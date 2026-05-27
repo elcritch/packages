@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ctrulib",
   "fqn": "ctrulib-nim.skyforce77.github.com",
   "current": "e7c019ef02cbedadf61186ee3f1e93c9d18776cd",
@@ -12,9 +12,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:19Z",
+  "generatedAt": "2026-05-27T12:25:37Z",
   "allDeps": {
     "packages": [],
     "urls": [],

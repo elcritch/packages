@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "commandeer",
   "fqn": "commandeer.fenekku.github.com",
   "current": "d8f246703de3c17763a492c8f8ab53ffd8542a28",
@@ -115,9 +115,9 @@
       "j": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:36:09Z",
+  "generatedAt": "2026-05-27T12:25:17Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

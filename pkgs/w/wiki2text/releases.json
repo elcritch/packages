@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "wiki2text",
   "fqn": "wiki2text.rspeer.github.com",
   "current": "1859b9e336c8cdbb698b6b1a24cb077e18c094e5",
@@ -20,9 +20,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:07:24Z",
+  "generatedAt": "2026-05-27T12:39:02Z",
   "allDeps": {
     "packages": [],
     "urls": [],

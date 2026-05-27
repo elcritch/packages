@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ducominer",
   "fqn": "ducominer.its5Q.github.com",
   "current": "d8c767db67c3f40569b445601090faf956b56e12",
@@ -35,9 +35,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:36:35Z",
+  "generatedAt": "2026-05-27T12:26:13Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

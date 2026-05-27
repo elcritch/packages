@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "todoist",
   "fqn": "nim-todoist.ruivieira.github.com",
   "current": "ff444663fca6a23f79b0a4f5dc214f38eccb0a80",
@@ -26,9 +26,9 @@
       "m": "1.4.8"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:05:46Z",
+  "generatedAt": "2026-05-27T12:37:55Z",
   "allDeps": {
     "packages": [
       "jsony > 0.1.1"

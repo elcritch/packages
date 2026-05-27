@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "npg",
   "fqn": "npg.rustomax.github.com",
   "current": "23ee913f6829600b61dc0ea98d52f673f083eebe",
@@ -26,9 +26,9 @@
       "m": "1.0.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:59:27Z",
+  "generatedAt": "2026-05-27T12:33:21Z",
   "allDeps": {
     "packages": [
       "nimcrypto",

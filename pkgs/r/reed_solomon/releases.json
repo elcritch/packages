@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "reed_solomon",
   "fqn": "Reed-Solomon.lscrd.github.com",
   "current": "ee3548a988bf6975e4ec5d26bbcc76b6064943c5",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:41:42Z",
+  "generatedAt": "2026-05-27T12:35:25Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

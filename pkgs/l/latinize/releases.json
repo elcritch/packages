@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "latinize",
   "fqn": "Latinize.AmanoTeam.github.com",
   "current": "473843019098dec2a5825700bd98abda8e57aa1f",
@@ -20,9 +20,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:38:17Z",
+  "generatedAt": "2026-05-27T12:29:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "icedhash",
   "fqn": "icedhash.IcedQuinn.github.com",
   "current": "01ebeee88a4ca4f3f16897b5f9975bdd8098053c",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:53:47Z",
+  "generatedAt": "2026-05-27T12:28:48Z",
   "allDeps": {
     "packages": [],
     "urls": [],

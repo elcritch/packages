@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "dashing",
   "fqn": "nim-dashing.FedericoCeratto.github.com",
   "current": "09a8ee027582521d4cffc98ba7c51c41520d9ee8",
@@ -16,9 +16,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:22Z",
+  "generatedAt": "2026-05-27T12:25:41Z",
   "allDeps": {
     "packages": [],
     "urls": [],

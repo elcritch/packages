@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "intervalsets",
   "fqn": "intervalsets.autumngray.github.com",
   "current": "06f5fa29bd07c8748c403b810091309305c294c4",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:02Z",
+  "generatedAt": "2026-05-27T12:29:00Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ws",
   "fqn": "ws.treeform.github.com",
   "current": "c9c0c7b51e2e83cc9305a895a0b144a297b4bea8",
@@ -63,9 +63,9 @@
       "m": "0.19.6"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:43:56Z",
+  "generatedAt": "2026-05-27T12:39:15Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

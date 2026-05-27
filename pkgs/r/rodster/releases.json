@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "rodster",
   "fqn": "rodster.j-a-s-d.github.com",
   "current": "31b64a28a27b4e162441d67ea9998d8cc72223a3",
@@ -52,9 +52,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:41:46Z",
+  "generatedAt": "2026-05-27T12:35:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

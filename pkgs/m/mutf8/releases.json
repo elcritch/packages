@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "mutf8",
   "fqn": "MUTF-8.The-Ticking-Clockwork.github.com",
   "current": "5e888d575d5c3a77d88bceaf85efe2768a3bbc29",
@@ -18,9 +18,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:56:15Z",
+  "generatedAt": "2026-05-27T12:31:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

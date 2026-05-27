@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimfastText",
   "fqn": "nimfastText.genotrance.github.com",
   "current": "f77323374339cc90a472e953be1d2e4c1f5f0404",
@@ -26,9 +26,9 @@
       "h": true
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:58:08Z",
+  "generatedAt": "2026-05-27T12:32:06Z",
   "allDeps": {
     "packages": [
       "c2nim",

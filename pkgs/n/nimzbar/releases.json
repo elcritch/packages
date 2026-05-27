@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimzbar",
   "fqn": "nimzbar.genotrance.github.com",
   "current": "2ff94c08f206dd4de81dea91db3a9883dbe560d2",
@@ -25,9 +25,9 @@
       "h": true
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:59:04Z",
+  "generatedAt": "2026-05-27T12:32:58Z",
   "allDeps": {
     "packages": [
       "c2nim",

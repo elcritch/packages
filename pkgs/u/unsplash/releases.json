@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "unsplash",
   "fqn": "nim-unsplash.juancarlospaco.github.com",
   "current": "3ca0a9f6c1c1d7dbae79d617ccdea154204eb856",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:43:20Z",
+  "generatedAt": "2026-05-27T12:38:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

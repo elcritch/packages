@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "jsonpak",
   "fqn": "jsonpak.planetis-m.github.com",
   "current": "8f9597b5e3b38c868d4c64798557fbc4eb366921",
@@ -30,9 +30,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:27Z",
+  "generatedAt": "2026-05-27T12:29:18Z",
   "allDeps": {
     "packages": [],
     "urls": [],

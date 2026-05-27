@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "fae",
   "fqn": "fae.h3rald.github.com",
   "current": "19479c7091968a79b96bd250a9dd89e579437c39",
@@ -23,9 +23,9 @@
       "h": true
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:36:45Z",
+  "generatedAt": "2026-05-27T12:26:39Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

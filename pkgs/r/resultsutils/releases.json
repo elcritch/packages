@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "resultsutils",
   "fqn": "resultsutils.nonnil.github.com",
   "current": "35822a2355a6c9821050ade0517312a6f3356fa1",
@@ -61,9 +61,9 @@
       "j": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:01:31Z",
+  "generatedAt": "2026-05-27T12:35:29Z",
   "allDeps": {
     "packages": [
       "results"

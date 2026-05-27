@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "libkeepass",
   "fqn": "libkeepass.PMunch.github.com",
   "current": "a4de15a9121e50d782ddb108c4f8ba14bb61dbb1",
@@ -26,9 +26,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:00Z",
+  "generatedAt": "2026-05-27T12:29:46Z",
   "allDeps": {
     "packages": [
       "chacha20",

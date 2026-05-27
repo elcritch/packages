@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "opencl",
   "fqn": "opencl.nim-lang.github.com",
   "current": "7b138ac19d7f5452a74742392ffadac3d26ee397",
@@ -18,9 +18,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:40:50Z",
+  "generatedAt": "2026-05-27T12:33:41Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

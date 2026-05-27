@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "filesize",
   "fqn": "filesize.sergiotapia.github.com",
   "current": "f3ea51bde207462e37e4fc9a9e10326658c70e73",
@@ -25,9 +25,9 @@
       "m": "2.0.4"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:51:58Z",
+  "generatedAt": "2026-05-27T12:26:59Z",
   "allDeps": {
     "packages": [],
     "urls": [],

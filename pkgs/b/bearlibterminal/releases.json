@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "bearlibterminal",
   "fqn": "BearLibTerminal-Nim.irskep.github.com",
   "current": "8f5a33c34c7372dd07e7753c9fdfd6fc95c6e07a",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:36Z",
+  "generatedAt": "2026-05-27T12:20:12Z",
   "allDeps": {
     "packages": [],
     "urls": [],

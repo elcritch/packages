@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "shene",
   "fqn": "shene.ringabout.github.com",
   "current": "451dcac2a01000b09759a79dfdc07ad225579a5a",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:03:19Z",
+  "generatedAt": "2026-05-27T12:36:12Z",
   "allDeps": {
     "packages": [],
     "urls": [],

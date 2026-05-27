@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "maybe",
   "fqn": "maybe.superfunc.github.com",
   "current": "f8b80750a6f08cdfcf16cc1e2d79815392244a6a",
@@ -26,9 +26,9 @@
       "x": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:38:45Z",
+  "generatedAt": "2026-05-27T12:30:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

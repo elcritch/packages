@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "colorize",
   "fqn": "colorize.molnarmark.github.com",
   "current": "39435f76aa0ec3a30b027e913aa95a9e427d45f0",
@@ -17,9 +17,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:59Z",
+  "generatedAt": "2026-05-27T12:25:15Z",
   "allDeps": {
     "packages": [],
     "urls": [],

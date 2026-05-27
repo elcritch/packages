@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "beacon_chain",
   "fqn": "nimbus-eth2.status-im.github.com",
   "current": "6fb05f36804d53c2e8e014cfeeea8ad7996a5efe",
@@ -4213,9 +4213,9 @@
       "o": {}
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:35:41Z",
+  "generatedAt": "2026-05-27T12:20:33Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

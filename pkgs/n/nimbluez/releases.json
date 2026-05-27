@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimbluez",
   "fqn": "NimBluez.Electric-Blue.github.com",
   "current": "8368aaaf3450f0f57a7505f8a676d33b9e6f3399",
@@ -26,9 +26,9 @@
       "m": "0.12.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:39:39Z",
+  "generatedAt": "2026-05-27T12:31:53Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

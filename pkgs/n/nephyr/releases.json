@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nephyr",
   "fqn": "nephyr.EmbeddedNim.github.com",
   "current": "c2c29c5acaad56ee78e798d5b1c5b695ddc71b82",
@@ -25,9 +25,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:39:11Z",
+  "generatedAt": "2026-05-27T12:31:17Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

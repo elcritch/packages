@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "glbits",
   "fqn": "glbits.rlipsc.github.com",
   "current": "456a3c8962d2447e48e5c4f4e4b7da1b2ec3010a",
@@ -41,9 +41,9 @@
       "m": "1.0.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:52:50Z",
+  "generatedAt": "2026-05-27T12:27:55Z",
   "allDeps": {
     "packages": [],
     "urls": [],

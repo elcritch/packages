@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "quic",
   "fqn": "nim-quic.vacp2p.github.com",
   "current": "6d8678a159bfb902f9725f0081d542134cd93916",
@@ -307,9 +307,9 @@
       "m": "1.6.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:41:38Z",
+  "generatedAt": "2026-05-27T12:35:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

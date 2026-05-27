@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "tinydialogs",
   "fqn": "tinydialogs.Patitotective.github.com",
   "current": "c8d2450501a01ef02edd100629e5c716f3cfacba",
@@ -29,9 +29,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:42:58Z",
+  "generatedAt": "2026-05-27T12:37:52Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

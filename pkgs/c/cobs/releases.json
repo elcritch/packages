@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "cobs",
   "fqn": "nim_cobs.keyme.github.com",
   "current": "a2fa5ab0bca493e5b0c0806f5b0c3fbfda76fa23",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:57Z",
+  "generatedAt": "2026-05-27T12:25:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

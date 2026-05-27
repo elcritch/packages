@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "testrunner",
   "fqn": "nim-testrunner.FedericoCeratto.github.com",
   "current": "aabb86b6f3268fe03564a393e9e45319cae1101c",
@@ -16,9 +16,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:05:20Z",
+  "generatedAt": "2026-05-27T12:37:40Z",
   "allDeps": {
     "packages": [],
     "urls": [],

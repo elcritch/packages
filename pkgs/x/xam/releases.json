@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "xam",
   "fqn": "xam.j-a-s-d.github.com",
   "current": "9d44f7851511e41bd6ecf8fb6754433e80f25d2e",
@@ -82,9 +82,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:43:58Z",
+  "generatedAt": "2026-05-27T12:39:17Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

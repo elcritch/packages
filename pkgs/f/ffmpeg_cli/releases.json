@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ffmpeg_cli",
   "fqn": "nim-ffmpeg-cli.termer.git.termer.net",
   "current": "bf0511a7e2345f1b2d753391b9c5e98e5bf308ba",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:51:44Z",
+  "generatedAt": "2026-05-27T12:26:53Z",
   "allDeps": {
     "packages": [],
     "urls": [],

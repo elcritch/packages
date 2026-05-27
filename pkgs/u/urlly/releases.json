@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "urlly",
   "fqn": "urlly.treeform.github.com",
   "current": "99784779f05649df25fd9c33003d8ef6de027345",
@@ -43,9 +43,9 @@
       "d": "URI and URL parsing for Nim for C/JS backends. Similar api to browsers's `window.location`."
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:43:21Z",
+  "generatedAt": "2026-05-27T12:38:24Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

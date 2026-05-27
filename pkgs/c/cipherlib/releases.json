@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "cipherlib",
   "fqn": "cipherlib.ph4mished.github.com",
   "current": "0fd8c06cd93ade88e11b00822729c9e4977c5729",
@@ -18,9 +18,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:45Z",
+  "generatedAt": "2026-05-27T12:25:00Z",
   "allDeps": {
     "packages": [],
     "urls": [],

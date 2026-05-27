@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "gintro",
   "fqn": "gintro.KellerKev.github.com",
   "current": "a1053f44ae8866c7d96372b072e9a611831e5a0d",
@@ -18,9 +18,9 @@
       "h": true
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:52:46Z",
+  "generatedAt": "2026-05-27T12:27:53Z",
   "allDeps": {
     "packages": [],
     "urls": [],

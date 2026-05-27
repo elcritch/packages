@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "owlkettle",
   "fqn": "owlkettle.can-lehmann.github.com",
   "current": "fa76e0af5bea074f0f24e468af8f9c2bf830825c",
@@ -49,9 +49,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:40:57Z",
+  "generatedAt": "2026-05-27T12:33:56Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "owasp_encoder",
   "fqn": "owasp-encoder-nim.superkelvint.github.com",
   "current": "cff994d2667640d197022dd29243aa6d365b353b",
@@ -22,9 +22,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:09Z",
+  "generatedAt": "2026-05-27T12:33:55Z",
   "allDeps": {
     "packages": [],
     "urls": [],

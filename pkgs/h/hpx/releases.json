@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "hpx",
   "fqn": "nim-hpx.ct-clmsn.github.com",
   "current": "e4e998c03f57686249425e45cacb06d5360fbbed",
@@ -13,9 +13,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:53:31Z",
+  "generatedAt": "2026-05-27T12:28:35Z",
   "allDeps": {
     "packages": [],
     "urls": [],

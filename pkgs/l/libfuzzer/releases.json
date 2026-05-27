@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "libfuzzer",
   "fqn": "libfuzzer.planetis-m.github.com",
   "current": "d3f05f9697adcf0f453eb014c9cf26ed4c01209b",
@@ -13,9 +13,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:58Z",
+  "generatedAt": "2026-05-27T12:29:44Z",
   "allDeps": {
     "packages": [],
     "urls": [],

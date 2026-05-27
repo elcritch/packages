@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "sam_protocol",
   "fqn": "sam_protocol.gabbhack.github.com",
   "current": "37256938c837ccaf836c4d67e16345b7fa45853b",
@@ -23,9 +23,9 @@
       "x": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:41:50Z",
+  "generatedAt": "2026-05-27T12:35:44Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

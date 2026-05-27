@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "bump",
   "fqn": "bump.disruptek.github.com",
   "current": "09811e775a94a77bb4c6d25349109fcf8341db92",
@@ -466,9 +466,9 @@
       "p": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:35:47Z",
+  "generatedAt": "2026-05-27T12:24:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

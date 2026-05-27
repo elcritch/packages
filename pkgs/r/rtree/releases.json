@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "rtree",
   "fqn": "RTree.stefansalewski.github.com",
   "current": "2a6a80f5cbcbc0673bbf67628c1766baa838fc1d",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:01:43Z",
+  "generatedAt": "2026-05-27T12:35:39Z",
   "allDeps": {
     "packages": [],
     "urls": [],

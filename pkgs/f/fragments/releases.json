@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "fragments",
   "fqn": "fragments.sinkingsugar.github.com",
   "current": "0f4df0e41dec441bdd39c33767af3e26560d5d72",
@@ -202,9 +202,9 @@
       "m": "0.18.1"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:52:16Z",
+  "generatedAt": "2026-05-27T12:27:17Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "mctranslog",
   "fqn": "mctranslog.abbeymart.github.com",
   "current": "0e122d12736fe61f27089465c196f2add74a0d72",
@@ -22,9 +22,9 @@
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/mctranslog.abbeymart.github.com-0e122d12-mctranslog.nimble\ncannot resolve package name: mcdb"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:46Z",
+  "generatedAt": "2026-05-27T12:30:31Z",
   "allDeps": {
     "packages": [
       "mcresponse"

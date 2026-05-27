@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "kexpr",
   "fqn": "kexpr-nim.brentp.github.com",
   "current": "3a8dbf0d43370f8e4a103b644944b3478f044cd0",
@@ -16,9 +16,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:38Z",
+  "generatedAt": "2026-05-27T12:29:27Z",
   "allDeps": {
     "packages": [],
     "urls": [],

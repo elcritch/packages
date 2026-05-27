@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nfind",
   "fqn": "nfind.Graveflo.github.com",
   "current": "d734fa229d6689d832273101cc588137cc3af1e2",
@@ -42,9 +42,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:56:47Z",
+  "generatedAt": "2026-05-27T12:31:24Z",
   "allDeps": {
     "packages": [],
     "urls": [],

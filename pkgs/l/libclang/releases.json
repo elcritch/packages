@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "libclang",
   "fqn": "nim-libclang.cowboy-coders.github.com",
   "current": "ff854c51551d46ff9c48f3e6d4b6cccb2f4eec10",
@@ -13,9 +13,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:55Z",
+  "generatedAt": "2026-05-27T12:29:42Z",
   "allDeps": {
     "packages": [],
     "urls": [],

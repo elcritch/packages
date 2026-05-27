@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "sqlbuilder",
   "fqn": "nim_sqlbuilder.ThomasTJdev.github.com",
   "current": "ce2a3255d70c1c9edd11c2378c9a47c79b1bfc09",
@@ -99,9 +99,9 @@
       "m": "0.19.1"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:42:17Z",
+  "generatedAt": "2026-05-27T12:36:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

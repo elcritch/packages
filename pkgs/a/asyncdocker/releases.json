@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "asyncdocker",
   "fqn": "asyncdocker.tulayang.github.com",
   "current": "36343818e2103ed3e73b9a872cb831886b269888",
@@ -20,9 +20,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:04Z",
+  "generatedAt": "2026-05-27T12:08:46Z",
   "allDeps": {
     "packages": [],
     "urls": [],

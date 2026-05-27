@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "srt",
   "fqn": "nim-srt.achesak.github.com",
   "current": "b067afa091088fb52cc37cb44515f265b1aa0e0e",
@@ -20,9 +20,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:04:32Z",
+  "generatedAt": "2026-05-27T12:36:53Z",
   "allDeps": {
     "packages": [],
     "urls": [],

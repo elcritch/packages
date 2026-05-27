@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "DotNimRemoting",
   "fqn": "DotNimRemoting.filvyb.github.com",
   "current": "a1e78dd0b137e3819a84a1f9996d3ab80358b82b",
@@ -52,9 +52,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:47:19Z",
+  "generatedAt": "2026-05-27T11:39:16Z",
   "allDeps": {
     "packages": [
       "faststreams",

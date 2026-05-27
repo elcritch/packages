@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimSocks",
   "fqn": "nimSocks.enthus1ast.github.com",
   "current": "db736aff10573aa5cc8ddd60170a26849219645a",
@@ -81,9 +81,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:57:22Z",
+  "generatedAt": "2026-05-27T12:31:39Z",
   "allDeps": {
     "packages": [
       "dbg > 0.1.0",

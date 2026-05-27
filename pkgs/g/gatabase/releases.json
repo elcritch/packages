@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "gatabase",
   "fqn": "nim-gatabase.juancarlospaco.github.com",
   "current": "3aaba860e3090504c77faa419e14c239dfd46045",
@@ -58,9 +58,9 @@
       "m": "1.2.4"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:52:28Z",
+  "generatedAt": "2026-05-27T12:27:34Z",
   "allDeps": {
     "packages": [],
     "urls": [],

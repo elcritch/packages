@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "typelists",
   "fqn": "typelists.yglukhov.github.com",
   "current": "681672b25ada596b29412241f0e4288072e7c8e3",
@@ -13,9 +13,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:06:09Z",
+  "generatedAt": "2026-05-27T12:38:10Z",
   "allDeps": {
     "packages": [],
     "urls": [],

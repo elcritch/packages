@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ipacore",
   "fqn": "ipacore.phononim.github.com",
   "current": "af9568be415c5e1c81e60c0b8e7189110f416a73",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:09Z",
+  "generatedAt": "2026-05-27T12:29:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

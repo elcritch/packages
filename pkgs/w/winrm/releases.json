@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "winrm",
   "fqn": "nim-winrm.blue0x1.github.com",
   "current": "f7a52ccbf93278cf3cbce2b09f00fca76f5ea1cb",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:07:33Z",
+  "generatedAt": "2026-05-27T12:39:09Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "asciigraph",
   "fqn": "asciigraph.nimbackup.github.com",
   "current": "9f51fc4e94d0960ab63fa6ea274518159720aa69",
@@ -21,9 +21,9 @@
       "m": "1.0.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:47:57Z",
+  "generatedAt": "2026-05-27T12:08:22Z",
   "allDeps": {
     "packages": [
       "strfmt <= 0.1.0"

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimobserver",
   "fqn": "nimobserver.Tangdongle.github.com",
   "current": "9567652bc7f1c50a7b62584b033f90566cf779dd",
@@ -18,9 +18,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:58:36Z",
+  "generatedAt": "2026-05-27T12:32:30Z",
   "allDeps": {
     "packages": [],
     "urls": [],

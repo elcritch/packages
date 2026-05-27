@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "wyhash",
   "fqn": "wyhash.nim.jackhftang.github.com",
   "current": "d087ea8a83e5ec62f1388df0945f123eb8081bdb",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:43:57Z",
+  "generatedAt": "2026-05-27T12:39:16Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

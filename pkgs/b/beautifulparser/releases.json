@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "beautifulparser",
   "fqn": "beautifulparser.TelegramXPlus.github.com",
   "current": "ac594fdafdb292536c2ad9a0b7c7057867352720",
@@ -22,9 +22,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:35:20Z",
+  "generatedAt": "2026-05-27T12:20:49Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

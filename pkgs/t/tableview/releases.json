@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "tableview",
   "fqn": "tabview.telatin.www.github.com",
   "current": "9cea249ac8c0f32abd4860441ea426c5acded14c",
@@ -131,9 +131,9 @@
       "o": {}
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:05:06Z",
+  "generatedAt": "2026-05-27T12:37:25Z",
   "allDeps": {
     "packages": [
       "ansiutils",

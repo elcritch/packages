@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "bbcodim",
   "fqn": "bbcodim.filvyb.github.com",
   "current": "77fe2d3f15c284735d28630030b415dd69b26e99",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:29Z",
+  "generatedAt": "2026-05-27T12:19:15Z",
   "allDeps": {
     "packages": [],
     "urls": [],

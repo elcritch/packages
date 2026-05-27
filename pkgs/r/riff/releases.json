@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "riff",
   "fqn": "nim-riff.johnnovak.github.com",
   "current": "03f0ca35fca4eeb1f32b5f3fae414dd89f65521b",
@@ -33,9 +33,9 @@
       "m": "1.6.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:01:33Z",
+  "generatedAt": "2026-05-27T12:35:32Z",
   "allDeps": {
     "packages": [
       "binstreams"

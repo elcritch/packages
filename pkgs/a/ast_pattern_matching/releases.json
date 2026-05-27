@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ast_pattern_matching",
   "fqn": "ast-pattern-matching.nim-lang.github.com",
   "current": "eb8b99d595517fd5d41ccc954edb896267f2db78",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:00Z",
+  "generatedAt": "2026-05-27T12:08:35Z",
   "allDeps": {
     "packages": [],
     "urls": [],

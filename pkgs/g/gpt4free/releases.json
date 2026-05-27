@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "gpt4free",
   "fqn": "gpt4free.Monsler.github.com",
   "current": "0fea627c280acf33b116c913a531bda1fe180d1a",
@@ -77,9 +77,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:37:27Z",
+  "generatedAt": "2026-05-27T12:28:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

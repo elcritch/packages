@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "minicoro",
   "fqn": "minicoro-nim.iacore.git.envs.net",
   "current": "a2ef4bd4e93da5ff35ee75ef0b1f5891a5312962",
@@ -22,9 +22,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:56:01Z",
+  "generatedAt": "2026-05-27T12:30:45Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "einheit",
   "fqn": "einheit.jyapayne.github.com",
   "current": "4480724889f86c7be31b76e2de9f7f50c0b89332",
@@ -67,9 +67,9 @@
       "m": "0.18.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:58Z",
+  "generatedAt": "2026-05-27T12:26:21Z",
   "allDeps": {
     "packages": [],
     "urls": [],

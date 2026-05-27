@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "NimMarc",
   "fqn": "NimMarc.rsirres.github.com",
   "current": "5bb207defa23791a3e24abeb4026339d6d8d4530",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:47:24Z",
+  "generatedAt": "2026-05-27T11:39:22Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "grab",
   "fqn": "grab.metagn.github.com",
   "current": "41ff40f74326d964612064b86ce8d1c657f67bbe",
@@ -24,9 +24,9 @@
       "m": "1.4.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:37:27Z",
+  "generatedAt": "2026-05-27T12:28:07Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "crowngui",
   "fqn": "crowngui.bung87.github.com",
   "current": "99309ac50ea56ab0f2f5298edb3caca58ba7d023",
@@ -293,9 +293,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:15Z",
+  "generatedAt": "2026-05-27T12:25:32Z",
   "allDeps": {
     "packages": [
       "arraymancer <= 0.2.4",

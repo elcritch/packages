@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "deriveables",
   "fqn": "deriveables.PMunch.github.com",
   "current": "e6629c6a71ba4c8a41d5e003ba294182132e4659",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:34Z",
+  "generatedAt": "2026-05-27T12:25:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

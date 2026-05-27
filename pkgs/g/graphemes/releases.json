@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "graphemes",
   "fqn": "nim-graphemes.nitely.github.com",
   "current": "732eed96fa5616d0bd57ab3d27c7ce6516345258",
@@ -97,9 +97,9 @@
       "x": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:37:28Z",
+  "generatedAt": "2026-05-27T12:28:08Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

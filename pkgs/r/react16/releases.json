@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "react16",
   "fqn": "react-16.nim.kristianmandrup.github.com",
   "current": "25e9874a77decf971e7e639e60b31e963f4a8df8",
@@ -40,9 +40,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:01:22Z",
+  "generatedAt": "2026-05-27T12:35:18Z",
   "allDeps": {
     "packages": [],
     "urls": [],

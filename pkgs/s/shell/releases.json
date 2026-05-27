@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "shell",
   "fqn": "shell.Vindaar.github.com",
   "current": "cdd98b9d6e0715fc13a62b1de3f82450cc463679",
@@ -81,9 +81,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:03:18Z",
+  "generatedAt": "2026-05-27T12:36:12Z",
   "allDeps": {
     "packages": [],
     "urls": [],

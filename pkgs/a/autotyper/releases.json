@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "autotyper",
   "fqn": "autotyper.kijowski.github.com",
   "current": "9513d5234b353b4ed28eac709d2b89d5152e6ac5",
@@ -23,9 +23,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:13Z",
+  "generatedAt": "2026-05-27T12:11:05Z",
   "allDeps": {
     "packages": [
       "cligen"

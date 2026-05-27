@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "curlies",
   "fqn": "curlies.svenrdz.github.com",
   "current": "7a665b630eabcb23c6dcee1b697277ded1361835",
@@ -18,9 +18,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:20Z",
+  "generatedAt": "2026-05-27T12:25:38Z",
   "allDeps": {
     "packages": [
       "ast_pattern_matching",

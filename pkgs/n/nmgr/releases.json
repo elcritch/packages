@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nmgr",
   "fqn": "nmgr.cycneuramus.github.com",
   "current": "943f3fe42e147511c1d4c8fc0f3f74cb6bde6fdb",
@@ -96,9 +96,9 @@
       "p": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:40:23Z",
+  "generatedAt": "2026-05-27T12:33:05Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

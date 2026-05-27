@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "jobscheduler",
   "fqn": "nim-jobscheduler.YesDrX.github.com",
   "current": "84df905dfa106192d36eb4d00e268c45c3f273c4",
@@ -195,9 +195,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:22Z",
+  "generatedAt": "2026-05-27T12:29:13Z",
   "allDeps": {
     "packages": [
       "checksums",

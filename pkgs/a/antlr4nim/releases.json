@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "antlr4nim",
   "fqn": "antlr4nim.jan0sc.github.com",
   "current": "2fae39da82e97eec9ac496a3b5227db761bb4c18",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:34:16Z",
+  "generatedAt": "2026-05-27T11:58:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "httpform",
   "fqn": "httpform.tulayang.github.com",
   "current": "10a25d6967dd3208bf964116add3491e5ac7360d",
@@ -18,9 +18,9 @@
       "a": "Wang Tong"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:37:47Z",
+  "generatedAt": "2026-05-27T12:28:41Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

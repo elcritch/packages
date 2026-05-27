@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "lodev",
   "fqn": "lodev.vandot.github.com",
   "current": "c29c4df0fd7e4decd1f93c11948949ef2ee42164",
@@ -50,9 +50,9 @@
       "d": "Simple proxy server for local development"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:38:32Z",
+  "generatedAt": "2026-05-27T12:30:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

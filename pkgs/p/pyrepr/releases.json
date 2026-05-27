@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "pyrepr",
   "fqn": "pyrepr.nimpylib.github.com",
   "current": "e940365283150b421a997b1fb69df53e5d8aabba",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:01:09Z",
+  "generatedAt": "2026-05-27T12:35:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

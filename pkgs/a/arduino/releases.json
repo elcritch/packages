@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "arduino",
   "fqn": "nim-arduino.markspanbroek.github.com",
   "current": "ea798d16d07cd64dce3cdddd6f8aa4d3c6be0173",
@@ -19,9 +19,9 @@
       "E": "missing nimble file"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:47:52Z",
+  "generatedAt": "2026-05-27T12:02:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

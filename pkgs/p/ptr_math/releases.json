@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ptr_math",
   "fqn": "ptr_math.kaushalmodi.github.com",
   "current": "1ee3b7fe12f394edd5a1e2841491e8c2e9fd193b",
@@ -22,9 +22,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:01:05Z",
+  "generatedAt": "2026-05-27T12:34:55Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "hyperscript",
   "fqn": "hyperscript.schneiderfelipe.github.com",
   "current": "f02971acedabe1dec46e604136ab568bb93127f3",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:37:50Z",
+  "generatedAt": "2026-05-27T12:28:45Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

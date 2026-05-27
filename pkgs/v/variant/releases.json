@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "variant",
   "fqn": "variant.yglukhov.github.com",
   "current": "097031a499d18d5f4b1fe2f4c16d3f1ded8c7f45",
@@ -69,9 +69,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:43:24Z",
+  "generatedAt": "2026-05-27T12:38:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

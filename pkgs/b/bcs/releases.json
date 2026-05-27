@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "bcs",
   "fqn": "nimBcs.C-NERD.github.com",
   "current": "56f4981aa6c3ca3798fed051583ef4c5c18503b2",
@@ -34,9 +34,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:35:15Z",
+  "generatedAt": "2026-05-27T12:20:00Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

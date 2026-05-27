@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimlapack",
   "fqn": "nimlapack.andreaferretti.github.com",
   "current": "231430b3d2156f5cbe8fe16bb8967cd9a93964c5",
@@ -42,9 +42,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:58:28Z",
+  "generatedAt": "2026-05-27T12:32:22Z",
   "allDeps": {
     "packages": [],
     "urls": [],

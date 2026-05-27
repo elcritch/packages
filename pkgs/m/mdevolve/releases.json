@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "mdevolve",
   "fqn": "MDevolve.jxy.github.com",
   "current": "e6e1b4f5543e50e5738c5453ad01eb0ea7ca2cee",
@@ -19,9 +19,9 @@
       "m": "0.18.1"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:47Z",
+  "generatedAt": "2026-05-27T12:30:32Z",
   "allDeps": {
     "packages": [],
     "urls": [],

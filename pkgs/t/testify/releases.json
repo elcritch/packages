@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "testify",
   "fqn": "testify.sealmove.github.com",
   "current": "011de16e92f85e20d4c4704c9c15236c87ec32e2",
@@ -22,9 +22,9 @@
       "d": "File-based unit testing system"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:05:19Z",
+  "generatedAt": "2026-05-27T12:37:39Z",
   "allDeps": {
     "packages": [],
     "urls": [],

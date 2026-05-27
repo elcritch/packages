@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimrtlsdr",
   "fqn": "nimrtlsdr.jpoirier.github.com",
   "current": "404a5e59fd36aa300c490e6d3bb9827f738e3fe7",
@@ -28,9 +28,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:40:10Z",
+  "generatedAt": "2026-05-27T12:32:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

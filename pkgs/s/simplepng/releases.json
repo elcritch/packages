@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "simplepng",
   "fqn": "nim-simplepng.jrenner.github.com",
   "current": "3e4436dbab994abc90f1d950aea5205ed899922b",
@@ -16,9 +16,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:03:40Z",
+  "generatedAt": "2026-05-27T12:36:25Z",
   "allDeps": {
     "packages": [
       "nimPNG"

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ggplotnim",
   "fqn": "ggplotnim.Vindaar.github.com",
   "current": "36ea228a139fd26a41b1587133cbbfb045f1028b",
@@ -924,9 +924,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:52:50Z",
+  "generatedAt": "2026-05-27T12:27:55Z",
   "allDeps": {
     "packages": [
       "arraymancer",

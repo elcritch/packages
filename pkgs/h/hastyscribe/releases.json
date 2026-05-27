@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "hastyscribe",
   "fqn": "hastyscribe.h3rald.github.com",
   "current": "443e079d720576559deb10e2c26b52a58988e268",
@@ -319,9 +319,9 @@
       "p": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:37:36Z",
+  "generatedAt": "2026-05-27T12:28:23Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "openurl",
   "fqn": "openurl.foxoman.github.com",
   "current": "14825fb9a36543ea8519c6ab322c6eb430e21abf",
@@ -52,9 +52,9 @@
       "m": "1.4.6"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:40:53Z",
+  "generatedAt": "2026-05-27T12:33:47Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

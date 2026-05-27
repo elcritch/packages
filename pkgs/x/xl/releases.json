@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "xl",
   "fqn": "xl.khchen.github.com",
   "current": "3f4a3ee50eff48e03502a6d3a5dc335ff9ba00b6",
@@ -31,9 +31,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:07:52Z",
+  "generatedAt": "2026-05-27T12:39:23Z",
   "allDeps": {
     "packages": [
       "zippy"

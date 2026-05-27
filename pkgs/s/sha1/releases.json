@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "sha1",
   "fqn": "sha1.onionhammer.github.com",
   "current": "92ccc5800bb0ac4865b275a2ce3c1544e98b48bc",
@@ -16,9 +16,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:03:11Z",
+  "generatedAt": "2026-05-27T12:36:08Z",
   "allDeps": {
     "packages": [],
     "urls": [],

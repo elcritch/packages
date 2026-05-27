@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nat_traversal",
   "fqn": "nim-nat-traversal.status-im.github.com",
   "current": "860e18c37667b5dd005b94c63264560c35d88004",
@@ -18,9 +18,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:56:22Z",
+  "generatedAt": "2026-05-27T12:31:07Z",
   "allDeps": {
     "packages": [
       "results"

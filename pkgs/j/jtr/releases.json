@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "jtr",
   "fqn": "jtr.u1and0.github.com",
   "current": "62934239e6bbbcef8a89dc94b83145c64f1e68e5",
@@ -92,9 +92,9 @@
       "p": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:38:08Z",
+  "generatedAt": "2026-05-27T12:29:20Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

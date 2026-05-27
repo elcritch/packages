@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "sdl1",
   "fqn": "sdl1.nim-lang.github.com",
   "current": "d8ef41f393de0f0df3647431067b2ac74a3ab3ec",
@@ -13,9 +13,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:02:25Z",
+  "generatedAt": "2026-05-27T12:35:53Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "fixmath",
   "fqn": "fixmath.Jeff-Ciesielski.github.com",
   "current": "e51e50a4baa63617e8308aed3491986e13672234",
@@ -17,9 +17,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:52:06Z",
+  "generatedAt": "2026-05-27T12:27:07Z",
   "allDeps": {
     "packages": [],
     "urls": [],

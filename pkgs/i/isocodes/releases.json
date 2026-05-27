@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "isocodes",
   "fqn": "isocodes.kraptor.github.com",
   "current": "498d48dec0b7b4b1e2628bed23ccfca4238920bd",
@@ -144,9 +144,9 @@
       "d": "ISO codes for Nim"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:13Z",
+  "generatedAt": "2026-05-27T12:29:06Z",
   "allDeps": {
     "packages": [
       "bump <= 0.3.1",

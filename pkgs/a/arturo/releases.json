@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "arturo",
   "fqn": "arturo.arturo-lang.github.com",
   "current": "57f95008337a119eb5d864e7793583ece95cdc30",
@@ -41,9 +41,9 @@
       "E": "missing nimble file"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:34:29Z",
+  "generatedAt": "2026-05-27T12:08:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

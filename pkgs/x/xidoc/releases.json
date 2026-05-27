@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "xidoc",
   "fqn": "xidoc.xigoi.github.com",
   "current": "3b5754efcbd425bdafcbe6ea0d7952e3c17819eb",
@@ -657,9 +657,9 @@
       "m": "1.4.8"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:07:52Z",
+  "generatedAt": "2026-05-27T12:39:24Z",
   "allDeps": {
     "packages": [
       "aspartame > 2022.9.20",

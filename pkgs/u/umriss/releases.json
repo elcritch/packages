@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "umriss",
   "fqn": "umriss.tdely.github.com",
   "current": "d0b4031b8a4c898809fd2ea9f64e08b32ed8de41",
@@ -61,9 +61,9 @@
       "b": ""
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:06:20Z",
+  "generatedAt": "2026-05-27T12:38:15Z",
   "allDeps": {
     "packages": [
       "cligen"

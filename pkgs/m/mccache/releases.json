@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "mccache",
   "fqn": "mccache-nim.abbeymart.github.com",
   "current": "cd4fda8e5b01997352b16563abcaf73593fa371a",
@@ -35,9 +35,9 @@
       "m": "1.2.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:44Z",
+  "generatedAt": "2026-05-27T12:30:29Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "vecray",
   "fqn": "vecray.morganholly.github.com",
   "current": "9f421793dd4e349801b09e9b999f77dca713f424",
@@ -18,9 +18,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:06:48Z",
+  "generatedAt": "2026-05-27T12:38:33Z",
   "allDeps": {
     "packages": [],
     "urls": [],

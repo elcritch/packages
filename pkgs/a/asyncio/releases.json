@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "asyncio",
   "fqn": "asyncio.Alogani.github.com",
   "current": "ae7cacca2aa0d268510f4e16d621ad186f565f18",
@@ -82,9 +82,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:34:30Z",
+  "generatedAt": "2026-05-27T12:08:52Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

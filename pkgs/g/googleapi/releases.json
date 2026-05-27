@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "googleapi",
   "fqn": "googleapi.treeform.github.com",
   "current": "4f23aba8546365dada9f9f53a3c43efa4f449013",
@@ -49,9 +49,9 @@
       "a": "treeform"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:37:26Z",
+  "generatedAt": "2026-05-27T12:28:05Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

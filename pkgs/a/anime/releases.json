@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "anime",
   "fqn": "anime.ethosa.github.com",
   "current": "c53f7da1a00303ba7acf189cdf267f8fadaecffc",
@@ -33,9 +33,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:47:44Z",
+  "generatedAt": "2026-05-27T11:55:18Z",
   "allDeps": {
     "packages": [],
     "urls": [],

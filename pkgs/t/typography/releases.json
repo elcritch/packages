@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "typography",
   "fqn": "typography.treeform.github.com",
   "current": "a2a5165c36e0098dea526712890fb7e988ba27f2",
@@ -316,9 +316,9 @@
       "m": "0.18.1"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:43:19Z",
+  "generatedAt": "2026-05-27T12:38:18Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

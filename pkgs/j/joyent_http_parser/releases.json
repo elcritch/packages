@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "joyent_http_parser",
   "fqn": "joyent_http_parser.nim-lang.github.com",
   "current": "e7ca3516ff8418bf84d9b9359822672b2a8bb134",
@@ -13,9 +13,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:21Z",
+  "generatedAt": "2026-05-27T12:29:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

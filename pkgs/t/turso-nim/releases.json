@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "turso-nim",
   "fqn": "turso-nim.13thab.codeberg.org",
   "current": "44cce7f907c7d250faf3274e506f5e239b132273",
@@ -22,9 +22,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:06:38Z",
+  "generatedAt": "2026-05-27T12:38:10Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "notifishower",
   "fqn": "notifishower.PMunch.github.com",
   "current": "3252766e15cf6587969d6b616198298796e7237c",
@@ -53,9 +53,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:59:25Z",
+  "generatedAt": "2026-05-27T12:33:20Z",
   "allDeps": {
     "packages": [
       "docopt <= 0.3.0",

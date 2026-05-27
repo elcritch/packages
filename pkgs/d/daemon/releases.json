@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "daemon",
   "fqn": "nim-daemon.status-im.github.com",
   "current": "6d097c04ac81dfa43dfd9e4c20d6bd359f030153",
@@ -18,9 +18,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:21Z",
+  "generatedAt": "2026-05-27T12:25:40Z",
   "allDeps": {
     "packages": [],
     "urls": [],

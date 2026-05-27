@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "sfax",
   "fqn": "sfax.capocasa.github.com",
   "current": "56a5c08d70751fd019df19ad29cf6ddf663009fd",
@@ -19,9 +19,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:03:10Z",
+  "generatedAt": "2026-05-27T12:36:06Z",
   "allDeps": {
     "packages": [
       "zippy"

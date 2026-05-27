@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "rodcli",
   "fqn": "NimCliHelper.jabbalaci.github.com",
   "current": "15010eb98292c1847a776bcf52fdcfb3649998b7",
@@ -69,9 +69,9 @@
       "m": "0.19.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:01:36Z",
+  "generatedAt": "2026-05-27T12:35:35Z",
   "allDeps": {
     "packages": [],
     "urls": [],

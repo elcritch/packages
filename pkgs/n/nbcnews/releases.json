@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nbcnews",
   "fqn": "nbcnews.thisago.github.com",
   "current": "8cd6dfba067425973502cf6281c4b46c5a6c56d8",
@@ -119,9 +119,9 @@
       "l": "gpl-3.0-only"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:56:26Z",
+  "generatedAt": "2026-05-27T12:31:10Z",
   "allDeps": {
     "packages": [
       "cligen > 0.3.0",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "quickjwt",
   "fqn": "quickjwt.treeform.github.com",
   "current": "4021980db44e3ec64eb0e47039cea3dacb6d80df",
@@ -20,9 +20,9 @@
       "m": "0.19.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:41:36Z",
+  "generatedAt": "2026-05-27T12:35:08Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "memonitor",
   "fqn": "memonitor.quadram-institute-bioscience.github.com",
   "current": "da4877f68a577ccd968e87c98e78881d6732adab",
@@ -21,9 +21,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:38:48Z",
+  "generatedAt": "2026-05-27T12:30:34Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "jesterfork",
   "fqn": "jester_fork.ThomasTJdev.github.com",
   "current": "ef5cb5e22be99140824b06cf01baeb0c82dc8851",
@@ -106,9 +106,9 @@
       "y": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:38:03Z",
+  "generatedAt": "2026-05-27T12:29:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

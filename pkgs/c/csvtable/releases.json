@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "csvtable",
   "fqn": "csvtable.apahl.github.com",
   "current": "87001dfde274e09d24d1682226b40235f600b3cd",
@@ -22,9 +22,9 @@
       "m": "0.15.3"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:18Z",
+  "generatedAt": "2026-05-27T12:25:36Z",
   "allDeps": {
     "packages": [],
     "urls": [],

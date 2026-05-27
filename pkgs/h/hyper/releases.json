@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "hyper",
   "fqn": "hyper-nim.thechampagne.github.com",
   "current": "eb3d2fdeb777a3c5915068f76427cdb44fe4312d",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:53:42Z",
+  "generatedAt": "2026-05-27T12:28:44Z",
   "allDeps": {
     "packages": [],
     "urls": [],

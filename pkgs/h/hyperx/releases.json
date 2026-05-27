@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "hyperx",
   "fqn": "nim-hyperx.nitely.github.com",
   "current": "3d201afa8998a9537e3928f487d0ff765960c49c",
@@ -407,9 +407,9 @@
       "m": "2.0.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:37:51Z",
+  "generatedAt": "2026-05-27T12:28:48Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

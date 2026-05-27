@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "asyncredis",
   "fqn": "redis.nim.Q-Master.github.com",
   "current": "07ea37d6d4ffd1018ac592fa9c3fbafd14c37c5b",
@@ -27,9 +27,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:06Z",
+  "generatedAt": "2026-05-27T12:09:05Z",
   "allDeps": {
     "packages": [
       "networkutils > 0.8",

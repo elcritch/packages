@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "gitman",
   "fqn": "gitman.nirokay.github.com",
   "current": "430a9f4b33b8ec4650706c46b502a8aa38dda73d",
@@ -65,9 +65,9 @@
       "m": "1.6.6"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:37:20Z",
+  "generatedAt": "2026-05-27T12:27:56Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "sctp",
   "fqn": "sctp.nim.metacontainer.github.com",
   "current": "d207c3ec1485252a25886cde6075cadaeae5d5de",
@@ -15,9 +15,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:02:22Z",
+  "generatedAt": "2026-05-27T12:35:52Z",
   "allDeps": {
     "packages": [
       "collections",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "aqcalc",
   "fqn": "aqcalc.VitorGoatman.github.com",
   "current": "e346af53bca95be4996d537dc8b6795c03b4ff56",
@@ -40,9 +40,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:34:19Z",
+  "generatedAt": "2026-05-27T12:01:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

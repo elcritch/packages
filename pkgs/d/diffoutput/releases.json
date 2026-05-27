@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "diffoutput",
   "fqn": "diffoutput.JohnAD.github.com",
   "current": "45bbd217bf70debe7ef907b0655c6988d4d0a26d",
@@ -26,9 +26,9 @@
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/diffoutput.JohnAD.github.com-3edd9b62-diffoutput.nimble\ncannot resolve package name: diff"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:36:28Z",
+  "generatedAt": "2026-05-27T12:25:58Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

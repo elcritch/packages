@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "genode",
   "fqn": "nim_genode.~ehmry.git.sr.ht",
   "current": "2bc5075232aeb2f6df44f6960796729fcf4ebbd8",
@@ -51,9 +51,9 @@
       "m": "0.18.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:52:37Z",
+  "generatedAt": "2026-05-27T12:27:41Z",
   "allDeps": {
     "packages": [],
     "urls": [],

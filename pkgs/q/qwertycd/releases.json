@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "qwertycd",
   "fqn": "qwertycd.minefuto.github.com",
   "current": "0ff02239b5b9665653c10253f4cc185f152b9aa7",
@@ -43,9 +43,9 @@
       "m": "1.2.6"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:41:37Z",
+  "generatedAt": "2026-05-27T12:35:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

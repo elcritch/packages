@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "kraut",
   "fqn": "kraut.moigagoo.github.com",
   "current": "b246836c8059a41e2a71f0a5a7de4fd735b21ccc",
@@ -61,9 +61,9 @@
       "m": "1.9.1"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:43Z",
+  "generatedAt": "2026-05-27T12:29:31Z",
   "allDeps": {
     "packages": [
       "dotenv",

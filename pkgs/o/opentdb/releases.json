@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "opentdb",
   "fqn": "nim-opentmdb.ire4ever1190.github.com",
   "current": "28d1bfa844bd6836dc67b8f85c7c785da349fec9",
@@ -26,9 +26,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:02Z",
+  "generatedAt": "2026-05-27T12:33:47Z",
   "allDeps": {
     "packages": [],
     "urls": [],

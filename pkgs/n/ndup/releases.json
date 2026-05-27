@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ndup",
   "fqn": "ndup.c-blake.github.com",
   "current": "aa4f7ee4f5e40d4a949e075556b44155856b491f",
@@ -102,9 +102,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:39:09Z",
+  "generatedAt": "2026-05-27T12:31:13Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

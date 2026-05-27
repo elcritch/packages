@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "scram",
   "fqn": "scram.nim.nim-community.github.com",
   "current": "085fafa0753944b537949ac655abd0e9e5779935",
@@ -124,9 +124,9 @@
       "m": "0.19.4"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:02:20Z",
+  "generatedAt": "2026-05-27T12:35:51Z",
   "allDeps": {
     "packages": [
       "checksums",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "matext",
   "fqn": "matext.~xigoi.git.sr.ht",
   "current": "f13d8fbb826b639c7f5838a3d78ece6cffe51d11",
@@ -86,9 +86,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:44Z",
+  "generatedAt": "2026-05-27T12:30:29Z",
   "allDeps": {
     "packages": [
       "cligen",

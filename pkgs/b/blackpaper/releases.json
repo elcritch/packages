@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "blackpaper",
   "fqn": "blackpaper.openpeeps.github.com",
   "current": "64b2a875ec926da42dbfd2be4b98006d92df1bca",
@@ -16,9 +16,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:03Z",
+  "generatedAt": "2026-05-27T12:23:37Z",
   "allDeps": {
     "packages": [
       "floof",

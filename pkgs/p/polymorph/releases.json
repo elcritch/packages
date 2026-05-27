@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "polymorph",
   "fqn": "polymorph.rlipsc.github.com",
   "current": "c1da153b7dc4923f92dc882e84c4ca34ea9e184e",
@@ -53,9 +53,9 @@
       "x": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:41:20Z",
+  "generatedAt": "2026-05-27T12:34:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

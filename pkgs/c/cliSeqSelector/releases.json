@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "cliSeqSelector",
   "fqn": "cliSeqSelector.z-kk.github.com",
   "current": "d9631c01f06825804cc7b5e80cf3517b11dcd6ab",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:49Z",
+  "generatedAt": "2026-05-27T12:25:04Z",
   "allDeps": {
     "packages": [],
     "urls": [],

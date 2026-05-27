@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nmr",
   "fqn": "nmr.HapticX.github.com",
   "current": "716392e1e7944b21a28333c1e7c9c9200f656843",
@@ -23,9 +23,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:59:11Z",
+  "generatedAt": "2026-05-27T12:33:06Z",
   "allDeps": {
     "packages": [
       "QRgen",

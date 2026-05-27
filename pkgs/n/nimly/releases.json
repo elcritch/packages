@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimly",
   "fqn": "nimly.loloicci.github.com",
   "current": "952f083b76e42288326173bc8c50e4b845dad04b",
@@ -117,9 +117,9 @@
       "m": "0.19.4"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:58:32Z",
+  "generatedAt": "2026-05-27T12:32:27Z",
   "allDeps": {
     "packages": [
       "patty"

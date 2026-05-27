@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "shellopt",
   "fqn": "shellopt.nim.uga-rosa.github.com",
   "current": "51562fa3d3941b37433828bce5e109d4b12a0680",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:03:19Z",
+  "generatedAt": "2026-05-27T12:36:11Z",
   "allDeps": {
     "packages": [],
     "urls": [],

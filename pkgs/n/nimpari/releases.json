@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimpari",
   "fqn": "nim-pari.BarrOff.github.com",
   "current": "7d6417a7d8d4d56e7279db2e4a3f58080e3f2488",
@@ -37,9 +37,9 @@
       "m": "1.0.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:40:03Z",
+  "generatedAt": "2026-05-27T12:32:32Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

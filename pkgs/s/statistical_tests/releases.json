@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "statistical_tests",
   "fqn": "statistical-tests.ayman-albaz.github.com",
   "current": "0c50acf256d54c7c206f46259b874e7ad5b6b18e",
@@ -22,9 +22,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:04:38Z",
+  "generatedAt": "2026-05-27T12:36:59Z",
   "allDeps": {
     "packages": [
       "distributions",

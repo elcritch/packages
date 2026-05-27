@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "yubikey_otp",
   "fqn": "nim_yubikey_otp.ThomasTJdev.github.com",
   "current": "280d12cfd035910317c09d8b4d95c116233c3f29",
@@ -26,9 +26,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:08:01Z",
+  "generatedAt": "2026-05-27T12:39:35Z",
   "allDeps": {
     "packages": [],
     "urls": [],

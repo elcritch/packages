@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "semver",
   "fqn": "semver.nim.euantorano.github.com",
   "current": "ec7732a4810441a937fe3059494ba338090c4957",
@@ -76,9 +76,9 @@
       "m": "0.14.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:41:58Z",
+  "generatedAt": "2026-05-27T12:36:00Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "promexplorer",
   "fqn": "promexplorer.marcusramberg.github.com",
   "current": "9119787f6833b924b9734a2fcdbb404e720a11e8",
@@ -44,9 +44,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:41:29Z",
+  "generatedAt": "2026-05-27T12:34:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

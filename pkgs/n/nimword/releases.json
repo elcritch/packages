@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimword",
   "fqn": "nimword.PhilippMDoerner.github.com",
   "current": "8788fcf0cd0131ebb075e40f9a10043ea1a4a0f0",
@@ -22,9 +22,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:59:01Z",
+  "generatedAt": "2026-05-27T12:32:56Z",
   "allDeps": {
     "packages": [
       "libsodium"

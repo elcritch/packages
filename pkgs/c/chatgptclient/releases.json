@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "chatgptclient",
   "fqn": "chatgptclient.jaredmontoya.github.com",
   "current": "415fa4f4392d7ba841011fa09e1aa9d22b60f51b",
@@ -34,9 +34,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:35:57Z",
+  "generatedAt": "2026-05-27T12:24:52Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "servclip",
   "fqn": "servclip.thisago.github.com",
   "current": "2bf2c138f7e12c87555a85dfa2dc834abe8a8d13",
@@ -22,9 +22,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:42:00Z",
+  "generatedAt": "2026-05-27T12:36:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

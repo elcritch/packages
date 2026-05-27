@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimFF",
   "fqn": "nimFF.egeoz.github.com",
   "current": "88cbe17fec34305c8506fb970d367847e361a85b",
@@ -16,9 +16,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:57:16Z",
+  "generatedAt": "2026-05-27T12:31:35Z",
   "allDeps": {
     "packages": [
       "binarylang",

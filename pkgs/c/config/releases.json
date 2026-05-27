@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "config",
   "fqn": "nim-cfg-lib.vsajip.github.com",
   "current": "8d9c3af61030c72be5cbac7135991ec118ed03ed",
@@ -25,9 +25,9 @@
       "m": "1.0.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:03Z",
+  "generatedAt": "2026-05-27T12:25:19Z",
   "allDeps": {
     "packages": [
       "nre",

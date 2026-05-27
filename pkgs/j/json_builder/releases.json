@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "json_builder",
   "fqn": "json_builder.undecided.github.com",
   "current": "bf4778cb6cf00b5f8ee87fc53e41462f7d958ccf",
@@ -25,9 +25,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:24Z",
+  "generatedAt": "2026-05-27T12:29:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

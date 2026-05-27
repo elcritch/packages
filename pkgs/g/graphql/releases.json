@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "graphql",
   "fqn": "nim-graphql.status-im.github.com",
   "current": "941f1f88011c5bf1969d37f2925e1f451cf24a2b",
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "v": "0.2.28@7cfe1cd8dad0b1af6721340e2773ebcaf582563a",
+      "v": "0.2.28@ba6f90c80790e54b581061139aef2911f7010ae8",
       "r": [
         "faststreams",
         "stew",
@@ -279,7 +279,7 @@
         "chronicles",
         "zlib",
         "unittest2",
-        "chronos #head"
+        "chronos"
       ],
       "x": [
         "tests",
@@ -310,9 +310,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:37:29Z",
+  "generatedAt": "2026-05-27T12:28:09Z",
   "allDeps": {
     "packages": [
       "bearssl > 0.2.24",

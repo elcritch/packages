@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "listsv",
   "fqn": "listsv.srwiley.github.com",
   "current": "f706ec9d80b3f99e13211bcb218ba3ff95b6330f",
@@ -12,9 +12,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:20Z",
+  "generatedAt": "2026-05-27T12:30:00Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "stringinterpolation",
   "fqn": "nim-stringinterpolation.bluenote10.github.com",
   "current": "4e07f8052f83cce9056a3a3e8b9fcb4640c0dd29",
@@ -12,9 +12,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:04:48Z",
+  "generatedAt": "2026-05-27T12:37:07Z",
   "allDeps": {
     "packages": [],
     "urls": [],

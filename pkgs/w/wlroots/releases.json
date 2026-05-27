@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "wlroots",
   "fqn": "nim-wlroots.j-james.github.com",
   "current": "b37019ef35381e8aba8728175486d348122f7f7d",
@@ -13,9 +13,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:07:36Z",
+  "generatedAt": "2026-05-27T12:39:11Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "madam",
   "fqn": "madam.openpeeps.github.com",
   "current": "3823078f89ae7437a75ca5bd618c56b9964c648b",
@@ -21,9 +21,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:38Z",
+  "generatedAt": "2026-05-27T12:30:22Z",
   "allDeps": {
     "packages": [
       "ansiparse",

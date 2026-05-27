@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "traitor",
   "fqn": "traitor.beef331.github.com",
   "current": "0dbf3aafa2839e5c6cbb65bf5c42b36a67406e40",
@@ -128,9 +128,9 @@
       "m": "1.6.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:05:54Z",
+  "generatedAt": "2026-05-27T12:38:00Z",
   "allDeps": {
     "packages": [
       "micros > 0.1.0"

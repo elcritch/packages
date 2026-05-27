@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "picohttpparser",
   "fqn": "nim-picohttpparser.philip-wernersbach.github.com",
   "current": "2e1e6d9c00aa4ab8da1641274baa1729691ea03c",
@@ -28,9 +28,9 @@
       "i": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:41:08Z",
+  "generatedAt": "2026-05-27T12:34:19Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

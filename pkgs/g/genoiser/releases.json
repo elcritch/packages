@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "genoiser",
   "fqn": "genoiser.brentp.github.com",
   "current": "20036fa80cbc4a1a65ce125f76c2936571e7f94a",
@@ -50,9 +50,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:52:37Z",
+  "generatedAt": "2026-05-27T12:27:42Z",
   "allDeps": {
     "packages": [
       "docopt",

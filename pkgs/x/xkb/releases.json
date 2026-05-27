@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "xkb",
   "fqn": "nim-xkbcommon.j-james.github.com",
   "current": "4c0f36b4632e185201d7f24819a4b0d138563221",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:07:50Z",
+  "generatedAt": "2026-05-27T12:39:21Z",
   "allDeps": {
     "packages": [],
     "urls": [],

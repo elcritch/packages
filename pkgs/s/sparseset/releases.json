@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "sparseset",
   "fqn": "sparseset.planetis-m.github.com",
   "current": "3866e8606c0a04aeffade83a58d9c644cdbdaa55",
@@ -37,9 +37,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:04:16Z",
+  "generatedAt": "2026-05-27T12:36:42Z",
   "allDeps": {
     "packages": [],
     "urls": [],

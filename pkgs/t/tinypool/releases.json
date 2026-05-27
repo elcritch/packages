@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "tinypool",
   "fqn": "TinyPool.PhilippMDoerner.github.com",
   "current": "80ccfb21d511ee66a1e6f476b8a095d045e57043",
@@ -47,9 +47,9 @@
       "m": "1.6.2"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:05:40Z",
+  "generatedAt": "2026-05-27T12:37:52Z",
   "allDeps": {
     "packages": [],
     "urls": [],

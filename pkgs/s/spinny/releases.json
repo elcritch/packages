@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "spinny",
   "fqn": "spinny.nimbackup.github.com",
   "current": "38e0afbe59bab5f526372bab790d651113c27a60",
@@ -46,9 +46,9 @@
       "m": "1.0.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:04:26Z",
+  "generatedAt": "2026-05-27T12:36:48Z",
   "allDeps": {
     "packages": [
       "colorize <= 0.1.2"

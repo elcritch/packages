@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "openai",
   "fqn": "nim_openai.ThomasTJdev.github.com",
   "current": "9af9c41bd467f88b9995d63a824ba8f715506039",
@@ -26,9 +26,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:59:57Z",
+  "generatedAt": "2026-05-27T12:33:40Z",
   "allDeps": {
     "packages": [],
     "urls": [],

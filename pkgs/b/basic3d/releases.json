@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "basic3d",
   "fqn": "basic3d.nim-lang.github.com",
   "current": "2e0928d11c8ea21b83c51ffe804bc063ffa9660e",
@@ -13,9 +13,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:27Z",
+  "generatedAt": "2026-05-27T12:18:32Z",
   "allDeps": {
     "packages": [],
     "urls": [],

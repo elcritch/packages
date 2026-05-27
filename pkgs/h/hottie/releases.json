@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "hottie",
   "fqn": "hottie.treeform.github.com",
   "current": "86a839f60f90e65bd39cc79a4958dadccca40bb7",
@@ -20,9 +20,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:53:29Z",
+  "generatedAt": "2026-05-27T12:28:34Z",
   "allDeps": {
     "packages": [
       "cligen",

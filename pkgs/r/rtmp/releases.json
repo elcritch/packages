@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "rtmp",
   "fqn": "rtmp.openpeeps.github.com",
   "current": "cc456fe8528c4e0e35be7cdb198c50f5ee97c16b",
@@ -16,9 +16,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:01:42Z",
+  "generatedAt": "2026-05-27T12:35:40Z",
   "allDeps": {
     "packages": [
       "libevent"

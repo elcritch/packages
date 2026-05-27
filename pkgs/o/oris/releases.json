@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "oris",
   "fqn": "oris.openpeeps.github.com",
   "current": "313f8211ba9329dadca4375825c990381cba2248",
@@ -18,9 +18,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:06Z",
+  "generatedAt": "2026-05-27T12:33:51Z",
   "allDeps": {
     "packages": [
       "flatty",

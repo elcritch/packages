@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "aur",
   "fqn": "aur.nim.hnicke.github.com",
   "current": "7a104c0e92e89942412d6eae5a464b539f6ca027",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:10Z",
+  "generatedAt": "2026-05-27T12:09:36Z",
   "allDeps": {
     "packages": [],
     "urls": [],

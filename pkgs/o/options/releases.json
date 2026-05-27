@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "options",
   "fqn": "options-nim.fallingduck.github.com",
   "current": "035806c369469c8b47efefdbc5ca2d03e7f4a95b",
@@ -12,9 +12,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:04Z",
+  "generatedAt": "2026-05-27T12:33:47Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "hotdoc",
   "fqn": "hotdoc.willyboar.github.com",
   "current": "2dd8d962eaf48d95477aa3d6d1f81d63eddd392c",
@@ -19,9 +19,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:37:42Z",
+  "generatedAt": "2026-05-27T12:28:32Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

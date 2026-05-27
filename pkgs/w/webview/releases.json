@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "webview",
   "fqn": "webview.oskca.github.com",
   "current": "ca3e25ee93a63c3a819a1bfa17386dad6ad41b1a",
@@ -16,9 +16,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:07:18Z",
+  "generatedAt": "2026-05-27T12:38:57Z",
   "allDeps": {
     "packages": [],
     "urls": [],

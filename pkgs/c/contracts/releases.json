@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "contracts",
   "fqn": "NimContracts.Udiknedormin.github.com",
   "current": "8b44799eb10874863333c886f06efae30c73ac50",
@@ -32,9 +32,9 @@
       "m": "1.4.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:06Z",
+  "generatedAt": "2026-05-27T12:25:22Z",
   "allDeps": {
     "packages": [],
     "urls": [],

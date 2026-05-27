@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "vcard",
   "fqn": "nim-vcard.jdbernard.github.com",
   "current": "fc8b069af032cc8abb442f5b9956dc04247bb764",
@@ -30,9 +30,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:06:47Z",
+  "generatedAt": "2026-05-27T12:38:32Z",
   "allDeps": {
     "packages": [],
     "urls": [],

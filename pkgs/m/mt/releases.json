@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "mt",
   "fqn": "mt.eqf0.codeberg.org",
   "current": "3c93457628dd01b641e20db73e5feae15902e9cd",
@@ -36,9 +36,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:58:26Z",
+  "generatedAt": "2026-05-27T12:30:59Z",
   "allDeps": {
     "packages": [
       "argparse",

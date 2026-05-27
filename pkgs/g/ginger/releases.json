@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ginger",
   "fqn": "ginger.Vindaar.github.com",
   "current": "55abbfb73c57dab0be5428ce0b0803d755803e96",
@@ -508,9 +508,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:52:48Z",
+  "generatedAt": "2026-05-27T12:27:52Z",
   "allDeps": {
     "packages": [
       "arraymancer > 0.2.12",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "litestore",
   "fqn": "litestore.h3rald.github.com",
   "current": "d89cc2633622fc3ca8d7595c196e555eb248b2d7",
@@ -274,9 +274,9 @@
       "k": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:38:33Z",
+  "generatedAt": "2026-05-27T12:30:19Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

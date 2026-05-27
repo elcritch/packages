@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "jeknil",
   "fqn": "jeknil.tonogram.github.com",
   "current": "53a3f47331ecc3a64238489ef3f37079bcc6d473",
@@ -31,9 +31,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:16Z",
+  "generatedAt": "2026-05-27T12:29:09Z",
   "allDeps": {
     "packages": [
       "markdown"

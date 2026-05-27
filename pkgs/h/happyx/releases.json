@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "happyx",
   "fqn": "happyx.HapticX.github.com",
   "current": "8c3fad71810c9240fee527863f42d294a89ce4f4",
@@ -1136,9 +1136,9 @@
       "p": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:37:40Z",
+  "generatedAt": "2026-05-27T12:28:25Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

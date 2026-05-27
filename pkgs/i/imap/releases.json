@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "imap",
   "fqn": "nim_imap.~ehmry.git.sr.ht",
   "current": "dfd95505661052a86c9acf728669395846ce8cdf",
@@ -30,9 +30,9 @@
       "m": "0.15.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:53:51Z",
+  "generatedAt": "2026-05-27T12:28:52Z",
   "allDeps": {
     "packages": [],
     "urls": [],

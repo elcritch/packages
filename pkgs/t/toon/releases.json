@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "toon",
   "fqn": "nim-toon.copyleftdev.github.com",
   "current": "fef76d8fffe8a0f9cf7bec59473fb264d2e7bd35",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:05:48Z",
+  "generatedAt": "2026-05-27T12:37:56Z",
   "allDeps": {
     "packages": [],
     "urls": [],

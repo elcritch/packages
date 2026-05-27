@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "splitmix64",
   "fqn": "splitmix64.IcedQuinn.github.com",
   "current": "63d49f1792f075a41b935d5669660809eb6f5012",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:04:27Z",
+  "generatedAt": "2026-05-27T12:36:49Z",
   "allDeps": {
     "packages": [],
     "urls": [],

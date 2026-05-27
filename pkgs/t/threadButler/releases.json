@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "threadButler",
   "fqn": "Appster.PhilippMDoerner.github.com",
   "current": "55ceaca43edb7c4066178330f5e8a234f9a6868d",
@@ -18,9 +18,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:05:25Z",
+  "generatedAt": "2026-05-27T12:37:43Z",
   "allDeps": {
     "packages": [
       "owlkettle",

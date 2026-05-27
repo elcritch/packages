@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "skybook",
   "fqn": "skybook.muxueqz.github.com",
   "current": "b53b514d59340f34536b21a5bb6a4fb8d6e526f9",
@@ -37,9 +37,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:42:08Z",
+  "generatedAt": "2026-05-27T12:36:30Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "basedOn",
   "fqn": "basedOn.KaceCottam.github.com",
   "current": "45f927dc682eac90b4d4a740e5b91a9db6f9ed86",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:27Z",
+  "generatedAt": "2026-05-27T12:18:22Z",
   "allDeps": {
     "packages": [],
     "urls": [],

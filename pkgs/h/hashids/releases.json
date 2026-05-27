@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "hashids",
   "fqn": "nim-hashids.achesak.github.com",
   "current": "e83754f45d2a2efb5efdef569e17ff80240261ca",
@@ -20,9 +20,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:53:12Z",
+  "generatedAt": "2026-05-27T12:28:19Z",
   "allDeps": {
     "packages": [],
     "urls": [],

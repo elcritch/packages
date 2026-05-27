@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "datetime2human",
   "fqn": "nim-datetime2human.juancarlospaco.github.com",
   "current": "d9f1b5038ca16d3057aac76a3dd53e425f6f40d0",
@@ -34,9 +34,9 @@
       "m": "1.0.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:24Z",
+  "generatedAt": "2026-05-27T12:25:43Z",
   "allDeps": {
     "packages": [
       "pylib <= 0.2.0"

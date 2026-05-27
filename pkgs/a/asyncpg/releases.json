@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "asyncpg",
   "fqn": "asyncpg.cheatfate.github.com",
   "current": "2d6123ea6345c6500e7470144d8523dad7a07e36",
@@ -12,9 +12,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:05Z",
+  "generatedAt": "2026-05-27T12:08:57Z",
   "allDeps": {
     "packages": [],
     "urls": [],

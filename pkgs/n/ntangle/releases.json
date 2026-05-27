@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ntangle",
   "fqn": "ntangle.OrgTangle.github.com",
   "current": "de3ec97c4650cc7b5875ee2614e4c1df5ccb5388",
@@ -164,9 +164,9 @@
       "m": "0.19.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:40:38Z",
+  "generatedAt": "2026-05-27T12:33:26Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

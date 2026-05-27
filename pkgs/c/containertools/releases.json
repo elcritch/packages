@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "containertools",
   "fqn": "containertools.ilmanzo.github.com",
   "current": "103fe782896f615c4de8a8f73deb9f50093b2e4e",
@@ -22,9 +22,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:36:11Z",
+  "generatedAt": "2026-05-27T12:25:21Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

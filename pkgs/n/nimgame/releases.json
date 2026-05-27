@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimgame",
   "fqn": "nimgame.Vladar4.github.com",
   "current": "a8d2709873936d0eadf16d93c06777de48b601fe",
@@ -23,9 +23,9 @@
       "E": "missing nimble file"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:58:13Z",
+  "generatedAt": "2026-05-27T12:32:10Z",
   "allDeps": {
     "packages": [],
     "urls": [],

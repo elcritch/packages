@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "boogie",
   "fqn": "boogie.openpeeps.github.com",
   "current": "fae7dfac800b0690178d9551d745c1038d35963a",
@@ -17,9 +17,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:09Z",
+  "generatedAt": "2026-05-27T12:24:13Z",
   "allDeps": {
     "packages": [
       "flatty",

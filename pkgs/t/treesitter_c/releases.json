@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "treesitter_c",
   "fqn": "nimtreesitter.genotrance.github.com",
   "current": "c6975d8c8d288e3499e665f1b3f5cdd299df1e8f",
@@ -17,9 +17,9 @@
       "E": "ambiguous nimble file"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:05:58Z",
+  "generatedAt": "2026-05-27T12:38:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

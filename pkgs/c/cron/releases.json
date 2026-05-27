@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "cron",
   "fqn": "cron.c-blake.github.com",
   "current": "1e42e55312ab1b52dc00860b0caeacde468d6d99",
@@ -49,9 +49,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:36:15Z",
+  "generatedAt": "2026-05-27T12:25:29Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "netbuff",
   "fqn": "netbuff.jakubDoka.github.com",
   "current": "fd344f9cadc594957f74d75568651b31e9d1c066",
@@ -18,9 +18,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:56:41Z",
+  "generatedAt": "2026-05-27T12:31:20Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "spfun",
   "fqn": "spfun.c-blake.github.com",
   "current": "e4bfd1cc3640afcddd19f2d4cb2125ee9331d102",
@@ -73,9 +73,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:42:13Z",
+  "generatedAt": "2026-05-27T12:36:45Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "p5nim",
   "fqn": "p5nim.pietroppeter.github.com",
   "current": "cee7207ba09dc5c090af18b8cc9e1e070fbc4aa6",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:12Z",
+  "generatedAt": "2026-05-27T12:33:58Z",
   "allDeps": {
     "packages": [],
     "urls": [],

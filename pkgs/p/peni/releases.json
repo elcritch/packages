@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "peni",
   "fqn": "peni.srozb.github.com",
   "current": "a278e361db1c34856a70e32f28317952930a0d4d",
@@ -116,9 +116,9 @@
       "b": ""
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:41:06Z",
+  "generatedAt": "2026-05-27T12:34:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

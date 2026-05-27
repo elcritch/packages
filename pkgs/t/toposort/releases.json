@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "toposort",
   "fqn": "toposort.ryukoposting.github.com",
   "current": "58f656c425ff1762c59e1bc471fd9435d8d13138",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:05:49Z",
+  "generatedAt": "2026-05-27T12:37:57Z",
   "allDeps": {
     "packages": [],
     "urls": [],

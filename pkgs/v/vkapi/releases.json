@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "vkapi",
   "fqn": "nimvkapi.nimbackup.github.com",
   "current": "3af1998f0d9bf07c15bb0f916757e4e7994aee31",
@@ -60,9 +60,9 @@
       "m": "0.19.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:06:53Z",
+  "generatedAt": "2026-05-27T12:38:35Z",
   "allDeps": {
     "packages": [],
     "urls": [],

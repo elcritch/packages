@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "rocksdb",
   "fqn": "nim-rocksdb.status-im.github.com",
   "current": "bfbf82fc7274a595d7ed6a0d112f04781ab4bcad",
@@ -70,9 +70,9 @@
       "h": true
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:01:36Z",
+  "generatedAt": "2026-05-27T12:35:35Z",
   "allDeps": {
     "packages": [
       "results",

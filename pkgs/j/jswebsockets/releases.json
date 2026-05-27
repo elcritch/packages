@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "jswebsockets",
   "fqn": "jswebsockets.stisa.github.com",
   "current": "ff0ceecc4c071fa8aecbf223d678ac54af120f8d",
@@ -21,9 +21,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:29Z",
+  "generatedAt": "2026-05-27T12:29:19Z",
   "allDeps": {
     "packages": [],
     "urls": [],

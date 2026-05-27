@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ssz_serialization",
   "fqn": "nim-ssz-serialization.status-im.github.com",
   "current": "1cc4d87437a9f8f7a8b1119991af48308fbfe04b",
@@ -19,9 +19,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:04:36Z",
+  "generatedAt": "2026-05-27T12:36:56Z",
   "allDeps": {
     "packages": [
       "faststreams",

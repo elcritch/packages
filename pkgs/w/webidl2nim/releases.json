@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "webidl2nim",
   "fqn": "webidl2nim.ASVIEST.github.com",
   "current": "a50303ea276ad77b1ee151b4d1475892133e4927",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:07:12Z",
+  "generatedAt": "2026-05-27T12:38:52Z",
   "allDeps": {
     "packages": [],
     "urls": [],

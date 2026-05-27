@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "guildenstern",
   "fqn": "GuildenStern.olliNiinivaara.github.com",
   "current": "cda3fae8d3e6a2679e345b9f89f2b472ced50c28",
@@ -190,9 +190,9 @@
       "x": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:37:30Z",
+  "generatedAt": "2026-05-27T12:28:13Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

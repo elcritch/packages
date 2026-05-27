@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "csvtools",
   "fqn": "csvtools.andreaferretti.github.com",
   "current": "7cba565adb4efffda1837ff2c5a1769c5abf5531",
@@ -49,9 +49,9 @@
       "y": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:18Z",
+  "generatedAt": "2026-05-27T12:25:37Z",
   "allDeps": {
     "packages": [],
     "urls": [],

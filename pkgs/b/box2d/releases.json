@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "box2d",
   "fqn": "box2d.nim.jon-edward.github.com",
   "current": "a0c6ba19bec0c3dadb1d97774a4bcdd5b49a8813",
@@ -38,9 +38,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:11Z",
+  "generatedAt": "2026-05-27T12:24:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

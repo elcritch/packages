@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "presto",
   "fqn": "nim-presto.status-im.github.com",
   "current": "652ccfa6a89830c9c5d98d0f68ce5fcd16f789c1",
@@ -35,9 +35,9 @@
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nim-presto.status-im.github.com-92b1c7ff-presto.nimble\ninvalid 'requires' syntax in nimble file: chronos ^= 4.0.3"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:52Z",
+  "generatedAt": "2026-05-27T12:34:43Z",
   "allDeps": {
     "packages": [
       "bearssl",

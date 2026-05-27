@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "akane",
   "fqn": "akane.ethosa.github.com",
   "current": "7766be8b1de3fe079c4268da9eb27d74f36c5019",
@@ -45,9 +45,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:34:11Z",
+  "generatedAt": "2026-05-27T11:47:01Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "spills",
   "fqn": "spills.andreaferretti.github.com",
   "current": "1d29c86654ac9568ff5c9a01945d4203037a0e98",
@@ -31,9 +31,9 @@
       "d": "Disk-baked sequences"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:04:24Z",
+  "generatedAt": "2026-05-27T12:36:46Z",
   "allDeps": {
     "packages": [],
     "urls": [],

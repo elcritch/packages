@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "geocoding",
   "fqn": "nim-geocoding.saratchandra92.github.com",
   "current": "f889f7116afc59d3c3a821d05d07dfe129c7a94d",
@@ -20,9 +20,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:52:36Z",
+  "generatedAt": "2026-05-27T12:27:42Z",
   "allDeps": {
     "packages": [],
     "urls": [],

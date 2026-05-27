@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "jestercookiemsgs",
   "fqn": "jestercookiemsgs.JohnAD.github.com",
   "current": "27a6b7c5bc5dfe4520183bfa31a627070dd8d3af",
@@ -19,9 +19,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:38:03Z",
+  "generatedAt": "2026-05-27T12:29:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

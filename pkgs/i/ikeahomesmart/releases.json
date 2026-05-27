@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ikeahomesmart",
   "fqn": "ikeahomesmart.PMunch.github.com",
   "current": "22109a5abb70937dd640e046d4d5f2bd4dbf4b3e",
@@ -16,9 +16,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:53:48Z",
+  "generatedAt": "2026-05-27T12:28:50Z",
   "allDeps": {
     "packages": [
       "coap"

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimes",
   "fqn": "nimes.def-.github.com",
   "current": "baefb72c290471f5b487910e1545614b9a3d24b3",
@@ -13,9 +13,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:58:06Z",
+  "generatedAt": "2026-05-27T12:32:05Z",
   "allDeps": {
     "packages": [],
     "urls": [],

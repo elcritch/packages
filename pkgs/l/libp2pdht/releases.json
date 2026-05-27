@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "libp2pdht",
   "fqn": "nim-codex-dht.codex-storage.github.com",
   "current": "d02670d6b03f655db2872bee9e3fafe74ecfc8f3",
@@ -190,9 +190,9 @@
       "j": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:04Z",
+  "generatedAt": "2026-05-27T12:29:49Z",
   "allDeps": {
     "packages": [
       "asynctest <= 0.5.0",

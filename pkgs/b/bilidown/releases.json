@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "bilidown",
   "fqn": "bilidown.bung87.github.com",
   "current": "f584de394ba2e944175757c3bd7477271f83abfd",
@@ -22,9 +22,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:53Z",
+  "generatedAt": "2026-05-27T12:21:43Z",
   "allDeps": {
     "packages": [
       "checksums"

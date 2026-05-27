@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "dnsclient",
   "fqn": "dnsclient.nim.ba0f3.github.com",
   "current": "23214235d4784d24aceed99bbfe153379ea557c8",
@@ -75,9 +75,9 @@
       "x": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:36:31Z",
+  "generatedAt": "2026-05-27T12:26:05Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

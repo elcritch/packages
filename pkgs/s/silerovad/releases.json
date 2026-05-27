@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "silerovad",
   "fqn": "nim-silero-vad.nitely.github.com",
   "current": "22bc6bf62a91b3cb28786b26a3ef05ea9a3fa0fe",
@@ -23,9 +23,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:42:04Z",
+  "generatedAt": "2026-05-27T12:36:20Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "deepspeech",
   "fqn": "nim-deepspeech.eagledot.gitlab.com",
   "current": "ff465cedbf4b17b92a9101186d87a4116ff0a38f",
@@ -22,9 +22,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:31Z",
+  "generatedAt": "2026-05-27T12:25:50Z",
   "allDeps": {
     "packages": [],
     "urls": [],

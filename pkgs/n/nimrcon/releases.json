@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimrcon",
   "fqn": "nimrcon.mcilya.github.com",
   "current": "03a95d5d59fb4bbd160a16e3c5cdb1f6738ec45c",
@@ -22,9 +22,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:58:47Z",
+  "generatedAt": "2026-05-27T12:32:41Z",
   "allDeps": {
     "packages": [
       "struct"

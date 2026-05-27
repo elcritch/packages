@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimdeps",
   "fqn": "nimdeps.genotrance.github.com",
   "current": "41d7bfb6139f1e58c9494ca72637ad1d40ed8ea9",
@@ -15,9 +15,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:58:03Z",
+  "generatedAt": "2026-05-27T12:32:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

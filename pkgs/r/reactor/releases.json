@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "reactor",
   "fqn": "reactor.nim.zielmicha.github.com",
   "current": "bd1d83df1cb7c7cf707909cf0659841cb35af26f",
@@ -77,9 +77,9 @@
       "x": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:01:23Z",
+  "generatedAt": "2026-05-27T12:35:19Z",
   "allDeps": {
     "packages": [
       "collections > 0.4.5"

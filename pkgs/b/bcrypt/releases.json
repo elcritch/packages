@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "bcrypt",
   "fqn": "bcryptnim.ithkuil.github.com",
   "current": "9747d7f6ad3277c169444b5dedb5b99075cd140c",
@@ -12,9 +12,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:31Z",
+  "generatedAt": "2026-05-27T12:19:36Z",
   "allDeps": {
     "packages": [],
     "urls": [],

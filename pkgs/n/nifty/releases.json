@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nifty",
   "fqn": "nifty.h3rald.github.com",
   "current": "d366c729d5dbbf7a3c4053130b9b41b913aea437",
@@ -59,9 +59,9 @@
       "p": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:39:18Z",
+  "generatedAt": "2026-05-27T12:31:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

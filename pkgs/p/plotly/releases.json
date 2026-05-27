@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "plotly",
   "fqn": "nim-plotly.SciNim.github.com",
   "current": "b9705980965f65e4174ef68c4f93cd082375b623",
@@ -58,9 +58,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:39Z",
+  "generatedAt": "2026-05-27T12:34:28Z",
   "allDeps": {
     "packages": [
       "chroma",

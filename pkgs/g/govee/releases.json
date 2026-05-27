@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "govee",
   "fqn": "nim-govee.neroist.github.com",
   "current": "0af54ab85762e2cbe7e856db290ce2d764d66ac4",
@@ -28,9 +28,9 @@
       "m": "0.8.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:37:27Z",
+  "generatedAt": "2026-05-27T12:28:05Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

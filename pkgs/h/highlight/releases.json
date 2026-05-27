@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "highlight",
   "fqn": "nimhighlight.RaimundHuebel.github.com",
   "current": "53369e22a1110b0908469d92683370dc314a653b",
@@ -20,9 +20,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:53:20Z",
+  "generatedAt": "2026-05-27T12:28:26Z",
   "allDeps": {
     "packages": [],
     "urls": [],

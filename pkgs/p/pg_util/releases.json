@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "pg_util",
   "fqn": "nim-pg-util.hiteshjasani.github.com",
   "current": "4114175a827a8f85a560d426f932d59ba8754cbc",
@@ -26,9 +26,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:28Z",
+  "generatedAt": "2026-05-27T12:34:17Z",
   "allDeps": {
     "packages": [],
     "urls": [],

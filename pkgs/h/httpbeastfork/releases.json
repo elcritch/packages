@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "httpbeastfork",
   "fqn": "httpbeast_fork.ThomasTJdev.github.com",
   "current": "c430925dd318994b7118735eb93d27062a752c82",
@@ -80,9 +80,9 @@
       "m": "0.17.3"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:37:47Z",
+  "generatedAt": "2026-05-27T12:28:40Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "cpptuples",
   "fqn": "cpptuples.sls1005.github.com",
   "current": "5be167fb14509d60403fdd2e8c1c25d60f19be3e",
@@ -13,9 +13,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:10Z",
+  "generatedAt": "2026-05-27T12:25:27Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "db_connector",
   "fqn": "db_connector.nim-lang.github.com",
   "current": "29450a2063970712422e1ab857695c12d80112a6",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:25Z",
+  "generatedAt": "2026-05-27T12:25:44Z",
   "allDeps": {
     "packages": [],
     "urls": [],

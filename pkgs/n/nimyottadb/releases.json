@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimyottadb",
   "fqn": "nim-yottadb.ljoeckel.github.com",
   "current": "4d0c52965c85789ef29d7503391c62dfac914631",
@@ -98,9 +98,9 @@
       "d": "NIM language implementation for the YottaDB database"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:40:19Z",
+  "generatedAt": "2026-05-27T12:32:57Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "svdpi",
   "fqn": "nim-svdpi.kaushalmodi.github.com",
   "current": "bffb0936361a8a2f7b3e996f3c0b5429ad3f2444",
@@ -77,9 +77,9 @@
       "m": "0.19.2"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:04:59Z",
+  "generatedAt": "2026-05-27T12:37:18Z",
   "allDeps": {
     "packages": [
       "cligen <= 0.6.0",

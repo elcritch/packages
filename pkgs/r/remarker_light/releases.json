@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "remarker_light",
   "fqn": "remarker_light.muxueqz.github.com",
   "current": "34ca9fcbfa0c5753ccf02b5f7aedca2f9157b233",
@@ -27,9 +27,9 @@
       "p": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:41:42Z",
+  "generatedAt": "2026-05-27T12:35:25Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimoji",
   "fqn": "nimoji.pietroppeter.github.com",
   "current": "f15e35e3fdddf6bf47bc07b8720b77d4519832bc",
@@ -61,9 +61,9 @@
       "k": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:40:01Z",
+  "generatedAt": "2026-05-27T12:32:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

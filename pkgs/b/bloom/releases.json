@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "bloom",
   "fqn": "nimrod-bloom.boydgreenfield.github.com",
   "current": "e4cab54b65a5c3f3efe878beab70d97e0da75709",
@@ -11,9 +11,9 @@
       "E": "missing nimble file"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:35:37Z",
+  "generatedAt": "2026-05-27T12:24:05Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

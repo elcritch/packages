@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "sonic",
   "fqn": "nim-sonic-client.xmonader.github.com",
   "current": "452920ba19e497c1779aab8955de3851e2ba895c",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:04:03Z",
+  "generatedAt": "2026-05-27T12:36:38Z",
   "allDeps": {
     "packages": [],
     "urls": [],

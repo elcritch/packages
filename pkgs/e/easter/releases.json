@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "easter",
   "fqn": "easter.GeK2K.github.com",
   "current": "b8c4b796b71d8ddf8b7a4e1de8e91f0e2483cd97",
@@ -24,9 +24,9 @@
       "d": "Easter date calculation engine."
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:54Z",
+  "generatedAt": "2026-05-27T12:26:17Z",
   "allDeps": {
     "packages": [],
     "urls": [],

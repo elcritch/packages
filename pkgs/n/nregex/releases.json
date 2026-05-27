@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nregex",
   "fqn": "nregex.nitely.github.com",
   "current": "e9fd3ed88623ab25ce81e22e84bbe9c997325718",
@@ -51,9 +51,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:40:37Z",
+  "generatedAt": "2026-05-27T12:33:23Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

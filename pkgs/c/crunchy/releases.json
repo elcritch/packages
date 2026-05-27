@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "crunchy",
   "fqn": "crunchy.guzba.github.com",
   "current": "98eb6526982bb8aae8eec6e8781f4539fa19e049",
@@ -82,9 +82,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:36:16Z",
+  "generatedAt": "2026-05-27T12:25:33Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "rng",
   "fqn": "rng.onbox.codeberg.org",
   "current": "3530a04848ba17eff39f438a23113be1bee75a2c",
@@ -24,9 +24,9 @@
       "d": "Very basic wrapper over std/sysrand"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:04:54Z",
+  "generatedAt": "2026-05-27T12:35:36Z",
   "allDeps": {
     "packages": [],
     "urls": [],

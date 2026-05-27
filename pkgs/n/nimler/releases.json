@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimler",
   "fqn": "nimler.wltsmrz.github.com",
   "current": "56c08c22db49c2986a05866ee0d274042946314b",
@@ -71,9 +71,9 @@
       "m": "1.0.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:39:56Z",
+  "generatedAt": "2026-05-27T12:32:24Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

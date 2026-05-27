@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "optional_t",
   "fqn": "optional_t.flaviut.github.com",
   "current": "9f33a000cfadb4ffe0a404798147dea90fed66c4",
@@ -21,9 +21,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:03Z",
+  "generatedAt": "2026-05-27T12:33:47Z",
   "allDeps": {
     "packages": [],
     "urls": [],

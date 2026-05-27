@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "curly",
   "fqn": "curly.guzba.github.com",
   "current": "a0f42baacbc48f4e5924b18854c0df9dcc251466",
@@ -180,9 +180,9 @@
       "d": "Makes using libcurl efficiently easy"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:36:19Z",
+  "generatedAt": "2026-05-27T12:25:40Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

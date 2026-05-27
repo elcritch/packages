@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "modernnet",
   "fqn": "ModernNet.Nimberite-Development.github.com",
   "current": "5cab19278329a316e41211e2e2315bad559c9611",
@@ -88,9 +88,9 @@
       "m": "1.6.12"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:56:03Z",
+  "generatedAt": "2026-05-27T12:30:48Z",
   "allDeps": {
     "packages": [
       "graphemes <= 3.0.0",

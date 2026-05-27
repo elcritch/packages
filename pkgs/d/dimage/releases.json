@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "dimage",
   "fqn": "dimage.accodeing.github.com",
   "current": "30ff470dec65d5d6d868e1b0c588a378e2ca2781",
@@ -25,9 +25,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:38Z",
+  "generatedAt": "2026-05-27T12:25:59Z",
   "allDeps": {
     "packages": [
       "cligen"

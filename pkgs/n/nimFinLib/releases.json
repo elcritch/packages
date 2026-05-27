@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimFinLib",
   "fqn": "NimFinLib.qqtop.github.com",
   "current": "753729a11cd1e7d07324e912054424b6d83c2b89",
@@ -98,9 +98,9 @@
       "d": "Financial Library for Nim"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:57:17Z",
+  "generatedAt": "2026-05-27T12:31:36Z",
   "allDeps": {
     "packages": [],
     "urls": [],

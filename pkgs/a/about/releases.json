@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "about",
   "fqn": "about.aleandros.github.com",
   "current": "6733b1d01810a91540981ee3f11a369ffd6f8c96",
@@ -25,9 +25,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:34:09Z",
+  "generatedAt": "2026-05-27T11:43:00Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

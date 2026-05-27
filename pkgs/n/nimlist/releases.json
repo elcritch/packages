@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimlist",
   "fqn": "nimlist.flenniken.github.com",
   "current": "f036dc9e9070d4a35f955f2ccedcd0f8617c00a1",
@@ -36,9 +36,9 @@
       "d": "Browse nim packages in your browser."
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:39:57Z",
+  "generatedAt": "2026-05-27T12:32:26Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

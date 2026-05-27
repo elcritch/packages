@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "vancode",
   "fqn": "vancode.openpeeps.github.com",
   "current": "6711dd953689c30e1f5bd6da6d2a782ed28d5c88",
@@ -23,9 +23,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:06:46Z",
+  "generatedAt": "2026-05-27T12:38:31Z",
   "allDeps": {
     "packages": [
       "checksums",

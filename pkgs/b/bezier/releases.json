@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "bezier",
   "fqn": "bezier-nim.Nycto.github.com",
   "current": "7d5f80f2cf0ecebd429511e370b155c33e710f85",
@@ -28,9 +28,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:44Z",
+  "generatedAt": "2026-05-27T12:21:18Z",
   "allDeps": {
     "packages": [
       "mddoc",

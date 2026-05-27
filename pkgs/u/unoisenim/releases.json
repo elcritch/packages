@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "unoisenim",
   "fqn": "unoisenim.telatin.github.com",
   "current": "11b8daa6d4daf7bfb0424172b0f9079fe5c16745",
@@ -39,9 +39,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:06:31Z",
+  "generatedAt": "2026-05-27T12:38:21Z",
   "allDeps": {
     "packages": [
       "argparse",

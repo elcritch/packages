@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "rowdy",
   "fqn": "rowdy.ajusa.github.com",
   "current": "2a76fbd34973b7a0142713e84c9f2042b69f41e5",
@@ -22,9 +22,9 @@
       "d": "Magically map procs to mummy's router"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:01:37Z",
+  "generatedAt": "2026-05-27T12:35:37Z",
   "allDeps": {
     "packages": [
       "crunchy > 0.1.0",

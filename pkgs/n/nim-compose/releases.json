@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nim-compose",
   "fqn": "nim-compose.emanresu3.codeberg.org",
   "current": "d07c204de1d5371eaafc3af35dee95a62c76aa83",
@@ -30,9 +30,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:58:08Z",
+  "generatedAt": "2026-05-27T12:31:31Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "mycouch",
   "fqn": "mycouch.hamidb80.github.com",
   "current": "abf4365452e21cc3239ebed617a949aeca05d39c",
@@ -35,9 +35,9 @@
       "m": "1.4.8"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:39:03Z",
+  "generatedAt": "2026-05-27T12:31:02Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

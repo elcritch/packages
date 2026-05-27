@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "classy",
   "fqn": "classy.nigredo-tori.github.com",
   "current": "2a4c5ec004ff58a63ad452255311624f86e3d3c9",
@@ -31,9 +31,9 @@
       "b": ""
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:48Z",
+  "generatedAt": "2026-05-27T12:25:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

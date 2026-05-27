@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "papr",
   "fqn": "papr.capocasa.github.com",
   "current": "37a5368bbba047f2da93549d9467485d9b9024f3",
@@ -41,9 +41,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:15Z",
+  "generatedAt": "2026-05-27T12:34:01Z",
   "allDeps": {
     "packages": [
       "cligen",

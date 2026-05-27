@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "xm",
   "fqn": "xm.c-blake.github.com",
   "current": "fc89ccf27d8cffbccd7c0c36c5f13d86c52b420d",
@@ -27,9 +27,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:44:03Z",
+  "generatedAt": "2026-05-27T12:39:26Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "uncomment",
   "fqn": "uncomment.hamidb80.github.com",
   "current": "baf9e5e11c5fd52d8348b4e3effab72f31481144",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:43:16Z",
+  "generatedAt": "2026-05-27T12:38:15Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

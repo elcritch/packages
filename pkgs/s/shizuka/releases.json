@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "shizuka",
   "fqn": "shizuka.ethosa.github.com",
   "current": "3ce6fe7df26cdc1df116f4c2d3456917d1c237fd",
@@ -25,9 +25,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:42:03Z",
+  "generatedAt": "2026-05-27T12:36:16Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

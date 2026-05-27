@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimodpi",
   "fqn": "nimodpi.mikra01.github.com",
   "current": "0a2599b2d44a015297358e446937d9edd15f6787",
@@ -18,9 +18,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:58:37Z",
+  "generatedAt": "2026-05-27T12:32:30Z",
   "allDeps": {
     "packages": [
       "cligen",

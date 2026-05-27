@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimhttpd",
   "fqn": "nimhttpd.h3rald.github.com",
   "current": "f5204e05db638238b7bc002f1bcd48f36815a581",
@@ -124,9 +124,9 @@
       "p": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:39:52Z",
+  "generatedAt": "2026-05-27T12:32:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

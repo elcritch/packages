@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "libsvm_legacy",
   "fqn": "libsvm_legacy.nim-lang.github.com",
   "current": "cbc384e1842ceaf90968019eef44441b64320753",
@@ -13,9 +13,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:10Z",
+  "generatedAt": "2026-05-27T12:29:53Z",
   "allDeps": {
     "packages": [],
     "urls": [],

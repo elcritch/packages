@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "anycase",
   "fqn": "anycase.lamartire.github.com",
   "current": "c3a8b1b41cb9b6311ab117f80a1c31710540f74d",
@@ -32,9 +32,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:34:17Z",
+  "generatedAt": "2026-05-27T11:59:02Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

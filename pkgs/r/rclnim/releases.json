@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "rclnim",
   "fqn": "rclnim.Pylgos.github.com",
   "current": "46d09a4eada14aca53209fb8637fbef83c535f42",
@@ -78,9 +78,9 @@
       "m": "1.9"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:01:21Z",
+  "generatedAt": "2026-05-27T12:35:16Z",
   "allDeps": {
     "packages": [
       "bearssl > 0.4.1",

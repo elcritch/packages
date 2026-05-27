@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nhsl",
   "fqn": "nhsl.twist-vector.github.com",
   "current": "1d45cbd2fb6e0587e543e277a9cd3f32811ef2cc",
@@ -12,9 +12,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:56:50Z",
+  "generatedAt": "2026-05-27T12:31:25Z",
   "allDeps": {
     "packages": [],
     "urls": [],

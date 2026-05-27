@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "choosenimgui",
   "fqn": "choosenim_gui.ThomasTJdev.github.com",
   "current": "7d508fec5905a7124949746adaf8ac20b86a0a14",
@@ -19,9 +19,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:41Z",
+  "generatedAt": "2026-05-27T12:24:56Z",
   "allDeps": {
     "packages": [
       "webgui"

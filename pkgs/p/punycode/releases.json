@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "punycode",
   "fqn": "punycode.nim-lang.github.com",
   "current": "03fa3cf9f37c0fbcbdf400c37d9be7a458660dd6",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:01:05Z",
+  "generatedAt": "2026-05-27T12:34:57Z",
   "allDeps": {
     "packages": [],
     "urls": [],

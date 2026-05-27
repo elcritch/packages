@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "luhncheck",
   "fqn": "luhncheck.sillibird.github.com",
   "current": "6ec1c8fc09690fd3bf7563f4b9fe321afb6eb36e",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:34Z",
+  "generatedAt": "2026-05-27T12:30:17Z",
   "allDeps": {
     "packages": [],
     "urls": [],

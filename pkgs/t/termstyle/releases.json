@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "termstyle",
   "fqn": "termstyle.PMunch.github.com",
   "current": "eefd9f17071df2b8c13e18537cd799acd7f41501",
@@ -13,9 +13,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:05:17Z",
+  "generatedAt": "2026-05-27T12:37:37Z",
   "allDeps": {
     "packages": [],
     "urls": [],

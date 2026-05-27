@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "surfing",
   "fqn": "surfing.momeemt.github.com",
   "current": "7506e9cd5297747565d8214bee9cbd81afa51af7",
@@ -19,9 +19,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:42:29Z",
+  "generatedAt": "2026-05-27T12:37:17Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

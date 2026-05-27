@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "secp256k1",
   "fqn": "nim-secp256k1.status-im.github.com",
   "current": "d8f1288b7c72f00be5fc2c5ea72bf5cae1eafb15",
@@ -118,9 +118,9 @@
       "m": "1.6.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:02:42Z",
+  "generatedAt": "2026-05-27T12:35:58Z",
   "allDeps": {
     "packages": [
       "nimcrypto > 0.1.2",

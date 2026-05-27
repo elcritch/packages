@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimcolor",
   "fqn": "NimColor.JessaTehCrow.github.com",
   "current": "59e88627bfd8628d39f9087bb72c761546c032dd",
@@ -34,9 +34,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:57:56Z",
+  "generatedAt": "2026-05-27T12:31:59Z",
   "allDeps": {
     "packages": [],
     "urls": [],

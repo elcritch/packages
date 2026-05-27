@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "sqlquery",
   "fqn": "nim_sqlquery.ThomasTJdev.github.com",
   "current": "b9df99cdd97a610fb2baaf1724eb8396d51b6ece",
@@ -100,9 +100,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:04:32Z",
+  "generatedAt": "2026-05-27T12:36:52Z",
   "allDeps": {
     "packages": [
       "db_connector",

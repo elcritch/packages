@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "spinner",
   "fqn": "spinner.tonogram.github.com",
   "current": "dc68ed9890c3ca77de23413b85c5d819b0371794",
@@ -52,9 +52,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:04:26Z",
+  "generatedAt": "2026-05-27T12:36:47Z",
   "allDeps": {
     "packages": [
       "bumpy",

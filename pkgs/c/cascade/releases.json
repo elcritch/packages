@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "cascade",
   "fqn": "cascade.haltcase.github.com",
   "current": "9eea9d252b69d24a5f4449125fb68ba54a265b88",
@@ -21,9 +21,9 @@
       "m": "0.17.1"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:26Z",
+  "generatedAt": "2026-05-27T12:24:40Z",
   "allDeps": {
     "packages": [],
     "urls": [],

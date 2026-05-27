@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimnoise",
   "fqn": "nimnoise.blakeanedved.github.com",
   "current": "93cbb1212dff256791b1a95e82891af53ea2a580",
@@ -19,9 +19,9 @@
       "d": "A port of libnoise into pure nim, heavily inspired by Libnoise.Unity, but true to the original Libnoise"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:58:35Z",
+  "generatedAt": "2026-05-27T12:32:29Z",
   "allDeps": {
     "packages": [],
     "urls": [],

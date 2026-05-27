@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nim_lk",
   "fqn": "nim_lk.~ehmry.git.sr.ht",
   "current": "53fe3abc98912d460cc82cca89e04f4d7a957661",
@@ -64,9 +64,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:57:28Z",
+  "generatedAt": "2026-05-27T12:31:44Z",
   "allDeps": {
     "packages": [
       "atlas > 20231031 & <= 20240510",

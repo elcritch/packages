@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "pkgit",
   "fqn": "pkgit.dacctal.github.com",
   "current": "71a8f694c860b2c5a47fe2969d7ab0c0eed48252",
@@ -83,9 +83,9 @@
       "p": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:41:10Z",
+  "generatedAt": "2026-05-27T12:34:23Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

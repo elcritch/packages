@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimtcl",
   "fqn": "nimtcl.neroist.github.com",
   "current": "1424dd6cb13b665c28d60ad9534cd959a8415480",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:58:53Z",
+  "generatedAt": "2026-05-27T12:32:47Z",
   "allDeps": {
     "packages": [],
     "urls": [],

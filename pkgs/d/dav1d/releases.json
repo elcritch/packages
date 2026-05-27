@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "dav1d",
   "fqn": "nim-dav1d.capocasa.github.com",
   "current": "6fac5771be9cfa3ed4b0b0fde443194ffed1ffd1",
@@ -15,9 +15,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:24Z",
+  "generatedAt": "2026-05-27T12:25:43Z",
   "allDeps": {
     "packages": [
       "cligen",

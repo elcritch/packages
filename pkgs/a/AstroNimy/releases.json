@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "AstroNimy",
   "fqn": "AstroNimy.super-massive-black-holes.github.com",
   "current": "1b560bb469cc393ba01eceee232c6569d2759a74",
@@ -12,9 +12,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:47:17Z",
+  "generatedAt": "2026-05-27T11:39:14Z",
   "allDeps": {
     "packages": [],
     "urls": [],

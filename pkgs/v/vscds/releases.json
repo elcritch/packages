@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "vscds",
   "fqn": "vscds.doongjohn.github.com",
   "current": "58c99dbeee1f4a98ac0de7f9708c77d643e8bbbd",
@@ -52,9 +52,9 @@
       "d": "<VS Code Data Swapper> Easily manage multiple data folders."
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:06:57Z",
+  "generatedAt": "2026-05-27T12:38:40Z",
   "allDeps": {
     "packages": [
       "nimlevenshtein > 0.3.0"

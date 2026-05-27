@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "getprime",
   "fqn": "getprime.xjzh123.github.com",
   "current": "e299e2e3dae1efce8cb4a1c4ba2ffc55535ad62b",
@@ -18,9 +18,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:52:41Z",
+  "generatedAt": "2026-05-27T12:27:47Z",
   "allDeps": {
     "packages": [],
     "urls": [],

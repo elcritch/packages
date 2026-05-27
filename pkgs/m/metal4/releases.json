@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "metal4",
   "fqn": "metal4.treeform.github.com",
   "current": "46d0bc5afd65a563ecf9c5c93004b357733594c1",
@@ -18,9 +18,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:38:49Z",
+  "generatedAt": "2026-05-27T12:30:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

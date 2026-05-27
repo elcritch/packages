@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "getdns",
   "fqn": "getdns-nim.~ehmry.git.sr.ht",
   "current": "7cdedf05a2d9b3b6b0fffcfc548c63986ac7f5a7",
@@ -38,9 +38,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:52:41Z",
+  "generatedAt": "2026-05-27T12:27:46Z",
   "allDeps": {
     "packages": [],
     "urls": [],

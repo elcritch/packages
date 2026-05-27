@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "QRterm",
   "fqn": "QRterm.aruZeta.github.com",
   "current": "e953fbcb6c52c10f70b880c1b0cfdc9033bd06f4",
@@ -26,9 +26,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:34:05Z",
+  "generatedAt": "2026-05-27T11:39:34Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

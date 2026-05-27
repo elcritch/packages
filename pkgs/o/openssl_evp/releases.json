@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "openssl_evp",
   "fqn": "nim-openssl-evp.cowboy-coders.github.com",
   "current": "40ca0b64c89f4aa91d024fc7f2adc059d1f2fa7d",
@@ -21,9 +21,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:00:02Z",
+  "generatedAt": "2026-05-27T12:33:45Z",
   "allDeps": {
     "packages": [],
     "urls": [],

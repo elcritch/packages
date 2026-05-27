@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "reni",
   "fqn": "reni.fox0430.github.com",
   "current": "ae88f24359f7d0742328b7e4f538241d6af00fcc",
@@ -15,9 +15,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:01:29Z",
+  "generatedAt": "2026-05-27T12:35:26Z",
   "allDeps": {
     "packages": [
       "unicodedb"

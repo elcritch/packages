@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "vimeo",
   "fqn": "vimeo.thisago.github.com",
   "current": "dab3c6f462de6da1bdc03a28ff4dabf231939fd1",
@@ -39,9 +39,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:06:51Z",
+  "generatedAt": "2026-05-27T12:38:34Z",
   "allDeps": {
     "packages": [
       "cligen",

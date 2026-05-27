@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "avrman",
   "fqn": "avrman.Abathargh.github.com",
   "current": "7917e72b5e904609267fd16fc74323330d24fccc",
@@ -31,9 +31,9 @@
       "a": "mar"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:34:36Z",
+  "generatedAt": "2026-05-27T12:13:03Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

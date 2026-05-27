@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "util",
   "fqn": "util.thisago.github.com",
   "current": "e449c43f5cf3cf517b76ef23efc8473148d3020a",
@@ -30,9 +30,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:06:42Z",
+  "generatedAt": "2026-05-27T12:38:28Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "segmentation",
   "fqn": "nim-segmentation.nitely.github.com",
   "current": "8ac8570ea17bbbf1f737b2372a6b7e172a5afa6f",
@@ -27,9 +27,9 @@
       "m": "1.0.4"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:41:56Z",
+  "generatedAt": "2026-05-27T12:35:58Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

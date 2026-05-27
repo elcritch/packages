@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "sugerror",
   "fqn": "nim-sugerror.quelklef.github.com",
   "current": "14c5a2ad13bebc3ea0a57958d7cb59a0055b21d6",
@@ -12,9 +12,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:04:53Z",
+  "generatedAt": "2026-05-27T12:37:13Z",
   "allDeps": {
     "packages": [],
     "urls": [],

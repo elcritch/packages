@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "libevent",
   "fqn": "libevent-nim.openpeeps.github.com",
   "current": "3d6942efb19eade4399d01ac1ef727ea961c2deb",
@@ -18,9 +18,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:57Z",
+  "generatedAt": "2026-05-27T12:29:44Z",
   "allDeps": {
     "packages": [],
     "urls": [],

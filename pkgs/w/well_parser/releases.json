@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "well_parser",
   "fqn": "RRC-permits.samsamros.codeberg.org",
   "current": "098ab580b994b276ee228102092ef38592b7976a",
@@ -22,9 +22,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:07:52Z",
+  "generatedAt": "2026-05-27T12:38:59Z",
   "allDeps": {
     "packages": [
       "anonimongo",

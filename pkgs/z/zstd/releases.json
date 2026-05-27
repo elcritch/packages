@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "zstd",
   "fqn": "nim_zstd.wltsmrz.github.com",
   "current": "75ee00aa3da80903dc509f1ff1605304cc77c173",
@@ -67,9 +67,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:44:17Z",
+  "generatedAt": "2026-05-27T12:39:41Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "tmplpro",
   "fqn": "nim-tmplpro.mjfh.github.com",
   "current": "0c6a16323c223694dc6abbbb5625ca40f770d2c1",
@@ -22,9 +22,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:05:44Z",
+  "generatedAt": "2026-05-27T12:37:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

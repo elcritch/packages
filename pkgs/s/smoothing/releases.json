@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "smoothing",
   "fqn": "smoothing.paulnorrie.github.com",
   "current": "db987825475b99d09c81475644b2ca09447ffdb5",
@@ -16,9 +16,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:42:09Z",
+  "generatedAt": "2026-05-27T12:36:34Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

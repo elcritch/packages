@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "NimbleImGui",
   "fqn": "NimbleImGui.qb-0.github.com",
   "current": "fce46b5489e6eaaaec432a9a8eeaaab5dd93549f",
@@ -28,9 +28,9 @@
       "a": "qb"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:47:25Z",
+  "generatedAt": "2026-05-27T11:39:23Z",
   "allDeps": {
     "packages": [
       "nimgl"

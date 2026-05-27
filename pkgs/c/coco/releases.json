@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "coco",
   "fqn": "coco.samuelroy.github.com",
   "current": "0d7b08c9acfd492db19538aceb71901da9e47def",
@@ -22,9 +22,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:59Z",
+  "generatedAt": "2026-05-27T12:25:14Z",
   "allDeps": {
     "packages": [
       "cligen",

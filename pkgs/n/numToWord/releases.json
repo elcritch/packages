@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "numToWord",
   "fqn": "numToWord.thisago.github.com",
   "current": "525a668eb8dacd4f36d4ba1b223d73da61b2d90b",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:59:38Z",
+  "generatedAt": "2026-05-27T12:33:27Z",
   "allDeps": {
     "packages": [],
     "urls": [],

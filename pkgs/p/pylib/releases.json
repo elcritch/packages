@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "pylib",
   "fqn": "nimpylib.nimpylib.github.com",
   "current": "e3e226f186e35fdaf70de9e63659931b5a83a2df",
@@ -102,9 +102,9 @@
       "m": "1.6.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:41:37Z",
+  "generatedAt": "2026-05-27T12:35:05Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

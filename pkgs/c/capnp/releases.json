@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "capnp",
   "fqn": "capnp.nim.zielmicha.github.com",
   "current": "fa69fd7db70e14f8f4bbe364adc8e37195dd93b4",
@@ -16,9 +16,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:25Z",
+  "generatedAt": "2026-05-27T12:24:39Z",
   "allDeps": {
     "packages": [],
     "urls": [],

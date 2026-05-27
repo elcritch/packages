@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "kdb",
   "fqn": "kdb_nim.inv2004.github.com",
   "current": "2fbc9da70a508c27ca6da81d28c6e5ea79a4f030",
@@ -30,9 +30,9 @@
       "p": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:35Z",
+  "generatedAt": "2026-05-27T12:29:25Z",
   "allDeps": {
     "packages": [
       "isaac",

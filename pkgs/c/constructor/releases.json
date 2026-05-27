@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "constructor",
   "fqn": "constructor.beef331.github.com",
   "current": "f97bbbc90fe4e5097b7678d8a540d6f155a5eaa6",
@@ -112,9 +112,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:04Z",
+  "generatedAt": "2026-05-27T12:25:21Z",
   "allDeps": {
     "packages": [
       "micros > 1.0.3"

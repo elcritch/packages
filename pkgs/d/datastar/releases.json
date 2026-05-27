@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "datastar",
   "fqn": "datastar.nim.YuryKL.github.com",
   "current": "9f8ef692126e5d4639708f0d1fdbf83ce4ddbe9f",
@@ -22,9 +22,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:23Z",
+  "generatedAt": "2026-05-27T12:25:42Z",
   "allDeps": {
     "packages": [],
     "urls": [],

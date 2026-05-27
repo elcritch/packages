@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "wstp",
   "fqn": "nim-wstp.oskca.github.com",
   "current": "ea7cf20f76d6a2fc2eb918eece741ad81d6c8856",
@@ -16,9 +16,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:07:41Z",
+  "generatedAt": "2026-05-27T12:39:14Z",
   "allDeps": {
     "packages": [
       "c2nim"

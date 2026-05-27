@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "formatstr",
   "fqn": "formatstr.guibar64.github.com",
   "current": "6e04abf1f4f778e5bfb75d8d040947971a305f0e",
@@ -18,9 +18,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:52:13Z",
+  "generatedAt": "2026-05-27T12:27:14Z",
   "allDeps": {
     "packages": [],
     "urls": [],

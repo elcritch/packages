@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "winregistry",
   "fqn": "nim-registry.miere43.github.com",
   "current": "31c37dd48f6c9eb657f68c0f7b6f44f7adba5b3d",
@@ -41,9 +41,9 @@
       "m": "0.14.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:43:53Z",
+  "generatedAt": "2026-05-27T12:39:08Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

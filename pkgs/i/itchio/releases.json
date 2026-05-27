@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "itchio",
   "fqn": "nim-itchio.juancarlospaco.github.com",
   "current": "c6cfeccb23cce7a12133159cd25f7062ccf95d7b",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:12Z",
+  "generatedAt": "2026-05-27T12:29:06Z",
   "allDeps": {
     "packages": [],
     "urls": [],

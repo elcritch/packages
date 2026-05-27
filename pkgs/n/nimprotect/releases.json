@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimprotect",
   "fqn": "NimProtect.itaymigdal.github.com",
   "current": "1f723b32b1970700288cc096c76d6ab75c18a56d",
@@ -22,9 +22,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:58:43Z",
+  "generatedAt": "2026-05-27T12:32:37Z",
   "allDeps": {
     "packages": [
       "RC4"

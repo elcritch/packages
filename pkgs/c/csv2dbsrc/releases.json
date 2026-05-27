@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "csv2dbsrc",
   "fqn": "csv2dbsrc.z-kk.github.com",
   "current": "33ec1db36381b344b80bdf87b51aaf100159f075",
@@ -103,9 +103,9 @@
       "m": "1.4.4"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:17Z",
+  "generatedAt": "2026-05-27T12:25:35Z",
   "allDeps": {
     "packages": [
       "docopt > 0.4.3",

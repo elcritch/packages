@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "gitty",
   "fqn": "gitty.chrischtel.github.com",
   "current": "fdd9088efc41203c66a6a5eaee4bdf20b1329279",
@@ -41,9 +41,9 @@
       "l": "BSD-3-Clause"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:52:49Z",
+  "generatedAt": "2026-05-27T12:27:55Z",
   "allDeps": {
     "packages": [],
     "urls": [],

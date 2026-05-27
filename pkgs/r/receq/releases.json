@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "receq",
   "fqn": "nim_receq.choltreppe.github.com",
   "current": "a7ac6fe395be7780d3f14b17c74d9a0192a794af",
@@ -18,9 +18,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:01:24Z",
+  "generatedAt": "2026-05-27T12:35:20Z",
   "allDeps": {
     "packages": [],
     "urls": [],

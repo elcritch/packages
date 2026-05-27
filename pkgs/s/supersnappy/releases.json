@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "supersnappy",
   "fqn": "supersnappy.guzba.github.com",
   "current": "4fed6553d539cbbfb17ab5fea16a58b4f1916e7d",
@@ -58,9 +58,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:42:29Z",
+  "generatedAt": "2026-05-27T12:37:16Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

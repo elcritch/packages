@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nicoru",
   "fqn": "nicoru.fox0430.github.com",
   "current": "6a038b0a00f58236d53c8a6a70eb9dd054d12293",
@@ -19,9 +19,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:56:55Z",
+  "generatedAt": "2026-05-27T12:31:27Z",
   "allDeps": {
     "packages": [
       "syscall"

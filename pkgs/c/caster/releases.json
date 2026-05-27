@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "caster",
   "fqn": "caster.hamidb80.github.com",
   "current": "86c87fc54c7e09f9efa6307b77d35fbabdd28374",
@@ -22,9 +22,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:35:52Z",
+  "generatedAt": "2026-05-27T12:24:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "directnimrod",
   "fqn": "directnimrod.barcharcraz.bitbucket.org",
   "current": "1e5e7cba5aa403388a5711722df9640a18c7ba49",
@@ -18,9 +18,9 @@
       "d": "Nimrod wrapper for the\n               direct3D 11, 11.1, and 12 libraries\n               as well as for direct2D and DXGI"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:50:40Z",
+  "generatedAt": "2026-05-27T12:26:02Z",
   "allDeps": {
     "packages": [],
     "urls": [],

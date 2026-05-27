@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "awslambda",
   "fqn": "awslambda.nim.lambci.github.com",
   "current": "0fa0f62bec56eb7e09d8fd3e2a4c31798baba89f",
@@ -18,9 +18,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:18Z",
+  "generatedAt": "2026-05-27T12:16:21Z",
   "allDeps": {
     "packages": [],
     "urls": [],

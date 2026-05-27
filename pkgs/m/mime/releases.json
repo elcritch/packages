@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "mime",
   "fqn": "nimMime.enthus1ast.github.com",
   "current": "7bc2fcf5b60e9212b602508efd19cd8640decb77",
@@ -16,9 +16,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:56Z",
+  "generatedAt": "2026-05-27T12:30:41Z",
   "allDeps": {
     "packages": [],
     "urls": [],

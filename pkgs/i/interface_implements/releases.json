@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "interface_implements",
   "fqn": "nim-interface-implements.itsumura-h.github.com",
   "current": "ef7eacbc4b24b50481af7c074786e64b147164c7",
@@ -44,9 +44,9 @@
       "m": "1.4.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:37:57Z",
+  "generatedAt": "2026-05-27T12:28:59Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

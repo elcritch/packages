@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "aptos",
   "fqn": "nimAptos.C-NERD.github.com",
   "current": "962d512d7ca1bf57f5c0ed0b4472d74a9b6bf7c6",
@@ -28,9 +28,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:34:19Z",
+  "generatedAt": "2026-05-27T12:00:57Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

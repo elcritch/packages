@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "notcurses",
   "fqn": "nim-notcurses.michaelsbradleyjr.github.com",
   "current": "681dd2e87e2d67ba007d49b9a420792c16d5aa08",
@@ -171,9 +171,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:59:22Z",
+  "generatedAt": "2026-05-27T12:33:17Z",
   "allDeps": {
     "packages": [
       "cligen",

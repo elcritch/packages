@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimzend",
   "fqn": "nimzend.metatexx.github.com",
   "current": "a418e30936772c2cb975696f5388475cf94214e0",
@@ -19,9 +19,9 @@
       "d": "Native Nim Zend API glue for easy PHP extension development."
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:59:04Z",
+  "generatedAt": "2026-05-27T12:32:58Z",
   "allDeps": {
     "packages": [],
     "urls": [],

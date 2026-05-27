@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "chronos",
   "fqn": "nim-chronos.status-im.github.com",
   "current": "31ddf9be6560072f83aeb25933c3132d4ecd638e",
@@ -112,9 +112,9 @@
       "m": "1.2.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:46Z",
+  "generatedAt": "2026-05-27T12:25:01Z",
   "allDeps": {
     "packages": [
       "bearssl",

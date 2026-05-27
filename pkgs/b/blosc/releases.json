@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "blosc",
   "fqn": "nblosc.Vindaar.github.com",
   "current": "7fb0c2bc2799421b49ca33207c033fbc0afb4daa",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:05Z",
+  "generatedAt": "2026-05-27T12:24:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

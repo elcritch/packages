@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "norx",
   "fqn": "norx.gokr.github.com",
   "current": "beec0f363e62886da7a1c6de47ecb3b19d6de75e",
@@ -20,9 +20,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:59:23Z",
+  "generatedAt": "2026-05-27T12:33:18Z",
   "allDeps": {
     "packages": [],
     "urls": [],

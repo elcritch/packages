@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "asyncchannels",
   "fqn": "nim-async-channels.status-im.github.com",
   "current": "f22daeae4ca2c0971bbbbd99d289ff0ea71a56fc",
@@ -17,9 +17,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:03Z",
+  "generatedAt": "2026-05-27T12:08:43Z",
   "allDeps": {
     "packages": [
       "bearssl",

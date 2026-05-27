@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "starlight",
   "fqn": "starlight.akvilary.github.com",
   "current": "c88886466d72cf32152b804de5e6dc0391ae435f",
@@ -16,9 +16,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:04:37Z",
+  "generatedAt": "2026-05-27T12:36:57Z",
   "allDeps": {
     "packages": [
       "httpx",

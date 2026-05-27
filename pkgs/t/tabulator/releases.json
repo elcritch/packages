@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "tabulator",
   "fqn": "nim-tabulator.erykjj.github.com",
   "current": "2909bee55418e80d8a35aa007a626f72f59b0e96",
@@ -27,9 +27,9 @@
       "l": "Infiniti Noncommercial License (https://github.com/erykjj/tabulator/blob/main/LICENSE.md)"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:42:33Z",
+  "generatedAt": "2026-05-27T12:37:25Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

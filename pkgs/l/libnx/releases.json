@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "libnx",
   "fqn": "nim-libnx.jyapayne.github.com",
   "current": "01dda9d2ce50f3a2fc5b2601f43ffe8e533aa01d",
@@ -26,9 +26,9 @@
       "h": true
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:38:22Z",
+  "generatedAt": "2026-05-27T12:29:47Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

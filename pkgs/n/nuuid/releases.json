@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nuuid",
   "fqn": "nim-only-uuid.yglukhov.github.com",
   "current": "078f473fc811793119df55b766a3670a62f988c2",
@@ -12,9 +12,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:59:42Z",
+  "generatedAt": "2026-05-27T12:33:28Z",
   "allDeps": {
     "packages": [],
     "urls": [],

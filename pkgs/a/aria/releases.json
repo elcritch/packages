@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "aria",
   "fqn": "aria.juancarlospaco.github.com",
   "current": "24347df6603bd24e513d6f9912edfe41e3d1ca57",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:47:55Z",
+  "generatedAt": "2026-05-27T12:06:57Z",
   "allDeps": {
     "packages": [],
     "urls": [],

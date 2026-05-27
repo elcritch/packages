@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "libtcod_nim",
   "fqn": "libtcod_nim.Vladar4.github.com",
   "current": "3f9be2188ff08fa503af9f9d8cc83ac0a1dffc1f",
@@ -86,9 +86,9 @@
       "j": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:11Z",
+  "generatedAt": "2026-05-27T12:29:54Z",
   "allDeps": {
     "packages": [
       "sdl1 > 0.97 & <= 0.98.1",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "spectra",
   "fqn": "spectra.ph4mished.github.com",
   "current": "313a5ee74e599d20046defb95b30377eba331a99",
@@ -43,9 +43,9 @@
       "p": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:42:13Z",
+  "generatedAt": "2026-05-27T12:36:44Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

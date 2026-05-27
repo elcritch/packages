@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "cborious",
   "fqn": "cborious.elcritch.github.com",
   "current": "6e1817598db24a90350be2d58fb0f4f76787732f",
@@ -87,9 +87,9 @@
       }
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:30Z",
+  "generatedAt": "2026-05-27T12:24:45Z",
   "allDeps": {
     "packages": [
       "bigints > 0.5.0",

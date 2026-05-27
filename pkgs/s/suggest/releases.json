@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "suggest",
   "fqn": "suggest.c-blake.github.com",
   "current": "09b799f3bb852018adcdd63a6de9d6965838edf2",
@@ -75,9 +75,9 @@
       "m": "0.19.2"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:42:28Z",
+  "generatedAt": "2026-05-27T12:37:13Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

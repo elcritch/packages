@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "entgrep",
   "fqn": "entgrep.srozb.github.com",
   "current": "8fd1116e3694b82236385105093efe8b2ff61292",
@@ -17,9 +17,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:51:02Z",
+  "generatedAt": "2026-05-27T12:26:26Z",
   "allDeps": {
     "packages": [],
     "urls": [],

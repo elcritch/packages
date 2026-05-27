@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nclip",
   "fqn": "nclip.4zv4l.github.com",
   "current": "bcf18785dd85131374a3d51db6b98c45ac1aa32d",
@@ -16,9 +16,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:56:27Z",
+  "generatedAt": "2026-05-27T12:31:10Z",
   "allDeps": {
     "packages": [
       "winim"

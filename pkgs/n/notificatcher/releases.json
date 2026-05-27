@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "notificatcher",
   "fqn": "notificatcher.PMunch.github.com",
   "current": "f43ac3290a1053e47409c4f402744b2ccb8e3a84",
@@ -51,9 +51,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:40:34Z",
+  "generatedAt": "2026-05-27T12:33:19Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

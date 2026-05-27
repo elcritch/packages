@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "winim",
   "fqn": "winim.khchen.github.com",
   "current": "6fdee629140baa0d7060ddf86662457d11f50d35",
@@ -86,9 +86,9 @@
       "d": "Winim - Nim's Windows API and COM Library"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:07:31Z",
+  "generatedAt": "2026-05-27T12:39:07Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "metar",
   "fqn": "metar.flenniken.github.com",
   "current": "549ff5ef7461ccd8dfbeeb0841578745cd71532c",
@@ -31,9 +31,9 @@
       "m": "1.0.4"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:38:49Z",
+  "generatedAt": "2026-05-27T12:30:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

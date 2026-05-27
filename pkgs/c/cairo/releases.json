@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "cairo",
   "fqn": "cairo.nim-lang.github.com",
   "current": "a4c97b136f7371e37e6c66e51bae992d43e8a5a2",
@@ -18,9 +18,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:22Z",
+  "generatedAt": "2026-05-27T12:24:37Z",
   "allDeps": {
     "packages": [],
     "urls": [],

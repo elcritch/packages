@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "minecraft_server_status",
   "fqn": "minecraft_server_status.GabrielLasso.github.com",
   "current": "f39966e85a2248f6ec6a761d0115c79fbcf0567c",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:38:52Z",
+  "generatedAt": "2026-05-27T12:30:42Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

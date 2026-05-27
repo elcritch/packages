@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "neoid",
   "fqn": "nim-neoid.theAkito.github.com",
   "current": "f6197a00064a0779b0d0e5c927873d9afe1b4bc1",
@@ -48,9 +48,9 @@
       "m": "0.18.0"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:56:33Z",
+  "generatedAt": "2026-05-27T12:31:15Z",
   "allDeps": {
     "packages": [
       "random",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "wave",
   "fqn": "wave.jiro4989.github.com",
   "current": "d07397a7c6cba35525a9e88afb9f7a90e6cad78c",
@@ -18,9 +18,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:43:33Z",
+  "generatedAt": "2026-05-27T12:38:45Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

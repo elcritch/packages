@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "safeset",
   "fqn": "safeset.avahe-kellenberger.github.com",
   "current": "049026f50611e2a0ecb617839f23a286b6b597c6",
@@ -16,9 +16,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:01:54Z",
+  "generatedAt": "2026-05-27T12:35:43Z",
   "allDeps": {
     "packages": [
       "nimtest"

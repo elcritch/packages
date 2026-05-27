@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "cloudbet",
   "fqn": "cloudbet.juancarlospaco.github.com",
   "current": "a6803845eee12487102f78b6d77aced42528e122",
@@ -14,9 +14,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:49:54Z",
+  "generatedAt": "2026-05-27T12:25:09Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "nimby",
   "fqn": "nimby.treeform.github.com",
   "current": "9d3d79e23724102e65ceb75d0406864ecc502326",
@@ -121,9 +121,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:39:41Z",
+  "generatedAt": "2026-05-27T12:31:56Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

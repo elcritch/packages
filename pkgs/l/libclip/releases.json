@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "libclip",
   "fqn": "libclip.jabbalaci.github.com",
   "current": "842e0863f3d418e79aef44ed4b8aa205792d0cc9",
@@ -16,9 +16,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:55Z",
+  "generatedAt": "2026-05-27T12:29:42Z",
   "allDeps": {
     "packages": [
       "winim"

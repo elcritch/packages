@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "monoucha",
   "fqn": "monoucha.~bptato.git.sr.ht",
   "current": "24920865a82cafd9471a593121f4b55a7094b49c",
@@ -177,9 +177,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:56:09Z",
+  "generatedAt": "2026-05-27T12:30:54Z",
   "allDeps": {
     "packages": [
       "results"

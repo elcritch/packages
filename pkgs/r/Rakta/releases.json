@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "Rakta",
   "fqn": "Rakta.DitzDev.github.com",
   "current": "f4d2b68a561912d9891caff4f96751654031953b",
@@ -27,9 +27,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:34:06Z",
+  "generatedAt": "2026-05-27T11:40:00Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

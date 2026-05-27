@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "asyncrabbitmq",
   "fqn": "rabbitmq.nim.Q-Master.github.com",
   "current": "a09bd58087dcb1fa704259191c65a01e6fd9c0a1",
@@ -22,9 +22,9 @@
       "m": "0.20.00"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:48:06Z",
+  "generatedAt": "2026-05-27T12:09:03Z",
   "allDeps": {
     "packages": [
       "networkutils",

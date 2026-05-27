@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "qpdf",
   "fqn": "nim-qpdf.fox0430.github.com",
   "current": "1c7c06dc777333aa37099086b5c59f47d5267906",
@@ -17,9 +17,9 @@
       "r": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:01:12Z",
+  "generatedAt": "2026-05-27T12:35:05Z",
   "allDeps": {
     "packages": [],
     "urls": [],

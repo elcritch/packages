@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "linear_models",
   "fqn": "linear-models.ayman-albaz.github.com",
   "current": "5e2da6d3134819f396f362e3a30e91a4df2aabc7",
@@ -24,9 +24,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:16Z",
+  "generatedAt": "2026-05-27T12:29:58Z",
   "allDeps": {
     "packages": [
       "arraymancer",

@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "ipfshttpclient",
   "fqn": "ipfshttpclient.ringabout.github.com",
   "current": "1234809cf6e6712c11e57e80463a802c247bff7d",
@@ -17,9 +17,9 @@
       ]
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:54:09Z",
+  "generatedAt": "2026-05-27T12:29:04Z",
   "allDeps": {
     "packages": [
       "libcurl",

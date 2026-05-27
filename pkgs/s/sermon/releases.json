@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "sermon",
   "fqn": "nim_sermon.ThomasTJdev.github.com",
   "current": "1ea2211f54379c66013979eadac26b08ea25bb4f",
@@ -78,9 +78,9 @@
       "i": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T01:03:04Z",
+  "generatedAt": "2026-05-27T12:36:06Z",
   "allDeps": {
     "packages": [
       "asynctools",

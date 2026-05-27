@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "xlsx",
   "fqn": "xlsx.ringabout.github.com",
   "current": "d354ba4a8cccd283eadc678c00e13d88fbfa559c",
@@ -107,9 +107,9 @@
       "d": "A new awesome nimble package"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:44:02Z",
+  "generatedAt": "2026-05-27T12:39:24Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

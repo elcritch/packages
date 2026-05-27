@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "dali",
   "fqn": "dali.akavel.github.com",
   "current": "911fea3b41ca4f9bc8eb2013f7456dff38a65af0",
@@ -53,9 +53,9 @@
       "m": "0.19.4"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:36:19Z",
+  "generatedAt": "2026-05-27T12:25:41Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

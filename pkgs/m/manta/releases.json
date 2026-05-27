@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "manta",
   "fqn": "manta.metagn.github.com",
   "current": "e4f63635f67aad97cb86b8c961b17c81a16f771d",
@@ -24,9 +24,9 @@
       "d": "runtime array types with destructors"
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T00:55:39Z",
+  "generatedAt": "2026-05-27T12:30:23Z",
   "allDeps": {
     "packages": [],
     "urls": [],

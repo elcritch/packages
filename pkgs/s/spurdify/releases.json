@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "spurdify",
   "fqn": "spurdify.paradox460.github.com",
   "current": "5e17c8cab22e6302e330194a16564e4d69afff73",
@@ -60,9 +60,9 @@
       "p": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:42:16Z",
+  "generatedAt": "2026-05-27T12:36:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

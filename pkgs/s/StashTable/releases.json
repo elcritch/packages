@@ -1,5 +1,5 @@
 {
-  "cv": 18,
+  "cv": 19,
   "name": "StashTable",
   "fqn": "StashTable.olliNiinivaara.github.com",
   "current": "d472ee8611a9ed986c49fed57540d67496ea2f10",
@@ -41,9 +41,9 @@
       "j": []
     }
   ],
-  "releaseCacheVersion": 18,
+  "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T07:34:08Z",
+  "generatedAt": "2026-05-27T11:40:15Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
