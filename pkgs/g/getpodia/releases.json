@@ -74,9 +74,7 @@
       "scraper > 3.5.0",
       "util > 3.5.0"
     ],
-    "urls": [
-      "error://findxml > 3.5.0"
-    ],
+    "urls": [],
     "unresolved": [
       "gh:thisago/findxml"
     ]

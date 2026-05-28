@@ -2,12 +2,19 @@
   "cv": 19,
   "name": "async_postgres",
   "fqn": "async-postgres.fox0430.github.com",
-  "current": "c551dcb8a18b1bd92f7332a2517ee69cb87e5abf",
+  "current": "2ac2d89ccf1bffaf8410acd0365f685d72b9cb1c",
   "author": "fox0430",
   "description": "Async PostgreSQL client",
   "license": "MIT",
   "nim": "2.2.4",
   "releases": [
+    {
+      "v": "0.3.0@2ac2d89ccf1bffaf8410acd0365f685d72b9cb1c^",
+      "r": [
+        "nimcrypto >= 0.6.0",
+        "checksums >= 0.2.0"
+      ]
+    },
     {
       "v": "0.2.0@d152c277832672cdf1d24689f4f31e07ffa41d42",
       "r": [
@@ -26,19 +33,21 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-28T07:30:01Z",
+  "generatedAt": "2026-05-28T13:23:55Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
       "zip": "/archive/refs/tags/{tag}.zip"
     },
     "releases": [
-      "v0.2.0"
+      "v0.2.0",
+      "v0.3.0"
     ],
     "tagVersions": {
-      "v0.2.0": "0.2.0"
+      "v0.2.0": "0.2.0",
+      "v0.3.0": "0.3.0"
     },
-    "latest": "v0.2.0"
+    "latest": "v0.3.0"
   },
   "allDeps": {
     "packages": [

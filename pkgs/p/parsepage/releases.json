@@ -17,7 +17,7 @@
       "v": "0.1.0@a367a40f76d51bb012a04335f9c8338814e08315",
       "r": [
         "cligen",
-        "gl:lurlo/useragent",
+        "gh:thisago/useragent",
         "scraper"
       ],
       "b": ""
@@ -79,7 +79,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-28T07:39:28Z",
+  "generatedAt": "2026-05-28T13:30:44Z",
   "allDeps": {
     "packages": [
       "cligen",
@@ -91,11 +91,11 @@
       "ws > 0.1.0",
       "yaml > 0.1.0"
     ],
-    "urls": [
-      "error://findxml"
-    ],
+    "urls": [],
     "unresolved": [
+      "gh:thisago/findxml",
       "gh:thisago/fsafename",
+      "gh:thisago/useragent",
       "gl:lurlo/useragent"
     ]
   }

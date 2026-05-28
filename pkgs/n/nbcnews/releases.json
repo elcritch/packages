@@ -128,10 +128,9 @@
       "scraper <= 1.0.4",
       "util > 1.0.4"
     ],
-    "urls": [
-      "error://findxml <= 1.0.4"
-    ],
+    "urls": [],
     "unresolved": [
+      "gh:thisago/findxml",
       "gh:thisago/useragent",
       "gl:lurlo/useragent"
     ]
