@@ -134,16 +134,6 @@
       ]
     },
     {
-      "v": "0.3.10@d366f6ef14bdc73311758066bbe1bfa46f71951c",
-      "r": [
-        "Nimscripter >= 1.0.18",
-        "cligen",
-        "msgpack4nim >= 0.4.0",
-        "flatty",
-        "yaml"
-      ]
-    },
-    {
       "v": "0.3.9@39b852e833477c3672c04e6522b9c497a3e3ca55",
       "r": [
         "Nimscripter >= 1.0.18",
@@ -338,7 +328,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T11:58:11Z",
+  "generatedAt": "2026-05-28T19:00:43Z",
   "allDeps": {
     "packages": [
       "Nimscripter",

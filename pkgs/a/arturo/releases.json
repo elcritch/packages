@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "arturo",
   "fqn": "arturo.arturo-lang.github.com",
-  "current": "c7f4523ef4a09c3b5d645cc5bf526319d63b6044",
+  "current": "35b20c034c9df33eec346c7d4de1529d6b7942f2",
   "releases": [
     {
       "v": "0.10.0@8bea10b7306a17bd4538301332edb7ac656ce2b7",
@@ -43,7 +43,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-28T13:23:57Z",
+  "generatedAt": "2026-05-28T19:00:56Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

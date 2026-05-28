@@ -87,11 +87,18 @@
         "unicodedb >= 0.2 & <= 0.3"
       ],
       "m": "0.17.2"
+    },
+    {
+      "v": "0.1.0@0aa4d7c0e283a78ce5bda8011bec038475c99775",
+      "r": [
+        "unicodedb >= 0.1 & <= 0.2"
+      ],
+      "m": "0.17.2"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-28T13:30:12Z",
+  "generatedAt": "2026-05-28T19:06:25Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
