@@ -1,1 +1,1 @@
-{"v":"#head@e37f996987464eab95e6a4bbe21535653ab178b0","r":["gl:lurlo/useragent","util"]}
+{"v":"#head@e37f996987464eab95e6a4bbe21535653ab178b0","r":["error://useragent","util"],"S":"HasBrokenDep","E":"in file: /home/runner/work/nim-packages/nim-packages/pkgs/s/subscribestar/.worktree/subscribestar.nimble\ncannot resolve package name: useragent"}

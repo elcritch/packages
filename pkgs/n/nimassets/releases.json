@@ -34,6 +34,13 @@
       "m": "1.4.0"
     },
     {
+      "v": "0.2.3@91eae32ffa9db42d6b9bda0910e10e826ede1826",
+      "r": [
+        "zstd >= 0.5.0"
+      ],
+      "m": "1.4.0"
+    },
+    {
       "v": "0.2.4@c1830fd4bb02afe2f8970742b905893a4088f9b4",
       "r": [
         "zstd >= 0.5.0"
@@ -43,7 +50,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-28T00:47:50Z",
+  "generatedAt": "2026-05-28T07:37:20Z",
   "allDeps": {
     "packages": [
       "zstd > 0.2.1"
