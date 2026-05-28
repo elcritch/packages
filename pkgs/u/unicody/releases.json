@@ -56,17 +56,11 @@
       "r": [
         "nimsimd >= 1.2.6"
       ]
-    },
-    {
-      "v": "0.1.0@d85383723f0fa5ccb7fa2a0b614e2aca8a0546c7",
-      "r": [
-        "nimsimd >= 1.2.6"
-      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T19:09:09Z",
+  "generatedAt": "2026-05-28T00:50:35Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

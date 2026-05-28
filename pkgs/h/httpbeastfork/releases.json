@@ -82,17 +82,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T19:00:22Z",
-  "allDeps": {
-    "packages": [
-      "asynctools"
-    ],
-    "urls": [],
-    "unresolved": [
-      "gh:iffy/asynctools",
-      "gh:timotheecour/asynctools"
-    ]
-  },
+  "generatedAt": "2026-05-28T00:46:15Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -105,5 +95,15 @@
       "v1.0.0": "1.0.0"
     },
     "latest": "v1.0.0"
+  },
+  "allDeps": {
+    "packages": [
+      "asynctools"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:iffy/asynctools",
+      "gh:timotheecour/asynctools"
+    ]
   }
 }

@@ -409,14 +409,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T19:00:29Z",
-  "allDeps": {
-    "packages": [
-      "hpack"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-28T00:46:19Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -507,5 +500,12 @@
       "v0.1.57": "0.1.57"
     },
     "latest": "v0.1.57"
+  },
+  "allDeps": {
+    "packages": [
+      "hpack"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

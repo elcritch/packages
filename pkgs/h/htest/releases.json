@@ -25,14 +25,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T19:00:17Z",
-  "allDeps": {
-    "packages": [
-      "nimquery"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-05-28T00:46:13Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -46,5 +39,12 @@
       "0.1.0",
       "0.1.1"
     ]
+  },
+  "allDeps": {
+    "packages": [
+      "nimquery"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "metalx",
   "fqn": "metalx.elcritch.github.com",
-  "current": "b161231d45b9e75a0b4616362d8717f5b8568e0b",
+  "current": "fe7bcd031738e4372662b732cc5c2a09f79ec31e",
   "author": "Jaremy Creechley",
   "description": "metal bindings",
   "license": "MIT",
@@ -64,9 +64,21 @@
       }
     },
     {
-      "v": "0.4.2@b161231d45b9e75a0b4616362d8717f5b8568e0b^",
+      "v": "0.4.2@b161231d45b9e75a0b4616362d8717f5b8568e0b",
       "r": [
         "darwin #head"
+      ],
+      "f": {
+        "test": [
+          "windy",
+          "sdl2"
+        ]
+      }
+    },
+    {
+      "v": "0.4.3@bd03b2bb7a78cb09d090869a4e38ca8e655d20c8",
+      "r": [
+        "darwin"
       ],
       "f": {
         "test": [
@@ -78,7 +90,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:30:36Z",
+  "generatedAt": "2026-05-28T00:47:11Z",
   "allDeps": {
     "packages": [
       "bumpy > 0.1.0",

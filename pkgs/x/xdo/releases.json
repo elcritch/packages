@@ -40,13 +40,6 @@
       "m": "1.2.2"
     },
     {
-      "v": "0.7.5@70c352d279bca27a4086262eadd44386514675fd",
-      "r": [],
-      "h": true,
-      "a": "Juan Carlos, Mircea Ilie Ploscaru",
-      "m": "1.2.4"
-    },
-    {
       "v": "0.9.0@808b22428fc9a673bcead23988e00a6368f4053a",
       "r": [],
       "h": true,
@@ -63,7 +56,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:39:19Z",
+  "generatedAt": "2026-05-28T00:51:04Z",
   "allDeps": {
     "packages": [],
     "urls": [],

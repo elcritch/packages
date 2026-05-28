@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "figdraw",
   "fqn": "figdraw.elcritch.github.com",
-  "current": "a71e02fb266c16cbcad7b949015b9a83dceb9fd8",
+  "current": "94d311a2e4b92ab28bcd848b059a03ad2db147de",
   "author": "Jaremy Creechley",
   "description": "UI Engine for Nim",
   "license": "MIT",
@@ -2199,11 +2199,53 @@
           "windy"
         ]
       }
+    },
+    {
+      "v": "0.22.10@94d311a2e4b92ab28bcd848b059a03ad2db147de^",
+      "r": [
+        "pixie >= 5.0.1",
+        "chroma >= 0.2.7",
+        "bumpy",
+        "stack_strings",
+        "chronicles >= 0.10.3",
+        "sdfy >= 0.8.1",
+        "nimsimd >= 1.2.5",
+        "variant",
+        "patty",
+        "supersnappy",
+        "opengl",
+        "vmath",
+        "gh:planetis-m/vulkan #b223dc9"
+      ],
+      "m": "2.2",
+      "f": {
+        "vulkan": [
+          "gh:planetis-m/vulkan #b223dc9"
+        ],
+        "lottie": [
+          "jsony"
+        ],
+        "metal": [
+          "metalx #head"
+        ],
+        "surfer": [
+          "surfer"
+        ],
+        "siwin": [
+          "siwin >= 1.0.1"
+        ],
+        "sdl2": [
+          "sdl2"
+        ],
+        "windy": [
+          "windy"
+        ]
+      }
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:27:03Z",
+  "generatedAt": "2026-05-28T00:45:29Z",
   "allDeps": {
     "packages": [
       "bumpy",

@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "typestates",
   "fqn": "nim-typestates.elijahr.github.com",
-  "current": "f3955be472e8353f8736bb639c3133023889ddb8",
+  "current": "9b5a9709822f54d4cb7a07bb0cbb2cfca6e4f955",
   "author": "elijahr <elijahr+typestates@gmail.com>",
   "description": "Compile-time typestate validation for Nim",
   "license": "MIT",
@@ -89,7 +89,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T19:09:03Z",
+  "generatedAt": "2026-05-28T00:50:32Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
