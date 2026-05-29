@@ -411,11 +411,20 @@
       "d": "Nim ORM.",
       "m": "0.19.4",
       "x": []
+    },
+    {
+      "v": "1.0.0@a5ff85536062c811759ee2b16cdced6e386d1631",
+      "r": [
+        "chronicles"
+      ],
+      "d": "Nim ORM.",
+      "m": "0.19.4",
+      "x": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-29T00:54:37Z",
+  "generatedAt": "2026-05-29T07:37:24Z",
   "allDeps": {
     "packages": [
       "chronicles <= 1.0.4",

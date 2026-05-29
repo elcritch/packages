@@ -72,6 +72,14 @@
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-338edb3f-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.6\ninvalid 'requires' syntax in nimble file: chroma ^= 1.0.0\ninvalid 'requires' syntax in nimble file: cligen ^= 1.9.5\ninvalid 'requires' syntax in nimble file: karax ^= 1.5.0\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.3.2\ninvalid 'requires' syntax in nimble file: regex ^= 0.26.3\ninvalid 'requires' syntax in nimble file: results ^= 0.5.1\ninvalid 'requires' syntax in nimble file: stew ^= 0.4.2\ninvalid 'requires' syntax in nimble file: unittest2 ^= 0.2.5"
     },
     {
+      "v": "0.28.2@72287aaa0cae3c79a1cf38bd460ab1f8af057ca2",
+      "r": [],
+      "d": "Application of Puyo Puyo and Nazo Puyo",
+      "l": "Apache-2.0",
+      "S": "HasBrokenNimbleFile",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-72287aaa-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.6\ninvalid 'requires' syntax in nimble file: chroma ^= 1.0.0\ninvalid 'requires' syntax in nimble file: chronos ^= 4.0.4\ninvalid 'requires' syntax in nimble file: cligen ^= 1.9.5\ninvalid 'requires' syntax in nimble file: karax ^= 1.5.0\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.3.2\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: regex ^= 0.26.3\ninvalid 'requires' syntax in nimble file: results ^= 0.5.1\ninvalid 'requires' syntax in nimble file: stew ^= 0.4.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2\ninvalid 'requires' syntax in nimble file: unittest2 ^= 0.2.5"
+    },
+    {
       "v": "0.28.1@0e670c688ea04688fae4a87f6da55059f2632538",
       "r": [],
       "d": "Application of Puyo Puyo and Nazo Puyo",
@@ -947,7 +955,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-29T00:55:14Z",
+  "generatedAt": "2026-05-29T07:38:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
