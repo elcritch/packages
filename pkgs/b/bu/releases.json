@@ -4162,58 +4162,6 @@
       "m": "1.6.0"
     },
     {
-      "v": "0.6.5@d3970ac138a194db9a2570207f4b08ea62954c13",
-      "r": [
-        "cligen >= 1.5.41"
-      ],
-      "p": [
-        "ft",
-        "only",
-        "fkindc",
-        "notIn",
-        "dfr",
-        "lncs",
-        "du",
-        "rr",
-        "dups",
-        "cbtm",
-        "dirt",
-        "fage",
-        "newest",
-        "since",
-        "saft",
-        "memlat",
-        "fread",
-        "ru",
-        "etr",
-        "tim",
-        "bu/eve",
-        "align",
-        "tails",
-        "cols",
-        "rp",
-        "crp",
-        "cfold",
-        "unfold",
-        "ww",
-        "jointr",
-        "bu/colSort",
-        "fsids",
-        "chom",
-        "thermctl",
-        "pid2",
-        "sr",
-        "tattr",
-        "wsz",
-        "okpaths",
-        "nrel",
-        "dirq",
-        "funnel",
-        "stripe"
-      ],
-      "m": "1.6.0"
-    },
-    {
       "v": "0.6.4@93fc17f4f6d3c2961cc35978a2a5b9bd16c3d474",
       "r": [
         "cligen >= 1.5.40"
@@ -4992,7 +4940,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-28T19:01:34Z",
+  "generatedAt": "2026-05-29T00:50:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -24,21 +24,27 @@
     {
       "v": "1.1.0@76ecfcbed1a19c0d5addbc1c9f8db3a7217fc5e2",
       "r": [
-        "gl:lurlo/useragent"
-      ]
+        "error://useragent"
+      ],
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/gimg.thisago.github.com-76ecfcbe-gimg.nimble\ncannot resolve package name: useragent"
     },
     {
       "v": "1.1.1@3b519017661c667e3c207d5681742d5f08e729e7",
       "r": [
-        "gl:lurlo/useragent"
-      ]
+        "error://useragent"
+      ],
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/gimg.thisago.github.com-3b519017-gimg.nimble\ncannot resolve package name: useragent"
     },
     {
       "v": "1.2.2@ed05e7daf6ed58a33546d817bd73b72899a1355a",
       "r": [
-        "gl:lurlo/useragent"
+        "error://useragent"
       ],
-      "m": "1.6.4"
+      "m": "1.6.4",
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/gimg.thisago.github.com-ed05e7da-gimg.nimble\ncannot resolve package name: useragent"
     },
     {
       "v": "1.3.0@b93fe2b639ff0666504b5b47d8c73f16e9fb8210",
@@ -52,13 +58,14 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-28T19:03:18Z",
+  "generatedAt": "2026-05-29T00:51:47Z",
   "allDeps": {
     "packages": [],
-    "urls": [],
+    "urls": [
+      "error://useragent > 0.1.0 & <= 1.2.2"
+    ],
     "unresolved": [
-      "gh:thisago/useragent",
-      "gl:lurlo/useragent"
+      "gh:thisago/useragent"
     ]
   }
 }

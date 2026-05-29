@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "openai_leap",
   "fqn": "openai_leap.monofuel.github.com",
-  "current": "fe1714ed687c5d9d7b997dbb74d7e915a19dbeda",
+  "current": "5f233cabe19e6391120d852e8c1c01883236d469",
   "author": "Andrew Brower",
   "description": "OpenAI API for Nim",
   "license": "MIT",
@@ -264,7 +264,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-28T19:06:41Z",
+  "generatedAt": "2026-05-29T00:54:49Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
