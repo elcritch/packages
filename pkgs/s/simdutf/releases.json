@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "simdutf",
   "fqn": "simdutf.ferus-web.github.com",
-  "current": "c9ce60944110b10406ec8a6ad312efb31722fd69",
+  "current": "661e30f837adaad0377a7a02b761cc3972386f0b",
   "author": "xTrayambak",
   "description": "Nim bindings to simdutf",
   "license": "Apache-2.0",
@@ -25,7 +25,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-29T07:39:49Z",
+  "generatedAt": "2026-05-29T13:29:44Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

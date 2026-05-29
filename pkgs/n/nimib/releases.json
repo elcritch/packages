@@ -2,13 +2,22 @@
   "cv": 19,
   "name": "nimib",
   "fqn": "nimib.pietroppeter.github.com",
-  "current": "05245fbe7294294953f827a4543585d9c1e2a248",
+  "current": "216dc33835888df6a4add834f3b33efe048eb630",
   "author": "Pietro Peterlongo & Hugo Granström",
   "description": "nimib 🐳 - nim 👑 driven ⛵ publishing ✍",
   "license": "MIT",
   "nim": "1.4.0",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "0.4.0@216dc33835888df6a4add834f3b33efe048eb630^",
+      "r": [
+        "fusion >= 1.2",
+        "markdown >= 0.8.1",
+        "parsetoml >= 0.7.0",
+        "jsony >= 1.1.5"
+      ]
+    },
     {
       "v": "0.3.12@54541820232ee41cfa719fac002c718f5e7d628d",
       "r": [
@@ -254,7 +263,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-29T07:36:28Z",
+  "generatedAt": "2026-05-29T13:23:13Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -284,7 +293,8 @@
       "v0.3.6",
       "v0.3.7",
       "v0.3.8",
-      "v0.3.9"
+      "v0.3.9",
+      "v0.4.0"
     ],
     "tagVersions": {
       "v0.1.1": "0.1.1",
@@ -310,9 +320,10 @@
       "v0.3.6": "0.3.6",
       "v0.3.7": "0.3.7",
       "v0.3.8": "0.3.8",
-      "v0.3.9": "0.3.9"
+      "v0.3.9": "0.3.9",
+      "v0.4.0": "0.4.0"
     },
-    "latest": "v0.3.12"
+    "latest": "v0.4.0"
   },
   "allDeps": {
     "packages": [
@@ -320,7 +331,7 @@
       "fusion > 0.3.9",
       "jsony > 0.3.5",
       "markdown",
-      "mustache",
+      "mustache <= 0.3.12",
       "parsetoml > 0.3.5",
       "results > 0.1.6 & <= 0.3.5",
       "serialization > 0.1.6 & <= 0.3.5",
