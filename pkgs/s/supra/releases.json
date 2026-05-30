@@ -38,10 +38,12 @@
     "packages": [
       "ansiparse",
       "bigints",
+      "blackpaper",
       "checksums",
       "db_connector",
       "emitter",
       "flatty",
+      "floof",
       "greskewel",
       "htmlparser",
       "illwill",

@@ -22,6 +22,10 @@
   "allDeps": {
     "packages": [
       "bigints",
+      "blackpaper",
+      "floof",
+      "nimsimd",
+      "openparser",
       "valido"
     ],
     "urls": [],

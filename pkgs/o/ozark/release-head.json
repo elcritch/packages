@@ -1,1 +1,1 @@
-{"v":"#head@358dcb031d5062660352edc070f3e73269a24ad6","r":["db_connector","threading","openparser","voodoo #head","greskewel"]}
+{"v":"#head@33c49dc67dcc9b7138a225dc452d73b2c0262b1d","r":["db_connector >= 0.1.0","threading >= 0.2.1","openparser >= 0.1.2","voodoo >= 0.1.9","greskewel"]}

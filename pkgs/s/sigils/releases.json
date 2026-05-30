@@ -261,15 +261,6 @@
       ]
     },
     {
-      "v": "0.15.0@28ba40a681591a5034ba08ecea3f524938815d99",
-      "r": [
-        "variant >= 0.2.12",
-        "threading >= 0.2.1",
-        "stack_strings",
-        "patty >= 0.3.4"
-      ]
-    },
-    {
       "v": "0.14.4@95fc902fad3a683abe25d81c84cbada18da59841",
       "r": [
         "variant >= 0.2.12",
@@ -603,7 +594,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-30T12:38:22Z",
+  "generatedAt": "2026-05-30T18:38:12Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

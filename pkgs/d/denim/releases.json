@@ -85,7 +85,9 @@
     "packages": [
       "ansiparse",
       "bigints",
+      "blackpaper",
       "checksums",
+      "floof",
       "htmlparser",
       "illwill",
       "jsony",

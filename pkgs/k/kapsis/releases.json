@@ -77,7 +77,9 @@
     "packages": [
       "ansiparse > 0.1.1",
       "bigints > 0.1.1",
+      "blackpaper > 0.1.1",
       "checksums > 0.1.1 & <= 0.2.3",
+      "floof > 0.1.1",
       "htmlparser > 0.1.1",
       "illwill <= 0.2.3",
       "jsony > 0.1.1",

@@ -1,1 +1,1 @@
-{"v":"#head@2c5fde856aa81417d8a3c538f00f517607cc58e8","r":["semver","kapsis #head","libevent #head","flatty","openparser","emitter #head","ozark #head","threading","mimedb #head"]}
+{"v":"#head@abec5dfe64afef76a8fc98e520277acfdae8e664","r":["semver > 1.2.3","kapsis >= 0.3.4","libevent >= 0.1.1","flatty >= 0.4.0","openparser >= 0.1.2","emitter >= 0.1.0","ozark >= 0.1.4","threading >= 0.1.0","mimedb >= 0.1.0"]}

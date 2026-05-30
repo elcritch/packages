@@ -1,1 +1,1 @@
-{"v":"#head@2918dc26f12ab2e77951f485b126d38813aa2616","r":["vmath >= 3.0.0","chroma >= 0.3.0","pixie >= 5.0.0","flatty >= 0.3.0","opengl >= 1.2.3","webby >= 0.2.1","windy >= 0.4.4","silky >= 0.0.2"]}
+{"v":"#head@450604f2c511597a6a9a7e2d0044ad2d3967c7c7","r":["vmath >= 3.0.0","chroma >= 0.3.0","pixie >= 5.0.0","flatty >= 0.3.0","opengl >= 1.2.3","webby >= 0.2.1","windy >= 0.4.4","silky >= 0.0.2","shady >= 0.0.2","metal4 >= 0.1.0"]}

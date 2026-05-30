@@ -32,8 +32,10 @@
     "packages": [
       "ansiparse",
       "bigints",
+      "blackpaper",
       "checksums",
       "denim",
+      "floof",
       "htmlparser",
       "illwill",
       "jsony",

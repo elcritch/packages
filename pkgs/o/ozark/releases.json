@@ -2,13 +2,23 @@
   "cv": 19,
   "name": "ozark",
   "fqn": "ozark.openpeeps.github.com",
-  "current": "358dcb031d5062660352edc070f3e73269a24ad6",
+  "current": "33c49dc67dcc9b7138a225dc452d73b2c0262b1d",
   "author": "George Lemon",
   "description": "A magical ORM for Nim",
   "license": "MIT",
   "nim": "2.0.0",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "0.1.5@33c49dc67dcc9b7138a225dc452d73b2c0262b1d^",
+      "r": [
+        "db_connector >= 0.1.0",
+        "threading >= 0.2.1",
+        "openparser >= 0.1.2",
+        "voodoo >= 0.1.9",
+        "greskewel"
+      ]
+    },
     {
       "v": "0.1.4@77835679bd51c6742a45faf40f4af73258c2c6d6",
       "r": [
@@ -67,13 +77,13 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:33:57Z",
+  "generatedAt": "2026-05-30T18:36:54Z",
   "allDeps": {
     "packages": [
       "db_connector",
       "greskewel > 0.1.1",
       "htmlparser",
-      "jsony",
+      "jsony <= 0.1.4",
       "libffi",
       "nimsimd",
       "openparser",

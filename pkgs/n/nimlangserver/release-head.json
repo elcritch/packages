@@ -1,1 +1,1 @@
-{"v":"#head@b8b924112d074ad54179a4f2dbd6ce6f49623ce4","r":["chronos >= 4.0.4","json_rpc >= 0.5.0","with","chronicles","serialization","json_serialization","stew","regex","unittest2 >= 0.2.4"],"g":true}
+{"v":"#head@f008b1090e0402355029015dccd940651d9b936f","r":["chronos >= 4.0.4","json_rpc >= 0.5.0","with","chronicles","serialization","json_serialization","stew","regex","unittest2 >= 0.2.4"],"g":true}
