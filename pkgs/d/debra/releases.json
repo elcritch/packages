@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "debra",
   "fqn": "nim-debra.elijahr.github.com",
-  "current": "123f29c9efbf9b646f80e385cdde95a690200a89",
+  "current": "d6701c095b777294d151618c59948cca28a84fa7",
   "author": "elijahr <elijahr+debra@gmail.com>",
   "description": "DEBRA+ safe memory reclamation for lock-free data structures",
   "license": "MIT",
@@ -12,6 +12,13 @@
     "nim"
   ],
   "releases": [
+    {
+      "v": "0.9.0@175efe15dcda2e50315e9ede95a5e995bbc988f5",
+      "r": [
+        "typestates >= 0.12.0",
+        "unittest2 >= 0.2.0"
+      ]
+    },
     {
       "v": "0.8.0@8c59f190b57f0e29572fb4077bd8105e31700437",
       "r": [
@@ -116,7 +123,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-30T07:10:27Z",
+  "generatedAt": "2026-05-30T12:33:21Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -135,7 +142,8 @@
       "v0.7.1",
       "v0.7.2",
       "v0.7.3",
-      "v0.8.0"
+      "v0.8.0",
+      "v0.9.0"
     ],
     "tagVersions": {
       "v0.1.0": "0.1.0",
@@ -150,9 +158,10 @@
       "v0.7.1": "0.7.1",
       "v0.7.2": "0.7.2",
       "v0.7.3": "0.7.3",
-      "v0.8.0": "0.8.0"
+      "v0.8.0": "0.8.0",
+      "v0.9.0": "0.9.0"
     },
-    "latest": "v0.8.0"
+    "latest": "v0.9.0"
   },
   "allDeps": {
     "packages": [

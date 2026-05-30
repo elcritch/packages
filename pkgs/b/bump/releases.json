@@ -135,14 +135,6 @@
       "m": "0.20.0"
     },
     {
-      "v": "1.8.16@be210892151075a98c107193e19a678d5382bd83",
-      "r": [
-        "cligen >= 0.9.40",
-        "gh:disruptek/cutelog >= 1.1.0"
-      ],
-      "m": "0.20.0"
-    },
-    {
       "v": "1.8.15@1f60e0b94561f58bf373d2a6105418c0a5f8449b",
       "r": [
         "cligen >= 0.9.40",
@@ -468,7 +460,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-30T07:09:23Z",
+  "generatedAt": "2026-05-30T12:32:40Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

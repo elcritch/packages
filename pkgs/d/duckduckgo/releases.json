@@ -58,10 +58,10 @@
       "scraper"
     ],
     "urls": [
+      "error://findxml",
       "error://useragent <= 0.1.0"
     ],
     "unresolved": [
-      "gh:thisago/findxml",
       "gl:lurlo/useragent"
     ]
   }

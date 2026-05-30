@@ -2,13 +2,23 @@
   "cv": 19,
   "name": "vancode",
   "fqn": "vancode.openpeeps.github.com",
-  "current": "6711dd953689c30e1f5bd6da6d2a782ed28d5c88",
+  "current": "26d773c7e96d5d4f763877b08cd9159d359d1e05",
   "author": "George Lemon",
   "description": "A flexible AST, Codegen and Virtual Machine library",
   "license": "LGPL-3.0-or-later",
   "nim": "2.0.0",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "0.1.1@26d773c7e96d5d4f763877b08cd9159d359d1e05^",
+      "r": [
+        "gccjit >= 0.1.0",
+        "voodoo >= 0.1.9",
+        "openparser >= 0.1.0",
+        "flatty >= 0.4.0",
+        "checksums >= 0.2.2"
+      ]
+    },
     {
       "v": "0.1.0@c0bc062696800b8b040548bb6e594dd8b3869169",
       "r": [
@@ -25,22 +35,22 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:38:31Z",
+  "generatedAt": "2026-05-30T12:39:19Z",
   "allDeps": {
     "packages": [
       "checksums",
-      "dotenv",
+      "dotenv <= 0.1.0",
       "flatty",
       "gccjit",
       "htmlparser",
-      "jsony",
+      "jsony <= 0.1.0",
       "libffi",
       "nimsimd",
-      "nyml",
+      "nyml <= 0.1.0",
       "openparser",
-      "pkginfo",
-      "semver",
-      "toktok",
+      "pkginfo <= 0.1.0",
+      "semver <= 0.1.0",
+      "toktok <= 0.1.0",
       "voodoo"
     ],
     "urls": [],

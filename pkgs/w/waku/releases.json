@@ -68,9 +68,27 @@
     },
     {
       "v": "0.37.4@79bc9fd421d0c0de12cf2a9f87a3a77e5b4f5feb",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
+      "r": [
+        "chronicles",
+        "confutils",
+        "chronos",
+        "dnsdisc",
+        "eth",
+        "json_rpc",
+        "libbacktrace",
+        "nimcrypto",
+        "serialization",
+        "stew",
+        "stint",
+        "metrics",
+        "libp2p >= 1.14.2",
+        "web3",
+        "presto",
+        "regex",
+        "results",
+        "db_connector",
+        "minilru"
+      ]
     },
     {
       "v": "0.37.3@f3852c3a439353d74f3b7175fe3347e4f5aecd32",
@@ -766,7 +784,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-30T07:21:14Z",
+  "generatedAt": "2026-05-30T12:39:32Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

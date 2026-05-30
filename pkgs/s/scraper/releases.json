@@ -12,18 +12,20 @@
     {
       "v": "0.1.0@2d9de467078f9197369f70328010231ed7305a54",
       "r": [
-        "gh:thisago/findxml"
-      ]
+        "error://findxml"
+      ],
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/scraper.thisago.github.com-2d9de467-scraper.nimble\ncannot resolve package name: findxml"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-30T07:18:49Z",
+  "generatedAt": "2026-05-30T12:38:09Z",
   "allDeps": {
     "packages": [],
-    "urls": [],
-    "unresolved": [
-      "gh:thisago/findxml"
-    ]
+    "urls": [
+      "error://findxml"
+    ],
+    "unresolved": []
   }
 }

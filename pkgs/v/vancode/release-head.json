@@ -1,1 +1,1 @@
-{"v":"#head@d8f2bd2aa80d1a68910e4b58aed02b80dd9fc677","r":["gccjit","voodoo #head","openparser #head","flatty #head","checksums","dotenv","nyml","semver"]}
+{"v":"#head@26d773c7e96d5d4f763877b08cd9159d359d1e05","r":["gccjit >= 0.1.0","voodoo >= 0.1.9","openparser >= 0.1.0","flatty >= 0.4.0","checksums >= 0.2.2"]}
