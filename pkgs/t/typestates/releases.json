@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "typestates",
   "fqn": "nim-typestates.elijahr.github.com",
-  "current": "9b5a9709822f54d4cb7a07bb0cbb2cfca6e4f955",
+  "current": "86f55fae5cbb02bae8fba050a6293b04e0468448",
   "author": "elijahr <elijahr+typestates@gmail.com>",
   "description": "Compile-time typestate validation for Nim",
   "license": "MIT",
@@ -16,6 +16,10 @@
     "typestates_bin": "typestates"
   },
   "releases": [
+    {
+      "v": "0.12.0@0db7eeefc2ea5123d802c902db2762de5d7ec53c",
+      "r": []
+    },
     {
       "v": "0.11.0@d4473e9544577e1bb49fdbd0979cb0702c78abb4",
       "r": []
@@ -93,7 +97,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-30T00:58:17Z",
+  "generatedAt": "2026-05-30T07:20:40Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -103,6 +107,7 @@
       "v0.1.0",
       "v0.10.0",
       "v0.11.0",
+      "v0.12.0",
       "v0.2.0",
       "v0.2.1",
       "v0.3.0",
@@ -123,6 +128,7 @@
       "v0.1.0": "0.1.0",
       "v0.10.0": "0.10.0",
       "v0.11.0": "0.11.0",
+      "v0.12.0": "0.12.0",
       "v0.2.0": "0.2.0",
       "v0.2.1": "0.2.1",
       "v0.3.0": "0.3.0",
@@ -139,7 +145,7 @@
       "v0.9.1": "0.9.1",
       "v0.9.3": "0.9.3"
     },
-    "latest": "v0.11.0"
+    "latest": "v0.12.0"
   },
   "allDeps": {
     "packages": [],
